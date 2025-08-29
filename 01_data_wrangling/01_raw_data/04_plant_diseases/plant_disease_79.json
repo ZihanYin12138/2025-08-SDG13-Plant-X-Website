@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "id": 79,
+      "common_name": "Powdery mildew",
+      "scientific_name": "Sphaerotheca macularis",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Powdery mildew  (Podosphaera aphanis)?",
+          "description": "Powdery mildew in strawberries, caused by Podosphaera aphanis previously known as Sphaerotheca macularis, is a fungal disease characterized by powdery white or gray growth on leaves, fruit, stolons, and flowers. It is widespread and affects strawberry crops worldwide. Besides strawberries, other plants like Lady's-mantle, Cinquefoil, Eucalyptus, and Rubus species can also be infected. Symptoms include small white patches on leaves that gradually cover the entire leaf. Some varieties develop yellow or reddish-brown spots on the upper leaf surface. Leaves may curl, and infected flowers can result in deformed fruit. Young leaves and fruit are more susceptible, with resistance increasing as they mature."
+        },
+        {
+          "subtitle": "How does Powdery mildew (Podosphaera aphanis) occur?",
+          "description": "Podosphaera aphanis is a fungus that specifically infects the living tissue of wild or cultivated strawberries. It commonly spreads through infected transplants, which serve as the main source of the disease in fruiting fields. Powdery mildew thrives in moderate to high humidity and temperatures between 60°F and 80°F. Rain, dew, and overhead irrigation hinder its development. Greenhouse or plastic tunnels can worsen the disease. In Central Florida, the most severe period is usually November to December, with a decrease in January and early February, but a possible resurgence in late February and March."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": " Cultural Control ",
+          "description": "1.\tRenovation: Destroy old leaves after harvest to reduce inoculum.\n\n2.\tResistant Cultivars: Plant varieties with resistance to powdery mildew.\n\n3.\tControlled Irrigation: Use frequent short-duration overhead irrigation to remove spores without prolonged leaf wetness.\n\n4.\tUV-C Light: Apply nighttime UV-C light treatments once or twice weekly to suppress powdery mildew.\n"
+        },
+        {
+          "subtitle": "Biological Control",
+          "description": "There are several biological control options for powdery mildew, including Aviv (Bacillus subtilis strain IAB/BS03), Howler (Pseudomonas chlororaphis strain AFS009), LifeGard WG (Bacillus mycoides isolate J), Serenade OPTI (Bacillus subtilis strain QST 713), and Theia (Bacillus subtilis strain AFS032321)."
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "•\tFungicides that are effective against powdery mildew include sulfur, quinoxyfen (Quintec), cyflufenamid (Torino), myclobutanil (Rally®), triflumizole (Procure®), propiconazole (Orbit®), tetraconazole ( Mettle), pyraclostrobin + fluxapyroxad (Merivon®), and penthiopyrad (Fontelis™). \n\n•\tRotate between different fungicides with different modes of action to prevent the development of resistance.\n\n•\tPlease note that product availability and regulations may vary by region, and it's essential to carefully read and follow the instructions and recommendations provided by the manufacturer and local authorities.\n"
+        }
+      ],
+      "host": [
+        "caneberry",
+        "strawberry"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/79_sphaerotheca_macularis/og/Mycosphaerella_fragariae.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/79_sphaerotheca_macularis/regular/Mycosphaerella_fragariae.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/79_sphaerotheca_macularis/medium/Mycosphaerella_fragariae.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/79_sphaerotheca_macularis/small/Mycosphaerella_fragariae.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/79_sphaerotheca_macularis/thumbnail/Mycosphaerella_fragariae.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1768,
+      "species_id": 257,
+      "common_name": "Samaritan Chinese Dogwood",
+      "scientific_name": [
+        "Cornus kousa 'Samaritan'"
+      ],
+      "section": [
+        {
+          "id": 5509,
+          "type": "watering",
+          "description": "Watering for Samaritan Chinese Dogwood varies depending on the season. During the summer months the plant should receive a deep watering at least once per week, although this could be increased to twice a week when the weather is particularly hot and dry. During the winter months the plant should be watered at least once a month, unless natural precipitation is sufficient to meet the plant's needs. It is important to avoid soggy or excessively wet soils, as this can lead to root problems."
+        },
+        {
+          "id": 5510,
+          "type": "sunlight",
+          "description": "Samaritan Chinese Dogwood (Cornus kousa 'Samaritan') will do best in bright, indirect sunlight, although it can tolerate some shade. It should be planted in a spot that receives at least 4 to 6 hours of direct sunlight each day, preferably in the morning hours. During summer months, it can possibly receive full sun (6-8 hours) as long as proper watering is maintained."
+        },
+        {
+          "id": 5511,
+          "type": "pruning",
+          "description": "Samaritan Chinese Dogwood should be pruned twice a year for optimal health and maintenance. In the late winter or early spring (February to March)remove any damaged, diseased, or dead branches. Also, remove any suckers and any branches that are crossing each other or growing into the center of the plant. After flowering, around May to June, deadhead the flowers and thin out the branches, taking care not to remove too many from the center so that light can still reach the inside. It’s important to use a sharp clean pruning tool when pruning your dogwood to prevent infection and damage to the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1693,
+      "species_id": 167,
+      "common_name": "Joe Witt Snakebark Maple",
+      "scientific_name": [
+        "Acer tegmentosum 'Joe Witt'"
+      ],
+      "section": [
+        {
+          "id": 5284,
+          "type": "watering",
+          "description": "Joe Witt Snakebark Maple should be watered once a week or every 5 to 7 days. The amount of water should be sufficient to moisten the soil to a depth of 6 to 8 inches. Be sure not to water too frequently as this can cause root rot. Also, it's best to avoid overwatering; allow the soil to dry slightly between waterings. If the soil becomes too dry, it can cause the leaves to drop and become weak. During the hottest months, it may need more water. Generally, it is best to water the plant in the morning so moisture has time to evaporate before night, or you can water in the evening if temperatures for the day have been cooler."
+        },
+        {
+          "id": 5285,
+          "type": "sunlight",
+          "description": "Joe Witt Snakebark Maple prefers full sun or partial sun, receiving at least 4 hours of direct sunlight each day. For optimal growth and flowering, it should be exposed to morning sunlight and some early afternoon sun. In warmer climates, some afternoon shade may be beneficial to prevent leaf scorching from the intense afternoon sun. When grown in shadier areas, it may not flower as heavily and its overall growth may be slower."
+        },
+        {
+          "id": 5286,
+          "type": "pruning",
+          "description": "Joe Witt Snakebark Maple should be pruned moderately to maintain its shape and to encourage new growth. The best time for pruning is in the late winter, before the plant pushes out new growth in the spring. Minor pruning can be done throughout the growing season, but major pruning should not be done until the late winter. To properly prune Joe Witt Snakebark Maple, remove dead or diseased branches and open up the crown of the tree by removing crossing or inward-growing branches. Pruning should be done lightly in order to avoid removing too much of the tree’s foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

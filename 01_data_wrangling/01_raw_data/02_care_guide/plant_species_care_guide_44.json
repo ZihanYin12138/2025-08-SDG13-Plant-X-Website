@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1585,
+      "species_id": 44,
+      "common_name": "Bonfire Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Bonfire'"
+      ],
+      "section": [
+        {
+          "id": 4945,
+          "type": "watering",
+          "description": "Bonfire Japanese Maple (Acer palmatum 'Bonfire') should be watered generously and evenly when the soil has dried out. This is usually every 5 to 7 days during the summer months, depending on the temperature and sunlight exposure. Look for water signs in the soil (e.g. dryness, lack of moisture), and adjust the watering frequency accordingly. During the winter months, the tree should be watered less frequently— every 10-14 days or so. If there is snowfall or excessive rainfall in the area, then you should water less often. Also, make sure to keep the soil around the roots evenly moist, but not soggy."
+        },
+        {
+          "id": 4946,
+          "type": "sunlight",
+          "description": "Bonfire Japanese maple (Acer palmatum 'Bonfire') is a deciduous shrub or small tree that is best grown in well-drained soil in full sun to part shade. It thrives in full sun when grown in moist, moderately fertile soil, but will still tolerant some shade. It benefits from at least 6 to 8 hours of direct sunlight per day (morning sun is preferred) to maintain its vibrant coloring. Plants grown in too much shade can look washed out or become prone to powdery mildew."
+        },
+        {
+          "id": 4947,
+          "type": "pruning",
+          "description": "It is important to prune Bonfire Japanese Maples each year in late winter or early spring before the leaves emerge. Pruning should be done cautiously to avoid cutting back too much. Shaping the tree should be done by removing branches that cross and rubbing branch tips. It's best to remove only 1/4 to 1/3 of the tree's crown to maintain its structure and balance. Pruning should be focused on selectively removing stems, including dead wood, limbs that are growing in an inappropriate direction, and branches that are directly competing with the more desireable ones. This allows sunlight to penetrate the inside of the tree and creates a more visually pleasing shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

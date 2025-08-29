@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1675,
+      "species_id": 147,
+      "common_name": "Harlequin Norway Maple",
+      "scientific_name": [
+        "Acer platanoides 'Drummondii'"
+      ],
+      "section": [
+        {
+          "id": 5230,
+          "type": "watering",
+          "description": "This plant species should be watered once every 2 weeks, giving it 1 inch of water each time. It is best to water it in the morning when the sun isn't at its hottest; this will allow the moisture to be absorbed more easily. Make sure to water the entire root system and water around the base of the plant, rather than at the leaves or trunk as this can cause disease. If the soil is dry about 1 inch deep, then it is time for another watering. To check the soil moisture, use a wooden or metal stake and push it into the soil. It should come out slightly damp."
+        },
+        {
+          "id": 5231,
+          "type": "sunlight",
+          "description": "Harlequin Norway Maple grows best in full sunlight for at least 6 hours of direct sunlight per day throughout the growing season. This species does well in part shade, but its growth and flowering will be significantly less than in full sun. In areas with intense summer sun, afternoon shade may be beneficial to the plant. Morning sun is generally the most useful with more shade in afternoon hours."
+        },
+        {
+          "id": 5232,
+          "type": "pruning",
+          "description": "Harlequin Norway Maple should be pruned annually in late winter or early spring, just before the start of new growth. This species of maple is best pruned to thin the canopy and reduce the height and width of the tree. Selecting strong, healthy branches to keep and removing those that are weak or crossing should be done first. Then dead, diseased and damaged branches should be removed. A broom type pruning can then be used to lighten the canopy. Prune the branch tips back to a point just beyond the branch collar; this will aid in proper healing and discourage decay in the pruned branches. If the tree has become overgrown, it can be pruned up to 1-third of its size. Harlequin Norway Maple responds well to pruning and can be kept to a manageable size with minimal effort."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

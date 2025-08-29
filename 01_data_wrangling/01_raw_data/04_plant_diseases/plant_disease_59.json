@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 59,
+      "common_name": "Red thread",
+      "scientific_name": "Laetisaria fuciformis",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Red thread (Laetisaria fuciformis)?",
+          "description": "The Red thread is a common fungal disease caused by the fungus Laetisaria fuciformis. It affects various plants, including turfgrass like fine fescues and perennial ryegrass. This disease often occurs in lawns with low nitrogen levels, especially during wet summers. Infected plants display pinkish-red or tan thread-like structures called sclerotia on leaves and stems. Brown or straw-colored patches on foliage serve as visual signs of this distinctive fungal infection. These patches can vary in size from 7.5cm (3in) to 25cm (10in) or even larger. Red thread can also impact ornamental grasses and certain broadleaf plants."
+        },
+        {
+          "subtitle": "How does Red thread (Laetisaria fuciformis) occur?",
+          "description": "During unfavorable periods, the fungus survives as a desiccated stroma or within the infected plant material. Spores, dispersed through water, wind, and human activities, play a crucial role in their spread. Moisture on leaves is essential for germination and infection. Red thread thrives in cooler weather with optimal temperatures between 60-75°F; growth declines above 75°F and stops at 85°F. The fungus persists through its asexual reproductive cycle, continually producing conidia, facilitating its spread and longevity."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices",
+          "description": "•\tUse nitrogen-rich fertilizers to promote grass growth.\n•\tImprove soil drainage through aeration.\n•\tWater deeply but less frequently to prevent excessive moisture.\n•\tMaintain proper mowing height and remove thatch and debris.\n•\tClean tools to prevent disease spread.\n•\tApply nitrogen fertilizer to control red thread.\n•\tIn severe cases, consider professional treatment for effective management of the disease.\n\n"
+        }
+      ],
+      "host": [
+        "bentgrasses",
+        "bermudagrass",
+        "bluegrass",
+        "fescues",
+        "ryegrasses"
+      ],
+      "images": [
+        {
+          "license": 4,
+          "license_name": "Attribution License",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/",
+          "original_url": "https://perenual.com/storage/species_disease/59_laetisaria_fuciformis/og/31579500936_953c3fc5e2_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/59_laetisaria_fuciformis/regular/31579500936_953c3fc5e2_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/59_laetisaria_fuciformis/medium/31579500936_953c3fc5e2_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/59_laetisaria_fuciformis/small/31579500936_953c3fc5e2_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/59_laetisaria_fuciformis/thumbnail/31579500936_953c3fc5e2_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1598,
+      "species_id": 60,
+      "common_name": "Higasa Yama Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Higasa Yama'"
+      ],
+      "section": [
+        {
+          "id": 4993,
+          "type": "watering",
+          "description": "For best results, Higasa Yama Japanese Maple should be watered deeply once a week throughout the growing season, from spring to mid-autumn. During this time, ensure that the soil remains moist but not soggy. In the fall, begin to taper off watering to allow for dormancy in the winter. During the winter, you should only water the plant if the soil becomes dry - otherwise, allow it to rest and conserve energy. If you live in an area with hot summers, you may need to water more frequently to keep the soil moist, but do not water to the point of saturation."
+        },
+        {
+          "id": 4994,
+          "type": "sunlight",
+          "description": "The Higasa Yama Japanese Maple is a shade-tolerant species, so it requires only a few hours of direct sunlight. This species is best suited for locations that get morning sun and afternoon shade or dappled light all day. It is important to protect the plant from harsh midday sun in more temperate regions. For optimal health, provide the plant with at least 5 hours of indirect, filtered sunlight per day."
+        },
+        {
+          "id": 4995,
+          "type": "pruning",
+          "description": "Pruning the Higasa Yama Japanese Maple (Acer palmatum 'Higasa Yama') should be done in late winter or early spring, when the maple is still dormant. Pruning should be moderate and mainly for the purpose of shaping or removing dead branches. If desired, some of the new spring growth can be removed to maintain the desired shape of the tree or keep it in bounds. Make sure not to prune more than 1/3 of the branches in a single season. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

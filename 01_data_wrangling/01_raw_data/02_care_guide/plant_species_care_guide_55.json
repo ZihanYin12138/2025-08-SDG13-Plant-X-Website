@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1593,
+      "species_id": 55,
+      "common_name": "Grandma Ghost Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Grandma Ghost'"
+      ],
+      "section": [
+        {
+          "id": 4978,
+          "type": "watering",
+          "description": "Grandma Ghost Japanese Maple (Acer palmatum 'Grandma Ghost') should be watered regularly throughout the growing season (spring to early fall). This plant prefers moist but well-drained soils and should be watered when the top 2\" of soil feels dry to the touch. Water deeply and thoroughly once or twice per week so that the roots have enough water to sustain the tree. It is important to be careful not to overwater, as too much water can lead to root rot."
+        },
+        {
+          "id": 4979,
+          "type": "sunlight",
+          "description": "Grandma Ghost Japanese Maple is best suited to grow in full sun or part shade. In the summer, the plant requires full sun for approximately 6-8 hours a day, and should be protected from hot afternoon sun. In the winter, the plant should all available sun throughout the day, as the days are shorter. Partial shade should be provided in order to protect the foliage from burning during extreme temperatures."
+        },
+        {
+          "id": 4980,
+          "type": "pruning",
+          "description": "Grandma Ghost Japanese Maple should be pruned annually, preferably in late winter or early spring, but before buds begin to open. Prune out crossing branches and dead wood, as well as any branches that may be growing in an undesirable direction or shape. Pruning should be light, as Grandma Ghost Japanese Maple has delicate branches and foliage that need minimal manipulation. Pruning should not go past removing only 20-30% of the total foliage or wood. Pruning should also not be done in 1 year. It should be done over several years to avoid causing too much stress to the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1749,
+      "species_id": 236,
+      "common_name": "Constellation Flowering Dogwood",
+      "scientific_name": [
+        "Cornus 'Constellation'"
+      ],
+      "section": [
+        {
+          "id": 5452,
+          "type": "watering",
+          "description": "Constellation Flowering Dogwood (Cornus 'Constellation') should be given 1 to 2 inches of water per week, either from rainfall or manual watering. During its first growing season, water deeply and regularly to help it establish a strong root system. Monitor the soil moisture and water when it begins to dry out, ensuring that the soil stays evenly moist but not overly saturated. Water the root zone instead of the leaves, and avoid getting the leaves wet to reduce the risk of fungal diseases. In times of extreme heat or drought, increase watering accordingly."
+        },
+        {
+          "id": 5453,
+          "type": "sunlight",
+          "description": "Constellation Flowering Dogwood (Cornus 'Constellation') prefers full sun, or at least 6-8 hours of direct sunlight every day. It is also important to note that even though they prefer full sun, they should not be exposed to direct sunlight for more than 8 hours, as it can lead to leaf burn. It is important to keep this in mind, as too much direct sunlight can cause the plant to become stressed and hinder growth. This plant should get sunlight for the majority of the day, preferably from about 8am until 5pm."
+        },
+        {
+          "id": 5454,
+          "type": "pruning",
+          "description": "Constellation Flowering Dogwood should be pruned lightly in early spring to preserve its shape and remove any dead branches. For light pruning, make any necessary cuts to shape the plant; however, avoid pruning too much as the foliage of this dogwood variety is its main attraction. On occasion, Constellation Flowering Dogwood may need more extensive pruning to remove any crossed or broken branches that are detracting from the look of the plant. This should be done in early to mid-spring before new growth has started. Since this tree can become large, it may need to be pruned as needed to maintain a certain size or to keep its shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

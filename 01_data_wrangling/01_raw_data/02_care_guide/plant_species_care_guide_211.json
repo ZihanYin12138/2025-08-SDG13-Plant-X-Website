@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1727,
+      "species_id": 211,
+      "common_name": "Weeping Katsura Tree",
+      "scientific_name": [
+        "Cercidiphyllum japonicum 'Pendulum'"
+      ],
+      "section": [
+        {
+          "id": 5386,
+          "type": "watering",
+          "description": "The Weeping Katsura Tree should be watered regularly and should not be allowed to dry out. In general, a weekly deep watering of 1-2 inches is suggested. Water the tree in the morning so that foliage will be dry by nightfall, which decreases the risk of diseases. If temperatures are hot, then additional watering may be necessary, typically every 2-3 days. It is also recommended that a 3-4 inch layer of organic mulch (e.g., shredded wood, bark, cocoa hulls, pine needles, etc.) be applied around the base of the tree to conserve soil moisture."
+        },
+        {
+          "id": 5387,
+          "type": "sunlight",
+          "description": "The Weeping Katsura Tree requires full sun to partial shade for optimal growth and health. In full sun, the tree should receive at least 6 hours of direct sunlight per day. For best results, direct sun should be avoided during the hottest part of the day (noon to 4 p.m.), as this can cause foliage to scorch. "
+        },
+        {
+          "id": 5388,
+          "type": "pruning",
+          "description": "Weeping Katsura Tree (Cercidiphyllum japonicum 'Pendulum') should be pruned when necessary to achieve the desired shape and size. Pruning should be done lightly in the early spring, after the danger of frost has subsided. This tree can grow quite large and tends to have a drooping habit, so it’s important to remove any branches that hang too low or rub against other branches. The tree responds to light pruning quite well, but it is essential to keep the shape of the canopy in mind while pruning. To prevent the branches from becoming too dense, thinning out the canopy is also recommended. It is best not to hesitate and to prune while the tree is still young."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

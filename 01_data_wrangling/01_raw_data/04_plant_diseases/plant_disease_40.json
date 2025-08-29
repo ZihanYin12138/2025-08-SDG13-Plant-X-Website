@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": 40,
+      "common_name": "Avocado root rot",
+      "scientific_name": "Phytophthora cinnamomi",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Avocado root rot (Phytophthora cinnamomi)?",
+          "description": "Avocado root rot is caused by Phytophthora cinnamomi, a pathogen that affects avocado trees. It is found worldwide in avocado-growing regions, such as California, Florida, Australia, and Latin America. Besides avocados, other plants like fruit trees and ornamentals can also be infected. The disease thrives in waterlogged soils with high rainfall or excessive irrigation. Symptoms include leaf yellowing, wilting, branch dieback, and decayed, discolored roots."
+        },
+        {
+          "subtitle": "How does Avocado root rot (Phytophthora cinnamomi) occur?",
+          "description": "Phytophthora cinnamomi reproduces by producing spores. It enters avocado trees through root openings or wounds, forming mycelium inside the roots, which causes damage. In favorable conditions, it develops structures called sporangia that release swimming spores called zoospores. Zoospores actively move through the water in the soil to infect new host roots, starting new infections. This cycle allows the pathogen to spread and infect nearby avocado trees and other susceptible plants."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Proper Irrigation",
+          "description": "Implement proper irrigation practices to prevent overwatering or waterlogging. Avoid excessive irrigation and ensure that the soil has adequate time to dry out between watering sessions."
+        },
+        {
+          "subtitle": "Resistant Rootstocks",
+          "description": " Consider using avocado rootstock varieties that show resistance or tolerance to Phytophthora cinnamomi. These rootstocks can help reduce the susceptibility of the trees to root rot."
+        },
+        {
+          "subtitle": "Soil Drenching",
+          "description": "Systemic fungicides can be applied as soil drenches to target the pathogen directly in the root zone. Follow label instructions and recommended rates for application."
+        },
+        {
+          "subtitle": "Root rot control products",
+          "description": " Biocontrol agents or soil amendments specifically formulated to combat root rot can be applied to enhance root health and suppress the pathogen. These products often contain beneficial microorganisms or organic compounds that promote a healthy soil environment."
+        },
+        {
+          "subtitle": "Soil Improvement and Site Selection",
+          "description": " Improve soil drainage by incorporating organic matter, such as compost, into the planting area. This helps create a more favorable soil environment and reduces the risk of waterlogged conditions."
+        },
+        {
+          "subtitle": "Fungicide applications",
+          "description": "Common fungicides for avocado root rot include metalaxyl-M, phosphorous acid (phosphonate), fosetyl-aluminum, azoxystrobin, propamocarb hydrochloride, and mancozeb. \nConsult local experts for specific recommendations and follow label instructions."
+        }
+      ],
+      "host": [
+        "avocado"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/40_phytophthora_cinnamomi/og/12105344686_394f58bb91_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/40_phytophthora_cinnamomi/regular/12105344686_394f58bb91_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/40_phytophthora_cinnamomi/medium/12105344686_394f58bb91_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/40_phytophthora_cinnamomi/small/12105344686_394f58bb91_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/40_phytophthora_cinnamomi/thumbnail/12105344686_394f58bb91_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

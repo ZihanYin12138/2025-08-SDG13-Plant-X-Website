@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1674,
+      "species_id": 146,
+      "common_name": "Crimson Sentry Norway Maple",
+      "scientific_name": [
+        "Acer platanoides 'Crimson Sentry'"
+      ],
+      "section": [
+        {
+          "id": 5227,
+          "type": "watering",
+          "description": "Crimson Sentry Norway Maple plants should be watered thoroughly once every 1 to 2 weeks. Water the soil until it feels moist down at least 4 inches. Do not let the soil dry out completely, but allow the top inch or 2 of soil to dry out before the next watering. When any additional water is necessary, such as in times of drought, water the soil an additional inch or 2 per week."
+        },
+        {
+          "id": 5228,
+          "type": "sunlight",
+          "description": "Crimson Sentry Norway Maple (Acer platanoides 'Crimson Sentry') prefers full sun, with at least 6 hours of direct sunlight each day. This will help the tree to stay dense and healthy. Planting the tree in an area that receives dappled shade for part of the day may help to protect it from harsh summer sunburn. If planting the tree in a predominantly shady location, supplemental lighting may be needed to ensure that it receives enough sunlight."
+        },
+        {
+          "id": 5229,
+          "type": "pruning",
+          "description": "Crimson Sentry Norway Maple can be pruned in early spring or fall. Pruning should be light and selective, removing deadwood, diseased, or crossing branches. To maintain its future shape, it is a good idea to remove shoots that shoot out too far from the centre of the tree, as well as removing any shoots that disturb the symmetry of the tree. It is important to not prune off too much foliage from the tree and in general no more than 10-20% of the foliage should be removed. Light pruning can help the tree retain a more manageable size and provide better air circulation."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

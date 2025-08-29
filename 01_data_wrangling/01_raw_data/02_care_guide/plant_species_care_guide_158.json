@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1686,
+      "species_id": 158,
+      "common_name": "Green Mountain Sugar Maple",
+      "scientific_name": [
+        "Acer saccharum 'Green Mountain'"
+      ],
+      "section": [
+        {
+          "id": 5263,
+          "type": "watering",
+          "description": "The Green Mountain Sugar Maple is a fast-growing species of maple tree. It requires regular watering during its active growing season, which is typically from spring to late fall. In general, this tree should be watered often, but not excessively. Generally, water the tree once every 7 to 10 days or so during the active growing season, providing an inch of water each time. Watering should be performed at the base of the tree, keeping it away from other foliage and root systems. During the late fall and early winter, watering should still be provided when it is dry, but the frequency should be decreased. During the coldest winter months, the Green Mountain Sugar Maple tree should not be watered at all."
+        },
+        {
+          "id": 5264,
+          "type": "sunlight",
+          "description": "Green Mountain Sugar Maple is an excellent choice for a sunny location. This species prefers full sun or partial shade for optimal growth and maintenenance of its health and beauty. It will tolerate more shade in the northern regions, while more sun may be necessary for optimal development in the southern regions. To provide adequate sunlight for Green Mountain Sugar Maple, plant it in an area that receives 6 or more hours of direct sunlight per day. This species can also tolerate some afternoon shade to help protect it from the intense summer sun."
+        },
+        {
+          "id": 5265,
+          "type": "pruning",
+          "description": "Green Mountain Sugar Maples (Acer saccharum 'Green Mountain') should be pruned each year during the dormant season - typically late winter or early spring. Pruning should be minimal in order to avoid damaging the tree, and should be focused on removing dead, dying, or damaged branches, and any crossing branches. The Sugar Maple should also be pruned to remove branches that are too low near the ground, and branches that are rubbing against each other and causing damage. After the initial pruning, a light tip pruning can be done to improve tree structure and reduce the size of larger branches. Repeated yearly pruning will help keep the Green Mountain Sugar Maple healthy, safe, and looking its best."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

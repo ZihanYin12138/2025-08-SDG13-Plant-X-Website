@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1793,
+      "species_id": 296,
+      "common_name": "Ginkgo",
+      "scientific_name": [
+        "Ginkgo biloba"
+      ],
+      "section": [
+        {
+          "id": 5584,
+          "type": "watering",
+          "description": "Ginkgo (Ginkgo biloba) should be watered thoroughly and deeply when its soil begins to dry out. During periods of prolonged dryness or extended periods of hot weather, it may need to be watered twice a week. Water Ginkgo until the water runs out from the holes in the bottom of the container, and wait until the top 2-3 inches of soil are dry before re-watering. Avoid prolonged periods of soaking wet soil, as this will lead to root rot.\n\nIf grown outdoors, Ginkgo should need less frequent watering than those grown indoors. If it is grown in soil, water irrigations should be provided to the soil every 10 to 14 days during the summer months. During the winter, Ginkgo should need less frequent waterings. If it is grown in a pot, water it whenever the top inch of soil becomes dry. Allow the water to thoroughly saturate the soil before draining."
+        },
+        {
+          "id": 5585,
+          "type": "sunlight",
+          "description": "Ginkgo (Ginkgo biloba) is best suited to a sunny spot with indirect sunlight, preferably for a few hours in the afternoon or morning. The plant will perform best if given at least 5 hours of direct sunlight and 3 hours of indirect sunlight daily. In hot climates, Ginkgo should be given some light shade in the hottest part of the day. When planted in a spot with too little light, the growth and development of Ginkgo will be stunted and its leaves may become pale."
+        },
+        {
+          "id": 5586,
+          "type": "pruning",
+          "description": "Ginkgo (Ginkgo biloba) trees should be pruned once per year, usually in late winter or early spring, when the tree is at its most dormant. Pruning should be done conservatively and with care, since the tree is sensitive to disturbance and severe pruning can be damaging. For normal maintenance purposes, any dead, diseased, or damaged wood should be removed and stems that are crossing or rubbing over 1 another should be thinned out to allow air and light penetration. When pruning, avoid removing any significant amount of healthy wood, since this can harm the tree's overall structure and growth. Instead, focus on removing sprouts and branches that are smaller and growing too close to the main structure of the tree. Be sure to use sharp, clean pruning tools and sanitize the blades between cuts to help prevent spreading airborne diseases."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

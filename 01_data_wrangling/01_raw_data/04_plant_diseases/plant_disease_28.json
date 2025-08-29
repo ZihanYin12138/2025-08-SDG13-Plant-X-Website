@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "id": 28,
+      "common_name": "Eutypa dieback",
+      "scientific_name": "Eutypa lata",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Eutypa dieback (Eutypa Lata)?",
+          "description": "Eutypa dieback, caused primarily by the fungus Eutypa lata, is a trunk disease that affects various plants, including grapes, apricot, cherry, and other woody species. It is distributed globally, with a more significant impact in coastal growing areas. The disease causes delayed shoot emergence, dwarfed and chlorotic leaves, shoot dieback and the formation of wedge-shaped wood cankers. Infected plants exhibit limb cankers with dark, roughened bark, and discolored wood. Over time, the disease can lead to the death of spurs, arms, cordons, and even sections of the trunk."
+        },
+        {
+          "subtitle": "How does Eutypa dieback (Eutypa Lata) occur?",
+          "description": "Eutypa lata reproduces through ascospores, which are spread by splashing irrigation, rain, and wind. The fungus infects plants through wounds, especially pruning wounds. It establishes a long-lasting wood infection, causing decay and weakening of the plant tissues. In diseased wood, spore-producing structures called perithecia form and release spores during winter rainfall, initiating new infections in susceptible plants. "
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Preventative Practices",
+          "description": "•\tDelay pruning until February or later to reduce susceptibility to infection and avoid peak spore release during rainy periods.\n\n•\tDouble pruning, involving pre-pruning in early winter followed by hand pruning in February or later, can be effective for large vineyards.\n\n•\tRemove and destroy infected wood during spring and summer pruning.\n\n•\tRetrain new cordons or trunks to maintain production, as infections are often concentrated in the upper vine framework.\n\n•\tUse proper training and trellising systems for good airflow and sunlight penetration.\n"
+        },
+        {
+          "subtitle": "Pruning-Wound Protectants",
+          "description": "•\tUse fungicides like Thiophanate-methyl (Topsin-M WSB), Myclobutanil (Rally 40WSP), or Tetrconazole (Mettle 125ME) to protect pruning wounds from infection.\n\n•\tConsider using alternative materials like a wound sealant with 5% boric acid in acrylic paint (Tech-Gro B-Lock) or an essential oil (Safecoat VitiSeal).\n"
+        },
+        {
+          "subtitle": "Biological Control",
+          "description": "Use beneficial microorganisms such as Trichoderma spp., Bacillus spp., or Streptomyces spp. as biocontrol agents to suppress fungal pathogens."
+        }
+      ],
+      "host": [
+        "apricot",
+        "grape"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/28_eutypa_lata/og/Eutypa_acharii_194287.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/28_eutypa_lata/regular/Eutypa_acharii_194287.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/28_eutypa_lata/medium/Eutypa_acharii_194287.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/28_eutypa_lata/small/Eutypa_acharii_194287.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/28_eutypa_lata/thumbnail/Eutypa_acharii_194287.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

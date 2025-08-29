@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1743,
+      "species_id": 229,
+      "common_name": "Red Star Whitecedar",
+      "scientific_name": [
+        "Chamaecyparis thyoides 'Red Star'"
+      ],
+      "section": [
+        {
+          "id": 5434,
+          "type": "watering",
+          "description": "Red Star Whitecedar should be watered once a week, using 1-2 inches of water, in order to keep the soil evenly moist. They prefer well-drained soil, so if it's been raining heavily, there is no need to water the plants. Additionally, in hot, dry weather they may need to be watered more often. As a general rule, wait until the top inch of the soil is dry before watering. It's best to water in the morning so that any excess moisture can evaporate before night."
+        },
+        {
+          "id": 5435,
+          "type": "sunlight",
+          "description": "Red Star Whitecedar can be placed in a spot that receives full sun or partial shade. The amount of sunlight is important for this plant species. It should get at least 4 hours of direct sun daily in the summer months. In the winter, when the days are shorter, it should get at least 3 hours of indirect sunlight per day. To get optimal growth, the plant should be placed in a location where it can get full sun in the morning and shade in the afternoon. If the location gets too much direct sunlight during the hottest hours of the day, it can cause stress on the foliage, so some afternoon shade is necessary."
+        },
+        {
+          "id": 5436,
+          "type": "pruning",
+          "description": "Red Star Whitecedar (Chamaecyparis thyoides 'Red Star') is a low-maintenance evergreen conifer. As with most conifers, pruning is not necessary and can be omitted if desired. However, if necessary, prune Red Star Whitecedar beginning in late winter. Pruning can be carried out annually to remove dead, diseased or damaged limbs, or to reshape the plant to improve its appearance. It is also possible to prune to reduce the size of Red Star Whitecedar, but this should be done gradually over several years to avoid stressing the plant. Prune approximately 1/4 of the length of each individual branch over 3 consecutive winters. Cutting back any longer will cause the white cedar to become thin and sparse."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

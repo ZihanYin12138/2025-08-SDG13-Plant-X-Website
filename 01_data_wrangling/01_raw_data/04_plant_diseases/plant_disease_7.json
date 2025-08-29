@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": 7,
+      "common_name": "Almond leaf scorch (Bacterial leaf scorch)",
+      "scientific_name": "Xylella fastidiosa",
+      "other_name": [
+        "Bacterial leaf scorch (almond leaf scorch)",
+        "Pierce's disease",
+        "Oleander leaf scorch"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Almond leaf scorch (Xylella fastidiosa)?",
+          "description": "Almond leaf scorch is a plant disease caused by the bacterium Xylella fastidiosa. It is responsible for causing Pierce's disease in grapevines and alfalfa dwarf disease, affecting a wide range of plant species and weeds. One notable symptom of almond leaf scorch is the distinct golden yellow color that severely infected tree canopies exhibit, leading to the disease being dubbed \"golden death.\" While affected almond trees can survive for several years, their overall health, growth, and productivity are significantly compromised."
+        },
+        {
+          "subtitle": "How does Almond leaf scorch (Xylella fastidiosa) occur?",
+          "description": "Xylella fastidiosa, the bacterium responsible for almond leaf scorch, reproduces and spreads primarily through insect vectors. Insects like leafhoppers and spittlebugs acquire the bacterium while feeding on infected plants and transmit it to healthy plants during subsequent feeding. Infected plants act as reservoirs, allowing the bacterium to persist and spread through insect activity or movement of infected plant material. Additionally, transmission can occur using contaminated grafting or pruning tools.\n"
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Plant Selection and Sanitation",
+          "description": "•\tUse disease-resistant almond tree varieties to reduce susceptibility.\n\n•\tMaintain good orchard hygiene by removing and destroying infected plant material, including infected trees.\n\n•\tPrune and remove infected branches or scaffold limbs below visible symptoms, following proper sanitation practices.\n"
+        },
+        {
+          "subtitle": "Insect Control and Stress Management",
+          "description": "•\tImplement integrated pest management strategies to control insect vectors like leafhoppers and spittlebugs.\n\n•\tPractice proper irrigation techniques to prevent plant stress, as stressed plants are more vulnerable to disease.\n\n•\tTest soil, correct deficiencies/imbalances, and adjust pH if necessary.\n"
+        },
+        {
+          "subtitle": "Chemical Treatments",
+          "description": "•\tAntibiotic injection: Slows disease spread but doesn't cure the tree. Expensive and requires ongoing treatment. Tetracycline, Oxytetracycline, Chlortetracycline and Streptomycin have been used for the treatment of  Xylella fastidiosa in certain cases following local recommendations and regulations. Injection sites can also be prone to colonization by harmful fungi."
+        }
+      ],
+      "host": [
+        "almond",
+        "cherry",
+        "grape",
+        "oleander"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/7_xylella_fastidiosa/og/Ahorn_Krankheit_9980.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/7_xylella_fastidiosa/regular/Ahorn_Krankheit_9980.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/7_xylella_fastidiosa/medium/Ahorn_Krankheit_9980.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/7_xylella_fastidiosa/small/Ahorn_Krankheit_9980.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/7_xylella_fastidiosa/thumbnail/Ahorn_Krankheit_9980.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

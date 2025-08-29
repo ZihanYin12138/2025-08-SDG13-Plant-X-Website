@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1670,
+      "species_id": 141,
+      "common_name": "Emperor I Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Wolff'"
+      ],
+      "section": [
+        {
+          "id": 5215,
+          "type": "watering",
+          "description": "Emperor I Japanese Maple should be watered deeply once every 7-10 days, typically during warmer days. Ensure that the soil is completely moist. Allow the soil to become slightly dry before re-watering the maple tree. Watering should be done early in the morning or late in the afternoon to avoid scorching the leaves from the sun during the day. Make sure that the soil isn’t too wet as this could cause the roots of the maple tree to rot."
+        },
+        {
+          "id": 5216,
+          "type": "sunlight",
+          "description": "Emperor I Japanese Maple (Acer palmatum 'Wolff') should be planted in a location that receives a minimum of 4 hours of sun daily. Direct sun for more than 4 hours each day is tolerated, but usually not recommended. Light shade or lightly filtered sun, especially during the hottest part of the day, is preferable in hot climates. Morning or late afternoon sun is also beneficial for the development of upright growth."
+        },
+        {
+          "id": 5217,
+          "type": "pruning",
+          "description": "Emperor I Japanese Maple should be pruned during the late winter or early spring months. Pruning should be done so that the shape of the tree stays natural and vigorous, and to prevent overgrowth. This species should be lightly pruned each year, with more aggressive pruning happening every 2-3 years to shape and thin out the crown. When pruning, remove any dead, diseased, or crossed branches, as well as water sprouts at the base. Be sure to leave the majority of large branches in place in order to maintain the tree's natural shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

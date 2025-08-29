@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 649,
+      "species_id": 121,
+      "common_name": "Shindeshojo Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Shindeshojo'"
+      ],
+      "section": [
+        {
+          "id": 1949,
+          "type": "watering",
+          "description": "The Shindeshojo Japanese Maple is a low maintenance plant that prefers regular but not excessive watering. This species should be watered once or twice a week, depending on temperatures and soil conditions. During periods of warmer and dryer weather, it may need to be watered more frequently. It is important to check the soil first to ensure it is dry before watering. Always water the plant deeply, allowing the water to penetrate the root zone. Too much water can cause root rot in this species. Be sure to avoid overwatering, and water around the base of the tree, avoiding the foliage."
+        },
+        {
+          "id": 1950,
+          "type": "sunlight",
+          "description": "The Shindeshojo Japanese Maple, also known as Acer palmatum, thrives in full or partial sun. Despite being a partial sun species, it still requires at least 4 hours of direct sunlight each day. That being said, morning is the best time for sunlight as the sun will not be as intense and will not scorch the plant’s leaves. During the warmer months, it is best not to subject the plant to direct sunlight for more than 6 hours a day, as this could damage the foliage."
+        },
+        {
+          "id": 1951,
+          "type": "pruning",
+          "description": "Shindeshojo Japanese Maple (Acer palmatum 'Shindeshojo') should be pruned in early spring, from late February to mid-April, after the coldest weather has passed.  Pruning should be kept minimal, removing only dead, damaged, or congested branches. This plant species benefits from a light shaping each year to maintain its unique leaf color and structure. Cutting back larger, established branches should be done gradually over a few years to ensure that the new growth is healthy and vigorous."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

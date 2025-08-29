@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1657,
+      "species_id": 127,
+      "common_name": "Tama Hime Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Tama Hime'"
+      ],
+      "section": [
+        {
+          "id": 5176,
+          "type": "watering",
+          "description": "Tama Hime Japanese Maple should be watered deeply and thoroughly twice a week in the summer. The soil should be damp, but not soggy or waterlogged. In the fall and winter, watering should be reduced to every 10-14 days. During the winter months, water only enough to prevent the soil from drying out completely. It is also important to check the soil regularly to ensure it is moist."
+        },
+        {
+          "id": 5177,
+          "type": "sunlight",
+          "description": "Tama Hime Japanese Maple (Acer palmatum 'Tama Hime') requires full sun in spring and early summer and partial shade in the afternoon of the hottest days of summer. During the winter, shade is advised in order to protect the plant from the cold temperatures and icy winds. It is best to provide the plant with about 6 hours of direct sunlight and 4 hours of indirect sunlight each day for optimal growth and health. The frequency and amount of sunlight should be adjusted according to the season and climate."
+        },
+        {
+          "id": 5178,
+          "type": "pruning",
+          "description": "Pruning of the Tama Hime Japanese Maple (Acer palmatum 'Tama Hime') should be done in spring, just after new growth appears. Tama Hime Japanese maples should be pruned lightly with thinning out some of the inner branches to create shape and encourage outward growth. Pruning should also go beyond thinning to prune out any straggly or weak-looking branches to maintain the plant's health. Aim to prune no more than 1-third of the total amount of branches. If pruning is necessary in summer, try to avoid the hottest part of the season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1772,
+      "species_id": 261,
+      "common_name": "Wolf Eyes Chinese Dogwood",
+      "scientific_name": [
+        "Cornus kousa 'Wolf Eyes'"
+      ],
+      "section": [
+        {
+          "id": 5521,
+          "type": "watering",
+          "description": "The Wolf Eyes Chinese Dogwood (Cornus kousa 'Wolf Eyes') requires regular watering in order to thrive. During the first growing season, keep the soil evenly moist but not soggy. As the plant matures, gradually reduce the amount of watering to allow the top few layers of soil to dry out between watering. The ideal watering frequency for the Wolf Eyes Chinese Dogwood should be 1-2 times per week during the growing season and no more than once per week during the winter months. Be sure to check the soil to see if the plant is in need of additional water, especially during prolonged dry spells or periods of extreme heat. If the soil feels dry to a depth of 1 inch, then the plant should be watered."
+        },
+        {
+          "id": 5522,
+          "type": "sunlight",
+          "description": "Wolf Eyes Chinese Dogwood (Cornus kousa 'Wolf Eyes') does best when grown in full sun or part shade exposure. In full sun exposure, this plant needs at least 4-6 hours of direct sunlight per day. Wolf Eyes Chinese Dogwood should not be allowed to remain in dense shade. Too much shade can lead to a weak and unhealthy plant. Keep in mind that the amount of sunlight your plant needs may vary depending on the season and your climate."
+        },
+        {
+          "id": 5523,
+          "type": "pruning",
+          "description": "For Wolf Eyes Chinese Dogwood, pruning should take place once a year, preferably in mid- to late-summer. Pruning should be minimal, removing only dead, diseased, and damaged branches, plus any additional growth that is crowding or competing for light and air. Avoid cutting into the old wood as this can encourage die-back. Be sure to sterilize pruning shears before and after each cut, to prevent the spread of disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

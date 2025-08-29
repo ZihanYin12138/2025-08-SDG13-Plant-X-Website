@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1762,
+      "species_id": 250,
+      "common_name": "Red Flowering Dogwood",
+      "scientific_name": [
+        "Cornus florida 'var. rubra'"
+      ],
+      "section": [
+        {
+          "id": 5491,
+          "type": "watering",
+          "description": "Red Flowering Dogwood should be watered deeply and infrequently, approximately once every 7 days or so. In the hottest periods of summer, watering may need to occur slightly more often. Ensure the soil is thoroughly moistened, but don’t let the soil become soggy. If the soil has dried out too much, a deep soaking may be in order. When watering, pay attention to the leaves and pay special attention to any areas that may not be receiving sufficient moisture."
+        },
+        {
+          "id": 5492,
+          "type": "sunlight",
+          "description": "Red Flowering Dogwood (Cornus florida 'var. rubra') requires at least 4 hours of direct sunlight each day, up to 8 hours being ideal. This type of dogwood prefers moist and slightly acidic soil, and should be planted in locations that receive full sun in the morning and light shade in the afternoon. This will help to prevent scorching from the sun."
+        },
+        {
+          "id": 5493,
+          "type": "pruning",
+          "description": "Red Flowering Dogwood should be pruned in late winter or early spring, before the tree begins to bloom. Pruning should be minimal and only to remove dead, diseased, or damaged branches. Avoid pruning any healthy and vigorous branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

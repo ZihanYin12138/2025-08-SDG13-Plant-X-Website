@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1607,
+      "species_id": 72,
+      "common_name": "Katsura Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Katsura'"
+      ],
+      "section": [
+        {
+          "id": 5026,
+          "type": "watering",
+          "description": "Katsura Japanese Maple prefer moist but well-drained soil. Water deeply once a week during the growing season, making sure to fully saturate the soil. Allow the soil to dry slightly between waterings. During very hot, humid weather, water more often. During the winter months, reduce watering to once every 2 weeks."
+        },
+        {
+          "id": 5027,
+          "type": "sunlight",
+          "description": "Katsura Japanese Maple is a plant species that prefers to be grown in partial shade, as opposed to full sun. It is best to position the tree where it will receive at least 4 hours of direct sunlight daily and no more than 8 hours of direct sunlight. This type of maple is deciduous and typically requires higher levels of sunlight in the spring and summer months and less in the fall and winter months. It is important to provide Katsura Japanese Maple with adequate amounts of sunlight without overwhelming the tree."
+        },
+        {
+          "id": 5028,
+          "type": "pruning",
+          "description": "Katsura Japanese Maples should be pruned from late winter to early spring, but should not be pruned while the plant is dormant. Pruning of the tree should be done minimally and selectively to shape and accentuate its natural form. Cut away unhealthy or dead branches to ensure the health and safety of the tree. Limb reduction pruning should be done carefully, with small cuts of 1-third of the total branch length. If major pruning is required, spread out the cuts over 3 or 4 years. Always prune back to the main trunk or other major branches, avoiding leaving stubs."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

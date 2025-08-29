@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 513,
+      "species_id": 97,
+      "common_name": "Peaches And Cream Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Peaches And Cream'"
+      ],
+      "section": [
+        {
+          "id": 1540,
+          "type": "watering",
+          "description": "The Peaches And Cream Japanese Maple should be watered about twice a week when the top several inches of soil are dry to the touch and should be watered deeply so that water is able to reach the entire root system. Depending on the climate, watering frequency may need to be adjusted – more in warmer weather and less during cool rain. When the Japanese maple is newly planted, it should be watered more often. During the growing season (April to September) it will need to be watered more frequently than during the dormancy periods (fall and winter)."
+        },
+        {
+          "id": 1542,
+          "type": "sunlight",
+          "description": "Peaches and Cream Japanese Maple (Acer palmatum 'Peaches And Cream') thrives best in full sun with some afternoon shade/sunlight. Ideally, this plant will grow best when given 4-5 hours of direct sunlight distributed throughout the day from morning to late afternoon. During the summer months, it is important to monitor the leaves for any signs of sunburn, wilt, and discoloration. Partial shade during times of extreme heat can provide extra protection and keep the plant healthy and vibrant."
+        },
+        {
+          "id": 1543,
+          "type": "pruning",
+          "description": "Peaches And Cream Japanese Maple trees should be pruned twice a year. The first should happen during late winter when the tree is still dormant; it is best to prune no more than 1/3 of any branch and cutting into the sapwood should be avoided. During late spring or early summer, prune away any branches that are crossing each other or rubbing against each other, as well as any weak or twiggy growth. Also, prune to shape the canopy and remove any branches that have grown visibly too long."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

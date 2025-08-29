@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1185,
+      "species_id": 222,
+      "common_name": "Green Arrow Nootka Cypress",
+      "scientific_name": [
+        "Chamaecyparis nootkatensis 'Green Arrow'"
+      ],
+      "section": [
+        {
+          "id": 3544,
+          "type": "watering",
+          "description": "Water Green Arrow Nootka Cypress at least twice-weekly, using 1 to 2 gallons of water per plant. The plants should be watered deeply in order to ensure that the soil is moist, but not soggy. During the summer months, when the temperatures are warm, it is important to increase the watering frequency. The amount of water being used should increase as necessary, to ensure that the soil remains consistently moist. Watering with a slow, steady stream for a few minutes is usually sufficient."
+        },
+        {
+          "id": 3545,
+          "type": "sunlight",
+          "description": "The Green Arrow Nootka Cypress, or Chamaecyparis nootkatensis 'Green Arrow', is an evergreen conifer which grows best in full sun to partial shade. It requires 6-8 hours of direct sunlight each day to thrive, so it is best suited for locations that are sunny most of the day. The Green Arrow Nootka Cypress is a hardy tree, so with enough sunlight it will grow rapidly and produce beautiful, feathery foliage."
+        },
+        {
+          "id": 3546,
+          "type": "pruning",
+          "description": "This particular species of cypress should be pruned when necessary during the spring season. Pruning should be done by removing excess foliage or any dead branches that may be present. Prune the tree selectively each year to keep it in the desired shape. When removing dead branches, only take off what is necessary, as too much pruning could damage the tree. As a general rule, only prune about 1/4 of the tree’s foliage each year, with further pruning done in winter and early spring. If pruning is done more than once a year, the overall rate should not exceed 1/2 of the foliage removed each year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,119 @@
+{
+  "id": 173,
+  "common_name": "Ombrella™ Mimosa",
+  "scientific_name": [
+    "Albizia julibrissin 'Boubri'"
+  ],
+  "other_name": [
+    "Silktree"
+  ],
+  "family": "Fabaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Boubri",
+  "variety": null,
+  "species_epithet": "julibrissin",
+  "genus": "Albizia",
+  "origin": [
+    "Iran",
+    "Japan"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 35,
+      "max_value": 35,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=173&size=og&key=sk-ACnv68b0630adff3b12096",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=173&size=og&key=sk-ACnv68b0630adff3b12096'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "High",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=173&key=sk-ACnv68b0630adff3b12096",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": true,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [
+    "Deer resistant",
+    " Drought resistant"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Ombrella™ Mimosa is the perfect tree for any garden. It's beautiful, easy to care for and drought tolerant. With its eye-catching cascading foliage, it provides a dramatic night-time show when lit up, creating a dreamy romantic evening. Furthermore, the butterfly-shaped pink flowers give it a unique look, making it a desirable ornamental for a garden. During bloom, it provides food and shelter for hummingbirds, bees and other native wildlife. The moisture-retention feature of the leaves that fold at night makes it an effective water-saving tree. Honestly, Ombrella™ Mimosa is too good to be real!",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/173_albizia_julibrissin_boubri/og/Albizia_julibrissin_boubri.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/173_albizia_julibrissin_boubri/regular/Albizia_julibrissin_boubri.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/173_albizia_julibrissin_boubri/medium/Albizia_julibrissin_boubri.jpg",
+    "small_url": "https://perenual.com/storage/species_image/173_albizia_julibrissin_boubri/small/Albizia_julibrissin_boubri.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/173_albizia_julibrissin_boubri/thumbnail/Albizia_julibrissin_boubri.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1769,
+      "species_id": 258,
+      "common_name": "Satomi Chinese Dogwood",
+      "scientific_name": [
+        "Cornus kousa 'Satomi'"
+      ],
+      "section": [
+        {
+          "id": 5512,
+          "type": "watering",
+          "description": "Satomi Chinese Dogwood should be watered at least once a week. During periods of drought, it may need to be watered on several days each week. When watering, thoroughly saturate the soil and make sure it is evenly moist. After a few minutes, check to ensure that no water is pooled or sitting in areas where it cannot be adequately absorbed. Avoid overwatering, as this can cause root rot or other damage to the plant."
+        },
+        {
+          "id": 5513,
+          "type": "sunlight",
+          "description": "Satomi Chinese Dogwood should be planted in a location that receives at least 6 to 8 hours of daylight for optimal growth. It is best to avoid siting this plant in a shaded area, as it will fail to thrive in such conditions. The best time of day for the Satomi Chinese Dogwood to take in the daylight is during the morning and afternoon hours, when the sun is brightest."
+        },
+        {
+          "id": 5514,
+          "type": "pruning",
+          "description": "Satomi Chinese Dogwood should be pruned in late winter or early spring before the buds start to swell. Pruning should be light in order to maintain the desired shape and size. Remove any dead, diseased, or damaged branches that may be hazardous. Branches that criss-cross or rub against one another should also be removed for better air movement and increased light penetration. Lightly prune around the perimeter to keep the desired size and shape. An overall light thinning, such as removing 1-third of the oldest and/or thickest branches, will help to open up the canopy and promote better airflow."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

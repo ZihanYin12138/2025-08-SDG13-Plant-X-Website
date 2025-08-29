@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1673,
+      "species_id": 145,
+      "common_name": "Crimson King Norway Maple",
+      "scientific_name": [
+        "Acer platanoides 'Crimson King'"
+      ],
+      "section": [
+        {
+          "id": 5224,
+          "type": "watering",
+          "description": "Crimson King Norway Maple should be watered regularly to keep it healthy and looking its best. It prefers consistently moist soil but not soggy. Deep watering once or twice a week should be sufficient as long as the soil is allowed to dry out slightly in between. During the warmer months of the year, the tree may need to be watered more frequently. During periods of hot and dry weather, water a Crimson King Norway Maple 2 to 3 times a week to maintain its moisture levels. In the winter months, the tree should be watered less often, about once a month unless it’s particularly dry in your area."
+        },
+        {
+          "id": 5225,
+          "type": "sunlight",
+          "description": "Crimson King Norway Maple trees require full sun or partial shade, meaning at least 6 hours of sunlight per day. They can also tolerate partial shade, so as long as there is plenty of sunlight, they should still thrive. The best time of day for sunlight is the morning. This allows the tree to absorb the sunlight slowly over the course of the day, which helps it to be stronger and more robust. However, during the summer months, a tree should not be placed in direct sunlight for extended periods as this can cause sunburn. Optimal sunlight exposure for the Crimson King Norway Maple is 6-8 hours per day."
+        },
+        {
+          "id": 5226,
+          "type": "pruning",
+          "description": "Crimson King Norway Maple (Acer platanoides 'Crimson King') should be pruned in late winter each year. Typically, this is anytime from February to March. Pruning should be done to remove any dead or diseased branches and to control the size and shape. Make sure not to prune too heavily as this type of maple does not respond well to extreme pruning. When pruning, clean and sharp pruning tools should be used. This will help to avoid damage to the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1755,
+      "species_id": 242,
+      "common_name": "Pagoda Dogwood",
+      "scientific_name": [
+        "Cornus alternifolia"
+      ],
+      "section": [
+        {
+          "id": 5470,
+          "type": "watering",
+          "description": "The Pagoda Dogwood (Cornus alternifolia) should be watered thoroughly, once a week in the active growing season and only every 2-4 weeks during dormancy. The soil should be allowed to dry just slightly between waterings, and the plant should be watered deeply to reach the roots. Avoid getting the foliage wet when watering. During hot weather, water more frequently, up to 2-3 times per week. In winter, water only when the soil is dry to the touch. This species is native to moist woodlands so does not tolerate dry soils."
+        },
+        {
+          "id": 5471,
+          "type": "sunlight",
+          "description": "Pagoda Dogwood (Cornus alternifolia) prefers full sun to part shade and should not be exposed to direct intense midday sun for extended periods. This plant thrives with 4-6 hours of sunlight each day, with morning sun being preferable over mid-day or afternoon sun. In areas with bright, hot summers, it should be in part shade during the hottest part of the day for best results. If planted in a shadier area, water should be provided more frequently to prevent the plant from drying out."
+        },
+        {
+          "id": 5472,
+          "type": "pruning",
+          "description": "Pagoda Dogwood should be pruned in early spring just before new growth begins. Pruning should include removing dead or damaged branches, older growth, and overcrowded branches. Young plants should only be pruned to shape and thin out branches if desired. When necessary, some light pruning can be done in the summer to control size or open up the canopy. Heavy pruning should be avoided as this can encourage excessive vigor and may decrease winter hardiness."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

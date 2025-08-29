@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1676,
+      "species_id": 148,
+      "common_name": "Emerald Queen Norway Maple",
+      "scientific_name": [
+        "Acer platanoides 'Emerald Queen'"
+      ],
+      "section": [
+        {
+          "id": 5233,
+          "type": "watering",
+          "description": "This species of tree prefers moist, well-drained soil, so during the summer months, it should be watered at least once a week for about 15 minutes on mature trees; if the soil feels dry to the touch, it is likely that it needs more frequent watering. During the spring and autumn months, the tree should be watered every 2 to 3 weeks, for around 10 minutes; if needed, it can also tolerate occasional, light mistings to keep the soil moist. In winter, it should only be watered occasionally when the soil begins to feel dry."
+        },
+        {
+          "id": 5234,
+          "type": "sunlight",
+          "description": "The Emerald Queen Norway Maple requires partial shade to full sun to grow optimally. It prefers full sun in the spring and partial shade in the summer. It is also tolerant of light shade throughout the day, although it is best to avoid deep shade. This species of maple needs 6 to 8 hours of direct or partially filtered light each day, with an ideal exposure to morning sun and afternoon shade. In the winter, it prefers bright, indirect light or full sun."
+        },
+        {
+          "id": 5235,
+          "type": "pruning",
+          "description": "Emerald Queen Norway Maples should be pruned in late winter or early spring before the new growth appears. Pruning should focus on removing dead, diseased, or damaged branches and crossing branches to improve the structure of the tree. Young trees should also be pruned to create a strong central leader. You should not prune more than 1/3 of the live crown in any 1 year so that the tree has time to heal and recover from any major pruning. In general, light pruning is recommended to remove any damaged or dead branches and to thin the canopy for better air flow."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

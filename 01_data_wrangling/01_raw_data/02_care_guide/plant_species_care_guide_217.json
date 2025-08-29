@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1732,
+      "species_id": 217,
+      "common_name": "Forest Pansy Redbud",
+      "scientific_name": [
+        "Cercis canadensis 'Forest Pansy'"
+      ],
+      "section": [
+        {
+          "id": 5401,
+          "type": "watering",
+          "description": "Forest Pansy Redbud plants should be watered enough to keep the soil evenly moist. During the first few months, water at least twice weekly, depending on weather conditions, and gradually taper off to once weekly. The soil should never be allowed to become soggy, and the plant should not be overwatered. In hot climates, deep watering once a week may be necessary. During the summer months, check the soil before watering to make sure it is still moist. In cooler climates, the soil may remain moist for a longer period of time, so check the soil before watering. In the winter months, when the plant is dormant, watering should be reduced, but check the soil to make sure it does not completely dry out."
+        },
+        {
+          "id": 5402,
+          "type": "sunlight",
+          "description": "Forest Pansy Redbud (Cercis canadensis 'Forest Pansy') is a beautiful deciduous tree that is best suited for full sun or partial shade. As a result, it needs an average of at least 6 to 8 hours of direct sunlight each day during the growing season. When the days have longer hours of sunlight, such as in the spring and summer, the plant will benefit from more hours of direct sunlight. It is important that the plant is receiving some shade during the hottest part of day in the summer months and especially if the tree is in an area that is prone to high temperatures."
+        },
+        {
+          "id": 5403,
+          "type": "pruning",
+          "description": "Forest Pansy Redbud should be pruned once a year in early spring before flowering begins. To keep the plant healthy and blooming well, pruning should be done judiciously to maintain the desired size and shape. Start by removing any dead or broken branches, and then selectively thin out any crowded areas and remove excess water sprouts. Pruning should be done gradually over several years, gradually reducing the length of newly emerging shoots back to 2 or 3 buds. Pruning hardback to bare wood will interrupt the flowering cycle and damage the plant. Never prune more than 1-third of the growth on the tree at 1 time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

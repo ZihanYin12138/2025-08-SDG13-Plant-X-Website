@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1709,
+      "species_id": 191,
+      "common_name": "Whitespire Birch",
+      "scientific_name": [
+        "Betula populifolia 'Whitespire'"
+      ],
+      "section": [
+        {
+          "id": 5332,
+          "type": "watering",
+          "description": "Whitespire Birchneeds to be water regularly in order to maintain an adequate amount of moisture for healthy growth. This tree should receive at least 1-1.5 inches of water every week, depending upon the weather conditions. Watering should occur deeply and evenly to promote tree health. During periods of extreme heat, a White Birch may need to be watered more than once a week.  It is important to water at the base of the tree rather than overhead. When watering, ensure that the entire root zone of the plant is saturated with water. Lastly, avoid over-watering, which can lead to root rot."
+        },
+        {
+          "id": 5333,
+          "type": "sunlight",
+          "description": "Whitespire Birch is a hardy species of tree that thrives in full sunlight. For optimal growth, Whitespire Birch should be planted in an area that receives at least 6-8 hours of direct sunlight each day. In areas that get less sun, the Whitespire Birch will still survive but may be prone to insect and disease problems, as well as having stunted or delayed growth. If possible, it should also be planted in a spot with afternoon protection from the hot sun to prevent leaf scorch. "
+        },
+        {
+          "id": 5334,
+          "type": "pruning",
+          "description": "Whitespire Birch should be pruned in late winter or early spring to maintain its desired shape and size. There should only a minor amount of pruning done on Whitespire Birch; only remove dead, damaged, or diseased branches and lightly shape by removing no more than 15% of the canopy each year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

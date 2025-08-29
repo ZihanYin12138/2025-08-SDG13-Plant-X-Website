@@ -1,0 +1,142 @@
+{
+  "id": 228,
+  "common_name": "Threadleaf Falsecypress",
+  "scientific_name": [
+    "Chamaecyparis pisifera 'Filifera'"
+  ],
+  "other_name": [
+    "Japanese Falsecypress",
+    "Sawara Falsecypress",
+    "sawara cypress"
+  ],
+  "family": "Cupressaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Filifera",
+  "variety": null,
+  "species_epithet": "pisifera",
+  "genus": "Chamaecyparis",
+  "origin": [
+    "Japan"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 30,
+      "max_value": 30,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "4"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=228&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=228&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "trunk",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "yellow-green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "August",
+    "February",
+    "March",
+    "April",
+    "June",
+    "July",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=228&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [
+    "Pest resistant",
+    " Disease resistant"
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Threadleaf Falsecypress (Chamaecyparis pisifera 'Filifera') is a spectacular evergreen conifer with outstanding needle foliage. Its branches are covered with deep green, thread-like foliage that can turn to soft shades of gold in winter. It is an easy to grow shrub, tolerant of difficult soil and air pollution. Its compact size makes it ideal for small gardens, where it can form an eye-catching hedge or wind-break. It also requires less trimming than other variety of conifers. This false cypress will bring carefree, low maintenance beauty and texture to your garden year round, no matter what the season.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/228_chamaecyparis_pisifera_filifera/og/52489099565_d4a84f5c82_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/228_chamaecyparis_pisifera_filifera/regular/52489099565_d4a84f5c82_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/228_chamaecyparis_pisifera_filifera/medium/52489099565_d4a84f5c82_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/228_chamaecyparis_pisifera_filifera/small/52489099565_d4a84f5c82_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/228_chamaecyparis_pisifera_filifera/thumbnail/52489099565_d4a84f5c82_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

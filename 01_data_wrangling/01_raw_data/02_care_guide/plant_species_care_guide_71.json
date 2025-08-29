@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1606,
+      "species_id": 71,
+      "common_name": "Kasagi Yama Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Kasagi Yama'"
+      ],
+      "section": [
+        {
+          "id": 5023,
+          "type": "watering",
+          "description": "Kasagi Yama Japanese Maple should be given an adequate amount of water, about 1 inch every week during the growing season from early spring to late fall. During this time, it is best to water the plant deeply, meaning water until it runs out the bottom of the pot or planter. During the winter months, it is best to water much less often, giving it only enough to keep the soil from completely drying out in the pot. Make sure that you never leave the roots of your Kasagi Yama Japanese Maple soil soaked in water."
+        },
+        {
+          "id": 5024,
+          "type": "sunlight",
+          "description": "Kasagi Yama Japanese Maple (Acer palmatum 'Kasagi Yama') requires partial shade throughout the day and should be in direct sun for no more than 4 hours per day. It is best to provide this species with morning sun and afternoon shade, while avoiding mid-day sun, as it is more sensitive to direct light and heat. If the plant receives too much direct sunlight, it can be exposed to sunscald, which can result in sunburned leaves."
+        },
+        {
+          "id": 5025,
+          "type": "pruning",
+          "description": "Kasagi Yama Japanese Maple should be pruned in early spring before the new growth begins. Pruning at this time helps to maintain the desired size and shape of the tree. Pruning should only be done to remove dead or damaged branches, to thin out crowded areas, or to form a specific shape or design. Avoid pruning too heavily, and prune no more than 1/3 of the total canopy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

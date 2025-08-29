@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1638,
+      "species_id": 106,
+      "common_name": "Red Select Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Red Select'"
+      ],
+      "section": [
+        {
+          "id": 5119,
+          "type": "watering",
+          "description": "Water Red Select Japanese Maple (Acer palmatum 'Red Select') deeply every day for the first month, then every other day for the next 2 months, and finally every 3 to 4 days during the summer. During the winter, water this species only once or twice a month as it is usually dormant. Always check the soil for moisture before watering and water only when needed. Water directly at the base of the plant, avoiding wetting the leaves. Add a 2 to 3 inch layer of mulch to help keep soil moist and discourage weeds."
+        },
+        {
+          "id": 5120,
+          "type": "sunlight",
+          "description": "Red Select Japanese Maple (Acer palmatum 'Red Select') prefers 6 to 8 hours of bright, indirect sunlight per day. It grows best in a location that gets morning sun and afternoon shade or filtered sunlight throughout the day. It can also tolerate partial shade for part of the day. Avoid direct sunlight, as it can cause leaf scorch or sunburn. Specifically, it should not be placed in direct afternoon sun. Red Select Japanese Maple will thrive in a location that receives dappled or filtered sunlight, such as that found beneath deciduous trees."
+        },
+        {
+          "id": 5121,
+          "type": "pruning",
+          "description": "Red Select Japanese Maple needs to be pruned in the late winter or early spring. Pruning should be done sparingly, only removing dead, diseased or damaged branches. It is important to maintain the trees natural shape when pruning. It is best to selectively prune larger branches by cutting back to a side branch rather than removing them completely. Pruning should be done sparingly and only remove about 1/4 of the tree's total branches. This will help maintain the trees shape. It is also important to make sure the cuts are made in the correct location, as incorrect cuts can reduce the trees health."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

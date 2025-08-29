@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "id": 60,
+      "common_name": "Take-all patch",
+      "scientific_name": "Gaeumannomyces graminis var. avenae",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Take-All Patch (Gaeumannomyces graminis var. avenae)?",
+          "description": "Take-All Patch is a significant disease caused by Gaeumannomyces graminis var. avenae that primarily affects young (1 to 5-year-old) bentgrass turf, but it can also damage older stands. It appears as bronze or bleached patches in late spring or early summer. The center of the patch dies, creating room for annual bluegrass and weed growth. Initially small, the spots can expand into large patches over time. Affected plants have shallow roots and can be easily uprooted. Black runner hyphae of the fungus are visible on crowns and roots."
+        },
+        {
+          "subtitle": "How does Take-All Patch (Gaeumannomyces graminis var. avenae) occur?",
+          "description": "After bentgrass turf is established, dark brown runner hyphae of G. graminis appear on root surfaces. It's unclear how the pathogen spreads to new bentgrass stands, but possible sources include infected plant debris on equipment, soil transport, or golfers' shoes. Spore dissemination is rare.\n\nRunner hyphae infect roots during cool, moist conditions in fall and spring. Bentgrass can handle some root infection in cool weather, but pathogen-induced root damage leads to wilting and death in hot, dry conditions. In northern climates, G. graminis mycelium remains inactive in winter and becomes active in spring and summer for disease progression."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices",
+          "description": "•\tCrop rotation disrupts the disease cycle.\n•\tUse resistant or tolerant cultivars.\n•\tImprove soil drainage and avoid overwatering.\n•\tMaintain balanced soil fertility and pH levels.\n•\tManage thatch and organic debris accumulation.\n•\tRemove and dispose of infected plant debris properly.\n•\tAvoid transferring contaminated soil or equipment.\n\n"
+        },
+        {
+          "subtitle": "Acidifying Fertilizer",
+          "description": "•\tUse an acidifying fertilizer like ammonium sulfate to lower soil pH (in high pH soils >6.5).\n•\tTarget a soil pH range of 5.5 to 6.0.\n•\tApply low rates of ammonium sulfate during spring and fall.\n•\tWater it into the turf to prevent foliar burn, especially in hot weather (>80oF).\n"
+        },
+        {
+          "subtitle": "Soil Test and Manganese Application",
+          "description": "•\tIn persistent cases with low manganese levels indicated by soil tests.\n•\tApply 2 lb of soluble manganese per acre as manganese sulfate.\n•\tApply in spring to avoid foliar burn and ensure penetration into the root zone.\n•\tSufficient water should be used during application.\nNote: Results may vary depending on soil type, pH, and application frequency/rate. Control measures should be implemented before visible patch symptoms appear.\n"
+        },
+        {
+          "subtitle": "Fungicide Applications",
+          "description": "•\tMyclobutanil (Andersons Golden Eagle DG, Eagle 20EW, Myclobutanil 20EW).\n•\tPropiconazole (Andersons Prophesy DG, Banner Maxx II, Dorado, Lesco Spectator, Propiconazole 14.3, Savvi).\n•\tTebuconazole (ArmorTech TEB 360 XL, Mirage Stressgard, Sipcam Clearscape ETQ, Tebuconazole 3.6, Torque).\n•\tAzoxystrobin (Heritage, Heritage TL, Strobe 50WG, Strobe 2L, Strobe Pro).\n•\tFluoxastrobin (Disarm G, Disarm 480 SC, Fame Granular, Fame SC).\nThese are examples of fungicides that contain these active ingredients. Please note that product availability and formulations may vary by region.\n"
+        }
+      ],
+      "host": [
+        "bentgrasses"
+      ],
+      "images": []
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

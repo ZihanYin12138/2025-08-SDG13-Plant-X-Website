@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "id": 38,
+      "common_name": "Leaf spot diseases",
+      "scientific_name": "Septoria spp.",
+      "other_name": [
+        "Leaf spot Septoria",
+        "Septoria leaf spot"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Leaf Spot (Septoria spp)? ",
+          "description": "Septoria leaf spot, caused by the fungus Septoria lycopersici, is a common disease affecting tomato plants. It is widespread and can be found in various regions. The disease primarily affects tomato plants, causing numerous tiny spots on lower leaves that enlarge over time. The spots have gray or tan centers with dark brown margins. As the disease progresses, the leaves turn yellow and eventually die. While Septoria leaf spot mainly impacts the foliage, severe cases can lead to spots on stems, calyxes, and blossoms. "
+        },
+        {
+          "subtitle": " How does Leaf Spot (Septoria spp) occur?",
+          "description": "Septoria leaf spot reproduces through a combination of asexual spore production and overwintering structures. The fungal pathogen, Septoria lycopersici, produces spores called conidia that are spread by splashing water and windborne rain. These conidia can germinate and infect new plants, leading to disease development. Additionally, the fungus can persist from one season to the next on debris of infected plants and solanaceous weeds. This enables its survival during winter and provides a source of inoculum for subsequent infections."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Prevention and Cultural Practices",
+          "description": "•\tChoose resistant or tolerant varieties.\n•\tPractice crop rotation with non-solanaceous crops.\n•\tAdequate plant spacing for air circulation and sunlight penetration.\n•\tApply mulch to prevent soil splashing.\n•\tWater at the base to avoid foliage wetness.\n"
+        },
+        {
+          "subtitle": "•\tSanitation and Hygiene Measures",
+          "description": "•\tRemove and destroy infected plant debris.\n•\tDo not compost infected material.\n•\tRegularly inspect plants for early detection.\n•\tUse disease-free seeds or seedlings.\n"
+        },
+        {
+          "subtitle": "•\tFungicidal Treatment",
+          "description": "•\tConsider fungicide application in severe cases or when disease conditions persist.\n•\tConsult with experts for suitable fungicides and follow recommended schedules.\n•\tOrganic options include fixed copper, Regalia, Serenade, or Actinovate.\n•\tConventional growers can use chlorothalonil, azoxystrobin, or mancozeb.\n"
+        }
+      ],
+      "host": [
+        "aster",
+        "china aster",
+        "various trees and shrubs"
+      ],
+      "images": [
+        {
+          "license": 4,
+          "license_name": "Attribution License",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/",
+          "original_url": "https://perenual.com/storage/species_disease/38_septoria_spp/og/16400699744_5a10c11d38_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/38_septoria_spp/regular/16400699744_5a10c11d38_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/38_septoria_spp/medium/16400699744_5a10c11d38_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/38_septoria_spp/small/16400699744_5a10c11d38_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/38_septoria_spp/thumbnail/16400699744_5a10c11d38_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

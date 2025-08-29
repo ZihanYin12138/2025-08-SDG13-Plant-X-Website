@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 73,
+      "species_id": 33,
+      "common_name": "Asahi Zuru Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Asahi Zuru'"
+      ],
+      "section": [
+        {
+          "id": 1283,
+          "type": "watering",
+          "description": "Water the Asahi Zuru Japanese Maple once a week to a depth of about 2 inches. During periods of extreme heat or drought, increase watering slightly. The soil should be kept evenly moist but not soggy. Avoid wetting the foliage when watering. Soak the soil in a tray or use a soaker hose to apply water slowly and evenly at the base of the tree."
+        },
+        {
+          "id": 1284,
+          "type": "sunlight",
+          "description": "Asahi Zuru Japanese Maple requires direct sunlight for at least 5 hours per day, either in the morning or the afternoon. It is best to provide some shade, such as a tree or a building, during the hottest part of the day. If planted in a shady area, it will grow very slowly and the leaves may become pale and the branches may become thin and weak. When planting, make sure the tree gets direct sunlight for at least 5 hours per day, either in the morning or the afternoon, with some shade during the afternoon for best results."
+        },
+        {
+          "id": 1285,
+          "type": "pruning",
+          "description": "The Asahi Zuru Japanese Maple is best pruned in late winter or early spring to ensure the best shape and health of the tree. Pruning should be light, removing only dead or damaged wood, or delicately trimming overly long branches. Avoid heavy pruning because it can cause the tree to go into shock and later die. Most of this particular tree's shape and character is acquired through natural growth, so pruning should only be done if necessary to remove dead wood or if needed to shape the overall plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

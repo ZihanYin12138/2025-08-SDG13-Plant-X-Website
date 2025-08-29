@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1790,
+      "species_id": 293,
+      "common_name": "Fallgold Black Ash",
+      "scientific_name": [
+        "Fraxinus nigra 'Fallgold'"
+      ],
+      "section": [
+        {
+          "id": 5575,
+          "type": "watering",
+          "description": "Fallgold Black Ash should be watered once per week, providing enough water to thoroughly moisten the soil. It is best to water at the base of the plant to avoid wetting the foliage. If the weather is hot and dry, the plant may need to be watered a few times a week or even daily. During very hot weather, the soil should be kept consistently moist. However, overwatering should be avoided to ensure the plant does not become waterlogged."
+        },
+        {
+          "id": 5576,
+          "type": "sunlight",
+          "description": "Fallgold Black Ash (Fraxinus nigra 'Fallgold') needs about 6 hours of direct sunlight each day. It does best when grown in full sun, but can tolerate some light shade. The best time of day to provide sunlight is during the morning and early afternoon hours when the sun is at its strongest. When the sun is too hot, it can cause the leaves to become scorched. If the plant does not get enough sunlight, then the growth and flowering may be limited."
+        },
+        {
+          "id": 5577,
+          "type": "pruning",
+          "description": "Fallgold Black Ash should be pruned minimally, focusing primarily on removing any dead, diseased, or broken branches. Any branches that are crossing or rubbing against each other can be removed as well to improve air circulation. Prune after the leaves have completely dropped, anytime during the winter or early spring before new growth appears. Avoid pruning in late spring or summer, as this can encourage new growth which will not have enough time to harden off before winter."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

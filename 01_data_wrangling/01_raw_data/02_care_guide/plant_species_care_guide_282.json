@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1786,
+      "species_id": 282,
+      "common_name": "Pyramidal Beech",
+      "scientific_name": [
+        "Fagus sylvatica 'Fastigiata'"
+      ],
+      "section": [
+        {
+          "id": 5563,
+          "type": "watering",
+          "description": "Pyramidal Beech should be watered when the top inch of soil is dry. During the warm months of the growing season, this may mean once a week, or even every 5 days. During cooler seasons, the plant should be watered less frequently. It's best to water deeply, rather than several times a week with small amounts. Thoroughly water the base of the plant, drenching the soil so that water runs off. Soak the soil to 8-10 inches deep. After the surface of the soil has been completely soaked, don't water again until the top inch is dry."
+        },
+        {
+          "id": 5564,
+          "type": "sunlight",
+          "description": "Pyramidal Beech (Fagus sylvatica 'Fastigiata') grows best in an area with plenty of sunlight. For the best growth of this species it should receive full or partial sunlight for at least 6 hours a day. In shadier conditions it will not grow as well and will be more susceptible to disease and pests. "
+        },
+        {
+          "id": 5565,
+          "type": "pruning",
+          "description": "The best time to prune Pyramidal Beech, also known as Fagus sylvatica 'Fastigiata', is typically in late winter or early spring. This is when new growth is beginning to emerge and before leaf buds appear. It is important to remember to prune the tree to maintain the desired width, shape, and structure. The amount of pruning should be kept to a minimum, but you want to remove any potential hazards, like dead, diseased or damaged branches, as well as any that form a crossing pattern. If you are shaping the tree, you can selectively prune it as desired and may need to do so over several years. When it comes to pyramidal beech, pruning should be done with a light hand and conservative approach, as it responds best with less pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

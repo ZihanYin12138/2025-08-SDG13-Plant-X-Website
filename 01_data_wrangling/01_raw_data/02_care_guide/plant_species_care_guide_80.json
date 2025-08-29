@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1615,
+      "species_id": 80,
+      "common_name": "Mikazuki Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Mikazuki'"
+      ],
+      "section": [
+        {
+          "id": 5050,
+          "type": "watering",
+          "description": "Mikazuki Japanese Maple (Acer palmatum 'Mikazuki') should be watered regularly throughout the growing season. Aim to keep the soil lightly moist, but not soggy. During the hottest summer months, it may be necessary to water every 2–3 days. It's important to avoid over-watering as this can cause root rot. During the colder months, water less often, around every 7–10 days. If your region experiences freezing temperatures, you may need to stop watering altogether in the winter months."
+        },
+        {
+          "id": 5051,
+          "type": "sunlight",
+          "description": "Mikazuki Japanese Maple (Acer palmatum 'Mikazuki') should receive around 4 to 6 hours of partial sun each day, preferably in the morning or late afternoon. In general, it is best to keep this species of plant out of direct sunlight during the hottest parts of the day, such as between the hours of 11am and 4pm. "
+        },
+        {
+          "id": 5052,
+          "type": "pruning",
+          "description": "Mikazuki Japanese Maple should be pruned during the late winter season (January or February) when the plant is dormant and before new growth appears. Pruning should be light, focusing on shaping and gently removing dead or damaged branches. Excessive pruning can reduce the overall size of the plant and thin out the foliage. Trees that are wider than they are tall can benefit from selective thinning to increase sunlight penetration and airflow. Avoid over-pruning, as this can significantly weaken the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

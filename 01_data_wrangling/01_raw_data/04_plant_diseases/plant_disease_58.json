@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "id": 58,
+      "common_name": "Powdery mildew",
+      "scientific_name": "Golovinomyces cichoracearum",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Powdery mildew (Golovinomyces cichoracearum)?",
+          "description": "Powdery mildew, caused by the fungus Golovinomyces cichoracearum, is a widespread fungal disease affecting various plants worldwide. This fungal pathogen thrives in moderate temperatures and can infect ornamental plants like roses and dahlias, as well as vegetable crops such as cucumbers, melons, pumpkins, squash, tomatoes, and some fruits including apple pears, etc. Symptoms include irregular brown spots and blotches on the leaves of affected plants, needle browning and death in yew trees."
+        },
+        {
+          "subtitle": "How does Powdery mildew (Golovinomyces cichoracearum) occur?",
+          "description": "It reproduces asexually through the production of airborne spores. These conidia are produced on specialized structures known as conidiophores, which enable the fungus to spread. Once released, the conidia are carried to nearby susceptible plants by wind or other means. \n\nUnder favorable conditions, the conidia germinate and penetrate the plant's cells, initiating infection. The fungus grows Inside the host, forming a visible mycelium, and producing more conidiophores and conidia. This reproductive cycle enables pathogens to rapidly propagate and infect new plants, necessitating effective management strategies."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices and Plant Selection",
+          "description": "•\tChoose resistant or tolerant plant varieties.\n•\tMaintain proper spacing for good air circulation.\n•\tAvoid overhead irrigation and water at the base of plants.\n•\tPrune infected plant parts to improve airflow and reduce spread.\n•\tEnhance sunlight exposure by trimming nearby trees or shrubs.\n"
+        },
+        {
+          "subtitle": "Organic Treatment",
+          "description": "Organic alternatives for controlling powdery mildew caused by Golovinomyces cichoracearum include neem oil, baking soda solution, milk sprays, potassium bicarbonate,"
+        },
+        {
+          "subtitle": "Biological Control",
+          "description": "Certain biofungicides containing beneficial microorganisms, such as Bacillus subtilis, can help suppress powdery mildew and provide natural control."
+        },
+        {
+          "subtitle": "Fungicidal Treatments",
+          "description": "•\tSome fungicides include Cyflufenamid (Torino), Quinoxyfen (Quintec), Triflumizole (Procure 480SC), Myclobutanil (Rally 40WSP), Fluopyram/Trifloxystrobin (Luna Sensation), and Pyraclostrobin/Boscalid (Pristine). \n\n•\tThese fungicides have different modes of action, including phenyl-acetamide, quinoline, demethylation inhibitor, succinate dehydrogenase inhibitor, and quinone outside inhibitor. \n\n•\tEach fungicide may have specific application limits or requirements. Please note that proper usage instructions, application rates, and safety precautions should be followed when using any fungicide.\n"
+        }
+      ],
+      "host": [
+        "begonia",
+        "sunflower"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/58_golovinomyces_cichoracearum/og/Golovinomyces_cichoracearum_a1_28229.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/58_golovinomyces_cichoracearum/regular/Golovinomyces_cichoracearum_a1_28229.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/58_golovinomyces_cichoracearum/medium/Golovinomyces_cichoracearum_a1_28229.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/58_golovinomyces_cichoracearum/small/Golovinomyces_cichoracearum_a1_28229.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/58_golovinomyces_cichoracearum/thumbnail/Golovinomyces_cichoracearum_a1_28229.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

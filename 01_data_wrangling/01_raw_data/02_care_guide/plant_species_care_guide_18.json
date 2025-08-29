@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 60,
+      "species_id": 18,
+      "common_name": "Cutleaf Fullmoon Maple",
+      "scientific_name": [
+        "Acer japonicum 'Aconitifolium'"
+      ],
+      "section": [
+        {
+          "id": 1235,
+          "type": "watering",
+          "description": "The Cutleaf Full Moon Maple should be watered regularly throughout the growing season, typically when the top inch of soil becomes dry. Generally, this tree requires about an inch to 2 inches of water per week. It is best to water deeply, meaning slowly and for an extended period of time in order for the water to penetrate into the top 12 inches of soil."
+        },
+        {
+          "id": 1236,
+          "type": "sunlight",
+          "description": "The Cutleaf Fullmoon Maple (Acer japonicum 'Aconitifolium') generally needs full to partial sunlight. It prefers to have morning sun and afternoon shade in areas with hot climates. During the growing season, this plant needs at least 6 hours of direct sunlight a day. In winter, the amount of light will need to be reduced to solely indirect or diffused light."
+        },
+        {
+          "id": 1237,
+          "type": "pruning",
+          "description": "Cutleaf Fullmoon Maple is a fairly low maintenance plant, and should be pruned in early spring, just as the new growth begins. Pruning should be done lightly, removing only dead or damaged branches, or branches that cross or are too close together. Cutleaf Fullmoon Maple can also be lightly groomed in the summer to maintain a pleasing shape. Do not remove more than 25% of the foliage in any 1 season. Regular pruning will encourage more vigorous and healthy growth for this species of Maple."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

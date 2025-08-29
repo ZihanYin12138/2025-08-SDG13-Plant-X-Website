@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1690,
+      "species_id": 163,
+      "common_name": "Red Dawn Full Moon Maple",
+      "scientific_name": [
+        "Acer shirasawanum 'Red Dawn'"
+      ],
+      "section": [
+        {
+          "id": 5275,
+          "type": "watering",
+          "description": "Red Dawn Full Moon Maple should be watered regularly, 1-2 times a week during the spring and summer. During the fall and winter months, only water enough to keep the soil from becoming completely dry. Avoid overwatering, as this can cause the Maple's roots to rot. Soil should always be damp, but never soggy. Check the soil's moisture level 1-2 inches below the surface twice a week. If the soil feels damp, then the tree does not need to be watered. Whenever you do water the Maple, make sure to do so thoroughly."
+        },
+        {
+          "id": 5276,
+          "type": "sunlight",
+          "description": "Red Dawn Full Moon Maple (Acer shirasawanum 'Red Dawn') needs at least 6 hours of direct sunlight each day for best growth and color. It prefers to be planted in a site that is in full sunlight in the morning and partial sun in the afternoon. This will allow adequate sun in the morning, while protecting it from the strong direct sun and heat in the afternoon. It can also do well in partial shade but will not reach its full potential in color, texture, or size."
+        },
+        {
+          "id": 5277,
+          "type": "pruning",
+          "description": "Red Dawn Full Moon Maple (Acer shirasawanum 'Red Dawn') should be pruned in late winter or early spring. Pruning should be minimal, as it is a delicate species. Remove small branches, especially those with damaged or diseased wood. If the tree has grown too large, selectively remove branches to create a more aesthetically pleasing form. Avoid large pruning cuts, since they have the potential to create damage to the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "id": 32,
+      "common_name": "Gray mold (Botrytis rot)",
+      "scientific_name": "Botrytis cinerea",
+      "other_name": [
+        "Botrytis fruit rot (Gray mold)",
+        "Gray mold (Botrytis fruit rot)",
+        "Bunch rot (Gray mold)",
+        "Gray mold (Bunch rot)",
+        "Botrytis blight",
+        "Botrytis blight (Gray mold)",
+        "Gray mold (Botrytis blight)"
+      ],
+      "family": null,
+      "description": [],
+      "solution": [],
+      "host": [
+        "artichoke",
+        "caneberry",
+        "grape",
+        "lettuce",
+        "rose",
+        "strawberry",
+        "various flowers",
+        "various trees and shrubs"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/32_botrytis_cinerea/og/33859218262_9ce14263c2_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/32_botrytis_cinerea/regular/33859218262_9ce14263c2_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/32_botrytis_cinerea/medium/33859218262_9ce14263c2_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/32_botrytis_cinerea/small/33859218262_9ce14263c2_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/32_botrytis_cinerea/thumbnail/33859218262_9ce14263c2_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

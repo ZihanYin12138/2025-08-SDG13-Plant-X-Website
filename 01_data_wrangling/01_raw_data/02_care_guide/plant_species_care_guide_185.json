@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1704,
+      "species_id": 185,
+      "common_name": "Crimson Frost Birch",
+      "scientific_name": [
+        "Betula 'Crimson Frost'"
+      ],
+      "section": [
+        {
+          "id": 5317,
+          "type": "watering",
+          "description": "Crimson Frost Birch (Betula 'Crimson Frost') is a deciduous tree with a medium growth rate. When watering this plant species, it should be done once a week during the growing season. During the hotter months of summer, you may need to water it every other day. In the wintertime when the temperatures drop, reduce watering to once every 2 weeks. Water the Crimson Frost Birch deeply so that the moisture can get down to the plant's roots. Make sure to check the soil before watering the tree to determine if additional water is needed. If the soil is still damp, avoid watering to prevent overwatering."
+        },
+        {
+          "id": 5318,
+          "type": "sunlight",
+          "description": "Crimson Frost Birch (Betula 'Crimson Frost') prefers full sun for at least 6 hours per day. It is best for the plant to receive morning sunlight because direct afternoon sunlight during the summer months can scorch the leaves. During the winter months, sunlight hours can be reduced slightly. However, it is important to make sure the plant still receives some direct sunlight to ensure optimal growth."
+        },
+        {
+          "id": 5319,
+          "type": "pruning",
+          "description": "When pruning Crimson Frost Birch (Betula 'Crimson Frost'), it's important to trim it gently but thoroughly. It's recommended to do this pruning in early spring (around March and April), as the new growth starts to come out. Pruning should be done at least a few times a year to remove any dead branches and shape the tree as desired. Start by gently pruning off all dead branches, and then trimming back unnecessary new growth. If the tree is too dense, you may need to thin out the canopy or remove some of the lower branches to provide better airflow. Pruning should involve no more than 25 percent of the total canopy area."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

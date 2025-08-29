@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1639,
+      "species_id": 107,
+      "common_name": "Rhode Island Red Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Rhode Island Red'"
+      ],
+      "section": [
+        {
+          "id": 5122,
+          "type": "watering",
+          "description": "Rhode Island Red Japanese Maple trees need about 1-2 inches of water per week, either through rain or irrigation. Water thoroughly once a week in spring and summer, but reduce water during fall and winter months, when rainfall is more plentiful. If you see wilting leaves, increase the amount of water slightly or water more frequently. Be sure to avoid wetting the leaves as this can lead to leaf-scorch and fungal diseases. To avoid drying out, always check soil moisture before watering and water your tree until the top 3-4 inches of soil feel moist."
+        },
+        {
+          "id": 5123,
+          "type": "sunlight",
+          "description": "The Rhode Island Red Japanese Maple (Acer palmatum 'Rhode Island Red') is best grown in full sun to part shade. Morning sun and afternoon shade is ideal. This maple tree prefers an area with some protection from strong, drying winds. To ensure that your tree stays healthy, it needs around 5 to 6 hours of direct sunlight each day, during the peak of the growing season (spring and summer). In areas with hot summers, the afternoon sun should be avoided and the tree should be partially shaded during this time. Depending on temperature and geographical location, indirect sunlight or part shade may be necessary to prevent sun scorch, and leaf burn."
+        },
+        {
+          "id": 5124,
+          "type": "pruning",
+          "description": "Rhode Island Red Japanese Maple (Acer palmatum 'Rhode Island Red') should be pruned in late winter or early spring before buds emerge. Light pruning can be done throughout the growing season, but it is best to avoid heavy pruning that would disturb the shape of the tree or cause damage to new branches. Dead, diseased, or injured branches can be safely removed at any time. Young trees with an established shape may only require minimal pruning in order to maintain their form. Large branches can be carefully thinned to let in light and air circulation and to reduce the overall size of the tree. All pruning should be done with clean, sharp tools to ensure the health of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

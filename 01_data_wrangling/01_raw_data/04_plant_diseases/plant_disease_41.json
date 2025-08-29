@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "id": 41,
+      "common_name": "Bacterial canker",
+      "scientific_name": "Xanthomonas campestris",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is a Bacterial canker (Xanthomonas campestris)?",
+          "description": "Bacterial canker, caused by Xanthomonas campestris, is a plant disease affecting various woody plants, including fruit trees like citrus, peaches, and cherries. It is widespread but generally considered a minor problem. Cankers appear as sunken, dark areas on limbs and trunks, often with oozing fluid and cracked bark. Dark streaks radiate from the lesions in the wood. Severely affected trees may have sparse foliage and low yields. "
+        },
+        {
+          "subtitle": "How does Bacterial canker (Xanthomonas campestris) occur?",
+          "description": "Xanthomonas campestris, the bacterium causing bacterial canker, reproduces within infected plants and spreads through contaminated tools, rain, and water splashes. It enters plants through openings or wounds, colonizing and spreading within the plant's vascular system. Wet and humid conditions facilitate its reproduction and dissemination."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Preventions",
+          "description": "•\tRemove and destroy infected plant debris to prevent bacterial survival.\n•\tMaintain optimal plant nutrition, as deficiencies or imbalances can weaken plants and make them more susceptible to diseases. \n•\tUse disease-resistant cultivars to reduce susceptibility.\n•\tPractice crop rotation to break the disease cycle.\n•\tSelect plant varieties known for their resistance to bacterial canker.\n"
+        },
+        {
+          "subtitle": "Sanitation and Hygiene Practices",
+          "description": "•\tRemove and destroy infected plant debris to prevent bacterial survival.\n•\tMaintain good field and equipment sanitation to minimize disease spread.\n•\tDisinfect tools and equipment between use on different plants.\n"
+        },
+        {
+          "subtitle": "Water and Moisture Management",
+          "description": "•\tAvoid overhead irrigation to minimize leaf wetness and reduce bacterial growth.\n•\tOpt for drip irrigation or watering at the base of plants.\n•\tImprove soil drainage to prevent waterlogged conditions.\n"
+        },
+        {
+          "subtitle": "Integrated Pest Management (IPM) Approach",
+          "description": "•\tImplement a comprehensive IPM strategy combining multiple preventive and management measures.\n•\tCustomize the approach based on the specific crop, local conditions, and expert advice.\n•\tRegularly monitor plants for early detection and take appropriate action.\n"
+        },
+        {
+          "subtitle": "Biological Control and Beneficial Microorganisms",
+          "description": "•\tExplore the use of biopesticides and beneficial bacteria to suppress bacterial canker.\n•\tSome beneficial microorganisms, such as certain strains of Bacillus spp., can help suppress the growth and spread of Xanthomonas campestris.\n•\tFollow recommended application techniques and guidelines for maximum effectiveness.\n"
+        },
+        {
+          "subtitle": "Chemical Control Measures",
+          "description": "•\tApply copper-based sprays preventively or at the early stages of infection.\n•\tFollow label instructions and local regulations when using copper-based products.\n•\tConsider antibiotic treatments in severe cases or commercial settings, following approved guidelines.\n•\t Common options include streptomycin and oxytetracycline, but availability and regulations vary by region.\n"
+        }
+      ],
+      "host": [
+        "avocado"
+      ],
+      "images": []
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

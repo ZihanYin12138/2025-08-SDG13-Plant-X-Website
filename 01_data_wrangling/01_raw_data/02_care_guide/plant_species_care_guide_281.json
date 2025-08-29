@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1785,
+      "species_id": 281,
+      "common_name": "Dawyck Purple Beech",
+      "scientific_name": [
+        "Fagus sylvatica 'Dawyck Purple'"
+      ],
+      "section": [
+        {
+          "id": 5560,
+          "type": "watering",
+          "description": "Generally young Dawyck Purple Beech trees need to be watered about once a week in the warmer months. An adult tree will need to be watered less frequently, usually around every 3-4 weeks. When watering, the soil should be thoroughly wet. You should water until moisture begins to seep from the bottom of the pot. Watering amounts should be adjusted depending on the season. During the hotter summer months, more water may be needed. The amount of water can be reduced in winter months, when the tree is naturally dormant."
+        },
+        {
+          "id": 5561,
+          "type": "sunlight",
+          "description": "Dawyck Purple Beech (Fagus sylvatica 'Dawyck Purple') is a species of plant that grows best in full sun to part shade conditions. This plant prefers 6 - 8 hours of direct sunlight each day, preferably in the morning. During the hottest summer months, it may require some shade to prevent leaf scorching. The ideal location is 1 that receives some morning sun and is shaded by late afternoon. In terms of sun exposure, winter months will require less sun than the summer months."
+        },
+        {
+          "id": 5562,
+          "type": "pruning",
+          "description": "Dawyck Purple Beech trees should be pruned in late winter or very early spring, before the start of the growing season. Pruning should be done to remove any dead, diseased, or damaged branches as well as any vigorous upright growth that will detract from the overall shape of the tree. Pruning should also be used to open up the foliage to allow better air circulation and light penetration. It is best to remove no more than 1-third of the live growth per year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,107 @@
+{
+  "id": 79,
+  "common_name": "Mikawa Yatsubusa Japanese Maple",
+  "scientific_name": [
+    "Acer palmatum 'Mikawa Yatsubusa'"
+  ],
+  "other_name": [],
+  "family": null,
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Mikawa Yatsubusa",
+  "variety": null,
+  "species_epithet": "palmatum",
+  "genus": "Acer",
+  "origin": [
+    "Japan"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 8,
+      "max_value": 8,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Cutting",
+    "Air Layering Propagation",
+    "Root Division"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=79&size=og&key=sk-3ksU68b046f66e1f912089",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=79&size=og&key=sk-3ksU68b046f66e1f912089'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "part shade",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=79&key=sk-3ksU68b046f66e1f912089",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": false,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Mikawa Yatsubusa Japanese Maple (Acer palmatum 'Mikawa Yatsubusa') is an amazing plant species that many gardeners love! This tree has dark green foliage in the summer, followed in autumn by an incredible array of vibrant reds and oranges. Its graceful cascading form and slow growth rate make it an ideal choice for bonsai or a small garden landscape. Its size makes it perfect for those with limited space. The tree provides four-season interest, making it a truly stunning addition to any garden. Furthermore, the tree is resistance to many pests, like the Japanese beetle, and is highly drought tolerant, making it a low-maintenance and reliable plant to keep in your landscape.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/79_acer_palmatum_mikawa_yatsubusa/og/2560px-Acer_palmatum_27Kashima_Yatsubusa27_-_Asticou_Azalea_Garden_-_Northeast_Harbor2C_Maine_-_DSC03516.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/79_acer_palmatum_mikawa_yatsubusa/regular/2560px-Acer_palmatum_27Kashima_Yatsubusa27_-_Asticou_Azalea_Garden_-_Northeast_Harbor2C_Maine_-_DSC03516.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/79_acer_palmatum_mikawa_yatsubusa/medium/2560px-Acer_palmatum_27Kashima_Yatsubusa27_-_Asticou_Azalea_Garden_-_Northeast_Harbor2C_Maine_-_DSC03516.jpg",
+    "small_url": "https://perenual.com/storage/species_image/79_acer_palmatum_mikawa_yatsubusa/small/2560px-Acer_palmatum_27Kashima_Yatsubusa27_-_Asticou_Azalea_Garden_-_Northeast_Harbor2C_Maine_-_DSC03516.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/79_acer_palmatum_mikawa_yatsubusa/thumbnail/2560px-Acer_palmatum_27Kashima_Yatsubusa27_-_Asticou_Azalea_Garden_-_Northeast_Harbor2C_Maine_-_DSC03516.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1677,
+      "species_id": 149,
+      "common_name": "Princeton Gold Maple",
+      "scientific_name": [
+        "Acer platanoides 'Princeton Gold'"
+      ],
+      "section": [
+        {
+          "id": 5236,
+          "type": "watering",
+          "description": "Acer platanoides 'Princeton Gold' should be watered every 7-10 days during dry weather. The amount of water required will depend on the climate; in hot, dry climates it may require more frequent watering. The soil should be kept consistently moist, but not wet. To check for moisture levels, stick your finger into the top 2-3 inches of soil, if it feels dry then it's best to water. During periods of extreme heat, it may be necessary to water twice a week. Avoid overhead watering and ensure the tree is well-draining to prevent root rot."
+        },
+        {
+          "id": 5237,
+          "type": "sunlight",
+          "description": "Princeton Gold Maple (Acer platanoides 'Princeton Gold') is best grown in full sunlight for optimal growth and healthy foliage. This species benefits from at least 6 to 8 hours of direct sun each day, especially during the spring and summer months when temperatures are warmer and plants are actively growing. It can also tolerate some dappled shade, particularly during the hottest parts of summer. As the days start to get shorter and temperatures become cooler in the fall, this particular species of maple tree can fare well with a little bit less direct sunlight. "
+        },
+        {
+          "id": 5238,
+          "type": "pruning",
+          "description": "Princeton Gold Maple should be pruned once a year in late winter or early spring when the tree is dormant. Pruning should be limited to removing crossing, rubbing, or otherwise diseased branches.Younger trees should have their central leader trained. This point should be about 3 or 4 ft above the surrounding branches, while older trees should have their main leader no higher than 12 feet. Pruning should be done with sharp pruning shears to make clean cuts."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

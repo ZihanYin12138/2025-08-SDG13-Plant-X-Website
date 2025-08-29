@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 75,
+      "species_id": 64,
+      "common_name": "Inaba Shidare Cutleaf Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Inaba Shidare'"
+      ],
+      "section": [
+        {
+          "id": 1289,
+          "type": "watering",
+          "description": "The Inaba Shidare Cutleaf Japanese Maple requires moist, well-drained soil for best growth and should be watered 2 to 3 times per week, allowing the soil to dry out between waterings. It is important to not overwater, as this can lead to root rot. During hot summer weather, the cutleaf Japanese maple may need more frequent watering. "
+        },
+        {
+          "id": 1290,
+          "type": "sunlight",
+          "description": "Inaba Shidare Cutleaf Japanese Maple trees are best grown in areas that receive plenty of sunlight. They thrive in full sun or partial shade, so they should get at least 4 to 6 hours of direct sunlight per day. These maples are not tolerant of heavy shade, and the exposure to more sunlight will help to produce the best results when it comes to their leaf color and overall health. It is best to direct more sunlight onto the tree during the morning, as the afternoon sun can be much more intense."
+        },
+        {
+          "id": 1291,
+          "type": "pruning",
+          "description": "When it comes to pruning Inaba Shidare Cutleaf Japanese Maple, it is best to prune it in the late winter or early spring. This species of maple is best pruned lightly in order to maintain its natural, cascading shape. It is best to remove any thin or broken branches and dead or diseased wood. It should be trimmed judiciously to maintain shape and size, but no more than 20% of the foliage should be removed each year in order to maintain its health. Moreover, pruning should be done within the first 5 years of growth in order to ensure it develops the desired cascading shape. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

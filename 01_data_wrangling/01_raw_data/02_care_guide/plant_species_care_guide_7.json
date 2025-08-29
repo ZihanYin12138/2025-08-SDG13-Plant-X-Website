@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 49,
+      "species_id": 7,
+      "common_name": "Alpine Fir",
+      "scientific_name": [
+        "Abies lasiocarpa"
+      ],
+      "section": [
+        {
+          "id": 1205,
+          "type": "watering",
+          "description": "Alpine Fir requires moderate to deep watering and should be watered around once a week during the growing season--generally from late Spring until the end of Summer. Water the pot deeply until water comes out of the pot's bottom drainage holes to ensure the entire root system has been adequately soaked. Do not water again until the soil feels dry to the touch, about an inch below the surface. During Fall and Winter, allow the soil to dry out completely before watering."
+        },
+        {
+          "id": 1206,
+          "type": "sunlight",
+          "description": "The Alpine Fir likes the full sun. For optimal growth, it is recommended to receive approximately 6 to 8 hours of direct sunlight a day. Sunlight should be spread out evenly throughout the day, as too much sun during some parts of the day can cause sunburn and other damages. In more northern climates, it is more tolerant of lower light levels, but may not achieve ideal growth with less than 4 to 6 hours of direct sunlight."
+        },
+        {
+          "id": 1207,
+          "type": "pruning",
+          "description": "Pruning an alpine fir is best done in the late winter or early spring just before new growth begins. Prune away dead and crossing branches as needed and selectively thin out crowded areas. Avoid removing more than 1-third of the foliage as this can stress the tree and reduce health. Doing light pruning over a number of years is the best practice as this allows for a gradual movement of the desired new shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

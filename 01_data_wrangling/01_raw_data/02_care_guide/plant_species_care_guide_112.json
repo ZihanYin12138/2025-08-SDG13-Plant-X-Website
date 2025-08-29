@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1644,
+      "species_id": 112,
+      "common_name": "Sagara Nishiki Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Sagara Nishiki'"
+      ],
+      "section": [
+        {
+          "id": 5137,
+          "type": "watering",
+          "description": "Sagara Nishiki Japanese Maple needs to be watered thoroughly once per week during its growing season (spring and summer). During hot, dry weather, water the tree every 3-4 days, making sure the soil stays moist, but never wet or soggy. Make sure to water evenly and allow the water to soak in slowly. In cooler weather (fall and winter), the tree will need less frequent watering once every 2 weeks."
+        },
+        {
+          "id": 5138,
+          "type": "sunlight",
+          "description": "Sagara Nishiki Japanese Maples require 4 to 5 hours of direct sunlight per day. This species is adaptable to partial shade, but will thrive when provided with exposure to morning or late afternoon sunlight. Summer sun can be especially intense, so it is important to provide proper protection from this intense light. In extremely hot climates, midday shade may be necessary to protect the plant and maintain its coloring."
+        },
+        {
+          "id": 5139,
+          "type": "pruning",
+          "description": "Sagara Nishiki Japanese Maple (Acer palmatum 'Sagara Nishiki') should be pruned once a year, in late winter or early Spring before bud break. Pruning should be light, focusing primarily on removing dead or diseased branches and any crossing branches. Careful attention should be taken to maintain the trees natural form, as heavy pruning can damage the tree and expose it to disease. Prune off no more than 1-third of the branches and aim to maintain the tree's desired shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

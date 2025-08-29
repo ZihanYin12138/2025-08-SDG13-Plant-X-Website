@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1671,
+      "species_id": 142,
+      "common_name": "Yellow Bird Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Yellow Bird'"
+      ],
+      "section": [
+        {
+          "id": 5218,
+          "type": "watering",
+          "description": "Yellow Bird Japanese Maple should be watered thoroughly and deeply about once a week during the growing season, making sure to water the roots directly. During hot weather, it may need to be watered more frequently. During the winter months, however, you can reduce watering and allow the soil to go slightly dry between waterings."
+        },
+        {
+          "id": 5219,
+          "type": "sunlight",
+          "description": "Yellow Bird Japanese Maple prefers full sun to partial shade. It should be planted in a location that gets at least 4 hours of direct sunlight each day, especially during the summer when the temperatures are higher. If possible, choose a location away from any harsh afternoon sun, such as in the East or North parts of a garden. During the winter months, this species can tolerate low levels of direct sunlight."
+        },
+        {
+          "id": 5220,
+          "type": "pruning",
+          "description": "Yellow Bird Japanese Maple should be pruned twice a year, once in the spring and again in the winter when dormant. In the spring, remove any dead or crossing branches to improve airflow and encourage healthy growth. Prune away any sucker growth or thin out crowded areas to refine the overall shape. This will also help maintain a good balance between the vigorous top growth and roots. In the winter when the plant is dormant, prune out any dead, weak, or broken branches to create a more open canopy and allow for better air circulation. Be sure to prune as needed since over-pruning can cause excessive and uncontrolled new growth. Be careful to never prune more than a third of a plant's foliage to prevent shock. Finally, pruning in the winter or early spring can help reduce disease and pest problems by removing any infected areas."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

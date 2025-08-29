@@ -1,0 +1,140 @@
+{
+  "id": 263,
+  "common_name": "Golden Cornelian Cherry Dogwood",
+  "scientific_name": [
+    "Cornus mas 'Aurea'"
+  ],
+  "other_name": [
+    "Cornelian cherry"
+  ],
+  "family": "Cornaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Aurea",
+  "variety": null,
+  "species_epithet": "mas",
+  "genus": "Cornus",
+  "origin": [
+    "Western Asia",
+    "Europe"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 20,
+      "max_value": 20,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Greenwood Cuttings",
+    "Greenwood Cuttings"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=263&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=263&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "branches",
+      "color": [
+        "green-brown"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green-brown"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green-yellow"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=263&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Anthracnose",
+    " Nematodes",
+    " Root rot",
+    " Scale insects",
+    " Stem borer insects",
+    " Thrips",
+    "  Deer resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Golden Cornelian Cherry Dogwood (Cornus mas 'Aurea') is an amazing ornamental shrub with year-round interest. Its bright yellow-green flowers in spring and its clusters of bright red berries in fall, turn it into a real eye-catcher. Its gorgeous yellow foliage in the summer and its bright red fall foliage bring even more attention when the leaves start to change color. This shrub is easy to grow and requires little pruning. It makes an ideal background for your garden or other landscaping. With its beautiful blooms, marvelous foliage and its low-maintenance nature, this shrub is an excellent choice for adding beauty and interest to any garden.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/263_cornus_mas_aurea/og/29887979954_a6f7864a41_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/263_cornus_mas_aurea/regular/29887979954_a6f7864a41_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/263_cornus_mas_aurea/medium/29887979954_a6f7864a41_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/263_cornus_mas_aurea/small/29887979954_a6f7864a41_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/263_cornus_mas_aurea/thumbnail/29887979954_a6f7864a41_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

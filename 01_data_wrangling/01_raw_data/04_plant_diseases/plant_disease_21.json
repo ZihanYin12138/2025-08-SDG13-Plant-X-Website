@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 21,
+      "common_name": "Apple mosaic",
+      "scientific_name": "Ilarvirus",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": " What is Apple Mosaic (Ilarvirus)?",
+          "description": "Apple mosaic is a plant disease caused by multiple viruses, including Apple mosaic virus (ApMV) and Tulare apple mosaic virus (TAMV), which are primarily transmitted by aphids. Infected apple varieties develop pale yellow or white spots that turn brown, creating mosaic patterns on leaves, which may drop prematurely. This disease is widespread in apple-growing regions globally, with severe symptoms commonly observed in Golden Delicious, Granny Smith, and Jonathan apple varieties."
+        },
+        {
+          "subtitle": "How does Apple Mosaic (Ilarvirus) occur?",
+          "description": "Aphids are the primary transmission method for some viruses, such as Apple mosaic virus (ApMV), the primary transmission routes for other apple mosaic viruses can indeed include root grafting and infected propagation equipment. These viruses reproduce by entering host plant cells, replicating their RNA genome, and assembling new virus particles. They then spread within the plant through cell-to-cell movement and systemic spread, resulting in the characteristic symptoms of apple mosaic disease. "
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Prevention and Control Measures",
+          "description": "•\tUse virus-free plants obtained from reputable suppliers.\n•\tPractice good sanitation by disinfecting tools and equipment.\n•\tRemove and destroy infected trees to prevent further spread.\n•\tImplement pest control measures to manage insect vectors.\n•\tMonitor orchards regularly for early detection and prompt removal of infected trees.\n•\tAvoid planting apple trees in areas where infected trees were previously present.\n"
+        },
+        {
+          "subtitle": "Cultural Practices",
+          "description": "•\tPractice crop rotation to reduce the risk of reinfection.\n•\tImplement proper pruning techniques to promote tree health.\n•\tEnsure proper irrigation and nutrition to maintain tree vigor.\n•\tCreate proper spacing between trees to improve airflow and reduce disease pressure.\n"
+        },
+        {
+          "subtitle": "Genetic Resistance and Rootstock Selection",
+          "description": "•\tSelect apple varieties that are less sensitive to apple mosaic viruses.\n•\tUse resistant rootstocks that provide tolerance or resistance to viruses.\n•\tConsult with experts or extension services for information on virus-resistant varieties and rootstocks.\n•\tConsider genetic testing or screening of planting material for virus-free status.\n"
+        }
+      ],
+      "host": [
+        "apple"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/21_ilarvirus/og/PanaC5A1ovC3A1nC3AD_listu_jablonC49B.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/21_ilarvirus/regular/PanaC5A1ovC3A1nC3AD_listu_jablonC49B.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/21_ilarvirus/medium/PanaC5A1ovC3A1nC3AD_listu_jablonC49B.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/21_ilarvirus/small/PanaC5A1ovC3A1nC3AD_listu_jablonC49B.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/21_ilarvirus/thumbnail/PanaC5A1ovC3A1nC3AD_listu_jablonC49B.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

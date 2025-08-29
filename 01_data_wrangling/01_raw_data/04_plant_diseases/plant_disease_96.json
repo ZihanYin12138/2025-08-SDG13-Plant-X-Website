@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": 96,
+      "common_name": "Hairy turkey tail",
+      "scientific_name": "Trametes hirsuta",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is The hairy turkey tail (Trametes hirsuta)?",
+          "description": "Trametes hirsuta, also known as the hairy turkey tail or hairy bracket, is a widespread saprobic mushroom. Thriving on numerous hardwood and conifer tree species, it acts as a saprotrophic organism, breaking down dead wood to acquire nutrients for its growth and contributing to forest regeneration. This fungus causes white rot and typically forms clusters on logs and stumps during summer and fall. Its semicircular cap, up to 10 cm in diameter and 6 cm deep, displays a densely hairy surface with radial furrows, varying shades of gray, whitish, and brownish colors, and a typically brownish to blackish margin."
+        },
+        {
+          "subtitle": "How does The hairy turkey tail (Trametes hirsuta) occur?",
+          "description": "Trametes hirsuta reproduces through the production and dispersal of spores (basidia). Spores are released from the pore surface of the mushroom and dispersed by various means such as air currents, rain, or physical disturbances.\n\nWhen conditions are favorable, spores germinate and form mycelium, which colonizes and decomposes deadwood through enzymatic activity. Under suitable conditions, a fruiting body (mushroom) develops, producing more spores to continue the reproductive cycle. "
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Control",
+          "description": "1.\tRegular Inspection: Inspect trees and wood structures for early signs of Trametes hirsuta.\n\n2.\tPruning and Removal: Remove dead or decaying branches and trees promptly.\n\n3.\tMaintain Tree Health: Properly care for trees with watering, fertilization, and pruning.\n\n4.\tEnsure Drainage: Prevent excessive moisture by ensuring proper drainage.\n\n5.\tPromote Air Circulation: Avoid overcrowding and maintain adequate spacing.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "There are several fungicides available, such as copper-based, borate-based, thiabendazole, and propiconazole, that can be used to control wood-decaying fungi like Trametes hirsuta.\n\nFollow the instructions provided by the manufacturer and consult professionals for specific recommendations and proper usage.\n"
+        }
+      ],
+      "host": [
+        "cherry",
+        "citrus",
+        "various trees and shrubs",
+        "walnut"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/96_trametes_hirsuta/og/2560px-thumbnail.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/96_trametes_hirsuta/regular/2560px-thumbnail.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/96_trametes_hirsuta/medium/2560px-thumbnail.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/96_trametes_hirsuta/small/2560px-thumbnail.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/96_trametes_hirsuta/thumbnail/2560px-thumbnail.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

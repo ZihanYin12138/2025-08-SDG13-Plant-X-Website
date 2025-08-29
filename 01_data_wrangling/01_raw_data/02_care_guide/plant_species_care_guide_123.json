@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1653,
+      "species_id": 123,
+      "common_name": "Lions Head Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Shishigashira'"
+      ],
+      "section": [
+        {
+          "id": 5164,
+          "type": "watering",
+          "description": "The Lions Head Japanese Maple (Acer palmatum 'Shishigashira') should be watered about once per week during the summer and twice per month during the winter. In the spring and fall, water the plant every 1 to 2 weeks, depending on the weather and soil. Make sure the soil is moist but not waterlogged— stick your finger about 2 inches into the soil to check for moisture. If the soil is still damp, then your plant probably doesn't need more water yet. If the soil feels dry, then it's time to water."
+        },
+        {
+          "id": 5165,
+          "type": "sunlight",
+          "description": "Lions Head Japanese Maple (Acer palmatum 'Shishigashira') grows best in full sun, or at least 6 to 8 hours of direct sunlight each day. During the hottest part of the day, it's important to provide some shade for this plant for optimal health."
+        },
+        {
+          "id": 5166,
+          "type": "pruning",
+          "description": "Lions Head Japanese Maple trees (Acer palmatum 'Shishigashira') should be pruned in early spring, before the new growth begins to appear. Pruning should be moderate, removing no more than 1-third of the total number of branches. Be sure to prune away any dead, diseased, or broken branches, and any that are growing in an undesirable direction. For further shaping, selectively prune as desired to maintain the desired shape and size. Pruning can also encourage denser foliage by removing inner branches. Avoid pruning late in the season when the trees are actively growing."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

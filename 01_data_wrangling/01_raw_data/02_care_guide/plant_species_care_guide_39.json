@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 994,
+      "species_id": 39,
+      "common_name": "Beni Kawa Coral Bark Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Beni Kawa'"
+      ],
+      "section": [
+        {
+          "id": 2983,
+          "type": "watering",
+          "description": "For the Beni Kawa Coral Bark Japanese Maple (Acer palmatum 'Beni Kawa'), it is recommended to water the plant deeply, at least twice per week. The exact amount will depend on the time of year, the conditions the plant is growing in and the water requirements of the soil. During summer, water the plant more frequently as the plant tends to require more moisture during this period. However, in winter the plant can be watered less frequently and only when the top 2 inches of the soil in the pot, are dry. It is important to avoid over-watering as this can cause issues such as root rot. Additionally, providing adequate drainage can help avoid water logging."
+        },
+        {
+          "id": 2984,
+          "type": "sunlight",
+          "description": "Beni Kawa Coral Bark Japanese Maples should be planted in an area that receives a full day's worth of sun, at least 6-7 hours. This species of maple prefers morning sun and afternoon shade, so it is best placed in a spot that will allow it to receive the most consistent amount of sunlight without having a lot of direct exposure later in the day."
+        },
+        {
+          "id": 2985,
+          "type": "pruning",
+          "description": "For Beni Kawa Coral Bark Japanese Maple, pruning should be done in early spring before new growth appears. Pruning should be kept to a minimum; the tree should only be pruned to remove dead, diseased, or crossing branches, and to correct unwanted shape. Generally, only 10-20% of the overall growth should be pruned each year. This allows the plant to keep its natural shape and the branches to thicken, developing strength against wind and other elements."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

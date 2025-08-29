@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "id": 91,
+      "common_name": "Cavity spot",
+      "scientific_name": "Pythium violae",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Cavity spot disease (Pythium violae)?",
+          "description": "Pythium violae is an oomycete pathogen that primarily affects carrots, but it can also cause lesions on various other plants, including alfalfa roots, celery, black-eyed peas, wheat, cucumber, beets, and even weeds. This pathogen is responsible for cavity spot disease. In addition, symptoms of cavity spot disease manifest as oval-shaped and depressed lesions along the mature taproots of carrots. These lesions are surrounded by a thin yellow halo. They are relatively large, measuring about an inch in diameter, and typically appear in the upper third of the root.\n\n"
+        },
+        {
+          "subtitle": "How does Cavity spot disease (Pythium violae) occur?",
+          "description": "Pythium violae follows a disease cycle that is associated with cool and wet weather conditions, usually around 58°F. These fungi thrive in moist soils with a preferred pH of around 6.8. During winter, they survive as oospores in the soil and become active as the soil temperature rises. In free water, they produce zoospores, which initiate new infections. This cycle underscores the significance of moisture management and the impact of soil temperature on the pathogen's activity."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Methods",
+          "description": "•\tUtilize raised beds to enhance soil drainage and mitigate waterlogging issues, promoting healthier plant growth.\n•\tPractice water management by avoiding excessive watering, and ensuring appropriate soil moisture levels.\n•\tImplement a lengthy crop rotation schedule, allowing sufficient time between susceptible host plantings to disrupt the pathogen's life cycle.\n•\tOpt for well-drained, lighter soil types when cultivating carrots and other susceptible plants to discourage disease development.\n•\tConsider harvesting host plants earlier than usual to minimize disease severity and limit the spread of Pythium violae.\n\n\n"
+        },
+        {
+          "subtitle": "Treatment options",
+          "description": "Treat fields with a history of severe cavity spot.\n\n•\tMEFENOXAM (Ridomil Gold SL): Apply preplant- or post-planting, 28-50 days apart, at a 1-1.3 pt/acre rate. Use chemigation or ground equipment with irrigation. Max limit: 2.8 pt/acre per season.\n\n•\tFENAMIDONE (Reason 500SC): Alternate with mefenoxam fungicide. Apply every 14-21 days at an 8.2 fl oz/acre rate.\n\n•\tCYAZOFAMID (Ranman): Apply at a rate of 6.0 fl oz/acre every 12-14 days. Mode of action: ubiquinone reductase, Qi site (21).\n\nApply preplant by sprinkler, drip irrigation, or flood irrigation. Check label for rates and preplant timing."
+        }
+      ],
+      "host": [
+        "carrot"
+      ],
+      "images": []
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

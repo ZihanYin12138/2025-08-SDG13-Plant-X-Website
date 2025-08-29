@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 45,
+      "common_name": "Ovulinia petal blight",
+      "scientific_name": "Ovulinia azalea",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Ovulinia petal blight (Ovulinia azalea)?",
+          "description": "Ovulinia petal blight, also called Ovulinia azalea, is a fungal disease that predominantly affects flowers in the Rhododendron and Azalea groups. It can also infect other plants like Camellias. The disease is widespread in various regions. The fungus targets the petals, resulting in small water-soaked spots that rapidly enlarge, transforming into slimy, tan or light brown mushy petals covered in a white powdery substance. The infection progresses, causing the entire petals to become slimy and limp. Infected flowers have a short lifespan of only 2 to 3 days after blooming."
+        },
+        {
+          "subtitle": "How does Ovulinia petal blight (Ovulinia azalea) occur?",
+          "description": "Fungus reproduces through apothecia (reproductive structures) and sclerotia (infectious structures). It also produces colorless conidia (asexual spores) on infected petals. The spores are dispersed by wind or flower-visiting insects like bumble bees, infecting new blossoms during wet periods. The disease rapidly spreads among multiple flowers within days of initial infection. This enables the fungus to reproduce and infect other plants quickly."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices",
+          "description": "•\tSelect varieties that are resistant or tolerant to Ovulinia petal blight.\n•\tRegularly remove and dispose of infected plant debris and fallen petals.\n•\tProvide good air circulation by spacing plants adequately.\n•\tAvoid overhead watering, especially in the evening or at night.\n•\tRegularly monitor plants for symptoms of Ovulinia petal blight, especially during wet weather.\n"
+        },
+        {
+          "subtitle": "Biological Control",
+          "description": "•\tSome biological control agents, such as Bacillus subtilis, may help control Ovulinia petal blight.\n\n•\tApply biological control agents according to label instructions.\nPlant Selection\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "•\tSome commonly used fungicides include BioAdvanced Disease Control, Bayleton 50 T&O, Bonide Captan 50 WP, Bonide Fung-onil Multi-purpose Fungicide, Daconil Weather Stik, Eagle 20 EW, Myclobutanil 20 EW T&O, Orkestra, Propiconazole-based products (e.g., Banner MAXX, ProCon-Z), Spectro 90 WDG, Thiophanate-methyl-based products, and Ziram 76 DF. \n\n•\tIt's important to carefully follow the instructions on the product labels, including recommended application rates and reentry intervals, to effectively manage the disease while minimizing any potential risks.\n"
+        }
+      ],
+      "host": [
+        "azalea",
+        "rhododendron"
+      ],
+      "images": []
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

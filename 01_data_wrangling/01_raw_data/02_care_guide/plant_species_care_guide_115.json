@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1647,
+      "species_id": 115,
+      "common_name": "Sazanami Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Sazanami'"
+      ],
+      "section": [
+        {
+          "id": 5146,
+          "type": "watering",
+          "description": "During the warmer months, water the plant deeply and thoroughly once or twice a week. Water should be added slowly to ensure that the entire root system is watered, saturating the soil. During the winter, water when the soil becomes dry. Additionally, during very hot months, it's beneficial to water the plant every other day during early morning and late evening. Always be sure to water until the soil is saturated."
+        },
+        {
+          "id": 5147,
+          "type": "sunlight",
+          "description": "The Sazanami Japanese Maple (Acer palmatum 'Sazanami') does best with partial to full sun. It should receive at least 4 hours of direct sun per day, but can tolerate up to 8 hours or more depending on the season and climate. This species does not require full afternoon sun, so morning sun or filtered light in the afternoon will suffice. When exposed to too much direct sunlight, Sazanami’s foliage may become scorched. In hotter climates, afternoon sun should be avoided during the summer months but when the temperatures cool in early autumn, more sun might be beneficial."
+        },
+        {
+          "id": 5148,
+          "type": "pruning",
+          "description": "Sazanami Japanese Maple should be pruned in late winter or early spring to ensure that the tree is healthy and vigorous. The amount of pruning should be relatively minimal and should focus on removing any dead, diseased, or crowded branches and selectively cutting back branches to maintain an overall desired shape. Pruning should be conducted slowly, checking for living buds or signs of growth on each branch and only selectively pruning live branches if needed. This species of tree does not need routine pruning for size and shape as frequent pruning can result in an excessive number of shoots, so it is best to only prune when necessary."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1706,
+      "species_id": 187,
+      "common_name": "River Birch (clump)",
+      "scientific_name": [
+        "Betula nigra '(clump)'"
+      ],
+      "section": [
+        {
+          "id": 5323,
+          "type": "watering",
+          "description": "River Birch (clump) (Betula nigra '(clump') plants should be watered thoroughly and regularly throughout the season. During times of extreme heat or drought, water more frequently. Deep, infrequent watering is better than light, daily watering. In general, you should water deeply at least once a week to establish a good root system. During the heat of summer, you may need to water 2 or 3 times a week. It is important to allow the soil to partially dry out between waterings. In colder temperatures and in the fall, reduce the amount of water you give the tree."
+        },
+        {
+          "id": 5324,
+          "type": "sunlight",
+          "description": "River Birch (clump) (Betula nigra '(clump)') needs full sun to achieve its best growth form, health, and color. This species will thrive in areas that receive 6 to 8 hours of direct sunlight each day during peak growing season, from late winter to early fall. It can tolerate light partial shade during the hottest parts of the day, while still doing well in the full sun it prefers. River Birch is a hardy, adaptable tree that can grow in a wide range of soils, from wet to dry, providing there is enough sunlight."
+        },
+        {
+          "id": 5325,
+          "type": "pruning",
+          "description": "Pruning for River Birch (clump) (Betula nigra '(clump)') should take place in early spring, just as the new growth is beginning to emerge. This is typically any time from late March to early April. When pruning, remove dead or damaged branches to promote sturdy growth. Make sure to prune each branch, 1 at a time in order to produce thinning and encouraged a natural shape. It is not necessary to prune more than what is needed to maintain the desired shape of the plant. If the clump exceeds the desired height or size, thin out some of the stems close to the trunk or shorten all stems by up to 1-third. Too much pruning can lead to dieback of branches and slow growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

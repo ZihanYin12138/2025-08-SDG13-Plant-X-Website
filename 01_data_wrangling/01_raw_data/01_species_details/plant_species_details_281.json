@@ -1,0 +1,138 @@
+{
+  "id": 281,
+  "common_name": "Dawyck Purple Beech",
+  "scientific_name": [
+    "Fagus sylvatica 'Dawyck Purple'"
+  ],
+  "other_name": [
+    "Golden Fastigiate Beech",
+    "European Beech"
+  ],
+  "family": "Fagaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Dawyck Purple",
+  "variety": null,
+  "species_epithet": "sylvatica",
+  "genus": "Fagus",
+  "origin": [
+    "Europe",
+    "Garden origin"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 45,
+      "max_value": 45,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=281&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=281&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stems",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "trunks",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=281&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [
+    "Rodents",
+    "  Pest resistant",
+    " Disease resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Dawyck Purple Beech is a stunning large deciduous tree that will bring character and vibrant shades of purple and red to any garden. Not only is the foliage attractive, this species is renowned for its drought tolerance and can thrive in even the hottest summer conditions. The leaves turn brown during winter, so the brighty hues of purple move the woodland gardens of many people into a new level of vibrancy and beauty. Its architectural form also makes it great for creating shady areas to enjoy during hot summer days. Dawyck Purple Beech is a must-have in any garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/281_fagus_sylvatica_dawyck_purple/og/28664584202_1248ff5994_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/281_fagus_sylvatica_dawyck_purple/regular/28664584202_1248ff5994_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/281_fagus_sylvatica_dawyck_purple/medium/28664584202_1248ff5994_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/281_fagus_sylvatica_dawyck_purple/small/28664584202_1248ff5994_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/281_fagus_sylvatica_dawyck_purple/thumbnail/28664584202_1248ff5994_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

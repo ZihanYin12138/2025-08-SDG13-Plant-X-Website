@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 594,
+      "species_id": 291,
+      "common_name": "Peter's Honey Fig",
+      "scientific_name": [
+        "Ficus carica 'Peter's Honey'"
+      ],
+      "section": [
+        {
+          "id": 1783,
+          "type": "watering",
+          "description": "Peter's Honey Fig is a drought-tolerant plant species that does not need a lot of water. Generally, you should water it only once or twice per week, allowing the soil to dry out in between waterings. When watering the plant, it is best to thoroughly soak the soil, so that water reaches the roots. During the hotter months of the year, Peter's Honey Fig may need slightly more water than in other months."
+        },
+        {
+          "id": 1784,
+          "type": "sunlight",
+          "description": "Peter's Honey Fig (Ficus carica 'Peter's Honey') needs 6 to 8 hours of direct sunlight during the warmer months of the year for proper growth and fruiting. During the cooler months, Peter's Honey Fig will thrive with 4 to 6 hours of direct sunlight. Sunlight should be taken into account when planting Peter's Honey Fig in an area for optimal growth, providing as much direct sunlight as possible."
+        },
+        {
+          "id": 1785,
+          "type": "pruning",
+          "description": "Pruning of Peter's Honey Figs should be done once a year in the late winter, or early spring prior to the start of new growth. For best results, prune the umbrella-shaped tree by removing 1/2 to 2/3 of the flowing shoots. This will help to encourage new, more fruitful growth. Additionally, any dead, damaged, or diseased limbs should be removed. Remove any suckers emerging from the base of the trunk and cut back water sprouts (excessive upright shoots) to the main branch. Depending on the size of the tree, loppers or a pruning saw may be needed for larger branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

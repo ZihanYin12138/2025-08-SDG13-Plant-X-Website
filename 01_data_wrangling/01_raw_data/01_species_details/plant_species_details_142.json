@@ -1,0 +1,115 @@
+{
+  "id": 142,
+  "common_name": "Yellow Bird Japanese Maple",
+  "scientific_name": [
+    "Acer palmatum 'Yellow Bird'"
+  ],
+  "other_name": [],
+  "family": null,
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Yellow Bird",
+  "variety": null,
+  "species_epithet": "palmatum",
+  "genus": "Acer",
+  "origin": [
+    "Japan"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 15,
+      "max_value": 15,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Cutting",
+    "Air Layering Propagation",
+    "Root Division"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "5"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=142&size=og&key=sk-ACnv68b0630adff3b12096",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=142&size=og&key=sk-ACnv68b0630adff3b12096'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "December",
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "December",
+    "January",
+    "February",
+    "December",
+    "January",
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=142&key=sk-ACnv68b0630adff3b12096",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [],
+  "flowers": false,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The Yellow Bird Japanese Maple is one of the most prized maples in the yard. Its bright yellow-green foliage is striking, especially when the tips of each leaf turn golden in the fall. This semi-dwarf maple thrives in partial to full sun and does best in both moist and well-drained soil. Its habit is open and upright and can reach heights of 8–10 feet in ten years, making it ideal for small or medium sized gardens. Its vibrant yellow-green foliage glows in the sun and provides a dramatic accent all year. With its graceful weeping habit, it's an excellent choice for adding beautiful interest to shady areas. Whether you select it for its beauty, graceful habit, or year-round color, the Yellow Bird Japanese Maple is a must-have for any garden!",
+  "default_image": null,
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

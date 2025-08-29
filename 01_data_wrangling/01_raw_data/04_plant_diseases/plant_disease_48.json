@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 48,
+      "common_name": "Bean rust",
+      "scientific_name": "Uromyces phaseoli",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Bean rust (Uromyces phaseoli)?",
+          "description": "Bean rust, caused by the fungus Uromyces phaseoli, is a global fungal disease that affects common bean plants. It thrives in warm and humid conditions, leading to the development of yellow spots on leaves that transform into brown lesions surrounded by a yellow halo. This disease causes defoliation, wilting, and premature death of plants. Infected pods become distorted and turn brown, while the germination of seeds may be impaired."
+        },
+        {
+          "subtitle": "How does Bean rust (Uromyces phaseoli) occur?",
+          "description": "Bean rust is caused by the fungus Uromyces phaseoli, which reproduces through both sexual and asexual means. Asexual spores are spread by wind, rain, or physical contact, infecting healthy plants and forming new pustules. The fungus also has a sexual stage on other legume plants, with sexual spores capable of infecting the primary host, the common bean. The fungus can survive on infected plant debris and seed, contributing to the disease's spread."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Control",
+          "description": "•\tMaintain proper irrigation and fertilization practices to keep plants healthy and better able to resist disease.\n•\tUse varieties that are resistant to Uromyces phaseoli to reduce the risk of infection.\n•\tRemove infected plant debris from the field and dispose of it properly. Also, avoid using contaminated seeds for planting. \n•\tAnd regularly inspect plants for signs of disease and take prompt action to prevent its spread.\n"
+        },
+        {
+          "subtitle": "Crop Rotation and Timely Harvesting",
+          "description": "Avoid planting in the same area for consecutive seasons, as this can lead to the buildup of fungal spores in Fungicides like triazoles, strobilurins, copper-based products, and mancozeb can control strobilurinsphaseoli (Bean Rust) on crops. \n\nFollow instructions and consult with local Rust authorities for the best options. soil. Furthermore, Harvest at the proper time to reduce the risk of fungal infection."
+        },
+        {
+          "subtitle": "Fungicide",
+          "description": "Fungicides like triazoles, strobilurins, copper-based products, and mancozeb can control Uromyces phaseoli (Bean Rust) on crops. \n\nFollow instructions and consult with local agricultural authorities for the best options."
+        }
+      ],
+      "host": [
+        "beans"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/48_uromyces_phaseoli/og/Roest_op_stoksperzieboon_28Uromyces_appendiculatus_var._appendiculatus29.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/48_uromyces_phaseoli/regular/Roest_op_stoksperzieboon_28Uromyces_appendiculatus_var._appendiculatus29.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/48_uromyces_phaseoli/medium/Roest_op_stoksperzieboon_28Uromyces_appendiculatus_var._appendiculatus29.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/48_uromyces_phaseoli/small/Roest_op_stoksperzieboon_28Uromyces_appendiculatus_var._appendiculatus29.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/48_uromyces_phaseoli/thumbnail/Roest_op_stoksperzieboon_28Uromyces_appendiculatus_var._appendiculatus29.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1633,
+      "species_id": 101,
+      "common_name": "Purple Ghost Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Purple Ghost'"
+      ],
+      "section": [
+        {
+          "id": 5104,
+          "type": "watering",
+          "description": "Purple Ghost Japanese Maple (Acer palmatum 'Purple Ghost') should be watered regularly to keep the soil evenly moist. Water the plant deeply once or twice a week, depending on the weather. Provide more water during hot periods, and less when temperatures cool down. Ensure the soil drains adequately -do not overwater. Make sure the soil is neither dry nor soggy. During dry months, feel the soil up to a few inches deep every few days to make sure the maple is getting enough water."
+        },
+        {
+          "id": 5105,
+          "type": "sunlight",
+          "description": "The Purple Ghost Japanese Maple (Acer palmatum 'Purple Ghost') prefers 4–5 hours of direct sunlight each day in order to display its best foliage coloration and healthiest growth. When choosing a planting spot, select an area that receives morning sun and afternoon shade, or dappled sunlight throughout the day."
+        },
+        {
+          "id": 5106,
+          "type": "pruning",
+          "description": "Purple Ghost Japanese Maple (Acer palmatum 'Purple Ghost') should be pruned in early spring before new growth begins. Pruning should be minor and light, and only necessary branches or dead branches should be removed. Pruning should only be done when necessary and should not be done heavily as it could damage the plant’s shape. Pruning should only be done on a branch if it is dead, diseased, rubbing against another branch, or if it’s crowding other branches. To help preserve the tree’s natural shape, only prune if absolutely necessary."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

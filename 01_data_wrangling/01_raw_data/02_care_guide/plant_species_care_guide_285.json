@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 304,
+      "species_id": 285,
+      "common_name": "Purple Beech",
+      "scientific_name": [
+        "Fagus sylvatica 'Purpurea'"
+      ],
+      "section": [
+        {
+          "id": 461,
+          "type": "watering",
+          "description": "Purple Beech likes moist but not wet soil, so you should water it as needed. It's best to water your Purple Beech deeply but infrequently - about once every 1-2 weeks - allowing the top several inches of soil to dry out before giving it another drink. This encourages the root system to grow deeper and become more established, making the plant more drought-tolerant. For best results, water your Purple Beech in the morning so the leaves have time to dry out before evening. If you notice wilting, this is a sign that it is time to give the plant some extra water."
+        },
+        {
+          "id": 462,
+          "type": "sunlight",
+          "description": "Purple Beech plants prefer full sunlight, ideally receiving 5 to 6 hours of direct sunlight per day. During the warmer months, a Purple Beech may benefit from some shade during particularly hot and sunny afternoons. When grown in shadier spots, the plant may become spindly and less colourful. The best time of day for Purple Beech to receive sunlight is in the early morning, before the heat of the day sets in."
+        },
+        {
+          "id": 463,
+          "type": "pruning",
+          "description": "Purple Beech should be pruned twice a year, in late winter and midsummer, to maintain its form and promote a healthy growing environment. During the late winter pruning, remove any damaged, diseased, or dead branches and those that overlap or crisscross. In midsummer, prune thinner and more upright branches, to reduce density and open up the canopy for better light penetration. It is also important to prune out any branches that are growing into neighbouring trees or structures."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

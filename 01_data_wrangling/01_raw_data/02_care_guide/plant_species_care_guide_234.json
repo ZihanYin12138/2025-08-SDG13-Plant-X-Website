@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1748,
+      "species_id": 234,
+      "common_name": "Harlequin Glorybower",
+      "scientific_name": [
+        "Clerodendrum trichotomum"
+      ],
+      "section": [
+        {
+          "id": 5449,
+          "type": "watering",
+          "description": "Generally, Harlequin Glorybower should be watered once or twice a week during the growing season. It is best to check the soil moisture 1-2 inches down before watering. If soil feels nearly dry and the foliage appears wilted, then this is an indication that the plant needs water.  During periods of extreme heat or dryness, extra water will be necessary to keep the Harlequin Glorybower healthy. Make sure to water the soil deeply to encourage deep root growth. "
+        },
+        {
+          "id": 5450,
+          "type": "sunlight",
+          "description": "Harlequin Glorybower prefers full sun to partial shade in order to thrive. It needs at least 6 hours of direct sunlight to grow and bloom. In warmer climates, such as the tropics or subtropics, afternoon shade is recommended to prevent leaf burn. When fullu planted in partial shade, the plant may not flower or reach its full size potential. In colder climates, Harlequin Glorybower should be planted in a spot that gets at least 6 hours of full sun."
+        },
+        {
+          "id": 5451,
+          "type": "pruning",
+          "description": "Harlequin Glorybower should be pruned annually during the early spring months. Pruning should consist of cutting the stems just above the leaf axils, or just below a lateral branch. This will help shape the plant and promote bushiness. Light pruning may also be done through the end of summer to remove dead and damaged branches. Avoid pruning the top growth of the plant, as this encourages legginess. Finally, any long stems should be trimmed to control height."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

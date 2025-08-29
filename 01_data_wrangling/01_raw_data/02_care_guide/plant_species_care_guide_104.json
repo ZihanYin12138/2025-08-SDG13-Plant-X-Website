@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1636,
+      "species_id": 104,
+      "common_name": "Red Filigree Lace Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Red Filigree Lace'"
+      ],
+      "section": [
+        {
+          "id": 5113,
+          "type": "watering",
+          "description": "The Red Filigree Lace Japanese Maple is a moderate grower and is tolerant to various soil types and climates. It prefers partial shade and moderate watering. Water the plant when the soil becomes slightly dry to the touch, usually once every 7-10 days. During a heat wave, water more frequently. Make sure you water deeply, especially during dry periods, to reach the roots. In hot, dry climates, it may need refreshing misting or foliar feeding in summer months."
+        },
+        {
+          "id": 5114,
+          "type": "sunlight",
+          "description": "Red Filigree Lace Japanese Maple (Acer palmatum 'Red Filigree Lace') prefers full sun in the morning and partial shade (3 hours) in the afternoon. During summer months, it should be protected from the hottest hours of the day to avoid sunburn and leaf scorch. It is typically best to plant it in an area with morning sun and afternoon shade. In the winter, the tree should have access to some sun during the day."
+        },
+        {
+          "id": 5115,
+          "type": "pruning",
+          "description": "Red Filigree Lace Japanese Maple can be pruned twice a year: once in early summer and again in late winter. Early summer pruning is used to remove any dead or damaged branches, as well as any shoots that cross, rub, or otherwise interfere with the tree's structure. Late winter pruning is used to remove any branches with weak crotches, branches that are too close together, suckers, and any dead or damaged branches. The amount of pruning should be limited to no more than 1-third of the total branches. When pruning, take caution to not cut away too many of the branches or to cut too close to the trunk; this can cause the tree to become unstable and vulnerable to diseases."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

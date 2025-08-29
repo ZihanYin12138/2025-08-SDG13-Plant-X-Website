@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 71,
+      "species_id": 31,
+      "common_name": "Aoyagi Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Aoyagi'"
+      ],
+      "section": [
+        {
+          "id": 1277,
+          "type": "watering",
+          "description": "Aoyagi Japanese Maple should be watered deeply and thoroughly once per week during the growing season (spring through early fall). Water until the soil is slightly moist but not soggy. Make sure to give a good soaking but do not let the soil become waterlogged, as this will cause the roots to rot. During the winter, reduce watering to only when the soil is dry to the touch."
+        },
+        {
+          "id": 1278,
+          "type": "sunlight",
+          "description": "The Aoyagi Japanese Maple should be grown in a location with full sun or partial shade. When grown in full sun, this maple species needs at least 6 hours of direct sunlight daily. In partial shade, this maple species needs at least 4 hours of direct sunlight daily. The Aoyagi Japanese Maple also thrives in light shade and does not need direct sunlight in these locations. Morning sunlight is preferred and afternoon shade is beneficial for this species."
+        },
+        {
+          "id": 1279,
+          "type": "pruning",
+          "description": "Aoyagi Japanese Maple should be pruned during the dormant season and lightly pruned in the spring. Pruning should occur in late winter or early spring before the tree exhibits new growth, usually in March or April. This species of Japanese Maple should be pruned lightly throughout its lifetime, removing any dead or diseased branches, along with removing any crossing branches or ones that are spiraling around the trunk. If a branch has a narrow crotch angle, it should also be pruned to prevent it from splitting when the tree is more mature. If more drastic pruning is needed, best practices recommend removing no more than 20-30% of the tree's canopy each year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

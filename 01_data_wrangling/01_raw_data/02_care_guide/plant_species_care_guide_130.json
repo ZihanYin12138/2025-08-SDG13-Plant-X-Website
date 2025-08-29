@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1660,
+      "species_id": 130,
+      "common_name": "Tobiosho Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Tobiosho'"
+      ],
+      "section": [
+        {
+          "id": 5185,
+          "type": "watering",
+          "description": "Tobiosho Japanese Maple should be watered deeply twice a week during its growing season. Apply 1 to 1.5 inches of water either from rain or a watering can. Once a month, give the tree a deep soaking to prevent drought stress. Make sure the soil is evenly moist, not soggy. During the winter months, the tree should only be watered about once a month. During periods of extended drought, the tree should be watered more often. To gauge when the tree should be watered, insert your finger into the soil and check if the top few inches of soil are dry. If they are, it's time to water."
+        },
+        {
+          "id": 5186,
+          "type": "sunlight",
+          "description": "During the growing season, these plants should receive at least 6-8 hours of direct sunlight each day. In the fall and winter, they may need less sun exposure, though they should still receive several hours of direct sunlight each day. In areas with very hot summers, partial shade may be beneficial to protect the foliage."
+        },
+        {
+          "id": 5187,
+          "type": "pruning",
+          "description": "Tobiosho Japanese Maple (Acer palmatum 'Tobiosho') should be pruned during the late winter or early spring, before new growth begins. Pruning should be done lightly and selectively to allow balanced growth and remove any dead or damaged branches. If no dead or damaged branches are present, prune no more than 10% of the tree's total foliage. Be sure to prune away diseased and overcrowded branches to open up the canopy and encourage light and air flow into the tree's interior. Also, remove any water sprouts (randomly growing vertical branches) since they create a lot of overhead shade and suck away the tree's energy. Take extra caution not to over-prune since this will reduce the tree's growth potential and cause uneven branching and stunt its growth. Finally, try to avoid pruning in summer months as the tree is actively growing, as this may cause further stress."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

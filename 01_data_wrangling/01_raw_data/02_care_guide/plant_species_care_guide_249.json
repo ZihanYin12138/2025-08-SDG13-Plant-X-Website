@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1761,
+      "species_id": 249,
+      "common_name": "Cherokee Sunset Flowering Dogwood",
+      "scientific_name": [
+        "Cornus florida 'Cherokee Sunset'"
+      ],
+      "section": [
+        {
+          "id": 5488,
+          "type": "watering",
+          "description": "This flowering dogwood is a low-maintenance plant and typically prefers moist, slightly acidic soil and does not tolerate soggy soil. It should be watered once or twice a week during the growing season from spring to fall. Aim to provide about 1 inch of water over the soil each time you water. You can do this by using a watering can, sprinkler, or hosing down from the top. It's best to water more frequently and deeply but less often to ensure the roots are getting plenty of moisture. In hotter areas, it may require more frequent watering during summertime. During the winter months, you can reduce watering to allow the soil to become less moist but not overly dry as the plant goes dormant."
+        },
+        {
+          "id": 5489,
+          "type": "sunlight",
+          "description": "Cherokee Sunset Flowering Dogwood (Cornus florida 'Cherokee Sunset') prefers full sun or partial shade exposure. For optimal growth, the plant should receive between 4 to 8 hours of direct sunlight a day. The best time for direct sunlight exposure is usually early in the morning or during the late afternoon hours when the sun’s intensity is less and the risk of damaging UV rays is reduced. Avoid mid-day sun exposure in order to reduce the risk of leaf burn and scorching."
+        },
+        {
+          "id": 5490,
+          "type": "pruning",
+          "description": "Prune the Cherokee Sunset Flowering Dogwood (Cornus florida 'Cherokee Sunset') in early spring before new growth begins. Cut back flowering stems that have bloomed the previous year and any crossing/crowded branches. Remove any dead, diseased, or damaged wood. Prune as much as 10–15 % of the branch structure, but no more. This will encourage the growth of strong, healthy stems and help maintain a desirable plant shape. If pruning to reduce the size of the plant, make sure to balance the branch structure after."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

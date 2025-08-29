@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1711,
+      "species_id": 193,
+      "common_name": "California Incense Cedar",
+      "scientific_name": [
+        "Calocedrus decurrens"
+      ],
+      "section": [
+        {
+          "id": 5338,
+          "type": "watering",
+          "description": "Calocedrus decurrens, commonly known as California Incense Cedar, should be watered deeply and infrequently, about every 3 to 4 weeks in the summer and once every 5 to 6 weeks in the winter. Make sure the soil is well drained, and never let it become too soggy. During particularly hot or dry spells, it may require additional watering. To check if it needs watering, stick your finger into the soil and if it feels dry, it’s time to water. When you water, it is important to moisten the entire root zone deeply, so that the roots are encouraged to grow deep into the soil."
+        },
+        {
+          "id": 5339,
+          "type": "sunlight",
+          "description": "California Incense Cedar can do well in both full sun and partial sun. It prefers full sun, but it is tolerant of light shade for short periods of time. It does best in the morning sun, with the afternoon sun being less desirable. It needs at least 5-6 hours of sun per day to grow properly. "
+        },
+        {
+          "id": 5340,
+          "type": "pruning",
+          "description": "Pruning California Incense Cedar (Calocedrus decurrens) should be done in early spring before new growth appears. This will promote vigorous growth for the season and help maintain an attractive shape. To prune, select dead, diseased, and crossing branches and remove them at the base, making sure to remove the entire branch. Where needed, thin out the canopy by removing up to 1-third of the branches to allow growth of the interior branches. Lightly shaping the canopy is recommended. Do not top the tree, as this will cause it to become unattractive and lead to structural problems."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

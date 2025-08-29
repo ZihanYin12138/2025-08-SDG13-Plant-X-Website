@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": 51,
+      "common_name": "Fusarium root rot",
+      "scientific_name": "Fusarium solani",
+      "other_name": [
+        "Fusarium crown and foot rot"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Fusarium root rot (Fusarium solani)?",
+          "description": "Fusarium root rot, caused by the fungus Fusarium solani, is a global disease that affects various plants such as fruits, vegetables, ornamental plants, and field crops. It can infect the roots of peppers, eggplants, tomatoes, and cucurbits. Its symptoms include yellowing and wilting of leaves, stunted growth, root decay, and plant death. The roots of affected plants may appear discolored and have a foul odor. "
+        },
+        {
+          "subtitle": "How does Fusarium root rot (Fusarium solani) occur?",
+          "description": "It spreads through asexual reproduction via spores produced on sporodochia, formed on infected plant tissue and soil. The spores can persist for years, waiting for a susceptible host to infect. \nWhen conditions are favorable, they germinate and infect plant roots. The fungus colonizes the root tissue, causing damage and decay. Toxic compounds may also be produced, further damaging the plant. Sexual reproduction is possible but less common and less understood.\n"
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Use of resistant varieties",
+          "description": " Plant varieties resistant to Fusarium root rot can help prevent the disease. Many vegetable and fruit varieties are available with resistance to Fusarium root rot."
+        },
+        {
+          "subtitle": "Soil management and Crop rotation",
+          "description": " Proper soil management, such as improving soil drainage, avoiding overwatering and over-fertilization, and maintaining soil pH can help prevent the disease. And planting a non-host crop in the affected soil for several years can help reduce the level of the pathogen in the soil."
+        },
+        {
+          "subtitle": "Biological control",
+          "description": "The use of beneficial microorganisms, such as Trichoderma spp., can help reduce the severity of Fusarium root rot."
+        },
+        {
+          "subtitle": "Heat treatment",
+          "description": "Heat treatment of the soil, such as solarization or steam sterilization, can reduce the pathogen load in the soil."
+        },
+        {
+          "subtitle": "Fungicides",
+          "description": "Common fungicides used to control fungus include azoxystrobin, thiophanate-methyl, metalaxyl-M, and propiconazole.\nConsult with local agricultural extension services or experts for appropriate fungicide recommendations and usage practices."
+        }
+      ],
+      "host": [
+        "beans",
+        "pumpkin",
+        "squash"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/51_fusarium_solani/og/Rhododendron-Phytophthora_Root_Rot_28229.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/51_fusarium_solani/regular/Rhododendron-Phytophthora_Root_Rot_28229.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/51_fusarium_solani/medium/Rhododendron-Phytophthora_Root_Rot_28229.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/51_fusarium_solani/small/Rhododendron-Phytophthora_Root_Rot_28229.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/51_fusarium_solani/thumbnail/Rhododendron-Phytophthora_Root_Rot_28229.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

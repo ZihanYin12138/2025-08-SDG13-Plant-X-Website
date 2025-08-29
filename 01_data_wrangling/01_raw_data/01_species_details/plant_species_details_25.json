@@ -1,0 +1,150 @@
+{
+  "id": 25,
+  "common_name": "Flamingo Boxelder",
+  "scientific_name": [
+    "Acer negundo 'Flamingo'"
+  ],
+  "other_name": [
+    "Manitoba Maple",
+    "box elder"
+  ],
+  "family": "Sapindaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Flamingo",
+  "variety": null,
+  "species_epithet": "negundo",
+  "genus": "Acer",
+  "origin": [
+    "Central and North America"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 25,
+      "max_value": 25,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=25&size=og&key=sk-3ksU68b046f66e1f912089",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=25&size=og&key=sk-3ksU68b046f66e1f912089'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green-white"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "trunk",
+      "color": [
+        "silver"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "silver"
+      ]
+    },
+    {
+      "part": "twigs",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=25&key=sk-3ksU68b046f66e1f912089",
+  "soil": [
+    "Sandy Loamy Clay"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Anthracnose",
+    " Canker",
+    "sap rot",
+    " Mildew",
+    " Stem borer insects",
+    "  Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": true,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Flamingo Boxelder is an amazing and eye-catching tree variety that adds a unique flair to any garden. It’s an elegant and graceful accent tree, with striking, feathery, pink and white foliage and bright pink seedpods in the Autumn. Its heart-shaped leaves are also great for wildlife and provide a natural habitat for birds. In addition to its ornamental beauty, this fast-growing and hardy tree is also quite tough and resistant to disease, pests, and drought. Perfect for small gardens, containers, and street trees, this stunning tree is sure to add a playful and vibrant touch to any outdoor space.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/25_acer_negundo_flamingo/og/5867345385_a9dff5bee7_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/25_acer_negundo_flamingo/regular/5867345385_a9dff5bee7_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/25_acer_negundo_flamingo/medium/5867345385_a9dff5bee7_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/25_acer_negundo_flamingo/small/5867345385_a9dff5bee7_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/25_acer_negundo_flamingo/thumbnail/5867345385_a9dff5bee7_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

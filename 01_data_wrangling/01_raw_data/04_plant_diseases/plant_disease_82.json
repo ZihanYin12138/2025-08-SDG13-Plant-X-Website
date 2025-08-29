@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 82,
+      "common_name": "Yellow rust",
+      "scientific_name": "Phragmidium rubi-idaei",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Yellow rust (Phragmidium rubi-idaei)?",
+          "description": "Phragmidium rubi-idaei is a fungus causing yellow rust in red raspberry plants, commonly found in western Oregon and Washington. Traditionally, yellow rust wasn't a major problem in raspberry cultivars like 'Canby', 'Chilcotin', 'Newburgh', 'Puyallup', or 'Sumner'. However, new strains have emerged in the Pacific Northwest, infecting previously resistant varieties like Meeker and Willamette. Yellow rust is recognized by yellowish-orange pustules (aecia) appearing on fruiting canes and the upper leaf surface. Affected canes dry out, crack, and hinder proper fruit ripening."
+        },
+        {
+          "subtitle": " How does Yellow rust (Phragmidium rubi-idaei) occur? ",
+          "description": "Yellow rust occurs when the fungus P. rubi-idaei infects red raspberry plants. It typically happens during prolonged spring rains. The disease spreads through a complex life cycle involving spores that overwinter on infected leaves. In spring, basidiospores infect new leaves, leading to the formation of pustules and spore production. These spores spread the disease to other leaves and canes. The fungus survives the winter as teliospores on the bark of fruiting canes, ready to infect new growth in the next season."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Control",
+          "description": "1.\t Bury fallen leaves, old cane stubs, and refuse to eliminate potential sources of the fungus. Destroy fallen leaves in home gardens.\n\n2.\t Remove and burn old fruit canes promptly after harvest. Strip leaves from primocanes before tying. Cultivate the area when feasible.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "Here are some fungicides available for controlling Phragmidium rubi-idaei (yellow rust) in plants: Abound, Bordeaux 8-8-100, Rex lime sulfur, Cinnerate, Fontelis, Quadris, Rally 40 WSP, and Spectracide Immunox Multi-Purpose. \n\nRemember to carefully follow the instructions, precautions, and safety guidelines provided by the fungicide manufacturer for proper and safe use."
+        }
+      ],
+      "host": [
+        "caneberry"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/82_phragmidium_rubi-idaei/og/Phragmidium_rubi-idaei_a1_28129.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/82_phragmidium_rubi-idaei/regular/Phragmidium_rubi-idaei_a1_28129.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/82_phragmidium_rubi-idaei/medium/Phragmidium_rubi-idaei_a1_28129.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/82_phragmidium_rubi-idaei/small/Phragmidium_rubi-idaei_a1_28129.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/82_phragmidium_rubi-idaei/thumbnail/Phragmidium_rubi-idaei_a1_28129.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

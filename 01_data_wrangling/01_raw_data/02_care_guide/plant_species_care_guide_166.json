@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1692,
+      "species_id": 166,
+      "common_name": "Snakebark Maple",
+      "scientific_name": [
+        "Acer tegmentosum"
+      ],
+      "section": [
+        {
+          "id": 5281,
+          "type": "watering",
+          "description": "Snakebark Maple requires moist, well-drained soil and should be water when the top 2 to 3 inches of soil is dry. Water deeply, giving the soil time to drain and refill with moisture. During the growing season (spring and summer), water the Maple twice per week. During the winter, when the tree is dormant, reduce watering to once per month."
+        },
+        {
+          "id": 5282,
+          "type": "sunlight",
+          "description": "Snakebark Maples prefer to grow in partial to full shade where they can access bright dappled sunlight throughout the day. During the spring and summer months, they can tolerate direct sunlight for up to 3 hours a day; however, during warmer months it is best to protect the tree from intense, direct sunlight by providing it with shade during the hottest parts of the day (from 10am-4pm). In the winter, Snakebark Maples should be kept in bright indirect sunlight or dappled shade. Prolonged exposure to full or direct sunlight on hot days should be avoided."
+        },
+        {
+          "id": 5283,
+          "type": "pruning",
+          "description": "Snakebark Maple should be pruned in late winter or early spring before new growth begins. The amount of pruning should be limited to removing dead or diseased limbs, as the tree does not need to be severely pruned. Younger trees should be pruned more heavily, removing any multiple leaders and thinning the crown. As the tree ages, it should be pruned to remove only dead wood and to restore the natural shape of the canopy. Care should be taken to avoid shearing the tree or removing too much foliage, as this can reduce the flowering and fruiting capacity of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

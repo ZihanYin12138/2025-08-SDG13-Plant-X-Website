@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 460,
+      "species_id": 66,
+      "common_name": "Jiro Shidare Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Jiro Shidare'"
+      ],
+      "section": [
+        {
+          "id": 1380,
+          "type": "watering",
+          "description": "Water Jiro Shidare Japanese Maple regularly, making sure to keep the soil evenly moist. Water thoroughly once or twice a week during the growing season, making sure to check if the soil is drying out before you water again. In the colder months, water only when the soil is dry to the touch. In hot and dry climates, remember to mist the foliage of the tree to help it cool off."
+        },
+        {
+          "id": 1381,
+          "type": "sunlight",
+          "description": "Jiro Shidare Japanese Maple is best suited to full or partial sun. If planted in an area with full sun exposure, 6 to 8 hours of sunlight every day is ideal. On the other hand, if planted in partial sun, it should receive at least 4 hours of direct sunlight in the afternoon. During the hottest hours of the day, partial sun will provide the plant with relief from the intense heat. In either kind of location, the plant should receive the most sun early in the morning, and the least sun late in the afternoon."
+        },
+        {
+          "id": 1382,
+          "type": "pruning",
+          "description": "Pruning of Jiro Shidare Japanese Maples should be done sparingly and only when necessary. Pruning should occur in late winter or very early spring before the tree starts to leaf out. This will remove dead or damaged branches and help direct growth for a better shape. All pruning should be done with sharp pruning shears or loppers and cuts should be made just above a bud or branch. If the tree is severely overgrown, it can be selectively pruned to reduce the canopy, but extreme caution should be taken to ensure that the tree’s health and shape are maintained."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

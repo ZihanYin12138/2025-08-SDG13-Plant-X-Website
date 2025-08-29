@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1770,
+      "species_id": 259,
+      "common_name": "Starlight Chinese Dogwood",
+      "scientific_name": [
+        "Cornus kousa 'Starlight'"
+      ],
+      "section": [
+        {
+          "id": 5515,
+          "type": "watering",
+          "description": "Starlight Chinese Dogwood (Cornus kousa 'Starlight') can be watered once per week. Make sure that the water reaches the root zone of the tree. Water should be applied when the top several inches of the soil start to dry. In hot climates during the growing season, check the soil moisture more often and adjust the watering frequency accordingly. For this plant, it is best to avoid long periods of extremely dry or wet soil conditions to maintain the health of the tree."
+        },
+        {
+          "id": 5516,
+          "type": "sunlight",
+          "description": "Starlight Chinese Dogwood (Cornus kousa 'Starlight') is a medium-sized tree that is best grown in full sun to partial shade, meaning it should receive at least 5 hours of sunlight each day. Morning sun is ideal for 'Starlight' as it will help to protect the tree from strong afternoon sun. Direct afternoon sunlight should be avoided as the intense rays can cause leaf scorch and damage to the foliage. While the tree can tolerate shade, flowering and fruiting may be reduced in shadier sites."
+        },
+        {
+          "id": 5517,
+          "type": "pruning",
+          "description": "Starlight Chinese Dogwood (Cornus kousa 'Starlight') should be pruned after blooming in late summer. A light pruning can be done by cutting back stems up to 1/3 of their original length, removing any dead or damaged branches, and thinning out new shoots. It is important to prune with precision to preserve the plant’s natural shape and structure. Avoid heavy pruning as it can delayed flowering and discourage re-blooming."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

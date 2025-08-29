@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 48,
+      "species_id": 6,
+      "common_name": "Golden Korean Fir",
+      "scientific_name": [
+        "Abies koreana 'Aurea'"
+      ],
+      "section": [
+        {
+          "id": 1202,
+          "type": "watering",
+          "description": "Golden Korean Fir should be watered once a week in the summer and every other week during the winter. For hot and dry days , add more water as needed. Make sure to thoroughly water the plant until the excess moisture drains through the pot's drainage holes. Do not allow the plant to sit in water for too long, as this can cause the roots to rot. During the growing season, April through October, the soil should remain moist but never soggy."
+        },
+        {
+          "id": 1203,
+          "type": "sunlight",
+          "description": "Golden Korean Fir plants require full sun for optimal growth, ideally receiving at least 6-8 hours of direct sunlight every day during the growing season. They are not particularly fussy about the strength of the sunlight and will benefit from morning, midday and afternoon light. During the summer months, it is best to provide the plant with some protection from the heat of the afternoon sun to avoid damage to the foliage. "
+        },
+        {
+          "id": 1204,
+          "type": "pruning",
+          "description": "The Golden Korean Fir should be pruned when new growth has stopped and no sooner than the end of June in climates with hot and dry summers. Pruning should consist of light trimming of the outer branches and shape the tree as desired. After the main branches have been shaped, more detailed pruning may be done by cutting the side shoots to maintain a compact and dense form. This will help to develop a dense framework and keep the tree looking tidy and balanced."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

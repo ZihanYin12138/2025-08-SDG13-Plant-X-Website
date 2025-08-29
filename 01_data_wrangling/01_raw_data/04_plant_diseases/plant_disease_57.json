@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": 57,
+      "common_name": "Leaf spot diseases",
+      "scientific_name": "Phyllosticta spp.",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is leaf spot disease, (Phyllosticta spp.)?",
+          "description": "Phyllosticta spp. is a worldwide distributed fungal pathogen causing leaf spot disease. It infects various plants, including holly, ivy, rhododendron, yew, boxelder, cherry, crape myrtle, leucothoe, magnolia, maple, and many more. Leaf spots appear as irregular brown blotches with black fruiting bodies in affected tissues. While commonly found on dead leaves and twigs, Phyllosticta spp. can occasionally act as a pathogen, leading to leaf spots, needle browning, and dieback in previously healthy plants."
+        },
+        {
+          "subtitle": "How does leaf spot disease, (Phyllosticta spp.) occur?",
+          "description": "Phyllosticta spp. takes advantage of weakened plants, spreading through spore dispersal and causing visible damage. It readily colonizes injured foliage, particularly in evergreens. Within the infected tissue, tiny black fruiting bodies form, releasing spores that easily spread to healthy foliage during wet periods.\n While fruiting bodies may be visible on some hosts, they can go unnoticed on others. Leaves often develop multiple blotches, but under shaded and moist conditions, entire leaves can die, resulting in disfigurement of the plants."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices",
+          "description": "•\t Maintain overall plant health through proper watering, fertilization, and pruning to minimize plant stress and susceptibility to disease.\n\n•\tRemove and dispose of infected plant debris promptly to prevent the spread of spores and minimize overwintering sources of the fungus.\n\n•\tProvide adequate air circulation and sunlight penetration by spacing plants appropriately, reducing the favorable conditions for disease development.\n\n•\tAvoid overhead irrigation to minimize leaf wetness and ensure well-drained soil to prevent excessive moisture.\n\n•\tConsider planting cultivars that are known to have resistance or tolerance to Phyllosticta spp. This can help minimize the risk of infection.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "•\tUnfortunately, no specific fungicides are recommended to control Phyllosticta species. However, there are a few fungicides that could potentially be used, such as tebuconazole (Provanto Fungus Fighter Concentrate) and tebuconazole with trifloxystrobin (Provanto Fungus Fighter Plus, Toprose Fungus Control & Protect). \n•\tAnother option is triticonazole (Fungus Clear Ultra), but its effectiveness against these pathogens is not well-documented. \n•\tRemember to always read and follow the instructions on the fungicide label for proper usage and safety precautions.\n"
+        }
+      ],
+      "host": [
+        "begonia",
+        "snapdragon"
+      ],
+      "images": []
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

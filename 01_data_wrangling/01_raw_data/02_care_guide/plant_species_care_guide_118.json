@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1649,
+      "species_id": 118,
+      "common_name": "Shaina Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Shaina'"
+      ],
+      "section": [
+        {
+          "id": 5152,
+          "type": "watering",
+          "description": "Shaina Japanese Maple should be watered when the soil is dry to the touch, but it should not be allowed to dry out completely. During the growing season (spring through late summer), water the plant deeply once a week. During periods of extreme heat, water more frequently. In the winter months, only water once a month or less. It's important to keep the soil evenly moist but not waterlogged."
+        },
+        {
+          "id": 5153,
+          "type": "sunlight",
+          "description": "Shaina Japanese Maple plants thrive in full sun to partial shade. They need at least 4 hours of direct sunlight per day during the spring and summer in order to bloom and set seed. During the winter months, they should be kept in a spot with bright, indirect sunlight or in sheltered, bright shade. When the sun is strong, the leaves tend to burn, so some shade is beneficial in summer in hotter climates."
+        },
+        {
+          "id": 5154,
+          "type": "pruning",
+          "description": "Shaina Japanese Maples should be pruned in early spring, before the buds open. This helps to keep the size of the bush or tree manageable while still encouraging healthy new growth in the summer. Pruning should be done lightly, with attention to the individual branches and their possible direction of growth. Dead, diseased, broken, or crossing branches should be removed at the point of origin, while making sure to leave the collar (bulge at base of branch). It is also important to prune back side shoots in order to maintain an open center so that sunlight and air can reach the inner parts of the tree. Cutting the tree back by up to 1-third of its total height in early spring can help to promote healthy new growth for the summer."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

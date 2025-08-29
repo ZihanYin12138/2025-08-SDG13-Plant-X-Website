@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1730,
+      "species_id": 215,
+      "common_name": "White Redbud",
+      "scientific_name": [
+        "Cercis canadensis 'Alba'"
+      ],
+      "section": [
+        {
+          "id": 5395,
+          "type": "watering",
+          "description": "This plant species should be watered regularly during its first growing season, allowing the soil to dry slightly between waterings. You should water the White Redbud deeply about once per week, providing 1-2 inches of water, depending on the weather. During the summer months, it may need to be watered more often if the weather is particularly hot or dry. Water around the root zone of the plant but avoid getting the leaves and blooms wet. After the root system is well established, the frequency of watering can be reduced. During its second and subsequent growing seasons, the White Redbud can be allowed to dry out more between waterings, only requiring watering when the top 2-3 inches of soil has dried out."
+        },
+        {
+          "id": 5396,
+          "type": "sunlight",
+          "description": "White Redbud (Cercis canadensis 'Alba') is a deciduous plant species that need full sun to partial shade to thrive. It is best planted in a location that receives at least 6 to 8 hours of direct sunlight each day during the growing season. It can tolerate light shade, but it will not flower and may not reach its full size if it does not get enough sunlight. During the hottest part of the day, it is recommended to provide some shade in order to protect the plant and help it to retain moisture. During the winter, the White Redbud will enter dormancy, so the amount of sunlight it needs is reduced. "
+        },
+        {
+          "id": 5397,
+          "type": "pruning",
+          "description": "White Redbud (Cercis canadensis 'Alba') should be pruned lightly right after blooming. Prune off any dead or damaged limbs and carefully remove low-lying branches so the ascending form of the tree is preserved. If needed, prune to thin the crown of the tree, removing excess branches. For shaping, prune crossing or growing branches and lightly trim away to give the tree a pleasing rounded silhouette shape. After the initial pruning, annual maintenance pruning should be done in late winter to early spring, removing any dead or damaged branches, crossing branches, and new growth as needed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

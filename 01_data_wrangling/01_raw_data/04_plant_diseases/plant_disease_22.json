@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "id": 22,
+      "common_name": "Apple scab",
+      "scientific_name": "Venturia inaequalis",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is an Apple Scab (Venturia inaequalis)?",
+          "description": "Apple scab is a fungal disease caused by Venturia inaequalis. It affects apple trees in cool and moist regions during spring and summer. This disease poses a substantial economic threat to apple growers due to potential crop losses. It appears as dark blotches or lesions on leaves, fruit, and occasionally young twigs. Infected young leaves can cause deformities, and affected trees may experience premature fruit drops."
+        },
+        {
+          "subtitle": "How does Apple Scab (Venturia inaequalis) occur?",
+          "description": "Apple scab is caused by the fungus Venturia inaequalis. It reproduces through spores that are produced by the fungus and overwinter on fallen diseased leaves. In spring, the fungus releases spores into the air, which are carried by wind to new leaves, flowers, fruit, or twigs. Moisture on the plant surface is necessary for the spores to cause new infections. These infections develop into visible spots and produce more spores within 9 to 17 days. The spores are then spread by wind, rain, or irrigation, continuing the cycle of infection."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Prevention and Cultural Practices",
+          "description": "•\tPlant disease-resistant varieties to minimize the risk of apple scab.\n•\tClean up fallen leaves in the fall before the first snowfall.\n•\tBurn, bury, or compost infected leaves.\n•\tUse a mulching lawn mower to chop leaves and apply fall lawn fertilizer.\n•\tPrune trees properly to promote air circulation and quick leaf drying.\n•\tMaintain adequate spacing between trees to prevent overcrowding.\n•\tRegularly monitor trees for signs of infection and take prompt action if detected.\n"
+        },
+        {
+          "subtitle": "Fungicides Application",
+          "description": "•\tApply fungicides to protect healthy leaves from infection during spring emergence.\n\n•\tStart spraying when the first green leaf tips appear and continue until flower petals have fallen.\n\n•\tAdjust spray intervals based on weather conditions and past scab problems.\nNote: Fungicides should not be applied to already infected trees; it is advisable to consult a certified arborist for large trees.\n\n The specific fungicides mentioned include Tebuconazole, Myclobutanil, Captan, Chlorothalonil, Propiconazole, Mancozeb, Sulfur/lime sulfur, Neem oil, and Copper, For ornamental crabapples only. or ornamental crabapples and some edible varieties.\n"
+        }
+      ],
+      "host": [
+        "apple"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/22_v/og/Venturia_inaequalis_a2_%281%29.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/22_v/regular/Venturia_inaequalis_a2_%281%29.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/22_v/medium/Venturia_inaequalis_a2_%281%29.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/22_v/small/Venturia_inaequalis_a2_%281%29.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/22_v/thumbnail/Venturia_inaequalis_a2_%281%29.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/22_v/og/Venturia_inaequalis_01.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/22_v/regular/Venturia_inaequalis_01.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/22_v/medium/Venturia_inaequalis_01.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/22_v/small/Venturia_inaequalis_01.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/22_v/thumbnail/Venturia_inaequalis_01.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/22_venturia_inaequalis/og/Appelschurft.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/22_venturia_inaequalis/regular/Appelschurft.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/22_venturia_inaequalis/medium/Appelschurft.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/22_venturia_inaequalis/small/Appelschurft.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/22_venturia_inaequalis/thumbnail/Appelschurft.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

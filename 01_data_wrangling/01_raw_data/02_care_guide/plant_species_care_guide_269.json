@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 509,
+      "species_id": 269,
+      "common_name": "Castlewellan Leyland Cypress",
+      "scientific_name": [
+        "Cupressocyparis x leylandii 'Castlewellan'"
+      ],
+      "section": [
+        {
+          "id": 1530,
+          "type": "watering",
+          "description": "Castlewellan Leyland Cypress needs to be watered regularly, but should not be overwatered. Aim to water about 1-2 times per week in the summer months and approximately once a month in winter (in areas where temperatures drop below 30°F). Make sure to check the soil to assess the moisture content, as that can vary depending on the environment. It is important to make sure the soil drains well after watering, so be sure to water directly into the soil and avoid getting the foliage wet as this can lead to fungal issues."
+        },
+        {
+          "id": 1531,
+          "type": "sunlight",
+          "description": "Castlewellan Leyland Cypress requires full sun to partial shade to thrive, ideally with 6 to 8 hours of direct sunlight per day. It is considered sun-tolerant and can survive in hotter climates so long as it is provided with adequate moisture. In cooler areas, however, it tends to do best if given partial shade from the hot afternoon sun. During the summer and fall months, it should receive at least 6 hours of direct sunlight per day, while in the winter months it can do with slightly less."
+        },
+        {
+          "id": 1532,
+          "type": "pruning",
+          "description": "The Castlewellan Leyland Cypress is a tough and resilient evergreen conifer that requires regular pruning. Pruning should take place twice a year - once in early spring and again in late summer. \n\nIn early spring, pruning should be done to maintain a desired size, a natural shape and to create a neat border. Pruning should also remove any dead, damaged, or diseased branches. \n\nIn late summer, pruning should be done to control branch thickening. Removing some of the smaller old twigs and some of the longer branches will help to maintain air circulation and will ensure the plant has an open structure. \n\nAs a general rule, pruning should be conservative - removing no more than a third of the branches of the tree in any 1 season.  The sharp, thin cutting blades of pruning shears should be used to make clean cuts."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

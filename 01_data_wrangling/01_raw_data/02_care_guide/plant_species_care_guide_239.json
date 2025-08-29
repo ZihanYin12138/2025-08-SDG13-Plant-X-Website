@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1752,
+      "species_id": 239,
+      "common_name": "Celestial Flowering Dogwood",
+      "scientific_name": [
+        "Cornus 'Rutdan'"
+      ],
+      "section": [
+        {
+          "id": 5461,
+          "type": "watering",
+          "description": "This plant species should be watered once or twice per week, depending on the weather and the soil conditions. It is important to keep the soil evenly moist but avoid allowing the soil to become soggy. Add just enough water to moisten the soil and make sure the pot has good drainage. The amount of water you should give depends on the size of the pot and the type of soil it is planted in. For example, a 1 gallon pot with a sandy soil will require more water than a 1 gallon pot with a loam soil. When in doubt, water until the water comes out of the drainage holes. Monitor the moisture of the soil closely to determine how often to water."
+        },
+        {
+          "id": 5462,
+          "type": "sunlight",
+          "description": "Celestial Flowering Dogwood (Cornus 'Rutdan') prefers full sun in the morning, but afternoon shade in hot climates. It should receive about 4 to 6 hours of direct sunlight each day for best performance. The sunlight should be spread over a few hours in the morning -- up until noon or 1 PM, depending on the time of year and the climate. Sunlight in the afternoon can be very intense, especially during the summer months, which can cause the leaves of the Celestial Flowering Dogwood to become damaged."
+        },
+        {
+          "id": 5463,
+          "type": "pruning",
+          "description": "Celestial Flowering Dogwood (Cornus 'Rutdan') should be lightly pruned in late winter or early spring. During this time, any dead or diseased branches should be removed, as well as any crossing branches. Thinning the branches so that good air and light flow to the center of the plant and reducing the overall size of the plant are also important steps to take. Pruning should be done carefully in order to maintain the natural form of the tree and to promote flowering. Keep in mind that heavy pruning will decrease flowering, so take care in how much you decide to prune."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

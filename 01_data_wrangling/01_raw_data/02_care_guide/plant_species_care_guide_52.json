@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 211,
+      "species_id": 52,
+      "common_name": "Crimson Prince Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Crimson Prince'"
+      ],
+      "section": [
+        {
+          "id": 818,
+          "type": "watering",
+          "description": "The Crimson Prince Japanese Maple requires consistent, moderate watering. During the active growing season (spring through summer), water the plant every 1-2 weeks, taking special care not to over-saturate the soil. During the dormant season (fall and winter), allow the soil to dry completely before watering. Each time you water, the goal should be to moisten the soil to a depth of 10-12 inches. It is essential to keep the soil consistently moist, but never overly wet, especially during periods of extreme heat."
+        },
+        {
+          "id": 819,
+          "type": "sunlight",
+          "description": "The tree should receive at least 6 hours of direct sunlight a day throughout the growing season. Avoiding hot, burning sun during the hottest parts of the day can help prevent sunburn on the foliage. More sunlight is better, and some varieties of the tree can even handle full sun. Depending on the season, the Japanese Maple should be moved to receive the most beneficial amount of sunlight. During the winter months, full sun is ideal for the growth of the Crimson Prince Japanese Maple tree."
+        },
+        {
+          "id": 820,
+          "type": "pruning",
+          "description": "Crimson Prince Japanese Maples should be pruned twice per year for optimal growth and health. The first pruning should take place in the early spring before the new growth begins. Prune away any dead or dying branches, and remove any shoots that are growing out at the wrong angle. This will encourage a rounder, healthier crown.The second pruning should take place in the late summer or early fall. This pruning should be focused on thinning the inner branches and removing any remaining dead or diseased wood. Prune lightly to maintain the shape of the tree and to avoid removing too much foliage. Depending on the size of the tree, this pruning should take no more than 20-30% of the branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1680,
+      "species_id": 152,
+      "common_name": "Korean Maple",
+      "scientific_name": [
+        "Acer pseudosieboldianum"
+      ],
+      "section": [
+        {
+          "id": 5245,
+          "type": "watering",
+          "description": "Korean Maple should be watered about once a week in the summer and every 10-14 days in the winter. When watering, it is important to provide enough water so that the soil is moist but not so much that it becomes soggy or forms puddles around the root area. If the leaves of the tree start to droop, this is a sign that it needs more water. Water should also be applied around the base of the tree but avoid getting the leaves wet as this could lead to fungal diseases. It is best to water early in the morning or late in the afternoon to avoid the midday heat and to reduce the risk of evaporation."
+        },
+        {
+          "id": 5246,
+          "type": "sunlight",
+          "description": "Korean Maple (Acer pseudosieboldianum) is a shade loving plant species that prefers part to full shade and does not do well in direct sunlight. When first introducing a Korean Maple to direct light, it should be introduced gradually so that it does not become scorched. During the summer months, it is especially important to limit direct sunlight, as it is best for Korean Maple to receive 3 to 4 hours of morning or evening sun. During the winter, when there is less sunlight, indirect or filtered light is best."
+        },
+        {
+          "id": 5247,
+          "type": "pruning",
+          "description": "Pruning your Korean Maple is important for keeping the tree healthy and attractive. Generally, the best time to prune is between late winter and early spring, just before new growth begins. When pruning be sure to do so selectively, making sure to remove any diseased, broken, or dead branches. In addition, reduce the height of the tree gradually over the years, this encourages branch strength and reduces the likelihood of the limbs breaking and allows for more light penetration into the interior of the tree. Generally, 1-third of the total volume and height of the tree can be pruned each year. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

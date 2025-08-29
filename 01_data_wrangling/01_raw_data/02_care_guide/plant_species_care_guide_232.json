@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1746,
+      "species_id": 232,
+      "common_name": "Morning Cloud Chitalpa",
+      "scientific_name": [
+        "Chitalpa 'Morning Cloud'"
+      ],
+      "section": [
+        {
+          "id": 5443,
+          "type": "watering",
+          "description": "Water the Chitalpa 'Morning Cloud' at least once a week during the growing season. Water deeply; providing enough water for the roots to reach down into the soil. When the weather is especially hot, water more often to prevent the soil from becoming excessively dry. Reduce watering downwards during the late summer and fall to allow the plant to go into dormancy. However, do not stop watering completely until the plant has gone dormant."
+        },
+        {
+          "id": 5444,
+          "type": "sunlight",
+          "description": "Morning Cloud Chitalpa (Chitalpa 'Morning Cloud') requires full-sun for 6 to 8 hours a day, preferably in the morning and early afternoon. In areas of intense sunlight, it will benefit from some afternoon shade. While it can tolerate partial shade, Morning Cloud Chitalpa will not flower as profusely and may not grow as vigorously. Planting in areas of indirect sunlight or filtered shade will ensure the best performance."
+        },
+        {
+          "id": 5445,
+          "type": "pruning",
+          "description": "Pruning should be done on Morning Cloud Chitalpa twice a year, in early spring and late summer, to encourage new growth and keep the shrub looking neat. Prune in early spring to remove dead and damaged branches and shape the shrub. Prune in late summer to reduce the overall size of the plant. The amount of pruning each year should be minimal, no more than 1-third of the total growth. Remove only the dead and damaged branches and shape the shrub as much as possible without pruning too heavily."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

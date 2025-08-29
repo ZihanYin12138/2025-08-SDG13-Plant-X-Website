@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1779,
+      "species_id": 268,
+      "common_name": "Leyland Cypress",
+      "scientific_name": [
+        "Cupressocyparis x leylandii"
+      ],
+      "section": [
+        {
+          "id": 5542,
+          "type": "watering",
+          "description": "The Leyland Cypress requires weekly watering for the first few weeks and then should be watered twice a month. The best way to water a Leyland Cypress is to ensure that the soil is moist but not wet. Aim to give 1-2 inches of water each time, either from rainfall or irrigation, and check the soil around the base of the tree for moisture levels before watering. During periods of hot or dry weather, the tree may need more frequent watering."
+        },
+        {
+          "id": 5543,
+          "type": "sunlight",
+          "description": "The Leyland Cypress needs full sun to partial shade for proper growth. The amount of sunlight a particular Leyland Cypress tree or shrub receives depends on the season and climate, as well as its specific location. In tropical to subtropical climates, the Leyland Cypress tree may receive 7 hours of direct sunlight during the summer months. In a more temperate climate, however, the tree may need only 4 to 5 hours of direct sunlight in the summer and partial shade for the rest of the year. "
+        },
+        {
+          "id": 5544,
+          "type": "pruning",
+          "description": "Leyland Cypress should be pruned annually in early spring, before new growth begins. Pruning should be done selectively, removing only the tallest branches and allowing the sides to remain full. Pruning should be done conservatively, as it could damage the overall appearance of the plant. It is best to only remove up to 1/3 of the longest branches, to avoid creating an unnatural open shape. If more pruning is needed, prune no more than 1/5 of the top and sides each year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

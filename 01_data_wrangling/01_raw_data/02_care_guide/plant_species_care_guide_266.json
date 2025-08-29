@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1777,
+      "species_id": 266,
+      "common_name": "Japanese Cedar",
+      "scientific_name": [
+        "Cryptomeria japonica"
+      ],
+      "section": [
+        {
+          "id": 5536,
+          "type": "watering",
+          "description": "Japanese Cedar should be watered thoroughly once a week, allowing the soil to become almost dry before watering again. During the growing season, water more often and make sure there is no standing water around the roots. During the dormant season, it only needs to be watered lightly every couple of weeks."
+        },
+        {
+          "id": 5537,
+          "type": "sunlight",
+          "description": "Japanese Cedar (Cryptomeria japonica) typically requires full sun to achieve its best growth. At least 6-8 hours of sun exposure per day is recommended for optimal growth and health of the tree. "
+        },
+        {
+          "id": 5538,
+          "type": "pruning",
+          "description": "When it comes to pruning Japanese Cedar, it is generally best to prune during the winter months. This allows the plant to remain healthy and grow back strong when the spring months roll around. During pruning, it is important to take off only as much as is necessary to maintain the desired shape and size.  Avoid taking off large amounts of foliage or large lateral branches as this can cause trauma to the plant or lead to a weakened, less attractive form."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

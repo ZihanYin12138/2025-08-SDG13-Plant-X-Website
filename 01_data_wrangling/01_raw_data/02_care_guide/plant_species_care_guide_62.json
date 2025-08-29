@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1600,
+      "species_id": 62,
+      "common_name": "Hubb's Red Willow Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Hubb's Red Willow'"
+      ],
+      "section": [
+        {
+          "id": 4999,
+          "type": "watering",
+          "description": "Acer palmatum 'Hubb's Red Willow' should be watered deeply about every 5-7 days once established. When watering, it is important to soak the soil thoroughly, making sure that the soil is evenly moist to the roots. Watering too frequently can cause root rot. During hot, summer months, water may need to be increased to twice a week. During cooler, winter months the frequency of watering should be lessened. Be sure there is good drainage, as standing water can cause root rot as well."
+        },
+        {
+          "id": 5000,
+          "type": "sunlight",
+          "description": "Acer palmatum 'Hubb's Red Willow' is a Japanese maple that thrives in partial sunlight, meaning an area of the garden with 4 to 6 hours of sunlight a day. It prefers the morning sun, and should be protected from extreme afternoon and mid-day sun. This will help encourage desirable growth and rich, deep foliage coloring, while reducing the risk of scorch and sunburn. Because it's a deciduous tree, the plant will also benefit from allowing the rays of the sun to reach the soil and aid in balancing temperatures."
+        },
+        {
+          "id": 5001,
+          "type": "pruning",
+          "description": "Hubb’s Red Willow Japanese Maple is a medium-sized tree that can grow up to 25 feet in height and spread. Pruning should begin when the tree is young in order to encourage strong, balanced growth. Pruning should be done from late winter to early spring before the buds break. It is important to prune out any dead or diseased branches as soon as possible. Thinning should be done by removing entire branches or removing selected branches to open up the canopy and allow more light and air to reach the inner layers of foliage. Light to moderate pruning is recommended to maintain the tree's natural shape and structure. Hubb's Red Willow should also be lightly pruned each year to remove any unwanted or diseased growth. It is important to remember to never prune more than 1-third of the tree's branches at a time. It is also best to prune with sharp tools and make clean cuts to minimize damage to the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

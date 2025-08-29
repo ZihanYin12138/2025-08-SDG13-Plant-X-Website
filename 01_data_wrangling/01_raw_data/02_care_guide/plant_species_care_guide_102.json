@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1634,
+      "species_id": 102,
+      "common_name": "Red Dragon Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Red Dragon'"
+      ],
+      "section": [
+        {
+          "id": 5107,
+          "type": "watering",
+          "description": "Red Dragon Japanese Maple should be watered deeply once a week while the soil is still slightly moist. Water should be applied to the soil until it begins to drain from the bottom of the pot. During very hot and dry periods, water twice weekly. In winter, water less, but be sure to check the soil to make sure it has not dried out."
+        },
+        {
+          "id": 5108,
+          "type": "sunlight",
+          "description": "Red Dragon Japanese Maple (Acer palmatum 'Red Dragon') does best with at least 4 to 6 hours of direct sunlight each day. The plant prefers to be in full sun in the morning and then full shade in the afternoon to avoid exposure to too much direct sunlight. However, in more northern and southern climates, partial sun all day or filtering sun through sheer curtains can also be beneficial and provide plenty of light for growth. During the hottest parts of the year, limiting exposure to higher intensity sunlight can help protect the plant from too much stress. Ultimately, the best solution for the Red Dragon Japanese Maple is to provide a balance of sunshine during the day in order to ensure its health and growth."
+        },
+        {
+          "id": 5109,
+          "type": "pruning",
+          "description": "Red Dragon Japanese Maples should be pruned in late winter or early spring, before new growth starts. Prune back any dead, diseased, or crisscrossing branches, as well as branches growing in an undesirable shape or direction. Remove up to 1-third of the total branch length when pruning. Overpruning should be avoided, as it can leave the maple trees susceptible to disease and damage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

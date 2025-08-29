@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1723,
+      "species_id": 207,
+      "common_name": "Cedar of Lebanon",
+      "scientific_name": [
+        "Cedrus libani"
+      ],
+      "section": [
+        {
+          "id": 5374,
+          "type": "watering",
+          "description": "The Cedar of Lebanon should be watered every 7-10 days. Each watering should be done with enough water so that the soil is completely saturated, but it should be allowed to dry out completely between waterings. When the plant is young it should be watered more frequently than when it is mature. It is important that the soil does not become overly soggy, as that can lead to root rot. Additionally, during periods of intense heat it may need to be watered more than once a week.  During the winter months, watering should be reduced."
+        },
+        {
+          "id": 5375,
+          "type": "sunlight",
+          "description": "Cedrus libani, or Cedar of Lebanon, species prefer to be grown in locations with full sunlight for most of the day. During the summer months, the plant should receive at least 8 hours of direct sunlight each day and during the cool, winter months at least 6 hours. "
+        },
+        {
+          "id": 5376,
+          "type": "pruning",
+          "description": "Cedar of Lebanon (Cedrus libani) should generally be pruned lightly at the end of summer or early fall. Pruning should be done every 3-4 years and should consist of removing any dead, diseased or damaged branches, and controlling tree size and shape by selectively removing some of the longer branches that have grown over the past few years. When removing branches, always ensure that the tree is balanced after pruning, making sure that no side is heavier than the other."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

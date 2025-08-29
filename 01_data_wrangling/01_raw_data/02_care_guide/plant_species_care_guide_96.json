@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1630,
+      "species_id": 96,
+      "common_name": "Palmatifidum Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Palmatifidum'"
+      ],
+      "section": [
+        {
+          "id": 5095,
+          "type": "watering",
+          "description": "The Palmatifidum Japanese Maple should be watered on a regular basis, approximately once or twice a week, depending on season and soil condition. In the summer months, the soil should be kept evenly moist but not soggy. During the spring and fall, the Palmatifidum Japanese Maple should receive a deeper soak once a week. In winter, when the plant is dormant, watering can be reduced. The key is to keep an eye on the soil and water when it starts to dry out."
+        },
+        {
+          "id": 5096,
+          "type": "sunlight",
+          "description": "Acer palmatum 'Palmatifidum' should receive at least 4-5 hours of direct sunlight each day. The best time of day to get the most sunlight is from midmorning to late afternoon when the sun is at its highest point in the sky. This species is partial sun to some shade, so during the warmer months it is beneficial to plant them in a spot that gets some afternoon shade to protect them from the heat. You should also avoid planting in areas that will get too much direct sunlight during the late afternoon as this could cause leaf burning."
+        },
+        {
+          "id": 5097,
+          "type": "pruning",
+          "description": "Pruning of Acer palmatum 'Palmatifidum' Japanese maple can be done 2 times a year; once in late winter and then again in late summer or early fall. Pruning should be done using sharp, clean scissors or pruners. In late winter, once the threat of frost has passed and before new growth starts to appear, stems that are diseased, dead, or crossing should be removed. Pruning should be done with care to maintain the desired look of the plant. \n\nIn late summer or early fall, thinning out may be necessary to prevent crowding, maintain shape, and increase air circulation. The top should be pruned to limit height while the sides should be pruned so that the shrub is slightly wider than tall. This will help keep the tree from becoming top-heavy. Prune no more than about 25-30% of the total tissue when performing this type of pruning. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

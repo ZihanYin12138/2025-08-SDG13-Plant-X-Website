@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": 63,
+      "common_name": "Summer patch",
+      "scientific_name": "Magnaporthe poae",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Summer Patch (Magnaporthe poae)?",
+          "description": "Summer patch is a fungal disease caused by Magnaporthe poae that affects hosts like annual bluegrass and Kentucky bluegrass. Symptoms include circular yellow or tan areas of dead plants up to 1 foot in diameter, with healthy green plants remaining in the center. Dark brown or black fungal hyphae develop on roots, crowns, or stolons. Furthermore, high temperatures (85° to 95°F) in late spring, low mowing, and excessive soil moisture worsen diseases."
+        },
+        {
+          "subtitle": "How does Summer Patch (Magnaporthe poae) occur?",
+          "description": "Magnaporthe poae, the fungus causing summer patch, survives as mycelium in infected plant tissue or debris. It thrives at around 28°C and infects when soil temperatures reach 19-20°C in late spring. The fungus spreads by growing between roots during the growing season. Symptoms may remain hidden until a sharp temperature increases, especially during wet conditions. Infected plant material and mechanical equipment can also facilitate pathogen transmission."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Control",
+          "description": "1.\tSoil Aeration and Slow-Release Nitrogen: Enhance root growth with soil aeration and slow-release nitrogen fertilizers.\n\n2.\tImproved Drainage and Reduced Compaction: Improve drainage, reduce soil compaction, and maintain healthy soil structure.\n\n3.\tThatch Control and Avoiding Drought Stress: Manage thatch buildup, avoid drought stress, and follow irrigation recommendations.\n\n4.\tAppropriate Mowing Height: Mow at the higher end of the recommended height range for your turf species.\n\n5.\tSoil pH Adjustment: Adjust soil pH if above 7. Consider professional soil analysis for nutrient deficiencies.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "•\tCultural controls are most effective, as fungicides are ineffective once symptoms appear.\n\n•\tCombination products with demethylation-inhibiting fungicides (DMIs) and strobilurins show the best control. Chemicals like DisarmTM, HeadwayTM, and ArmadaTM fall into this category. \nOther labeled fungicides include fluxapyroxad, propiconazole, myclobutanil, thiophanate-methyl, trifloxystrobin, and triadimefon.\n\n•\tPlease refer to the fungicide labels and consult with local experts for precise instructions and suitability for your specific region and situation.\n\n"
+        }
+      ],
+      "host": [
+        "bluegrass",
+        "fine fescues"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/63_magnaporthe_poae/og/14747617254_dd85aea258_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/63_magnaporthe_poae/regular/14747617254_dd85aea258_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/63_magnaporthe_poae/medium/14747617254_dd85aea258_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/63_magnaporthe_poae/small/14747617254_dd85aea258_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/63_magnaporthe_poae/thumbnail/14747617254_dd85aea258_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

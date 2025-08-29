@@ -1,0 +1,121 @@
+{
+  "id": 67,
+  "common_name": "Kagiri Nishiki Japanese Maple",
+  "scientific_name": [
+    "Acer palmatum 'Kagiri Nishiki'"
+  ],
+  "other_name": [],
+  "family": null,
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Kagiri Nishiki",
+  "variety": null,
+  "species_epithet": "palmatum",
+  "genus": "Acer",
+  "origin": [
+    "Japan"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 20,
+      "max_value": 20,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Root Division"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=67&size=og&key=sk-3ksU68b046f66e1f912089",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=67&size=og&key=sk-3ksU68b046f66e1f912089'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "crimson-pink-green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=67&key=sk-3ksU68b046f66e1f912089",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": false,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Kagiri Nishiki Japanese Maple is an amazing plant species due to its incredibly rare beauty. Its multi-colored, deeply cut foliage displays a stunning array of red, orange, pink, and yellow all on one tree. These variegated leaves create an impressive display in any garden. With its spreading and dwarf form, it is a great addition to any landscape and can grow in any soil type. Its small size makes it great for gardens with limited space and its low-maintenance needs make it a great choice for gardeners of any experience level. It is truly an incredible plant to add year-round color and beauty to any garden.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/67_acer_palmatum_kagiri_nishiki/og/800px-Acer_palmatum_27Kagiri-nishiki27_sunlit_branch.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/67_acer_palmatum_kagiri_nishiki/regular/800px-Acer_palmatum_27Kagiri-nishiki27_sunlit_branch.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/67_acer_palmatum_kagiri_nishiki/medium/800px-Acer_palmatum_27Kagiri-nishiki27_sunlit_branch.jpg",
+    "small_url": "https://perenual.com/storage/species_image/67_acer_palmatum_kagiri_nishiki/small/800px-Acer_palmatum_27Kagiri-nishiki27_sunlit_branch.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/67_acer_palmatum_kagiri_nishiki/thumbnail/800px-Acer_palmatum_27Kagiri-nishiki27_sunlit_branch.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

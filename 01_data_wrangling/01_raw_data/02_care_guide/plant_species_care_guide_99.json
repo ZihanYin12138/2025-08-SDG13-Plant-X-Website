@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 992,
+      "species_id": 99,
+      "common_name": "Pink Lace Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Pink Lace'"
+      ],
+      "section": [
+        {
+          "id": 2977,
+          "type": "watering",
+          "description": "Pink Lace Japanese maple trees should be watered deeply and regularly during the growing season, which is generally from spring to fall. You should aim to water your tree every few 2-5 days during the hottest months, and then the frequency can be reduced to once or twice a week during cooler months. You should also keep an eye on the soil moisture level and make sure the soil stays damp, but not wet. You can water your tree more when the weather is hot and dry, and reduce the amount when there is a lot of rainfall. Keep an eye on your plant and be sure to adjust your watering as necessary."
+        },
+        {
+          "id": 2978,
+          "type": "sunlight",
+          "description": "Pink Lace Japanese Maple needs lots of sunlight in the spring and summer in order to encourage growth and foliage production, so be sure to provide the plant with sunlight for most of the day during these times. Even during the hottest summer days, make sure it gets at least 6 hours of direct sunlight (not filtered light). During the winter months, the tree can tolerate a little less sun (4-6 hours). Place the tree in an area where it can receive bright but indirect light, such as coming from east or west facing windows."
+        },
+        {
+          "id": 2979,
+          "type": "pruning",
+          "description": "For pruning a Pink Lace Japanese maple, you should do light pruning in late fall or winter when the tree is dormant. Pruning too early in the spring can damage blooms and induce weak growth. Be careful when pruning not to cut back too much; the Pink Lace Japanese Maple is slow growing, so too much pruning can stunt the tree's growth. The best way to prune is to prune small amounts, no more than 10% of the overall branches each year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,132 @@
+{
+  "id": 15,
+  "common_name": "Ruby Slippers Amur Maple",
+  "scientific_name": [
+    "Acer ginnala 'Ruby Slippers'"
+  ],
+  "other_name": [],
+  "family": null,
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Ruby Slippers",
+  "variety": null,
+  "species_epithet": "ginnala",
+  "genus": "Acer",
+  "origin": [
+    "China"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 20,
+      "max_value": 20,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Root Division"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "3"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=15&size=og&key=sk-3ksU68b046f66e1f912089",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=15&size=og&key=sk-3ksU68b046f66e1f912089'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "trunks",
+      "color": [
+        "silver-green"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "silver-green"
+      ]
+    },
+    {
+      "part": "twigs",
+      "color": [
+        "silver-green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "yellow"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=15&key=sk-3ksU68b046f66e1f912089",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": false,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Ruby Slippers Amur Maple is an amazing plant species that can survive in extreme conditions. It has a unique vertical habit, clockwise foliage, and bright red stems which makes it a great ornamental tree. Its deep green summer foliage with a pattern of creamy white margins, plus its eye-catching red stem color in the fall and winter give this plant unique beauty. It is fast-growing and tolerates extreme heat, drought, and cold temperatures. It also thrives in a variety of soils and can handle little maintenance. So, Ruby Slippers Amur Maple is an amazing species to have in your garden, adding beauty and color all year round.",
+  "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/15_acer_ginnala_ruby_slippers/og/pexels-photo-1640820.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/15_acer_ginnala_ruby_slippers/regular/pexels-photo-1640820.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/15_acer_ginnala_ruby_slippers/medium/pexels-photo-1640820.jpg",
+    "small_url": "https://perenual.com/storage/species_image/15_acer_ginnala_ruby_slippers/small/pexels-photo-1640820.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/15_acer_ginnala_ruby_slippers/thumbnail/pexels-photo-1640820.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

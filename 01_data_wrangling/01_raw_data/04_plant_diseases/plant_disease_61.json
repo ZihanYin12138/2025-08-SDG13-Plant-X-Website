@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "id": 61,
+      "common_name": "Leaf spot",
+      "scientific_name": "Bipolaris spp.",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Leaf spot (Bipolaris spp.)?",
+          "description": "Leaf spot, caused by Bipolaris spp., is a fungal disease affecting grasses like Hybrid Bermuda, Common Bermuda, Perennial Ryegrass, and Zoysiagrass. Thriving in warm weather with wet and dry cycles in the thatch layer, it leads to brown spots on leaves, sheaths, and stems during cool weather. In hot and humid conditions, it can cause melting-out, leading to crown and root rots. Symptoms may spread across the lawn, resulting in thinning areas. Infected leaves, sheaths, and stems show circular to elongated brownish spots with dark borders, while crowns and roots exhibit dark brown rot."
+        },
+        {
+          "subtitle": "How does Leaf spot (Bipolaris spp.) occur?",
+          "description": "During winter, the fungus survives in the crowns, roots, or debris of the grass. In cool and wet spring weather (around April to early May), the fungus becomes active. Rain or irrigation water carries its spores onto new grass leaves, causing new leaf spot infections.\nDuring late spring, more spores and leaf spot symptoms develop. If conditions are favorable, the spores reach the crowns and roots, leading to the melting-out phase by late spring or early summer. Leaf spot and melting-out fungi can infect different types of cool-season grasses during the summer."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural practices",
+          "description": "•\tChoose turfgrass varieties that are resistant to leaf spot. Prioritize planting these resistant cultivars whenever possible.\n•\tApply moderate amounts of nitrogen fertilizer (0.5 to 1.0 lb. nitrogen/1,000 sq ft) in early spring.\n•\tAvoid excessive nitrogen applications, which can promote disease development.\n•\tFrequent mowing helps reduce the severity of leaf spot and melting-out disease.\n•\tIf irrigation is necessary in summer, water deeply to thoroughly wet the soil.\n•\tThis reduces the need for frequent watering and helps prevent wilting and drought stress.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "Fungicides containing iprodione, chlorothalonil, mancozeb, fludioxonil, azoxystrobin, or penthiopyrad with different product names such as Andersons Golden Eagle DG, Eagle 20EW, Myclobutanil 20EW are typically effective against leaf spot diseases.\nPlease refer to the fungicide labels and consult with local experts for precise instructions and suitability for your specific region and situation.\n"
+        }
+      ],
+      "host": [
+        "bermudagrass",
+        "bluegrass",
+        "fescues",
+        "kikuyugrass",
+        "ryegrasses",
+        "zoysiagrass"
+      ],
+      "images": [
+        {
+          "license": 451,
+          "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/61_bipolaris_spp/og/leaf_light_shine_through_leaf_veins_veins_poplar_poplar_leaf_bastard_black_poplar-1244410.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/61_bipolaris_spp/regular/leaf_light_shine_through_leaf_veins_veins_poplar_poplar_leaf_bastard_black_poplar-1244410.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/61_bipolaris_spp/medium/leaf_light_shine_through_leaf_veins_veins_poplar_poplar_leaf_bastard_black_poplar-1244410.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/61_bipolaris_spp/small/leaf_light_shine_through_leaf_veins_veins_poplar_poplar_leaf_bastard_black_poplar-1244410.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/61_bipolaris_spp/thumbnail/leaf_light_shine_through_leaf_veins_veins_poplar_poplar_leaf_bastard_black_poplar-1244410.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

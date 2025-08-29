@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1603,
+      "species_id": 67,
+      "common_name": "Kagiri Nishiki Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Kagiri Nishiki'"
+      ],
+      "section": [
+        {
+          "id": 5014,
+          "type": "watering",
+          "description": "Water the Acer palmatum 'Kagiri Nishiki' Japanese maple when the top 50mm (2 inches) of soil is dry. This species prefers moist soil, so it is best to water it a bit more often than other plants. Generally, it is best to water an adult tree twice a week during hot weather, once a week during mild weather, and once a month in winter. When watering, give the tree enough water so that the soil is moist to a depth of 300-450mm (12-18 inches). Make sure to water the entire root zone, so the water reaches all of the roots. After the tree is established, the frequency of watering may need to be adjusted according to local conditions."
+        },
+        {
+          "id": 5015,
+          "type": "sunlight",
+          "description": "Kagiri Nishiki Japanese Maple (Acer palmatum 'Kagiri Nishiki') requires at least 4-6 hours of direct sunlight per day. This species prefers morning sun and afternoon shade to prevent foliage from burning in the high summer heat. It benefits from a period of dappled light in the afternoon which provides relief from the hot sun, and also allows the foliage to receive some light filtering through the trees if planted beneath a canopy of trees."
+        },
+        {
+          "id": 5016,
+          "type": "pruning",
+          "description": "Kagiri Nishiki Japanese Maple (Acer palmatum 'Kagiri Nishiki') should be pruned in early spring (March-April) when they are still in their dormant state. Pruning should be light, focusing on removing any dead, damaged, or diseased branches as well as any crossing or overly-long branches. Doing this will help maintain the plant's desired shape, as well as allowing for better air circulation and adequate light exposure. It is important to avoid pruning the healthy green branches of Kagiri Nishiki Japanese Maple as this could damage the tree and reduce its health."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

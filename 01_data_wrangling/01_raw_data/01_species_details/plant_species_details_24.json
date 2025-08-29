@@ -1,0 +1,146 @@
+{
+  "id": 24,
+  "common_name": "Mocha Rose Big Leaf Maple",
+  "scientific_name": [
+    "Acer macrophyllum 'Mocha Rose'"
+  ],
+  "other_name": [
+    "Oregon Maple"
+  ],
+  "family": "Sapindaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Mocha Rose",
+  "variety": null,
+  "species_epithet": "macrophyllum",
+  "genus": "Acer",
+  "origin": [
+    "British Columbia",
+    "California",
+    "Oregon",
+    "Washington"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 60,
+      "max_value": 60,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Squirrels",
+    " Bees"
+  ],
+  "propagation": [
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=24&size=og&key=sk-3ksU68b046f66e1f912089",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=24&size=og&key=sk-3ksU68b046f66e1f912089'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaf",
+      "color": [
+        "light-green",
+        "green"
+      ]
+    },
+    {
+      "part": "veins",
+      "color": [
+        "light-green",
+        "green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "red"
+      ]
+    },
+    {
+      "part": "branch",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=24&key=sk-3ksU68b046f66e1f912089",
+  "soil": [
+    "Sandy Loamy"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Fungal leaf spot",
+    " Heart rot",
+    " Mildew",
+    "  Pest resistant",
+    " Disease resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Mocha Rose Big Leaf Maple is an amazing plant species for many reasons. It has lush glossy green foliage with deeply lobed leaves that are edged in pink, giving this tree a stunning look that is unlike any other. It also enjoys sun, but is tolerant of partial shade and can tolerate most soil types and moisture conditions. Its ability to thrive in a range of environments and climates makes it an excellent choice for gardeners. In addition to its eye-catching foliage, this maple also produces small flowers in the spring, providing a great source of nectar for pollinators. Overall, Mocha Rose Big Leaf Maple is an exquisite and unparalleled choice for any garden.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/24_acer_macrophyllum_mocha_rose/og/4715169892_220a9d39f6_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/24_acer_macrophyllum_mocha_rose/regular/4715169892_220a9d39f6_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/24_acer_macrophyllum_mocha_rose/medium/4715169892_220a9d39f6_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/24_acer_macrophyllum_mocha_rose/small/4715169892_220a9d39f6_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/24_acer_macrophyllum_mocha_rose/thumbnail/4715169892_220a9d39f6_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

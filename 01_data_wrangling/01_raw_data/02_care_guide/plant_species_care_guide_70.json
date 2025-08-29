@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 512,
+      "species_id": 70,
+      "common_name": "Karasu Gawa Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Karasu Gawa'"
+      ],
+      "section": [
+        {
+          "id": 1539,
+          "type": "watering",
+          "description": "Young Karasu Gawa Japanese Maples should receive 1-2 inches of water per week. During hot, dry periods, the soil should be checked to make sure it is still moist several inches below the surface. Established trees may only need more watering occasionally, but during extended dry periods, they may require more frequent watering. It is better to give the tree less water more frequently than to give it more water less often to reduce the chances of over-saturating the soil."
+        },
+        {
+          "id": 1541,
+          "type": "sunlight",
+          "description": "Karasu Gawa Japanese Maple should receive full sun or partial shade for 4-6 hours a day. This species requires moderate or low levels of sunlight and does not tolerate extended periods of direct sunlight. To protect it from the intense afternoon sun, try to plant it in a location that gets morning sun and is shaded from the late afternoon sun. During the midday and late afternoon, the tree should receive gentle dappled sunlight or be in a semi-shaded area."
+        },
+        {
+          "id": 1544,
+          "type": "pruning",
+          "description": "Karasu Gawa Japanese Maple should be pruned lightly once a year in late winter before any new buds break dormancy. During pruning, remove any dead branches or other undesirable growth. Pinch off any dead or newly developing leaves to encourage the continuation of a pleasing shrub structure. Pruning should be done with caution, as Japanese maples are slow-growing plants. Remove no more than 1/3 of the total branch length at any time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

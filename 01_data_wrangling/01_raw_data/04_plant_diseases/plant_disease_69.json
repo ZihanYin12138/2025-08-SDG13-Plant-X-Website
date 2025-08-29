@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 69,
+      "common_name": "Fusarium wilt (yellows)",
+      "scientific_name": "Fusarium  oxysporum",
+      "other_name": [
+        "Yellows (Fusarium wilt)"
+      ],
+      "family": null,
+      "description": [],
+      "solution": [],
+      "host": [
+        "cabbage"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/69_fusarium__oxysporum/og/2560px-Elbwiesen_-_Winterkohl_28229.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/69_fusarium__oxysporum/regular/2560px-Elbwiesen_-_Winterkohl_28229.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/69_fusarium__oxysporum/medium/2560px-Elbwiesen_-_Winterkohl_28229.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/69_fusarium__oxysporum/small/2560px-Elbwiesen_-_Winterkohl_28229.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/69_fusarium__oxysporum/thumbnail/2560px-Elbwiesen_-_Winterkohl_28229.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

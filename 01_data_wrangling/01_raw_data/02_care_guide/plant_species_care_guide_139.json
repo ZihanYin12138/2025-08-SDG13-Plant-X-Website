@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1668,
+      "species_id": 139,
+      "common_name": "Villa Taranto Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Villa Taranto'"
+      ],
+      "section": [
+        {
+          "id": 5209,
+          "type": "watering",
+          "description": "Villa Taranto Japanese Maple (Acer palmatum 'Villa Taranto') require moderate watering. Water the tree deeply once a week during the growing season (spring through fall). Make sure the soil is moist but not saturated. Avoid overhead watering. In the winter, reduce watering to deeply once a month. Do not allow the soil to dry out completely."
+        },
+        {
+          "id": 5210,
+          "type": "sunlight",
+          "description": "Villa Taranto Japanese Maple (Acer palmatum 'Villa Taranto') is a deciduous shrub that will benefit from plenty of sunlight, ideally receiving 4 to 6 hours in the morning and partial shade in the afternoon. In warmer climates, however, it is best to provide some afternoon shade to protect the foliage from heat stress and potential leaf scorch. While it does not require full sun to thrive, an area with plenty of bright, indirect light is recommended. As with all plants, provide supplemental sun if the plant is not getting enough light."
+        },
+        {
+          "id": 5211,
+          "type": "pruning",
+          "description": "Villa Taranto Japanese Maple should be pruned in late winter or early spring. The amount of pruning depends on the desired look and shape of the tree. Generally a light pruning is recommended to maintain a natural shape and prevent the tree from becoming overgrown. Avoid pruning any branches that form the structure of the tree and only lightly prune the top foliage to slim it down if necessary. You may also creatively prune the side branches to form layers and create more interest in the tree’s form."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

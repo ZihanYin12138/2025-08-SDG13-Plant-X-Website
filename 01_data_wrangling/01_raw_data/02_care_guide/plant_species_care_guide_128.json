@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1658,
+      "species_id": 128,
+      "common_name": "Tamukeyama Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Tamukeyama'"
+      ],
+      "section": [
+        {
+          "id": 5179,
+          "type": "watering",
+          "description": "Tamukeyama Japanese Maple should be watered deeply once a week during the growing season. Plant the tree in an area with full to partial sun and well draining soil. Make sure to water around the edges of the root zone to ensure the plant receives ample hydration. When watering, keep in mind that the soil should be moist but not soggy. This species can also tolerate some dryness between waterings, as the water-storing properties of the soil help maintain the moisture levels. Avoid over-watering, as plants in the Acer genus are susceptible to root rot. Stop watering in late autumn or early winter when the tree goes dormant, as too much moisture at this time can cause winter damage."
+        },
+        {
+          "id": 5180,
+          "type": "sunlight",
+          "description": "The Tamukeyama Japanese Maple does best in a spot with partial to full shade, which means it should receive approximately 4-7 hours of direct sunlight each day. While they can tolerate full sun, it's not advised as it can damage the foliage. Too much sunlight can also cause a scorching of the leaves and turn them yellow or brown. It is recommended that when choosing a spot for your Tamukeyama Japanese Maple, you look for a location that receives morning sun then shade during the hottest part of the day (noon to 6 PM). "
+        },
+        {
+          "id": 5181,
+          "type": "pruning",
+          "description": "Typically Tamukeyama Maple should be pruned in late winter or early spring, depending on your hardiness zone. Pruning should be minimal and can be done with sharp pruners for small branches or loppers for larger branches. The goal of pruning should be to maintain a desirable structure and slightly reduce the size of the tree if desired. Pruning should remove dead, diseased, broken or heavily crossed branches. Branches that are growing too close together should also be removed. Additionally, branches that are growing out of the desired shape should be thinned. These types of branches should be cut to a younger branch, aiming for a 45 degree angle. It’s important to note that pruning should never result in over 20% of the tree being removed at 1 time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

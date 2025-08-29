@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1764,
+      "species_id": 252,
+      "common_name": "Blue Shadow Chinese Dogwood",
+      "scientific_name": [
+        "Cornus kousa 'Blue Shadow'"
+      ],
+      "section": [
+        {
+          "id": 5497,
+          "type": "watering",
+          "description": "When watering Blue Shadow Chinese Dogwood, water moderately and deeply. Aim to water your Blue Shadow Chinese Dogwood once a week during the growing season. This will help avoid both over-watering and under-watering. After the initial establishment, Blue Shadow Chinese Dogwoods are quite drought tolerant, so you can reduce your watering frequency if the soil is not too sandy. During hot and dry weather, check the soil moisture near the crown of the plant as the leaves can wilt even if the soil is moist deeper down. If this happens, an additional watering may be needed on a weekly basis."
+        },
+        {
+          "id": 5498,
+          "type": "sunlight",
+          "description": "The Blue Shadow Chinese Dogwood (Cornus kousa 'Blue Shadow') grows best in full sun to partial shade. It prefers sun in the morning with some afternoon shade during the summer months. During the warmer months, it does best with at least 6 hours of direct sunlight. "
+        },
+        {
+          "id": 5499,
+          "type": "pruning",
+          "description": "Blue Shadow Chinese Dogwood (Cornus kousa 'Blue Shadow') should be pruned annually in late winter or early spring, before new growth begins. Prune by removing dead, damaged, and crossing branches, and any branches that are growing too close together. Shaping and thinning may also be necessary in order to reduce the overall size of the plant or to improve the shape. Keep in mind that cutting off too much of the foliage can leave the tree unprotected from the sun and prone to sunburn."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

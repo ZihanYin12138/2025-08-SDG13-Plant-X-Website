@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 51,
+      "species_id": 9,
+      "common_name": "Noble Fir",
+      "scientific_name": [
+        "Abies procera"
+      ],
+      "section": [
+        {
+          "id": 263,
+          "type": "watering",
+          "description": "Noble Fir (Abies procera) should be watered moderately and regularly, with an approximate frequency of once a week. The amount of water that should be applied should be enough to keep the soil evenly moist but not waterlogged. When watering, water deeply to encourage deep root growth and make sure to penetrate the root ball of the plant. Established trees can withstand occasional drought, however newly planted trees may require more frequent watering until they become established."
+        },
+        {
+          "id": 264,
+          "type": "sunlight",
+          "description": "Noble Fir plants require full sunlight for much of the day during the peak growing season, which usually occurs during the summer months. Sunlight is essential for proper growth and development of the plant, and this species should be exposed to direct sunlight for between 6-8 hours each day. During the winter months, the amount of sunlight should be reduced to 4-6 hours each day. If Noble Firs fail to receive the proper amount of sunlight, they may struggle to develop healthy, robust foliage and overall growth."
+        },
+        {
+          "id": 265,
+          "type": "pruning",
+          "description": "Noble Fir should be pruned in late winter or early spring. Pruning should be minimal, focusing on removing any dead, damaged, or diseased branches. If needed, growing tips can be removed to maintain desired size, shape, and angle of branching. Avoid cutting branches through heavily burdened areas - these areas should be thinned out instead. In addition, limit the amount of pruning to no more than 10% of the foliage each year to prevent possible dieback or disease problems."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1618,
+      "species_id": 84,
+      "common_name": "Okagami Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Okagami'"
+      ],
+      "section": [
+        {
+          "id": 5059,
+          "type": "watering",
+          "description": "The Okagami Japanese Maple should be watered deeply and consistently throughout the growing season. Watering should be done at least once a week (in warmer climates, twice a week is ideal). Make sure the soil is evenly moist but not soggy. The best time to water the plant is in the morning. Occasionally, water the maple more heavily to help prevent leaf burn due to over-exposure to direct sunlight. During the winter or in dry, cool climates, water less frequently - only when the soil appears dry."
+        },
+        {
+          "id": 5060,
+          "type": "sunlight",
+          "description": "Okagami Japanese Maple (Acer palmatum 'Okagami') can thrive in full to partial sun. During summer, ideally provide the tree with morning sun and some protection from the hot afternoon sun. In winter, Okagami can tolerate more direct sunlight. Regardless of season, provide about 4-5 hours of direct or filtered sunlight daily."
+        },
+        {
+          "id": 5061,
+          "type": "pruning",
+          "description": "The Okagami Japanese Maple should be pruned late spring through early summer to maintain its beautiful shape. Prune anytime before late summer. Pruning should be done selectively, to maintain the desired size and shape. Remove any dead, broken, or crossing branches as well as any heavy branches that are too large for the tree's overall size. Use caution when removing larger branches. When pruning branches with small diameters, use sharp scissors or pruners to ensure clean cuts with minimal damage to the tree. If you need to further reduce the size of the tree, do so gradually over the season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

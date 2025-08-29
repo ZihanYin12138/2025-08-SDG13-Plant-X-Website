@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 138,
+      "species_id": 275,
+      "common_name": "Mountain Pepper",
+      "scientific_name": [
+        "Drimys lanceolata"
+      ],
+      "section": [
+        {
+          "id": 1046,
+          "type": "watering",
+          "description": "Mountain Pepper should be watered deeply and regularly to ensure it has access to sufficient moisture. During the summer months, it should be watered approximately once a week, depending on the climate. In warmer climates, more frequent watering may be necessary. Avoid saturating the soil as this can cause root rot. During the winter, water the plant less frequently, approximately every 2 to 4 weeks. Ensure that the soil has completely dried out between waterings."
+        },
+        {
+          "id": 1047,
+          "type": "sunlight",
+          "description": "Mountain Pepper grows best in locations that receive 4 to 5 hours of direct sunlight each day. During the summer, Mountain Pepper should be protected from the sun during the hottest part of the afternoon. In the winter, when the days are shorter, a full day of sunlight is ideal. It is also beneficial to provide some shade in extreme weather conditions. Mountain Pepper is generally tolerant of a wide range of light levels, though it will perform best in bright light."
+        },
+        {
+          "id": 1048,
+          "type": "pruning",
+          "description": "Mountain Pepper should be pruned twice a year- in late winter and in midsummer. Pruning in late winter involves removing dead or broken branches and helping to shape the tree to maintain its natural attractive form. Pruning in midsummer should be done to reduce the growth rate of the tree, which can otherwise become too large and unmanageable. The amount that should be pruned will vary depending on the size and shape of the tree, but should be kept to a minimum. It is important to ensure that overall tree health is not compromised, so only remove dead, broken or diseased wood, and no more than 20-25% of the foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

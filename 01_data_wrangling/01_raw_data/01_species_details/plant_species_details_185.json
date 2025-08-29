@@ -1,0 +1,133 @@
+{
+  "id": 185,
+  "common_name": "Crimson Frost Birch",
+  "scientific_name": [
+    "Betula 'Crimson Frost'"
+  ],
+  "other_name": [],
+  "family": "Betulaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Crimson Frost",
+  "variety": null,
+  "species_epithet": "'Crimson",
+  "genus": "Betula",
+  "origin": [
+    "Japan"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 40,
+      "max_value": 40,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "4"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=185&size=og&key=sk-ACnv68b0630adff3b12096",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=185&size=og&key=sk-ACnv68b0630adff3b12096'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "bark",
+      "color": [
+        "beige"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "purple"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "High",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=185&key=sk-ACnv68b0630adff3b12096",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Crimson Frost Birch (Betula 'Crimson Frost') is an amazing ornamental tree with several features that make it stand out. Its signature trait is its striking deep pink-red leaves that look especially vibrant against the green foliage. When Fall arrives, its foliage takes on a scarlet hue, making this variety outstanding during the winter months. Crimson Frost Birch is also highly adaptable, growing in various soils and climates, including drought conditions. Its bark is an eye-catching whitish gray color and the shape is an elegant oval, making it an ideal choice for both home gardens and public parks alike.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/185_betula_crimson_frost/og/B._pubescens_f._rubra_2.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/185_betula_crimson_frost/regular/B._pubescens_f._rubra_2.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/185_betula_crimson_frost/medium/B._pubescens_f._rubra_2.jpg",
+    "small_url": "https://perenual.com/storage/species_image/185_betula_crimson_frost/small/B._pubescens_f._rubra_2.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/185_betula_crimson_frost/thumbnail/B._pubescens_f._rubra_2.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

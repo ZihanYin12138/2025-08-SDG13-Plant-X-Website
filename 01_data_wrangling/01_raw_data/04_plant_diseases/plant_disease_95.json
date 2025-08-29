@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 95,
+      "common_name": "Cherry leaf spot",
+      "scientific_name": "Blumeriella jaapii",
+      "other_name": [
+        "Leaf spot Cherry"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is a Cherry leaf spot (Blumeriella jaapii)?",
+          "description": "Blumeriella jaapii is a fungal pathogen causing cherry leaf spot, affecting cherry trees, as well as plums. Symptoms include circular lesions turning into \"shot hole\" patterns, yellowing, and premature leaf drop. Tart cherries are particularly vulnerable, experiencing purple-to-brown spots with leaf holes. Leaf loss increases winter injury risk, slows spring growth, and decreases summer fruit production."
+        },
+        {
+          "subtitle": "How does Cherry leaf spot (Blumeriella jaapii)?",
+          "description": "Blumeriella jaapii survives winter in fallen leaves and releases ascospores in early spring. Germination occurs on wet leaves at 58-73°F. Leaf spots emerge within 10-15 days, with undersides producing spores. Wind and splashing water disseminate spores, causing new infections. Rainy seasons in May and June expedite the spread. By late summer, mature leaves become susceptible, potentially resulting in complete defoliation."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Control",
+          "description": "•\tRake up and destroy infected leaves, ensuring they are completely decayed before spring.\n\n•\tEncourage leaf decomposition through practices like mowing or flailing.\n\n•\tApply urea to fallen leaves in autumn to enhance decomposition.\n\n•\tCompost or properly dispose of the collected leaves.\n\n•\tBy removing fallen leaves, you eliminate a potential source of disease spores. This reduces the chances of fungal survival and spread in the next growing season.\n"
+        },
+        {
+          "subtitle": "Chemical Control ",
+          "description": "•\tFungicides for controlling  Cherry leaf spot are Bonide Captan 50 WP, Bravo Weather Stik, Captan 80 WDG, CaptEvate 68 WDG, Cevya, Cueva, Eagle 20 EW, and Echo 720 among others. \n\n•\tManaging Fungicide Resistance: Overuse of myclobutanil can lead to resistance development in leaf spot fungi. To prevent resistance, alternate between myclobutanil and captan for repeated fungicide applications.\n\n•\tCopper-Based Fungicides: Fungicides containing copper may offer some protection against leaf spot infection. Certain copper fungicides are approved for organic production.\n\nNote: Please follow label instructions and consult local experts for specific recommendations.\n"
+        }
+      ],
+      "host": [
+        "cherry"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/95_blumeriella_jaapii/og/Blumeriella_jaapii_01.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/95_blumeriella_jaapii/regular/Blumeriella_jaapii_01.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/95_blumeriella_jaapii/medium/Blumeriella_jaapii_01.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/95_blumeriella_jaapii/small/Blumeriella_jaapii_01.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/95_blumeriella_jaapii/thumbnail/Blumeriella_jaapii_01.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

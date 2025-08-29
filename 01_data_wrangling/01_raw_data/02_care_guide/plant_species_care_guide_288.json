@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 38,
+      "species_id": 288,
+      "common_name": "Common Fig",
+      "scientific_name": [
+        "Ficus carica"
+      ],
+      "section": [
+        {
+          "id": 121,
+          "type": "watering",
+          "description": "Common Fig plants should be watered deeply and thoroughly when the soil becomes dry to the touch. Water the plant until the soil is saturated and then allow the soil to dry out before the next watering. Generally, you should water the plant about once every 2 weeks - more often in hotter months, and less often in cooler months."
+        },
+        {
+          "id": 122,
+          "type": "sunlight",
+          "description": "Common Fig trees need at least 8 hours of direct sunlight per day in order to maximize their growth and production. Sunlight also helps to keep the tree healthy and vigorous, stimulate flowering, and promote fruit development and quality. Full hot sun is best for fig trees, although they do need some protection from very hot afternoon sun. For optimal growth and production, the tree should receive sun during the morning hours, and afternoon shade during the hottest part of the day."
+        },
+        {
+          "id": 123,
+          "type": "pruning",
+          "description": "Pruning for a Common Fig (Ficus carica) should be done twice a year; once in early spring before new growth begins and again in mid-summer after the new growth has matured. Pruning should focus on removing dead or diseased branches, thinning and shaping the canopy, and ensuring good airflow to reduce disease. The overall goal of pruning should be to create a balanced and open canopy.\n\nIn the spring, remove any dead or diseased branches that have developed over the winter and remove any suckers and water sprouts. You may also need to thin out any overcrowded branches to produce a more open canopy.\n\nIn the summer, thin out dense growth and cut back the tips of branches and shoots after the fig has finished fruiting. Dead, diseased, and excessively thin branches should be removed as well. Always use sharp and clean pruning tools to ensure clean cuts and do not worry too much about aesthetics, as figs are very forgiving plants."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

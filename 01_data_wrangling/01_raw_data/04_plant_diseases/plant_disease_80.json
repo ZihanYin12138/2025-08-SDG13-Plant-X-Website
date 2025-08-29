@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 80,
+      "common_name": "Purple blotch",
+      "scientific_name": "Septocyta ruborum",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Purple blotch, (Septocyta ruborum)?",
+          "description": "Purple blotch is a plant disease caused by a fungus called Septocyta ruborum. This fungus belongs to the Ascomycota phylum and primarily affects the stems of Rubus species, especially wild blackberries. It is also known as stem spot disease due to the formation of small dark green spots on the stems, which later grow to several centimeters in length. These spots turn purple with a reddish ring. Purple blotch mainly impacts blackberry cultivars such as 'Marion,' 'Evergreen,' 'Kotata,' and 'Waldo.'"
+        },
+        {
+          "subtitle": "How does Purple blotch, (Septocyta ruborum) occur?",
+          "description": "During spring, the fungus produces spores on the affected mature canes of blackberry plants. These spores specifically target the young canes. They are dispersed by rain and often collect near the base of hair-like structures called trichomes before infecting the plant. The spores primarily enter the plant through tiny pores called stomata, which are present on the surface of leaves and stems. However, if only the outer layer of stems is scraped, the spores don't infect. But deep wounds make the plant more susceptible to infection."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural methods",
+          "description": "•\tGrow less susceptible varieties like Boysenberry or Loganberry.\n\n•\tTrain canes vertically to improve airflow and reduce disease severity. Additionally, Control weeds to prevent infection and ensure adequate spray coverage.\n\n•\tRemove old fruiting canes after harvest to minimize overwintering inoculum.\n\n•\tOptimize plant spacing and implement canopy management techniques that promote good air circulation, reducing humidity and disease spread.\n\n\n•\tImplement measures to manage primocanes (young canes) early in the season to reduce disease incidence.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "1.\tAfter Harvest:\n•\tUse fixed coppers (Nu-Cop, Cuprofix) or Bordeaux 8-8-100.\n•\tApply Bonide Captan 50 WP in home gardens.\n•\tRepeat spray in early October before heavy rains.\n2.\tBudbreak in Early March:\n•\tApply Rex Lime Sulfur Solution or fixed copper.\n•\tUse Liqui-Cop for home gardens.\n•\tSulforix can be applied as a delayed dormant spray.\n3.\tSpray Young Primocanes:\n•\tApply Bonide Captan 50 WP or Captan 80 WDG.\n•\tUse fixed coppers (Nu-Cop, C-O-C-S) or Kocide.\n•\tPristine can be used on harvest day.\n\n•\tFollow label instructions, reentry periods, and safety precautions when applying fungicides.\nConsulting local agricultural experts or extension services for specific recommendations is essential.\n"
+        }
+      ],
+      "host": [
+        "caneberry"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/80_septocyta_ruborum/og/Septocyta_ruborum_at_blackberry2C_bruine_stengelvlekkenziekte_op_braam.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/80_septocyta_ruborum/regular/Septocyta_ruborum_at_blackberry2C_bruine_stengelvlekkenziekte_op_braam.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/80_septocyta_ruborum/medium/Septocyta_ruborum_at_blackberry2C_bruine_stengelvlekkenziekte_op_braam.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/80_septocyta_ruborum/small/Septocyta_ruborum_at_blackberry2C_bruine_stengelvlekkenziekte_op_braam.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/80_septocyta_ruborum/thumbnail/Septocyta_ruborum_at_blackberry2C_bruine_stengelvlekkenziekte_op_braam.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

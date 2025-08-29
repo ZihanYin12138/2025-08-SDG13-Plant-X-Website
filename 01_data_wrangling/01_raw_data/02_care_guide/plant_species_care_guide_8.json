@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 50,
+      "species_id": 8,
+      "common_name": "Blue Spanish Fir",
+      "scientific_name": [
+        "Abies pinsapo 'Glauca'"
+      ],
+      "section": [
+        {
+          "id": 1208,
+          "type": "watering",
+          "description": "Blue Spanish Fir should be watered once a week during the growing season (April - October in most locations). During this time, the plant should be watered deeply with about 1-2 inches of water each time. During the winter months (November - March), water whenever the soil feels dry to the touch. For maximum success, water your Blue Spanish Fir with filtered or rainwater whenever possible."
+        },
+        {
+          "id": 1209,
+          "type": "sunlight",
+          "description": "Blue Spanish Fir trees prefer full sun, although they can tolerate light shade. For optimal growth, your Blue Spanish Fir should receive about 5 to 6 hours of direct sunlight per day as a minimum. The best time to provide sunlight for your Blue Spanish Fir is during the morning and afternoon, so it can benefit from the sun's warmth and intense light. Avoid exposing your Blue Spanish Fir to direct sunlight during the peak of the day from 10am to 2pm, as this can cause sunburn or heat stress to the tree."
+        },
+        {
+          "id": 1210,
+          "type": "pruning",
+          "description": "Blue Spanish Fir plants should be pruned twice per year, once in early spring and once in mid-summer. Pruning in early spring should focus on removing diseased or damaged branches, as well as any crossing branches that may interfere with the plant's growth or shape. In mid-summer, pruning should focus on thinning out the canopy in order to promote new growth and encourage a full, symmetrical shape. When pruning, make sure to make cuts just above a healthy bud, angled away from the bud, and be sure to prune no more than a third of the total branch or foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

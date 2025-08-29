@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": 47,
+      "common_name": "Leaf spot diseases",
+      "scientific_name": "Ascochyta gerberae",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is leaf spot disease (Ascochyta gerberae)?",
+          "description": "Ascochyta gerberae is a fungal pathogen that causes leaf spot diseases in ornamental plants and gerbera daisies. It is widespread across many regions. The disease presents symptoms as small, irregularly shaped spots with grey to brown centers and yellow borders. These spots can rapidly expand, forming large brown lesions with concentric markings. The affected leaves may eventually wither and die."
+        },
+        {
+          "subtitle": "How does leaf spot disease ( Ascochyta gerbera) occur?",
+          "description": "Ascochyta gerberae reproduces through spores, which can be spread by wind, water, or infected plant material. The spores enter plants through openings or wounds. The fungus can survive in plant debris and soil, infecting new plants with its spores. Under certain conditions, sexual reproduction occurs, leading to the development of new strains with varying levels of virulence and resistance traits."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices ",
+          "description": "Proper cultural practices can help reduce the risk of Ascochyta gerberae infection. \nThis includes adequate plant spacing, good ventilation, and proper watering practices to avoid creating a warm and moist environment that favors fungal growth."
+        },
+        {
+          "subtitle": "Sanitation",
+          "description": "Remove and dispose of infected plant debris immediately to prevent the spread of spores. This can help reduce the number of spores in the soil, minimizing the risk of future infections."
+        },
+        {
+          "subtitle": "Resistant Cultivars ",
+          "description": "Choosing resistant cultivars can help reduce the risk of infection. Consult with local extension offices or plant suppliers to identify cultivars that are resistant to leaf spot disease."
+        },
+        {
+          "subtitle": "Biological Control",
+          "description": "Some studies have shown that the use of biocontrol agents, such as Trichoderma harzianum and Bacillus subtilis, can be effective in controlling Ascochyta gerberae. "
+        },
+        {
+          "subtitle": "Application of Fungicides",
+          "description": "There are several fungicides that can be used to control Ascochyta gerberae, including Azoxystrobin, Chlorothalonil, Myclobutanil, Pyraclostrobin, and Tebuconazole. \n\nIt is important to follow label instructions carefully when using any fungicide."
+        }
+      ],
+      "host": [
+        "barberton daisy",
+        "gerbera daisy",
+        "transvaal daisy"
+      ],
+      "images": []
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

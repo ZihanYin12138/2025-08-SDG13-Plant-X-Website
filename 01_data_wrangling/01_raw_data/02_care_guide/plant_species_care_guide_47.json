@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 89,
+      "species_id": 47,
+      "common_name": "Butterfly Variegated Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Butterfly'"
+      ],
+      "section": [
+        {
+          "id": 1055,
+          "type": "watering",
+          "description": "Butterfly Variegated Japanese Maples should be watered regularly and deeply once a week during the warmer months of the year. During cooler weather, these plants need to be watered only when the soil begins to dry, typically every 2-3 weeks. It is important to note that these plants do not like very wet soils, so it is important to water them deeply but not too much. If the soil becomes soggy, then reduce the amount of water given and the frequency of watering slightly."
+        },
+        {
+          "id": 1056,
+          "type": "sunlight",
+          "description": "Butterfly Variegated Japanese Maple (Acer palmatum 'Butterfly') should have 4 to 6 hours of direct sunlight each day and can tolerate some shade during the mid to late afternoon hours. This species fares best when the sun is strongest and most direct in the morning and early afternoon. The leaves of the Japanese Maple are vulnerable to burning and may burn easily if exposed to too much strong direct sunlight."
+        },
+        {
+          "id": 1057,
+          "type": "pruning",
+          "description": "Pruning a Butterfly Variegated Japanese Maple should be done in the beginning of spring before the plant begins to leaf out. The pruning should be light, with only the removal of any dead, diseased, or crossing branches, and the judicious reduction of some of the side branches to control height and spread. Its spread should not be reduced by more than a third each year and a more gradual reduction would be preferable, with continual light pruning every few years. A Japanese Maple pruned in this manner will gain an attractive, balanced form and allow it to reach its full potential."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1763,
+      "species_id": 251,
+      "common_name": "Chinese Dogwood",
+      "scientific_name": [
+        "Cornus kousa"
+      ],
+      "section": [
+        {
+          "id": 5494,
+          "type": "watering",
+          "description": "Chinese Dogwood (Cornus kousa) should be watered deeply and infrequently. As a general rule of thumb, it should be watered once every 5-10 days, depending on the temperature, humidity level, and rainfall in your area. When watering your Chinese Dogwood, be sure to saturate the soil and let the water soak in well. Avoid wetting the leaves and branches to prevent the risk of root rot and disease. If the top 1 inch of soil is dry to the touch, it's time to water again."
+        },
+        {
+          "id": 5495,
+          "type": "sunlight",
+          "description": "Chinese Dogwood (Cornus kousa) needs full sun for best growth, bloom and fruiting. The trees should receive at least 4-6 hours of direct sunlight daily during the growing season. Partial shade is ideal for locations with hot summers."
+        },
+        {
+          "id": 5496,
+          "type": "pruning",
+          "description": "Chinese Dogwood (Cornus kousa) should be lightly pruned in late winter, just before new growth begins. Pruning should be done only when necessary to remove dead and damaged branches and to shape the tree. All heading cuts should be made close to the stalk to avoid stubs. To avoid over-pruning, remove no more than 1-third of the flowering stems. Pruning should also be done to help enhance the natural form of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

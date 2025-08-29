@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 71,
+      "common_name": "Camellia petal and flower blight",
+      "scientific_name": "Ciborinia camelliae",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": " What is Camellia petal (Ciborinia camelliae)?",
+          "description": "Camellia petal and flower blight, caused by the Ciborinia camelliae fungus that attacks only opened flower parts of camellia plants. It is prevalent in temperate and subtropical regions like East Asia, North America, and Europe. Symptoms include brown or black spots on petals, discoloration, petal rot, and early flower blight."
+        },
+        {
+          "subtitle": "How does Camellia petal (Ciborinia camelliae) occur?",
+          "description": "The life cycle of camellia petal blight begins with dormant sclerotia in the soil or mulch under camellia bushes. When conditions are right, the sclerotia germinate, forming apothecia that release infective ascospores. These spores enter camellia flowers, causing browning and lesions. If the infection is successful, new sclerotia form at the flower base and fall to the ground, remaining dormant until the next year. Sclerotia can last up to 5 years, so removing and destroying them is crucial to breaking the camellia petal blight cycle."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Control",
+          "description": "•\tPlant autumn flowering or early flowering varieties to avoid Ciborinia camelliae introduction. Importing bare-root camellias helps prevent soil-borne inoculum transmission.\n•\tRemove infected flowers to reduce inoculum. Removing weeds and ground covers aids in finding and disposing of diseased flowers.\n•\tRake the top mulch layer and replace it with new mulch to hinder spore release. Prune lower branches for better airflow and easier flower removal.\n•\tDestroy collected diseased flowers and avoid composting, as sclerotia can survive the process.\n"
+        },
+        {
+          "subtitle": "Biological Control",
+          "description": "Various organisms like Trichoderma spp., Coniothyrium minitans, Clonostachys rosea, Schizophyllum commune Sc3, Phanerochaete cordylines HR469, and Pycnoporus coccineus HR582 have shown efficacy in reducing sclerotia in lab tests but were not effective in field conditions for now."
+        },
+        {
+          "subtitle": "Chemical Controls",
+          "description": "Chemical control options for managing Ciborinia camelliae include the following fungicides.\n\n•\tBonide Captan 50 WP: Apply at a rate of 1 tablespoon per gallon of water.\n•\tCaptan 80 WDG: Apply at a rate of 0.625 pounds per 100 gallons of water.\n•\tTerraclor 400: Apply at a rate of 6 to 12 fluid ounces per 100 gallons of water, based on pot diameter and soil depth.\n•\tZiram 76 DF: Apply as a soil drench at a rate of 1.5 to 2 pounds per 100 gallons of water.\n\nIt is important to follow the instructions on the fungicide label regarding application timing and frequency. Reentry intervals (the time to wait before entering treated areas) may vary and should be observed as well.\n"
+        }
+      ],
+      "host": [
+        "camellia"
+      ],
+      "images": [
+        {
+          "license": 451,
+          "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/71_ciborinia_camelliae/og/flower-flower-of-camellia-flower-wilt-camelia.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/71_ciborinia_camelliae/regular/flower-flower-of-camellia-flower-wilt-camelia.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/71_ciborinia_camelliae/medium/flower-flower-of-camellia-flower-wilt-camelia.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/71_ciborinia_camelliae/small/flower-flower-of-camellia-flower-wilt-camelia.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/71_ciborinia_camelliae/thumbnail/flower-flower-of-camellia-flower-wilt-camelia.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

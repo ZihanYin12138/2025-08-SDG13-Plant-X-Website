@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 588,
+      "species_id": 183,
+      "common_name": "Strawberry Tree",
+      "scientific_name": [
+        "Arbutus unedo"
+      ],
+      "section": [
+        {
+          "id": 1765,
+          "type": "watering",
+          "description": "The Strawberry Tree prefers well-drained, acidic soil and likes to be watered deeply but not too frequently. During the spring and summer months, the strawberry tree should be watered every 7-10 days. In the autumn and winter, reduce watering frequency and only water every 3-4 weeks or when the soil is dry down to a depth of 2-3 inches below the surface. Make sure not to over-water, as this can lead to root rot. Use your finger to check the soil moisture before deciding to water your plant."
+        },
+        {
+          "id": 1766,
+          "type": "sunlight",
+          "description": "A Strawberry Tree (Arbutus unedo) requires full sun to partial shade. It performs best in areas where it receives at least 6 hours of direct sunlight each day. It can also tolerate light shade, but its growth may be slowed. During the summer months, it is beneficial to provide some afternoon shade, especially in hot climates, to prevent the leaves from scorching."
+        },
+        {
+          "id": 1767,
+          "type": "pruning",
+          "description": "Strawberry Tree (Arbutus unedo) should generally be pruned once yearly in the early spring months. This will help to maintain its desired form and size. Young trees can be pruned heavily to promote a better shape, but older trees should only be lightly pruned. All dead, diseased, and broken branches should be removed promptly to maintain the health of the plant. Pruning should include selectively removing no more than 1/3 of the tree's total growth in any given season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

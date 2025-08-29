@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 46,
+      "species_id": 4,
+      "common_name": "Candicans White Fir",
+      "scientific_name": [
+        "Abies concolor 'Candicans'"
+      ],
+      "section": [
+        {
+          "id": 1319,
+          "type": "watering",
+          "description": "Candicans White Fir plants should be watered deeply every 7-14 days during the summer and spring months. In the fall, they should be watered every 14-21 days. During the winter and dry periods, they should be watered monthly. Allow the soil to become dry between waterings and be sure to water around the edges of the pot and not just directly in the center. Soil should never be kept saturated."
+        },
+        {
+          "id": 1320,
+          "type": "sunlight",
+          "description": "Candicans White Fir requires 6-8 hours of direct, bright sunlight each day for healthy growth. For best results, provide the longest amounts of time possible for direct sunlight exposure, but be sure to gradually increase exposure time so the tree does not become scorched. For example, begin with 4 hours of direct sunlight and increase by 1-2 hours per week thereafter until reaching the ideal 6-8 hours of sunlight each day."
+        },
+        {
+          "id": 1321,
+          "type": "pruning",
+          "description": "Candicans White Fir (Abies concolor 'Candicans') should be pruned twice a year, once in the late winter and again in early summer. Pruning in late winter should be done to thin out the crown, removing up to 25% of the branches and lateral sprouts. Gently remove any crossing branches, diseased or dead branches, and any branches that grow in toward the center of the tree. Pruning in early summer should be done to shape the tree, such as cutting back some of the top branches to create a more rounded crown."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

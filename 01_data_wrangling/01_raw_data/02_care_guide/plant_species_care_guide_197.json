@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1714,
+      "species_id": 197,
+      "common_name": "Weeping European Hornbeam",
+      "scientific_name": [
+        "Carpinus betulus 'Pendula'"
+      ],
+      "section": [
+        {
+          "id": 5347,
+          "type": "watering",
+          "description": "Water Weeping European Hornbeam (Carpinus betulus 'Pendula') once a week during the hotter months of the growing season (from late spring through early autumn). In the winter, reduce to once every 2 weeks. The amount of water depends on the soil. Water until the top inch of the soil is moist but not soggy. Too much water can harm the roots, so always check the soil doneness before watering."
+        },
+        {
+          "id": 5348,
+          "type": "sunlight",
+          "description": "Weeping European Hornbeam (Carpinus betulus 'Pendula') requires full sun to part shade exposure to produce the best growth and health. During the summer months, when the sun is at its strongest, it is best for the tree to receive full sun (at least 6-8 hours a day) in order to ensure healthy growth and foliage. In late fall and winter, it is acceptable to reduce the amount of sunlight to part shade, as long as the plant is still getting at least 4-5 hours of direct sunlight a day. This species also tolerates partial shade throughout the growing season quite well."
+        },
+        {
+          "id": 5349,
+          "type": "pruning",
+          "description": "Weeping European Hornbeams should be pruned in late winter or early spring, when the plant is in a dormant state. Pruning should be done carefully and selectively as hornbeam trees can be susceptible to damage if over-pruned or pruned incorrectly. Trimming should focus on removing dead, diseased or broken branches and thinning out overgrown areas. If you would like to keep the canopy of the tree at a certain shape or size, this can also be done using selective pruning. When cutting branches, remember to make clean cuts at a 45 degree angle and 1-2 inches away from a bud or branch junction. Pruning too much may result in the tree becoming misshapen and unbalanced, so it is best to take a conservative approach and prune only what is necessary."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

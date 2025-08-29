@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1581,
+      "species_id": 38,
+      "common_name": "Azuma Murasaki Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Azuma Murasaki'"
+      ],
+      "section": [
+        {
+          "id": 4927,
+          "type": "watering",
+          "description": "Azuma Murasaki Japanese Maple is a low-maintenance and drought-tolerant maple variety that generally only needs to be watered deeply once per week. During periods of hotter weather, or when the soil has become particularly dry, you may need to water a bit more often. When watering the plant, it's important to ensure that the soil is soaked to a depth of 8 to 10 inches. During hot weather, it may be necessary to water your Azuma Murasaki Japanese Maple 2 to 3 times a week. "
+        },
+        {
+          "id": 4928,
+          "type": "sunlight",
+          "description": "Azuma Murasaki Japanese Maple requires 6-8 hours of direct sunlight per day for optimal growth. Early spring and late fall when the sunlight is less intense are the best times for this plant to receive sunlight. During the hot summer months, this plant should be placed in a shaded location in the garden to avoid sunburn and sunscald. The leaves may need to be protected against the afternoon sun."
+        },
+        {
+          "id": 4929,
+          "type": "pruning",
+          "description": "Azuma Murasaki Japanese Maple is best pruned in late winter or early spring, just before the leaves emerge. This allows for maximum growth potential and helps promote healthy development for the entire plant. Pruning should be done sparingly, focusing mainly on removing dead or damaged branches, crossing branches, and any crossing roots that can be exposed at the soil line. During the growing season, light shaping can be done to remove any new unwanted shoots or branches. Only remove about 1-third of the growth, as removing too much can be damaging to the overall health of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

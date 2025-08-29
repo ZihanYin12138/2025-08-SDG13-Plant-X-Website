@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1597,
+      "species_id": 59,
+      "common_name": "Hessei Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Hessei'"
+      ],
+      "section": [
+        {
+          "id": 4990,
+          "type": "watering",
+          "description": "The Hessei Japanese Maple should be watered carefully and thoroughly once a week. Water should be added until it starts running out of the pot's drainage holes. Make sure to water slowly so the water can filter down to the root system. Allow the soil to dry out between waterings. Avoid over watering, as this can cause the roots to rot. During the summer months, the Japanese Maple may require more frequent watering depending on weather and soil moisture. Also during the summer months the plant should be misted every few days to increase the humidity around it."
+        },
+        {
+          "id": 4991,
+          "type": "sunlight",
+          "description": "Hessei Japanese Maple (Acer palmatum 'Hessei') prefers partial sun. It thrives in an area that gets 2-6 hours of direct sunlight each day. Ideally, the sun exposure should be in the morning and early afternoon, as late afternoon and evening sun can cause sunscald and damage to the delicate leaf tissue. This species is also fairly shade tolerant and can thrive when planted in an area that receives no direct sunlight or dappled light throughout the day."
+        },
+        {
+          "id": 4992,
+          "type": "pruning",
+          "description": "Hessei Japanese Maples should be pruned in the spring when new growth has just started to appear. Pruning should be done moderately with the main purpose of maintaining the desired shape of the tree. Light thinning and removing dead, diseased and crossing branches can also be done. If you want to reduce the overall size of a Japanese Maple, more drastic pruning should be avoided to prevent damaging the tree. If you must do that, it is best to do it gradually over a few seasons."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1582,
+      "species_id": 40,
+      "common_name": "Beni Otake Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Beni Otake'"
+      ],
+      "section": [
+        {
+          "id": 4933,
+          "type": "watering",
+          "description": "Beni Otake Japanese Maple should be watered weekly on most seasons and every 2 weeks during dry spells or during hot weather. The amount of water should be enough to thoroughly soak the roots. Additionally, during the winter seasonl, the plant should be watered deeply every 2-3 weeks. In order to prevent root rot, it is important not to over-water."
+        },
+        {
+          "id": 4934,
+          "type": "sunlight",
+          "description": "Beni Otake Japanese Maple (Acer palmatum 'Beni Otake') needs full sun (4-6 hours of direct sunlight per day) in the morning or late afternoon, when the sun is lower in the sky and has less intensity. Partial shade should also be provided during the hottest part of the day to reduce heat stress."
+        },
+        {
+          "id": 4935,
+          "type": "pruning",
+          "description": "Beni Otake Japanese Maple (Acer palmatum 'Beni Otake') should be pruned during late winter or early spring. Pruning should be kept to a minimum as this tree does not respond well to pruning that results in major changes in shape and size. Light trimming of dead or diseased branches is recommended. To maintain its compact shape, Beni Otake may be trimmed lightly to remove any branches that detract from the overall shape of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

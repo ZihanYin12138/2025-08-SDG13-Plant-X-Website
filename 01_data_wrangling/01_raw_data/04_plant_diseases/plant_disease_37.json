@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": 37,
+      "common_name": "Rust",
+      "scientific_name": "Puccinia asparagi",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": " What is Rust (Puccinia asparagi)?",
+          "description": "Asparagus rust, caused by the fungus Puccinia asparagi, is a global fungal disease that affects asparagus plants. It appears as orange-yellow to brownish rust pustules on the stems and foliage, resulting in defoliation, stunted growth, and decreased spear production. Although primarily impacting cultivated asparagus species, it can also affect wild or ornamental varieties. "
+        },
+        {
+          "subtitle": "How does Rust (Puccinia asparagi) occur?",
+          "description": "Asparagus rust (Puccinia asparagi) spreads when spores from infected plants or debris are carried to healthy asparagus plants. In favorable conditions of high humidity, moderate temperatures, and rainfall, the spores germinate and infect the plants. They develop into orange-yellow to brownish rust pustules, causing the characteristic symptoms of asparagus rust. The disease spreads further through spore production and dispersal, continuing the cycle and affecting more plants."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Resistant varieties",
+          "description": " Consider planting varieties that have demonstrated resistance to Puccinia asparagi. These varieties can be less susceptible to the disease and may require fewer interventions for control."
+        },
+        {
+          "subtitle": "Crop Rotation",
+          "description": "Rotate crops with non-host plants, such as grains or legumes, to break the disease cycle and reduce the buildup of rust spores in the soil."
+        },
+        {
+          "subtitle": "Proper spacing and Sanitation",
+          "description": "Ensure adequate spacing between plants to promote good air circulation and reduce humidity levels. Remove and destroy any infected plant debris, including infected ferns or spears, to minimize the potential sources of spores for future infections."
+        },
+        {
+          "subtitle": "Water Management",
+          "description": " Avoid overhead irrigation whenever possible, as it can promote leaf wetness and create favorable conditions for rust development. Instead, use drip irrigation or water at the base of the plants."
+        },
+        {
+          "subtitle": "Fungicide Application",
+          "description": "Various fungicides, including triazoles (tebuconazole, propiconazole), strobilurins (azoxystrobin, pyraclostrobin), copper-based fungicides, and mancozeb, are available for controlling Puccinia asparagi. \n\nCheck local regulations and consult with agricultural experts for suitable options in your area.\n\n Follow the instructions and restrictions provided on the product labels."
+        },
+        {
+          "subtitle": "Organic methods",
+          "description": "In organically certified crops, cultural control practices and sulfur dust treatments are acceptable for managing asparagus rust."
+        }
+      ],
+      "host": [
+        "asparagus"
+      ],
+      "images": [
+        {
+          "license": 5,
+          "license_name": "Attribution-ShareAlike License",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "original_url": "https://perenual.com/storage/species_disease/37_puccinia_asparagi/og/9685492848_33a85eb8a3_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/37_puccinia_asparagi/regular/9685492848_33a85eb8a3_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/37_puccinia_asparagi/medium/9685492848_33a85eb8a3_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/37_puccinia_asparagi/small/9685492848_33a85eb8a3_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/37_puccinia_asparagi/thumbnail/9685492848_33a85eb8a3_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

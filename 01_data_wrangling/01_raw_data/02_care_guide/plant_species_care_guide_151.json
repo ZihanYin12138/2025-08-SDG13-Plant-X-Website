@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1679,
+      "species_id": 151,
+      "common_name": "Nizetii Sycamore Maple",
+      "scientific_name": [
+        "Acer pseudoplatanus 'Nizetii'"
+      ],
+      "section": [
+        {
+          "id": 5242,
+          "type": "watering",
+          "description": "Nizetii Sycamore Maple (Acer pseudoplatanus 'Nizetii') generally requires weekly watering. Water deeply until the soil is moist but not soggy, as an excess of water can be damaging to the roots. In particularly hot and dry weather, the tree may need watering more than once per week. To prevent waterlogging, allow the top few inches of soil to dry slightly between waterings. Water in the mornings so that the leaves have time to dry off before nightfall. This helps to prevent diseases."
+        },
+        {
+          "id": 5243,
+          "type": "sunlight",
+          "description": "Nizetii Sycamore Maple (Acer pseudoplatanus 'Nizetii') is a plant species that requires a minimum of 6 to 8 hours of sunlight each day in order to thrive. In addition, Nizetii Sycamore Maple prefers to receive full sun, meaning direct exposure to the sun at least 6 hours during the day. The plant also tolerates partial shade to some degree, but will not reach its optimal growth in shadier locations. In general, the sunnier the spot, the better for Nizetii Sycamore Maple."
+        },
+        {
+          "id": 5244,
+          "type": "pruning",
+          "description": "When it comes to pruning an Acer pseudoplatanus 'Nizetii' (Nizetii Sycamore Maple), it is recommended to prune it in late winter or early spring. The recommended amount of pruning is light pruning which would generally involve removal of dead, diseased, or damaged wood. If larger pruning is needed, it should occur over a few years, with no more than 10-20% of the tree removed in any 1 winter or spring. Pruning cuts should be made at a slight angle just above a bud or branch, and should be made at a 45 degree angle to ensure proper healing of the cut site. Avoid topping or shearing the tree as this will result in an unbalanced crown and may lead to deformities."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

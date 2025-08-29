@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 137,
+      "species_id": 196,
+      "common_name": "Frans Fontaine Hornbeam",
+      "scientific_name": [
+        "Carpinus betulus 'Frans Fontaine'"
+      ],
+      "section": [
+        {
+          "id": 19491,
+          "type": "watering",
+          "description": "The Frans Fontaine Hornbeam (Carpinus betulus 'Frans Fontaine') should be watered regularly, as its root system is quite shallow. During the summer months, this plant should be watered about once a week, but during periods of extreme heat such as drought, you may need to water it more frequently. When watering, be sure to thoroughly soak the soil until water runs out of the bottom of the pot. After watering, allow the soil to dry out slightly between each watering. In the winter months, the frequency of watering this plant should be reduced. Only water when the soil is dry to the touch."
+        },
+        {
+          "id": 19492,
+          "type": "sunlight",
+          "description": "Frans Fontaine Hornbeam (Carpinus betulus 'Frans Fontaine') is a type of tree that prefers to grow under full sun, meaning it should receive at least 6 hours of direct sunlight each day. This tree should not be placed in deep shade, as it needs access to plenty of light for it to flourish. "
+        },
+        {
+          "id": 19493,
+          "type": "pruning",
+          "description": "Frans Fontaine Hornbeam (Carpinus betulus 'Frans Fontaine') should be pruned in early to mid spring when it is still dormant. This species will benefit from being thinned out once a year to encourage an open branched, vase-like shape. Additionally it is important to identify and remove any dead, damaged, or diseased branches, as well as remove any crossed or rubbing branches that can easily lead to wounds and possibly disease. Finally, selective pruning can be used to trim certain branches to increase density and shape the canopy. It is important not to over-prune this species as it will cause vigorous growth that may need to be pruned more the next season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

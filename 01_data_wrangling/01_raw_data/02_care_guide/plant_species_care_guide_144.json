@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 91,
+      "species_id": 144,
+      "common_name": "Moosewood",
+      "scientific_name": [
+        "Acer pensylvanicum"
+      ],
+      "section": [
+        {
+          "id": 1061,
+          "type": "watering",
+          "description": "Moosewood plants prefer to have regular, moderate amounts of water. Water the plant every 5-7 days with about 10-15 gallons of water per plant. Depending on the soil moisture level, you may not need to water as much. Make sure to keep an eye on the soil moisture and adjust the watering schedule accordingly."
+        },
+        {
+          "id": 1062,
+          "type": "sunlight",
+          "description": "Moosewood is a deciduous species that prefers full sun exposure. Its ideal range of sunlight is 6-8 hours of direct sunlight per day when it is actively in growth. Moosewood responds best to full sunlight in early summer when it is beginning to come out of dormancy, and then less in the afternoon shade during the hotter parts of the season. Late summer and early fall should be spent in partial or filtered sun, so as to avoid any sunburn."
+        },
+        {
+          "id": 1063,
+          "type": "pruning",
+          "description": "Moosewood (Acer pensylvanicum) is a species of maple tree native to the eastern United States. Pruning should be done sparingly; it should not be done more than once per year and only when necessary. If the tree is healthy and growing, it may not need to be pruned at all. When pruning, it is important to remove only dead or damaged branches, as well as those that cross over or rub against each other. As a rule of thumb, do not remove more than 1/3 of the tree's total foliage during any annual pruning. Pruning should take place in late winter or early spring, before the tree begins to grow new leaves."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1729,
+      "species_id": 214,
+      "common_name": "Eastern Redbud (tree form)",
+      "scientific_name": [
+        "Cercis canadensis '(tree form)'"
+      ],
+      "section": [
+        {
+          "id": 5392,
+          "type": "watering",
+          "description": "Eastern Redbud (Cercis canadensis tree form) should be watered deeply and infrequently. For best results, water the tree every 10 days to 2 weeks in the spring and summer. If there is no rainfall, increase the watering frequency. Make sure the soil is moist but never soggy; if the soil is constantly wet, the tree’s roots may become waterlogged and rot. In the fall and winter, reduce watering to once every other week or so as the tree goes dormant."
+        },
+        {
+          "id": 5393,
+          "type": "sunlight",
+          "description": "Eastern Redbud (tree form) requires full sun to partial shade to thrive. It should have at least 4 to 6 hours of direct sunlight every day. During the hottest part of the day, it should have light shade to reduce the risk of sunburn. "
+        },
+        {
+          "id": 5394,
+          "type": "pruning",
+          "description": "Prune Eastern Redbud trees in early spring before the leaves emerge. Pruning should be minimal and only done to remove dead, diseased, or overcrowded branches. It is important only to make small pruning cuts that angle away from the plant’s center to prevent the spread of disease. Pruning should be done every few years, depending on the size and condition of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

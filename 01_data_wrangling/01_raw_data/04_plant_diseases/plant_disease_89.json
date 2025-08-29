@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "id": 89,
+      "common_name": "Beet leafhopper transmitted virescence agent (BLTVA)",
+      "scientific_name": "Beet leafhopper transmitted virescence agent (BLTVA)",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is a Beet leafhopper transmitted virescence agent (BLTVA)?",
+          "description": "Beet leafhopper transmitted virescence agent (BLTVA) is a phytoplasma transmitted by the beet leafhopper, Circulifer tenellus. It primarily affects potatoes and other vegetable and field crops. Symptoms include reddish-purple leaves, premature bolting, malformed flower parts, the formation of multiple compound leafy umbels, and the presence of woody roots with numerous lateral rootlets."
+        },
+        {
+          "subtitle": "How does the Beet leafhopper transmitted virescence agent (BLTVA) occur?",
+          "description": "Potato purple top disease occurs when the beet leafhopper (BLH) transmits the phytoplasma known as (BLTVA) to plants. The phytoplasma multiplies within the plant's vascular system, disrupting nutrient flow. BLTVA infection reduces yield and tuber quality."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Control  and Preventions",
+          "description": "1. Choose resistant varieties of potatoes, tomatoes, peppers, and eggplants to reduce the risk of BLTVA infection.\n\n2.\tRotate susceptible crops with non-host crops every 3-4 years to disrupt the life cycle of beet leafhoppers and reduce their population.\n\n3.\t Apply insecticidal soaps or oils according to label instructions to control beet leafhoppers.\n\n4.\tPromptly remove and dispose of infected plant debris to prevent the spread of BLTVA. Do not compost infected material.\n\n5.\tRegularly inspect plants for signs of infection, such as yellowing leaves, wilting, and stunted growth, to detect and manage BLTVA early.\n"
+        }
+      ],
+      "host": [
+        "carrot"
+      ],
+      "images": []
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

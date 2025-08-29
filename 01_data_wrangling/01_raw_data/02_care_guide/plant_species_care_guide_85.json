@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1619,
+      "species_id": 85,
+      "common_name": "Okushimo Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Okushimo'"
+      ],
+      "section": [
+        {
+          "id": 5062,
+          "type": "watering",
+          "description": "Okushimo Japanese Maple should be watered every 5-7 days. When watering, soak the soil so it is evenly moist but not saturated. To avoid root rot, allow the soil to dry slightly between waterings. Do not allow the soil to become completely dry as this could damage the plant and cause wilting. During hot summer days, the plant may need to be watered more frequently. During periods of extreme heat, the watering may need to be increased to every 2-3 days."
+        },
+        {
+          "id": 5063,
+          "type": "sunlight",
+          "description": "Okushimo Japanese Maple prefers a spot with bright, filtered light. The plant can handle full sun in the morning and late afternoon but should be avoided in mid-day when the sun’s rays are the strongest. For best results, find a spot that gets 4 to 6 hours of direct sunlight a day."
+        },
+        {
+          "id": 5064,
+          "type": "pruning",
+          "description": "Okushimo Japanese Maple should be pruned when the plant is actively growing (late Spring). Pruning should be kept to a minimum as Japanese Maples do not respond well to frequent or aggressive pruning. The best time of year to prune is right after the tree has finished blooming. Remove any dead, diseased, or crossing branches. Make sure to make your pruning cuts at a slight angle just above the bud. When pruning any branches that are thinning or thinning out in the crown, it is important to prune them back to a healthy branch and not all the way down to the trunk. Thinning out smaller branches will prevent a thick or balding crown."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

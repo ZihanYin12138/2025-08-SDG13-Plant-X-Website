@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1781,
+      "species_id": 271,
+      "common_name": "Naylor's Blue Leyland Cypress",
+      "scientific_name": [
+        "Cupressocyparis x leylandii 'Naylor's Blue'"
+      ],
+      "section": [
+        {
+          "id": 5548,
+          "type": "watering",
+          "description": "When watering Naylor's Blue Leyland Cypress, it's important to provide the right amount of water at the right time. Generally, water your plant once a week during the growing season (spring through fall) with about 1 inch of water. When watering, apply the water slowly, allowing it to sink deeply into the soil and thoroughly wet the root zone. If the soil does not absorb the water quickly, consider using a layer of mulch to help retain moisture. During dry or hot periods, it may be necessary to water your Naylor's Blue Leyland Cypress more frequently. During cooler weather, reduce the amount and frequency of watering. It's best to water early in the morning so that the foliage can dry out before nightfall."
+        },
+        {
+          "id": 5549,
+          "type": "sunlight",
+          "description": "Naylor's Blue Leyland Cypress is a fast-growing evergreen shrub that is best grown in full sun. For ideal growth, it should receive approximately 6-8 hours of direct sunlight every day. In areas with very hot summers, some afternoon shade may help protect the plant from heat stress. While this species of plants can tolerate partial shade, they won't grow as vigorously and may become thin and leggy as a result."
+        },
+        {
+          "id": 5550,
+          "type": "pruning",
+          "description": "Naylor's Blue Leyland Cypress should be pruned at least once a year, with heavier pruning done every few years. Pruning should take place at the end of winter or in early spring before new growth occurs. Light pruning can be done to thin out the foliage of the tree and keep it from becoming too dense. Heavier pruning can be done to reduce the overall size of the tree or to shape it into a particular form. Whenever possible, try to retain the overall natural shape of the tree and avoid creating too many drastic angles or shapes. Remember to prune so that the branch angles are no less than 40 degrees and that you are creating an evenly balanced canopy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 72,
+      "species_id": 32,
+      "common_name": "Arakawa Cork Bark Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Arakawa'"
+      ],
+      "section": [
+        {
+          "id": 1280,
+          "type": "watering",
+          "description": "For optimal results, Arakawa Cork bark Japanese Maples should be watered consistently and evenly. During periods of active plant growth, water once or twice weekly to ensure the soil remains evenly moist. The soil should be allowed to almost dry out between waterings; however, during periods of extreme heat or lack of rain, additional waterings may be beneficial. "
+        },
+        {
+          "id": 1281,
+          "type": "sunlight",
+          "description": "Arakawa Cork Bark Japanese Maple (Acer palmatum 'Arakawa') prefers full sun in the morning and afternoon, but will also thrive in partial shade. This species should receive at least 6 hours of direct sunlight during the peak daylight hours of 10 am to 4 pm. This type of maple has been known to do well in both high and low light conditions. It is versatile and can adapt to varying levels of exposure. In low light areas, some summer afternoon shade may be beneficial. Too much direct sunlight can cause sunburn or, in some cases, leaf scorch."
+        },
+        {
+          "id": 1282,
+          "type": "pruning",
+          "description": "Arakawa Cork Bark Japanese Maples should be pruned in late spring after any significant threat of frost has passed. Prune lightly and carefully: removing only stems and branches that cross or rub against each other and those that are dead and diseased. Additionally, pruning should be done to encourage better structure and symmetrical growth. Be sure to leave a balanced and even framework when pruning. When shaping the tree, aim to remove no more than 1-third of the living growth. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1773,
+      "species_id": 262,
+      "common_name": "Cornelian Cherry Dogwood",
+      "scientific_name": [
+        "Cornus mas"
+      ],
+      "section": [
+        {
+          "id": 5524,
+          "type": "watering",
+          "description": "Cornelian Cherry Dogwood (Cornus mas) should be watered regularly during its active growing season (spring and summer). Water the soil deeply and slowly, allowing the water to reach the roots of the plant. Watering early in the day is best to give the leaves time to dry before nightfall. In autumn and winter, reduce watering as the plant is no longer actively growing. Although the soil should not dry out completely, it should not be kept too moist either. Check the soil moisture weekly and only water when necessary."
+        },
+        {
+          "id": 5525,
+          "type": "sunlight",
+          "description": "Cornelian Cherry Dogwood (Cornus mas) enjoys a full day of sun in an area devoid of shade. Ideally, it should be planted in locations that receive a minimum of 6 hours of direct sunlight each day. If the dogwood is planted in an area that receives less than 6 hours, it will stunt its growth and reduce its flowering. When grown in an area with less sunlight, it may not produce any blossoms, or at least will produce fewer. Furthermore, partial shade can cause the plant to become leggy and sparse."
+        },
+        {
+          "id": 5526,
+          "type": "pruning",
+          "description": "Cornelian Cherry Dogwood should be pruned in late winter before the new growth begins. Pruning should be kept to minimum to prevent cutting off new growth. To encourage full and dense growth, light pruning should be done in late winter, removing 1/3 of the oldest shoots. This will also promote flowering in the upcoming season. However, avoid pruning young growth as this may reduce flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1602,
+      "species_id": 65,
+      "common_name": "Inazuma Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Inazuma'"
+      ],
+      "section": [
+        {
+          "id": 5008,
+          "type": "watering",
+          "description": "Inazuma Japanese Maples should be watered deeply and regularly during the spring and summer. During the warm months of the growing season, make sure to water the tree deeply once a week, allowing the soil to dry out in between waterings. Throughout the winter months, Inazuma Japanese Maple requires less water and can be watered approximately twice a month. Always water the tree slowly and gradually as opposed to a shallow, quick watering session. Be sure not to overwater the tree, as this can lead to root rot and other diseases."
+        },
+        {
+          "id": 5009,
+          "type": "sunlight",
+          "description": "Inazuma Japanese Maple (Acer palmatum ‘Inazuma’) is a deciduous tree that thrives in full sun to partial shade. It needs at least 6 hours of direct sunlight per day during the spring to summer growing season, and will tolerate more direct sunlight in cooler months. During the hottest months of summer, mid-morning to mid-afternoon sun is best as this will help the tree prevent leaf scorch caused by extended direct exposure."
+        },
+        {
+          "id": 5010,
+          "type": "pruning",
+          "description": "Inazuma Japanese Maple (Acer palmatum 'Inazuma') should be pruned in late winter or early spring before new growth begins, typically in late February or early March. Prune in a way that opens up the tree to allow light in and increases airflow. Remove dead or dying branches and any branches growing toward the center of the tree or crossing other branches. Make your pruning cuts at an angle just above a side branch so the wound can heal quickly. Also remove any twiggy growth that is not large enough to provide interest for the tree. After the initial pruning, your Inazuma Japanese Maple should only be pruned sparingly as it is not a species that needs regular pruning. Regular pruning can weaken the tree, making it vulnerable to pests."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

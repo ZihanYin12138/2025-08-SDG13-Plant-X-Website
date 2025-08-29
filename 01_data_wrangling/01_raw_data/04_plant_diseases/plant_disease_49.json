@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": 49,
+      "common_name": "Curly top",
+      "scientific_name": "Beet curly top virus  (BCTV)",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Curly Top, Beet curly top virus (BCTV)?",
+          "description": "Curly top is a plant disease caused by the Beet curly top virus (BCTV), affecting various crops like beets, tomatoes, peppers, beans, and cucurbits. It is transmitted by the beet leafhopper and is prevalent in arid and semi-arid regions. This disease poses a significant challenge in agricultural areas, particularly in the western United States. Symptoms include stunted growth, yellowing and curling of leaves, and reduced yield."
+        },
+        {
+          "subtitle": "How does Curly Top, Beet curly top virus (BCTV) occur?",
+          "description": "The curly top virus (BCTV) is spread by the beet leafhopper (Circulifer tenellus). When the leafhopper feeds on an infected plant and then moves to a healthy plant, it transfers the virus. Infected seeds or plant material can also transmit the virus. Once inside the plant, the virus damages plant cells and disrupts protein production, leading to various symptoms."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": " Resistant Plant Varieties",
+          "description": "Some plant varieties are naturally resistant to the curly top viruses. Planting these varieties can significantly reduce the risk of infection."
+        },
+        {
+          "subtitle": "Cultural practices",
+          "description": "Proper irrigation, fertilization, and soil management can help reduce plant stress and improve plant health, reducing the risk of infection. Furthermore, infected plants should be removed and destroyed to prevent the virus from spreading to nearby plants."
+        },
+        {
+          "subtitle": " Proper Monitoring  and  virus-free seed ",
+          "description": "Regular monitoring of crops for signs of infection can help identify and contain the spread of the virus. And using virus-free seed and plant material can help prevent the introduction of the virus into new fields."
+        },
+        {
+          "subtitle": "Control leafhoppers",
+          "description": "Leafhoppers are the primary vector for the virus, so controlling their populations can help reduce the risk of infection. This can be done using insecticides or other methods such as removing nearby weeds or other plants that may host leafhoppers."
+        },
+        {
+          "subtitle": "Chemical Control ",
+          "description": "There are currently no effective antiviral treatments available for the curly top virus (BCTV) in plants. Once a plant is infected with the virus, there are no treatments that can cure the infection or eliminate the virus from the plant."
+        }
+      ],
+      "host": [
+        "beans",
+        "cantaloupe",
+        "pepper",
+        "potato",
+        "tomato"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/49_beet_curly_top_virus__bctv/og/Beet_curly_top_virus_geminiviridae_common_bean.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/49_beet_curly_top_virus__bctv/regular/Beet_curly_top_virus_geminiviridae_common_bean.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/49_beet_curly_top_virus__bctv/medium/Beet_curly_top_virus_geminiviridae_common_bean.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/49_beet_curly_top_virus__bctv/small/Beet_curly_top_virus_geminiviridae_common_bean.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/49_beet_curly_top_virus__bctv/thumbnail/Beet_curly_top_virus_geminiviridae_common_bean.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

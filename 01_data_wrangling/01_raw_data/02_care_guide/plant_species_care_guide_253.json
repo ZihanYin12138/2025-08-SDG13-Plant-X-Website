@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 591,
+      "species_id": 253,
+      "common_name": "China Girl Chinese Dogwood",
+      "scientific_name": [
+        "Cornus kousa 'China Girl'"
+      ],
+      "section": [
+        {
+          "id": 1774,
+          "type": "watering",
+          "description": "The China Girl Chinese Dogwood plant requires a moderate amount of water and should be watered whenever the soil feels dry to the touch. During the summer months, it should be watered more often, possibly every day. During the winter months, you should water it about once a week, but use discretion as the cooler winter temperatures usually reduce the plant’s need for water. If the soil feels very dry, then you can increase the watering frequency accordingly. When watering, do not saturate the soil; make sure to water thoroughly but not too much so as to prevent root rot."
+        },
+        {
+          "id": 1775,
+          "type": "sunlight",
+          "description": "The China Girl Chinese Dogwood is a plant species that should be given approximately 4 hours of direct sunlight every day. Most of its light should come from the morning—ideally around 6-10 am. As the day progresses into the afternoon, the sunlight should be reduced or filtered to prevent burning the plant. If planted outdoors, the tree can also benefit from dappled sunlight throughout the day, as long as it avoids the harshest heat. The tree should be placed in a location where it can be protected from strong winds."
+        },
+        {
+          "id": 1776,
+          "type": "pruning",
+          "description": "China Girl Dogwood should be pruned in late winter or early spring before new growth begins. Maintenance pruning should be done to keep the tree at about its mature size, while selective pruning can be done to control shape and improve flower and fruit production. Remove entire limbs at the base of the trunk, remove water sprouts and dead or diseased limbs. When shaping the tree head, selectively prune shoots that are too long or growing in an undesirable direction. Prune about 1/3 of the older branches annually and up to 1/3 of the total tree if necessary."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

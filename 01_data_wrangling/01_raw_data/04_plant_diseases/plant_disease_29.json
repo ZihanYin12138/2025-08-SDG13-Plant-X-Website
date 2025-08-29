@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": 29,
+      "common_name": "Powdery mildew",
+      "scientific_name": "Podosphaera tridactyla",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Powdery mildew (Podosphaera tridactyla)?",
+          "description": "Powdery mildew (Podosphaera tridactyla) is a fungal disease that affects various plants worldwide. Commonly affected plants include plums, peaches grapes, cucumbers, roses, and others. It manifests as white or gray powdery growth on leaves, stems, flowers, and fruits. Common symptoms include circular patches of white fungal growth on fruit in spring, which later become scabby and dry. It occurs worldwide and can be found in various regions and climates. "
+        },
+        {
+          "subtitle": "How does Powdery mildew (Podosphaera tridactyla) occur?  ",
+          "description": "Erysiphe cichoracearum survives winter as spore-forming structures called cleistothecia on shoots, leaves, and bark. In spring, spores are released and spread by wind, water, or insects. They infect susceptible plants like plum trees, forming a white, powdery coating. The fungus grows, reproduces, and spreads the infection to other plants. It can also overwinter on plant debris or dormant buds."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Prevention and Cultural Controls",
+          "description": "•\tChoose powdery mildew-resistant plant varieties.\n•\tEnsure proper spacing between plants for good airflow.\n•\tPosition plants in sunny areas to discourage powdery mildew development.\n•\tWater plants at the base to keep foliage dry, avoiding overhead watering.\n•\tRemove and dispose of infected plant parts promptly.\n•\tPrune dense foliage to improve airflow and reduce humidity.\n•\tPractice good garden hygiene by cleaning up plant debris and fallen leaves.\n•\tMonitor plants regularly for early signs of powdery mildew.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "•\tAvailable fungicides for powdery mildew control include propiconazole (Orbit, Bumper), thiophanate methyl (Topsin-M), pyraclostrobin/boscalid (Pristine), myclobutanil (Rally), sulfur dust, wettable sulfur, and liquid lime sulfur.\n\n•\tThese fungicides have different modes of action and application rates. It is important to follow label instructions, including any restrictions on specific crops.\n"
+        }
+      ],
+      "host": [
+        "apricot",
+        "plum",
+        "prune"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/29_p/og/15789581864_33756b29ea_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/29_p/regular/15789581864_33756b29ea_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/29_p/medium/15789581864_33756b29ea_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/29_p/small/15789581864_33756b29ea_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/29_p/thumbnail/15789581864_33756b29ea_b.jpg"
+        },
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/29_p/og/14635603630_96a69c17d0_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/29_p/regular/14635603630_96a69c17d0_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/29_p/medium/14635603630_96a69c17d0_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/29_p/small/14635603630_96a69c17d0_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/29_p/thumbnail/14635603630_96a69c17d0_b.jpg"
+        },
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/29_podosphaera_tridactyla/og/15789581864_33756b29ea_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/29_podosphaera_tridactyla/regular/15789581864_33756b29ea_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/29_podosphaera_tridactyla/medium/15789581864_33756b29ea_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/29_podosphaera_tridactyla/small/15789581864_33756b29ea_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/29_podosphaera_tridactyla/thumbnail/15789581864_33756b29ea_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 88,
+      "species_id": 43,
+      "common_name": "Bloodgood Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Bloodgood'"
+      ],
+      "section": [
+        {
+          "id": 1052,
+          "type": "watering",
+          "description": "For the Bloodgood Japanese Maple, it is important to water consistently, allowing the soil to only dry slightly before watering. In general, it should be watered once or twice a week in the summer months, about ½ to 1 inch of water each time, depending on the soil and the weather. In the winter months, it should be watered about every 10 days, about ½ inch of water each time. It is also important to mulch around the tree’s base to help keep moisture in the soil."
+        },
+        {
+          "id": 1053,
+          "type": "sunlight",
+          "description": "The Bloodgood Japanese Maple requires bright but indirect sunlight for optimal growth. When the maple is young, it should be provided with 4-6 hours of direct sunlight daily throughout the spring and summer. As the maple matures, it will become more tolerant of direct sunlight, and the amount of sunlight can be increased to 6-8 hours per day. However, it is important to keep the tree sheltered from the harsh afternoon sun, as this can cause leaf scorching and other symptoms of stress. Deep shade should also be avoided, as this will cause the maple to produce less vigorous growth."
+        },
+        {
+          "id": 1054,
+          "type": "pruning",
+          "description": "For Bloodgood Japanese Maple, pruning should be done in late winter or early spring, when the plant is still dormant. Pruning should be done carefully and selectively and should only remove dead, diseased or broken branches, or branches that are crossing or growing too close to the center of the plant. Generally, only up to 1/3 of the branches should be removed in any given year. Pruning for shape should also be done in winter or early spring, removing longer shoots to maintain the desired form."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1643,
+      "species_id": 111,
+      "common_name": "Ryusen Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Ryusen'"
+      ],
+      "section": [
+        {
+          "id": 5134,
+          "type": "watering",
+          "description": "Ryusen Japanese Maple (Acer palmatum 'Ryusen') should be watered deeply once a week for best growth, except during periods of extreme heat, when extra watering may be necessary. In the summer, Ryusen should be watered twice per week, and in the winter, watering can be reduced to once every 2 weeks. Ryusen is a highly drought-tolerant tree, so make sure to provide enough water during each session. To avoid overwatering, make sure the soil in the pot or bed is completely dry before you water again."
+        },
+        {
+          "id": 5135,
+          "type": "sunlight",
+          "description": "Ryusen Japanese Maple (Acer palmatum 'Ryusen') prefers full sun or part-shade, and should receive 6 to 8 hours of sunlight each day. This species of maple does best when it receives direct sun in the morning with some shade in the afternoon, so it should be placed in an area where it receives sun for the majority of the day but is protected from the intense afternoon sun. "
+        },
+        {
+          "id": 5136,
+          "type": "pruning",
+          "description": "Ryusen Japanese Maple should be pruned twice a year, once in the spring and then again in the fall. In the spring, pruning should occur during the trees' dormancy period in late winter. Pruning should be limited to removing dead or damaged wood and any competing branches or ones that are crossing and rubbing against each other. This helps the tree keep its desired shape. In the fall, prune away any suckers that grew during the summer and thin foliage as needed. Do not prune back more than 1-third of the canopy of Ryusen Japanese Maple at a time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

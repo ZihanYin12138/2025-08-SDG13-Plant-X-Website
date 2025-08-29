@@ -1,0 +1,107 @@
+{
+  "id": 92,
+  "common_name": "Oshio Beni Japanese Maple",
+  "scientific_name": [
+    "Acer palmatum 'Oshio Beni'"
+  ],
+  "other_name": [],
+  "family": null,
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Oshio Beni",
+  "variety": null,
+  "species_epithet": "palmatum",
+  "genus": "Acer",
+  "origin": [
+    "Japan"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 20,
+      "max_value": 20,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Root Division"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=92&size=og&key=sk-3ksU68b046f66e1f912089",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=92&size=og&key=sk-3ksU68b046f66e1f912089'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=92&key=sk-3ksU68b046f66e1f912089",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": false,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The Oshio Beni Japanese Maple is a stunning variety of maple tree with a unique color combination. It is a tall, upright tree with conspicuous, delicate red-purple leaves, highlighting white veins and a light yellow to green center. In fall, lit up by the setting sun, the foliage creates a stunning blend of deep red, scarlet and orange. Its elegant form makes it a great choice for entryways and focal points. It is also very low maintenance, and tolerant of a variety of conditions. With its striking colors, Oshio Beni Japanese Maple is a must-have for any garden!",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/92_acer_palmatum_oshio_beni/og/2560px-Acer_palmatum_27Oshio_beni27_-_JPG3.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/92_acer_palmatum_oshio_beni/regular/2560px-Acer_palmatum_27Oshio_beni27_-_JPG3.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/92_acer_palmatum_oshio_beni/medium/2560px-Acer_palmatum_27Oshio_beni27_-_JPG3.jpg",
+    "small_url": "https://perenual.com/storage/species_image/92_acer_palmatum_oshio_beni/small/2560px-Acer_palmatum_27Oshio_beni27_-_JPG3.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/92_acer_palmatum_oshio_beni/thumbnail/2560px-Acer_palmatum_27Oshio_beni27_-_JPG3.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

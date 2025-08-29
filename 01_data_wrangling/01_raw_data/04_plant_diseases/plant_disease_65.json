@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": 65,
+      "common_name": "Phytophthora root rot",
+      "scientific_name": "Phytophthora megasperma",
+      "other_name": [
+        "Phytophthora crown and root rot"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": " What is Crown and root rot (Phytophthora megasperma)?",
+          "description": "Crown and root rot is caused by Phytophthora megasperma, affecting trees like apple, cherry, citrus, peach, and shrubs such as azalea and rose. Thriving in wet soil, it mainly impacts 5-7-year-old trees. Symptoms include dark and sunken bark at the base, turning cinnamon brown, early leaf drop, delayed spring foliage, stunted fruit, and small leaves. The tree's bark damage encircles and kills it while the leaves persist. Other Phytophthora species like P. cactorum, P. cambivora, P. dreschsleri, and P. syringae also contribute to this disease, further threatening plant health and appearance."
+        },
+        {
+          "subtitle": "How does Crown and root rot (Phytophthora megasperma) occur? ",
+          "description": " The pathogen responsible for crown and root rot survives in the soil as mycelia (fungus threads) in infected plant tissue or as durable oospores (resistant spores). It releases sporangia (reproductive structures) that produce motile zoospores when there is water. These spores can infect the roots and crown tissues of trees. Infections can lead to cankers on the trunk near the soil line, and the pathogen can also spread through root-to-root contact in the orchard"
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Management",
+          "description": "•\tChoose well-drained sites and avoid pooling water around tree trunks.\n\n•\tPlant on raised beds and limit irrigation runs to 8 hours or less.\n\n•\tSelect resistant to stocks.\n\n•\tAvoid deep planting: keep graft unions above the soil line to minimize collar rot risk.\n\n•\tRefill soil depression: In late autumn, refill the soil depression around the trunk with fresh soil to protect the tree collar from winter injury.\n"
+        },
+        {
+          "subtitle": "Alternate Methods",
+          "description": "•\tBridge-grafting: Bridge-grafting can be done if less than 30-50% of the trunk circumference is affected. In this method, resistant variety whips are in-arch grafted into the trunk above the diseased area.\n\n•\tAvoid saturated soil: Avoid irrigation practices that keep the ground saturated for 36 hours or more, especially at temperatures of 60-70°F.\n\n\n\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "•\tChemical treatments: Consider soil drenches of metalaxyl (Ridomil Gold EC) or foliar sprays of phosetyl-Al (Aliette), which can help manage the disease.\n•\tFungicide application: Copper fungicide application: Spray the lower trunk with a fixed copper fungicide (50% metallic copper), using 2-3 tablespoons per gallon of water."
+        }
+      ],
+      "host": [
+        "broccoli",
+        "grape"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/65_phytophthora_megasperma/og/Rhododendron-Phytophthora_Root_Rot_28329.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/65_phytophthora_megasperma/regular/Rhododendron-Phytophthora_Root_Rot_28329.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/65_phytophthora_megasperma/medium/Rhododendron-Phytophthora_Root_Rot_28329.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/65_phytophthora_megasperma/small/Rhododendron-Phytophthora_Root_Rot_28329.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/65_phytophthora_megasperma/thumbnail/Rhododendron-Phytophthora_Root_Rot_28329.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

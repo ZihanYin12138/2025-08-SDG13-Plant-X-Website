@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1703,
+      "species_id": 180,
+      "common_name": "Monkey Puzzle Tree",
+      "scientific_name": [
+        "Araucaria araucana"
+      ],
+      "section": [
+        {
+          "id": 5314,
+          "type": "watering",
+          "description": "Monkey Puzzle Trees need to be watered about once or twice a week, and should always be kept moist. The root ball should not be allowed to dry out for extended periods of time, as this can cause the tree to become limp and weak. Watering should be done early in the morning to avoid stressing the roots and allowing the tree to take up water before the heat of the day sets in. During summer, it is best to water the tree twice, once in the morning and once in the evening when temperatures are lower."
+        },
+        {
+          "id": 5315,
+          "type": "sunlight",
+          "description": "Monkey Puzzle Trees need full sun to partial shade. They prefer at least 6-8 hours of direct sunlight each day. The sun should be more direct in the morning and should remain more indirect as the day progresses. Tree should be protected from strong winds and scorching temperatures. If the tree is kept in more than 8 hours of direct sunlight it can cause the needles to turn yellow and brown, or even drop off prematurely."
+        },
+        {
+          "id": 5316,
+          "type": "pruning",
+          "description": "Monkey Puzzle Tree should be pruned in the early spring (March or April) every year, as soon as the new growth begins. Prune out dead, broken, or crossed branches and branches that are too close together in order to improve the structure and health of the tree. Pruning should generally be done sparingly, as this is a slow-growing tree and can be damaged easily. As a general rule, prune out no more than 1/3 of the total branches in any given season. In addition, trim back the leading growth to encourage side branches, so that a good, full canopy is maintained."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

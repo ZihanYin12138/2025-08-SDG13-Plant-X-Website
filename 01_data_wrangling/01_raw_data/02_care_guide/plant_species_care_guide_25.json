@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 67,
+      "species_id": 25,
+      "common_name": "Flamingo Boxelder",
+      "scientific_name": [
+        "Acer negundo 'Flamingo'"
+      ],
+      "section": [
+        {
+          "id": 1265,
+          "type": "watering",
+          "description": "Flamingo Boxelder should be watered once a week, with around 1-2 inches of water per session. It is important to ensure that the soil is allowed to dry out in between waterings, as this plant does not tolerate wet or soggy soil. Soil should be kept moist, but not wet. To help with water absorption, apply a layer of mulch around the base of the plant."
+        },
+        {
+          "id": 1266,
+          "type": "sunlight",
+          "description": "Flamingo Boxelder, a fast-growing, deciduous tree, looks great when planted near a water body or next to other tall trees. It prefers full sun, which should be provided for 6 to 8 hours each day. For best performance and disease/insect resistance, it is important to plant this tree in an area that does not have too much shade. Though this species is very adaptable and can tolerate partial shade, it might not flower or fruit well and its growth may be stunted."
+        },
+        {
+          "id": 1267,
+          "type": "pruning",
+          "description": "Flamingo Boxelder trees should be pruned in the early spring before they break dormancy, ideally at a minimum of 2 or 3 years after planting. Prune the tree when young to achieve the desired shape and size. Lateral shoots should be trimmed back to 1-third their length; larger branches should be cut back to just outside the branch collar. Pruning should be kept to a minimum to avoid damaging the tree. Remove any diseased, crossing, or dead wood at any time. Excessive pruning may stunt the tree's growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

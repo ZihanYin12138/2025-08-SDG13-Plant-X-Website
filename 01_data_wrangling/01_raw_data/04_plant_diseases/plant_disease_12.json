@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "id": 12,
+      "common_name": "Crown gall",
+      "scientific_name": "Agrobacterium tumefaciens",
+      "other_name": [
+        "Bacterial gall"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": " What is crown gall (agrobacterium tumefaciens)?",
+          "description": "Crown gall is a plant disease caused by the soil-inhibiting bacterium Agrobacterium tumefaciens. It is distributed worldwide and affects a wide range of plants, including fruit trees (e.g., apple, pear), nut trees (e.g., almond, walnut), ornamental plants (e.g., roses, chrysanthemums), vines (e.g., grapevines), and field crops (e.g., cotton, tomatoes). The disease is identified by the presence of galls, and overgrowths, on roots and at the base of woody plants. These galls can also appear on stems and leaves. Crown gall can lead to stunted growth, reduced yield, and weakened plants."
+        },
+        {
+          "subtitle": "How does crown gall (Agrobacterium tumefaciens) occur? ",
+          "description": "Crown gall occurs when plants become infected with Agrobacterium tumefaciens. The bacterium enters the plant through wounds or natural openings and transfers its DNA, known as T-DNA, into the plant cells. \nThis DNA becomes integrated into the plant's genetic material, causing the cells to divide uncontrollably and resulting in the formation of galls. The infection can spread within the plant and to other plants through various means such as soil, water, or infected plant parts.\n"
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Prevention",
+          "description": "•\tChoose disease-resistant plants for cultivation.\n•\tPractice good hygiene by sterilizing pruning tools and equipment.\n•\tApply protective wound dressings on plant wounds.\n•\tMaintain proper soil drainage and fertility.\n•\tAvoid consecutive planting of susceptible crops.\n•\tRemove and destroy infected plants.\n•\tUtilize biological agents for disease suppression.\n"
+        },
+        {
+          "subtitle": "Chemical Control and Biocontrol",
+          "description": "•\tConsult with local agricultural extension services for chemical control options.\n\n•\tChemical control options for crown gall include Agrobacterium radiobacter strain K84, copper-based fungicides, and antibiotics like streptomycin or tetracycline.\n\n•\tBiocontrol products like Bacillus subtilis-based products, Trichoderma spp., and Pseudomonas fluorescens-based products can also be used. \n"
+        }
+      ],
+      "host": [
+        "almond",
+        "douglas fir",
+        "grape",
+        "rose",
+        "various flowers",
+        "various trees and shrubs",
+        "caneberry"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/12_a/og/36529624215_6e41122f0e_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/12_a/regular/36529624215_6e41122f0e_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/12_a/medium/36529624215_6e41122f0e_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/12_a/small/36529624215_6e41122f0e_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/12_a/thumbnail/36529624215_6e41122f0e_b.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/12_a/og/Agrobacterium_tumefaciens_Forsythie.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/12_a/regular/Agrobacterium_tumefaciens_Forsythie.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/12_a/medium/Agrobacterium_tumefaciens_Forsythie.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/12_a/small/Agrobacterium_tumefaciens_Forsythie.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/12_a/thumbnail/Agrobacterium_tumefaciens_Forsythie.jpg"
+        },
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/12_a/og/23748712425_e8bbabdb4a_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/12_a/regular/23748712425_e8bbabdb4a_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/12_a/medium/23748712425_e8bbabdb4a_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/12_a/small/23748712425_e8bbabdb4a_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/12_a/thumbnail/23748712425_e8bbabdb4a_b.jpg"
+        },
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/12_agrobacterium_tumefaciens/og/32589809932_e084021094_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/12_agrobacterium_tumefaciens/regular/32589809932_e084021094_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/12_agrobacterium_tumefaciens/medium/32589809932_e084021094_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/12_agrobacterium_tumefaciens/small/32589809932_e084021094_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/12_agrobacterium_tumefaciens/thumbnail/32589809932_e084021094_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

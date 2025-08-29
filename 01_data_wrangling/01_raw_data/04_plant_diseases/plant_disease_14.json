@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": 14,
+      "common_name": "Scab",
+      "scientific_name": "Cladosporium (syn. Fusicladium) carpophilum",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": " What is Peach scab (Cladosporium carpophilum)?",
+          "description": "Peach scab is a fungal disease caused by Cladosporium carpophilum, primarily affecting stone fruit trees including peaches, almonds, apricots, nectarines, and plums. It causes dark, scaly lesions on twigs, leaves, and fruits.\n As the disease progresses, these lesions can enlarge and merge, resulting in rough and corky areas on the fruit. Peach scab is commonly found in regions with temperate and subtropical climates."
+        },
+        {
+          "subtitle": "How Peach scab (Cladosporium carpophilum) occurs?",
+          "description": "Phytophthora reproduces asexually by producing spores and primarily spreads through their dispersal. The spores can be carried by wind, rain, or human activities like pruning or handling infected plants. When they land on susceptible plants, they germinate and cause infection. Sexual reproduction occurs through the formation of overwintering structures called chlamydospores. These chlamydospores can germinate in the next growing season, leading to new fungal growth and further infections."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Prevention",
+          "description": "•\tProper pruning improves air circulation and sunlight penetration, reducing humidity and creating unfavorable conditions for the fungus. Remove infected twigs and branches.\n\n•\tRemove and destroy infected plant debris, such as fallen leaves and fruit mummies, to minimize overwintering of the fungus.\n\n•\tMaintain adequate spacing between trees to allow for better air circulation, reducing humidity levels.\n"
+        },
+        {
+          "subtitle": "Cultural Practices",
+          "description": "•\tAvoid over-fertilization, as excessive nitrogen can promote disease development. Implement proper irrigation practices to minimize moisture on plant surfaces.\n\n•\tConsider planting peach varieties that are known to have some level of resistance to peach scab.\n\n•\tInspect trees regularly for early detection of peach scab symptoms, allowing for timely intervention.\n"
+        }
+      ],
+      "host": [
+        "almond",
+        "nectarine",
+        "peach"
+      ],
+      "images": []
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

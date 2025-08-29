@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 74,
+      "species_id": 35,
+      "common_name": "Purple-Leaf Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Atropurpureum'"
+      ],
+      "section": [
+        {
+          "id": 1286,
+          "type": "watering",
+          "description": "When it comes to watering, the Purple-Leaf Japanese Maple needs regular, deep waterings in order to stay healthy. During the growing season, water the tree deeply once a week, making sure the soil is evenly moist and not soggy. In the winter months, water only when the soil has partially dried out. Water the tree slowly, allowing the water to spread at least 4 feet away from the trunk. Avoid overhead watering, as it can lead to fungal diseases."
+        },
+        {
+          "id": 1287,
+          "type": "sunlight",
+          "description": "The Purple-Leaf Japanese Maple (Acer palmatum 'Atropurpureum') needs full or partial sunlight, depending on the environment in which it is grown. In an area with full sunlight, this plant should receive at least 4-6 hours of direct sunlight each day. In areas with partially shady conditions, the tree should still receive at least 2-4 hours of direct sun each day. It is important to remember to gradually introduce any new plant to the level of sunlight it needs in order to prevent sunburn or other sun damage."
+        },
+        {
+          "id": 1288,
+          "type": "pruning",
+          "description": "Purple-Leaf Japanese Maple should be pruned in the late winter or very early spring, before the sap starts to flow. Prune only to remove diseased, damaged, or dead wood, and keep the shape of the tree in mind when pruning. Avoid heavy pruning, as this can weaken the plant. Light pruning to remove weak, crossing, or crowded branches is recommended. Pruning also encourages new growth and produces denser foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1698,
+      "species_id": 174,
+      "common_name": "Summer Chocolate Mimosa",
+      "scientific_name": [
+        "Albizia julibrissin 'Summer Chocolate'"
+      ],
+      "section": [
+        {
+          "id": 5299,
+          "type": "watering",
+          "description": "Summer Chocolate Mimosa plants need to be watered on a regular basis, with a frequency of approximately 2-3 times per week. To prevent overwatering, it is important to check the soil before each watering to make sure that it is not already moist or saturated. In periods of hot and dry weather, the plants may require more water than normal. During the summer months, it may be necessary to water the plant more frequently. During the winter, the amount of water should be reduced significantly, especially if the soil is already on the dry side."
+        },
+        {
+          "id": 5300,
+          "type": "sunlight",
+          "description": "Summer Chocolate Mimosa prefers full sun and can tolerate some partial shade but does best with 6-8 hours of direct sunlight a day. The hours of direct sunlight may decrease to 4-6 in hot and dry climates."
+        },
+        {
+          "id": 5301,
+          "type": "pruning",
+          "description": "Summer Chocolate Mimosa should be pruned during the winter months, from late fall to early spring. Pruning should be done in moderation only, as it is not necessary to prune heavily. This species should only be pruned to remove dead and broken branches, and to keep its overall shape. If the Summer Chocolate Mimosa is overgrown, it can be pruned a bit more heavily, but be sure to remove the largest branches last. Removing too much foliage can cause shock to the plant, so be conservative as you prune."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

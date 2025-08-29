@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1734,
+      "species_id": 219,
+      "common_name": "Little Woody Redbud",
+      "scientific_name": [
+        "Cercis canadensis 'Little Woody'"
+      ],
+      "section": [
+        {
+          "id": 5407,
+          "type": "watering",
+          "description": "Little Woody Redbud plants should be watered regularly to keep the soil moist, but not soggy. Water the plants deeply, but not more than once a week, and make sure the soil is dry to the touch before you water again. During the summer months, Redbud plants may need to be watered more frequently than once a week, especially during periods of hot, dry weather. In this case, check the soil’s moisture twice a week and water as needed. The plant will benefit from an occasional deep soaking."
+        },
+        {
+          "id": 5408,
+          "type": "sunlight",
+          "description": "Little Woody Redbud trees should receive at least 6 hours of direct sunlight per day in order to thrive. They prefer to be planted in full sun, although they can tolerate partial shade for part of the day, allowing for some respite from the hot summer sun during the hottest months. The Little Woody Redbud can benefit from some morning sun and shade in the afternoon."
+        },
+        {
+          "id": 5409,
+          "type": "pruning",
+          "description": "Little Woody Redbud (Cercis canadensis 'Little Woody') requires minimal pruning. The best time to prune is in late winter or early spring before new growth begins. This species can be pruned to maintain a desired shape or size. Any dead or damaged branches should be removed and can also be lightly pruned to shape the tree. It is also important to thin out any overcrowded branches to allow for proper air circulation. Prune no more than 1-third of the tree’s foliage in any 1 season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

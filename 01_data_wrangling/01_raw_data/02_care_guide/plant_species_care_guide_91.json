@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1625,
+      "species_id": 91,
+      "common_name": "Osakazuki Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Osakazuki'"
+      ],
+      "section": [
+        {
+          "id": 5080,
+          "type": "watering",
+          "description": "Osakazuki Japanese Maple's should be watered regularly throughout the growing season. Water the soil to a depth of 8 to 12 inches every 7 to 10 days if rain does not occur. Reduce watering frequency in the Fall as temperatures begin to cool. Do not saturate the soil, as the roots are shallow and can rot easily if the soil remains soaked."
+        },
+        {
+          "id": 5081,
+          "type": "sunlight",
+          "description": "Osakazuki Japanese Maple (Acer Palmatum 'Osakazuki') should be planted in an area that gets plenty of direct sunlight. It should receive about 6-8 hours of sunshine each day, with some afternoon shade to protect it from the highest-intensity summer sun. In some regions, such as warmer climates, Osakazuki Japanese Maple may need to be protected from the afternoon sun with partial shade, particularly in the hottest months (typically from late June to late September)."
+        },
+        {
+          "id": 5082,
+          "type": "pruning",
+          "description": "Osakazuki Japanese Maple should be pruned in late winter or early spring. Pruning should be relatively minimal, removing any dead or diseased wood and selectively removing branches to maintain a desired shape. Avoid pruning more than 1-third of the tree’s living branches in a single season, as shock could cause serious damage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

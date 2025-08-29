@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1737,
+      "species_id": 223,
+      "common_name": "Weeping Nootka Cypress",
+      "scientific_name": [
+        "Chamaecyparis nootkatensis 'Pendula'"
+      ],
+      "section": [
+        {
+          "id": 5416,
+          "type": "watering",
+          "description": "Weeping Nootka Cypress (Chamaecyparis nootkatensis 'Pendula') require moderate amounts of water. During the first growing season, water the plant once weekly for an in-depth soaking, and more frequently during heat waves. Once established, however, it requires considerably less water, usually needing to only be watered twice monthly. During the winter months, however, watering can be reduced to once or twice monthly. As with most plants, if you notice your Weeping Nootka Cypress wilting or showing signs of distress, it likely needs more water and should be watered immediately."
+        },
+        {
+          "id": 5417,
+          "type": "sunlight",
+          "description": "Weeping Nootka Cypress is an evergreen coniferous shrub native to the Pacific coast. Its growth habit is pendulous, meaning that branches are somewhat drooping, creating an attractive weeping effect. This plant species requires plenty of light to thrive, particularly sunlight. Depending on where it is grown, it will ideally receive 6 to 8 hours of direct sunshine each day. If grown in an area with partial shade, then the plant may require more sunlight to remain healthy. The best time of day to expose the plant to sunlight is during the morning and mid-day hours, with some direct afternoon sunlight as well."
+        },
+        {
+          "id": 5418,
+          "type": "pruning",
+          "description": "Weeping Nootka Cypress plants should be pruned in late winter or early spring, just before new growth starts. Pruning should be kept light and limited to lightly shaping the tree or removing any dead or damaged branches. The branches should be pruned back to the main trunk, or to a central main branch, with the objective of maintaining an overall attractive form. Heavy pruning is not recommended and may result in dieback or loss of foliage to the lower branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

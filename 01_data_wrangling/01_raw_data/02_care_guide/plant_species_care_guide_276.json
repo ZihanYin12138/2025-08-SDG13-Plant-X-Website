@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 213,
+      "species_id": 276,
+      "common_name": "Russian Olive",
+      "scientific_name": [
+        "Elaeagnus angustifolia"
+      ],
+      "section": [
+        {
+          "id": 824,
+          "type": "watering",
+          "description": "Russian olive plants prefer to grow in moist, well-drained soil. As such, they should be watered regularly to keep the soil evenly moist, but not soggy. During the growing season, you should water the plant deeply once a week and check the soil to make sure the top 2 to 3 inches remain consistently moist. During periods of heat or drought, you should increase watering to every 3 to 4 days, being sure not to overwater and to allow any excess water to drain away quickly. During the fall and winter months, watering can be reduced to every 2 to 3 weeks, depending on local rainfall and temperatures."
+        },
+        {
+          "id": 825,
+          "type": "sunlight",
+          "description": "Russian Olive trees prefer full sun and will grow best in locations that receive 6-8 hours of bright, direct sunlight per day. However, they are tolerant of some shade and can still thrive in locations that receive 4-6 hours of sunlight per day. When planted in shadier spots, these trees will typically remain smaller and produce fewer flowers and fruit. For best results, it is recommended to select an area for Russian Olive trees that offers the most direct sunlight."
+        },
+        {
+          "id": 826,
+          "type": "pruning",
+          "description": "Russian Olive should be pruned in late winter or early spring before the new growth appears. The general rule is to prune 1/3 of older, larger stems each year so that no more than 1/3 of the total plant is removed at 1 time. Branches should be cut back to where the branch is a quarter inch in diameter. Also, any dead or damaged branches should be removed. If you want to control the size and shape of your Russian Olive, you can also prune it back to a particular size or shape in early spring."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1716,
+      "species_id": 199,
+      "common_name": "Golden Catalpa",
+      "scientific_name": [
+        "Catalpa bignonioides 'Aurea'"
+      ],
+      "section": [
+        {
+          "id": 5353,
+          "type": "watering",
+          "description": "Golden Catalpa prefers moist, well-draining soil, so it should be watered thoroughly when the top inch of soil is dry. During the summer months, a weekly deep watering is ideal because the roots need a consistent level of moisture in order to thrive. During the winter months, when the plant is in a dormant stage, watering should be reduced to about once every 2 weeks or when the soil is dry. "
+        },
+        {
+          "id": 5354,
+          "type": "sunlight",
+          "description": "Golden Catalpa (Catalpa bignonioides 'Aurea') prefers plenty of bright sunlight throughout the day. This species of Catalpa needs at least 6 hours of direct sunlight per day for optimal health and growth. When the temperatures become too hot during the summertime, the Golden Catalpa may need some extra shade during the hottest part of the day, to ensure its well-being. With proper sunlight exposure and adequate watering, the Golden Catalpa can thrive in a garden setting."
+        },
+        {
+          "id": 5355,
+          "type": "pruning",
+          "description": "Golden Catalpa should be pruned annually in late winter or early spring. Pruning should be mild and infrequent, focusing on removing dead wood and thinning out crossed branches. Taking out unbranched stems and limbs that point inward may help open up the center of the tree and improve air circulation. Also remove any sucker shoots that grow from the roots and any branches that are growing too closely together. You can also lightly prune away foliage that looks tired or weak. Avoid pruning more than 1/3  of the foliage at once, as this can be stressful for the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

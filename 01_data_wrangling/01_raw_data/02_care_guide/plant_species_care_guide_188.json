@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1707,
+      "species_id": 188,
+      "common_name": "Summer Cascade Weeping River Birch",
+      "scientific_name": [
+        "Betula nigra 'Summer Cascade'"
+      ],
+      "section": [
+        {
+          "id": 5326,
+          "type": "watering",
+          "description": "The Summer Cascade Weeping River Birch requires regular watering, as it is susceptible to drought. To keep the tree healthy, it should be watered once a week during hot, dry weather. In normal weather, water it once every 2 weeks. During the spring and summer months, make sure the root zone is moist but not overly soaked. In the fall and winter months, reduce the frequency of watering as the Tree will go dormant. Provide about 1 gallon of water per square foot of the canopy's area every 2 weeks. During watering sessions, water the tree deeply and slowly to ensure it receives enough moisture. When the soil begins to dry out in the top 1-2 inches, it needs to be watered."
+        },
+        {
+          "id": 5327,
+          "type": "sunlight",
+          "description": "Summer Cascade Weeping River Birch requires full sun to partial shade. It will do best in a location that gets at least 6 hours of sun per day in order to properly develop its cascading weeping habit. It will still look good in partial shade, but the growth rate may be a bit slower and there won't be much of the weeping habit. Summer Cascade can also receive morning sun, as long as it gets adequate protection from the hot afternoon sun."
+        },
+        {
+          "id": 5328,
+          "type": "pruning",
+          "description": "Summer Cascade Weeping River Birch should be pruned in early spring, during the plant's dormancy period. Pruning too late in the season can remove the plant’s growth potential for the upcoming year. Generally, light pruning up to about a third of the canopy should be done - removing any broken branches, crossing branches, or dead branches. Thinning out of the canopy can also be done if necessary to allow sunlight to reach the lower parts of the tree. It is important to not prune too much, as this can take away from the plant’s natural shape and beauty."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

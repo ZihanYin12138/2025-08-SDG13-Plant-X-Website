@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "id": 84,
+      "common_name": "Bacterial soft rots leaf spots blights wilts",
+      "scientific_name": "Pseudomonas spp.",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Bacterial soft rots (Pseudomonas spp.)?",
+          "description": "Bacterial soft rots, caused by gram-negative bacteria like Pseudomonas spp., Erwinia, and Pectobacterium, are destructive diseases affecting various plants worldwide. Hosts include potatoes, carrots, cabbage, tomatoes, onions, beans, and geranium, among others. Symptoms include watery and soft decay, foul odor, discoloration, slow growth, seedling collapse, and wilting of aboveground parts. These diseases primarily target fleshy storage organs such as tubers, bulbs, and rhizomes, leading to mushy tissue and plant deterioration."
+        },
+        {
+          "subtitle": "How does Bacterial soft rots (Pseudomonas spp.) occur? ",
+          "description": "It reproduces by infecting plants through wounds, natural openings like stomata or lenticels, or via contaminated seeds. Inside the host, they feed on fluids released from injured cells and rapidly multiply. Enzymes they release break down cell walls, leading to cell bursting and increased bacterial nutrition. Spread can occur during storage, transportation, and through infected insects. They can overwinter in plant tissues, insects, or soil, remaining dormant until favorable conditions for reproduction occur again."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices ",
+          "description": "•\tAvoid wet conditions by planting vegetables in well-drained soils and controlling watering times and amounts. Wider spacing promotes faster drying of plants and soil.\n\n•\tConduct a soil nutrient test to determine optimal soil fertility, particularly calcium levels. Include soft rot-resistant vegetables like corn, snap beans, and beets in your crop rotation. \n\n•\tMinimize damage during weeding and harvest to prevent entry points for bacteria. Harvest during dry conditions and inspect vegetables for signs of infection. Do not store diseased vegetables. \n\n•\tClear the garden of any infested plant debris at the end of the season. Destroy the material by burning or landfilling it. Avoid growing susceptible crops in affected areas for at least three years.\n"
+        },
+        {
+          "subtitle": "Chemical control",
+          "description": "Streptomycin, kasugamycin, and oxytetracycline are antibiotics commonly used for managing bacterial diseases caused by Pseudomonas spp.\n\nCheck local regulations and consult agricultural experts to ensure proper and legal use of antibiotics for managing Pseudomonas spp. bacterial diseases in agriculture.\n"
+        }
+      ],
+      "host": [
+        "carnation"
+      ],
+      "images": []
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

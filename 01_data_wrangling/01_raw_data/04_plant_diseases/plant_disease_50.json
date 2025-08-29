@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": 50,
+      "common_name": "Damping off",
+      "scientific_name": "Pythium  spp.",
+      "other_name": [
+        "Root rot"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Damping off, Root Rot (Pythium spp,)?",
+          "description": "Damping off is a fungal infection that primarily affects young plants, causing them to wilt, collapse, and die. Various fungi, including Pythium spp., are responsible for this condition. Nearly all fruit, vegetable, field, and ornamental crops are susceptible. Pythium spp. can also induce root rot, especially in waterlogged conditions. Symptoms include dark-brown to black water-soaked lesions that quickly spread across seedlings. Post-emergence, brown water-soaked lesions appear on roots and hypocotyls, leading to wilting and eventual death. "
+        },
+        {
+          "subtitle": "How does Damping off, Root Rot (Pythium spp,) occur?",
+          "description": "Pythium spp. are soil-borne fungi capable of both sexual and asexual reproduction. They infect plants through their roots, gaining entry through wounds or natural openings. Thriving in warm and moist soil, Pythium spp. can persist there for extended periods, awaiting suitable host plants to infect. Once inside a plant, they can cause various diseases."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices",
+          "description": "•\tPlant resistant varieties of plants whenever possible\n•\tEnsure good soil drainage and avoid waterlogging.\n•\tAvoid overwatering and use proper irrigation techniques.\n•\tRotate crops and avoid planting susceptible plants in the same location repeatedly.\n•\tUse clean planting materials and sterilize tools and containers.\n"
+        },
+        {
+          "subtitle": "Integrated Pest Management",
+          "description": "•\tIncorporate multiple control measures such as cultural practices, chemical control, and biological control to manage Pythium spp.\n•\tRegularly monitor plants for signs of disease and act at the first sign of infection.\n"
+        },
+        {
+          "subtitle": "Biological Control",
+          "description": "•\tUse biocontrol agents such as beneficial bacteria or fungi to suppress Pythium spp.\n•\tUse natural products like neem oil, and garlic extract, to reduce the spread of the disease.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "•\tThere are several fungicides available for controlling Pythium spp., including metalaxyl, mefenoxam, propamocarb, fludioxonil, and azoxystrobin. \nAlways read and follow label instructions when using fungicides."
+        }
+      ],
+      "host": [
+        "beans",
+        "cucurbits"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/50_pythium__spp/og/2560px-Fusarium_oxysporum_a1_28229.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/50_pythium__spp/regular/2560px-Fusarium_oxysporum_a1_28229.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/50_pythium__spp/medium/2560px-Fusarium_oxysporum_a1_28229.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/50_pythium__spp/small/2560px-Fusarium_oxysporum_a1_28229.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/50_pythium__spp/thumbnail/2560px-Fusarium_oxysporum_a1_28229.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

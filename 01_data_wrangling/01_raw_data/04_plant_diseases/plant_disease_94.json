@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "id": 94,
+      "common_name": "Cherry buckskin (X-disease)",
+      "scientific_name": "X-disease",
+      "other_name": [
+        "X-disease (Cherry buckskin)"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Cherry buckskin (X-disease)?",
+          "description": "X-disease, also called cherry buckskin, severely impacts sweet cherry trees. It is caused by a phytoplasma found in an infected tree's phloem cells. Diseased trees produce pale, pebbly, leathery-skinned fruit, noticeable at harvest. On Mahaleb rootstocks, symptoms are minimal, but trees suddenly wilt and collapse above the graft union.  Infections occur during summer and fall (July-October), with symptoms appearing the following year. "
+        },
+        {
+          "subtitle": "How does Cherry buckskin (X-disease) occur?",
+          "description": "X-disease, or cherry buckskin, occurs due to a phytoplasma organism infecting trees. The disease spreads through leafhoppers, which acquire the pathogen while feeding on infected cherries or other host plants. These leafhoppers then act as carriers, transmitting the infection to healthy trees. \n\nWithin infected trees, the phytoplasma resides in the phloem cells, leading to the distinct symptoms mentioned above. X-disease poses a significant threat to cherry trees in affected areas."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Sanitation",
+          "description": "•\tConduct annual surveys of the orchard to identify and mark infected trees for prompt removal.\n\n•\tRemove and destroy infected trees following postharvest treatment for leafhoppers."
+        },
+        {
+          "subtitle": "Leafhopper Control",
+          "description": "•\tImplement postharvest treatment of the orchard to target leafhopper vectors. Refer to specific guidelines for controlling cherry leafhoppers and mountain leafhoppers.\n\n•\tManage nearby ornamental hosts of cherry leafhoppers by removing them or applying appropriate sprays to control leafhoppers.\n\n•\tTarget weed hosts that harbor the pathogen, such as clovers (burclover, clover, sweet clovers), dandelion, and curly dock.\n"
+        },
+        {
+          "subtitle": "Orchard Management",
+          "description": "•\tAvoid using clover cover crops in the orchard, as they can serve as a reservoir for the pathogen.\n•\tMaintain good orchard hygiene by controlling weeds and removing debris that may harbor the disease.\n"
+        },
+        {
+          "subtitle": "Monitoring",
+          "description": "•\tRegularly monitor the orchard for signs of disease and leafhopper activity.\n•\tStay updated with local recommendations and guidelines for X-disease management.\n"
+        }
+      ],
+      "host": [
+        "cherry"
+      ],
+      "images": []
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

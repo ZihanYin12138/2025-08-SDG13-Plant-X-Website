@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1580,
+      "species_id": 37,
+      "common_name": "Autumn Fire Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Autumn Fire'"
+      ],
+      "section": [
+        {
+          "id": 4924,
+          "type": "watering",
+          "description": "Autumn Fire Japanese Maple should be watered deeply but infrequently, allowing the top few inches of soil to dry out between watering. During the growing season (spring and summer), approximately 1-2 inches of water should be applied every 7-10 days, depending on the soil type and the weather. In areas with hot summers, more frequent watering may be needed. In autumn and winter, when the plant is dormant, reduce the frequency of watering to every 2 weeks."
+        },
+        {
+          "id": 4925,
+          "type": "sunlight",
+          "description": "Autumn Fire Japanese Maple requires 6 to 8 hours of sunlight daily. It prefers to be in a space with morning sun and a light afternoon shade to protect the leaves from burning in full sun. This species is heat and drought tolerant and can even tolerate partial shade, but too much shade will reduce the beauty of the foliage."
+        },
+        {
+          "id": 4926,
+          "type": "pruning",
+          "description": "Autumn Fire Japanese Maple should be pruned in late winter, typically in February or March. Pruning should focus on removing any dead or damaged growth, thinning out dense foliage, and maintaining the desired shape of the tree. Avoid pruning too heavily, as this can stimulate excessive growth and inhibit flowering the following year. No more than 1-third of the canopy should be removed annually."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

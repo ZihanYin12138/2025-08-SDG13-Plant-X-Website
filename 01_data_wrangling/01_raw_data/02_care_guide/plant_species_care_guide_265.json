@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1776,
+      "species_id": 265,
+      "common_name": "Paul's Scarlet English Hawthorn",
+      "scientific_name": [
+        "Crataegus laevigata 'Paul's Scarlet'"
+      ],
+      "section": [
+        {
+          "id": 5533,
+          "type": "watering",
+          "description": "Paul's Scarlet English Hawthorn is a hardy shrub that needs regular watering to thrive. The best time to water the plant is in the morning, when the ground is still damp. You should water the plant deeply enough that the root zone is saturated, taking care to avoid standing water. Depending on the soil type and environmental conditions, watering may need to be done 2 to 3 times a week. However, during hotter, dryer months, it might need to be watered more frequently. In addition to normal watering, keeping the soil mulched will help the shrub retain moisture. Ensure that you check the soil moisture level every few days to make sure it is not getting too dry. When the top 2 to 4 inches of soil feels dry to the touch, it's time to water."
+        },
+        {
+          "id": 5534,
+          "type": "sunlight",
+          "description": "Paul's Scarlet English Hawthorn (Crataegus laevigata 'Paul's Scarlet') prefers full sun, ideally at least 6 hours per day. If in partial shade, avoid shade during the hottest part of the day and try to get at least 4 hours of direct sun per day."
+        },
+        {
+          "id": 5535,
+          "type": "pruning",
+          "description": "Paul's Scarlet English Hawthorn should be pruned in early spring before flowering, generally in late March or early April. Pruning should be minimal and only for the purpose of structural shaping such as removing dead or damaged branches or selectively shortening them to create a desired shape. Avoid pruning too heavily as it will reduce flowering and fruit production."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

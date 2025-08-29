@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1655,
+      "species_id": 125,
+      "common_name": "Spring Delight Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Spring Delight'"
+      ],
+      "section": [
+        {
+          "id": 5170,
+          "type": "watering",
+          "description": "The Spring Delight Japanese Maple should be watered deeply about once a week during the growing season in early spring until mid-autumn. If the area is subject to drought, make sure to increase the frequency and amount of watering. During the winter months, reduce the amount of water to once every 2 or 3 weeks, and water sparingly. If you are unsure if your plant needs watering, check soil before you water and consider the time since the last watering. If the soil is dry about 2 inches below the surface, it's time to water."
+        },
+        {
+          "id": 5171,
+          "type": "sunlight",
+          "description": "Spring Delight Japanese Maple (Acer palmatum 'Spring Delight') prefers full sun in the morning and part shade in the afternoon. This maple needs 6 to 8 hours of direct sunlight every day to maintain its vibrant colors and growth. When planted in an area that receives less than 6 hours of sunlight a day, the plant can become leggy or spindly and may not show its optimal coloration."
+        },
+        {
+          "id": 5172,
+          "type": "pruning",
+          "description": "Spring Delight Japanese Maple (Acer palmatum 'Spring Delight') should be pruned in late winter or early spring before new growth begins. Be sure to put on protective gloves and eyewear for safety. Prune out any dead, damaged, or diseased branches down to the point of healthy growth. Also, remove any downward-growing shoots, or suckers, from the base of the tree and prune back the lateral branches to maintain the desired shape of the tree. Be sure to make clean and precise cuts. If possible, try to avoid overly drastic pruning as it can damage the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

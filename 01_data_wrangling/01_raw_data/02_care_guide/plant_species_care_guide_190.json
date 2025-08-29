@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 514,
+      "species_id": 190,
+      "common_name": "Clump Paper Birch",
+      "scientific_name": [
+        "Betula papyrifera '(clump)'"
+      ],
+      "section": [
+        {
+          "id": 1545,
+          "type": "watering",
+          "description": "Clump Paper Birch should be watered deeply once each week during the growing season (late spring through early fall) with roughly 1 inch of water. When watering, it is important to thoroughly saturate the soil in order to encourage healthy root growth. During the winter months, be sure to water the tree regularly (preferably every 2 weeks) to provide moisture and reduce stress from cold temperatures. The amount of water should be reduced to roughly half an inch during this time. Additionally, Clump Paper Birch should be monitored throughout all seasons to ensure it is not over- or under-watered."
+        },
+        {
+          "id": 1547,
+          "type": "sunlight",
+          "description": "Clump paper birch (Betula papyrifera 'clump') should be planted in an area with sunlight for at least 6 hours per day. During spring and summer, when the days are longer, it is beneficial to give the trees as much constant, natural light as possible. During winter, when the days are shorter, shade is beneficial; however, the trees should still receive at least 4 to 5 hours of direct sunlight each day."
+        },
+        {
+          "id": 1549,
+          "type": "pruning",
+          "description": "Clump Paper Birch (Betula papyrifera) should be lightly pruned each year in late winter or early spring before new growth begins. When pruning, focus on removing dead, damaged, or crossing branches, and reshaping the crown of the tree. It is best to avoid removing more than 10-20% of the branches, doing more could result in dieback in the tree. For more vigorous pruning, it can be done every 3 to 5 years, but it is important to take into account the desired size of tree when doing so."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

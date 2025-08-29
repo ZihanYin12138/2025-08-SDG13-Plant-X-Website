@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": 93,
+      "common_name": "Powdery mildew",
+      "scientific_name": "Erysiphe heraclei",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": " What is Powdery mildew (Erysiphe heraclei)?",
+          "description": "Erysiphe heraclei, a powdery mildew type, poses significant risks to various plants, notably carrots, parsley, and parsnips. The infection is recognizable by white fungal patches forming on the lower leaf surface, with leaf edges curling upward, revealing the powdery growth. Moreover, purple to reddish blotches might emerge on the leaves, and tiny black cleistothecia structures become visible underneath. "
+        },
+        {
+          "subtitle": "How does Powdery mildew (Erysiphe heraclei) occur?",
+          "description": "Erysiphe heraclei, a typical powdery mildew, relies on living plants for its life cycle. In spring, fungal fruiting bodies release spores that spread to leaves. These spores enter the plant and create new infection sources. Throughout the growing season, more spores are produced, leading to further spread. The surviving spores become the next cycle's starting point. Powdery mildews prefer warm, dry conditions, making them common in summers and more widespread than other leaf diseases."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Prevention and Cultural Practices",
+          "description": "•\tPlant resistant vegetable varieties or avoid susceptible ones.\n•\tPlant in sunny areas with good air circulation.\n•\tAvoid excess fertilizer; consider slow-release fertilizer.\n•\tOverhead sprinkling can help reduce powdery mildew, but not recommended for vegetables due to potential pest problems.\n"
+        },
+        {
+          "subtitle": "Biological Fungicides",
+          "description": "Biological fungicides, like Serenade, contain beneficial microorganisms that can destroy fungal pathogens when sprayed on plants. Serenade, for example, utilizes Bacillus subtilis bacteria to prevent powdery mildew infection.\n"
+        },
+        {
+          "subtitle": "Fungicides Applications ",
+          "description": "1. Horticultural Oils: These include neem oil, jojoba oil, and plant-based oils like E-rase. They can work as eradicants and protectants, particularly effective against mild to moderate powdery mildew infections.\n\n2. Sulfur: Sulfur products, such as wettable sulfurs with surfactants (e.g., Safer Garden Fungicide), have been used for centuries to manage powdery mildew. They are primarily preventive and should be applied before disease symptoms appear."
+        }
+      ],
+      "host": [
+        "carrot",
+        "parsley",
+        "parsnip"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/93_erysiphe_heraclei/og/2560px-Erysiphe_heraclei_a1_28229.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/93_erysiphe_heraclei/regular/2560px-Erysiphe_heraclei_a1_28229.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/93_erysiphe_heraclei/medium/2560px-Erysiphe_heraclei_a1_28229.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/93_erysiphe_heraclei/small/2560px-Erysiphe_heraclei_a1_28229.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/93_erysiphe_heraclei/thumbnail/2560px-Erysiphe_heraclei_a1_28229.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

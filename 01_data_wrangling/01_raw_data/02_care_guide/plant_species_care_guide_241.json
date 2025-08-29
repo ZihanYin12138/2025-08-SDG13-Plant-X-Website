@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1754,
+      "species_id": 241,
+      "common_name": "Venus Flowering Dogwood",
+      "scientific_name": [
+        "Cornus 'Venus'"
+      ],
+      "section": [
+        {
+          "id": 5467,
+          "type": "watering",
+          "description": "Water the Venus Flowering Dogwood (Cornus 'Venus') regularly to ensure that the soil remains slightly moist.  Water deeply but infrequently for best results to avoid shallow, frequent watering. In the spring and summer, water the tree once a week. In the fall and winter months, water once every 2 weeks. Ensure that the soil has fully drained after each watering and is not soggy. Consider using a soaker hose placed at the base of the tree to slowly and evenly provide water while conserving water."
+        },
+        {
+          "id": 5468,
+          "type": "sunlight",
+          "description": "Venus Flowering Dogwood (Cornus 'Venus') thrives in full sun to partial shade, meaning it needs 4 to 6 hours of direct sunlight each day. This species prefers partial shade when grown in hotter climates; however, it is important to avoid any full shade situations as this can lead to poor flowering. When grown in full sun, the plant should receive the full 6 hours of sunlight. For Venus Flowering Dogwood, the optimal lighting helps to encourage abundant flowering and promote the best leaf color."
+        },
+        {
+          "id": 5469,
+          "type": "pruning",
+          "description": "Venus Flowering Dogwood (Cornus 'Venus') requires minimal pruning. It is best to prune at the end of winter when the flowers are just beginning to bloom. This will help to maximize the number of blossoms that the plant will produce in the spring. If you do need to prune more, wait until late winter or early spring before any new growth has occurred. For more severe pruning, wait until after flowering as this will help protect the flowers and buds. Remove any weak or damaged branches by making clean cuts as close to the base of the branch as possible. It is important to avoid large flush cuts as this can cause damage and infection to the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

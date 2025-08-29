@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1775,
+      "species_id": 264,
+      "common_name": "Variegated Cornelian Cherry Dogwood",
+      "scientific_name": [
+        "Cornus mas 'Variegata'"
+      ],
+      "section": [
+        {
+          "id": 5530,
+          "type": "watering",
+          "description": "Variegated Cornelian Cherry Dogwoods should be watered regularly. During the summer months, they should be watered once per week, making sure to drench the soil and allow it to dry out slightly between waterings. During the winter when the plant is dormant, water every 4-6 weeks. It's important to always check the top few inches of soil before watering to make sure it is dry. The plant should never sit in water for extended periods of time, as it may cause root rot. When laying mulch down around the plant, leave a few inches around the base of the trunk for proper air flow."
+        },
+        {
+          "id": 5531,
+          "type": "sunlight",
+          "description": "Variegated Cornelian Cherry Dogwood (Cornus mas 'Variegata') thrive in full sun to light shade and should receive a minimum of 6 hours of direct sunlight each day. They generally prefer a sunny spot with some protection from the hot afternoon sun for the best flowering and growth. If planting in a partially shaded area, provide at least 4 hours of direct sun each day."
+        },
+        {
+          "id": 5532,
+          "type": "pruning",
+          "description": "Variegated Cornelian Cherry Dogwood should be pruned lightly each year, just after flowering in early spring. This is best done with sharp hand pruners or shears, removing only dead, diseased, or damaged branches. To keep a natural shape to the tree, prune back any branches that appear to be growing too long or out of shape along with any suckers from the base of the trunk. Keeping the canopy open will ensure that the gorgeous variegated foliage is able to receive proper sunlight. When pruning Variegated Cornelian Cherry Dogwood, it is important to remove male flowers from the tree early in the spring so that the berries are not produced. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

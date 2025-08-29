@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1621,
+      "species_id": 87,
+      "common_name": "Orangeola Cutleaf Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Orangeola'"
+      ],
+      "section": [
+        {
+          "id": 5068,
+          "type": "watering",
+          "description": "Water your Orangeola Cutleaf Japanese Maple when the top inch or 2 of soil feels dry, approximately once a week. Water deeply, soaking the soil around the tree so that it can develop deep roots. Avoid overwatering as this can lead to root rot. During extreme heat or dry periods, water more frequently and adjust the amount you water accordingly."
+        },
+        {
+          "id": 5069,
+          "type": "sunlight",
+          "description": "Orangeola Cutleaf Japanese Maple prefers full sun or partial shade and does best when planted in an area that receives at least 4 hours of direct sunlight each day. It will tolerate morning sun and afternoon shade, but greater exposure to sunlight will help promote better color and flowering. In areas of full sun, supplemental moisture is recommended, particularly during dry spells."
+        },
+        {
+          "id": 5070,
+          "type": "pruning",
+          "description": "Orangeola Cutleaf Japanese Maple (Acer palmatum 'Orangeola') should be pruned after the first hard frost of late fall. Because Orangeola has a natural lacy and graceful form, it doesn't require a great deal of pruning and should be done judiciously. Prune dead, damaged, or crossing branches. Do not remove more than 1-third of the branches at a time. Pruning during the summer months can affect the health and vigor of the plant, as well as limit flowering the next spring. However, if pruning is done later in the season, it is best to prune during the early spring before the buds begin to swell."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

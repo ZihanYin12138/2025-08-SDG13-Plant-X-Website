@@ -1,0 +1,113 @@
+{
+  "id": 201,
+  "common_name": "Deodar Cedar",
+  "scientific_name": [
+    "Cedrus deodara"
+  ],
+  "other_name": [
+    "Himalayan Cedar"
+  ],
+  "family": "Pinaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "deodara",
+  "genus": "Cedrus",
+  "origin": [
+    "Himalayas"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 80,
+      "max_value": 80,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "7",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=201&size=og&key=sk-ACnv68b0630adff3b12096",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=201&size=og&key=sk-ACnv68b0630adff3b12096'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=201&key=sk-ACnv68b0630adff3b12096",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Blight",
+    "needle cast",
+    " Canker",
+    "sap rot",
+    " Diptera - true flies",
+    "  Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": true,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Deodar Cedar, or Cedrus deodara, is an amazing species of evergreen tree. Unlike most coniferous trees, Deodar Cedar takes on an airy, open branching structure, creating a unique and majestic shape. The soft, blue-green needles create an enchanting backdrop to its deep rusty-brown bark. Deodar Cedar is adaptable to diverse environments and can even thrive in areas with acidic soil. This species is also extremely tolerant to extreme temperatures, making it a great choice for temperatures ranging from hot to cold. Deodar Cedar is an impressive and eye-catching tree species that is sure to make any landscape look stunning.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/201_cedrus_deodara/og/48834607038_84597f56f4_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/201_cedrus_deodara/regular/48834607038_84597f56f4_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/201_cedrus_deodara/medium/48834607038_84597f56f4_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/201_cedrus_deodara/small/48834607038_84597f56f4_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/201_cedrus_deodara/thumbnail/48834607038_84597f56f4_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

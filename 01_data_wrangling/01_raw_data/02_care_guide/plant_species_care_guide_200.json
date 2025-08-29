@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 453,
+      "species_id": 200,
+      "common_name": "Blue Atlas Cedar",
+      "scientific_name": [
+        "Cedrus atlantica 'Glauca'"
+      ],
+      "section": [
+        {
+          "id": 1362,
+          "type": "watering",
+          "description": "The Blue Atlas Cedar tree needs deep and regular watering. Water thoroughly and deeply after planting, about 15-20 liters for larger trees, 10-15 liters for small trees. Water once or twice a week afterward, providing about 10-15 liters of water each time, until established. During dry periods or hot weather, increase watering to twice or even three times a week. In dry and arid climate, mature trees should be watered at least once a week during hot weather to ensure healthy growth and minimize stress. Always check the soil before watering: if it feels slightly damp, it may not need water yet."
+        },
+        {
+          "id": 1363,
+          "type": "sunlight",
+          "description": "Blue Atlas Cedar trees prefer bright, direct sunlight to ensure optimal growth, so they should be planted in a location that receives full sun (at least 6-8 hours of direct sunlight each day). If a location with this level of direct sun exposure is not available, the tree will do best in a spot that provides partial shade during the midday heat of summer. They can also tolerate light, filtered shade in areas with cooler temperatures."
+        },
+        {
+          "id": 1364,
+          "type": "pruning",
+          "description": "Blue Atlas Cedar trees should be pruned in early spring prior to new growth and at least once a year thereafter. Pruning should be minimal and should mainly consist of removing dead, diseased, or damaged branches. Avoid removing too much of the tree’s foliage as this will affect its growth and health. When pruning, try to maintain the tree’s natural shape and form and only remove what is necessary. Make sure to wear protective clothing and equipment to avoid any potential injury from the sharp branches. Prune with clean, sharp tools to avoid any undue stress or damage to the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

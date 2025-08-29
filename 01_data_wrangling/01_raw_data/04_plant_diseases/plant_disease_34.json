@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "id": 34,
+      "common_name": "Anthracnose",
+      "scientific_name": "Discula fraxinea",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": " What is Anthracnose (Discula fraxinea)?",
+          "description": "Anthracnose caused by Plagiostoma fraxini (Asexual: Discula fraxinea) is a fungal disease affecting ash trees. It is distributed in regions such as the Pacific Northwest. The disease primarily targets young tissues, causing small water-soaked spots that rapidly merge into brown or tan blotches on distorted leaves. Infected leaves may exhibit necrotic spots, and severe cases can lead to defoliation and dieback in lower branches."
+        },
+        {
+          "subtitle": "How does Anthracnose (Discula fraxinea) occur?",
+          "description": "Ash dieback spreads through spores that infect susceptible ash trees. When conditions are favorable, spores germinate, penetrate leaves, and cause symptoms like leaf spots, wilting, and defoliation. It thrives in moderate temperatures with rain or humidity and extended leaf wetness. During reproduction, the fungus produces new spores (conidia) within acervuli on infected leaves. Released spores can be dispersed by wind, rain, or other means to infect new ash trees or susceptible plant parts, continuing the cycle."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Plant Selection and Resistant Cultivars",
+          "description": "Select ash tree varieties that are known to be resistant to Anthracnose, as they are less likely to be affected by the disease. \nIf Anthracnose is prevalent in your area, consider planting tree species other than ash that are not susceptible to the disease."
+        },
+        {
+          "subtitle": "Cultural Control",
+          "description": "•\tRake and dispose of fallen leaves to reduce the source of infection.\n•\tPrune and remove dead twigs and branches, improving air circulation and reducing disease spread.\n•\tEnsure proper watering practices to promote tree vigor.\n•\tImplement a balanced fertilization program based on soil test results.\n•\tApply mulch around the base of the tree to conserve moisture and suppress weed growth.\n"
+        },
+        {
+          "subtitle": "Sanitation and Removal of Infected Plant Material",
+          "description": "Remove fallen leaves and debris from around the base of ash trees, as they can harbor fungal spores and promote disease development. Dispose of the debris properly. Disinfect pruning tools and equipment after each use, especially when working with infected trees."
+        }
+      ],
+      "host": [
+        "ash"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/34_d/og/Anthracnose_on_blueberry_a1.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/34_d/regular/Anthracnose_on_blueberry_a1.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/34_d/medium/Anthracnose_on_blueberry_a1.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/34_d/small/Anthracnose_on_blueberry_a1.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/34_d/thumbnail/Anthracnose_on_blueberry_a1.jpg"
+        },
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/34_discula_fraxinea/og/9540312937_b354a55b92_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/34_discula_fraxinea/regular/9540312937_b354a55b92_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/34_discula_fraxinea/medium/9540312937_b354a55b92_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/34_discula_fraxinea/small/9540312937_b354a55b92_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/34_discula_fraxinea/thumbnail/9540312937_b354a55b92_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

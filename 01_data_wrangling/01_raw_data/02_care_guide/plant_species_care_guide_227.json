@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1741,
+      "species_id": 227,
+      "common_name": "Well's Special Hinoki Falsecypress",
+      "scientific_name": [
+        "Chamaecyparis obtusa 'Well's Special'"
+      ],
+      "section": [
+        {
+          "id": 5428,
+          "type": "watering",
+          "description": "Water this plant deeply once a week to 10 days during the growing season (spring to late summer). Make sure the soil stays evenly moist but not overly wet. In the winter months, reduce watering to once every 2 to 3 weeks. Be sure to check the soil moisture level before watering, as it should not be very wet or soggy. Cut back on watering if the weather is particularly cold, dry, or overcast."
+        },
+        {
+          "id": 5429,
+          "type": "sunlight",
+          "description": "Well’s Special Hinoki Falsecypress (Chamaecyparis obtusa ‘Well’s Special’) plants do best in full sun, with at least 6-8 hours of daily direct sunlight. When planted in areas with too little sunlight, these plants tend to grow lanky and spindly, with a much less attractive shape overall."
+        },
+        {
+          "id": 5430,
+          "type": "pruning",
+          "description": "Wells Special Hinoki Falsecypress can be pruned as needed to maintain its desired size and shape. Generally, light to moderate pruning should occur in late winter or early spring to ensure a good shape and promote dense foliage. Pruning in late summer or fall can cause stress to the plant and lead to poor health as the plant regenerates new growth. When pruning, keep in mind that this conifer does not respond well to hard pruning, so removing more than 1/4 of the growth should be avoided. Always use clean, sharp pruning shears or loppers to ensure a clean cut."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

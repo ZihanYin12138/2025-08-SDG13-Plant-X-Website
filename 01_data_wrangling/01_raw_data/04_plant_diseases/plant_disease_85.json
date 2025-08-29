@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "id": 85,
+      "common_name": "Fairy-ring leaf spot",
+      "scientific_name": "Cladosporium echinulatum",
+      "other_name": [
+        "Leaf spot Fairy-ring"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Fairy Ring Spot (Cladosporium echinulatum)?",
+          "description": "Fairy Ring Spot is a fungal disease affecting carnations (Dianthus caryophyllus) caused by Cladosporium echinulatum. Symptoms include circular to oval spots with purple margins developing on flower stalks, diminishing their aesthetic appeal. The disease is found in various regions, including Africa, India, Japan, Europe, Brazil, and Venezuela. Cladosporium echinulatum can also infect other plants like Sweet Williams, Lychnis, Saponaria, and other members of the Caryophyllaceae family."
+        },
+        {
+          "subtitle": "How does Fairy Ring Spot (Cladosporium echinulatum) occur?",
+          "description": "Cladosporium echinulatum harms plants in its conidial stage. The fungus has septate mycelium, appearing as subhyaline to olivaceous brown. Conidiophores produce conidia, which are yellowish-brown and echinulate. Abundant spores form on leaf undersides during the rainy season, spreading through wind, cultural practices, and more. It begins in greenhouse corners, thriving in cool and humid conditions, quickly causing substantial damage to plants."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices",
+          "description": "1.\tRegulate Greenhouse Condensation: Control condensation by improving ventilation and heating practices to reduce moisture buildup.\n\n2.\tUtilize Ventilation and Heating: Ensure proper airflow and temperature to create unfavorable conditions for Cladosporium growth.\n\n3.\tMorning Irrigation: Water plants in the morning to allow foliage to dry quickly and minimize moisture for fungal development.\n\n4.\tRemove Senescing and Dead Tissue: Regularly eliminate senescent and dead plant material to prevent Cladosporium sporulation.\n"
+        },
+        {
+          "subtitle": "Bioagent",
+          "description": "Bacillus amyloliquefaciens is a beneficial bioagent that can be used as a natural control method against carnation fairy ring spot."
+        },
+        {
+          "subtitle": "Application of Fungicides",
+          "description": "Several fungicides can be used to manage Fairy Ring Spot in carnations. Examples include Mancozeb tebuconazole, propineb, captafol, zineb, tricarbamix, chlorothalonil, and triforine. \nThese fungicides target the pathogen directly, reducing its growth and suppressing disease symptoms."
+        }
+      ],
+      "host": [
+        "carnation"
+      ],
+      "images": []
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

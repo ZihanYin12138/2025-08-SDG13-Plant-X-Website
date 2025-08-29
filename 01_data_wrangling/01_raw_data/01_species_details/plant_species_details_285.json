@@ -1,0 +1,145 @@
+{
+  "id": 285,
+  "common_name": "Purple Beech",
+  "scientific_name": [
+    "Fagus sylvatica 'Purpurea'"
+  ],
+  "other_name": [
+    "Golden Fastigiate Beech",
+    "European Beech"
+  ],
+  "family": "Fagaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Purpurea",
+  "variety": null,
+  "species_epithet": "sylvatica",
+  "genus": "Fagus",
+  "origin": [
+    "Europe",
+    "Garden origin"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 45,
+      "max_value": 45,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=285&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=285&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "trunk",
+      "color": [
+        "gray-brown"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "gray-brown"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "gray-brown"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "red-orange"
+      ]
+    },
+    {
+      "part": "twigs",
+      "color": [
+        "gray-brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "February"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=285&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Rodents",
+    "  Pest resistant",
+    " Disease resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Purple Beech is one of the most amazing plants. It boasts spectacular purple foliage, making it a popular ornamental shrub in gardens and parks. Its leaves turn from rich purple in the summer to rusty copper in the fall. It's also very hardy and can tolerate wet soils and partial shade, making it an ideal choice for a variety of landscaping projects. Its creamy white flowers and crimson-purple fruits add a unique touch of color during the summer months. This plant is easy to maintain and a great choice for low-maintenance gardens and landscapes. Its vibrant colors and excellent hardiness make it truly a magnificent sight to behold.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/285_fagus_sylvatica_purpurea/og/51873514672_fc33f7f178_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/285_fagus_sylvatica_purpurea/regular/51873514672_fc33f7f178_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/285_fagus_sylvatica_purpurea/medium/51873514672_fc33f7f178_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/285_fagus_sylvatica_purpurea/small/51873514672_fc33f7f178_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/285_fagus_sylvatica_purpurea/thumbnail/51873514672_fc33f7f178_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

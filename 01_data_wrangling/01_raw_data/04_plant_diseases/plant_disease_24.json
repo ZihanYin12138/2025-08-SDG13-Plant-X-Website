@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "id": 24,
+      "common_name": "Fire blight",
+      "scientific_name": "Erwinia amylovora",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Fire blight (Erwinia amylovora)?",
+          "description": "Fire blight is a severe bacterial disease that impacts a range of plants, including almonds, cherries, raspberries, apples, pears, and others from the Rosaceae family. It is caused by the bacterium Erwinia amylovora. This gram-negative, rod-shaped bacterium is found worldwide, but it poses significant challenges in temperate regions with warm and humid conditions. Fire blight is characterized by wilting, blackening, and \"burning\" of branches, blossoms, and fruits, giving affected plants a scorched or fire-damaged appearance."
+        },
+        {
+          "subtitle": "How does Fire blight (Erwinia amylovora) occur?",
+          "description": "Erwinia amylovora reproduces through a process called bacterial multiplication. The bacteria can enter plants through natural openings like flowers or wounds in the bark. Once inside the plant tissues, they multiply rapidly, spreading through the vascular system and causing infection. The bacteria produce toxins that contribute to the characteristic symptoms of fire blight. They can also be carried by insects, rain, or contaminated pruning tools, allowing them to infect new plants and continue spreading the disease."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices",
+          "description": "•\tAvoid excessive succulent growth by not overfertilizing with nitrogen.\n•\tRemove blighted blossoms and twigs promptly, pruning at least 8-12 inches below the infection.\n•\tPrune during the dormant season, removing cankers and blighted tissue.\n•\tSanitize pruning tools between cuts with a 10% bleach solution.\n•\tEradicate host plants like pyracantha and hawthorn near the orchard.\n•\tManage irrigation to reduce humidity and prevent water from wetting foliage.\n•\tPlant less susceptible varieties if fire blight is a common problem.\n"
+        },
+        {
+          "subtitle": "Biological Control",
+          "description": "Consider using beneficial microorganisms or antagonistic bacteria that can help suppress the growth of Erwinia amylovora. \nConsult with agricultural experts for suitable options."
+        },
+        {
+          "subtitle": "Antibiotics and Bactericides",
+          "description": "•\tAgricultural antibiotics like streptomycin and oxytetracycline can be used as preventive sprays during bloom.\n\n•\tApply copper-based sprays during the early flowering stage to reduce bacterial growth.\n\n•\t However, their use should be limited to areas without known antibiotic-resistant strains.\n"
+        }
+      ],
+      "host": [
+        "apple",
+        "pear"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/24_erwinia_amylovora/og/Apple_tree_with_fire_blight.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/24_erwinia_amylovora/regular/Apple_tree_with_fire_blight.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/24_erwinia_amylovora/medium/Apple_tree_with_fire_blight.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/24_erwinia_amylovora/small/Apple_tree_with_fire_blight.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/24_erwinia_amylovora/thumbnail/Apple_tree_with_fire_blight.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

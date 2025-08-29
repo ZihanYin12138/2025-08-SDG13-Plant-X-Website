@@ -1,0 +1,86 @@
+{
+  "data": [
+    {
+      "id": 31,
+      "common_name": "Botrytis rot (gray mold)",
+      "scientific_name": "Botrytis  cinerea",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Botrytis rot (Botrytis cinerea)?",
+          "description": "Botrytis cinerea is a fungal pathogen that causes Botrytis rot or gray mold. It is widely distributed and affects a variety of plants, including fruits, vegetables, flowers, and ornamental plants. Symptoms include the formation of gray, velvety mats of sporulating tissues on infected plant parts. It can lead to the death of twigs, increased fruit drop, and injuries to developing fruits. Infected fruits may exhibit ridges and decay during postharvest storage."
+        },
+        {
+          "subtitle": "How does  Botrytis rot (Botrytis cinerea) occur?",
+          "description": "Botrytis blight survives winter on plants and in the soil, including sclerotia. Spores develop and are dispersed by wind or water onto blossoms or young leaves in favorable conditions. Germination happens with cool temperatures and high humidity. It enters plants through wounds but rarely penetrates healthy tissue directly. Decaying plant material and dense plant populations contribute to its spread. The fungus feeds on plants, causing gray mold and decay known as Botrytis rot."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Watering Techniques and Plant varieties",
+          "description": "•\tChoose plant varieties with resistance or tolerance to Botrytis cinerea if available.\n\n•\tAvoid overwatering plants, especially during periods of high humidity. Use drip irrigation or water at the base of plants to keep foliage dry and minimize leaf wetness, which creates favorable conditions for fungal growth.\n"
+        },
+        {
+          "subtitle": "Monitoring  and Good Sanitation",
+          "description": " Regularly inspect plants for infection and take prompt action to prevent spread. Clear away dead or decaying plant debris from the soil surface to prevent the buildup of fungal spores. "
+        },
+        {
+          "subtitle": "Fertilization and Plant Health",
+          "description": "Maintain optimal plant nutrition and avoid excessive nitrogen fertilization, as high nitrogen levels can make plants more susceptible to Botrytis cinerea. Healthy plants are better equipped to resist and recover from fungal infections."
+        },
+        {
+          "subtitle": "Sunlight exposure",
+          "description": "Ensure plants receive sufficient sunlight and avoid shading to create an environment that is less favorable for Botrytis cinerea development"
+        },
+        {
+          "subtitle": "Chemical control",
+          "description": "•\tFungicides commonly used for controlling Botrytis cinerea include cyprodinil/fludioxonil (e.g., Switch), pyraclostrobin/fluxapyroxad (e.g., Merivon), pyraclostrobin/boscalid (e.g., Pristine), penthiopyrad (e.g., Fontelis), isofetamid (e.g., Kenja), fenhexamid (e.g., Elevate), iprodione (e.g., Rovral), and thiophanate-methyl (e.g., Topsin M). \n\n•\tThese fungicides should be applied according to label instructions, and it is important to rotate different modes of action to reduce the risk of resistance.\n"
+        }
+      ],
+      "host": [
+        "artichoke",
+        "lettuce",
+        "strawberry"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/31_b/og/33938535226_6eb3e7a8a8_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/31_b/regular/33938535226_6eb3e7a8a8_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/31_b/medium/33938535226_6eb3e7a8a8_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/31_b/small/33938535226_6eb3e7a8a8_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/31_b/thumbnail/33938535226_6eb3e7a8a8_b.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/31_b/og/Botrytis_cinerea_rose.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/31_b/regular/Botrytis_cinerea_rose.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/31_b/medium/Botrytis_cinerea_rose.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/31_b/small/Botrytis_cinerea_rose.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/31_b/thumbnail/Botrytis_cinerea_rose.jpg"
+        },
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/31_botrytis__cinerea/og/33938535226_6eb3e7a8a8_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/31_botrytis__cinerea/regular/33938535226_6eb3e7a8a8_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/31_botrytis__cinerea/medium/33938535226_6eb3e7a8a8_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/31_botrytis__cinerea/small/33938535226_6eb3e7a8a8_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/31_botrytis__cinerea/thumbnail/33938535226_6eb3e7a8a8_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

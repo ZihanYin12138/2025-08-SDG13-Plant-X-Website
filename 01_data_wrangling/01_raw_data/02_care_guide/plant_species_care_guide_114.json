@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1646,
+      "species_id": 114,
+      "common_name": "Coral Bark Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Sango Kaku'"
+      ],
+      "section": [
+        {
+          "id": 5143,
+          "type": "watering",
+          "description": "Coral Bark Japanese Maple (Acer palmatum 'Sango Kaku') should be watered deeply and regularly during the growing season, which is usually from spring to late fall, whenever the top 1-2\" of soil become dry to the touch. Depending on temperature, air flow, and how much sun it receives, this might be every week up to every other week. During the winter months, when the tree is dormant, it only needs occasional irrigation; usually, no more than once per month."
+        },
+        {
+          "id": 5144,
+          "type": "sunlight",
+          "description": "Coral Bark Japanese Maple (Acer palmatum 'Sango Kaku') needs full sun to partial shade in order to thrive. If given too much shade, it will become leggy and not produce its signature brightly colored bark. The ideal amount of sunlight to give this species is around 4-6 hours of direct sunlight per day. If growing in a hot climate, such as the Southwest, it is best to give the tree partial shade in the afternoon hours when the sun is strongest. This will prevent damage from sunburn and help keep the vivid color of the bark."
+        },
+        {
+          "id": 5145,
+          "type": "pruning",
+          "description": "Coral Bark Japanese Maple (Acer palmatum 'Sango Kaku') should be pruned in early spring, before any new growth begins. Pruning should involve removing any damaged or crossing branches, any branches that are growing too close to the center of the plant, and any branches that are growing too close to the ground. Pruning should be minimal, focusing on shaping the tree into its desired form. No more than a third of the tree should be removed through pruning, and it is best to trim the same amount from each side of the tree. Though Coral Bark Japanese Maple is not particularly sensitive to pruning, taking care not to remove too much over a short period of time is important to prevent extreme stress to the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

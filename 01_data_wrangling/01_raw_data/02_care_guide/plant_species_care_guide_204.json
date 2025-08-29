@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1720,
+      "species_id": 204,
+      "common_name": "Electra Blue Deodar Cedar",
+      "scientific_name": [
+        "Cedrus deodara 'Electra Blue'"
+      ],
+      "section": [
+        {
+          "id": 5365,
+          "type": "watering",
+          "description": "This species of cedar requires regular watering throughout the year. During the growing season - April to September - it should be watered deeply once a week, allowing the soil to dry slightly between waterings. During the winter months - October to March, water should only be applied when needed to prevent the soil from becoming too dry. It is best to water in the morning or early evening to allow excess moisture to evaporate. Also, it should be noted that in an extremely hot or dry season, more regular watering may be required."
+        },
+        {
+          "id": 5366,
+          "type": "sunlight",
+          "description": "Electra Blue Deodar Cedar (Cedrus deodara 'Electra Blue') is an evergreen conifer that is best grown in full sun. It requires at least 6-8 hours of direct sunlight each day, ideally in the morning hours. When grown in an area with partial shade, the plant will produce a less vibrant blue-green color. "
+        },
+        {
+          "id": 5367,
+          "type": "pruning",
+          "description": "Electra Blue Deodar Cedar requires regular pruning to keep it looking its best. This includes pruning to control its size, as well as shaping to maintain a desired form. Pruning can generally take place twice a year — once in late spring or early summer, and once again in late summer or early fall. When pruning, always use clean, sharp cutting tools to prevent damage to the tree. Begin by removing any dead, dying, or diseased branches, as well as those that cross or rub against each other. Also, trim away awkwardly-placed branches to help promote strong, even growth. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

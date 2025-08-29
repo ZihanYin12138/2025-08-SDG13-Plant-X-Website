@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1626,
+      "species_id": 92,
+      "common_name": "Oshio Beni Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Oshio Beni'"
+      ],
+      "section": [
+        {
+          "id": 5083,
+          "type": "watering",
+          "description": "The Oshio Beni Japanese Maple (Acer palmatum 'Oshio Beni') should be watered thoroughly every 7 to 10 days, depending on the climate and season. Check the soil regularly to ensure that it is moist, but not wet. Water should be applied directly to the base of the tree and allowed to slowly trickle down and out through the root zone. During the summer months, trees should be watered more frequently as the hot weather causes water to evaporate quicker. During winter, water less frequently in order to prevent the root-zone from becoming waterlogged."
+        },
+        {
+          "id": 5084,
+          "type": "sunlight",
+          "description": "Oshio Beni Japanese Maple (Acer palmatum 'Oshio Beni') is best grown in partial shade with about 4 to 6 hours of sunlight per day. During the hottest periods of the summer, Oshio Beni should receive some afternoon shade in order to keep the foliage from drying out. It can also benefit from some dappled light from trees nearby."
+        },
+        {
+          "id": 5085,
+          "type": "pruning",
+          "description": "Oshio Beni Japanese Maple (Acer palmatum 'Oshio Beni') should be pruned in late winter or early spring depending on the climate. Pruning should be light and remove any wayward or crossing branches, along with any dead, damaged, or diseased sections. Avoid pruning off too much foliage, as this will hinder the growth of the maple. Instead, avoid drastic pruning and focus on shaping and removing certain sections for aesthetics."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

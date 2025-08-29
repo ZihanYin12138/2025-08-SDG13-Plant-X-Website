@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1641,
+      "species_id": 109,
+      "common_name": "Ruby Stars Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Ruby Stars'"
+      ],
+      "section": [
+        {
+          "id": 5128,
+          "type": "watering",
+          "description": "Water Ruby Stars Japanese Maple deeply and regularly. Water once a week during the spring, summer, and fall months if there is not enough rain. During the hottest summer months, supplement weekly watering with a deep soaking once every 2 weeks. Stop watering in late fall to early winter, when the soil begins to freeze. When watering, ensure that the entire rootball is wet; water until water comes out of the drainage holes in the pot. Aim to keep the soil slightly damp, but not soggy, for optimal growth."
+        },
+        {
+          "id": 5129,
+          "type": "sunlight",
+          "description": "Ruby Stars Japanese Maple, (Acer palmatum 'Ruby Stars'), prefers partial shade to full sun. This tree should be provided with at least 4 hours of direct sunlight on average every day, although during the summer months when the sun is the strongest, some shade may be beneficial. Since planted in full sun, the tree should be kept well hydrated on hot days. "
+        },
+        {
+          "id": 5130,
+          "type": "pruning",
+          "description": "Ruby Stars Japanese Maple should be pruned in late winter or early spring before new growth begins. To keep the tree healthy and looking its best, only the dead, diseased, and broken branches or branches that cross should be removed. Prune the other branches lightly, as any extensive pruning can damage the delicate foliage. Branches should be cut back to their original point of attachment without leaving stubs, which could cause disease and rot. Avoid cutting back to a single bud or the end of a branch as the branches may not regrow.It is also important to avoid pruning too close to the trunk as this can disrupt the natural shape of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

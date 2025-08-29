@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 90,
+      "species_id": 82,
+      "common_name": "Nishiki Gawa Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Nishiki Gawa'"
+      ],
+      "section": [
+        {
+          "id": 1058,
+          "type": "watering",
+          "description": "The Nishiki Gawa Japanese Maple requires a moderate amount of water and should be watered about once per week. During the growing season, it is necessary to provide the tree with at least 1-2 inches of water per week. Since different soils retain different amounts of moisture, it is best to observe the tree closely to determine if and when it is time to water. The soil should be moist but not soggy, so be careful not to over-water. During thehot months of summer, it may be necessary to water more frequently. In the hotter regions, it may also be beneficial to provide some form of shade to protect the tree from extreme temperatures."
+        },
+        {
+          "id": 1059,
+          "type": "sunlight",
+          "description": "Nishiki Gawa Japanese Maple trees need at least 6-8 hours of direct sunlight per day, particularly in early morning and late afternoon. It is best to place it in an area that gets plenty of sun, such as a south-facing location in the garden or a sunny, sheltered corner. The tree should be pruned to allow for light penetration to all branches, as dense shade can reduce flowering and compromise the vibrant color of the foliage. In extremely hot summer climates, the maple should be provided with some shade during portions of the day to protect it from burning and sun-scorch."
+        },
+        {
+          "id": 1060,
+          "type": "pruning",
+          "description": "Nishiki Gawa Japanese Maple should be pruned once a year, typically in the late winter or early spring. This will help to keep the tree looking tidy and neat, and will also help with branch structure. The amount of pruning depends on the size and shape of the tree, but typically, no more than 1 third of the live branches should be pruned in a single season. Additionally, any dead, leftover leaves, and crossing or damaged branches should be removed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

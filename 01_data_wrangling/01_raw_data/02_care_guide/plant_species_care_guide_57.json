@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1595,
+      "species_id": 57,
+      "common_name": "Green Mist Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Green Mist'"
+      ],
+      "section": [
+        {
+          "id": 4984,
+          "type": "watering",
+          "description": "Green Mist Japanese Maple (Acer palmatum 'Green Mist') requires moderate amounts of watering. Generally speaking, it is best to water the plant deeply every 7 to 10 days during the growing season. After the leaves fall, water the plant deeply every 10 to 14 days during the winter. However, the frequency of watering should be adjusted according to the environmental conditions; for example, if rainfall is scarce, increase the watering frequency."
+        },
+        {
+          "id": 4985,
+          "type": "sunlight",
+          "description": "Sunlight requirements for Green Mist Japanese Maple are moderate to bright morning or evening sun. It is best grown in partial shade and can withstand full sun so long as the temperatures don't get too high. Ideally, Green Mist Japanese Maple should receive at least 4 to 5 hours of direct sunlight each day spread out over the morning and evening. When planted in a more sun-filled location some afternoon shade is recommended to protect against the intense heat of the midday sun."
+        },
+        {
+          "id": 4986,
+          "type": "pruning",
+          "description": "Green Mist Japanese Maple (Acer palmatum 'Green Mist') needs to be pruned in late winter or early spring, before new growth emerges. The timing of the pruning is important, since it will affect the look of the tree for the rest of the season. When pruning, remove only dead, diseased, or damaged branches. Avoid removing any healthy wood, as this will reduce flowering and fruiting potential. You can selectively thin branches, reducing their density, or cut branches back to main trunks or branch crotches if needed. Avoid overly aggressive pruning since more drastic removal can cause improper growth, reducing the fullness of the tree canopy. The goal of pruning should be to provide the tree with structure and help it to reach its full potential."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

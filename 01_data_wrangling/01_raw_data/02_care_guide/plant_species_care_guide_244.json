@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 517,
+      "species_id": 244,
+      "common_name": "Variegated Giant Dogwood",
+      "scientific_name": [
+        "Cornus controversa 'Variegata'"
+      ],
+      "section": [
+        {
+          "id": 1552,
+          "type": "watering",
+          "description": "Variegated Giant Dogwood (Cornus controversa 'Variegata') should be watered often enough to keep the soil moist but not saturated. Water the plant at least once or twice a week during periods of active growth, and adjust the frequency of watering according to the plant's needs. During periods of dormancy in the winter months, reduce the amount of watering to just once per month. Check the soil moisture first with your fingertips to determine if the plant needs water or not. If the soil feels dry, it is time to water."
+        },
+        {
+          "id": 1554,
+          "type": "sunlight",
+          "description": "Variegated Giant Dogwoods (Cornus controversa 'Variegata') prefer full sun to partial shade. They need at least 4 to 6 hours of direct sunlight each day, especially during the peak growing season from late spring to early fall. When sunlight is limited, they may produce fewer flowers and may start to lose their naturally vibrant variegated foliage. During the winter months, Variegated Giant Dogwoods can tolerate low light or even full shade."
+        },
+        {
+          "id": 1556,
+          "type": "pruning",
+          "description": "Prune the Variegated Giant Dogwood (Cornus controversa 'Variegata') between late fall and early spring. While this shrub does not necessarily need constant pruning, it is best to remove any dead, damaged, or diseased branches and cut back any overly long or out-of-shape shoots in late fall and early spring. In addition, ornamental pruning can be done in late fall or early spring to maintain the desired shape and size of the shrub. Taking off more than 1/3 of the branches at once is not recommended, as it can cause shock to the shrub."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

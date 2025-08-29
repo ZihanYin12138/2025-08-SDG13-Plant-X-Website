@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "id": 16,
+      "common_name": "Verticillium wilt",
+      "scientific_name": "Verticillium  dahliae",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Verticillium wilt (verticillium dahliae)?",
+          "description": "Verticillium wilt is a plant disease caused by the fungus Verticillium dahliae. It infects a wide range of crops, including artichokes, spinach, and strawberry. The disease has been documented in various regions, including California's Central Coast. Symptoms typically appear during the rosette stage of the plant, with lower leaves wilting. As the infection progresses, the outer leaves turn yellow, wilt, and die. Internal discoloration and vascular streaking can be observed in the taproot and crown. Verticillium wilt can be mistaken for other diseases, such as Fusarium wilt or corky root."
+        },
+        {
+          "subtitle": "How Verticillium wilt (verticillium dahliae) occurs? ",
+          "description": "The fungus enters plants through wounds or natural openings like stomata or root tips. It infects roots and spreads through the vascular system, blocking water and nutrient flow. It reproduces using survival structures called microsclerotia in the soil and asexual spores called conidia. When conidia find suitable plants, they germinate and cause new infections. Spores are dispersed by wind, water, insects, or human activity. Microsclerotia enable long-term survival, while conidia initiate infections on susceptible plants."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Control",
+          "description": "•\tRotate susceptible crops with non-host crops, such as small grains, for a period of 3 to 4 years. This helps to break the disease cycle and reduce the pathogen population in the soil.\n\n•\tDo not transfer soil from infested areas to clean fields, as this can introduce the pathogen. Take precautions to prevent contaminated equipment or tools from spreading the disease.\n\n•\tWhen available, plant resistant varieties that have been specifically bred to withstand Verticillium wilt. These varieties are less susceptible to infection and can help reduce the impact of the disease.\n"
+        },
+        {
+          "subtitle": "\tBiological Control",
+          "description": "Certain beneficial soil microorganisms, such as Trichoderma species, can suppress Verticillium wilt. Using biocontrol agents or organic amendments that promote the growth of these beneficial organisms can help manage the disease."
+        },
+        {
+          "subtitle": "Treatment",
+          "description": "•\tSoil Solarization: This technique involves covering the soil with transparent plastic during the hot summer months to raise the temperature and kill the pathogens present in the soil.\n\n•\tChemical Control: Soil fumigation with effective fumigants, such as methyl bromide or chloropicrin, is an option for reducing soilborne populations of Verticillium dahliae. \n\n•\tHowever, chemical control is often limited and may not be suitable for all situations.\n"
+        }
+      ],
+      "host": [
+        "almond",
+        "avocado",
+        "caneberry",
+        "chrysanthemum",
+        "cole crops",
+        "cucurbits",
+        "eggplant",
+        "pepper",
+        "potato",
+        "strawberry",
+        "tomato"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/16_verticillium__dahliae/og/29491771515_ac80d9e010_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/16_verticillium__dahliae/regular/29491771515_ac80d9e010_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/16_verticillium__dahliae/medium/29491771515_ac80d9e010_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/16_verticillium__dahliae/small/29491771515_ac80d9e010_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/16_verticillium__dahliae/thumbnail/29491771515_ac80d9e010_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

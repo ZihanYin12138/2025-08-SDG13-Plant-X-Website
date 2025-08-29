@@ -1,0 +1,120 @@
+{
+  "id": 62,
+  "common_name": "Hubb's Red Willow Japanese Maple",
+  "scientific_name": [
+    "Acer palmatum 'Hubb's Red Willow'"
+  ],
+  "other_name": [],
+  "family": null,
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Hubb",
+  "variety": null,
+  "species_epithet": "palmatum",
+  "genus": "Acer",
+  "origin": [
+    "Japan"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 12,
+      "max_value": 12,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Cutting",
+    "Air Layering Propagation",
+    "Root Division"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=62&size=og&key=sk-3ksU68b046f66e1f912089",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=62&size=og&key=sk-3ksU68b046f66e1f912089'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "red"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "yellow"
+      ]
+    }
+  ],
+  "sunlight": [
+    "part shade",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=62&key=sk-3ksU68b046f66e1f912089",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": false,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Hubb’s Red Willow Japanese Maple (Acer palmatum 'Hubb’s Red Willow') is an amazing plant species. It has unique foliage that changes from a strong, coppery red in the summer to an intense yellow and orange in the fall. Its growth habit is upright and compact and it only reaches a maximum of 4-6 feet tall and wide. The leaves are finely serrated and highly dissected, which gives an elegant look similar to that of lace. It can tolerate partial shade and prefers moist, but well-drained soil. Best of all, it needs little pruning and is extremely disease-resistant. If you’re looking for an interesting statement piece to your garden, look no further than Hubb’s Red Willow Japanese Maple.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/62_acer_palmatum_hubbs_red_willow/og/800px-Acer_Palmatum_27Red_Pygmy27.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/62_acer_palmatum_hubbs_red_willow/regular/800px-Acer_Palmatum_27Red_Pygmy27.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/62_acer_palmatum_hubbs_red_willow/medium/800px-Acer_Palmatum_27Red_Pygmy27.jpg",
+    "small_url": "https://perenual.com/storage/species_image/62_acer_palmatum_hubbs_red_willow/small/800px-Acer_Palmatum_27Red_Pygmy27.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/62_acer_palmatum_hubbs_red_willow/thumbnail/800px-Acer_Palmatum_27Red_Pygmy27.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

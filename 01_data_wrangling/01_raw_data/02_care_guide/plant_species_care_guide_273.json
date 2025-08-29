@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 862,
+      "species_id": 273,
+      "common_name": "Japanese Persimmon",
+      "scientific_name": [
+        "Diospyros kaki"
+      ],
+      "section": [
+        {
+          "id": 2588,
+          "type": "watering",
+          "description": "Japanese Persimmon need to be watered about 2 to 3 times a week in the warmer months, and once a week in the colder months. The deeper and more often you water them, the better they will grow and fruit. Aim to keep the soil moderately moist during the growing season and slightly drier during the dormant season."
+        },
+        {
+          "id": 2589,
+          "type": "sunlight",
+          "description": "Japanese Persimmon (Diospyros kaki) prefers full sun for optimal growth and fruit production, meaning it should receive 8-10 hours of full, direct sunlight each day. Sun exposure and good air circulation are key for aiding in the development of strong branches and abundant fruit production. Once established, Japanese Persimmon is able to tolerate partial shade, but will produce the best results if grown in an area that receives a good amount of direct sunlight throughout the day."
+        },
+        {
+          "id": 2590,
+          "type": "pruning",
+          "description": "Japanese Persimmon should be pruned annually in late winter or early spring before growth begins. When pruning, care should be taken to ensure that branches are not over-pruned, as this can lead to a reduced yield of fruit. It is best to remove only dead, damaged, and diseased branches during pruning, while leaving healthy branches intact. Additionally, pruning should be used to maintain a desired height and shape for the tree.\n\nWhen unwanted water sprouts and suckers appear in the canopy, they should also be cut off at their base. Pruning Japanese Persimmon should be done lightly, usually removing no more than 20% of the tree’s total living branches each year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

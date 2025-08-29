@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 982,
+      "species_id": 173,
+      "common_name": "Ombrella™ Mimosa",
+      "scientific_name": [
+        "Albizia julibrissin 'Boubri'"
+      ],
+      "section": [
+        {
+          "id": 2947,
+          "type": "watering",
+          "description": "Mimosa should be watered deeply each time, whenever the top 2 inches of the soil feels dry. Generally, it is suggested that the plant should be watered every 7-14 days during the summer months, and every 2-3 weeks during the colder months. Be sure to not over water your Mimosa as this can cause root rot."
+        },
+        {
+          "id": 2948,
+          "type": "sunlight",
+          "description": "Mimosa requires full sun for best growth and flowering. It will perform best when it gets 6 to 8 hours of full sun each day. While it can survive in part sun, flowering will be reduced and its foliar health will be affected. Furthermore, Mimosa prefers warm temperatures and protection from cold, windy, and frosty weather--so it's not ideal for growing in regions with cold, harsh winters."
+        },
+        {
+          "id": 2949,
+          "type": "pruning",
+          "description": "Mimosa should be pruned in late winter or early spring before the new growth begins. Prune selectively to create an upright, shrubby habit instead of a sprawling 1. Remove no more than 1/3 of the plant's growth annually to control the size of the shrub. To maintain a dense, bushy appearance, selectively prune the stems to a diameter of 1/8 inch, and remove stems below the lowest main inranches to encourage the growth of multiple trunks. Occasional minor pruning and shaping of the canopy and cutting back dead wood can also be done to improve the overall appearance of the Mimosa."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

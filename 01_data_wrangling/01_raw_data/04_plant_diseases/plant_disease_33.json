@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": 33,
+      "common_name": "Powdery mildew",
+      "scientific_name": "Leveillula taurica",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Powdery mildew (Leveillula Taurica)?",
+          "description": "Leveillula Taurica is an obligate fungal pathogen that causes powdery mildew disease on a wide range of plants, including important crops like pepper, tomato, eggplant, onion, and cotton. It is widely distributed and can be found in various regions worldwide, including North America, Europe, Asia, Africa, and Australia.  It usually appears on the surfaces of leaves as white or grayish spots with a powdery texture; severe infestations can lead to leaf drop."
+        },
+        {
+          "subtitle": " How does Powdery mildew (Leveillula Taurica)occur?  ",
+          "description": "Leveillula taurica reproduces by producing and dispersing specialized spores called conidia. When these spores land on susceptible plants, they germinate and create a white or grayish powdery growth on leaves, stems, and buds. As the fungus matures, it releases more conidia, which can be carried by wind, water, or other means to infect new plants. This cycle repeats under favorable conditions, spreading the disease to other plants."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Crop Rotation",
+          "description": "Avoid planting susceptible crops in the same area year after year. Rotate crops with non-host plants to break the disease cycle."
+        },
+        {
+          "subtitle": "Resistant Varieties",
+          "description": "Choose and cultivate plant varieties that have demonstrated resistance or tolerance to Leveillula taurica. This can help minimize disease susceptibility."
+        },
+        {
+          "subtitle": "Plant Spacing and Sanitation",
+          "description": "Ensure adequate spacing between plants to promote airflow and reduce humidity, as high humidity favors disease development. Practice good garden and field hygiene by removing and destroying infected plant debris promptly. "
+        },
+        {
+          "subtitle": "Water Management",
+          "description": " Avoid overhead irrigation whenever possible. Use drip irrigation or soaker hoses to deliver water directly to the plant roots, minimizing moisture on the foliage, which can encourage disease development."
+        },
+        {
+          "subtitle": "Biological fungicides",
+          "description": "Some biological control agents, like Bacillus subtilis or specific strains of the fungus Ampelomyces quisqualis, can be used to suppress powdery mildew by competing with and parasitizing the pathogen."
+        },
+        {
+          "subtitle": "Chemical control",
+          "description": "In severe cases, options include sulfur-based fungicides for organic gardening and synthetic fungicides such as triazoles, strobilurins, demethylation inhibitors (DMIs and quaternary ammonium Compounds. \nFollow label instructions for proper usage and safety precautions."
+        }
+      ],
+      "host": [
+        "artichoke",
+        "eggplant",
+        "pepper",
+        "tomatillo",
+        "tomato",
+        "various vegetables and melons"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/33_l/og/9077261153_b358d0a039_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/33_l/regular/9077261153_b358d0a039_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/33_l/medium/9077261153_b358d0a039_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/33_l/small/9077261153_b358d0a039_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/33_l/thumbnail/9077261153_b358d0a039_b.jpg"
+        },
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/33_l/og/9079471996_fd4f225fd3_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/33_l/regular/9079471996_fd4f225fd3_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/33_l/medium/9079471996_fd4f225fd3_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/33_l/small/9079471996_fd4f225fd3_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/33_l/thumbnail/9079471996_fd4f225fd3_b.jpg"
+        },
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/33_leveillula_taurica/og/9077261153_b358d0a039_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/33_leveillula_taurica/regular/9077261153_b358d0a039_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/33_leveillula_taurica/medium/9077261153_b358d0a039_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/33_leveillula_taurica/small/9077261153_b358d0a039_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/33_leveillula_taurica/thumbnail/9077261153_b358d0a039_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1719,
+      "species_id": 203,
+      "common_name": "Bush's Electra Deodar Cedar",
+      "scientific_name": [
+        "Cedrus deodara 'Bush's Electra'"
+      ],
+      "section": [
+        {
+          "id": 5362,
+          "type": "watering",
+          "description": "A Bush's Electra Deodar Cedar should be watered thoroughly at least once a week, during the spring and summer months, and about every 2 weeks in the fall and winter. During the growing season, water deeply until the soil is moist. Avoid over-watering as too much moisture can damage the roots, leading to root rot. Let the soil partially dry out before watering again to avoid root rot. In the dry winter months, the soil should be kept slightly moist to ensure the healthy growth of the bush."
+        },
+        {
+          "id": 5363,
+          "type": "sunlight",
+          "description": "Bush's Electra Deodar Cedar (Cedrus deodara 'Bush's Electra') is a medium-growing evergreen tree that thrives in full sun. It should be planted in a location that receives at least 6 to 8 hours of direct sunlight daily. When in full sun, this plant species is able to produce the best color and form. Partial shade will result in a lesser effect. Additionally, during summer months plants should be provided with protection from scorching afternoon sun to reduce stress and yellowing of the foliage."
+        },
+        {
+          "id": 5364,
+          "type": "pruning",
+          "description": "Bush's Electra Deodar Cedar (Cedrus deodara 'Bush's Electra') requires light to moderate pruning each year, usually during the late winter or early spring, when the plant is not actively growing. Removal of any dead, sick, or overcrowded branches should always be the first priority. To maintain its natural shape, only remove a few lower-hanging branches each year. Additionally, it should be trimmed up and back to promote a dense, conical shape, if desired. Over-pruning can inhibit new growth and should be avoided."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

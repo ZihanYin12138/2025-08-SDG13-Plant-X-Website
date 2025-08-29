@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": 35,
+      "common_name": "Ash dieback",
+      "scientific_name": "Botryosphaeria stevensii",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Ash dieback (Botryosphaeria stevensii)?",
+          "description": "Raywood ash canker and dieback, caused by Botryosphaeria stevensii, is a condition affecting Raywood ash (Fraxinus oxycarpa 'Raywood'). It primarily occurs in regions with stressful growing conditions and insufficient soil moisture. Symptoms include dieback of multiple branches, yellowing, wilting, and browning of foliage. Infected limbs develop reddish-brown cankers, with bark cracking and sloughing off. While entire trees are not typically killed, the dead limbs pose a hazard. Raywood ash canker and decline is mainly found in northern California but may occur in other areas. "
+        },
+        {
+          "subtitle": "How does Ash dieback (Botryosphaeria stevensii) occur? ",
+          "description": "Botryosphaeria stevensii reproduces asexually through the production of conidia. These spores are dispersed by air or rainwater. When conditions are suitable, such as during periods of stress or drought, the spores infect Raywood ash trees. The fungus colonizes the host tissues, causing canker formation, limb dieback, and decline. The disease spreads through infected plant material and contact with contaminated tools."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Monitoring and Stress Management ",
+          "description": "•\tMinimize environmental stressors, particularly drought conditions, by ensuring sufficient soil moisture and implementing proper irrigation practices.\n•\tRegular monitoring of ash trees for symptoms of Ash dieback is crucial. Prompt identification of infected trees allows for early management and containment efforts.\n"
+        },
+        {
+          "subtitle": "Quarantine and movement restrictions",
+          "description": "Implementing strict quarantine measures and restrictions on the movement of infected plant material, including ash trees, logs, and wood products, can help prevent the introduction and spread of diseases to new areas."
+        },
+        {
+          "subtitle": "Sanitation and hygiene practices",
+          "description": "Proper sanitation and hygiene practices, such as cleaning and disinfecting tools and equipment, can help prevent the inadvertent spread of pathogens between trees, sites, or regions."
+        },
+        {
+          "subtitle": "Resistant Cultivars",
+          "description": " Consider planting alternative species to be resistant to Raywood ash canker and decline."
+        },
+        {
+          "subtitle": "Chemical control",
+          "description": "Chemical control for ash dieback is challenging and not widely recommended. However, tebuconazole is a systemic fungicide that has been used to reduce the progression of the disease."
+        }
+      ],
+      "host": [
+        "ash"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/35_botryosphaeria_stevensii/og/1346px-Anthracnose_-_canker_-_Baumkrebs_-_Pflanzenkrebs_-_Chancre_-_antracnosis_-_01a.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/35_botryosphaeria_stevensii/regular/1346px-Anthracnose_-_canker_-_Baumkrebs_-_Pflanzenkrebs_-_Chancre_-_antracnosis_-_01a.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/35_botryosphaeria_stevensii/medium/1346px-Anthracnose_-_canker_-_Baumkrebs_-_Pflanzenkrebs_-_Chancre_-_antracnosis_-_01a.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/35_botryosphaeria_stevensii/small/1346px-Anthracnose_-_canker_-_Baumkrebs_-_Pflanzenkrebs_-_Chancre_-_antracnosis_-_01a.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/35_botryosphaeria_stevensii/thumbnail/1346px-Anthracnose_-_canker_-_Baumkrebs_-_Pflanzenkrebs_-_Chancre_-_antracnosis_-_01a.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/35_botryosphaeria_stevensii/og/1536px-Ruhland2C_Bahndamm-Parallelweg_West2C_Wald_nordwestlich_der_SchwarzwasserbrC3BCcke2C_Baumkrebs_an_Stieleiche2C_Vorwinter2C_02.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/35_botryosphaeria_stevensii/regular/1536px-Ruhland2C_Bahndamm-Parallelweg_West2C_Wald_nordwestlich_der_SchwarzwasserbrC3BCcke2C_Baumkrebs_an_Stieleiche2C_Vorwinter2C_02.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/35_botryosphaeria_stevensii/medium/1536px-Ruhland2C_Bahndamm-Parallelweg_West2C_Wald_nordwestlich_der_SchwarzwasserbrC3BCcke2C_Baumkrebs_an_Stieleiche2C_Vorwinter2C_02.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/35_botryosphaeria_stevensii/small/1536px-Ruhland2C_Bahndamm-Parallelweg_West2C_Wald_nordwestlich_der_SchwarzwasserbrC3BCcke2C_Baumkrebs_an_Stieleiche2C_Vorwinter2C_02.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/35_botryosphaeria_stevensii/thumbnail/1536px-Ruhland2C_Bahndamm-Parallelweg_West2C_Wald_nordwestlich_der_SchwarzwasserbrC3BCcke2C_Baumkrebs_an_Stieleiche2C_Vorwinter2C_02.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1613,
+      "species_id": 78,
+      "common_name": "Margaret Bee Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Margaret Bee'"
+      ],
+      "section": [
+        {
+          "id": 5044,
+          "type": "watering",
+          "description": "The Margaret Bee Japanese Maple requires regular watering throughout the growing season and slightly less water when dormant in the winter. During the warm summer months, the tree should be watered deeply once a week and up to every other day in extreme heat. In the Winter, water should be reduced to weekly or bi-weekly, but ensure the soil doesn't dry out completely. During any season, be sure to pay attention to the soil condition and check it regularly to make sure it is not too dry or too wet."
+        },
+        {
+          "id": 5045,
+          "type": "sunlight",
+          "description": "Margaret Bee Japanese Maple (Acer palmatum 'Margaret Bee') should be planted in an area with partial shade and not in direct sunlight. It thrives best in morning sunlight and light afternoon shade. During the summer, more shade is desired and during the winter season more direct sunlight would be beneficial. It can tolerate up to 4 hours of direct sunlight or some dappled sunlight throughout the day, but any more may burn its delicate leaves."
+        },
+        {
+          "id": 5046,
+          "type": "pruning",
+          "description": "When pruning a Margaret Bee Japanese maple it is recommended to prune the tree in late spring or early summer after flowering has finished. You only need to remove dead, damaged, or diseased wood. Remove any branches that are crossing or rubbing against each other. Remove any branches that are too close to the center of the tree and those that are too long and have grown beyond the desired size or shape. Prune the tree lightly every year, removing no more than 1/3 of the growth in a year. This technique can help ensure the growth of healthy branches. Remove all foliage if the leaves are discolored or diseased. When you're finished, carefully inspect the tree for any damaged limbs, and trim them as needed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

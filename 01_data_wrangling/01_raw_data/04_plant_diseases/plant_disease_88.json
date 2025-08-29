@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 88,
+      "common_name": "Bacterial soft rot",
+      "scientific_name": "Erwinia carotovora",
+      "other_name": [
+        "Bacterial soft rot and blackleg",
+        "Seed piece decay"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Bacterial soft rot (Erwinia carotovora)?",
+          "description": "Bacterial soft rot, caused by Erwinia carotovora, is a plant disease affecting various fruits and vegetables. It is distributed worldwide and can infect a wide range of host plants. Symptoms include soft, watery decay of taproots, often leaving the outer layer intact, accompanied by a foul odor. Aboveground signs may include yellowing, wilting, and collapse of foliage."
+        },
+        {
+          "subtitle": "How does Bacterial soft rot (Erwinia carotovora) occur?",
+          "description": "Soft rot and blackleg-causing bacteria enter tubers through pores, waterlogged tissues, stem ends, and wounds. Infected vines spread bacteria to new tubers through soil water. Bacteria persist in soil, plant debris, and seed tubers. Infection happens through wounds or contaminated seed pieces. Moist conditions on wounded tissue enable infection, while high humidity and warm temperatures promote disease progression."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Methods and Preventions",
+          "description": "•\tRotate planting locations annually to minimize the buildup of bacterial pathogens in the soil. Additionally, control weeds, especially nightshades and buffalo bur.\n\n•\tChoose well-drained sites and avoid practices that lead to water accumulation, as excess moisture encourages disease development. In addition, keep the storage well-ventilated.\n\n•\tOpt for certified disease-free seed pieces of high quality, as they are less likely to develop blackleg in the field.\n\n•\tHarvest mature tubers with set skin, instead of cutting pieces to minimize decay and potential entry points for bacteria whenever possible. Furthermore, pack tubers in ventilated bags with air holes.\n\n•\tStore seeds at 40°F (4°C) and allow them to warm up at 65-70°F (18-21°C) for 2 to 3 weeks before planting. If using cut seed pieces, plant them immediately into warm and moist soil.\n"
+        }
+      ],
+      "host": [
+        "carrot",
+        "potato"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/88_erwinia_carotovora/og/39935058221_6fde99b08e_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/88_erwinia_carotovora/regular/39935058221_6fde99b08e_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/88_erwinia_carotovora/medium/39935058221_6fde99b08e_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/88_erwinia_carotovora/small/39935058221_6fde99b08e_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/88_erwinia_carotovora/thumbnail/39935058221_6fde99b08e_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

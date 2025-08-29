@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "id": 42,
+      "common_name": "Dothiorella canker",
+      "scientific_name": "Botryosphaeria spp.",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What are Branch canker and dieback (Botryosphaeria spp.)?",
+          "description": "Branch canker and dieback Formerly known as Dothiorella Canker, caused by the fungi Botryosphaeria spp. and Phomopsis, is a plant disease that affects woody hosts like avocado trees. It forms cankers on limbs and trunks, leading to symptoms such as reddish sap exudation, cracked and discolored bark, and cankers that penetrate the xylem. Additionally, it can cause shoot blight, leaf scorch, and stem end rot on fruit. "
+        },
+        {
+          "subtitle": "How do Branch canker and dieback (Botryosphaeria spp.) occur?",
+          "description": "Branch canker and dieback are reproduced through spores produced by fungi. These spores enter plants through pruning wounds. Spread occurs through the air dispersal of spores and rain or irrigation splash. Pycnidia, spore-forming structures, on dead wood can also contribute to disease transmission. Pruning activities and environmental factors, such as heavy rainfall and stress, can increase dissemination and infection. "
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Control Measures",
+          "description": "•\tImplement sanitation measures, disinfect material, and treat graft unions.\n\n•\tProper irrigation techniques, planting high-quality material, and maintaining good tree nutrition can prevent plant stress and infection.\n\n•\tExcessive pruning should be avoided and done only during dry weather using clean tools.\n\n"
+        },
+        {
+          "subtitle": "Physical Control and Management",
+          "description": "•\tInfected plant material should be removed and destroyed, and pruning wounds should be avoided or minimized.\n\n•\tAddress and correct environmental and nutritional stresses in the trees. Ensure proper irrigation practices, including periodic soil leaching and using low salinity water if necessary.\n"
+        },
+        {
+          "subtitle": "3.\tChemical Control Measures",
+          "description": "•\tFungicides commonly used include Difenoconazole, Myclobutanil, Thiophanate-methyl, Tebuconazole, and Propiconazole, but their use should be determined by a professional.\n\n•\tFungicides with different modes of action should be rotated to prevent resistance.\n\n•\tFungicides should only be used as a supplement to cultural and physical control measures.\n"
+        }
+      ],
+      "host": [
+        "avocado"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/42_botryosphaeria_spp/og/15117960869_215abc3ca7_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/42_botryosphaeria_spp/regular/15117960869_215abc3ca7_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/42_botryosphaeria_spp/medium/15117960869_215abc3ca7_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/42_botryosphaeria_spp/small/15117960869_215abc3ca7_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/42_botryosphaeria_spp/thumbnail/15117960869_215abc3ca7_b.jpg"
+        },
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/42_botryosphaeria_spp/og/9611233554_28393275d0_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/42_botryosphaeria_spp/regular/9611233554_28393275d0_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/42_botryosphaeria_spp/medium/9611233554_28393275d0_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/42_botryosphaeria_spp/small/9611233554_28393275d0_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/42_botryosphaeria_spp/thumbnail/9611233554_28393275d0_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

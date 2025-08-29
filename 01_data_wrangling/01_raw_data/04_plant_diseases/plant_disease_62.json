@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "id": 62,
+      "common_name": "Spring dead spot",
+      "scientific_name": "Ophiosphaerella korrae",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Spring dead spot (Ophiosphaerella korrae)?",
+          "description": "Spring dead spot is a fungal disease caused by the fungus Ophiosphaerella korrae, which affects couch grass (also known as Bermuda grass, Cynodon spp.). It manifests as bleached patches in lawns, ranging from small areas to large patches over a meter in diameter during the turf's regrowth in spring. The pathogen targets and damages the roots, stolons, and rhizomes of the grass, leading to decay and delayed recovery."
+        },
+        {
+          "subtitle": "How does Spring dead spot (Ophiosphaerella korrae) occur?",
+          "description": "Spring dead spot is caused by a pathogen that survives in debris like old thatch and roots as fungal threads and small, hard sclerotia. It spreads through sclerotia, infected plant parts, and infested sod. In late summer or fall, initial infections of new tissue occur when air temperatures are around 70°F to 75°F. During bermudagrass dormancy with temperatures of 50°F to 60°F or lower, the fungus continues to harm the affected tissue. Visible damage becomes apparent when bermudagrass emerges from dormancy."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices ",
+          "description": "•\tUse clean sod from unaffected areas and irrigate based on evapotranspiration needs.\n•\tRegularly dethatch and maintain the proper mowing height to discourage disease progression.\n•\tApply potassium fertilizers in the fall for winter hardiness. Adjust nitrogen applications to reduce disease severity.\n•\t Replant dead areas with new grass or overseed with ryegrass. Manage mowing height and irrigation during pre-dormancy.\n•\tMaintain slightly acidic soil pH. Use ammonium-based nitrogen sources.\n"
+        },
+        {
+          "subtitle": "Biological Control",
+          "description": " Certain species of Trichoderma fungi have shown potential as biocontrol agents against Ophiosphaerella korrae. These fungi can help suppress the growth and spread of the pathogen by competing for resources and producing antifungal compounds."
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "There are various fungicides available to control  Ophiosphaerella korrae including  AZOXYSTROBIN (Heritage) MYCLOBUTANIL (Eagle 20EW) PROPICONAZOLE (Banner Maxx ). \n\nPlease refer to the fungicide labels and consult with local experts for precise instructions and suitability for your specific region and situation."
+        }
+      ],
+      "host": [
+        "bermudagrass",
+        "seashore paspalum",
+        "zoysiagrass"
+      ],
+      "images": []
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

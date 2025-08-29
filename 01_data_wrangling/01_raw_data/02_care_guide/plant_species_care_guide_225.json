@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1739,
+      "species_id": 225,
+      "common_name": "Compact Hinoki Falsecypress",
+      "scientific_name": [
+        "Chamaecyparis obtusa 'Compacta'"
+      ],
+      "section": [
+        {
+          "id": 5422,
+          "type": "watering",
+          "description": "This plant species prefers moist, well-draining soil and should be watered at least once a week, preferably twice a week. Water deeply, ensuring the entire root zone has been adequately moistened. Water early in the day to avoid foliar scorch caused by hot afternoon sun. During hot, dry weather more frequent watering or misting may be needed to help keep soil from drying out and the plant from wilting."
+        },
+        {
+          "id": 5423,
+          "type": "sunlight",
+          "description": "Compact Hinoki Falsecypress plants prefer full sun or partial shade, although they thrive best in areas with moderate to bright sunlight. In general, they can tolerate up to 5 or 6 hours of direct sunlight a day. While they can withstand periods of brief full afternoon sun, it is best to provide them with abundant morning sun and light afternoon shade for optimal growth and health."
+        },
+        {
+          "id": 5424,
+          "type": "pruning",
+          "description": "Compact Hinoki Falsecypress should be pruned in late spring or early summer, when new growth has appeared. Start by removing any dead, diseased, or damaged branches to maintain a healthy plant. Next, cut back any overgrown branches to maintain a desired size and shape. You can also thin out dense inner foliage to promote better air circulation and allow sunlight to reach the inner foliage. Make sure to use sharp pruning shears, always cutting at a downward, outward angle, 1/4 inch above a bud or branch fork. Avoid pruning too much at once, as over-pruning can damage the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

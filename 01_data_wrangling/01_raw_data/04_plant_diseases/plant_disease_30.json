@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "id": 30,
+      "common_name": "Powdery mildew",
+      "scientific_name": "Sphaerotheca pannosa",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Powdery mildew (Sphaerotheca pannosa var.rosae)?",
+          "description": "Powdery mildew is a fungal disease that commonly affects roses. Sphaerotheca pannosa var. rosae is one of the fungal species responsible for powdery mildew on roses. It is found worldwide in temperate and warm climates. Infected plants display a white or grayish powdery growth on leaves, stems, and buds. Leaves may turn yellow or brown, become wrinkled, and eventually wither. Additionally, it can distort the appearance of flowers and hinder the growth of new rose buds."
+        },
+        {
+          "subtitle": "How does Powdery mildew (Sphaerotheca pannosa)occur",
+          "description": "Powdery mildew begins with fungal spores in favorable conditions. It spreads through airborne spores or contact with infected plants. It prefers moderate temperatures, high humidity, and limited air circulation. Spores landing on susceptible plants germinate, forming a white or grayish powdery growth on leaves, stems, and buds. The cycle repeats as spores are released, infecting other plants and perpetuating the disease."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Fertilization and Plant Selection",
+          "description": " Maintain optimal plant nutrition through regular fertilization and proper care practices Choose resistant varieties or cultivars that are less susceptible to powdery mildew."
+        },
+        {
+          "subtitle": "Pruning and Sunlight exposure",
+          "description": "Prune to improve air circulation and remove crowded growth. Position in areas with sufficient sunlight exposure to promote plant vigor and discourage powdery mildew development."
+        },
+        {
+          "subtitle": "Watering Techniques and Good Sanitation",
+          "description": "Avoid overhead watering, as wet foliage can create favorable conditions for powdery mildew. Instead, water at the base of the plants early in the day to allow leaves to dry. Practice sanitation by removing and disposing of infected plant debris to prevent fungus overwintering."
+        },
+        {
+          "subtitle": " Natural remedies",
+          "description": " Some organic solutions like neem oil, sulfur, or baking soda sprays may help prevent or control powdery mildew. Follow instructions and apply these remedies as directed."
+        },
+        {
+          "subtitle": "Biological fungicides ",
+          "description": "Some biological products containing beneficial microorganisms like Bacillus subtilis or specific strains of fungi like Trichoderma spp. can help suppress powdery mildew. These products work by competing with the pathogen or inducing plant defence mechanisms."
+        },
+        {
+          "subtitle": "Chemical control",
+          "description": "In severe cases, Options include sulfur-based fungicides for organic gardening and synthetic fungicides such as triazoles, strobilurins, and demethylation inhibitors (DMIs). Consult local gardening or agricultural authorities for recommended fungicides and application timings."
+        }
+      ],
+      "host": [
+        "apricot",
+        "nectarine",
+        "peach",
+        "plum",
+        "various trees and shrubs"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/30_s/og/5832752111_ae2df1c129_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/30_s/regular/5832752111_ae2df1c129_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/30_s/medium/5832752111_ae2df1c129_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/30_s/small/5832752111_ae2df1c129_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/30_s/thumbnail/5832752111_ae2df1c129_b.jpg"
+        },
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/30_s/og/5832751797_cfc0c9c0ca_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/30_s/regular/5832751797_cfc0c9c0ca_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/30_s/medium/5832751797_cfc0c9c0ca_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/30_s/small/5832751797_cfc0c9c0ca_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/30_s/thumbnail/5832751797_cfc0c9c0ca_b.jpg"
+        },
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/30_sphaerotheca_pannosa/og/5832752111_ae2df1c129_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/30_sphaerotheca_pannosa/regular/5832752111_ae2df1c129_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/30_sphaerotheca_pannosa/medium/5832752111_ae2df1c129_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/30_sphaerotheca_pannosa/small/5832752111_ae2df1c129_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/30_sphaerotheca_pannosa/thumbnail/5832752111_ae2df1c129_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

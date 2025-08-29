@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1652,
+      "species_id": 122,
+      "common_name": "Shinobuga Oka Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Shinobuga Oka'"
+      ],
+      "section": [
+        {
+          "id": 5161,
+          "type": "watering",
+          "description": "Shinobuga Oka Japanese Maple (Acer palmatum 'Shinobuga Oka') requires moist soil to thrive. Water regularly during the growing season, allowing the top 3 to 4 inches of soil to dry out slightly between waterings. During the hotter months of summer, water deeply once a week. During the winter, reduce watering to only once or twice a month."
+        },
+        {
+          "id": 5162,
+          "type": "sunlight",
+          "description": "Shinobuga Oka Japanese maple is a slow growing small tree with lovely foliage and bright red foliage in the autumn season. This tree species prefers full sun to part shade and is especially heat tolerant. It is recommended to give the Shinobuga Oka Japanese maple at least 6 hours of direct sunlight each day to ensure it grows and flourishes properly. For optimal growth, the tree should receive direct sunlight during the peak part of the day, usually the early afternoon. "
+        },
+        {
+          "id": 5163,
+          "type": "pruning",
+          "description": "Shinobuga Oka Japanese Maple should be pruned in late winter or early spring before new growth begins. Generally, light pruning is recommended to maintain the size and shape of the tree as well as for developing a pleasing branch structure. Branches that cross and rub should also be removed for better air circulation. To maintain a good form, a few of the larger branches may need to be pruned back to their point of origin. This helps to open up the inner part of the tree. Avoid cutting off more than 1-third of the tree in any season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

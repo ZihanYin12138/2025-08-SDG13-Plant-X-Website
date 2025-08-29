@@ -1,0 +1,106 @@
+{
+  "id": 30,
+  "common_name": "Ao Shime No Uchi Japanese Maple",
+  "scientific_name": [
+    "Acer palmatum 'Ao Shime No Uchi'"
+  ],
+  "other_name": [],
+  "family": null,
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Ao Shime No Uchi",
+  "variety": null,
+  "species_epithet": "palmatum",
+  "genus": "Acer",
+  "origin": [
+    "Japan"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 10,
+      "max_value": 10,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=30&size=og&key=sk-3ksU68b046f66e1f912089",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=30&size=og&key=sk-3ksU68b046f66e1f912089'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=30&key=sk-3ksU68b046f66e1f912089",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": false,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Ao Shime No Uchi Japanese Maple (Acer palmatum 'Ao Shime No Uchi') is a stunning plant, with a profusion of eye-catching colors. Its history dates back to Japan, where it is still highly popular. The cascading leaves display an array of colors—from bright pink in spring, turning into light green and yellow in summer, then shades of cream and golden yellow in autumn. During the summer, the naturally compact growth and foliage of this dwarf tree create an enchanting feature in your garden. With striking beauty and an irresistible shape to its leaves, it is no wonder why Ao Shime No Uchi Japanese Maple is such an amazing addition to any garden.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/30_acer_palmatum_ao_shime_no_uchi/og/Acer_palmatum_Ao_shime_no_uchi_3zz.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/30_acer_palmatum_ao_shime_no_uchi/regular/Acer_palmatum_Ao_shime_no_uchi_3zz.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/30_acer_palmatum_ao_shime_no_uchi/medium/Acer_palmatum_Ao_shime_no_uchi_3zz.jpg",
+    "small_url": "https://perenual.com/storage/species_image/30_acer_palmatum_ao_shime_no_uchi/small/Acer_palmatum_Ao_shime_no_uchi_3zz.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/30_acer_palmatum_ao_shime_no_uchi/thumbnail/Acer_palmatum_Ao_shime_no_uchi_3zz.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

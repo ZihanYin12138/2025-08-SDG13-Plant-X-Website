@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 999,
+      "species_id": 277,
+      "common_name": "Japanese Blueberry Tree",
+      "scientific_name": [
+        "Elaeocarpus decipiens"
+      ],
+      "section": [
+        {
+          "id": 2996,
+          "type": "watering",
+          "description": "Japanese Blueberry Tree should be watered deeply and thoroughly once every 7-14 days during the summer months when temperatures are higher. It should be watered less frequently in the winter. When watering, give the root system of the tree an inch of water at each watering. Be sure to avoid over-watering as this can cause root rot or other fungal diseases. Soils that are moist but well draining are the best for this plant species."
+        },
+        {
+          "id": 3004,
+          "type": "sunlight",
+          "description": "Japanese Blueberry Tree requires partial shade to full sun exposure for best growth which means it ideally needs around 4 to 6 hours of direct sunlight per day. This species does best when exposed to morning sun and shade from the hottest part of the afternoon sun. With part shade and part sun, this species can easily tolerate a more intense sun, but providing some breaks in the day is beneficial to keep it healthy and avoid leaf burn."
+        },
+        {
+          "id": 3011,
+          "type": "pruning",
+          "description": "Pruning of the Japanese Blueberry Tree is usually done in late fall or early winter (early November to February in most climates) when the tree is dormant. Pruning should be done judiciously and with an eye toward the desired shape of the tree. Large limbs should be removed first, then branches that are diseased or interfering with the desired shape of the tree. If there is an excessive amount of regrowth, generally no more than 25% of the total tree should be pruned in 1 year for most species. Additionally, it is important to make sure each pruning cut is made cleanly and flush with the trunk or another limb."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

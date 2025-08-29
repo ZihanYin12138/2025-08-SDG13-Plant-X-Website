@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 44,
+      "species_id": 2,
+      "common_name": "Pyramidalis Silver Fir",
+      "scientific_name": [
+        "Abies alba 'Pyramidalis'"
+      ],
+      "section": [
+        {
+          "id": 139,
+          "type": "watering",
+          "description": "Water your Pyramidalis Silver Fir when the soil appears dry to the touch. The amount of water you give the plant will depend on the area's climate and the pot size in which it is growing. Generally, a good rule of thumb is to water the plant about every 7 to 10 days, giving it an inch (2 cm) of water at a time. If the weather is very hot and dry, you may wish to water the plant more often."
+        },
+        {
+          "id": 140,
+          "type": "sunlight",
+          "description": "Pyramidalis Silver Fir Abies Alba 'Pyramidalis' will thrive in full sun, meaning 6 or more hours of direct sunlight each day. This species does best in bright, sunny locations, as it will not tolerate shade. It is important to provide it with the proper amount of light throughout the year, as too little sunlight can lead to stunted growth. During the summer months, it should receive full sun all day, while in the winter months it should receive at least 4 hours of direct sunlight each day."
+        },
+        {
+          "id": 141,
+          "type": "pruning",
+          "description": "Pruning Pyramidalis Silver Fir Abies Alba 'Pyramidalis' should be done in late winter or early spring. When pruning, the goal should be to maintain the natural pyramidal shape of the tree. Remove any broken or dead branches, as well as any branches that are crossing or rubbing. Be sure to remove any branches that are growing inward toward the center of the tree. It is best to prune only small amounts at a time, removing no more than one-third of the tree’s foliage. This will ensure that the tree remains healthy and vigorous."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
