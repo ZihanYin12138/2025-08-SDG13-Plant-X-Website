@@ -1,85 +1,31 @@
 <script setup>
-import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
+import ThemeToggle from './components/ThemeToggle.vue'
+
 </script>
 
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-
-      <nav>
+  <header class="section" style="padding: .75rem 0; border-bottom: 1px solid color-mix(in oklab, var(--fg) 10%, transparent); position: sticky; top: 0; background: var(--bg); z-index: 50;">
+    <div class="container" style="display:flex; align-items:center; gap:.75rem;">
+      <RouterLink to="/" style="font-weight: 800;">Plant'X</RouterLink>
+      <nav style="margin-left:auto; display:flex; gap:.75rem;">
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
+        <RouterLink to="/garden">Garden</RouterLink>
+        <RouterLink to="/urbanwild">Urban & Wild</RouterLink>
+        <RouterLink to="/community">Community</RouterLink>
       </nav>
+      <ThemeToggle />
     </div>
   </header>
 
-  <RouterView />
+  <main class="container" style="padding: 1.25rem 1rem;">
+    <RouterView v-slot="{ Component, route }">
+    <Transition name="page" :duration="{ enter: 200, leave: 150 }">
+      <component :is="Component" :key="route.fullPath" />
+    </Transition>
+    </RouterView>
+  </main>
+
+  <footer class="section" style="border-top: 1px solid color-mix(in oklab, var(--fg) 10%, transparent); color: var(--muted);">
+    <div class="container">© {{ new Date().getFullYear() }} Plant'X</div>
+  </footer>
 </template>
-
-<style scoped>
-header {
-  line-height: 1.5;
-  max-height: 100vh;
-}
-
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
-
-nav {
-  width: 100%;
-  font-size: 12px;
-  text-align: center;
-  margin-top: 2rem;
-}
-
-nav a.router-link-exact-active {
-  color: var(--color-text);
-}
-
-nav a.router-link-exact-active:hover {
-  background-color: transparent;
-}
-
-nav a {
-  display: inline-block;
-  padding: 0 1rem;
-  border-left: 1px solid var(--color-border);
-}
-
-nav a:first-of-type {
-  border: 0;
-}
-
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
-
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
-
-  nav {
-    text-align: left;
-    margin-left: -1rem;
-    font-size: 1rem;
-
-    padding: 1rem 0;
-    margin-top: 1rem;
-  }
-}
-</style>
