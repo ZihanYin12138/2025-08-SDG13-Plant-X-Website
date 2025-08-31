@@ -1,0 +1,144 @@
+{
+  "id": 368,
+  "common_name": "Jonagold Apple",
+  "scientific_name": [
+    "Malus 'Jonagold'"
+  ],
+  "other_name": [],
+  "family": "Rosaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Jonagold",
+  "variety": null,
+  "species_epithet": "'Jonagold'",
+  "genus": "Malus",
+  "origin": [
+    "Belgium",
+    "Netherlands",
+    "Luxembourg",
+    "Germany"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 20,
+      "max_value": 20,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds",
+    " Hummingbirds",
+    " Butterflies"
+  ],
+  "propagation": [
+    "Grafting Propagation",
+    "Budding",
+    "Layering Propagation",
+    "Budding",
+    "Budding",
+    "Whip Grafting Propagation",
+    "Cleft Grafting Propagation",
+    "Budding",
+    "Inarching"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=368&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=368&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "branch",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "fruits",
+      "color": [
+        "pink-red"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "February",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "High",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=368&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": true,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The Jonagold Apple is an amazing and delicious apple variety! It is one of the most popular and sought-after apple varieties in the world, due to its sweet and crisp texture. Its golden yellow and bright red skin is filled with white, crunchy flesh and sweet-tart apple flavor. It is great for eating fresh, cooked in pie or crisp, or dried. Jonagold apples are a great source of dietary fiber and vitamin C, making it a great choice for a healthy snack. Its flavor is so unforgettable that it is sure to satisfy any apple lover!",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/368_malus_jonagold/og/3968289043_ec00297a19_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/368_malus_jonagold/regular/3968289043_ec00297a19_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/368_malus_jonagold/medium/3968289043_ec00297a19_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/368_malus_jonagold/small/3968289043_ec00297a19_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/368_malus_jonagold/thumbnail/3968289043_ec00297a19_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

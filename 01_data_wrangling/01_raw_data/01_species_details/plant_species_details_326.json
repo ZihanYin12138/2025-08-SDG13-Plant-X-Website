@@ -1,0 +1,137 @@
+{
+  "id": 326,
+  "common_name": "Yellow Variegated Tuliptree",
+  "scientific_name": [
+    "Liriodendron tulipifera 'Aureomarginatum'"
+  ],
+  "other_name": [
+    "Tulip Magnolia",
+    "Yellow Poplar",
+    "Whitewood"
+  ],
+  "family": "Magnoliaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Aureomarginatum",
+  "variety": null,
+  "species_epithet": "tulipifera",
+  "genus": "Liriodendron",
+  "origin": [
+    "Eastern North America"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 90,
+      "max_value": 90,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds",
+    " Hummingbirds"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "5"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=326&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=326&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "branches",
+      "color": [
+        "dark-brown",
+        "brown"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green-white",
+        "white-green"
+      ]
+    },
+    {
+      "part": "trunk",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=326&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Loamy Humus"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Anthracnose",
+    " Fungal leaf spot",
+    " Root rot"
+  ],
+  "flowers": true,
+  "flowering_season": "Summer",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "TheYellow Variegated Tuliptree is an amazing plant species due to its beautiful and vibrant golden-yellow color. This deciduous tree is native to the east coast of North America and is extremely hardy, flourishing in a wide range of climates. The elegant tulip-shaped leaves are spectacular when the sun shines and is known for it's striking autumn foliage which includes yellow, orange and reddish hues. It is also easy to maintain, requiring minimal pruning and watering. All of these features make it an aesthetically pleasing and stress-free garden addition.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/326_liriodendron_tulipifera_aureomarginatum/og/5868813038_0c152d9e15_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/326_liriodendron_tulipifera_aureomarginatum/regular/5868813038_0c152d9e15_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/326_liriodendron_tulipifera_aureomarginatum/medium/5868813038_0c152d9e15_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/326_liriodendron_tulipifera_aureomarginatum/small/5868813038_0c152d9e15_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/326_liriodendron_tulipifera_aureomarginatum/thumbnail/5868813038_0c152d9e15_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

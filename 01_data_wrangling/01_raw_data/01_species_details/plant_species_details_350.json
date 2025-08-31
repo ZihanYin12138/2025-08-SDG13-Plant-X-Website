@@ -1,0 +1,134 @@
+{
+  "id": 350,
+  "common_name": "Rustica Rubra Magnolia",
+  "scientific_name": [
+    "Magnolia x soulangeana 'Rustica Rubra'"
+  ],
+  "other_name": [],
+  "family": "Magnoliaceae",
+  "hybrid": "soulangeana",
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Rustica Rubra",
+  "variety": null,
+  "species_epithet": null,
+  "genus": "Magnolia",
+  "origin": [
+    "Garden origin (M. denudata x M. liliiflora)"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 30,
+      "max_value": 30,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=350&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=350&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flower",
+      "color": [
+        "pink-white"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "dark-green"
+      ]
+    },
+    {
+      "part": "twigs",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=350&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Acidic",
+    " Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Anthracnose",
+    " Bacterial leaf spot",
+    " Dieback",
+    " Scale insects"
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Rustica Rubra Magnolia is a spectacular deciduous species suited for larger garden and park settings. Boasting long-lasting deep pink, upright-cupped flowers, this Magnolia is distinctively beautiful and eye-catching. Its huge petals have a large velvet interior, perfect to attract beneficial pollinators. Its broad shape provides ample shade and its evergreen foliage is a great year-round feature. Rustica Rubra Magnolia is finally rot and disease-free, making it perfect for a drought-prone area. It is also highly adaptable to different soil types. All in all, Rustica Rubra Magnolia is an excellent choice of plant for the budding gardener and an amazing addition to the garden.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/350_magnolia_x_soulangeana_rustica_rubra/og/9252384031_bb4ecbfc97_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/350_magnolia_x_soulangeana_rustica_rubra/regular/9252384031_bb4ecbfc97_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/350_magnolia_x_soulangeana_rustica_rubra/medium/9252384031_bb4ecbfc97_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/350_magnolia_x_soulangeana_rustica_rubra/small/9252384031_bb4ecbfc97_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/350_magnolia_x_soulangeana_rustica_rubra/thumbnail/9252384031_bb4ecbfc97_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

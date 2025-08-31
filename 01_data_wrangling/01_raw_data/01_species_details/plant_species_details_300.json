@@ -1,0 +1,122 @@
+{
+  "id": 300,
+  "common_name": "Saratoga Ginkgo",
+  "scientific_name": [
+    "Ginkgo biloba 'Saratoga'"
+  ],
+  "other_name": [
+    "Maidenhair Tree",
+    "ginkgo"
+  ],
+  "family": "Ginkgoaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Saratoga",
+  "variety": null,
+  "species_epithet": "biloba",
+  "genus": "Ginkgo",
+  "origin": [
+    "Southern China"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 70,
+      "max_value": 70,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Greenwood Cuttings",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "4"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=300&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=300&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "May"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=300&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Fungal leaf spot",
+    " Nematodes",
+    " Root rot",
+    "  Pest resistant",
+    " Disease resistant",
+    " Deer resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Saratoga Ginkgo (Ginkgo biloba 'Saratoga') is a truly remarkable plant. It is known for its bright yellow fall foliage, adding an eye-catching pop of color when other plants are fading. Its fan-shaped leaves are distinct and make it stand out from other trees. Plus, it is known to be resistant to almost all pests and diseases, making it an ideal specimen for any garden. Its wide fan shape provides good shade, but allows light in. It's low maintenance, drought tolerant, and very easy to grow. Saratoga Ginkgo stands out among other plants and is a great addition to any landscape.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/300_ginkgo_biloba_saratoga/og/28520280130_eefbda4bfb_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/300_ginkgo_biloba_saratoga/regular/28520280130_eefbda4bfb_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/300_ginkgo_biloba_saratoga/medium/28520280130_eefbda4bfb_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/300_ginkgo_biloba_saratoga/small/28520280130_eefbda4bfb_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/300_ginkgo_biloba_saratoga/thumbnail/28520280130_eefbda4bfb_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

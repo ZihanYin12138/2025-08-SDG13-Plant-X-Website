@@ -1,0 +1,127 @@
+{
+  "id": 311,
+  "common_name": "Blue Star Juniper",
+  "scientific_name": [
+    "Juniperus squamata 'Blue Star (tree form)'"
+  ],
+  "other_name": [
+    "Singleseed Juniper",
+    "Blue Star juniper"
+  ],
+  "family": "Cupressaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Blue Star (tree form)",
+  "variety": null,
+  "species_epithet": "squamata",
+  "genus": "Juniperus",
+  "origin": [
+    "Central",
+    "west Asia"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 6,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "4"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=311&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=311&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=311&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Rocky ",
+    " gravelly ",
+    " dry",
+    " Well-drained"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [
+    "Dieback",
+    " Heart rot",
+    " Leaf miner insect",
+    " Mites",
+    " Nematodes",
+    " Rust",
+    " Scale insects",
+    "  Deer resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The Blue Star Juniper is an amazing coniferous shrub due to its elegance and impressive light bluish foliage. Growing in tree form, it has an airy and open growth habit, offering an attractive low-maintenance evergreen accent in any landscape setting. It can produce a beautiful silver-green foliage covering, feature in gardens year-round. The attractive foliage turns to a deep purple during the winter months. It loves full sun, so it flourishes in heat tolerant areas. Its scale-like foliage also make excellent wind protection for your garden. With a moderate growth rate and little care, the Blue Star Juniper is the perfect choice for gardeners who want a year-round colour pop in their outdoor space.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/311_juniperus_squamata_blue_star_tree_form/og/52579851871_5ee59e67dd_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/311_juniperus_squamata_blue_star_tree_form/regular/52579851871_5ee59e67dd_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/311_juniperus_squamata_blue_star_tree_form/medium/52579851871_5ee59e67dd_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/311_juniperus_squamata_blue_star_tree_form/small/52579851871_5ee59e67dd_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/311_juniperus_squamata_blue_star_tree_form/thumbnail/52579851871_5ee59e67dd_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

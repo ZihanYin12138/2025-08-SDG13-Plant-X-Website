@@ -1,0 +1,117 @@
+{
+  "id": 361,
+  "common_name": "Elstar Apple",
+  "scientific_name": [
+    "Malus 'Elstar'"
+  ],
+  "other_name": [],
+  "family": null,
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Elstar",
+  "variety": null,
+  "species_epithet": "'Elstar'",
+  "genus": "Malus",
+  "origin": [
+    "Netherlands"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 15,
+      "max_value": 15,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation",
+    "Budding",
+    "Layering Propagation",
+    "Budding",
+    "Budding",
+    "Whip Grafting Propagation",
+    "Cleft Grafting Propagation",
+    "Budding",
+    "Inarching"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=361&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=361&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "August",
+    "June",
+    "July",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=361&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": false,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": true,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The Elstar Apple is a highly sought-after variety of Malus. It has a pleasant and sweet taste, and is full of crisp and juicy flesh. Its skin is a rich yellow colour with a distinctive reddish-orange blush. It has a good disease resistance, making it an ideal choice for home orchards. Elstar Apples are an excellent choice for making pies, cider and jams, as their sugar and acid content provide balance for perfect flavour. They also make great snacking apples, juicy and slightly tart. Elstars are a great choice for those looking for an all-around flavourful, disease-resistant apple.",
+  "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/361_malus_elstar/og/garden-apple-tree-fruit-harvest.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/361_malus_elstar/regular/garden-apple-tree-fruit-harvest.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/361_malus_elstar/medium/garden-apple-tree-fruit-harvest.jpg",
+    "small_url": "https://perenual.com/storage/species_image/361_malus_elstar/small/garden-apple-tree-fruit-harvest.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/361_malus_elstar/thumbnail/garden-apple-tree-fruit-harvest.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

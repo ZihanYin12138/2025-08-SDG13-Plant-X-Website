@@ -1,0 +1,110 @@
+{
+  "id": 335,
+  "common_name": "Star Wars Magnolia",
+  "scientific_name": [
+    "Magnolia 'Star Wars'"
+  ],
+  "other_name": [],
+  "family": null,
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Star Wars",
+  "variety": null,
+  "species_epithet": "'Star",
+  "genus": "Magnolia",
+  "origin": [
+    "China"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 30,
+      "max_value": 30,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Stem Propagation",
+    "Root Cutting",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=335&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=335&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=335&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "High",
+  "pest_susceptibility": [],
+  "flowers": false,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Magnolia 'Star Wars' is an amazing plant species due to its impressive blooms! These vibrant blossoms feature richly-hued yellow, purple, and deep pink petals that are edged with a creamy white hue. The deep purple bracts around the center add another dimension of color. When these start to open in the spring, their fragrance will permeate the surrounding area, luring in passersby to admire their beauty. When in full bloom, the Magnolia 'Star Wars' is a sight to behold - perfect for gardeners who want to bring a little bit of the \"galaxy far, far away\" to their outdoor space.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/335_magnolia_star_wars/og/2560px-Flower_of_magnolia_Star_wars.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/335_magnolia_star_wars/regular/2560px-Flower_of_magnolia_Star_wars.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/335_magnolia_star_wars/medium/2560px-Flower_of_magnolia_Star_wars.jpg",
+    "small_url": "https://perenual.com/storage/species_image/335_magnolia_star_wars/small/2560px-Flower_of_magnolia_Star_wars.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/335_magnolia_star_wars/thumbnail/2560px-Flower_of_magnolia_Star_wars.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

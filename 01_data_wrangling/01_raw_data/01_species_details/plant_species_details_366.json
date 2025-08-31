@@ -1,0 +1,118 @@
+{
+  "id": 366,
+  "common_name": "Gravenstein Apple",
+  "scientific_name": [
+    "Malus 'Gravenstein'"
+  ],
+  "other_name": [],
+  "family": null,
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Gravenstein",
+  "variety": null,
+  "species_epithet": "'Gravenstein'",
+  "genus": "Malus",
+  "origin": [
+    "Denmark",
+    "Germany",
+    "Russia",
+    "Sweden",
+    "United States"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 25,
+      "max_value": 25,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation",
+    "Budding",
+    "Layering Propagation",
+    "Budding",
+    "Budding",
+    "Whip Grafting Propagation",
+    "Cleft Grafting Propagation",
+    "Budding",
+    "Inarching"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "4"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=366&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=366&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=366&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": true,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": false,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The Gravenstein Apple is an amazing species of apple tree. This special variety is highly sought after for its uniquely sweet and tart flavor. The Gravenstein Apple is very popular in the Northern Coastal areas of California and Northwestern United States for its desirable characteristics and excellent harvest potential. It produces medium to large, slightly oval-shaped fruit with yellow or light green skin. Its white flesh is firm yet crisp and juicy when ripe. The Gravenstein Apple is best for baking and making delicious sauces, jellies and juices, but can also be served fresh! It's an ideal choice for home orchards and makes a great addition to any garden!",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/366_malus_gravenstein/og/Malus-Shampion.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/366_malus_gravenstein/regular/Malus-Shampion.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/366_malus_gravenstein/medium/Malus-Shampion.jpg",
+    "small_url": "https://perenual.com/storage/species_image/366_malus_gravenstein/small/Malus-Shampion.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/366_malus_gravenstein/thumbnail/Malus-Shampion.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

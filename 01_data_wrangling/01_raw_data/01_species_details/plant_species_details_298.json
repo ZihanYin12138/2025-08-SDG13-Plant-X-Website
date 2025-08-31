@@ -1,0 +1,118 @@
+{
+  "id": 298,
+  "common_name": "Magyar Ginkgo",
+  "scientific_name": [
+    "Ginkgo biloba 'Magyar'"
+  ],
+  "other_name": [
+    "Maidenhair Tree",
+    "ginkgo"
+  ],
+  "family": "Ginkgoaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Magyar",
+  "variety": null,
+  "species_epithet": "biloba",
+  "genus": "Ginkgo",
+  "origin": [
+    "Southern China"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 70,
+      "max_value": 70,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Greenwood Cuttings",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "4"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=298&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=298&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=298&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Fungal leaf spot",
+    " Nematodes",
+    " Root rot",
+    "  Pest resistant",
+    " Disease resistant",
+    " Deer resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Magyar Ginkgo (Ginkgo biloba 'Magyar') is an amazing specimen. This species is a rapid-growing, vase-shaped, pyramidal-shaped tree with a distinct weeping form. It offers a showy, fan-like display of golden, honey-scented fan-shaped leaves in fall, which transforms to a dazzling yellow. It produces fruit for wildlife, but not for human consumption, with its small, yellow, tough-shelled fruits, which contain a gooey substance similar to peanut butter. Magyar Ginkgo is also fairly fast growing and can reach up to 40 feet in height with a spread of 16 feet. Furthermore, this species is quite resistant to pests and diseases, making it an excellent choice for a variety of situations. All in all, Magyar Ginkgo is an incredible species that's sure to bring joy and amazement to any landscape.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/298_ginkgo_biloba_magyar/og/Feuilles_de_Ginkgo_biloba_en_automne.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/298_ginkgo_biloba_magyar/regular/Feuilles_de_Ginkgo_biloba_en_automne.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/298_ginkgo_biloba_magyar/medium/Feuilles_de_Ginkgo_biloba_en_automne.jpg",
+    "small_url": "https://perenual.com/storage/species_image/298_ginkgo_biloba_magyar/small/Feuilles_de_Ginkgo_biloba_en_automne.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/298_ginkgo_biloba_magyar/thumbnail/Feuilles_de_Ginkgo_biloba_en_automne.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
