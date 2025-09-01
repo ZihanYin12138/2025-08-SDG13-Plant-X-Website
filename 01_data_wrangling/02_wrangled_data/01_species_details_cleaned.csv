@@ -1,396 +1,596 @@
 plant_id,general_plant_id,threatened_plant_id,common_name,scientific_name,other_name,if_threatened,if_edible,if_indoors,if_medicinal,if_poisonous,if_fruits,if_flowers,sun_expose,watering,plant_cycle,growth_rate
-1,1,1,European Silver Fir,Abies alba,Common Silver Fir,False,False,False,True,False,False,False,full sun,Frequent,Perennial,High
-2,2,2,Pyramidalis Silver Fir,Abies alba 'Pyramidalis',,False,False,False,False,False,False,False,full sun,Average,Perennial,Low
-3,3,3,White Fir,Abies concolor,"Silver Fir, Concolor Fir, Colorado Fir",False,False,False,True,False,False,True,"Full sun, part shade",Average,Perennial,Low
-4,4,4,Candicans White Fir,Abies concolor 'Candicans',"Silver Fir, Concolor Fir, Colorado Fir",False,False,False,False,False,False,False,full sun,Average,Perennial,Low
-5,5,5,Fraser Fir,Abies fraseri,Southern Fir,False,False,False,False,False,False,True,"full sun, part shade, filtered shade",Frequent,Perennial,Moderate
-6,6,6,Golden Korean Fir,Abies koreana 'Aurea',,False,False,False,False,False,False,True,"Full sun, part shade",Average,Perennial,Low
-7,7,7,Alpine Fir,Abies lasiocarpa,"Subalpine Fir, Rocky Mountain Fir",False,False,False,False,False,False,True,"full sun, part shade",Average,Perennial,Low
-8,8,8,Blue Spanish Fir,Abies pinsapo 'Glauca',Glaucous Spanish Fir,False,False,False,False,False,False,True,"Full sun, part shade",Average,Perennial,Low
-9,9,9,Noble Fir,Abies procera,"Red Fir, White Fir",False,False,False,True,False,False,True,full sun,Average,Perennial,Low
-10,10,10,Johin Japanese Maple,Acer 'Johin',Red Full Moon Maple,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-11,11,11,Snakebark Maple,Acer davidii,"Father David's Maple, Pere David's Maple",False,False,False,True,False,False,True,"Full sun, part shade",Average,Perennial,Low
-12,12,12,Amur Maple,Acer ginnala,,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-13,13,13,Flame Amur Maple,Acer ginnala 'Flame',,False,False,False,False,False,False,False,full sun,Frequent,Perennial,High
-14,14,14,Red Rhapsody Amur Maple,Acer ginnala 'Mondy',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,High
-15,15,15,Ruby Slippers Amur Maple,Acer ginnala 'Ruby Slippers',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-16,16,16,Paperbark Maple,Acer griseum,,False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,Low
-17,17,17,Fullmoon Maple,Acer japonicum,,False,False,False,False,False,False,True,"Full sun, part shade",Average,Perennial,Low
-18,18,18,Cutleaf Fullmoon Maple,Acer japonicum 'Aconitifolium',fernleaf full moon maple,False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,Moderate
-19,19,19,Attaryi Fullmoon Maple*,Acer japonicum 'Attaryi',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,High
-20,20,20,Golden Fullmoon Maple,Acer japonicum 'Aureum',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-21,21,21,Emmett's Pumpkin Fullmoon Maple,Acer japonicum 'Emmett's Pumpkin',,False,False,False,False,False,False,False,"full sun, part shade, filtered shade",Average,Perennial,Low
-22,22,22,Green Cascade Maple,Acer japonicum 'Green Cascade',,False,False,False,False,False,False,True,"Full sun, part shade",Average,Perennial,Low
-23,23,23,Big Leaf Maple,Acer macrophyllum,Oregon Maple,False,False,False,True,False,True,True,"full sun, part sun/part shade",Average,Perennial,Moderate
-24,24,24,Mocha Rose Big Leaf Maple,Acer macrophyllum 'Mocha Rose',Oregon Maple,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Moderate
-25,25,25,Flamingo Boxelder,Acer negundo 'Flamingo',"Manitoba Maple, box elder",False,False,False,False,False,False,True,"full sun, part sun/part shade",Average,Perennial,Low
-26,26,26,Kelly's Gold Boxelder,Acer negundo 'Kelly's Gold',"Manitoba Maple, box elder",False,False,False,False,False,False,True,"full sun, part sun/part shade",Frequent,Perennial,Low
-27,27,27,Japanese Maple,Acer palmatum,,False,False,False,True,False,True,True,"Full sun, part shade",Average,Perennial,Low
-28,28,28,Aka Shigitatsu Sawa Japanese Maple,Acer palmatum 'Aka Shigitatsu Sawa',Samurai,False,False,False,False,False,False,False,part sun/part shade,Frequent,Perennial,Low
-29,29,29,Alpenweiss Variegated Dwarf Japanese Maple*,Acer palmatum 'Alpenweiss',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-30,30,30,Ao Shime No Uchi Japanese Maple,Acer palmatum 'Ao Shime No Uchi',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-31,31,31,Aoyagi Japanese Maple*,Acer palmatum 'Aoyagi',Green Coral Japanese Maple,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-32,32,32,Arakawa Cork Bark Japanese Maple,Acer palmatum 'Arakawa',"Rough-Bark Japanese Maple, Arakawa Ukon",False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,Low
-33,33,33,Asahi Zuru Japanese Maple,Acer palmatum 'Asahi Zuru',"Rising Sun, Dawn Swan",False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-34,34,34,Ribbon-leaf Japanese Maple*,Acer palmatum 'Atrolineare',Red Strap-Leaf Japanese Maple,False,False,False,False,False,False,False,"full sun, part shade",Minimum,Perennial,Low
-35,35,35,Purple-Leaf Japanese Maple,Acer palmatum 'Atropurpureum',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-36,36,36,Aureum Japanese Maple*,Acer palmatum 'Aureum',,False,False,False,False,False,False,False,"part shade, part sun/part shade",Average,Perennial,Low
-37,37,37,Autumn Fire Japanese Maple,Acer palmatum 'Autumn Fire',Herbstfeuer,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-38,38,38,Azuma Murasaki Japanese Maple,Acer palmatum 'Azuma Murasaki',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-39,39,39,Beni Kawa Coral Bark Japanese Maple*,Acer palmatum 'Beni Kawa',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Moderate
-40,40,40,Beni Otake Japanese Maple,Acer palmatum 'Beni Otake',Big Red Bamboo,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-41,41,41,Beni Schichihenge Japanese Maple,Acer palmatum 'Beni Schichihenge',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-42,42,42,Beni Tsukasa Japanese Maple*,Acer palmatum 'Beni Tsukasa',Calico Cloth,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-43,43,43,Bloodgood Japanese Maple,Acer palmatum 'Bloodgood',,False,False,False,False,False,False,True,"full sun, part sun/part shade",Average,Perennial,High
-44,44,44,Bonfire Japanese Maple,Acer palmatum 'Bonfire',Seigai,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-45,45,45,Brandt's Dwarf Japanese Maple,Acer palmatum 'Brandt's Dwarf',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-46,46,46,Burgundy Lace Japanese Maple,Acer palmatum 'Burgundy Lace',,False,False,False,False,False,False,True,"full sun, part shade",Average,Perennial,Low
-47,47,47,Butterfly Variegated Japanese Maple,Acer palmatum 'Butterfly',,False,False,False,False,False,False,True,"Full sun, part shade",Average,Perennial,Low
-48,48,48,Chantilly Lace Japanese Maple,Acer palmatum 'Chantilly Lace',Threadleaf Japanese Maple,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-49,49,49,Chishio Japanese Maple,Acer palmatum 'Chishio',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-50,50,50,Chitose Yama Japanese Maple,Acer palmatum 'Chitose Yama',Chitoseyama,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-51,51,51,Coonara Pygmy Japanese Maple,Acer palmatum 'Coonara Pygmy',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-52,52,52,Crimson Prince Japanese Maple*,Acer palmatum 'Crimson Prince',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Moderate
-53,53,53,Ever Red Lace-Leaf Japanese Maple*,Acer palmatum 'Ever Red',,False,False,False,False,False,False,False,full sun,Average,Perennial,Low
-54,54,54,Glowing Embers Japanese Maple*,Acer palmatum 'Glowing Embers',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-55,55,55,Grandma Ghost Japanese Maple*,Acer palmatum 'Grandma Ghost',Grandma's Ghost Japanese Maple,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-56,56,56,Green Hornet Cutleaf Japanese Maple*,Acer palmatum 'Green Hornet',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Moderate
-57,57,57,Green Mist Japanese Maple*,Acer palmatum 'Green Mist',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-58,58,58,Shirazz Japanese Maple,Acer palmatum 'Gwen's Rose Delight',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-59,59,59,Hessei Japanese Maple,Acer palmatum 'Hessei',,False,False,False,False,False,False,False,"part shade, part sun/part shade",Average,Perennial,Low
-60,60,60,Higasa Yama Japanese Maple,Acer palmatum 'Higasa Yama',Higasayama,False,False,False,False,False,False,False,"part sun/part shade, part shade",Average,Perennial,Low
-61,61,61,Hogyoku Japanese Maple,Acer palmatum 'Hogyoku',,False,False,False,False,False,False,True,"full sun, part shade",Average,Perennial,Low
-62,62,62,Hubb's Red Willow Japanese Maple,Acer palmatum 'Hubb's Red Willow',,False,False,False,False,False,False,False,"part shade, part sun/part shade",Frequent,Perennial,Low
-63,63,63,Iijima Sunago Japanese Maple,Acer palmatum 'Iijima Sunago',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-64,64,64,Inaba Shidare Cutleaf Japanese Maple,Acer palmatum 'Inaba Shidare',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-65,65,65,Inazuma Japanese Maple,Acer palmatum 'Inazuma',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-66,66,66,Jiro Shidare Japanese Maple,Acer palmatum 'Jiro Shidare',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-67,67,67,Kagiri Nishiki Japanese Maple,Acer palmatum 'Kagiri Nishiki',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-68,68,68,Kamagata Japanese Maple,Acer palmatum 'Kamagata',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-69,69,69,Kandy Kitchen Japanese Maple,Acer palmatum 'Kandy Kitchen',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-70,70,70,Karasu Gawa Japanese Maple*,Acer palmatum 'Karasu Gawa',Karasugawa,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Moderate
-71,71,71,Kasagi Yama Japanese Maple,Acer palmatum 'Kasagi Yama',Kasagiyama Japanese Maple,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-72,72,72,Katsura Japanese Maple,Acer palmatum 'Katsura',,False,False,False,False,False,False,True,"part shade, part sun/part shade",Average,Perennial,Low
-73,73,73,Kiri Nishiki Japanese Maple,Acer palmatum 'Kiri Nishiki',,False,False,False,False,False,False,False,"full sun, part sun/part shade",Frequent,Perennial,Low
-74,74,74,Kiyohime Japanese Maple,Acer palmatum 'Kiyohime',Kiyo Hime,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-75,75,75,Koshibori Nishiki Japanese Maple*,Acer palmatum 'Koshibori Nishiki',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-76,76,76,Koto No Ito Japanese Maple,Acer palmatum 'Koto No Ito',"Harp String, Koto-No-Ito",False,False,False,False,False,True,True,"filtered shade, full sun only if soil kept moist, part sun/part shade",Average,Perennial,Moderate
-77,77,77,Linearilobum Japanese Maple,Acer palmatum 'Linearilobum',Bamboo-Leaf Japanese Maple,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-78,78,78,Margaret Bee Japanese Maple,Acer palmatum 'Margaret Bee',,False,False,False,False,False,False,False,"part shade, part sun/part shade",Average,Perennial,Low
-79,79,79,Mikawa Yatsubusa Japanese Maple,Acer palmatum 'Mikawa Yatsubusa',,False,False,False,False,False,False,False,"part shade, part sun/part shade",Average,Perennial,Low
-80,80,80,Mikazuki Japanese Maple,Acer palmatum 'Mikazuki',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-81,81,81,Moonfire Japanese Maple,Acer palmatum 'Moonfire',,False,False,False,False,False,False,False,"part sun/part shade, full sun",Average,Perennial,Low
-82,82,82,Nishiki Gawa Japanese Maple*,Acer palmatum 'Nishiki Gawa',Pine Bark Maple,False,False,False,False,False,False,True,full sun,Average,Perennial,Low
-83,83,83,Nuresagi Japanese Maple,Acer palmatum 'Nuresagi',Wet Heron Japanese Maple,False,False,False,False,False,True,True,"full sun, part shade",Frequent,Perennial,Low
-84,84,84,Okagami Japanese Maple,Acer palmatum 'Okagami',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-85,85,85,Okushimo Japanese Maple,Acer palmatum 'Okushimo',"Okushimu, Pepper and Salt Japanese Maple",False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-86,86,86,Orange Dream Japanese Maple,Acer palmatum 'Orange Dream',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-87,87,87,Orangeola Cutleaf Japanese Maple,Acer palmatum 'Orangeola',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Moderate
-88,88,88,Oregon Sunset Japanese Maple,Acer palmatum 'Oregon Sunset',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-89,89,89,Oridono Nishiki Japanese Maple*,Acer palmatum 'Oridono Nishiki',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Moderate
-90,90,90,Ornatum Japanese Maple*,Acer palmatum 'Ornatum',Dissectum Ornatum,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-91,91,91,Osakazuki Japanese Maple,Acer palmatum 'Osakazuki',,False,False,False,False,False,False,True,"full sun, part shade",Average,Perennial,Low
-92,92,92,Oshio Beni Japanese Maple,Acer palmatum 'Oshio Beni',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-93,93,93,Oshu Shidare Japanese Maple,Acer palmatum 'Oshu Shidare',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-94,94,94,Otake Japanese Maple,Acer palmatum 'Otake',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-95,95,95,Otome Zakura Japanese Maple*,Acer palmatum 'Otome Zakura',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-96,96,96,Palmatifidum Japanese Maple*,Acer palmatum 'Palmatifidum',"Dissectum Paucum, Wahi-no-o",False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-97,97,97,Peaches And Cream Japanese Maple,Acer palmatum 'Peaches And Cream',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-98,98,98,Pendulum Julian Japanese Maple*,Acer palmatum 'Pendulum Julian',Julian Dissectum,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-99,99,99,Pink Lace Japanese Maple*,Acer palmatum 'Pink Lace',,False,False,False,False,False,False,False,full sun,Frequent,Perennial,Low
-100,100,100,Pixie Japanese Maple,Acer palmatum 'Pixie',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-101,101,101,Purple Ghost Japanese Maple*,Acer palmatum 'Purple Ghost',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-102,102,102,Red Dragon Japanese Maple,Acer palmatum 'Red Dragon',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-103,103,103,Red Feathers Japanese Maple*,Acer palmatum 'Red Feathers',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-104,104,104,Red Filigree Lace Japanese Maple,Acer palmatum 'Red Filigree Lace',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-105,105,105,Dwarf Red Pygmy Japanese Maple,Acer palmatum 'Red Pygmy',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-106,106,106,Red Select Japanese Maple*,Acer palmatum 'Red Select',,False,False,False,False,False,True,True,"full sun, part shade",Frequent,Perennial,Low
-107,107,107,Rhode Island Red Japanese Maple,Acer palmatum 'Rhode Island Red',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-108,108,108,Ruby Ridge Japanese Maple*,Acer palmatum 'Ruby Ridge',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-109,109,109,Ruby Stars Japanese Maple*,Acer palmatum 'Ruby Stars',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-110,110,110,Ruslyn In The Pink Japanese Maple,Acer palmatum 'Ruslyn In The Pink',,False,False,False,False,False,False,False,"part sun/part shade, part shade",Frequent,Perennial,Low
-111,111,111,Ryusen Japanese Maple,Acer palmatum 'Ryusen',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-112,112,112,Sagara Nishiki Japanese Maple,Acer palmatum 'Sagara Nishiki',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-113,113,113,Samurai Sword Japanese Maple,Acer palmatum 'Samarzam',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-114,114,114,Coral Bark Japanese Maple,Acer palmatum 'Sango Kaku',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Moderate
-115,115,115,Sazanami Japanese Maple,Acer palmatum 'Sazanami',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-116,116,116,Scolopendrifolium Japanese Maple,Acer palmatum 'Scolopendrifolium',"Scolopendrifolium Rubrum, Atrolineare",False,False,False,False,False,False,True,"full sun, part shade",Average,Perennial,Low
-117,117,117,Seiryu Japanese Maple,Acer palmatum 'Seiryu',,False,False,False,False,False,False,False,part sun/part shade,Frequent,Perennial,High
-118,118,118,Shaina Japanese Maple,Acer palmatum 'Shaina',,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Low
-119,119,119,Sherwood Elfin Japanese Maple*,Acer palmatum 'Sherwood Elfin',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-120,120,120,Sherwood Flame Japanese Maple,Acer palmatum 'Sherwood Flame',,False,False,False,False,False,False,True,"full sun, part shade",Average,Perennial,Low
-121,121,121,Shindeshojo Japanese Maple,Acer palmatum 'Shindeshojo',Shin Deshojo,False,False,False,False,False,False,True,"full sun, part shade",Average,Perennial,Low
-122,122,122,Shinobuga Oka Japanese Maple*,Acer palmatum 'Shinobuga Oka',"Shinobu Ga Oka, Shino Buga Oka Japanese Maple",False,False,False,False,False,False,False,full sun,Average,Perennial,Low
-123,123,123,Lions Head Japanese Maple,Acer palmatum 'Shishigashira',,False,False,False,False,False,False,True,"full sun, part shade",Average,Perennial,Low
-124,124,124,Shishio Hime Japanese Maple*,Acer palmatum 'Shishio Hime',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-125,125,125,Spring Delight Japanese Maple,Acer palmatum 'Spring Delight',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-126,126,126,Suminagashi Japanese Maple,Acer palmatum 'Suminagashi',Sumi Nagashi,False,False,False,False,False,False,True,"full sun, part shade",Average,Perennial,Low
-127,127,127,Tama Hime Japanese Maple,Acer palmatum 'Tama Hime',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-128,128,128,Tamukeyama Japanese Maple,Acer palmatum 'Tamukeyama',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-129,129,129,Tana Japanese Maple*,Acer palmatum 'Tana',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-130,130,130,Tobiosho Japanese Maple,Acer palmatum 'Tobiosho',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-131,131,131,Trompenburg Japanese Maple*,Acer palmatum 'Trompenburg',,False,False,False,False,False,False,True,"full sun, part shade",Average,Perennial,Moderate
-132,132,132,Tsukasa Silhouette Japanese Maple*,Acer palmatum 'Tsukasa Silhouette',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-133,133,133,Tsuma Gaki Japanese Maple,Acer palmatum 'Tsuma Gaki',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-134,134,134,Tsuri Nishiki Japanese Maple,Acer palmatum 'Tsuri Nishiki',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-135,135,135,Twombly's Red Sentinel Japanese Maple,Acer palmatum 'Twombly's Red Sentinel',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-136,136,136,Ueno Homare Japanese Maple,Acer palmatum 'Ueno Homare',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-137,137,137,Floating Cloud Japanese Maple,Acer palmatum 'Ukigumo',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-138,138,138,Utsu Semi Japanese Maple,Acer palmatum 'Utsu Semi',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-139,139,139,Villa Taranto Japanese Maple,Acer palmatum 'Villa Taranto',,False,False,False,False,False,False,True,"full sun, part shade",Average,Perennial,Low
-140,140,140,Wilson's Pink Dwarf Japanese Maple,Acer palmatum 'Wilson's Pink Dwarf',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-141,141,141,Emperor I Japanese Maple,Acer palmatum 'Wolff',Emperor 1,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-142,142,142,Yellow Bird Japanese Maple,Acer palmatum 'Yellow Bird',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-143,143,143,Yubae Japanese Maple*,Acer palmatum 'Yubae',Evening Glow Japanese Maple,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-144,144,144,Moosewood,Acer pensylvanicum,"Striped Maple, Snakebark Maple, Moose Maple, Whistlewood, Goosefoot Maple",False,True,False,True,False,True,True,"full sun, part shade",Average,Perennial,Moderate
-145,145,145,Crimson King Norway Maple,Acer platanoides 'Crimson King',,False,False,False,False,False,True,True,"part sun/part shade, full sun",Average,Perennial,High
-146,146,146,Crimson Sentry Norway Maple,Acer platanoides 'Crimson Sentry',,False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,High
-147,147,147,Harlequin Norway Maple,Acer platanoides 'Drummondii',,False,False,False,False,False,True,True,"full sun, part sun/part shade",Minimum,Perennial,High
-148,148,148,Emerald Queen Norway Maple,Acer platanoides 'Emerald Queen',,False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,High
-149,149,149,Princeton Gold Maple,Acer platanoides 'Princeton Gold',,False,True,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,High
-150,150,150,Eskimo Sunset Sycamore Maple,Acer pseudoplatanus 'Eskimo Sunset',Planetree Maple,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,High
-151,151,151,Nizetii Sycamore Maple,Acer pseudoplatanus 'Nizetii',Planetree Maple,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Low
-152,152,152,Korean Maple,Acer pseudosieboldianum,Purplebloom Maple,False,False,False,True,False,True,True,"full sun, part shade",Average,Perennial,Low
-153,153,153,Red Maple,Acer rubrum,"Swamp Maple, Scarlet Maple",False,False,False,True,False,True,True,full sun,Average,Perennial,Moderate
-154,154,154,Autumn Flame Red Maple,Acer rubrum 'Autumn Flame',"Swamp Maple, Scarlet Maple",False,False,False,False,False,True,True,"full sun, part shade",Frequent,Perennial,Moderate
-155,155,155,Bowhall Red Maple,Acer rubrum 'Bowhall',"Swamp Maple, Scarlet Maple",False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Moderate
-156,156,156,Red Sunset® Red Maple,Acer rubrum 'Franksred',"Swamp Maple, Scarlet Maple",False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Moderate
-157,157,157,Commemoration Sugar Maple,Acer saccharum 'Commemoration',"Hard Maple, Rock Maple, Hard Maple, Bird's Eye Maple, Curly Maple, Sweet Maple, Northern Sugar Maple, Head Maple",False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Low
-158,158,158,Green Mountain Sugar Maple,Acer saccharum 'Green Mountain',"Hard Maple, Rock Maple, Hard Maple, Bird's Eye Maple, Curly Maple, Sweet Maple, Northern Sugar Maple, Head Maple",False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,High
-159,159,159,Legacy Sugar Maple,Acer saccharum 'Legacy',"Hard Maple, Rock Maple, Hard Maple, Bird's Eye Maple, Curly Maple, Sweet Maple, Northern Sugar Maple, Head Maple",False,False,False,False,False,True,True,"part sun/part shade, full sun",Average,Perennial,High
-160,160,160,Golden Full Moon Maple,Acer shirasawanum 'Aureum',,False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,Low
-161,161,161,Autumn Moon Full Moon Maple,Acer shirasawanum 'Autumn Moon',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-162,162,162,Moonrise Full Moon Maple,Acer shirasawanum 'Moonrise',,False,False,False,False,False,False,False,"part shade, part sun/part shade",Frequent,Perennial,Low
-163,163,163,Red Dawn Full Moon Maple,Acer shirasawanum 'Red Dawn',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-164,164,164,Yasemin Full Moon Maple,Acer shirasawanum 'Yasemin',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-165,165,165,Hot Wings Tatarian Maple,Acer tataricum 'GarAnn',,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Moderate
-166,166,166,Snakebark Maple,Acer tegmentosum,Manchurian Striped Maple,False,False,False,False,False,False,False,"part shade, part sun/part shade",Frequent,Perennial,Low
-167,167,167,Joe Witt Snakebark Maple,Acer tegmentosum 'Joe Witt',Manchurian Striped Maple,False,False,False,False,False,True,True,"filtered shade, full sun, part sun/part shade",Average,Perennial,Moderate
-168,168,168,White Tigress Maple,Acer tegmentosum 'White Tigress',Manchurian Striped Maple,False,False,False,False,False,False,False,"full sun, part sun/part shade",Average,Perennial,Low
-169,169,169,Three Flowered Maple,Acer triflorum,,False,False,False,True,False,False,True,"Full sun, part shade",Average,Perennial,Low
-170,170,170,Armstrong Maple,Acer x freemanii 'Armstrong',,False,False,False,False,False,False,False,full sun,Average,Perennial,High
-171,171,171,Autumn Blaze Maple,Acer x freemanii 'Jeffersred',,False,False,False,False,False,False,False,full sun,Average,Perennial,High
-172,172,172,Mimosa,Albizia julibrissin,Silktree,False,False,False,True,False,True,True,full sun,Average,Perennial,Moderate
-173,173,173,Ombrella™ Mimosa,Albizia julibrissin 'Boubri',Silktree,False,False,False,True,False,True,True,full sun,Average,Perennial,Moderate
-174,174,174,Summer Chocolate Mimosa,Albizia julibrissin 'Summer Chocolate',Silktree,False,False,False,False,False,True,True,"full sun, part shade",Frequent,Perennial,Moderate
-175,175,175,Autumn Brilliance Serviceberry,Amelanchier x grandiflora 'Autumn Brilliance',,False,True,False,False,False,True,False,"full sun, part shade",Frequent,Perennial,Low
-176,176,176,Autumn Brilliance Serviceberry,Amelanchier x grandiflora 'Autumn Brilliance (tree form)',,False,True,False,False,False,True,False,"full sun, part shade",Frequent,Perennial,Low
-177,177,177,Ballerina Serviceberry,Amelanchier x grandiflora 'Ballerina',,False,True,False,False,False,True,False,"full sun, part shade",Frequent,Perennial,Low
-178,178,178,Princess Diana Serviceberry,Amelanchier x grandiflora 'Princess Diana',,False,True,False,False,False,True,False,"full sun, part shade",Average,Perennial,High
-179,179,179,Variegated Japanese Angelica Tree,Aralia elata 'Variegata',,False,False,False,True,False,True,True,"full sun, part shade",Average,Perennial,Moderate
-180,180,180,Monkey Puzzle Tree,Araucaria araucana,Chilean Pine,False,False,False,False,False,False,True,"full sun, part shade",Average,Perennial,Moderate
-181,181,181,Marina Strawberry Tree,Arbutus 'Marina',,False,True,False,False,False,True,False,"full sun, part shade",Frequent,Perennial,Low
-182,182,182,Pacific Madrone*,Arbutus menziesii,"Madrona; Bearberry; Strawberry Tree, madrona",False,True,False,True,False,True,True,sun,Minimum,Perennial,Low
-183,183,183,Strawberry Tree,Arbutus unedo,Apple of Cain; Cane Apple,False,True,False,True,False,True,True,"full sun, part sun/part shade, sheltered",Average,Perennial,Moderate
-184,184,184,Common Paw Paw,Asimina triloba,"Pawpaw Apple, False-Banana, Poor Man's Banana, Pawpaw, False Banana, Pawpaw Custardapple",False,True,False,True,False,True,True,"full sun, part sun/part shade",Average,Perennial,Moderate
-185,185,185,Crimson Frost Birch,Betula 'Crimson Frost',,False,False,False,False,False,True,True,"full sun, part shade",Frequent,Perennial,Low
-186,186,186,River Birch,Betula nigra,Red Birch,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,High
-187,187,187,River Birch (clump),Betula nigra '(clump)',Red Birch,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,High
-188,188,188,Summer Cascade Weeping River Birch,Betula nigra 'Summer Cascade',Red Birch,False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,High
-189,189,189,Paper Birch,Betula papyrifera,"White Birch, Canoe Birch",False,False,False,True,False,True,True,"full sun, part shade",Average,Perennial,High
-190,190,190,Clump Paper Birch,Betula papyrifera '(clump)',"White Birch, Canoe Birch",False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,High
-191,191,191,Whitespire Birch,Betula populifolia 'Whitespire',Betula platyphylla,False,False,False,False,False,True,True,"part sun/part shade, full sun",Average,Perennial,Low
-192,192,192,Whitebark Himalayan Birch,Betula utilis 'var. jacquemontii',White Bark Birch,False,True,False,False,False,True,True,full sun,Average,Perennial,Low
-193,193,193,California Incense Cedar,Calocedrus decurrens,Incensecedar,False,False,False,False,False,False,True,"full sun, part shade",Minimum,Perennial,High
-194,194,194,European Hornbeam,Carpinus betulus,Common Hornbeam,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Low
-195,195,195,Pyramidal European Hornbeam,Carpinus betulus 'Fastigiata',Common Hornbeam,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Low
-196,196,196,Frans Fontaine Hornbeam,Carpinus betulus 'Frans Fontaine',Common Hornbeam,False,False,False,False,False,True,True,full sun,Average,Perennial,Low
-197,197,197,Weeping European Hornbeam,Carpinus betulus 'Pendula',Common Hornbeam,False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Low
-198,198,198,Japanese Hornbeam,Carpinus japonica,,False,False,False,False,False,True,True,"part shade, full shade",Average,Perennial,Low
-199,199,199,Golden Catalpa,Catalpa bignonioides 'Aurea',Southern Catalpa,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Low
-200,200,200,Blue Atlas Cedar,Cedrus atlantica 'Glauca',,False,False,False,True,False,False,True,"full sun, part shade",Average,Perennial,Low
-201,201,201,Deodar Cedar,Cedrus deodara,Himalayan Cedar,False,False,False,True,False,False,True,full sun,Average,Perennial,High
-202,202,202,Golden Deodar Cedar,Cedrus deodara 'Aurea',Himalayan Cedar,False,False,False,False,False,False,True,full sun,Average,Perennial,High
-203,203,203,Bush's Electra Deodar Cedar,Cedrus deodara 'Bush's Electra',Himalayan Cedar,False,False,False,False,False,False,True,"full sun, part sun/part shade",Average,Perennial,High
-204,204,204,Electra Blue Deodar Cedar,Cedrus deodara 'Electra Blue',Himalayan Cedar,False,False,False,False,False,False,True,full sun,Average,Perennial,High
-205,205,205,Karl Fuchs Deodar Cedar,Cedrus deodara 'Karl Fuchs',Himalayan Cedar,False,False,False,False,False,False,True,"full sun, part sun/part shade",Average,Perennial,High
-206,206,206,Kashmir Deodar Cedar,Cedrus deodara 'Kashmir',Himalayan Cedar,False,False,False,True,False,False,True,Full sun,Average,Perennial,High
-207,207,207,Cedar of Lebanon,Cedrus libani,,False,False,False,True,False,False,True,Full sun,Average,Perennial,Low
-208,208,208,Green Prince Cedar of Lebanon,Cedrus libani 'Green Prince',,False,False,False,False,False,False,True,full sun,Frequent,Perennial,Low
-209,209,209,Weeping Cedar of Lebanon,Cedrus libani 'Pendula',,False,False,False,False,False,True,True,full sun,Average,Perennial,Low
-210,210,210,Katsura Tree,Cercidiphyllum japonicum,Japanese katsura tree,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Moderate
-211,211,211,Weeping Katsura Tree,Cercidiphyllum japonicum 'Pendulum',Japanese katsura tree,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Moderate
-212,212,212,Red Fox Katsura Tree,Cercidiphyllum japonicum 'Rotfuchs',Japanese katsura tree,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Moderate
-213,213,213,Eastern Redbud,Cercis canadensis,"Redbud, Judas Tree, Love Tree, Eastern Redbud, Judas Tree",False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Moderate
-214,214,214,Eastern Redbud (tree form),Cercis canadensis '(tree form)',"Redbud, Judas Tree, Love Tree, Eastern Redbud, Judas Tree",False,True,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Moderate
-215,215,215,White Redbud,Cercis canadensis 'Alba',"Redbud, Judas Tree, Love Tree, Eastern Redbud, Judas Tree",False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Moderate
-216,216,216,Appalachian Red Redbud,Cercis canadensis 'Appalachian Red',"Redbud, Judas Tree, Love Tree, Eastern Redbud, Judas Tree",False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Moderate
-217,217,217,Forest Pansy Redbud,Cercis canadensis 'Forest Pansy',"Redbud, Judas Tree, Love Tree, Eastern Redbud, Judas Tree",False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Moderate
-218,218,218,Hearts of Gold Redbud,Cercis canadensis 'Hearts of Gold',"Redbud, Judas Tree, Love Tree, Eastern Redbud, Judas Tree",False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Moderate
-219,219,219,Little Woody Redbud,Cercis canadensis 'Little Woody',"Redbud, Judas Tree, Love Tree, Eastern Redbud, Judas Tree",False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Moderate
-220,220,220,Lawson Falsecypress,Chamaecyparis lawsoniana,"Oregon Cedar, Port Orford Cedar",False,False,False,False,False,False,True,"full sun, part shade",Average,Perennial,Moderate
-221,221,221,Blue Nootka Cypress,Chamaecyparis nootkatensis 'Glauca',"Alaska Cedar, Nootka Falsecypress, Xanthocyparis",False,False,False,False,False,False,True,full sun,Average,Perennial,Low
-222,222,222,Green Arrow Nootka Cypress,Chamaecyparis nootkatensis 'Green Arrow',"Alaska Cedar, Nootka Falsecypress, Xanthocyparis",False,False,False,False,False,False,True,"full sun, part sun/part shade",Average,Perennial,Low
-223,223,223,Weeping Nootka Cypress,Chamaecyparis nootkatensis 'Pendula',"Alaska Cedar, Nootka Falsecypress, Xanthocyparis",False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Low
-224,224,224,Golden Hinoki Falsecypress,Chamaecyparis obtusa 'Aurea',,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Low
-225,225,225,Compact Hinoki Falsecypress,Chamaecyparis obtusa 'Compacta',,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Low
-226,226,226,Cripps Gold Falsecypress,Chamaecyparis obtusa 'Crippsii',,False,False,False,False,False,False,True,"full sun, part shade",Average,Perennial,Low
-227,227,227,Well's Special Hinoki Falsecypress,Chamaecyparis obtusa 'Well's Special',,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Low
-228,228,228,Threadleaf Falsecypress,Chamaecyparis pisifera 'Filifera',"Japanese Falsecypress, Sawara Falsecypress, sawara cypress",False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Moderate
-229,229,229,Red Star Whitecedar,Chamaecyparis thyoides 'Red Star',"Whitecedar Falsecypress, Atlantic White Cedar",False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,Low
-230,230,230,Chinese Fringetree,Chionanthus retusus,Fringe Tree,False,True,False,True,False,True,True,"Full sun, part shade",Average,Perennial,Low
-231,231,231,White Fringetree,Chionanthus virginicus,"Old Man's Beard, Fringe Tree",False,True,False,False,False,True,True,"full sun, part shade",Average,Annual,Low
-232,232,232,Morning Cloud Chitalpa,Chitalpa 'Morning Cloud',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-233,233,233,Pink Dawn Chitalpa,Chitalpa 'Pink Dawn',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,High
-234,234,234,Harlequin Glorybower,Clerodendrum trichotomum,"Clerodendron, Siphonanthus, Peanut Butter Shrub",False,False,False,True,False,True,True,"full sun, part shade",Average,Perennial,High
-235,235,235,Torbay Dazzler Grass Palm,Cordyline australis 'Torbay Dazzler',"Cabbage Palm, Grass Tree, Dracaena Palm",False,False,False,False,False,True,True,"full sun, part shade",Frequent,Perennial,High
-236,236,236,Constellation Flowering Dogwood,Cornus 'Constellation',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-237,237,237,Eddie's White Wonder Flowering Dogwood,Cornus 'Eddie's White Wonder',,False,False,False,False,False,True,True,"Filtered shade,  Full sun,  Part sun/part shade",Average,Perennial,Moderate
-238,238,238,Aurora Flowering Dogwood,Cornus 'Rutban',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-239,239,239,Celestial Flowering Dogwood,Cornus 'Rutdan',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,Low
-240,240,240,Stellar Pink Flowering Dogwood,Cornus 'Stellar Pink',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-241,241,241,Venus Flowering Dogwood,Cornus 'Venus',Hybrid Dogwood,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-242,242,242,Pagoda Dogwood,Cornus alternifolia,,False,False,False,True,False,True,True,"full sun, part sun/part shade, part shade",Average,Perennial,High
-243,243,243,Variegated Pagoda Dogwood,Cornus alternifolia 'Argentea',,False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Low
-244,244,244,Variegated Giant Dogwood,Cornus controversa 'Variegata',Wedding Cake Tree,False,False,False,False,False,True,True,"full sun, part shade",Frequent,Perennial,High
-245,245,245,Cherokee Brave Flowering Dogwood,Cornus florida 'Cherokee Brave',,False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Moderate
-246,246,246,Cherokee Chief Flowering Dogwood,Cornus florida 'Cherokee Chief',,False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Moderate
-247,247,247,Cherokee Daybreak Flowering Dogwood,Cornus florida 'Cherokee Daybreak',,False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Moderate
-248,248,248,Cherokee Princess Flowering Dogwood,Cornus florida 'Cherokee Princess',,False,False,False,False,False,True,True,"Full sun,  Part sun/part shade",Average,Perennial,Moderate
-249,249,249,Cherokee Sunset Flowering Dogwood,Cornus florida 'Cherokee Sunset',,False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Moderate
-250,250,250,Red Flowering Dogwood,Cornus florida 'var. rubra',,False,False,False,False,False,True,True,"Full sun,  Part sun/part shade",Average,Perennial,Moderate
-251,251,251,Chinese Dogwood,Cornus kousa,Kousa Dogwood,False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,Low
-252,252,252,Blue Shadow Chinese Dogwood,Cornus kousa 'Blue Shadow',Kousa Dogwood,False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,Low
-253,253,253,China Girl Chinese Dogwood,Cornus kousa 'China Girl',Kousa Dogwood,False,False,False,False,False,True,True,"part shade, part sun/part shade",Frequent,Perennial,Low
-254,254,254,Heart Throb Chinese Dogwood,Cornus kousa 'Heart Throb',Kousa Dogwood,False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,Low
-255,255,255,Milky Way Chinese Dogwood,Cornus kousa 'Milky Way',Kousa Dogwood,False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,Low
-256,256,256,National Chinese Dogwood,Cornus kousa 'National',Kousa Dogwood,False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,Low
-257,257,257,Samaritan Chinese Dogwood,Cornus kousa 'Samaritan',Kousa Dogwood,False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,Low
-258,258,258,Satomi Chinese Dogwood,Cornus kousa 'Satomi',Kousa Dogwood,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Low
-259,259,259,Starlight Chinese Dogwood,Cornus kousa 'Starlight',Kousa Dogwood,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Low
-260,260,260,Chinese Dogwood,Cornus kousa 'var. chinensis',Kousa Dogwood,False,True,False,False,False,True,True,"part sun/part shade, part shade",Average,Perennial,Low
-261,261,261,Wolf Eyes Chinese Dogwood,Cornus kousa 'Wolf Eyes',Kousa Dogwood,False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,Low
-262,262,262,Cornelian Cherry Dogwood,Cornus mas,Cornelian cherry,False,True,False,True,False,True,True,"full sun, part shade",Average,Perennial,Moderate
-263,263,263,Golden Cornelian Cherry Dogwood,Cornus mas 'Aurea',Cornelian cherry,False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,Moderate
-264,264,264,Variegated Cornelian Cherry Dogwood,Cornus mas 'Variegata',Cornelian cherry,False,True,False,False,False,True,True,"full sun, part shade",Average,Perennial,Moderate
-265,265,265,Paul's Scarlet English Hawthorn,Crataegus laevigata 'Paul's Scarlet',,False,False,False,True,False,True,True,Full sun,Frequent,Perennial,High
-266,266,266,Japanese Cedar,Cryptomeria japonica,,False,False,False,False,False,False,True,"Full sun,  Part sun/part shade,  Sheltered",Average,Perennial,Low
-267,267,267,Yoshino Japanese Cedar,Cryptomeria japonica 'Yoshino',,False,False,False,False,False,False,True,"Full sun,  Part sun/part shade,  Sheltered",Average,Perennial,Low
-268,268,268,Leyland Cypress,Cupressocyparis x leylandii,,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,High
-269,269,269,Castlewellan Leyland Cypress,Cupressocyparis x leylandii 'Castlewellan',Golden Leyland Cypress,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,High
-270,270,270,Gold Rider Leyland Cypress,Cupressocyparis x leylandii 'Gold Rider',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-271,271,271,Naylor's Blue Leyland Cypress,Cupressocyparis x leylandii 'Naylor's Blue',x Cupressocyparis leylandii,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,High
-272,272,272,Dove Tree,Davidia involucrata,"Handkerchief Tree, Ghost Tree",False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Moderate
-273,273,273,Japanese Persimmon,Diospyros kaki,"syn. D. chinensis Blume, Asian Persimmon, Keg Fig",False,True,False,True,False,True,True,"full sun, part shade",Average,Perennial,High
-274,274,274,Common Persimmon,Diospyros virginiana,"American Persimmon, Eastern Persimmon",False,True,False,True,False,True,True,full sun,Average,Perennial,Low
-275,275,275,Mountain Pepper,Drimys lanceolata,"Cornish Pepper Leaf, Tasmannia lanceolata",False,True,False,True,False,True,True,"Full sun, part shade",Average,Perennial,Low
-276,276,276,Russian Olive,Elaeagnus angustifolia,Oleaster,False,True,False,True,False,True,True,Full sun,Average,Perennial,High
-277,277,277,Japanese Blueberry Tree,Elaeocarpus decipiens,,False,True,False,True,False,True,False,"full sun, part shade",Average,Perennial,Low
-278,278,278,Loquat,Eriobotrya japonica,Japanese Plum,False,True,False,True,False,True,True,"full sun, part sun/part shade",Minimum,Perennial,High
-279,279,279,Spindle Tree,Euonymus europaeus,"European Euonymus, European euonymus",False,False,False,False,False,True,True,"Filtered shade,  Full sun,  Part sun/part shade",Average,Perennial,Moderate
-280,280,280,Dawyck Gold Beech,Fagus sylvatica 'Dawyck Gold',"Golden Fastigiate Beech, European Beech",False,False,False,False,False,True,True,full sun,Average,Perennial,Moderate
-281,281,281,Dawyck Purple Beech,Fagus sylvatica 'Dawyck Purple',"Golden Fastigiate Beech, European Beech",False,False,False,False,False,True,True,Full sun,Average,Perennial,Moderate
-282,282,282,Pyramidal Beech,Fagus sylvatica 'Fastigiata',"Golden Fastigiate Beech, European Beech",False,False,False,False,False,True,True,Full sun,Average,Perennial,Moderate
-283,283,283,Weeping Beech,Fagus sylvatica 'Pendula',"Golden Fastigiate Beech, European Beech",False,False,False,False,False,True,True,full sun,Average,Perennial,Moderate
-284,284,284,Purple Fountain Beech,Fagus sylvatica 'Purple Fountain',"Golden Fastigiate Beech, European Beech",False,False,False,False,False,True,True,full sun,Average,Perennial,Moderate
-285,285,285,Purple Beech,Fagus sylvatica 'Purpurea',"Golden Fastigiate Beech, European Beech",False,False,False,False,False,True,True,Full sun,Average,Perennial,Moderate
-286,286,286,Weeping Purple Beech,Fagus sylvatica 'Purpurea Pendula',"Golden Fastigiate Beech, European Beech",False,False,False,False,False,True,True,full sun,Average,Perennial,Moderate
-287,287,287,Red Obelisk Beech,Fagus sylvatica 'Red Obelisk',"Golden Fastigiate Beech, European Beech",False,False,False,False,False,True,True,full sun,Frequent,Perennial,Moderate
-288,288,288,Common Fig,Ficus carica,garden fig,False,True,False,True,False,True,True,"full sun, part sun/part shade",Minimum,Perennial,Low
-289,289,289,Kadota Fig,Ficus carica 'Kadota',garden fig,False,True,False,False,False,True,True,full sun,Average,Perennial,Low
-290,290,290,Mission Fig,Ficus carica 'Mission',garden fig,False,True,False,True,False,True,True,"full sun, part shade",Average,Perennial,Low
-291,291,291,Peter's Honey Fig,Ficus carica 'Peter's Honey',garden fig,False,True,False,True,False,True,True,full sun,Average,Perennial,Low
-292,292,292,Franklin Tree,Franklinia alatamaha,Franklinia Tree,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Low
-293,293,293,Fallgold Black Ash,Fraxinus nigra 'Fallgold',swamp ash,False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Moderate
-294,294,294,Leprechaun Green Ash,Fraxinus pennsylvanica 'Leprechaun',Red Ash,False,False,False,False,False,True,True,full sun,Average,Perennial,Moderate
-295,295,295,Patmore Green Ash,Fraxinus pennsylvanica 'Patmore',Red Ash,False,False,False,False,False,True,True,full sun,Average,Perennial,Moderate
-296,296,296,Ginkgo,Ginkgo biloba,"Maidenhair Tree, ginkgo",False,True,False,True,False,True,True,Full sun,Average,Perennial,Moderate
-297,297,297,Autumn Gold Ginkgo,Ginkgo biloba 'Autumn Gold',"Maidenhair Tree, ginkgo",False,False,False,True,False,True,True,full sun,Average,Perennial,Moderate
-298,298,298,Magyar Ginkgo,Ginkgo biloba 'Magyar',"Maidenhair Tree, ginkgo",False,False,False,True,False,True,True,Full sun,Average,Perennial,Moderate
-299,299,299,Princeton Sentry Ginkgo,Ginkgo biloba 'Princeton Sentry',"Maidenhair Tree, ginkgo",False,True,False,True,False,True,True,full sun,Average,Perennial,Moderate
-300,300,300,Saratoga Ginkgo,Ginkgo biloba 'Saratoga',"Maidenhair Tree, ginkgo",False,False,False,True,False,True,True,full sun,Frequent,Perennial,Moderate
-301,301,301,Sunburst Honeylocust,Gleditsia triacanthos 'Suncole',,False,False,False,False,False,True,True,Full sun,Average,Perennial,High
-302,302,302,Sea Buckthorn,Hippophae rhamnoides,Russian Sandthorn,False,True,False,True,False,False,True,full sun,Frequent,Perennial,High
-303,303,303,Tree Form Pee Gee Hydrangea,Hydrangea paniculata 'Grandiflora (tree form)',P.G. Hydrangea,False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,High
-304,304,304,Limelight Hydrangea (tree form),Hydrangea paniculata 'Limelight (tree form)',P.G. Hydrangea,False,False,False,False,False,True,True,"filtered shade, full sun",Frequent,Perennial,High
-305,305,305,Pink Diamond Hydrangea (tree form),Hydrangea paniculata 'Pink Diamond (tree form)',P.G. Hydrangea,False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,High
-306,306,306,Tardiva Hydrangea (tree form),Hydrangea paniculata 'Tardiva (tree form)',P.G. Hydrangea,False,False,False,False,False,True,True,"Filtered shade,  Full sun",Average,Perennial,High
-307,307,307,Carpathian English Walnut,Juglans regia 'Carpathian',"Common Walnut, Persian Walnut",False,True,False,True,False,True,True,full sun,Frequent,Perennial,Moderate
-308,308,308,Blue Chip Juniper (tree form),Juniperus horizontalis 'Blue Chip (tree form)',,False,False,False,False,False,True,True,"full sun, part sun/part shade",Minimum,Perennial,Low
-309,309,309,Dwarf Japanese garden Juniper (tree form),Juniperus procumbens 'Nana (tree form)',Japgarden Juniper,False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Low
-310,310,310,Rocky Mountain Juniper,Juniperus scopulorum,Colorado Redcedar,False,False,False,True,False,False,False,Full sun,Average,Perennial,Low
-311,311,311,Blue Star Juniper,Juniperus squamata 'Blue Star (tree form)',"Singleseed Juniper, Blue Star juniper",False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Low
-312,312,312,Daub's Frosted Juniper (tree form),Juniperus x media 'Daub's Frosted (tree form)',,False,False,False,False,False,False,False,"full sun, part shade",Frequent,Perennial,High
-313,313,313,Golden Rain Tree,Koelreuteria paniculata,"Varnish Tree, Pride of India",False,False,False,False,False,True,True,Full sun,Average,Perennial,Low
-314,314,314,Coral Sun Golden Rain Tree,Koelreuteria paniculata 'Coral Sun',"Varnish Tree, Pride of India",False,False,False,False,False,True,True,full sun,Average,Perennial,High
-315,315,315,Weeping Laburnum,Laburnum x watereri 'Pendulum',Golden Chain Tree,False,False,False,False,True,False,False,"full sun, part shade",Average,Perennial,Low
-316,316,316,Vossii Laburnum,Laburnum x watereri 'Vossii',Golden Chain Tree,False,False,False,False,True,False,False,"full sun, part shade",Frequent,Perennial,High
-317,317,317,Near East Crapemyrtle,Lagerstroemia indica 'Near East',"Crape Myrtle, Crepe Myrtle",False,False,False,False,False,True,True,full sun,Frequent,Perennial,Low
-318,318,318,Bay Laurel,Laurus nobilis,"Sweet Bay, Bay Leaf",False,True,False,True,False,True,True,"full sun, part sun/part shade",Minimum,Perennial,Moderate
-319,319,319,Sweet Gum,Liquidambar styraciflua,American Sweet Gum,False,False,False,False,False,True,True,full sun,Average,Perennial,Moderate
-320,320,320,Round Leaf Sweet Gum,Liquidambar styraciflua 'Rotundiloba',American Sweet Gum,False,False,False,False,False,True,True,full sun,Average,Perennial,Moderate
-321,321,321,Silver King Sweet Gum,Liquidambar styraciflua 'Silver King',American Sweet Gum,False,False,False,False,False,True,True,full sun,Average,Perennial,Moderate
-322,322,322,Slender Silhouette Sweet Gum,Liquidambar styraciflua 'Slender Silhouette',American Sweet Gum,False,False,False,False,False,True,True,full sun,Average,Perennial,Moderate
-323,323,323,Worplesdon Sweet Gum,Liquidambar styraciflua 'Worplesdon',American Sweet Gum,False,False,False,False,False,True,True,full sun,Minimum,Perennial,Moderate
-324,324,324,Tuliptree,Liriodendron tulipifera,"Tulip Magnolia, Yellow Poplar, Whitewood",False,False,False,False,False,True,True,Full sun,Average,Perennial,High
-325,325,325,Arnold Tuliptree,Liriodendron tulipifera 'Arnold',"Tulip Magnolia, Yellow Poplar, Whitewood",False,False,False,False,False,True,True,Full sun,Average,Perennial,High
-326,326,326,Yellow Variegated Tuliptree,Liriodendron tulipifera 'Aureomarginatum',"Tulip Magnolia, Yellow Poplar, Whitewood",False,False,False,False,False,True,True,full sun,Minimum,Perennial,High
-327,327,327,Fastigiatum Tuliptree,Liriodendron tulipifera 'Fastigiatum',"Tulip Magnolia, Yellow Poplar, Whitewood",False,False,False,False,False,True,True,full sun,Frequent,Perennial,High
-328,328,328,Butterflies Magnolia,Magnolia 'Butterflies',,False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,Low
-329,329,329,Daybreak Magnolia,Magnolia 'Daybreak',,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,High
-330,330,330,Elizabeth Magnolia,Magnolia 'Elizabeth',,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,High
-331,331,331,Gold Star Magnolia,Magnolia 'Gold Star',,False,False,False,False,False,True,True,full sun,Average,Perennial,High
-332,332,332,Golden Gift Magnolia,Magnolia 'Golden Gift',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,High
-333,333,333,Marilyn Magnolia,Magnolia 'Marilyn',,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,High
-334,334,334,Rose Marie Magnolia,Magnolia 'Rose Marie',Rosemarie Magnolia,False,False,False,False,False,False,False,"full sun, part shade",Minimum,Perennial,Low
-335,335,335,Star Wars Magnolia,Magnolia 'Star Wars',,False,False,False,False,False,False,False,full sun,Frequent,Perennial,High
-336,336,336,Sunburst Magnolia,Magnolia 'Sunburst',,False,False,False,False,False,False,False,full sun,Average,Perennial,High
-337,337,337,Yellow Bird Magnolia,Magnolia 'Yellow Bird',,False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-338,338,338,Yulan Magnolia,Magnolia denudata,Yulan magnolia,False,False,False,True,False,True,True,"full sun, part shade",Average,Perennial,Low
-339,339,339,Southern Magnolia,Magnolia grandiflora,Bull Bay,False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,Moderate
-340,340,340,Bracken's Brown Beauty Magnolia,Magnolia grandiflora 'Bracken's Brown Beauty',Bull Bay,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Moderate
-341,341,341,D.D. Blanchard Magnolia,Magnolia grandiflora 'D.D. Blanchard',Bull Bay,False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,Moderate
-342,342,342,Little Gem Magnolia,Magnolia grandiflora 'Little Gem',Bull Bay,False,False,False,False,False,True,True,"Full sun, part shade",Average,Perennial,Moderate
-343,343,343,Teddy Bear® Magnolia,Magnolia grandiflora 'Southern Charm',Bull Bay,False,False,False,False,False,True,True,"full sun, part shade",Average,Perennial,Moderate
-344,344,344,Kobus Magnolia,Magnolia kobus,,False,False,False,False,False,False,True,"full sun, part sun/part shade",Average,Perennial,Low
-345,345,345,Wada's Memory Magnolia,Magnolia kobus 'Wada's Memory',,False,False,False,False,False,True,True,"full sun, part sun/part shade",Frequent,Perennial,Low
-346,346,346,Oyama Magnolia,Magnolia sieboldii,"Siebold's Magnolia, Summer Magnolia",False,False,False,True,False,True,True,full sun,Average,Perennial,Moderate
-347,347,347,Leonard Messel Magnolia,Magnolia x loebneri 'Leonard Messel',,False,False,False,False,False,True,True,Full sun,Average,Perennial,Moderate
-348,348,348,Merrill Magnolia,Magnolia x loebneri 'Merrill',,False,False,False,False,False,True,True,full sun,Frequent,Perennial,Moderate
-349,349,349,Alexandrina Saucer Magnolia,Magnolia x soulangeana 'Alexandrina',,False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Moderate
-350,350,350,Rustica Rubra Magnolia,Magnolia x soulangeana 'Rustica Rubra',,False,False,False,False,False,True,True,"full sun, part sun/part shade",Average,Perennial,Moderate
-351,351,351,Akane Apple,Malus 'Akane',,False,False,False,False,False,True,False,full sun,Frequent,Perennial,High
-352,352,352,Ambrosia Apple,Malus 'Ambrosia',,False,True,False,False,False,True,False,full sun,Average,Perennial,High
-353,353,353,Belle de Boskoop Apple,Malus 'Belle de Boskoop',,False,True,False,False,False,True,False,full sun,Frequent,Perennial,Low
-354,354,354,Braeburn Apple,Malus 'Braeburn',,False,True,False,False,False,True,True,"full sun, filtered shade",Frequent,Perennial,High
-355,355,355,Candied Apple Flowering Crab,Malus 'Candied Apple',"Roseybloom, Crabapple",False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-356,356,356,Chehalis Apple,Malus 'Chehalis',,False,True,False,False,False,True,False,full sun,Average,Perennial,High
-357,357,357,Cortland Apple,Malus 'Cortland',,False,True,False,False,False,True,False,full sun,Frequent,Perennial,Low
-358,358,358,Cox's Orange Pippin Apple,Malus 'Cox's Orange Pippin',Cox Orange,False,True,False,False,False,True,False,full sun,Frequent,Perennial,High
-359,359,359,Dolgo Apple,Malus 'Dolgo',"Roseybloom, Crabapple",False,True,False,True,False,True,False,full sun,Average,Perennial,High
-360,360,360,Donald Wyman Flowering Crab,Malus 'Donald Wyman',"Roseybloom, Crabapple",False,False,False,False,False,False,True,full sun,Average,Perennial,Low
-361,361,361,Elstar Apple,Malus 'Elstar',,False,True,False,False,False,True,False,full sun,Average,Perennial,High
-362,362,362,Gala Apple,Malus 'Gala',,False,True,False,False,False,True,False,full sun,Frequent,Perennial,High
-363,363,363,Golden Delicious Apple,Malus 'Golden Delicious',,False,True,False,False,False,True,False,"full sun, part shade",Frequent,Perennial,Low
-364,364,364,Golden Russet Apple,Malus 'Golden Russet',,False,True,False,False,False,True,False,full sun,Frequent,Perennial,Low
-365,365,365,Granny Smith Apple,Malus 'Granny Smith',,False,True,False,False,False,True,False,full sun,Frequent,Perennial,Low
-366,366,366,Gravenstein Apple,Malus 'Gravenstein',,False,True,False,False,False,True,False,"full sun, part sun/part shade",Average,Perennial,High
-367,367,367,Honeycrisp Apple,Malus 'Honeycrisp',,False,True,False,False,False,True,False,full sun,Frequent,Perennial,High
-368,368,368,Jonagold Apple,Malus 'Jonagold',,False,True,False,False,False,True,True,full sun,Average,Perennial,High
-369,369,369,Jonathan Apple,Malus 'Jonathan',,False,True,False,False,False,True,False,"full sun, part shade",Frequent,Perennial,High
-370,370,370,Liberty Apple,Malus 'Liberty',,False,True,False,False,False,True,True,"full sun, part shade",Frequent,Perennial,High
-371,371,371,Lodi Apple,Malus 'Lodi',,False,True,False,False,False,True,False,full sun,Frequent,Perennial,Low
-372,372,372,Louisa Flowering Crab,Malus 'Louisa',"Roseybloom, Crabapple",False,False,False,False,False,False,True,full sun,Average,Perennial,Low
-373,373,373,Macintosh Apple,Malus 'Macintosh',,False,True,False,False,False,True,False,"full sun, part shade",Frequent,Perennial,High
-374,374,374,Melrose Apple,Malus 'Melrose',,False,True,False,False,False,True,False,full sun,Average,Perennial,High
-375,375,375,Norland Apple,Malus 'Norland',,False,True,False,False,False,True,False,full sun,Frequent,Perennial,High
-376,376,376,Pink Lady Apple,Malus 'Pink Lady',,False,True,False,False,False,True,False,full sun,Frequent,Perennial,High
-377,377,377,Prairifire Flowering Crab,Malus 'Prairifire',"Prairiefire, Prairie Fire, Prairefire",False,False,False,False,False,False,True,full sun,Average,Perennial,High
-378,378,378,Red Delicious Apple,Malus 'Red Delicious',,False,True,False,False,False,True,False,"full sun, part shade",Frequent,Perennial,Low
-379,379,379,Red Jewel Flowering Crab,Malus 'Red Jewel',"Roseybloom, Crabapple",False,False,False,False,False,False,False,"full sun, part shade",Average,Perennial,Low
-380,380,380,Scarlet Pippin Apple,Malus 'Scarlet Pippin',,False,True,False,False,False,True,False,full sun,Frequent,Perennial,High
-381,381,381,Sentinel Flowering Crab,Malus 'Sentinel',"Roseybloom, Crabapple",False,False,False,False,False,False,False,full sun,Average,Perennial,Low
-382,382,382,Snowdrift Flowering Crab,Malus 'Snowdrift',"Roseybloom, Crabapple",False,False,False,False,False,False,True,full sun,Average,Perennial,High
-383,383,383,Spartan Apple,Malus 'Spartan',,False,True,False,False,False,True,False,full sun,Average,Perennial,High
-384,384,384,Summerland Apple,Malus 'Summerland',Summerland MacIntosh Apple,False,True,False,False,False,True,False,full sun,Frequent,Perennial,High
-385,385,385,Wealthy Apple,Malus 'Wealthy',,False,True,False,False,False,True,False,"full sun, part sun/part shade",Average,Perennial,High
-386,386,386,Yellow Transparent Apple,Malus 'Yellow Transparent',,False,True,False,False,False,True,False,full sun,Average,Perennial,Low
-387,387,387,Zestar Apple,Malus 'Zestar',,False,True,False,False,False,True,False,full sun,Frequent,Perennial,High
-388,388,388,Dawn Redwood,Metasequoia glyptostroboides,,False,False,False,False,False,False,True,full sun,Average,Perennial,High
-389,389,389,Gold Rush Dawn Redwood,Metasequoia glyptostroboides 'Gold Rush',,False,False,False,False,False,False,True,full sun,Frequent,Perennial,High
-390,390,390,Black Gum,Nyssa sylvatica,"Tupelo, Black Tupelo, Sour Gum, Pepperidge",False,False,False,True,False,True,True,"full sun, part sun/part shade, sheltered",Average,Perennial,Moderate
-391,391,391,Arbequina European Olive,Olea europaea 'Arbequina',,False,True,False,False,False,True,True,full sun,Average,Perennial,Moderate
-392,392,392,Sourwood,Oxydendron arboreum,,False,False,False,True,False,True,False,"full sun, part shade",Average,Perennial,Low
-393,393,393,Persian Parrotia,Parrotia persica,"Persian Ironwood, Persian ironwood",False,False,False,True,False,True,True,full sun,Average,Perennial,Moderate
-394,394,394,Royal Empress Tree,Paulownia tomentosa,"Princess Tree, empress tree",False,False,False,True,False,True,True,"full sun, part sun/part shade, sheltered",Average,Perennial,High
-395,395,395,Norway Spruce,Picea abies,Norwegian Spruce,False,True,False,True,False,False,True,"Full sun,  Part sun/part shade",Average,Perennial,High
+1,1.0,,European Silver Fir,Abies alba,Common Silver Fir,False,False,False,True,False,False,False,['full sun'],Frequent,Every year,High
+2,2.0,,Pyramidalis Silver Fir,Abies alba 'Pyramidalis',,False,False,False,False,False,False,False,['full sun'],Average,Every year,Low
+3,3.0,,White Fir,Abies concolor,Silver Fir,False,False,False,True,False,False,True,"['Full sun', 'part shade']",Average,Every year,Low
+4,4.0,,Candicans White Fir,Abies concolor 'Candicans',Silver Fir,False,False,False,False,False,False,False,['full sun'],Average,Every year,Low
+5,5.0,,Fraser Fir,Abies fraseri,Southern Fir,False,False,False,False,False,False,True,"['full sun', 'part shade', 'filtered shade']",Frequent,Every year,Moderate
+6,6.0,,Golden Korean Fir,Abies koreana 'Aurea',,False,False,False,False,False,False,True,"['Full sun', 'part shade']",Average,Every year,Low
+7,7.0,,Alpine Fir,Abies lasiocarpa,Subalpine Fir,False,False,False,False,False,False,True,"['full sun', 'part shade']",Average,Every year,Low
+8,8.0,,Blue Spanish Fir,Abies pinsapo 'Glauca',Glaucous Spanish Fir,False,False,False,False,False,False,True,"['Full sun', 'part shade']",Average,Every year,Low
+9,9.0,,Noble Fir,Abies procera,Red Fir,False,False,False,True,False,False,True,['full sun'],Average,Every year,Low
+10,10.0,,Johin Japanese Maple,Acer 'Johin',Red Full Moon Maple,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+11,11.0,,Snakebark Maple,Acer davidii,Father David's Maple,False,False,False,True,False,False,True,"['Full sun', 'part shade']",Average,Every year,Low
+12,12.0,,Amur Maple,Acer ginnala,,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+13,13.0,,Flame Amur Maple,Acer ginnala 'Flame',,False,False,False,False,False,False,False,['full sun'],Frequent,Every year,High
+14,14.0,,Red Rhapsody Amur Maple,Acer ginnala 'Mondy',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,High
+15,15.0,,Ruby Slippers Amur Maple,Acer ginnala 'Ruby Slippers',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+16,16.0,,Paperbark Maple,Acer griseum,,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,Low
+17,17.0,,Fullmoon Maple,Acer japonicum,,False,False,False,False,False,False,True,"['Full sun', 'part shade']",Average,Every year,Low
+18,18.0,,Cutleaf Fullmoon Maple,Acer japonicum 'Aconitifolium',fernleaf full moon maple,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,Moderate
+19,19.0,,Attaryi Fullmoon Maple*,Acer japonicum 'Attaryi',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,High
+20,20.0,,Golden Fullmoon Maple,Acer japonicum 'Aureum',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+21,21.0,,Emmett's Pumpkin Fullmoon Maple,Acer japonicum 'Emmett's Pumpkin',,False,False,False,False,False,False,False,"['full sun', 'part shade', 'filtered shade']",Average,Every year,Low
+22,22.0,,Green Cascade Maple,Acer japonicum 'Green Cascade',,False,False,False,False,False,False,True,"['Full sun', 'part shade']",Average,Every year,Low
+23,23.0,,Big Leaf Maple,Acer macrophyllum,Oregon Maple,False,False,False,True,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Moderate
+24,24.0,,Mocha Rose Big Leaf Maple,Acer macrophyllum 'Mocha Rose',Oregon Maple,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Moderate
+25,25.0,,Flamingo Boxelder,Acer negundo 'Flamingo',Manitoba Maple,False,False,False,False,False,False,True,"['full sun', 'part sun/part shade']",Average,Every year,Low
+26,26.0,,Kelly's Gold Boxelder,Acer negundo 'Kelly's Gold',Manitoba Maple,False,False,False,False,False,False,True,"['full sun', 'part sun/part shade']",Frequent,Every year,Low
+27,27.0,,Japanese Maple,Acer palmatum,,False,False,False,True,False,True,True,"['Full sun', 'part shade']",Average,Every year,Low
+28,28.0,,Aka Shigitatsu Sawa Japanese Maple,Acer palmatum 'Aka Shigitatsu Sawa',Samurai,False,False,False,False,False,False,False,['part sun/part shade'],Frequent,Every year,Low
+29,29.0,,Alpenweiss Variegated Dwarf Japanese Maple*,Acer palmatum 'Alpenweiss',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+30,30.0,,Ao Shime No Uchi Japanese Maple,Acer palmatum 'Ao Shime No Uchi',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+31,31.0,,Aoyagi Japanese Maple*,Acer palmatum 'Aoyagi',Green Coral Japanese Maple,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+32,32.0,,Arakawa Cork Bark Japanese Maple,Acer palmatum 'Arakawa',Rough-Bark Japanese Maple,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,Low
+33,33.0,,Asahi Zuru Japanese Maple,Acer palmatum 'Asahi Zuru',Rising Sun,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+34,34.0,,Ribbon-leaf Japanese Maple*,Acer palmatum 'Atrolineare',Red Strap-Leaf Japanese Maple,False,False,False,False,False,False,False,"['full sun', 'part shade']",Minimum,Every year,Low
+35,35.0,,Purple-Leaf Japanese Maple,Acer palmatum 'Atropurpureum',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+36,36.0,,Aureum Japanese Maple*,Acer palmatum 'Aureum',,False,False,False,False,False,False,False,"['part shade', 'part sun/part shade']",Average,Every year,Low
+37,37.0,,Autumn Fire Japanese Maple,Acer palmatum 'Autumn Fire',Herbstfeuer,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+38,38.0,,Azuma Murasaki Japanese Maple,Acer palmatum 'Azuma Murasaki',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+39,39.0,,Beni Kawa Coral Bark Japanese Maple*,Acer palmatum 'Beni Kawa',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Moderate
+40,40.0,,Beni Otake Japanese Maple,Acer palmatum 'Beni Otake',Big Red Bamboo,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+41,41.0,,Beni Schichihenge Japanese Maple,Acer palmatum 'Beni Schichihenge',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+42,42.0,,Beni Tsukasa Japanese Maple*,Acer palmatum 'Beni Tsukasa',Calico Cloth,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+43,43.0,,Bloodgood Japanese Maple,Acer palmatum 'Bloodgood',,False,False,False,False,False,False,True,"['full sun', 'part sun/part shade']",Average,Every year,High
+44,44.0,,Bonfire Japanese Maple,Acer palmatum 'Bonfire',Seigai,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+45,45.0,,Brandt's Dwarf Japanese Maple,Acer palmatum 'Brandt's Dwarf',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+46,46.0,,Burgundy Lace Japanese Maple,Acer palmatum 'Burgundy Lace',,False,False,False,False,False,False,True,"['full sun', 'part shade']",Average,Every year,Low
+47,47.0,,Butterfly Variegated Japanese Maple,Acer palmatum 'Butterfly',,False,False,False,False,False,False,True,"['Full sun', 'part shade']",Average,Every year,Low
+48,48.0,,Chantilly Lace Japanese Maple,Acer palmatum 'Chantilly Lace',Threadleaf Japanese Maple,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+49,49.0,,Chishio Japanese Maple,Acer palmatum 'Chishio',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+50,50.0,,Chitose Yama Japanese Maple,Acer palmatum 'Chitose Yama',Chitoseyama,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+51,51.0,,Coonara Pygmy Japanese Maple,Acer palmatum 'Coonara Pygmy',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+52,52.0,,Crimson Prince Japanese Maple*,Acer palmatum 'Crimson Prince',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Moderate
+53,53.0,,Ever Red Lace-Leaf Japanese Maple*,Acer palmatum 'Ever Red',,False,False,False,False,False,False,False,['full sun'],Average,Every year,Low
+54,54.0,,Glowing Embers Japanese Maple*,Acer palmatum 'Glowing Embers',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+55,55.0,,Grandma Ghost Japanese Maple*,Acer palmatum 'Grandma Ghost',Grandma's Ghost Japanese Maple,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+56,56.0,,Green Hornet Cutleaf Japanese Maple*,Acer palmatum 'Green Hornet',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Moderate
+57,57.0,,Green Mist Japanese Maple*,Acer palmatum 'Green Mist',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+58,58.0,,Shirazz Japanese Maple,Acer palmatum 'Gwen's Rose Delight',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+59,59.0,,Hessei Japanese Maple,Acer palmatum 'Hessei',,False,False,False,False,False,False,False,"['part shade', 'part sun/part shade']",Average,Every year,Low
+60,60.0,,Higasa Yama Japanese Maple,Acer palmatum 'Higasa Yama',Higasayama,False,False,False,False,False,False,False,"['part sun/part shade', 'part shade']",Average,Every year,Low
+61,61.0,,Hogyoku Japanese Maple,Acer palmatum 'Hogyoku',,False,False,False,False,False,False,True,"['full sun', 'part shade']",Average,Every year,Low
+62,62.0,,Hubb's Red Willow Japanese Maple,Acer palmatum 'Hubb's Red Willow',,False,False,False,False,False,False,False,"['part shade', 'part sun/part shade']",Frequent,Every year,Low
+63,63.0,,Iijima Sunago Japanese Maple,Acer palmatum 'Iijima Sunago',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+64,64.0,,Inaba Shidare Cutleaf Japanese Maple,Acer palmatum 'Inaba Shidare',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+65,65.0,,Inazuma Japanese Maple,Acer palmatum 'Inazuma',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+66,66.0,,Jiro Shidare Japanese Maple,Acer palmatum 'Jiro Shidare',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+67,67.0,,Kagiri Nishiki Japanese Maple,Acer palmatum 'Kagiri Nishiki',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+68,68.0,,Kamagata Japanese Maple,Acer palmatum 'Kamagata',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+69,69.0,,Kandy Kitchen Japanese Maple,Acer palmatum 'Kandy Kitchen',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+70,70.0,,Karasu Gawa Japanese Maple*,Acer palmatum 'Karasu Gawa',Karasugawa,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Moderate
+71,71.0,,Kasagi Yama Japanese Maple,Acer palmatum 'Kasagi Yama',Kasagiyama Japanese Maple,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+72,72.0,,Katsura Japanese Maple,Acer palmatum 'Katsura',,False,False,False,False,False,False,True,"['part shade', 'part sun/part shade']",Average,Every year,Low
+73,73.0,,Kiri Nishiki Japanese Maple,Acer palmatum 'Kiri Nishiki',,False,False,False,False,False,False,False,"['full sun', 'part sun/part shade']",Frequent,Every year,Low
+74,74.0,,Kiyohime Japanese Maple,Acer palmatum 'Kiyohime',Kiyo Hime,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+75,75.0,,Koshibori Nishiki Japanese Maple*,Acer palmatum 'Koshibori Nishiki',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+76,76.0,,Koto No Ito Japanese Maple,Acer palmatum 'Koto No Ito',Harp String,False,False,False,False,False,True,True,"['filtered shade', 'full sun only if soil kept moist', 'part sun/part shade']",Average,Every year,Moderate
+77,77.0,,Linearilobum Japanese Maple,Acer palmatum 'Linearilobum',Bamboo-Leaf Japanese Maple,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+78,78.0,,Margaret Bee Japanese Maple,Acer palmatum 'Margaret Bee',,False,False,False,False,False,False,False,"['part shade', 'part sun/part shade']",Average,Every year,Low
+79,79.0,,Mikawa Yatsubusa Japanese Maple,Acer palmatum 'Mikawa Yatsubusa',,False,False,False,False,False,False,False,"['part shade', 'part sun/part shade']",Average,Every year,Low
+80,80.0,,Mikazuki Japanese Maple,Acer palmatum 'Mikazuki',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+81,81.0,,Moonfire Japanese Maple,Acer palmatum 'Moonfire',,False,False,False,False,False,False,False,"['part sun/part shade', 'full sun']",Average,Every year,Low
+82,82.0,,Nishiki Gawa Japanese Maple*,Acer palmatum 'Nishiki Gawa',Pine Bark Maple,False,False,False,False,False,False,True,['full sun'],Average,Every year,Low
+83,83.0,,Nuresagi Japanese Maple,Acer palmatum 'Nuresagi',Wet Heron Japanese Maple,False,False,False,False,False,True,True,"['full sun', 'part shade']",Frequent,Every year,Low
+84,84.0,,Okagami Japanese Maple,Acer palmatum 'Okagami',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+85,85.0,,Okushimo Japanese Maple,Acer palmatum 'Okushimo',Okushimu,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+86,86.0,,Orange Dream Japanese Maple,Acer palmatum 'Orange Dream',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+87,87.0,,Orangeola Cutleaf Japanese Maple,Acer palmatum 'Orangeola',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Moderate
+88,88.0,,Oregon Sunset Japanese Maple,Acer palmatum 'Oregon Sunset',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+89,89.0,,Oridono Nishiki Japanese Maple*,Acer palmatum 'Oridono Nishiki',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Moderate
+90,90.0,,Ornatum Japanese Maple*,Acer palmatum 'Ornatum',Dissectum Ornatum,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+91,91.0,,Osakazuki Japanese Maple,Acer palmatum 'Osakazuki',,False,False,False,False,False,False,True,"['full sun', 'part shade']",Average,Every year,Low
+92,92.0,,Oshio Beni Japanese Maple,Acer palmatum 'Oshio Beni',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+93,93.0,,Oshu Shidare Japanese Maple,Acer palmatum 'Oshu Shidare',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+94,94.0,,Otake Japanese Maple,Acer palmatum 'Otake',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+95,95.0,,Otome Zakura Japanese Maple*,Acer palmatum 'Otome Zakura',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+96,96.0,,Palmatifidum Japanese Maple*,Acer palmatum 'Palmatifidum',Dissectum Paucum,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+97,97.0,,Peaches And Cream Japanese Maple,Acer palmatum 'Peaches And Cream',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+98,98.0,,Pendulum Julian Japanese Maple*,Acer palmatum 'Pendulum Julian',Julian Dissectum,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+99,99.0,,Pink Lace Japanese Maple*,Acer palmatum 'Pink Lace',,False,False,False,False,False,False,False,['full sun'],Frequent,Every year,Low
+100,100.0,,Pixie Japanese Maple,Acer palmatum 'Pixie',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+101,101.0,,Purple Ghost Japanese Maple*,Acer palmatum 'Purple Ghost',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+102,102.0,,Red Dragon Japanese Maple,Acer palmatum 'Red Dragon',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+103,103.0,,Red Feathers Japanese Maple*,Acer palmatum 'Red Feathers',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+104,104.0,,Red Filigree Lace Japanese Maple,Acer palmatum 'Red Filigree Lace',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+105,105.0,,Dwarf Red Pygmy Japanese Maple,Acer palmatum 'Red Pygmy',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+106,106.0,,Red Select Japanese Maple*,Acer palmatum 'Red Select',,False,False,False,False,False,True,True,"['full sun', 'part shade']",Frequent,Every year,Low
+107,107.0,,Rhode Island Red Japanese Maple,Acer palmatum 'Rhode Island Red',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+108,108.0,,Ruby Ridge Japanese Maple*,Acer palmatum 'Ruby Ridge',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+109,109.0,,Ruby Stars Japanese Maple*,Acer palmatum 'Ruby Stars',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+110,110.0,,Ruslyn In The Pink Japanese Maple,Acer palmatum 'Ruslyn In The Pink',,False,False,False,False,False,False,False,"['part sun/part shade', 'part shade']",Frequent,Every year,Low
+111,111.0,,Ryusen Japanese Maple,Acer palmatum 'Ryusen',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+112,112.0,,Sagara Nishiki Japanese Maple,Acer palmatum 'Sagara Nishiki',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+113,113.0,,Samurai Sword Japanese Maple,Acer palmatum 'Samarzam',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+114,114.0,,Coral Bark Japanese Maple,Acer palmatum 'Sango Kaku',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Moderate
+115,115.0,,Sazanami Japanese Maple,Acer palmatum 'Sazanami',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+116,116.0,,Scolopendrifolium Japanese Maple,Acer palmatum 'Scolopendrifolium',Scolopendrifolium Rubrum,False,False,False,False,False,False,True,"['full sun', 'part shade']",Average,Every year,Low
+117,117.0,,Seiryu Japanese Maple,Acer palmatum 'Seiryu',,False,False,False,False,False,False,False,['part sun/part shade'],Frequent,Every year,High
+118,118.0,,Shaina Japanese Maple,Acer palmatum 'Shaina',,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Low
+119,119.0,,Sherwood Elfin Japanese Maple*,Acer palmatum 'Sherwood Elfin',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+120,120.0,,Sherwood Flame Japanese Maple,Acer palmatum 'Sherwood Flame',,False,False,False,False,False,False,True,"['full sun', 'part shade']",Average,Every year,Low
+121,121.0,,Shindeshojo Japanese Maple,Acer palmatum 'Shindeshojo',Shin Deshojo,False,False,False,False,False,False,True,"['full sun', 'part shade']",Average,Every year,Low
+122,122.0,,Shinobuga Oka Japanese Maple*,Acer palmatum 'Shinobuga Oka',Shinobu Ga Oka,False,False,False,False,False,False,False,['full sun'],Average,Every year,Low
+123,123.0,,Lions Head Japanese Maple,Acer palmatum 'Shishigashira',,False,False,False,False,False,False,True,"['full sun', 'part shade']",Average,Every year,Low
+124,124.0,,Shishio Hime Japanese Maple*,Acer palmatum 'Shishio Hime',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+125,125.0,,Spring Delight Japanese Maple,Acer palmatum 'Spring Delight',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+126,126.0,,Suminagashi Japanese Maple,Acer palmatum 'Suminagashi',Sumi Nagashi,False,False,False,False,False,False,True,"['full sun', 'part shade']",Average,Every year,Low
+127,127.0,,Tama Hime Japanese Maple,Acer palmatum 'Tama Hime',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+128,128.0,,Tamukeyama Japanese Maple,Acer palmatum 'Tamukeyama',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+129,129.0,,Tana Japanese Maple*,Acer palmatum 'Tana',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+130,130.0,,Tobiosho Japanese Maple,Acer palmatum 'Tobiosho',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+131,131.0,,Trompenburg Japanese Maple*,Acer palmatum 'Trompenburg',,False,False,False,False,False,False,True,"['full sun', 'part shade']",Average,Every year,Moderate
+132,132.0,,Tsukasa Silhouette Japanese Maple*,Acer palmatum 'Tsukasa Silhouette',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+133,133.0,,Tsuma Gaki Japanese Maple,Acer palmatum 'Tsuma Gaki',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+134,134.0,,Tsuri Nishiki Japanese Maple,Acer palmatum 'Tsuri Nishiki',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+135,135.0,,Twombly's Red Sentinel Japanese Maple,Acer palmatum 'Twombly's Red Sentinel',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+136,136.0,,Ueno Homare Japanese Maple,Acer palmatum 'Ueno Homare',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+137,137.0,,Floating Cloud Japanese Maple,Acer palmatum 'Ukigumo',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+138,138.0,,Utsu Semi Japanese Maple,Acer palmatum 'Utsu Semi',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+139,139.0,,Villa Taranto Japanese Maple,Acer palmatum 'Villa Taranto',,False,False,False,False,False,False,True,"['full sun', 'part shade']",Average,Every year,Low
+140,140.0,,Wilson's Pink Dwarf Japanese Maple,Acer palmatum 'Wilson's Pink Dwarf',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+141,141.0,,Emperor I Japanese Maple,Acer palmatum 'Wolff',Emperor 1,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+142,142.0,,Yellow Bird Japanese Maple,Acer palmatum 'Yellow Bird',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+143,143.0,,Yubae Japanese Maple*,Acer palmatum 'Yubae',Evening Glow Japanese Maple,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+144,144.0,,Moosewood,Acer pensylvanicum,Striped Maple,False,True,False,True,False,True,True,"['full sun', 'part shade']",Average,Every year,Moderate
+145,145.0,,Crimson King Norway Maple,Acer platanoides 'Crimson King',,False,False,False,False,False,True,True,"['part sun/part shade', 'full sun']",Average,Every year,High
+146,146.0,,Crimson Sentry Norway Maple,Acer platanoides 'Crimson Sentry',,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,High
+147,147.0,,Harlequin Norway Maple,Acer platanoides 'Drummondii',,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Minimum,Every year,High
+148,148.0,,Emerald Queen Norway Maple,Acer platanoides 'Emerald Queen',,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,High
+149,149.0,,Princeton Gold Maple,Acer platanoides 'Princeton Gold',,False,True,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,High
+150,150.0,,Eskimo Sunset Sycamore Maple,Acer pseudoplatanus 'Eskimo Sunset',Planetree Maple,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,High
+151,151.0,,Nizetii Sycamore Maple,Acer pseudoplatanus 'Nizetii',Planetree Maple,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Low
+152,152.0,,Korean Maple,Acer pseudosieboldianum,Purplebloom Maple,False,False,False,True,False,True,True,"['full sun', 'part shade']",Average,Every year,Low
+153,153.0,,Red Maple,Acer rubrum,Swamp Maple,False,False,False,True,False,True,True,['full sun'],Average,Every year,Moderate
+154,154.0,,Autumn Flame Red Maple,Acer rubrum 'Autumn Flame',Swamp Maple,False,False,False,False,False,True,True,"['full sun', 'part shade']",Frequent,Every year,Moderate
+155,155.0,,Bowhall Red Maple,Acer rubrum 'Bowhall',Swamp Maple,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Moderate
+156,156.0,,Red Sunset® Red Maple,Acer rubrum 'Franksred',Swamp Maple,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Moderate
+157,157.0,,Commemoration Sugar Maple,Acer saccharum 'Commemoration',Hard Maple,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Low
+158,158.0,,Green Mountain Sugar Maple,Acer saccharum 'Green Mountain',Hard Maple,False,True,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,High
+159,159.0,,Legacy Sugar Maple,Acer saccharum 'Legacy',Hard Maple,False,True,False,False,False,True,True,"['part sun/part shade', 'full sun']",Average,Every year,High
+160,160.0,,Golden Full Moon Maple,Acer shirasawanum 'Aureum',,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,Low
+161,161.0,,Autumn Moon Full Moon Maple,Acer shirasawanum 'Autumn Moon',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+162,162.0,,Moonrise Full Moon Maple,Acer shirasawanum 'Moonrise',,False,False,False,False,False,False,False,"['part shade', 'part sun/part shade']",Frequent,Every year,Low
+163,163.0,,Red Dawn Full Moon Maple,Acer shirasawanum 'Red Dawn',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+164,164.0,,Yasemin Full Moon Maple,Acer shirasawanum 'Yasemin',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+165,165.0,,Hot Wings Tatarian Maple,Acer tataricum 'GarAnn',,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Moderate
+166,166.0,,Snakebark Maple,Acer tegmentosum,Manchurian Striped Maple,False,False,False,False,False,False,False,"['part shade', 'part sun/part shade']",Frequent,Every year,Low
+167,167.0,,Joe Witt Snakebark Maple,Acer tegmentosum 'Joe Witt',Manchurian Striped Maple,False,False,False,False,False,True,True,"['filtered shade', 'full sun', 'part sun/part shade']",Average,Every year,Moderate
+168,168.0,,White Tigress Maple,Acer tegmentosum 'White Tigress',Manchurian Striped Maple,False,False,False,False,False,False,False,"['full sun', 'part sun/part shade']",Average,Every year,Low
+169,169.0,,Three Flowered Maple,Acer triflorum,,False,False,False,True,False,False,True,"['Full sun', 'part shade']",Average,Every year,Low
+170,170.0,,Armstrong Maple,Acer x freemanii 'Armstrong',,False,False,False,False,False,False,False,['full sun'],Average,Every year,High
+171,171.0,,Autumn Blaze Maple,Acer x freemanii 'Jeffersred',,False,False,False,False,False,False,False,['full sun'],Average,Every year,High
+172,172.0,,Mimosa,Albizia julibrissin,Silktree,False,False,False,True,False,True,True,['full sun'],Average,Every year,Moderate
+173,173.0,,Ombrella™ Mimosa,Albizia julibrissin 'Boubri',Silktree,False,False,False,True,False,True,True,['full sun'],Average,Every year,Moderate
+174,174.0,,Summer Chocolate Mimosa,Albizia julibrissin 'Summer Chocolate',Silktree,False,False,False,False,False,True,True,"['full sun', 'part shade']",Frequent,Every year,Moderate
+175,175.0,,Autumn Brilliance Serviceberry,Amelanchier x grandiflora 'Autumn Brilliance',,False,True,False,False,False,True,False,"['full sun', 'part shade']",Frequent,Every year,Low
+176,176.0,,Autumn Brilliance Serviceberry,Amelanchier x grandiflora 'Autumn Brilliance (tree form)',,False,True,False,False,False,True,False,"['full sun', 'part shade']",Frequent,Every year,Low
+177,177.0,,Ballerina Serviceberry,Amelanchier x grandiflora 'Ballerina',,False,True,False,False,False,True,False,"['full sun', 'part shade']",Frequent,Every year,Low
+178,178.0,,Princess Diana Serviceberry,Amelanchier x grandiflora 'Princess Diana',,False,True,False,False,False,True,False,"['full sun', 'part shade']",Average,Every year,High
+179,179.0,,Variegated Japanese Angelica Tree,Aralia elata 'Variegata',,False,False,False,True,False,True,True,"['full sun', 'part shade']",Average,Every year,Moderate
+180,180.0,,Monkey Puzzle Tree,Araucaria araucana,Chilean Pine,False,False,False,False,False,False,True,"['full sun', 'part shade']",Average,Every year,Moderate
+181,181.0,,Marina Strawberry Tree,Arbutus 'Marina',,False,True,False,False,False,True,False,"['full sun', 'part shade']",Frequent,Every year,Low
+182,182.0,,Pacific Madrone*,Arbutus menziesii,Madrona; Bearberry; Strawberry Tree,False,True,False,True,False,True,True,['sun'],Minimum,Every year,Low
+183,183.0,,Strawberry Tree,Arbutus unedo,Apple of Cain; Cane Apple,False,True,False,True,False,True,True,"['full sun', 'part sun/part shade', 'sheltered']",Average,Every year,Moderate
+184,184.0,,Common Paw Paw,Asimina triloba,Pawpaw Apple,False,True,False,True,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Moderate
+185,185.0,,Crimson Frost Birch,Betula 'Crimson Frost',,False,False,False,False,False,True,True,"['full sun', 'part shade']",Frequent,Every year,Low
+186,186.0,,River Birch,Betula nigra,Red Birch,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,High
+187,187.0,,River Birch (clump),Betula nigra '(clump)',Red Birch,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,High
+188,188.0,,Summer Cascade Weeping River Birch,Betula nigra 'Summer Cascade',Red Birch,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,High
+189,189.0,,Paper Birch,Betula papyrifera,White Birch,False,False,False,True,False,True,True,"['full sun', 'part shade']",Average,Every year,High
+190,190.0,,Clump Paper Birch,Betula papyrifera '(clump)',White Birch,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,High
+191,191.0,,Whitespire Birch,Betula populifolia 'Whitespire',Betula platyphylla,False,False,False,False,False,True,True,"['part sun/part shade', 'full sun']",Average,Every year,Low
+192,192.0,,Whitebark Himalayan Birch,Betula utilis 'var. jacquemontii',White Bark Birch,False,True,False,False,False,True,True,['full sun'],Average,Every year,Low
+193,193.0,,California Incense Cedar,Calocedrus decurrens,Incensecedar,False,False,False,False,False,False,True,"['full sun', 'part shade']",Minimum,Every year,High
+194,194.0,,European Hornbeam,Carpinus betulus,Common Hornbeam,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Low
+195,195.0,,Pyramidal European Hornbeam,Carpinus betulus 'Fastigiata',Common Hornbeam,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Low
+196,196.0,,Frans Fontaine Hornbeam,Carpinus betulus 'Frans Fontaine',Common Hornbeam,False,False,False,False,False,True,True,['full sun'],Average,Every year,Low
+197,197.0,,Weeping European Hornbeam,Carpinus betulus 'Pendula',Common Hornbeam,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Low
+198,198.0,,Japanese Hornbeam,Carpinus japonica,,False,False,False,False,False,True,True,"['part shade', 'full shade']",Average,Every year,Low
+199,199.0,,Golden Catalpa,Catalpa bignonioides 'Aurea',Southern Catalpa,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Low
+200,200.0,,Blue Atlas Cedar,Cedrus atlantica 'Glauca',,False,False,False,True,False,False,True,"['full sun', 'part shade']",Average,Every year,Low
+201,201.0,,Deodar Cedar,Cedrus deodara,Himalayan Cedar,False,False,False,True,False,False,True,['full sun'],Average,Every year,High
+202,202.0,,Golden Deodar Cedar,Cedrus deodara 'Aurea',Himalayan Cedar,False,False,False,False,False,False,True,['full sun'],Average,Every year,High
+203,203.0,,Bush's Electra Deodar Cedar,Cedrus deodara 'Bush's Electra',Himalayan Cedar,False,False,False,False,False,False,True,"['full sun', 'part sun/part shade']",Average,Every year,High
+204,204.0,,Electra Blue Deodar Cedar,Cedrus deodara 'Electra Blue',Himalayan Cedar,False,False,False,False,False,False,True,['full sun'],Average,Every year,High
+205,205.0,,Karl Fuchs Deodar Cedar,Cedrus deodara 'Karl Fuchs',Himalayan Cedar,False,False,False,False,False,False,True,"['full sun', 'part sun/part shade']",Average,Every year,High
+206,206.0,,Kashmir Deodar Cedar,Cedrus deodara 'Kashmir',Himalayan Cedar,False,False,False,True,False,False,True,['Full sun'],Average,Every year,High
+207,207.0,,Cedar of Lebanon,Cedrus libani,,False,False,False,True,False,False,True,['Full sun'],Average,Every year,Low
+208,208.0,,Green Prince Cedar of Lebanon,Cedrus libani 'Green Prince',,False,False,False,False,False,False,True,['full sun'],Frequent,Every year,Low
+209,209.0,,Weeping Cedar of Lebanon,Cedrus libani 'Pendula',,False,False,False,False,False,True,True,['full sun'],Average,Every year,Low
+210,210.0,,Katsura Tree,Cercidiphyllum japonicum,Japanese katsura tree,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Moderate
+211,211.0,,Weeping Katsura Tree,Cercidiphyllum japonicum 'Pendulum',Japanese katsura tree,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Moderate
+212,212.0,,Red Fox Katsura Tree,Cercidiphyllum japonicum 'Rotfuchs',Japanese katsura tree,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Moderate
+213,213.0,,Eastern Redbud,Cercis canadensis,Redbud,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Moderate
+214,214.0,,Eastern Redbud (tree form),Cercis canadensis '(tree form)',Redbud,False,True,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Moderate
+215,215.0,,White Redbud,Cercis canadensis 'Alba',Redbud,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Moderate
+216,216.0,,Appalachian Red Redbud,Cercis canadensis 'Appalachian Red',Redbud,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Moderate
+217,217.0,,Forest Pansy Redbud,Cercis canadensis 'Forest Pansy',Redbud,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Moderate
+218,218.0,,Hearts of Gold Redbud,Cercis canadensis 'Hearts of Gold',Redbud,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Moderate
+219,219.0,,Little Woody Redbud,Cercis canadensis 'Little Woody',Redbud,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Moderate
+220,220.0,,Lawson Falsecypress,Chamaecyparis lawsoniana,Oregon Cedar,False,False,False,False,False,False,True,"['full sun', 'part shade']",Average,Every year,Moderate
+221,221.0,,Blue Nootka Cypress,Chamaecyparis nootkatensis 'Glauca',Alaska Cedar,False,False,False,False,False,False,True,['full sun'],Average,Every year,Low
+222,222.0,,Green Arrow Nootka Cypress,Chamaecyparis nootkatensis 'Green Arrow',Alaska Cedar,False,False,False,False,False,False,True,"['full sun', 'part sun/part shade']",Average,Every year,Low
+223,223.0,,Weeping Nootka Cypress,Chamaecyparis nootkatensis 'Pendula',Alaska Cedar,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Low
+224,224.0,,Golden Hinoki Falsecypress,Chamaecyparis obtusa 'Aurea',,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Low
+225,225.0,,Compact Hinoki Falsecypress,Chamaecyparis obtusa 'Compacta',,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Low
+226,226.0,,Cripps Gold Falsecypress,Chamaecyparis obtusa 'Crippsii',,False,False,False,False,False,False,True,"['full sun', 'part shade']",Average,Every year,Low
+227,227.0,,Well's Special Hinoki Falsecypress,Chamaecyparis obtusa 'Well's Special',,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Low
+228,228.0,,Threadleaf Falsecypress,Chamaecyparis pisifera 'Filifera',Japanese Falsecypress,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Moderate
+229,229.0,,Red Star Whitecedar,Chamaecyparis thyoides 'Red Star',Whitecedar Falsecypress,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,Low
+230,230.0,,Chinese Fringetree,Chionanthus retusus,Fringe Tree,False,True,False,True,False,True,True,"['Full sun', 'part shade']",Average,Every year,Low
+231,231.0,,White Fringetree,Chionanthus virginicus,Old Man's Beard,False,True,False,False,False,True,True,"['full sun', 'part shade']",Average,Once a year,Low
+232,232.0,,Morning Cloud Chitalpa,Chitalpa 'Morning Cloud',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+233,233.0,,Pink Dawn Chitalpa,Chitalpa 'Pink Dawn',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,High
+234,234.0,,Harlequin Glorybower,Clerodendrum trichotomum,Clerodendron,False,False,False,True,False,True,True,"['full sun', 'part shade']",Average,Every year,High
+235,235.0,,Torbay Dazzler Grass Palm,Cordyline australis 'Torbay Dazzler',Cabbage Palm,False,False,False,False,False,True,True,"['full sun', 'part shade']",Frequent,Every year,High
+236,236.0,,Constellation Flowering Dogwood,Cornus 'Constellation',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+237,237.0,,Eddie's White Wonder Flowering Dogwood,Cornus 'Eddie's White Wonder',,False,False,False,False,False,True,True,"['Filtered shade', ' Full sun', ' Part sun/part shade']",Average,Every year,Moderate
+238,238.0,,Aurora Flowering Dogwood,Cornus 'Rutban',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+239,239.0,,Celestial Flowering Dogwood,Cornus 'Rutdan',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,Low
+240,240.0,,Stellar Pink Flowering Dogwood,Cornus 'Stellar Pink',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+241,241.0,,Venus Flowering Dogwood,Cornus 'Venus',Hybrid Dogwood,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+242,242.0,,Pagoda Dogwood,Cornus alternifolia,,False,False,False,True,False,True,True,"['full sun', 'part sun/part shade', 'part shade']",Average,Every year,High
+243,243.0,,Variegated Pagoda Dogwood,Cornus alternifolia 'Argentea',,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Low
+244,244.0,,Variegated Giant Dogwood,Cornus controversa 'Variegata',Wedding Cake Tree,False,False,False,False,False,True,True,"['full sun', 'part shade']",Frequent,Every year,High
+245,245.0,,Cherokee Brave Flowering Dogwood,Cornus florida 'Cherokee Brave',,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Moderate
+246,246.0,,Cherokee Chief Flowering Dogwood,Cornus florida 'Cherokee Chief',,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Moderate
+247,247.0,,Cherokee Daybreak Flowering Dogwood,Cornus florida 'Cherokee Daybreak',,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Moderate
+248,248.0,,Cherokee Princess Flowering Dogwood,Cornus florida 'Cherokee Princess',,False,False,False,False,False,True,True,"['Full sun', ' Part sun/part shade']",Average,Every year,Moderate
+249,249.0,,Cherokee Sunset Flowering Dogwood,Cornus florida 'Cherokee Sunset',,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Moderate
+250,250.0,,Red Flowering Dogwood,Cornus florida 'var. rubra',,False,False,False,False,False,True,True,"['Full sun', ' Part sun/part shade']",Average,Every year,Moderate
+251,251.0,,Chinese Dogwood,Cornus kousa,Kousa Dogwood,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,Low
+252,252.0,,Blue Shadow Chinese Dogwood,Cornus kousa 'Blue Shadow',Kousa Dogwood,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,Low
+253,253.0,,China Girl Chinese Dogwood,Cornus kousa 'China Girl',Kousa Dogwood,False,False,False,False,False,True,True,"['part shade', 'part sun/part shade']",Frequent,Every year,Low
+254,254.0,,Heart Throb Chinese Dogwood,Cornus kousa 'Heart Throb',Kousa Dogwood,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,Low
+255,255.0,,Milky Way Chinese Dogwood,Cornus kousa 'Milky Way',Kousa Dogwood,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,Low
+256,256.0,,National Chinese Dogwood,Cornus kousa 'National',Kousa Dogwood,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,Low
+257,257.0,,Samaritan Chinese Dogwood,Cornus kousa 'Samaritan',Kousa Dogwood,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,Low
+258,258.0,,Satomi Chinese Dogwood,Cornus kousa 'Satomi',Kousa Dogwood,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Low
+259,259.0,,Starlight Chinese Dogwood,Cornus kousa 'Starlight',Kousa Dogwood,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Low
+260,260.0,,Chinese Dogwood,Cornus kousa 'var. chinensis',Kousa Dogwood,False,True,False,False,False,True,True,"['part sun/part shade', 'part shade']",Average,Every year,Low
+261,261.0,,Wolf Eyes Chinese Dogwood,Cornus kousa 'Wolf Eyes',Kousa Dogwood,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,Low
+262,262.0,,Cornelian Cherry Dogwood,Cornus mas,Cornelian cherry,False,True,False,True,False,True,True,"['full sun', 'part shade']",Average,Every year,Moderate
+263,263.0,,Golden Cornelian Cherry Dogwood,Cornus mas 'Aurea',Cornelian cherry,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,Moderate
+264,264.0,,Variegated Cornelian Cherry Dogwood,Cornus mas 'Variegata',Cornelian cherry,False,True,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Moderate
+265,265.0,,Paul's Scarlet English Hawthorn,Crataegus laevigata 'Paul's Scarlet',,False,False,False,True,False,True,True,['Full sun'],Frequent,Every year,High
+266,266.0,,Japanese Cedar,Cryptomeria japonica,,False,False,False,False,False,False,True,"['Full sun', ' Part sun/part shade', ' Sheltered']",Average,Every year,Low
+267,267.0,,Yoshino Japanese Cedar,Cryptomeria japonica 'Yoshino',,False,False,False,False,False,False,True,"['Full sun', ' Part sun/part shade', ' Sheltered']",Average,Every year,Low
+268,268.0,,Leyland Cypress,Cupressocyparis x leylandii,,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,High
+269,269.0,,Castlewellan Leyland Cypress,Cupressocyparis x leylandii 'Castlewellan',Golden Leyland Cypress,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,High
+270,270.0,,Gold Rider Leyland Cypress,Cupressocyparis x leylandii 'Gold Rider',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+271,271.0,,Naylor's Blue Leyland Cypress,Cupressocyparis x leylandii 'Naylor's Blue',x Cupressocyparis leylandii,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,High
+272,272.0,,Dove Tree,Davidia involucrata,Handkerchief Tree,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Moderate
+273,273.0,,Japanese Persimmon,Diospyros kaki,syn. D. chinensis Blume,False,True,False,True,False,True,True,"['full sun', 'part shade']",Average,Every year,High
+274,274.0,,Common Persimmon,Diospyros virginiana,American Persimmon,False,True,False,True,False,True,True,['full sun'],Average,Every year,Low
+275,275.0,,Mountain Pepper,Drimys lanceolata,Cornish Pepper Leaf,False,True,False,True,False,True,True,"['Full sun', 'part shade']",Average,Every year,Low
+276,276.0,,Russian Olive,Elaeagnus angustifolia,Oleaster,False,True,False,True,False,True,True,['Full sun'],Average,Every year,High
+277,277.0,,Japanese Blueberry Tree,Elaeocarpus decipiens,,False,True,False,True,False,True,False,"['full sun', 'part shade']",Average,Every year,Low
+278,278.0,,Loquat,Eriobotrya japonica,Japanese Plum,False,True,False,True,False,True,True,"['full sun', 'part sun/part shade']",Minimum,Every year,High
+279,279.0,,Spindle Tree,Euonymus europaeus,European Euonymus,False,False,False,False,False,True,True,"['Filtered shade', ' Full sun', ' Part sun/part shade']",Average,Every year,Moderate
+280,280.0,,Dawyck Gold Beech,Fagus sylvatica 'Dawyck Gold',Golden Fastigiate Beech,False,False,False,False,False,True,True,['full sun'],Average,Every year,Moderate
+281,281.0,,Dawyck Purple Beech,Fagus sylvatica 'Dawyck Purple',Golden Fastigiate Beech,False,False,False,False,False,True,True,['Full sun'],Average,Every year,Moderate
+282,282.0,,Pyramidal Beech,Fagus sylvatica 'Fastigiata',Golden Fastigiate Beech,False,False,False,False,False,True,True,['Full sun'],Average,Every year,Moderate
+283,283.0,,Weeping Beech,Fagus sylvatica 'Pendula',Golden Fastigiate Beech,False,False,False,False,False,True,True,['full sun'],Average,Every year,Moderate
+284,284.0,,Purple Fountain Beech,Fagus sylvatica 'Purple Fountain',Golden Fastigiate Beech,False,False,False,False,False,True,True,['full sun'],Average,Every year,Moderate
+285,285.0,,Purple Beech,Fagus sylvatica 'Purpurea',Golden Fastigiate Beech,False,False,False,False,False,True,True,['Full sun'],Average,Every year,Moderate
+286,286.0,,Weeping Purple Beech,Fagus sylvatica 'Purpurea Pendula',Golden Fastigiate Beech,False,False,False,False,False,True,True,['full sun'],Average,Every year,Moderate
+287,287.0,,Red Obelisk Beech,Fagus sylvatica 'Red Obelisk',Golden Fastigiate Beech,False,False,False,False,False,True,True,['full sun'],Frequent,Every year,Moderate
+288,288.0,,Common Fig,Ficus carica,garden fig,False,True,False,True,False,True,True,"['full sun', 'part sun/part shade']",Minimum,Every year,Low
+289,289.0,,Kadota Fig,Ficus carica 'Kadota',garden fig,False,True,False,False,False,True,True,['full sun'],Average,Every year,Low
+290,290.0,,Mission Fig,Ficus carica 'Mission',garden fig,False,True,False,True,False,True,True,"['full sun', 'part shade']",Average,Every year,Low
+291,291.0,,Peter's Honey Fig,Ficus carica 'Peter's Honey',garden fig,False,True,False,True,False,True,True,['full sun'],Average,Every year,Low
+292,292.0,,Franklin Tree,Franklinia alatamaha,Franklinia Tree,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Low
+293,293.0,,Fallgold Black Ash,Fraxinus nigra 'Fallgold',swamp ash,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Moderate
+294,294.0,,Leprechaun Green Ash,Fraxinus pennsylvanica 'Leprechaun',Red Ash,False,False,False,False,False,True,True,['full sun'],Average,Every year,Moderate
+295,295.0,,Patmore Green Ash,Fraxinus pennsylvanica 'Patmore',Red Ash,False,False,False,False,False,True,True,['full sun'],Average,Every year,Moderate
+296,296.0,,Ginkgo,Ginkgo biloba,Maidenhair Tree,False,True,False,True,False,True,True,['Full sun'],Average,Every year,Moderate
+297,297.0,,Autumn Gold Ginkgo,Ginkgo biloba 'Autumn Gold',Maidenhair Tree,False,False,False,True,False,True,True,['full sun'],Average,Every year,Moderate
+298,298.0,,Magyar Ginkgo,Ginkgo biloba 'Magyar',Maidenhair Tree,False,False,False,True,False,True,True,['Full sun'],Average,Every year,Moderate
+299,299.0,,Princeton Sentry Ginkgo,Ginkgo biloba 'Princeton Sentry',Maidenhair Tree,False,True,False,True,False,True,True,['full sun'],Average,Every year,Moderate
+300,300.0,,Saratoga Ginkgo,Ginkgo biloba 'Saratoga',Maidenhair Tree,False,False,False,True,False,True,True,['full sun'],Frequent,Every year,Moderate
+301,301.0,,Sunburst Honeylocust,Gleditsia triacanthos 'Suncole',,False,False,False,False,False,True,True,['Full sun'],Average,Every year,High
+302,302.0,,Sea Buckthorn,Hippophae rhamnoides,Russian Sandthorn,False,True,False,True,False,False,True,['full sun'],Frequent,Every year,High
+303,303.0,,Tree Form Pee Gee Hydrangea,Hydrangea paniculata 'Grandiflora (tree form)',P.G. Hydrangea,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,High
+304,304.0,,Limelight Hydrangea (tree form),Hydrangea paniculata 'Limelight (tree form)',P.G. Hydrangea,False,False,False,False,False,True,True,"['filtered shade', 'full sun']",Frequent,Every year,High
+305,305.0,,Pink Diamond Hydrangea (tree form),Hydrangea paniculata 'Pink Diamond (tree form)',P.G. Hydrangea,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,High
+306,306.0,,Tardiva Hydrangea (tree form),Hydrangea paniculata 'Tardiva (tree form)',P.G. Hydrangea,False,False,False,False,False,True,True,"['Filtered shade', ' Full sun']",Average,Every year,High
+307,307.0,,Carpathian English Walnut,Juglans regia 'Carpathian',Common Walnut,False,True,False,True,False,True,True,['full sun'],Frequent,Every year,Moderate
+308,308.0,,Blue Chip Juniper (tree form),Juniperus horizontalis 'Blue Chip (tree form)',,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Minimum,Every year,Low
+309,309.0,,Dwarf Japanese garden Juniper (tree form),Juniperus procumbens 'Nana (tree form)',Japgarden Juniper,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Low
+310,310.0,,Rocky Mountain Juniper,Juniperus scopulorum,Colorado Redcedar,False,False,False,True,False,False,False,['Full sun'],Average,Every year,Low
+311,311.0,,Blue Star Juniper,Juniperus squamata 'Blue Star (tree form)',Singleseed Juniper,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Low
+312,312.0,,Daub's Frosted Juniper (tree form),Juniperus x media 'Daub's Frosted (tree form)',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Frequent,Every year,High
+313,313.0,,Golden Rain Tree,Koelreuteria paniculata,Varnish Tree,False,False,False,False,False,True,True,['Full sun'],Average,Every year,Low
+314,314.0,,Coral Sun Golden Rain Tree,Koelreuteria paniculata 'Coral Sun',Varnish Tree,False,False,False,False,False,True,True,['full sun'],Average,Every year,High
+315,315.0,,Weeping Laburnum,Laburnum x watereri 'Pendulum',Golden Chain Tree,False,False,False,False,True,False,False,"['full sun', 'part shade']",Average,Every year,Low
+316,316.0,,Vossii Laburnum,Laburnum x watereri 'Vossii',Golden Chain Tree,False,False,False,False,True,False,False,"['full sun', 'part shade']",Frequent,Every year,High
+317,317.0,,Near East Crapemyrtle,Lagerstroemia indica 'Near East',Crape Myrtle,False,False,False,False,False,True,True,['full sun'],Frequent,Every year,Low
+318,318.0,,Bay Laurel,Laurus nobilis,Sweet Bay,False,True,False,True,False,True,True,"['full sun', 'part sun/part shade']",Minimum,Every year,Moderate
+319,319.0,,Sweet Gum,Liquidambar styraciflua,American Sweet Gum,False,False,False,False,False,True,True,['full sun'],Average,Every year,Moderate
+320,320.0,,Round Leaf Sweet Gum,Liquidambar styraciflua 'Rotundiloba',American Sweet Gum,False,False,False,False,False,True,True,['full sun'],Average,Every year,Moderate
+321,321.0,,Silver King Sweet Gum,Liquidambar styraciflua 'Silver King',American Sweet Gum,False,False,False,False,False,True,True,['full sun'],Average,Every year,Moderate
+322,322.0,,Slender Silhouette Sweet Gum,Liquidambar styraciflua 'Slender Silhouette',American Sweet Gum,False,False,False,False,False,True,True,['full sun'],Average,Every year,Moderate
+323,323.0,,Worplesdon Sweet Gum,Liquidambar styraciflua 'Worplesdon',American Sweet Gum,False,False,False,False,False,True,True,['full sun'],Minimum,Every year,Moderate
+324,324.0,,Tuliptree,Liriodendron tulipifera,Tulip Magnolia,False,False,False,False,False,True,True,['Full sun'],Average,Every year,High
+325,325.0,,Arnold Tuliptree,Liriodendron tulipifera 'Arnold',Tulip Magnolia,False,False,False,False,False,True,True,['Full sun'],Average,Every year,High
+326,326.0,,Yellow Variegated Tuliptree,Liriodendron tulipifera 'Aureomarginatum',Tulip Magnolia,False,False,False,False,False,True,True,['full sun'],Minimum,Every year,High
+327,327.0,,Fastigiatum Tuliptree,Liriodendron tulipifera 'Fastigiatum',Tulip Magnolia,False,False,False,False,False,True,True,['full sun'],Frequent,Every year,High
+328,328.0,,Butterflies Magnolia,Magnolia 'Butterflies',,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,Low
+329,329.0,,Daybreak Magnolia,Magnolia 'Daybreak',,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,High
+330,330.0,,Elizabeth Magnolia,Magnolia 'Elizabeth',,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,High
+331,331.0,,Gold Star Magnolia,Magnolia 'Gold Star',,False,False,False,False,False,True,True,['full sun'],Average,Every year,High
+332,332.0,,Golden Gift Magnolia,Magnolia 'Golden Gift',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,High
+333,333.0,,Marilyn Magnolia,Magnolia 'Marilyn',,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,High
+334,334.0,,Rose Marie Magnolia,Magnolia 'Rose Marie',Rosemarie Magnolia,False,False,False,False,False,False,False,"['full sun', 'part shade']",Minimum,Every year,Low
+335,335.0,,Star Wars Magnolia,Magnolia 'Star Wars',,False,False,False,False,False,False,False,['full sun'],Frequent,Every year,High
+336,336.0,,Sunburst Magnolia,Magnolia 'Sunburst',,False,False,False,False,False,False,False,['full sun'],Average,Every year,High
+337,337.0,,Yellow Bird Magnolia,Magnolia 'Yellow Bird',,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+338,338.0,,Yulan Magnolia,Magnolia denudata,Yulan magnolia,False,False,False,True,False,True,True,"['full sun', 'part shade']",Average,Every year,Low
+339,339.0,,Southern Magnolia,Magnolia grandiflora,Bull Bay,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,Moderate
+340,340.0,,Bracken's Brown Beauty Magnolia,Magnolia grandiflora 'Bracken's Brown Beauty',Bull Bay,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Moderate
+341,341.0,,D.D. Blanchard Magnolia,Magnolia grandiflora 'D.D. Blanchard',Bull Bay,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,Moderate
+342,342.0,,Little Gem Magnolia,Magnolia grandiflora 'Little Gem',Bull Bay,False,False,False,False,False,True,True,"['Full sun', 'part shade']",Average,Every year,Moderate
+343,343.0,,Teddy Bear® Magnolia,Magnolia grandiflora 'Southern Charm',Bull Bay,False,False,False,False,False,True,True,"['full sun', 'part shade']",Average,Every year,Moderate
+344,344.0,,Kobus Magnolia,Magnolia kobus,,False,False,False,False,False,False,True,"['full sun', 'part sun/part shade']",Average,Every year,Low
+345,345.0,,Wada's Memory Magnolia,Magnolia kobus 'Wada's Memory',,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Frequent,Every year,Low
+346,346.0,,Oyama Magnolia,Magnolia sieboldii,Siebold's Magnolia,False,False,False,True,False,True,True,['full sun'],Average,Every year,Moderate
+347,347.0,,Leonard Messel Magnolia,Magnolia x loebneri 'Leonard Messel',,False,False,False,False,False,True,True,['Full sun'],Average,Every year,Moderate
+348,348.0,,Merrill Magnolia,Magnolia x loebneri 'Merrill',,False,False,False,False,False,True,True,['full sun'],Frequent,Every year,Moderate
+349,349.0,,Alexandrina Saucer Magnolia,Magnolia x soulangeana 'Alexandrina',,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Moderate
+350,350.0,,Rustica Rubra Magnolia,Magnolia x soulangeana 'Rustica Rubra',,False,False,False,False,False,True,True,"['full sun', 'part sun/part shade']",Average,Every year,Moderate
+351,351.0,,Akane Apple,Malus 'Akane',,False,True,False,False,False,True,False,['full sun'],Frequent,Every year,High
+352,352.0,,Ambrosia Apple,Malus 'Ambrosia',,False,True,False,False,False,True,False,['full sun'],Average,Every year,High
+353,353.0,,Belle de Boskoop Apple,Malus 'Belle de Boskoop',,False,True,False,False,False,True,False,['full sun'],Frequent,Every year,Low
+354,354.0,,Braeburn Apple,Malus 'Braeburn',,False,True,False,False,False,True,True,"['full sun', 'filtered shade']",Frequent,Every year,High
+355,355.0,,Candied Apple Flowering Crab,Malus 'Candied Apple',Roseybloom,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+356,356.0,,Chehalis Apple,Malus 'Chehalis',,False,True,False,False,False,True,False,['full sun'],Average,Every year,High
+357,357.0,,Cortland Apple,Malus 'Cortland',,False,True,False,False,False,True,False,['full sun'],Frequent,Every year,Low
+358,358.0,,Cox's Orange Pippin Apple,Malus 'Cox's Orange Pippin',Cox Orange,False,True,False,False,False,True,False,['full sun'],Frequent,Every year,High
+359,359.0,,Dolgo Apple,Malus 'Dolgo',Roseybloom,False,True,False,True,False,True,False,['full sun'],Average,Every year,High
+360,360.0,,Donald Wyman Flowering Crab,Malus 'Donald Wyman',Roseybloom,False,False,False,False,False,False,True,['full sun'],Average,Every year,Low
+361,361.0,,Elstar Apple,Malus 'Elstar',,False,True,False,False,False,True,False,['full sun'],Average,Every year,High
+362,362.0,,Gala Apple,Malus 'Gala',,False,True,False,False,False,True,False,['full sun'],Frequent,Every year,High
+363,363.0,,Golden Delicious Apple,Malus 'Golden Delicious',,False,True,False,False,False,True,False,"['full sun', 'part shade']",Frequent,Every year,Low
+364,364.0,,Golden Russet Apple,Malus 'Golden Russet',,False,True,False,False,False,True,False,['full sun'],Frequent,Every year,Low
+365,365.0,,Granny Smith Apple,Malus 'Granny Smith',,False,True,False,False,False,True,False,['full sun'],Frequent,Every year,Low
+366,366.0,,Gravenstein Apple,Malus 'Gravenstein',,False,True,False,False,False,True,False,"['full sun', 'part sun/part shade']",Average,Every year,High
+367,367.0,,Honeycrisp Apple,Malus 'Honeycrisp',,False,True,False,False,False,True,False,['full sun'],Frequent,Every year,High
+368,368.0,,Jonagold Apple,Malus 'Jonagold',,False,True,False,False,False,True,True,['full sun'],Average,Every year,High
+369,369.0,,Jonathan Apple,Malus 'Jonathan',,False,True,False,False,False,True,False,"['full sun', 'part shade']",Frequent,Every year,High
+370,370.0,,Liberty Apple,Malus 'Liberty',,False,True,False,False,False,True,True,"['full sun', 'part shade']",Frequent,Every year,High
+371,371.0,,Lodi Apple,Malus 'Lodi',,False,True,False,False,False,True,False,['full sun'],Frequent,Every year,Low
+372,372.0,,Louisa Flowering Crab,Malus 'Louisa',Roseybloom,False,False,False,False,False,False,True,['full sun'],Average,Every year,Low
+373,373.0,,Macintosh Apple,Malus 'Macintosh',,False,True,False,False,False,True,False,"['full sun', 'part shade']",Frequent,Every year,High
+374,374.0,,Melrose Apple,Malus 'Melrose',,False,True,False,False,False,True,False,['full sun'],Average,Every year,High
+375,375.0,,Norland Apple,Malus 'Norland',,False,True,False,False,False,True,False,['full sun'],Frequent,Every year,High
+376,376.0,,Pink Lady Apple,Malus 'Pink Lady',,False,True,False,False,False,True,False,['full sun'],Frequent,Every year,High
+377,377.0,,Prairifire Flowering Crab,Malus 'Prairifire',Prairiefire,False,False,False,False,False,False,True,['full sun'],Average,Every year,High
+378,378.0,,Red Delicious Apple,Malus 'Red Delicious',,False,True,False,False,False,True,False,"['full sun', 'part shade']",Frequent,Every year,Low
+379,379.0,,Red Jewel Flowering Crab,Malus 'Red Jewel',Roseybloom,False,False,False,False,False,False,False,"['full sun', 'part shade']",Average,Every year,Low
+380,380.0,,Scarlet Pippin Apple,Malus 'Scarlet Pippin',,False,True,False,False,False,True,False,['full sun'],Frequent,Every year,High
+381,381.0,,Sentinel Flowering Crab,Malus 'Sentinel',Roseybloom,False,False,False,False,False,False,False,['full sun'],Average,Every year,Low
+382,382.0,,Snowdrift Flowering Crab,Malus 'Snowdrift',Roseybloom,False,False,False,False,False,False,True,['full sun'],Average,Every year,High
+383,383.0,,Spartan Apple,Malus 'Spartan',,False,True,False,False,False,True,False,['full sun'],Average,Every year,High
+384,384.0,,Summerland Apple,Malus 'Summerland',Summerland MacIntosh Apple,False,True,False,False,False,True,False,['full sun'],Frequent,Every year,High
+385,385.0,,Wealthy Apple,Malus 'Wealthy',,False,True,False,False,False,True,False,"['full sun', 'part sun/part shade']",Average,Every year,High
+386,386.0,,Yellow Transparent Apple,Malus 'Yellow Transparent',,False,True,False,False,False,True,False,['full sun'],Average,Every year,Low
+387,387.0,,Zestar Apple,Malus 'Zestar',,False,True,False,False,False,True,False,['full sun'],Frequent,Every year,High
+388,388.0,,Dawn Redwood,Metasequoia glyptostroboides,,False,False,False,False,False,False,True,['full sun'],Average,Every year,High
+389,389.0,,Gold Rush Dawn Redwood,Metasequoia glyptostroboides 'Gold Rush',,False,False,False,False,False,False,True,['full sun'],Frequent,Every year,High
+390,390.0,,Black Gum,Nyssa sylvatica,Tupelo,False,False,False,True,False,True,True,"['full sun', 'part sun/part shade', 'sheltered']",Average,Every year,Moderate
+391,391.0,,Arbequina European Olive,Olea europaea 'Arbequina',,False,True,False,False,False,True,True,['full sun'],Average,Every year,Moderate
+392,392.0,,Sourwood,Oxydendron arboreum,,False,False,False,True,False,True,False,"['full sun', 'part shade']",Average,Every year,Low
+393,393.0,,Persian Parrotia,Parrotia persica,Persian Ironwood,False,False,False,True,False,True,True,['full sun'],Average,Every year,Moderate
+394,394.0,,Royal Empress Tree,Paulownia tomentosa,Princess Tree,False,False,False,True,False,True,True,"['full sun', 'part sun/part shade', 'sheltered']",Average,Every year,High
+395,395.0,,Norway Spruce,Picea abies,Norwegian Spruce,False,True,False,True,False,False,True,"['Full sun', ' Part sun/part shade']",Average,Every year,High
+3001,,3001.0,Small Milkwort,Comesperma polygaloides,,True,False,False,False,False,False,False,['Full Sun'],,Once a year,
+3002,,3002.0,Purple Eyebright,Euphrasia collina subsp. muelleri,,True,False,False,False,False,False,False,['Full Sun'],,Once a year,
+3003,,3003.0,Lanky Buttons,Leptorhynchos elongatus,,True,False,False,False,False,False,False,['Full Sun'],,Herbaceous Perennial,
+3004,,3004.0,Basalt Peppercress,Lepidium hyssopifolium,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Herbaceous Perennial,
+3005,,3005.0,Yam Daisy,Microseris scapigera,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Herbaceous Perennial,
+3006,,3006.0,Bushy Groundsel,Senecio cunninghamii var. cunninghamii,,True,False,False,False,False,False,False,['Full Sun'],,Herbaceous Perennial,
+3007,,3007.0,Swamp Everlasting,Xerochrysum palustre,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Herbaceous Perennial,
+3008,,3008.0,Marsh Saltbush,Atriplex paludosa subsp. paludosa,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Small Shrub less than 1 metre,
+3009,,3009.0,Cane Spear-grass,Austrostipa breviglumis,,True,False,False,False,False,False,False,['Full Sun'],,Grass or Grasslike,
+3010,,3010.0,Veined Spear Grass,Austrostipa rudis subsp. australis,,True,False,False,False,False,False,False,"['Full Sun, Part Shade, Shade']",,Grass or Grasslike,
+3011,,3011.0,Wiry Bossiaea,Bossiaea cordigera,,True,False,False,False,False,False,False,['Part Shade'],,Small Shrub less than 1 metre,
+3012,,3012.0,"Purple Glycine, Clover Clycine",Glycine latrobeana,,True,False,False,False,False,False,False,['Part Shade'],,Climber,
+3013,,3013.0,Forest Phebalium,Phebalium squamulosum subsp. squamulosum,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3014,,3014.0,Salt-lake Tussock Grass,Poa sallacustris,,True,False,False,False,False,False,False,['Full Sun'],,Grass or Grasslike,
+3015,,3015.0,Swamp Bush-pea,Pultenaea weindorferi,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3016,,3016.0,Clustered Lily,Thelionema umbellatum,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Grass or Grasslike,
+3017,,3017.0,Wooly Bear Wattle,Acacia lucasii,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres to Large Shrub above 3 metres,
+3018,,3018.0,Tall Vanilla-lily,Arthropodium sp. 1,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Herbaceous Perennial,
+3019,,3019.0,Greater Grampians Star-hair,Astrotricha sp. 1 subsp. 2,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre to Medium Shrub 1 to 3 metres,
+3020,,3020.0,Lemon Boronia,Boronia citrata,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Small Shrub less than 1 metre,
+3021,,3021.0,Grampians Boronia,Boronia latipinna,,True,False,False,False,False,False,False,['Part Shade'],,Herbaceous Perennial,
+3022,,3022.0,Wombat Bossiaea,Bossiaea vombata,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3023,,3023.0,Cactus Bossiaea,Bossiaea walkeri,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Herbaceous Perennial,
+3024,,3024.0,Rock Daisy,Brachyscome petrophila,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Herbaceous Perennial,
+3025,,3025.0,Silver Snow-daisy,Celmisia tomentella,,True,False,False,False,False,False,False,['Full Sun'],,Herbaceous Perennial,
+3026,,3026.0,Kerrawang,Commersonia dasyphylla,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3027,,3027.0,Darling Lily,Crinum flaccidum,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Grass or Grasslike,
+3028,,3028.0,Whipstick Crowea,Crowea exalata subsp. revoluta,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Small Shrub less than 1 metre,
+3029,,3029.0,Mountain Dampiera,Dampiera purpurea,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Herbaceous Perennial,
+3030,,3030.0,Grampians Parrot-pea,Dillwynia oreodoxa,,True,False,False,False,False,False,False,['Full Sun'],,Medium Shrub 1 to 3 metres,
+3031,,3031.0,Shining Anchor Plant,Discaria nitida,,True,False,False,False,False,False,False,['Part Shade'],,Large Shrub above 3 metres,
+3032,,3032.0,Cryptic Heath,Epacris celata,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Small Shrub less than 1 metre,
+3033,,3033.0,Mountain Coral Heath,Epacris rhombifolia,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3034,,3034.0,Silvery Emu-bush,Eremophila scoparia,,True,False,False,False,False,False,False,['Full Sun'],,Medium Shrub 1 to 3 metres,
+3035,,3035.0,Soap Mallee,Eucalyptus diversifolia subsp. megacarpa,,True,False,False,False,False,False,False,['Full Sun'],,Medium Tree 10 to 20 metres,
+3036,,3036.0,Wimmera Mallee-box,Eucalyptus wimmerensis,,True,False,False,False,False,False,False,['Full Sun'],,Small Tree less than 10 metres,
+3037,,3037.0,Pinnate Goodenia,Goodenia macmillanii,,True,False,False,False,False,False,False,['Part Shade'],,Herbaceous Perennial,
+3038,,3038.0,Spiked Goodenia,Goodenia stelligera,,True,False,False,False,False,False,False,['Part Shade'],,Herbaceous Perennial,
+3039,,3039.0,Shrubby Raspwort,Haloragodendron baeuerlenii,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3040,,3040.0,Port Campbell Guinea-flower,Hibbertia truncata,,True,False,False,False,False,False,False,['Full Sun'],,Climber,
+3041,,3041.0,Glossy Hovea,Hovea corrickiae,,True,False,False,False,False,False,False,['Full Sun'],,Medium Shrub 1 to 3 metres,
+3042,,3042.0,Shiny Leionema,Leionema lamprophyllum subsp. obovatum,,True,False,False,False,False,False,False,['Full Sun'],,Medium Shrub 1 to 3 metres,
+3043,,3043.0,Stringybark Tea-tree,Leptospermum jingera,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3044,,3044.0,Branching Grass-flag,Libertia paniculata,,True,False,False,False,False,False,False,['Part Shade'],,Grass or Grasslike,
+3045,,3045.0,Heathy Bluebush,Maireana oppositifolia,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3046,,3046.0,Satinwood,Nematolepis squamea subsp. squamea,,True,False,False,False,False,False,False,['Part Shade'],,Large Shrub more than 3 metres to Small Tree less than 10 metres,
+3047,,3047.0,,Olearia asterotricha subsp. lobata,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3048,,3048.0,Marble Daisy-Bush,Olearia astroloba,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3049,,3049.0,Scented Daisy-bush,Olearia tenuifolia,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Small Shrub less than 1 metre,
+3050,,3050.0,Viscid Daisy-bush,Olearia viscosa,,True,False,False,False,False,False,False,"['Part Shade, Shade']",,Medium Shrub 1 to 3 metres,
+3051,,3051.0,Forest Geebung,Persoonia silvatica,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3052,,3052.0,Silvery Phebalium,Phebalium squamulosum subsp. argenteum,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3053,,3053.0,Tasmanian Wax-flower,Philotheca virgata,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3054,,3054.0,Fine-leaf Snow-grass,Poa clivicola,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Grass or Grasslike,
+3055,,3055.0,Sharp Mountain Tussock-grass,Poa labillardierei var. acris,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Grass or Grasslike,
+3056,,3056.0,Pencil Cedar,Polyscias murrayi,,True,False,False,False,False,False,False,['Part Shade'],,Large Shrub more than 3 metres to Small Tree less than 10 metres,
+3057,,3057.0,Sparkling Mint-bush,Prostanthera rhombea,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3058,,3058.0,Dune Fan-flower,Scaevola calendulacea,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3059,,3059.0,Sprawling Cassia,Senna aciphylla,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3060,,3060.0,Cut-Leaf Burr-Daisy,Calotis anthemoides,,True,False,False,False,False,False,False,['Full Sun'],,Herbaceous Perennial,
+3061,,3061.0,Pale Swamp Everlasting,Coronidium gunnianum,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Herbaceous Perennial,
+3062,,3062.0,Arching Flax-lily,Dianella longifolia var. grandis,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Grass or Grasslike,
+3063,,3063.0,Austral Crane's-bill,Geranium solanderi var. solanderi,,True,False,False,False,False,False,False,['Full Sun'],,Herbaceous Perennial,
+3064,,3064.0,Southern Swainson-pea,Swainsona behriana,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3065,,3065.0,Southern Xanthosia,Xanthosia tasmanica,,True,False,False,False,False,False,False,['Part Shade'],,Herbaceous Perennial,
+3066,,3066.0,Plump Swamp Wallaby-grass,Amphibromus pithogastrus,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Grass or Grasslike,
+3067,,3067.0,White Star-bush,Asterolasia asteriscophora subsp. albiflora,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3068,,3068.0,Yarra Gum,Eucalyptus yarraensis,,True,False,False,False,False,False,False,['Full Sun'],,Medium Tree 10 to 20 metres,
+3069,,3069.0,White Sunray,Leucochrysum albicans subsp. tricolor,,True,False,False,False,False,False,False,['Full Sun'],,Once a year,
+3070,,3070.0,Rough Wattle,Acacia aspera subsp. parviceps,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3071,,3071.0,Snowy River Wattle,Acacia boormanii subsp. gibba (East Gippsland),,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Large Shrub above 3 metres,
+3072,,3072.0,Jumping-Jack Wattle,Acacia enterocarpa,,True,False,False,False,False,False,False,['Full Sun'],,Medium Shrub 1 to 3 metres,
+3073,,3073.0,Hairy-pod Wattle,Acacia glandulicarpa,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3074,,3074.0,Weeping Myall,Acacia pendula,,True,False,False,False,False,False,False,['Full Sun'],,Small Tree less than 10 metres,
+3075,,3075.0,Yellow-wood,Acronychia oblongifolia,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Tree 10 to 20 metres,
+3076,,3076.0,Trailing Commersonia,Androcalva tatei,,True,False,False,False,False,False,False,['Full Sun'],,Prostrate,
+3077,,3077.0,Downy Star-Bush,Asterolasia phebalioides,,True,False,False,False,False,False,False,"['Part Shade, Shade']",,Small Shrub less than 1 metre,
+3078,,3078.0,Grampians Bauera,Bauera sessiliflora,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3079,,3079.0,Snowy River Daisy,Brachyscome riparia,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Herbaceous Perennial,
+3080,,3080.0,Elegant Cassinia,Cassinia venusta,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3081,,3081.0,Velvet White Correa,Correa alba var. pannosa,,True,False,False,False,False,False,False,['Part Shade'],,Small Shrub less than 1 metre,
+3082,,3082.0,Genoa River Correa,Correa lawrenceana var. genoensis,,True,False,False,False,False,False,False,"['Part Shade, Shade']",,Medium Shrub 1 to 3 metres,
+3083,,3083.0,Grampians Mountain-correa,Correa lawrenceana var. grampiana,,True,False,False,False,False,False,False,"['Full Sun, Part Shade, Shade']",,Medium Shrub 1 to 3 metres,
+3084,,3084.0,Mountain Cryptandra,Cryptandra speciosa subsp. speciosa,,True,False,False,False,False,False,False,['Part Shade'],,Small Shrub less than 1 metre,
+3085,,3085.0,Licola Dampiera,Dampiera galbraithiana,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Herbaceous Perennial,
+3086,,3086.0,Small Darwinia,Darwinia micropetala,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3087,,3087.0,Hairy Hop-bush,Dodonaea boroniifolia,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3088,,3088.0,Spotted Emu-bush,Eremophila maculata subsp. maculata,,True,False,False,False,False,False,False,['Full Sun'],,Medium Shrub 1 to 3 metres,
+3089,,3089.0,Buxton Gum,Eucalyptus crenulata,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Tree 10 to 20 metres,
+3090,,3090.0,Buffalo Sally,Eucalyptus mitchelliana,,True,False,False,False,False,False,False,['Full Sun'],,Medium Tree 10 to 20 metres,
+3091,,3091.0,Wilga,Geijera parviflora,,True,False,False,False,False,False,False,['Full Sun'],,Small Tree less than 10 metres,
+3092,,3092.0,Enfield Grevillea,Grevillea bedggoodiana,,True,False,False,False,False,False,False,['Full Sun'],,Prostrate,
+3093,,3093.0,Buchan River Grevillea,Grevillea pachylostyla,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3094,,3094.0,Creeping Grevillea,Grevillea repens,,True,False,False,False,False,False,False,['Full Sun'],,Prostrate,
+3095,,3095.0,Trailing Guinea-flower,Hibbertia dentata,,True,False,False,False,False,False,False,['Part Shade'],,Climber,
+3096,,3096.0,Rough Hovea,Hovea asperifolia subsp. spinosissima,,True,False,False,False,False,False,False,['Full Sun'],,Medium Shrub 1 to 3 metres,
+3097,,3097.0,Rosemary Hovea,Hovea rosmarinifolia,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3098,,3098.0,Button Tea-tree,Leptospermum micromyrtus,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3099,,3099.0,Shiny Tea-tree,Leptospermum turbinatum,,True,False,False,False,False,False,False,['Full Sun'],,Medium Shrub 1 to 3 metres,
+3100,,3100.0,Twisting Scale-rush,Lepyrodia flexuosa,,True,False,False,False,False,False,False,['Part Shade'],,Grass or Grasslike,
+3101,,3101.0,Veined Beard-heath,Leucopogon neurophyllus,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3102,,3102.0,Pearl Bluebush,Maireana sedifolia,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3103,,3103.0,Red Microcybe,Microcybe multiflora subsp. multiflora,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Small Shrub less than 1 metre,
+3104,,3104.0,Heathy Mirbelia,Mirbelia rubiifolia,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3105,,3105.0,Leafy Nematolepis,Nematolepis frondosa,,True,False,False,False,False,False,False,['Part Shade'],,Large Shrub above 3 metres,
+3106,,3106.0,Shiny Nematolepis,Nematolepis wilsonii,,True,False,False,False,False,False,False,['Part Shade'],,Large Shrub above 3 metres,
+3107,,3107.0,Rusty Daisy-bush,Olearia brevipedunculata,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3108,,3108.0,Toothed Daisy-bush,Olearia tomentosa,,True,False,False,False,False,False,False,['Full Sun'],,Medium Shrub 1 to 3 metres,
+3109,,3109.0,Spicy Everlasting,Ozothamnus argophyllus,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3110,,3110.0,Alpine Stork's-bill,Pelargonium helmsii,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Herbaceous Perennial,
+3111,,3111.0,Mountain Geebung,Persoonia asperula,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Small Shrub less than 1 metre,
+3112,,3112.0,Wax-Flower,Philotheca myoporoides subsp. euroensis,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3113,,3113.0,Fringed Rice-flower,Pimelea ligustrina subsp. ciliata,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3114,,3114.0,Grampians Rice-flower,Pimelea pagophila,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3115,,3115.0,Grey Rice-flower,Pimelea treyvaudii,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Small Shrub less than 1 metre,
+3116,,3116.0,Concave Pomaderris,Pomaderris subplicata,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3117,,3117.0,Spiked Mint-bush,Prostanthera phylicifolia,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3118,,3118.0,Blotchy Mint-bush,Prostanthera walteri,,True,False,False,False,False,False,False,['Part Shade'],,Small Shrub less than 1 metre,
+3119,,3119.0,Silver Tails,Ptilotus obovatus,,True,False,False,False,False,False,False,['Full Sun'],,Herbaceous Perennial,
+3120,,3120.0,Scented Bush-pea,Pultenaea graveolens,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3121,,3121.0,Fern-leaf Baeckea,Sannantha crenulata,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3122,,3122.0,Leafless Pink-bells,Tetratheca subaphylla,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3123,,3123.0,Grampians Thryptomene,Thryptomene calycina,,True,False,False,False,False,False,False,['Full Sun'],,Medium Shrub 1 to 3 metres,
+3124,,3124.0,Snowy River Westringia,Westringia cremnophila,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Small Shrub less than 1 metre,
+3125,,3125.0,Alpine Westringia,Westringia senifolia,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Small Shrub less than 1 metre,
+3126,,3126.0,Snow Daphne,Kelleria bogongensis,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Small Shrub less than 1 metre,
+3127,,3127.0,Forked Spyridium,Spyridium furculentum,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3128,,3128.0,Tall Twig-sedge,Cladium procerum,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Grass or Grasslike,
+3129,,3129.0,Matted Flax-lily,Dianella amoena,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Grass or Grasslike,
+3130,,3130.0,Melbourne Yellow Gum,Eucalyptus leucoxylon subsp. connata,,True,False,False,False,False,False,False,['Full Sun'],,Medium Tree 10 to 20 metres,
+3131,,3131.0,Australian Hollyhock,Malva preissiana,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3132,,3132.0,Spiny Rice-flower,Pimelea spinescens subsp. spinescens,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3133,,3133.0,Coast Fescue,Poa billardierei,,True,False,False,False,False,False,False,['Full Sun'],,Grass or Grasslike,
+3134,,3134.0,Basalt Podolepis,Podolepis linearifolia,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Herbaceous Perennial,
+3135,,3135.0,Button Wrinklewort,Rutidosis leptorhynchoides,,True,False,False,False,False,False,False,['Full Sun'],,Herbaceous Perennial,
+3136,,3136.0,Large-headed Groundsel,Senecio macrocarpus,,True,False,False,False,False,False,False,['Full Sun'],,Herbaceous Perennial,
+3137,,3137.0,Dandenong Wattle,Acacia stictophylla,,True,False,False,False,False,False,False,"['Part Shade, Shade']",,Large Shrub above 3 metres,
+3138,,3138.0,Pinkwood,Beyeria lanceolata,,True,False,False,False,False,False,False,['Part Shade'],,Large Shrub above 3 metres,
+3139,,3139.0,Grey Billy-buttons,Craspedia canens,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Herbaceous Perennial,
+3140,,3140.0,Anglesea Grevillea,Grevillea infecunda,,True,False,False,False,False,False,False,['Part Shade'],,Small Shrub less than 1 metre,
+3141,,3141.0,Adamson's Blown Grass,Lachnagrostis adamsonii,,True,False,False,False,False,False,False,['Full Sun'],,Grass or Grasslike,
+3142,,3142.0,Yam Daisy,Microseris scapigera.,,True,False,False,False,False,False,False,['Full Sun'],,Herbaceous Perennial,
+3143,,3143.0,Rough Daisy-Bush,Olearia asterotricha subsp. lobata,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Small Shrub less than 1 metre,
+3144,,3144.0,Famine Flat-pea,Platylobium infecundum,,True,False,False,False,False,False,False,['Part Shade'],,Small Shrub less than 1 metre,
+3145,,3145.0,Round-leaf Pomaderris,Pomaderris vacciniifolia,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3146,,3146.0,Fragrant Saltbush,Rhagodia parabolica,,True,False,False,False,False,False,False,['Full Sun'],,Medium Shrub 1 to 3 metres,
+3147,,3147.0,Limestone Blue Wattle,Acacia caerulescens,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Small Tree less than 10 metres,
+3148,,3148.0,Native Quince,Alectryon subcinereus,,True,False,False,False,False,False,False,"['Full Sun, Part Shade, Shade']",,Large Shrub above 3 metres,
+3149,,3149.0,Gum Vine,Aphanopetalum resinosum,,True,False,False,False,False,False,False,['Part Shade'],,Climber,
+3150,,3150.0,Grampians Star-hair,Astrotricha sp. 1 subsp. 1,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3151,,3151.0,Alpine Spear-grass,Austrostipa nivicola,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Grass or Grasslike,
+3152,,3152.0,Swamp Baeckea,Baeckea linifolia,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3153,,3153.0,Rock Banksia,Banksia saxicola,,True,False,False,False,False,False,False,['Part Shade'],,Large Shrub more than 3 metres to Medium Tree 10 to 20 metres,
+3154,,3154.0,Grampians Bertya,Bertya grampiana,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3155,,3155.0,Aniseed Boronia,Boronia galbraithiae,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3156,,3156.0,Boggy Creek Bottlebrush,Callistemon nyallingensis,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3157,,3157.0,Dwarf Bottlebrush,Callistemon subulatus,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3158,,3158.0,Yellow Garland-lily,Calostemma luteum,,True,False,False,False,False,False,False,['Full Sun'],,Once a year,
+3159,,3159.0,Garland Lily,Calostemma purpureum,,True,False,False,False,False,False,False,['Full Sun'],,Once a year,
+3160,,3160.0,Mountain Cassinia,Cassinia monticola,,True,False,False,False,False,False,False,['Full Sun'],,Herbaceous Perennial,
+3161,,3161.0,Dwarf Kerrawang,Commersonia prostrata,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Prostrate,
+3162,,3162.0,Spotted Gum,Corymbia maculata,,True,False,False,False,False,False,False,['Full Sun'],,Large Tree above 20 metres,
+3163,,3163.0,Goldfield Boronia,Cyanothamnus anemonifolius subsp. aurifodinus,,True,False,False,False,False,False,False,['Full Sun'],,Medium Shrub 1 to 3 metres,
+3164,,3164.0,Grampians Bitter-pea,Daviesia laevis,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3165,,3165.0,Thorny Bitter-pea,Daviesia pectinata,,True,False,False,False,False,False,False,['Part Shade'],,Small Shrub less than 1 metre to Medium Shrub 1 to 3 metres,
+3166,,3166.0,Broad-leaf Hop-bush,Dodonaea rhombifolia,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3167,,3167.0,Bignonia Emu-bush,Eremophila bignoniiflora,,True,False,False,False,False,False,False,['Full Sun'],,Large Shrub above 3 metres,
+3168,,3168.0,Coccid Emu-bush,Eremophila gibbifolia,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3169,,3169.0,Kamarooka Mallee,Eucalyptus froggattii,,True,False,False,False,False,False,False,['Full Sun'],,Small Tree less than 10 metres,
+3170,,3170.0,Blue Mallee,Eucalyptus polybractea,,True,False,False,False,False,False,False,['Full Sun'],,Small Tree less than 10 metres,
+3171,,3171.0,Rock Mallee,Eucalyptus saxatilis,,True,False,False,False,False,False,False,['Full Sun'],,Small Tree less than 10 metres to Medium Tree 10 to 20 metres,
+3172,,3172.0,Eastern Leather-wood,Eucryphia moorei,,True,False,False,False,False,False,False,['Shade'],,Small Tree less than 10 metres,
+3173,,3173.0,Bolwarra,Eupomatia laurina,,True,False,False,False,False,False,False,['Shade'],,Large Shrub above 3 metres,
+3174,,3174.0,Grampians Grevillea,Grevillea confertifolia,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3175,,3175.0,Flame Grevillea,Grevillea dimorpha,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Small Shrub less than 1 metre to Medium Shrub 1 to 3 metres,
+3176,,3176.0,Green Grevillea,Grevillea jephcottii,,True,False,False,False,False,False,False,['Full Sun'],,Medium Shrub 1 to 3 metres,
+3177,,3177.0,Genoa Grevillea,Grevillea parvula,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3178,,3178.0,Crimson Grevillea,Grevillea polybractea,,True,False,False,False,False,False,False,['Part Shade'],,Small Shrub less than 1 metre,
+3179,,3179.0,Rock Grevillea,Grevillea willisii,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Large Shrub above 3 metres,
+3180,,3180.0,Prostrate Cone-bush,Isopogon prostratus,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Small Shrub less than 1 metre,
+3181,,3181.0,Scael Rush,Lepyrodia anarthria,,True,False,False,False,False,False,False,['Full Sun'],,Grass or Grasslike,
+3182,,3182.0,Alpine Sunray,Leucochrysum alpinum,,True,False,False,False,False,False,False,['Full Sun'],,Herbaceous Perennial,
+3183,,3183.0,Cabbage Fan-palm,Livistona australis,,True,False,False,False,False,False,False,['Full Sun'],,Medium Tree 10 to 20 metres,
+3184,,3184.0,Mountain Mat-rush,Lomandra oreophila,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Grass or Grasslike,
+3185,,3185.0,Slender Myoporum,Myoporum floribundum,,True,False,False,False,False,False,False,"['Part Shade, Shade']",,Medium Shrub 1 to 3 metres,
+3186,,3186.0,Velvet Daisy-bush,Olearia pannosa subsp. cardiophylla,,True,False,False,False,False,False,False,['Full Sun'],,Medium Shrub 1 to 3 metres,
+3187,,3187.0,Morning Flag,Orthrosanthus multiflorus,,True,False,False,False,False,False,False,['Part Shade'],,Grass or Grasslike,
+3188,,3188.0,Ovens Everlasting,Ozothamnus stirlingii,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3189,,3189.0,Forest Phebalium,Phebalium squamulosum subsp. squamulosum,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3190,,3190.0,Narrow-leaf Wax-flower,Philotheca angustifolia subsp. montana,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3191,,3191.0,Golden Pomaderris,Pomaderris aurea,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3192,,3192.0,Snow Wallaby-grass,Rytidosperma nivicola,,True,False,False,False,False,False,False,['Full Sun'],,Grass or Grasslike,
+3193,,3193.0,Tiny Spyridium,Spyridium cinereum,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
+3194,,3194.0,Hairy Darling-pea,Swainsona greyana,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Small Shrub less than 1 metre,
+3195,,3195.0,Errinundra Pepper,Tasmannia xerophila subsp. robusta,,True,False,False,False,False,False,False,['Part Shade'],,Large Shrub above 3 metres,
+3196,,3196.0,Paper Flower,Thomasia petalocalyx,,True,False,False,False,False,False,False,"['Full Sun, Part Shade']",,Medium Shrub 1 to 3 metres,
+3197,,3197.0,Milfoil Speedwell,Veronica nivea,,True,False,False,False,False,False,False,['Part Shade'],,Herbaceous Perennial,
+3198,,3198.0,Grampians Zieria,Zieria oreocena,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3199,,3199.0,Sandfly Zieria,Zieria smithii,,True,False,False,False,False,False,False,['Part Shade'],,Medium Shrub 1 to 3 metres,
+3200,,3200.0,Alpine Bootlace Bush,Pimelea axiflora subsp. alpina,,True,False,False,False,False,False,False,['Full Sun'],,Small Shrub less than 1 metre,
