@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1813,
+      "species_id": 321,
+      "common_name": "Silver King Sweet Gum",
+      "scientific_name": [
+        "Liquidambar styraciflua 'Silver King'"
+      ],
+      "section": [
+        {
+          "id": 5644,
+          "type": "watering",
+          "description": "Silver King Sweet Gum requires regular waterings during the growing season, but should not be allowed to sit in wet soils for protracted periods. Water your plant when the soil becomes dry; this is usually about once or twice per week. During periods of extreme heat and dryness, you may need to water more frequently to make sure that the plant does not dry out. Water deeply, ensuring the soil receives plenty of moisture. Be sure to avoid over-watering; increased risk of root rot and insect damage can occur if the soil is consistently wet. During winter, water only when the soil is dry. "
+        },
+        {
+          "id": 5645,
+          "type": "sunlight",
+          "description": "Silver King Sweet Gum trees prefer full sun and grow best in areas with 6 to 8 hours of direct sunlight a day. They are hardy trees that can tolerate heat, but can also benefit from some light shading during the hottest parts of the day. When planting, it’s important to ensure that the tree receives full sun for as long as possible, especially during the spring and summer months when it is actively growing."
+        },
+        {
+          "id": 5646,
+          "type": "pruning",
+          "description": "Silver King Sweet Gum plants should be pruned during the late winter or early spring before any new growth starts. Prune selectively to remove dead, broken or off-colored branches. Remove any crossed branches which are rubbing together and disrupt the overall shape of the tree. You can also prune the lower branches to create a clear trunk and to improve the overall landscape appearance. Concentrate pruning to reduce the size or spread of the tree by selectively cutting back to lateral branches at the desired height and reducing the amount of foliage per branch as necessary. Any cuts made should be done 1 to 2 inches above a bud. Lastly, do not over prune as this can stress the tree and leave it vulnerable to disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

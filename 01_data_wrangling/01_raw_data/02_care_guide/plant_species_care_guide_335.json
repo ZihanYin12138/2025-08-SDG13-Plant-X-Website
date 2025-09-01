@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1827,
+      "species_id": 335,
+      "common_name": "Star Wars Magnolia",
+      "scientific_name": [
+        "Magnolia 'Star Wars'"
+      ],
+      "section": [
+        {
+          "id": 5686,
+          "type": "watering",
+          "description": "Star Wars Magnolia (Magnolia 'Star Wars') should be watered on a regular basis, but avoid overwatering. During the summer months, check the soil every 3-4 days and water thoroughly, until water exits from the drainage holes in the bottom of the pot. In winter, the plant should be watered less often, checking every 7-10 days and only adding enough water to keep the soil from drying out. If the soil does become dry, make sure to water thoroughly and deeply. Most importantly, never allow the soil to become soggy."
+        },
+        {
+          "id": 5687,
+          "type": "sunlight",
+          "description": "The Star Wars Magnolia (Magnolia 'Star Wars') is a deciduous plant that flourishes in full sun, preferring at least 6 hours of direct daily sunlight. As a general rule, it should be planted in an area that receives direct sunlight in the morning, followed by partial sun or light shade in the afternoon. In cooler climates, Star Wars Magnolia may also appreciate some extra afternoon sunlight. "
+        },
+        {
+          "id": 5688,
+          "type": "pruning",
+          "description": "Star Wars Magnolia should be pruned annually in late winter or early spring, before it begins actively producing new growth. To properly prune your Star Wars Magnolia, begin by removing dead, broken, and diseased branches. Trim branches that rub on eacg another, and thin out areas of dense growth. Cut the branches back by 1/3 to 1/2 length, depending on the size of the plant, and the desired shape. As you prune, make sure the Magnolia has an even shape and leaves plenty of internal space for air circulation. Whenever possible, make cuts at a 45-degree angle just above a bud or set of leaves on the branch. After pruning is complete, inspect the shrub for any potential pest or disease problems."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

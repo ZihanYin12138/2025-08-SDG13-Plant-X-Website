@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1836,
+      "species_id": 345,
+      "common_name": "Wada's Memory Magnolia",
+      "scientific_name": [
+        "Magnolia kobus 'Wada's Memory'"
+      ],
+      "section": [
+        {
+          "id": 5713,
+          "type": "watering",
+          "description": "Wada's Memory Magnolia should be watered deeply twice a week until established. During the active growing season, which is typically from the end of spring through the beginning of fall, its soil should be kept consistently moist until its leaves reach full size. During the winter months, the watering regime should be reduced to once every 2 weeks. The amount of water should always be greater than what is lost to evaporation or absorbed by the soil, and should be adjusted according to the weather conditions each season."
+        },
+        {
+          "id": 5714,
+          "type": "sunlight",
+          "description": "Wada's Memory Magnolia needs full sun (at least 6 hours of direct sunlight) to flower properly. In areas with cooler climates, this magnolia can tolerate more direct sun, but in warmer climates, the tree may need some light afternoon shade. This magnolia is deciduous, so in the warmer months it will benefit from afternoon shade to help protect it from the hot sun, and in the cooler months it will still need several hours of sun each day in order to flower."
+        },
+        {
+          "id": 5715,
+          "type": "pruning",
+          "description": "Wada's Memory Magnolia should be pruned twice a year, once during fall and then again in early spring. During the fall pruning, any dead or damaged branches should be removed. If the plant is growing into an area that it shouldn't be, trim back the branches to the desired shape. For the spring pruning, it's best to wait until the new growth has appeared and begins to mature before pruning. This ensures the plant is not pruned too hard. During the spring pruning, remove any weak or crossed branches, thin out the canopy if needed, and trim back the remaining branches to the desired shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

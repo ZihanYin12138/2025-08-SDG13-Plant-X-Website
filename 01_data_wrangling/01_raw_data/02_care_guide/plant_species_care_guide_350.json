@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1841,
+      "species_id": 350,
+      "common_name": "Rustica Rubra Magnolia",
+      "scientific_name": [
+        "Magnolia x soulangeana 'Rustica Rubra'"
+      ],
+      "section": [
+        {
+          "id": 5728,
+          "type": "watering",
+          "description": "Rustica Rubra Magnolia should be watered once a week, providing 1-2 inches of water per session. Water should be evenly distributed around the plant, taking care not to wet the foliage. Periodically check the soil moisture to ensure the Magnolia is not dry and thirsty. During periods of extreme heat, it may require more frequent watering. In the cooler months, less water may be needed."
+        },
+        {
+          "id": 5729,
+          "type": "sunlight",
+          "description": "Rustica Rubra Magnolia, commonly known as the Saucer Magnolia, is best suited to full sun, which provides 6 to 8 hours of direct sunlight per day. If grown in partial shade, the tree will not develop as vigorously, but it will still grow and flower. It is best to place it in an area that gets morning sun and afternoon shade, particularly during the hottest parts of the day. In winter, the amount of sunlight needed should be reduced to 3 to 4 hours per day."
+        },
+        {
+          "id": 5730,
+          "type": "pruning",
+          "description": "Rustica Rubra Magnolia should be pruned when it is dormant, typically in late winter or early spring. Prune it to shape the canopy and selectively remove any weak, dead or diseased branches. It can also be pruned to remove any crossing branches which can weaken the tree. When pruning, always make sure to make your cuts close to the main stem of the tree. Too much pruning can result in sparse foliage and poor flowering in the next season, so prune only as much as needed. You can generally prune Rustica Rubra Magnolia by up to 20% of its live wood."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

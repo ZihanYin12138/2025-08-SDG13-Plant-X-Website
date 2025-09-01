@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1846,
+      "species_id": 379,
+      "common_name": "Red Jewel Flowering Crab",
+      "scientific_name": [
+        "Malus 'Red Jewel'"
+      ],
+      "section": [
+        {
+          "id": 5743,
+          "type": "watering",
+          "description": "Red Jewel Flowering Crab should be watered deeply once a week during the warmer months and approximately once every 10-14 days in the winter months. Water when the top 1-2 inches of soil is dry. To check the dryness of the soil, insert your finger into the soil up to the first knuckle, if the soil feels dry water up the root zone. Allow the water to drain fully before removing any excess water from the saucer."
+        },
+        {
+          "id": 5744,
+          "type": "sunlight",
+          "description": "The Red Jewel Flowering Crab (Malus 'Red Jewel') is best grown in full sun, meaning at least 6 hours of direct sunlight per day. If growing the flower in a container, it needs to be placed in a place where it can receive the full amount of sun during the day. The Red Jewel Flowering Crab can also tolerate some afternoon shade, however, less flowering will occur in these conditions."
+        },
+        {
+          "id": 5745,
+          "type": "pruning",
+          "description": "Red Jewel Flowering Crab should be pruned in the early spring, right before new growth begins. This helps the trees to set strong buds as they start to grow. Start by removing dead or diseased branches, then shaping the top and sides of the plant. Aim to keep the central leader as strong and tall as possible. Thin out any overly congested areas to let in more light and air, and balance the canopy. It is important to not prune more than 1/3 of the total structure in one season. This will help prevent shock and maintain steadier development."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

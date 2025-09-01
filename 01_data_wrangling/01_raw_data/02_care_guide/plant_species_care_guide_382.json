@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 652,
+      "species_id": 382,
+      "common_name": "Snowdrift Flowering Crab",
+      "scientific_name": [
+        "Malus 'Snowdrift'"
+      ],
+      "section": [
+        {
+          "id": 1958,
+          "type": "watering",
+          "description": "For best results, Malus 'Snowdrift' should be watered once a week with approximately 1-2 inches of water. During the summer months, the plant should be watered more frequently if the soil is dry or if the temperature is warmer than usual. During the winter months, it is best to water the plant less often, allowing the soil to dry somewhat before re-watering. If your Malus 'Snowdrift' is planted in a container, you will need to water it more often since pots generally dry out faster than in-ground plants. In general, make sure to check the soil and water it as needed."
+        },
+        {
+          "id": 1959,
+          "type": "sunlight",
+          "description": "Snowdrift Flowering Crab (Malus 'Snowdrift') needs at least 6 hours of direct sunlight each day, from 8am to 8pm. If the plant can receive more, up to 8 hours, it will be healthier and more vibrant. In the summer, the Snowdrift Flowering Crab needs shade during the hottest hours of the day to protect it from extreme heat. Additionally, providing some light shade during the late afternoon can also help to keep its leaves from scalding, yellowing, and suffering from a sunburn."
+        },
+        {
+          "id": 1960,
+          "type": "pruning",
+          "description": "Pruning for a Snowdrift Flowering Crab should be done at the end of its dormant season, in early spring, though some light pruning may also be necessary during the summer months. Pruning should look to shape the plant, encourage its growth, and remove any dead or damaged branches. Generally speaking only about 20-30% of the plant’s branches should be removed. It’s also important to avoid over pruning to ensure the healthy growth of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

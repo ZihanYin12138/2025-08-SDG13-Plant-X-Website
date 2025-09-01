@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1808,
+      "species_id": 314,
+      "common_name": "Coral Sun Golden Rain Tree",
+      "scientific_name": [
+        "Koelreuteria paniculata 'Coral Sun'"
+      ],
+      "section": [
+        {
+          "id": 5629,
+          "type": "watering",
+          "description": "This fast-growing, beautiful tree should be watered deeply once a week during the first 2 years of growth, when the tree is establishing its roots. Once well established, the tree is very drought-tolerant and requires less frequent watering. During long periods of dry weather, or when drought conditions are observed, water the tree every 10-14 days. When watering, it is important to soak the root system thoroughly so that the water penetrates to a depth of 8-12 inches. During extended periods of hot dry weather, the tree may require more frequent irrigation to prevent wilting."
+        },
+        {
+          "id": 5630,
+          "type": "sunlight",
+          "description": "Coral Sun Golden Rain Tree (Koelreuteria paniculata 'Coral Sun') grows best in full sun. It can tolerate some shade but is likely to become leggy with fewer flowers and somewhat pale in color if exposed to too little sun. Aim to provide it with at least 4 to 6 hours of direct sun each day for optimal growth and flowering."
+        },
+        {
+          "id": 5631,
+          "type": "pruning",
+          "description": "For a Coral Sun Golden Rain Tree (Koelreuteria paniculata 'Coral Sun'), pruning should be done lightly and selectively each year, and is best completed in late winter or early spring before new growth begins. Start by removing dead and diseased branches, then thin the canopy by removing weaker limbs that cross or are too close together. Prune back sideshoots to restrict the size and shape of the tree, and use heading back to shape and reduce the size of its branches. Remove suckers when they appear and perform rootpruning if necessary to limit growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

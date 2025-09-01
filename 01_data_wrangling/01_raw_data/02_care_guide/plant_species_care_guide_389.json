@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1849,
+      "species_id": 389,
+      "common_name": "Gold Rush Dawn Redwood",
+      "scientific_name": [
+        "Metasequoia glyptostroboides 'Gold Rush'"
+      ],
+      "section": [
+        {
+          "id": 5752,
+          "type": "watering",
+          "description": "Gold Rush Dawn Redwood (Metasequoia glyptostroboides 'Gold Rush') should be watered deeply and regularly. In general, it should be watered once or twice each week, but the exact amount and frequency of watering needs to depend on the local climate and soil. During the warmer months, the Gold Rush Dawn Redwood will require more frequent watering to remain healthy. In periods of extended drought or high temperatures, it should be watered more frequently than usual. \n\nWhen watering, it's best to saturate the soil and leave it to drain before repeating. After watering, it should be monitored for any signs of water stress or wilting. During the winter months, the frequency of watering can be reduced. If the soil is not frozen, the Gold Rush Dawn Redwood should still be watered occasionally to prevent it from drying out completely."
+        },
+        {
+          "id": 5753,
+          "type": "sunlight",
+          "description": "Gold Rush Dawn Redwoods prefer full sun. Ideally, in ideal growing conditions, it should receive between 8-10 hours of total sunlight but can tolerate up to 12 hours a day during its growing season, which is March through October. During the winter when the tree is dormant, the amount of sunlight it receives can be reduced by about half."
+        },
+        {
+          "id": 5754,
+          "type": "pruning",
+          "description": "The best time of year to prune Gold Rush Dawn Redwood is in late autumn or winter when the leaves have fallen and the dormant buds are easy to spot. If shaping is your goal, then lightly trim the branches in June after new growth appears.\n\nTo encourage lush new growth, you should aim to lightly prune and shape your Gold Rush Dawn Redwood each year. Remove any dead or unruly branches and thin out any overcrowded areas to allow for air circulation. Avoid heavy pruning, as this can leave the plant feeling vulnerable to winter weather. If you notice any dead or diseased branches, you should remove these to help encourage healthy growth. Remove any wood that is easily accessible before using a pole pruner to reach higher areas."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

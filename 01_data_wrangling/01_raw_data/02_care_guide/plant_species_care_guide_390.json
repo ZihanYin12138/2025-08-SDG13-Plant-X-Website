@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1850,
+      "species_id": 390,
+      "common_name": "Black Gum",
+      "scientific_name": [
+        "Nyssa sylvatica"
+      ],
+      "section": [
+        {
+          "id": 5755,
+          "type": "watering",
+          "description": "Black Gums should be watered deeply and slowly every 7-10 days. Water the entire soil area, drenching the soil but avoid water pooling at the base of the tree. Generally for established trees 2-3 gallons per caliper inch of tree should be sufficient; however if the soil is sandy, a higher volume of water should be applied. During sustained periods of dry weather or heat, water more frequently, every 4-5 days. Additionally, during the first year of growth, water twice a week with the same volumes of water mentioned above."
+        },
+        {
+          "id": 5756,
+          "type": "sunlight",
+          "description": "Black Gum (Nyssa sylvatica) prefers full sun to partial shade, but will tolerate full shade for part of the day. It should receive at least 4 hours of direct sunlight a day, or be dappled to part shade with morning and late afternoon sun. During its active growth season (spring and summer), this plant enjoys the maximum amount of sunlight, which helps it thrive and remain healthy. In winter months, some light should still be available, but not as much. "
+        },
+        {
+          "id": 5757,
+          "type": "pruning",
+          "description": "For Black Gum (Nyssa sylvatica), pruning should be done lightly every year during the late winter to early spring season (February - March). This is the best time for the shrub to send out new shoots, so incorporating this timeframe into your pruning plan will help to promote healthy growth. Depending on the size and appearance of the shrub, you can prune up to 1-third of the branches, but avoid cutting into older wood because it won't recover. When pruning, look out for certain branches such as ash, elm, oak, and maple to prune as these can grow quickly or become unruly."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

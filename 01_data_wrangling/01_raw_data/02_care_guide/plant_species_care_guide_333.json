@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1825,
+      "species_id": 333,
+      "common_name": "Marilyn Magnolia",
+      "scientific_name": [
+        "Magnolia 'Marilyn'"
+      ],
+      "section": [
+        {
+          "id": 5680,
+          "type": "watering",
+          "description": "Marilyn Magnolia (Magnolia 'Marilyn') requires proper watering to stay healthy and thrive. Initially, the plant should be watered deeply to ensure that the entire root system is getting enough water. This should be done about once a week. After the plant is established, it should be watered every 5-7 days. During periods of high temperatures and rains, the plant may need more frequent watering. During dry periods, or when plants are under stress, it may need to be watered more than once a week. Additionally, it is important to make sure that the soil is moist but not soggy, so don't overwater."
+        },
+        {
+          "id": 5681,
+          "type": "sunlight",
+          "description": "Marilyn Magnolia (Magnolia 'Marilyn') prefers full sun, meaning it needs 6 to 8 hours of direct sunlight per day. It should be planted in an area that provides full sun in the morning but shadier conditions in the afternoon. However, it is important to remember that plants cannot tolerate extreme temperatures or direct sunlight during the hottest part of the day, so if your area has very hot summers, it might be a good idea to find a spot with some afternoon shade. Some southern regions may need to provide additional protection with light shade cloth during the summer months."
+        },
+        {
+          "id": 5682,
+          "type": "pruning",
+          "description": "Marilyn Magnolia (Magnolia 'Marilyn') should be pruned in early spring, in the months of March or April. Prune selectively, to remove dead, damaged, or crossing branches and to maintain a desirable shape. Avoid over-pruning or removing large amounts of foliage at once, as this will damage the health of the tree. Inspect the branches and use pruning shears or loppers, to cut branches just above an outward-facing bud for the best results."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

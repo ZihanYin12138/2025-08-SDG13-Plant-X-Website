@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1843,
+      "species_id": 362,
+      "common_name": "Gala Apple",
+      "scientific_name": [
+        "Malus 'Gala'"
+      ],
+      "section": [
+        {
+          "id": 5734,
+          "type": "watering",
+          "description": "Gala Apple (Malus 'Gala') plants prefer a somewhat frequent, yet moderate watering schedule. They should be watered deeply 2 to 3 times each week, allowing the top few inches of soil to dry out slightly in between waterings. When watering, ensure the soil is saturated and avoid letting the foliage get wet. During dry periods water deeply 2- 4 times per week, and during periods of heavy rain decrease watering and allow the top soil to slightly dry out. And, for periods of extended dry weather, consider adding a layer of mulch to the soil in order to help conserve moisture."
+        },
+        {
+          "id": 5735,
+          "type": "sunlight",
+          "description": "Gala apple trees need full sun exposure for optimal growth and fruit production. The tree should get at least 6-8 hours of direct sunlight per day during peak growing season. For areas that experience colder winter temperatures, Gala apple trees should be planted in a south-facing location to take advantage of the winter sun."
+        },
+        {
+          "id": 5736,
+          "type": "pruning",
+          "description": "Gala apple trees should be pruned in the spring when new growth begins to emerge. Pruning should begin when the tree is small and at least 5 years old. This can be done anytime between late winter and early summer, but be careful of late frosts that can damage the buds. Pruning the Gala Apple tree should involve removing weak, damaged or diseased branches and those crossing or rubbing against each other. In addition, remove any dead wood, and remove a portion of the vertical branches to promote the spreading of lateral branches. Pruning should also involve thinning the canopy to improve airflow and light access throughout the tree and to promote fruiting. Lastly, prune to encourage more outward-facing leaves and fruiting spurs as these will receive more light and air."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

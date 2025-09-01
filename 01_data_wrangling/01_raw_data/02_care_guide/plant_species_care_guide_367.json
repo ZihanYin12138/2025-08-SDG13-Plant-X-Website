@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 4,
+      "species_id": 367,
+      "common_name": "Honeycrisp Apple",
+      "scientific_name": [
+        "Malus 'Honeycrisp'"
+      ],
+      "section": [
+        {
+          "id": 13,
+          "type": "watering",
+          "description": "Honeycrisp Apple (Malus 'Honeycrisp') should be watered regularly, approximately once per week during the growing season. Deep watering is better, and should be done when the top 2 or 3 inches (5-8 cm) of soil is dry. At this point, the plant should be watered until the soil is saturated and water runs out of the pot's drainage holes. During the winter, the plant should be watered much less, approximately every 2 weeks or so. In very cold climates, the plant may benefit from additional insulation and additional water during a cold snap."
+        },
+        {
+          "id": 14,
+          "type": "sunlight",
+          "description": "Sunlight is essential for all types of apples, especially Honeycrisp apples. This particular variety of apple requires full sunlight for up to 8 hours a day in order to sprout and bear fruit. Honeycrisp trees usually bear fruit within their first 4-6 years of planting. If the tree is given too little sunlight, the fruit will not ripen properly and be of subpar quality.\n\nHoneycrisp apple trees are a type of deciduous tree and need direct sunlight for most of the day. For proper fruit formation, the tree should be in a sunny and warmer climate. Providing the right amount of sunlight is especially important during the first and second year of the tree's growth, as this is when the majority of fruit is produced."
+        },
+        {
+          "id": 15,
+          "type": "pruning",
+          "description": "Pruning Honeycrisp apples is an essential maintenance practice for any apple tree. Pruning affects the shape and size of the tree and influences the overall health, yield and quality of the fruit. It's especially important for Honeycrisp apples, since these trees produce bigger, sweeter apples.\n\nThe best time to prune Honeycrisp apple trees is in late winter before the buds begin to break. To prune, start by removing any dead, diseased, and broken branches. Then remove any small, weak, and water sprouts. This will help open up the tree and let in light. Finally, trim back the remaining branches to encourage growth and reduce crowding.\n\nWhen pruning Honeycrisp apple trees, it is important to make sure that the cuts are made cleanly and accurately. Pruning too much can harm the tree and reduce yield, while pruning too little can lead to branches that are too crowded and produce smaller apples.\n\nBy properly pruning Honeycrisp apple trees, you can ensure optimal growth, health and yield. With the right techniques, you can enjoy sweet, juicy apples all season long."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

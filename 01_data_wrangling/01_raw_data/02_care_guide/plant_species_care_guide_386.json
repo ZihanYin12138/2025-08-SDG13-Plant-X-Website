@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 499,
+      "species_id": 386,
+      "common_name": "Yellow Transparent Apple",
+      "scientific_name": [
+        "Malus 'Yellow Transparent'"
+      ],
+      "section": [
+        {
+          "id": 1500,
+          "type": "watering",
+          "description": "Yellow Transparent Apple plants should be watered once a week, providing the soil is kept consistently moist. Make sure to water deeply, as the roots need to be able to reach down deep in order to access moisture. Aim to provide about 2 inches (5 cm) of water for each plant each week, either from rainfall or irrigation. Monitor the soil for signs of excessive moisture, such as pooling or wetness, and adjust your watering schedule accordingly."
+        },
+        {
+          "id": 1501,
+          "type": "sunlight",
+          "description": "Yellow Transparent Apple (Malus 'Yellow Transparent') requires at least 6 hours of direct sunlight per day and prefers more sunlight if possible. During the summer months when the days are longer, these plants should be given as much sunlight as possible. In the spring, the plants should begin to receive the additional sunlight as the season progresses and temperatures begin to increase. In the fall, the plants should begin to be shaded as the days begin to shorten and temperatures start to drop."
+        },
+        {
+          "id": 1502,
+          "type": "pruning",
+          "description": "Pruning of a Yellow Transparent Apple tree (Malus 'Yellow Transparent') should be done in early spring when the tree is still dormant. Generally, trees of this variety should receive light pruning in the early spring to remove dead, diseased, or damaged branches. Young trees may also need light pruning to control their shape or size. In addition, light pruning may need to be done throughout the growing season to remove dead or broken branches. Heavy pruning should be avoided as this type of tree is prone to water sprouts and over-pruning will encourage more vigorous growth of that type."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

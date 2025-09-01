@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 602,
+      "species_id": 361,
+      "common_name": "Elstar Apple",
+      "scientific_name": [
+        "Malus 'Elstar'"
+      ],
+      "section": [
+        {
+          "id": 1807,
+          "type": "watering",
+          "description": "Elstar Apple trees need to be watered deeply every 7-10 days. When watering, it is important to make sure the entire root system is saturated. During the summer months, Elstar Apple trees need to be watered more frequently and require more water due to the increased warmth and dry air. In the winter, Elstar Apple trees should be watered less frequently, as the cooler air and rain will provide enough water for the tree."
+        },
+        {
+          "id": 1808,
+          "type": "sunlight",
+          "description": "The Elstar Apple tree (Malus 'Elstar') requires 6 to 8 hours of direct sunlight each day to thrive. During the spring and summer, the tree should receive full-sun all day to help bolster its growth. If the tree doesn't receive its 6 to 8 hours of sunlight, it may stunt its growth and reduce its crop yield. During the fall and winter months, the Elstar Apple likely won't need as much direct sunlight each day since it's a deciduous tree and won't be keeping its foliage. However, if your region receives a lot of overcast or rainy days, supplementing the tree with 4 to 6 hours of direct sunlight will be beneficial."
+        },
+        {
+          "id": 1809,
+          "type": "pruning",
+          "description": "Elstar Apples can be pruned twice a year to promote healthy growth and production. In the late winter/early spring, just before bud break, prune to remove damaged, diseased, or dead branches and to shape the tree into the desired form. In the late summer/early fall, prune primarily for the same reasons, but also to thin the fruit, and to regulate the proportion of young and old wood on the tree. Pruning in the summer makes for a denser branch structure with fewer apples and leaves the interior better-lit, allowing better air flow which reduces the chances of disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

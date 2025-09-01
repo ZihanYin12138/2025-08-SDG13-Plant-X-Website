@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 497,
+      "species_id": 366,
+      "common_name": "Gravenstein Apple",
+      "scientific_name": [
+        "Malus 'Gravenstein'"
+      ],
+      "section": [
+        {
+          "id": 1494,
+          "type": "watering",
+          "description": "For the Gravenstein Apple, watering should take place every 7 to 10 days, and should be applied once the top 1 inch of soil has been allowed to dry out. Depending on outdoor conditions, the amount of water should be approximately 2 to 3 gallons per inch of trunk diameter. It is important not to over-water the Gravenstein Apple, as this can lead to root rot or fungal diseases. During periods of extreme heat or sun, more frequent and generous watering may be necessary to prevent the fruit from drying out."
+        },
+        {
+          "id": 1495,
+          "type": "sunlight",
+          "description": "Gravenstein Apple trees require full sun for best growth and fruit production, meaning at least 6 hours of direct sunlight per day is recommended. They can also tolerate partial shade, but the more direct light the better for fruit development. Gravenstein Apples do best when planted in regions with hot summers, as the sunny conditions will yield higher amount of fruit."
+        },
+        {
+          "id": 1496,
+          "type": "pruning",
+          "description": "Gravenstein Apple trees should be pruned once a year, in the late winter or early spring while the tree is still dormant. The main goal of pruning is to remove older, non productive wood as well as to thin out some of the branches in order to improve air circulation, allowing for better light penetration, and reduce possible disease. Light to moderate pruning should be done annually, focusing on shortening the length of branches that reach 8-10 inches beyond the desired shape of the tree. Remove any shoots, suckers, water sprouts or other growth that is too large and vigorous for the overall shape of your tree. When pruning, it is important to make the right cuts in the right place in order to encourage new healthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

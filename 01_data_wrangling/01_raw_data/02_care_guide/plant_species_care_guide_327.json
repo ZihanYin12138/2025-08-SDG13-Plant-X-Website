@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1819,
+      "species_id": 327,
+      "common_name": "Fastigiatum Tuliptree",
+      "scientific_name": [
+        "Liriodendron tulipifera 'Fastigiatum'"
+      ],
+      "section": [
+        {
+          "id": 5662,
+          "type": "watering",
+          "description": "The Fastigiatum Tuliptree is a medium-sized, deciduous tree that prefers a moist, well-drained soil. It is recommended to water the Fastigiatum Tuliptree deeply and frequently during the active growing season. During the summer months, aim to water the tree 2 to 3 times a week to ensure the soil is moist but not soggy. During the winter months, water only if the soil is very dry. Be sure to never water the tree more than once a week during the winter months. "
+        },
+        {
+          "id": 5663,
+          "type": "sunlight",
+          "description": "Fastigiatum Tuliptree is best grown in full sun, meaning it should receive 6 to 8 hours of direct sunlight each day. It is best to give them the most sunlight possible in the morning/early afternoon and less in late afternoon or evening, as too much sun can cause leaf scorch or stress.  Additionally, in areas with hot summers, it is best to give them some afternoon shading to keep them from overheating."
+        },
+        {
+          "id": 5664,
+          "type": "pruning",
+          "description": "Fastigiatum Tuliptree should be lightly pruned twice a year, once in the spring when buds are just beginning to appear and another time in late summer before the tree goes into dormancy. Pruning during the spring will help maintain the upright shape of the tree whereas pruning during the late summer will reduce excessive growth that may occur during that time. Make sure to only prune dead or damaged wood, and to prune only 1-third of the branches. Select branches evenly throughout the canopy that appear too crowded in order to maintain the natural shape of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

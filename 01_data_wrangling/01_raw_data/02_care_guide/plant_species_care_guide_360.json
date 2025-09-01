@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1842,
+      "species_id": 360,
+      "common_name": "Donald Wyman Flowering Crab",
+      "scientific_name": [
+        "Malus 'Donald Wyman'"
+      ],
+      "section": [
+        {
+          "id": 5731,
+          "type": "watering",
+          "description": "Donald Wyman Flowering Crab trees should be watered about once a week during the growing season. In the first few years after planting, water the tree deeply but less often than once a week. During a dry spell, water more frequently and ensure that the soil stays moist. Soak the soil around the tree with about 10 gallons per watering session to ensure proper hydration. In the coldest part of winter, reduce watering to once every month."
+        },
+        {
+          "id": 5732,
+          "type": "sunlight",
+          "description": "The Donald Wyman Flowering Crab (Malus 'Donald Wyman') requires full sun, at least 6 to 8 hours of direct sunlight each day, for healthy growth. This species does best in bright, sun-drenched spots during the growing season, but will also tolerate partial shade conditions. As a native of North America, this plant prefers exposure to direct sunlight for the warmest months of the year, from late spring to early autumn. During the winter season, it will tolerate morning sun and filtered light, as these conditions will help protect the plant from frost damage."
+        },
+        {
+          "id": 5733,
+          "type": "pruning",
+          "description": "Donald Wyman Flowering Crab should be pruned in late winter or early spring, once the tree is dormant. Prune lightly, removing dead, diseased, or crossing branches. Thin out branches to allow more light and air circulation to reach the inner parts of the tree. Branches should be cut just outside the branch collar, which is the union between the branch and the main trunk. Do not remove more than 25-30% of the branches at a time. Regular maintenance pruning should be done annually to maintain the desired shape of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

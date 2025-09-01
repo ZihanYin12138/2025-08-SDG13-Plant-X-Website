@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 387,
+      "species_id": 383,
+      "common_name": "Spartan Apple",
+      "scientific_name": [
+        "Malus 'Spartan'"
+      ],
+      "section": [
+        {
+          "id": 151,
+          "type": "watering",
+          "description": "Spartan Apple plants should be watered deeply at the base of the plant once a week. The soil should be kept moist, not soggy or dry. About 2 inches of water per week is sufficient for a mature Spartan Apple tree. During periods of extreme heat or drought, water deeply once every 5 to 7 days."
+        },
+        {
+          "id": 152,
+          "type": "sunlight",
+          "description": "Spartan Apple (Malus 'Spartan') plants need full sun to floursh and grow. This means that the plant should receive direct sunlight in the area for a minimum of 6 to 8 hours a day. If the plant does not have direct access to the sun, then it should receive bright, indirect sunlight for at least 8 hours a day. Spartan Apple plants also benefit from at least an hour of afternoon sun in order to produce the bud set that leads to healthy-looking flowers and fruit."
+        },
+        {
+          "id": 153,
+          "type": "pruning",
+          "description": "Spartan apples should be pruned in late winter when the tree is still dormant. The best time for pruning Spartan apples is late February to early March. Pruning your Spartan apple should be done lightly to remove any overly vigorous stems, as well as to open up the tree to more sunlight and increased air circulation. When pruning, be sure to remove any dead, crossing, or diseased wood. Cutting beyond the branch collar will encourage an overabundance of water sprouts that will need to be pruned off in the following years."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

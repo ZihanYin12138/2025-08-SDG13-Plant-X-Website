@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1844,
+      "species_id": 372,
+      "common_name": "Louisa Flowering Crab",
+      "scientific_name": [
+        "Malus 'Louisa'"
+      ],
+      "section": [
+        {
+          "id": 5737,
+          "type": "watering",
+          "description": "The Louisa Flowering Crab (Malus 'Louisa') requires moderate watering every couple of weeks. To keep the soil evenly moist, provide 1-2 inches of water per week. Soak the soil thoroughly and make sure to avoid over-watering; soggy soil can rot the roots. In periods of drought, you may need to water slightly more frequently or increase the amount of water to ensure the plant is getting enough. During the winter, water the plant deeply once every couple of weeks to keep it hydrated and healthy."
+        },
+        {
+          "id": 5738,
+          "type": "sunlight",
+          "description": "The Louisa Flowering Crab needs at least 6 hours of direct sunlight a day to thrive. The sun should be strongest during the mid-afternoon, when the sun is at its highest angle. If direct sunlight is not available, the Louisa Flowering Crab can still do well in locations that receive full indirect sunlight for the majority of the day."
+        },
+        {
+          "id": 5739,
+          "type": "pruning",
+          "description": "Louisa Flowering Crab should be pruned in late winter, before new growth begins. Pruning should be light, and no more than 25% of the overall growth should be removed in any given season. Take care to thin out overly dense growth, and remove dead, diseased, or broken branches. If done properly and regularly, pruning will make the plant more vigorous and healthy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

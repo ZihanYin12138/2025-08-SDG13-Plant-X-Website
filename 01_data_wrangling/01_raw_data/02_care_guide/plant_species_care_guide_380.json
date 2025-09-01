@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 949,
+      "species_id": 380,
+      "common_name": "Scarlet Pippin Apple",
+      "scientific_name": [
+        "Malus 'Scarlet Pippin'"
+      ],
+      "section": [
+        {
+          "id": 2848,
+          "type": "watering",
+          "description": "Watering for a Scarlet Pippin Apple should depend on the soil and climate of the specific location. Generally, it is best to give the plant deep and thorough watering once a week for optimal growth, making sure the soil is saturated. During hot weather or excessive wind, the Scarlet Pippin Apple may require more frequent watering, such as twice a week. During cooler seasons or after rainfall, you can decrease the amount of waterings to once every 2 weeks or less. It is important to check for soil moisture before each watering to ensure the Scarlet Pippin Apple is not over-watered."
+        },
+        {
+          "id": 2849,
+          "type": "sunlight",
+          "description": "Scarlet Pippin Apple (Malus 'Scarlet Pippin') requires a full 6 to 8 hours of direct sunlight each day for optimal growth. This variety does not need extensive shade, but should have some shade available in the hottest parts of summer. It is best to have the Apple Trees in a place with exposure during the morning and late afternoon sun. Additionally, Scarlet Pippin Apple Trees should be planted in a location where they can benefit from good air circulation."
+        },
+        {
+          "id": 2850,
+          "type": "pruning",
+          "description": "Pruning for the Scarlet Pippin Apple (Malus 'Scarlet Pippin') should be done yearly in late winter or early spring, just before bud break. Aim to remove branches that are weak, dead or diseased; as well as any crossing branches, suckers or watersprouts that may limit airflow or light penetration. Try to maintain a balanced canopy with an open center. Prune to retain the desired shape, size, and structure of the tree, but avoid major pruning as much as possible. Do not prune more than 1/4 of the Scarlet Pippin Apple tree in any given year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

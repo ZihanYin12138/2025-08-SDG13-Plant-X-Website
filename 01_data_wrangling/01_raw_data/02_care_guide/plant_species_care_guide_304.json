@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1801,
+      "species_id": 304,
+      "common_name": "Limelight Hydrangea (tree form)",
+      "scientific_name": [
+        "Hydrangea paniculata 'Limelight (tree form)'"
+      ],
+      "section": [
+        {
+          "id": 5608,
+          "type": "watering",
+          "description": "Water your Limelight Hydrangea (tree form) deeply 2 or 3 times a week during the growing season. It’s best to give your plant a deep, thorough soaking to encourage deep, healthy root growth. Apply about 1 inch of water each time you water until it’s established. Make sure to avoid wetting the foliage as much as possible, as this can encourage leaf diseases. Cut back on watering during the winter months when growth slows significantly. Water enough so that the soil stays moist but not waterlogged as this can cause root rot."
+        },
+        {
+          "id": 5609,
+          "type": "sunlight",
+          "description": "Limelight Hydrangeas need at least 6-8 hours of direct sunlight each day for proper growth and blooming. It is most successful in full sun or part shade conditions, though too much shade can reduce flowering. It is best to provide morning sun and afternoon shade, particularly in warmer climates."
+        },
+        {
+          "id": 5610,
+          "type": "pruning",
+          "description": "Prune Limelight Hydrangeas (tree form) at the end of the winter season, when temperatures are still cold and the leaves have begun to fall. The early spring before new buds emerge is the ideal time for pruning. You can remove up to 1-third of the branches from the hydrangea and clear away any deadwood or damaged stems. After the pruning season, the shrub will begin to produce new buds and flower clusters, and it will be important to remove any newly grown shoots during the summer if they cross or look too crowded. For general maintenance, shear the shrub lightly after new growth has ceased but before the blooms fade to maintain an attractive shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

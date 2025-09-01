@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 865,
+      "species_id": 365,
+      "common_name": "Granny Smith Apple",
+      "scientific_name": [
+        "Malus 'Granny Smith'"
+      ],
+      "section": [
+        {
+          "id": 2597,
+          "type": "watering",
+          "description": "For optimal growth and fruiting, Granny Smith Apple trees should be watered at least once a week during the growing season. During periods of extended dryness or highest temperatures, water more frequently, possibly twice a week. If your soil is clayey, you may have to water more often. When watering, make sure the soil is moist but not soggy, and that you water deeply. Depending on your soil, you should aim for 2 to 3 gallons of water for every inch of trunk diameter and 8 to 10 gallons of water for most mature trees. Watering at least 10–12 inches deep ensures the water reaches into the root zone and encourages deeper roots. Be sure to decrease watering when temperatures are cooler."
+        },
+        {
+          "id": 2598,
+          "type": "sunlight",
+          "description": "Granny Smith Apple (Malus 'Granny Smith`) should be exposed to at least 6 hours of direct sunlight each day. This should be done consistently either in the morning or afternoon to ensure optimal growth of the plant. The sunniest location possible is recommended for best results."
+        },
+        {
+          "id": 2599,
+          "type": "pruning",
+          "description": "Granny Smith Apple should be pruned in late winter to early spring before it begins to produce new growth. In general, you should remove no more than 25% of the overall size of the tree during a pruning session. You should focus on removing dead or diseased branches as well as those that cross over or rub against each other. If you need to reduce the size of the tree, you can do so by selectively removing the longest branches. You may also thin out the inside canopy to let more light and air inside the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

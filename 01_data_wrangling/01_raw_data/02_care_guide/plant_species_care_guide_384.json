@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 950,
+      "species_id": 384,
+      "common_name": "Summerland Apple",
+      "scientific_name": [
+        "Malus 'Summerland'"
+      ],
+      "section": [
+        {
+          "id": 2851,
+          "type": "watering",
+          "description": "Watering Summerland Apples should happen on a regular basis throughout the growing season - meaning at least once a week or more during periods of dryness. Make sure to water thoroughly until the top 6-8 inches of soil are damp. You should also ensure to water at the base of the plant and avoid wetting the leaves. It is beneficial to provide an extra deep watering less often. On average, you should be providing 1-2 inches of water per week, subject to variation based on soil type and temperature."
+        },
+        {
+          "id": 2852,
+          "type": "sunlight",
+          "description": "Summerland Apple plants should receive at least 6 hours of direct sunlight every day from late spring to early fall (generally April- September) and less during the cooler months (generally October –March). For best growth and fruit production, place Summerland Apple plants in a full sun area away from tall trees and buildings that could potentially cast shade over the plants."
+        },
+        {
+          "id": 2853,
+          "type": "pruning",
+          "description": "Summerland Apple (Malus 'Summerland') should be pruned once a year in late winter or early spring, just before the growing season starts. In order to keep it healthy and vigorous, it should be lightly trimmed, removing any dead or crossing branches and selectively thinning out any overly dense or crowded areas. Avoid removing more than 1/3 of the tree's total growth. Doing this will help keep its size more manageable, while also allowing light and air to penetrate the canopy and promote good flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

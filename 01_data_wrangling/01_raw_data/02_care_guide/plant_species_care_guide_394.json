@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1854,
+      "species_id": 394,
+      "common_name": "Royal Empress Tree",
+      "scientific_name": [
+        "Paulownia tomentosa"
+      ],
+      "section": [
+        {
+          "id": 5767,
+          "type": "watering",
+          "description": "Royal Empress Trees should be watered deeply and regularly, with a thorough soaking once weekly during the growing season. Water the tree in the morning, so the foliage has time to dry off during the day. Allow the top 4-6 inches of soil to dry out before watering, then provide enough water to penetrate the root zone for an inch or 2. Soil with poor drainage may require 2 watering sessions per week. Avoid overwatering, as it can lead to root rot. Do not water during periods of extended rain or during winter dormancy."
+        },
+        {
+          "id": 5768,
+          "type": "sunlight",
+          "description": "The Royal Empress tree (Paulownia tomentosa) is a fast-growing evergreen tree that thrives in sunny environments. It requires full sun for optimum growth and can tolerate partial sun for up to 6 or 8 hours. The specific amount of sunlight this species needs may vary depending on the particular climate of the location it is planted in. For instance, in warmer climates, the Royal Empress tree may need more direct hours of sunlight while in cooler climates, it may not need as much. Therefore, it is best to assume full sun of at least 8 hours of direct sunlight when planting the Royal Empress tree."
+        },
+        {
+          "id": 5769,
+          "type": "pruning",
+          "description": "Royal Empress Tree are fast growing trees and therefore require significant pruning. Pruning should take place twice a year: once in late winter (February-March) and once in late fall (November-December). During both periods, prune away any dead or damaged branches, weak or crossing branches, and any inward-growing branches. Additionally, you can trim the sides of the crown to create a more linear shape, which will help promote a stronger growth pattern. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

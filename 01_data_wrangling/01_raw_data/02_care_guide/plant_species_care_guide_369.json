@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 866,
+      "species_id": 369,
+      "common_name": "Jonathan Apple",
+      "scientific_name": [
+        "Malus 'Jonathan'"
+      ],
+      "section": [
+        {
+          "id": 2600,
+          "type": "watering",
+          "description": "The Jonathan Apple (Malus 'Jonathan') should be watered regularly throughout the growing season, with a moderate amount of water once or twice a week. Allow the soil to dry out completely between watering, and avoid letting the soil remain wet for extended periods. During the late winter and early spring, reduce watering to once every 2 weeks or so. Water more sparingly during the winter months when the tree is dormant, as too much moisture during this time can cause the tree to break dormancy early."
+        },
+        {
+          "id": 2601,
+          "type": "sunlight",
+          "description": "Jonathan Apple plants need full sun, meaning at least 6 hours of direct sun per day, in order to thrive. Depending on the region, the plant should receive this amount of sunlight either all day long or have sun all morning and enough bright light in the afternoon to make up the difference. Furthermore, in areas with high heat, the plants should be given some afternoon shade."
+        },
+        {
+          "id": 2602,
+          "type": "pruning",
+          "description": "Jonathan Apple trees should be pruned in late winter or early spring before the buds start to swell. Pruning should be limited to removing dead, diseased, or crossing branches. To keep the tree vegetative do not prune it back hard; instead, thin out some of the branches that are overcrowding the center of the tree. When pruning, aim to remove no more than 1/3 of the total height and 1-third of the total width."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

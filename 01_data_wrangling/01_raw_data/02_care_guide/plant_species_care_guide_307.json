@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 595,
+      "species_id": 307,
+      "common_name": "Carpathian English Walnut",
+      "scientific_name": [
+        "Juglans regia 'Carpathian'"
+      ],
+      "section": [
+        {
+          "id": 1786,
+          "type": "watering",
+          "description": "Carpathian English Walnut trees prefer evenly moist but well-drained soil. During the growing season, while actively in leaf, the soil should be watered on a regular basis. Water when the top 1-2\" of soil begins to dry out. Aim to keep the soil slightly moist, but not saturated. In hot or dry climates, the tree may need supplemental water 1 to 2 times per week. During the winter, Carpathian English Walnuts do not require additional water unless the winter is very dry."
+        },
+        {
+          "id": 1787,
+          "type": "sunlight",
+          "description": "Carpathian English Walnut (Juglans regia 'Carpathian') plants will benefit from 6 to 8 hours of direct sunlight per day. It is important to regularly expose the plants to sunshine throughout the growing season. Avoid prolonged exposure to direct sun during the hottest times of the day, especially in the summertime; too much sunlight can easily lead to sunscald and potential damage to the leaves. If possible, the Carpathian English Walnut should be exposed to the morning sun and diffused, indirect light in the afternoon."
+        },
+        {
+          "id": 1788,
+          "type": "pruning",
+          "description": "Pruning Carpathian English walnuts (Juglans regia 'Carpathian') is important for controlling the size and encouraging vigorous growth and healthy nut production. Prune twice each year, 1 major prune preferably in early spring and a smaller 1 in late summer. For the major prune, prune away any dead or diseased branches first. Once that is done, selectively prune off branches that are growing in undesired directions at a 45-degree angle 1/4 inch (0.6 cm) from the trunk. For the minor prune, prune away any dead or diseased branches as needed, but do minimal pruning of healthy branches. Pruners may also thin shoots that are close together and shoots that are excessively vigorous. If pruning in late summer, prune just before fall brittling begins to ensure the plant will have adequate time to properly heal pruning wounds."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

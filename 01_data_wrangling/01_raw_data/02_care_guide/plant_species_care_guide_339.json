@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1830,
+      "species_id": 339,
+      "common_name": "Southern Magnolia",
+      "scientific_name": [
+        "Magnolia grandiflora"
+      ],
+      "section": [
+        {
+          "id": 5695,
+          "type": "watering",
+          "description": "Southern Magnolia is generally drought tolerant but should be watered moderately when in full sun. During the warm months, water once a week or when the soil has dried out. During the cooler months, water less frequently. Southern Magnolia should be watered deeply to the root level and mulch should be added to the soil to retain moisture."
+        },
+        {
+          "id": 5696,
+          "type": "sunlight",
+          "description": "Southern Magnolia plants need full sun for at least 6 hours a day in order to thrive and produce their showy blossoms. If insufficient sun exposure is given to the plant, its growth pattern will be stunted and its leaves will become pale and yellowed. "
+        },
+        {
+          "id": 5697,
+          "type": "pruning",
+          "description": "Southern Magnolia should be pruned in late winter, preferably before new growth starts. This helps minimize any stress to the tree. Pruning should be focused on removing dead, damaged, or diseased branches as needed. Care should be taken to not over-prune the tree, as this can lead to decline and health issues. When removing large branches, it is best to make the cuts further out on the branch, leaving a stub of at least 2 to 3 inches. This helps stimulate new growth. It is also important to seal any large cuts to prevent fungal diseases."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

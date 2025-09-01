@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1833,
+      "species_id": 342,
+      "common_name": "Little Gem Magnolia",
+      "scientific_name": [
+        "Magnolia grandiflora 'Little Gem'"
+      ],
+      "section": [
+        {
+          "id": 5704,
+          "type": "watering",
+          "description": "Little Gem Magnolia requires moderate watering. During the summer months, water the bush at least once a week if there is no rain. During the winter months, water every 14 days. Monitor the soil to make sure the soil is not too dry. If it is, increase the frequency of watering. In order to ensure proper hydration, always check the soil before watering the plant. Additionally, water the plant slowly to ensure proper penetration into the soil."
+        },
+        {
+          "id": 5705,
+          "type": "sunlight",
+          "description": "Little Gem Magnolia should be grown in full sun locations (at least 6 hours of direct sunlight per day) during the summer and situated in part shade during the winter months to protect them from cold winds or frost damage. Plants can tolerate some afternoon shade in hotter climates, but too much shade can reduce flowering. With adequate sun, plants will develop an attractive rounded form with glossy green foliage. "
+        },
+        {
+          "id": 5706,
+          "type": "pruning",
+          "description": "Little Gem Magnolia should be pruned in the late spring or early summer, before the plant begins growing new leaves. Pruning should be done with care, as too much or harsh pruning can damage the plant. It is best to remove dead, diseased, and overcrowded branches. Pruning should focus on cutting out any branches that are growing in an awkward or unattractive direction. Look for branches that are crossing or rubbing against each other and remove one of them. Aim to create an open and airy shape for the tree by removing any inward or downward growing branches. To maintain the size and shape of the tree, selectively prune Little Gem Magnolias no more than 1-third of the plant’s top growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

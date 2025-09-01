@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1816,
+      "species_id": 324,
+      "common_name": "Tuliptree",
+      "scientific_name": [
+        "Liriodendron tulipifera"
+      ],
+      "section": [
+        {
+          "id": 5653,
+          "type": "watering",
+          "description": "Tuliptrees should be watered thoroughly once per week. Water should reach the root system and be allowed to penetrate the soil several inches. In periods of extreme heat, this schedule may need to be adjusted to twice per week. Be sure to check the soil for moisture prior to watering as overwatering these plants can be an issue. During winter, monitoring the soil for moisture content should be done often and establish a regular watering schedule for when it begins to dry out. After each watering, inspect the soil for standing pools of water and make sure it is draining away properly."
+        },
+        {
+          "id": 5654,
+          "type": "sunlight",
+          "description": "Tuliptree (Liriodendron tulipifera) plants prefer full sun. They should receive at least 6 to 8 hours of direct sunlight per day for optimal growth and flowering. Diffused sunlight is beneficial for tuliptrees, especially during extremely hot or humid weather, but direct sunlight is ideal. During the winter months, when direct sunlight may be in short supply, diffused sunlight is still beneficial."
+        },
+        {
+          "id": 5655,
+          "type": "pruning",
+          "description": "Tuliptree (Liriodendron tulipifera) should be pruned in late winter or early spring before the new growth begins. Prune selectively to maintain the natural shape of the tree, reduce the size when needed and to thin out overcrowded branches. When pruning, make sure to cut a branch to where it meets another branch or the trunk of the tree. Avoid leaving stubs as this will damage the plant. Pruning should focus on removing dead, damaged or diseased branches as well as any crisscrossing and rubbing branches. Be careful not to over prune as this can leave the tree exposed to disease or weaken the structure of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

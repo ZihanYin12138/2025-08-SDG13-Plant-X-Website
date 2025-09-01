@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1815,
+      "species_id": 323,
+      "common_name": "Worplesdon Sweet Gum",
+      "scientific_name": [
+        "Liquidambar styraciflua 'Worplesdon'"
+      ],
+      "section": [
+        {
+          "id": 5650,
+          "type": "watering",
+          "description": "The Worplesdon Sweet Gum should be watered deeply but infrequently, as the long-taproot of the tree requires deep watering to reach its roots. When watering, fill the soil to a depth of 5-7 inches and let the water absorb fully. This should be done approximately every 2 weeks during the hotter months of the year while providing more frequent waterings during dryer spells. During the cooler months, water the Worplesdon Sweet Gum once every 2 to 4 weeks. It is important that the soil has an opportunity to become dry between waterings to avoid overwatering."
+        },
+        {
+          "id": 5651,
+          "type": "sunlight",
+          "description": "The Worplesdon Sweet Gum Plant enjoys full sun for at least 6 hours each day for optimal growth. Morning sun is generally best for this species, as the afternoon sun can be too intense and potentially cause leaf scorching. The plant should be watered regularly during times of drought or during particularly hot weather, but otherwise average humidity and rainfall should be sufficient."
+        },
+        {
+          "id": 5652,
+          "type": "pruning",
+          "description": "Worplesdon Sweet Gum should be pruned in late winter or early spring before new growth starts. To maintain a tree shape, prune the main branches, and any shoots that are growing out of place. Remove dead, diseased, or broken branches as needed. Also remove any low growing branches and crossing branches for a healthier shape. Prune up to 1-third of the canopy at any 1 time. Over pruning may cause weak branch structure and development."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

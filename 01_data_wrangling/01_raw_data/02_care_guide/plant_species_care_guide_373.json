@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 612,
+      "species_id": 373,
+      "common_name": "Macintosh Apple",
+      "scientific_name": [
+        "Malus 'Macintosh'"
+      ],
+      "section": [
+        {
+          "id": 1839,
+          "type": "watering",
+          "description": "Water your Macintosh Apple plant regularly, approximately once or twice a week. Water deeply, allowing the soil to become slightly moist but not soggy. During the summer months, the plant may require more frequent watering. When the weather is very warm, you may need to water every few days. During the colder months, water only when the soil becomes dry. Make sure there is no standing water around the plant and be sure to dispose of any excess water."
+        },
+        {
+          "id": 1840,
+          "type": "sunlight",
+          "description": "The Macintosh Apple plant species requires at least 6-8 hours of full, direct sunlight a day in order to thrive. This should be consistently provided throughout the growing season, usually between early morning and mid to late afternoon, though it can vary depending on the season and the specific plant's location. During the hottest times of the season, especially when temperatures get above 80 degrees Fahrenheit, it is best to provide some shade for the plant."
+        },
+        {
+          "id": 1841,
+          "type": "pruning",
+          "description": "Pruning is an important part of apple tree maintenance and care for the Macintosh Apple (Malus 'Macintosh'). Pruning should be done in late winter or early spring before growth begins, typically before the buds begin to swell. Generally, 1-third to 1-half of the previous season’s growth should be removed, while avoiding excessive pruning as it can reduce fruit size. In addition, the center of the tree should be opened up to allow sunlight to penetrate and reach the inner branches and leaves. This creates an open shape and allows the tree to be healthier and better able to bear fruit. Careful pruning will also create branches that are of a desirable angle for apple tree growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

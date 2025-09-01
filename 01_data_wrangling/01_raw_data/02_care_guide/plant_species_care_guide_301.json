@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1798,
+      "species_id": 301,
+      "common_name": "Sunburst Honeylocust",
+      "scientific_name": [
+        "Gleditsia triacanthos 'Suncole'"
+      ],
+      "section": [
+        {
+          "id": 5599,
+          "type": "watering",
+          "description": "Sunburst Honeylocusts do best when watered deeply and carefully. In the summer, water every 5-7 days, allowing the soil to dry to the touch between each watering. In the winter, water every 10-14 days, allowing the soil to dry out completely between each watering. Depending on the soil and other environmental factors, it may be necessary to water more frequently than these times. \n\nWhen you water your Sunburst Honeylocust, it's important to be consistent and keep the soil evenly moist. Always check the soil before watering and water only when the top 1-2 inches of soil is dry. When it's time to water, use a soft nozzle attachment on the hose and slowly and deeply water the base and roots of the tree for 15-20 minutes, until the soil is moist several inches below the surface. After, add mulch to help the roots stay moist and nourished."
+        },
+        {
+          "id": 5600,
+          "type": "sunlight",
+          "description": "Sunburst Honeylocust plants require full sun exposure for optimal growth and health. This species of tree should receive around 6-8 hours of direct sunlight per day. Planting in an area with filtered or indirect sunlight will not provide the tree with the necessary amount of direct light that it needs to properly flourish. For optimal growth, it is best to plant the Sunburst Honeylocust in a sunny location that receives at least 6-8 hours of direct sunlight per day."
+        },
+        {
+          "id": 5601,
+          "type": "pruning",
+          "description": "Sunburst Honeylocust trees generally require minimal pruning, with occasional maintenance or corrective pruning. Prune in late winter or early spring before buds break open. Prune out crossing limbs and remove limbs that rub against each another to reduce the chance of disease or insect damage. When removing larger branches, prune close to the area where the branch meets the main trunk to minimize damage to the tree. If the tree is becoming too large for the area, prune selectively to reduce the overall size of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 568,
+      "species_id": 311,
+      "common_name": "Blue Star Juniper",
+      "scientific_name": [
+        "Juniperus squamata 'Blue Star (tree form)'"
+      ],
+      "section": [
+        {
+          "id": 1705,
+          "type": "watering",
+          "description": "The Blue Star Juniper should be watered once a week; however, during particularly hot and dry weather, the plant should be watered twice a week. It is important to water the juniper deeply so that the soil is saturated up to 2-3 inches below the surface. In addition to regular watering, it is important to make sure that the soil is not waterlogged during the summer months."
+        },
+        {
+          "id": 1707,
+          "type": "sunlight",
+          "description": "Generally, these plants prefer full sun, meaning 8-10 hours of direct sunlight. In northern climates, they can tolerate some dappled shade or partial shade for most of the day. In southern climates, it is best to avoid shade and provide the Blue Star Juniper with full sun all day. When providing sunlight to the plant, keep in mind that the juniper prefers hot, dry climates and temperatures. To prevent leaf burn, it is best to provide periods of indirect sunlight rather than direct sun throughout the hottest parts of the day."
+        },
+        {
+          "id": 1709,
+          "type": "pruning",
+          "description": "The Blue Star Juniper (Juniperus squamata 'Blue Star (tree form)') should be lightly pruned in late spring or early summer. In light of its quite dense canopy, you may want to thin out a little bit of that canopy each year- but no more than 15% of the foliage. Furthermore, allow the tree to grow rather freely and without high maintenance pruning. The Blue Star Juniper (Juniperus squamata 'Blue Star (tree form)') should only be pruned to thin out the canopy and to remove any deadwood."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

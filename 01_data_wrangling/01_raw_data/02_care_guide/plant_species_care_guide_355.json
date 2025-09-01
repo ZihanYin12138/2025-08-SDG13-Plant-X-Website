@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 139,
+      "species_id": 355,
+      "common_name": "Candied Apple Flowering Crab",
+      "scientific_name": [
+        "Malus 'Candied Apple'"
+      ],
+      "section": [
+        {
+          "id": 1049,
+          "type": "watering",
+          "description": "The Candied Apple Flowering Crab should be watered once a week, using approximately 1 gallon of water for every square foot of soil. Make sure to not water too frequently or too slightly as this can be harmful to the plant. However, during periods of hot weather, extra water may be needed and during cold temperatures, the amount of water will need to be reduced accordingly. Also, it is important to check the soil before watering to ensure that it is not too wet or dry. Finally, water the plant at the root area and avoid wetting the leaves."
+        },
+        {
+          "id": 1050,
+          "type": "sunlight",
+          "description": "The Candied Apple Flowering Crab requires full sun for 6 to 8 hours per day to thrive and produce a heavy flower set. Sunlight is especially important during spring and summer. During the winter months, however, not as much sunlight is needed and plants can survive in partial shade. The flower buds require consistent and adequate sunlight to open fully. Consistent watering and regular pruning will also help maintain a colorful flower set."
+        },
+        {
+          "id": 1051,
+          "type": "pruning",
+          "description": "The optimal time for pruning Candied Apple Flowering Crab trees (Malus 'Candied Apple') is in late winter or early spring, just before new growth begins. Pruning should be minor, with no more than 1-third of excessive growth removed. This species of tree does not require extensive pruning—simply light leaf and branch trimming to maintain its shape. Pruning should be limited to removing dead or diseased wood, thinning out congested areas, and shaping the canopy to direct vigorous growth away from structures or buildings. Excessive pruning can result in poor flowering structure and diminished fruit production."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

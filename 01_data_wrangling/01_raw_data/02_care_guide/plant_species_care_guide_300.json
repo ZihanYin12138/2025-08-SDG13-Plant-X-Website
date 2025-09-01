@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1797,
+      "species_id": 300,
+      "common_name": "Saratoga Ginkgo",
+      "scientific_name": [
+        "Ginkgo biloba 'Saratoga'"
+      ],
+      "section": [
+        {
+          "id": 5596,
+          "type": "watering",
+          "description": "Generally, Saratoga Ginkgo (Ginkgo biloba 'Saratoga') needs to be watered twice every week. Water thoroughly and allow the soil to dry out between waterings. Keep an eye on the soil and if it feels dry to the touch 2 inches below the surface, it's time to water. Ginkgos have moderate water requirements and prefer not to have their feet in soggy soil.  Apply 1-2 gallons (4-8 L) of water per tree, twice a week. During winter, reduce watering frequency, as ginkgos don’t need much water when temperatures are low."
+        },
+        {
+          "id": 5597,
+          "type": "sunlight",
+          "description": "Saratoga Ginkgo (Ginkgo biloba 'Saratoga') prefers full sun for the optimum amount of growth. The tree should receive at least 6-8 hours of direct sunlight each day. Early morning or late afternoon sun is the best in terms of intensity. Avoid midday direct sun during the hottest parts of the year for this species."
+        },
+        {
+          "id": 5598,
+          "type": "pruning",
+          "description": "The best time for pruning Saratoga Ginkgo is during the late winter or very early in the spring before new growth begins. As with any pruning, start by carefully removing any dead, diseased, or broken branches and cutting these back to a healthy part of the tree or even down to the ground. It is also important to remove any branches that are pointing out from the tree, crossing each other, or growing too close to other plants. It's important to keep in mind that Saratoga Ginkgo can grow quite fast, so you may need to prune more than once a year to keep it shaped correctly. This is especially important if you’re using it as a focal point in your garden. Try to trim gently at first, then prune more heavily if needed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

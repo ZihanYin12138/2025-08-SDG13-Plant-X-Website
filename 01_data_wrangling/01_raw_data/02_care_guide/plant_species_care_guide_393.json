@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1853,
+      "species_id": 393,
+      "common_name": "Persian Parrotia",
+      "scientific_name": [
+        "Parrotia persica"
+      ],
+      "section": [
+        {
+          "id": 5764,
+          "type": "watering",
+          "description": "Persian Parrotia (Parrotia persica) prefer an evenly moist soil, so regular watering is necessary. During the summer months, it should be watered once a week and during the winter months, it should be watered every other week. The soil should be allowed to dry out slightly between waterings, so it does not become soggy. During very dry summers, it may need to be watered more frequently. Keep an eye on the leaves, and if they start to look wilted, it is probably time to water."
+        },
+        {
+          "id": 5765,
+          "type": "sunlight",
+          "description": "The Persian Parrotia prefers or tolerates full sun in the morning, with partial shade in the afternoon. Although full sun exposure all day may be beneficial for flowering, it may cause leaf burn or scorching in some individuals. Plants grown in partial shade can be as vigorous as those in full sun, but may not flower as well. Provide the plant with 6 to 8 hours of direct sunlight each day for best results."
+        },
+        {
+          "id": 5766,
+          "type": "pruning",
+          "description": "Persian Parrotia (Parrotia persica) is a deciduous ornamental tree that is prized for its attractive bark and bright, yellow autumn color. Pruning should be done during the fall and winter months, when the tree is dormant. Pruning should be limited to only light shaping or removal of dead, damaged, diseased, or crowded branches. Heavy pruning should be avoided as this can prevent the formation of the beautiful peeling bark. Additionally, pruning late in the season may inhibit flowering and can damage the buds that will open next year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

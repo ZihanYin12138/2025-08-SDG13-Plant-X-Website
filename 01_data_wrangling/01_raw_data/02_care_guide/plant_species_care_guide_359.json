@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 601,
+      "species_id": 359,
+      "common_name": "Dolgo Apple",
+      "scientific_name": [
+        "Malus 'Dolgo'"
+      ],
+      "section": [
+        {
+          "id": 1804,
+          "type": "watering",
+          "description": "Dolgo Apple plants require water regularly to maintain their health. Depending on the time of year and soil type, you should water your Dolgo Apple plant about 1-2 inches per week. If you see the leaves wilting then you should water more often. In the summer months, water may be needed more frequently due to increased heat and dryness. During the winter, you will want to reduce the frequency of watering, as colder temperatures reduce the needs of the plant."
+        },
+        {
+          "id": 1805,
+          "type": "sunlight",
+          "description": "Dolgo Apples require a minimum of 6 to 8 hours of direct sunlight each day. This should be provided evenly throughout the day and should be in direct sunlight, not just diffused light from shade. Direct sun in the morning is ideal, but it will still thrive if receives the full 8 hours in the afternoon or evening. Plants grown in partial shade will produce smaller, less flavorful fruit. Other than the daily 8 hours of direct sunlight, the Dolgo Apple will also benefit from full sun growth during the blooming period to produce the healthiest and most vibrant flowers."
+        },
+        {
+          "id": 1806,
+          "type": "pruning",
+          "description": "Dolgo Apple should be pruned once a year during late winter or early spring before leaf buds begin to swell. During this time, any dead or diseased branches should be removed. Pruning should be done to thin out new canes, direct growth, and create a strong, healthy framework. Additionally, light pruning of branches and water shoots may be done throughout the year, as needed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

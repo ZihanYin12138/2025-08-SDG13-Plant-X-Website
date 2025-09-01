@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1814,
+      "species_id": 322,
+      "common_name": "Slender Silhouette Sweet Gum",
+      "scientific_name": [
+        "Liquidambar styraciflua 'Slender Silhouette'"
+      ],
+      "section": [
+        {
+          "id": 5647,
+          "type": "watering",
+          "description": "Slender Silhouette Sweet Gum should be watered on a regular basis in order to ensure the health of the plant. During the first growing season, the plant should be watered on a regular basis. During the summer months, the plant should be watered 2–3 times a week and the soil should be kept moist. During the fall and winter months, when the plant is not actively growing, the waterings should be less frequent, about once a week or every 10–14 days, depending on weather conditions and the soil's moisture levels. Make sure not to overwater as root rot can occur quickly when the soil is too wet."
+        },
+        {
+          "id": 5648,
+          "type": "sunlight",
+          "description": "Slender Silhouette Sweet Gum prefer full sun exposure and should receive at least 6 hours of direct sunlight each day to maintain its optimal growth and health. The tree should be positioned in a sunny spot, preferably on the south, southwest or western side of a building. Keeping the tree in direct sunlight for more than 6 hours may cause it to become stressed. If the tree is placed in a shady area, it will not perform to its best potential."
+        },
+        {
+          "id": 5649,
+          "type": "pruning",
+          "description": "Slender Silhouette Sweet Gum (Liquidambar styraciflua 'Slender Silhouette') should be pruned during the dormant season, from late fall to late winter, when the tree is not actively growing. Pruning should be done judiciously, as the tree does not require heavy pruning and over pruning can damage the tree's natural shape. Before pruning, remove any dead or damaged branches, suckers or water shoots. Dead or diseased branches should always be removed. Large branches should be removed in several stages to avoid tearing or bark damage. If the tree is showing signs of stress, only light pruning should be done."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

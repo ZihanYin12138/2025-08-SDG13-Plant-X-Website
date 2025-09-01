@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 214,
+      "species_id": 316,
+      "common_name": "Vossii Laburnum",
+      "scientific_name": [
+        "Laburnum x watereri 'Vossii'"
+      ],
+      "section": [
+        {
+          "id": 770,
+          "type": "watering",
+          "description": "It needs to be watered at least once a week in the warmer months. During the cooler months, the watering frequency can be reduced to every 2 to 3 weeks. Be sure to check the soil before watering as the plant may not need it if the soil is still damp. During the flowering period, it will need to be watered more often to ensure the blooms remain lush and plentiful."
+        },
+        {
+          "id": 771,
+          "type": "sunlight",
+          "description": "Vossii Laburnum is a shrub that prefers full sun to partial shade. It prefers at least 4 to 6 hours of direct sun exposure each day and will produce the most spectacular blooms when planted in an area that receives a minimum of 6 hours of direct sunlight each day. Additionally, the Vossii Laburnum will require some morning sunlight for best blooming and may need some afternoon shading if planted in an area that receives particularly intense and prolonged sun exposure."
+        },
+        {
+          "id": 772,
+          "type": "pruning",
+          "description": "Vossii Laburnum should be pruned once or twice a year to maintain a well-shaped, attractive form. Prune back the new shoots of laburnum in the spring, as soon as they have grown to the desired size. These plants tend to flower later than other types of laburnum and heavy pruning can reduce the flowering display. If necessary, remove dead, diseased and dying material during the dormant season which is typically November - March. Aim to keep the plant to its desired shape with light pruning in order to allow it to flower and fruit."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

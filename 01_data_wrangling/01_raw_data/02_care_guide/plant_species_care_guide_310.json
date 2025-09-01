@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1805,
+      "species_id": 310,
+      "common_name": "Rocky Mountain Juniper",
+      "scientific_name": [
+        "Juniperus scopulorum"
+      ],
+      "section": [
+        {
+          "id": 5620,
+          "type": "watering",
+          "description": "Rocky Mountain Juniper should be watered once a week in the spring and summer, and once every 2 weeks in the fall and winter. It should be watered deeply each time to encourage the plant to develop a strong, well-anchored root system. Avoid overwatering, as this can cause root rot. During the growing season (spring and summer), water your Rocky Mountain juniper deeply, but allow the top inch or 2 of the soil to dry out between waterings. You can adjust the frequency depending on the weather or the soil type. Junipers prefer to stay on the dry side!"
+        },
+        {
+          "id": 5621,
+          "type": "sunlight",
+          "description": "Rocky Mountain Juniper enjoys full sun, meaning at least 8 hours of direct sunlight per day. In the summer months, the tree receives more direct sunlight due to the elevated angle of the sun. Additionally, its location on a mountainside also helps to protect the plant species from extreme temperatures. During the cooler months of fall and winter, the angle of the sun in relation to the tree's location alters in such a way that it receives indirect sunlight. As long as Rocky Mountain Juniper continues to receive the 8 hours of direct sunlight required for optimal growth, it will flourish."
+        },
+        {
+          "id": 5622,
+          "type": "pruning",
+          "description": "Rocky Mountain Juniper should be pruned in the late winter or early spring before the new growth begins. To ensure healthy growth and prevent disease, only prune away dead, dying, or diseased branches, and no more than 10-20% of the tree's foliage. Because junipers are a slow-growing species, it is important to not over prune them. To maintain the desired shape of the tree, selectively prune broken or crossing branches and excess canopy. Make sure to use a sharp, sterilized pair of pruning shears or loppers when trimming the juniper to ensure clean healthy cuts."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

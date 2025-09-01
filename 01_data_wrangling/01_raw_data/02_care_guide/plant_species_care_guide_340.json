@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1831,
+      "species_id": 340,
+      "common_name": "Bracken's Brown Beauty Magnolia",
+      "scientific_name": [
+        "Magnolia grandiflora 'Bracken's Brown Beauty'"
+      ],
+      "section": [
+        {
+          "id": 5698,
+          "type": "watering",
+          "description": "For optimum health and growth, Bracken's Brown Beauty Magnolia should be watered about once every 7-10 days during the spring and summer months, while waterings can be cut back to once every 10-14 days during fall and winter. When watering, it is important to thoroughly soak the soil and check for proper drainage to make sure the plant is not standing in water. During periods of extreme heat or drought, it may require more frequent watering. In general, take care not to over water, as this can cause fungal problems as well as inadequate aeration in the soil."
+        },
+        {
+          "id": 5699,
+          "type": "sunlight",
+          "description": "Bracken's Brown Beauty Magnolia prefers full sun to partial shade, with at least 4 hours of direct, unfiltered sunlight each day. During the growing season, from spring to fall, the plant should receive full morning sun and filtered afternoon sun. In areas of intense heat or where the summer sun is very strong, some afternoon shade may be beneficial. In the winter, a location that receives morning sun will help to protect the plant from freezing temperatures."
+        },
+        {
+          "id": 5700,
+          "type": "pruning",
+          "description": "The best time to prune Bracken's Brown Beauty Magnolia is in early spring. Select any dead, diseased, or crossed branches from the tree, trim them at a bud, and remove them. You can then thin out any branches that appear to be growing too densely or rubbing together. To maintain size and shape, prune out branches that have grown taller than the desired height or width and shrub shape. Finally, it's important to prune away any sucker growth that is appearing from the base or root of the tree. Pruning should only be done to maintain overall shape and to remove diseased or damaged branches - not to achieve a particular size or look."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

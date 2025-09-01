@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 599,
+      "species_id": 357,
+      "common_name": "Cortland Apple",
+      "scientific_name": [
+        "Malus 'Cortland'"
+      ],
+      "section": [
+        {
+          "id": 1798,
+          "type": "watering",
+          "description": "Cortland apple trees should be watered once or twice weekly throughout the growing season. During hot, dry weather, they should be watered more often to ensure the soil doesn't dry out completely. Aim to consistently water the tree until about 6 inches of soil is moist. About 3 to 4 gallons of water should be applied per tree each time it is watered. It is important to avoid saturating the ground as this can lead to root disease. Mulching around the tree is a good way to help keep the soil moisture consistent."
+        },
+        {
+          "id": 1799,
+          "type": "sunlight",
+          "description": "Cortland Apple trees need 6-8 hours of direct sunlight a day to thrive. They should be planted in a sunny spot where they can receive sunlight throughout the day. To ensure that the trees receive enough sunlight, make sure that any structures, trees, shrubs, and other plants do not shade the area where the Cortland Apple tree will be planted. The trees can also benefit from reflected light from surrounding structures."
+        },
+        {
+          "id": 1800,
+          "type": "pruning",
+          "description": "Cortland Apple should be pruned annually in late winter or early spring just before new growth begins. Pruning should be relatively light, removing no more than 1/3 of the tree’s total growth for the year. Remove any dead, diseased, or crossing branches, as well as any shoots that are growing close together or in an inappropriate direction. Thin out the center of the tree to improve light and air circulation. This will help keep the tree healthy and reduce insect and disease problems."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

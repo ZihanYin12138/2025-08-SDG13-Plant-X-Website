@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 947,
+      "species_id": 376,
+      "common_name": "Pink Lady Apple",
+      "scientific_name": [
+        "Malus 'Pink Lady'"
+      ],
+      "section": [
+        {
+          "id": 2842,
+          "type": "watering",
+          "description": "The best way to water a Pink Lady Apple plant is to keep the soil consistently moist. However, avoid over-watering as this can lead to root rot and other issues. Water the plant when the top 2-3 inches of soil are dry and aim for applying approximately 1 inch of water per week. If you are in an area with very hot temperatures, you may need to water the plant more often (2-3 times a week), as water will evaporate faster in these conditions. Additionally, adding a layer of mulch can help retain moisture in the soil."
+        },
+        {
+          "id": 2843,
+          "type": "sunlight",
+          "description": "Sunlight Requirements: Pink Lady Apple plants need at least 6 to 8 hours of direct sunlight per day to grow best. If possible, they should be planted in an area that receives full sun all day long. \n\nIt is important to note that Plant Lady Apples may burn and scorch easily if exposed to too much direct sunlight for too long. If possible, it is recommended that they be sheltered from the afternoon sun during the hottest parts of the day.  Afternoon shade will also help to reduce the occurrence of disease and pest problems."
+        },
+        {
+          "id": 2844,
+          "type": "pruning",
+          "description": "Pruning is an essential part of maintaining a healthy Pink Lady Apple tree. Pruning should be done in the winter, when the tree is in its dormant state. This should be done between late December to February. When pruning, you should avoid taking off more than 20% of the live branches or foliage. Regular thinning should focus on dead, diseased, and crossing branches. This will result in better light penetration and air movement within the canopy and will help produce healthier fruit. Additionally, all dead and broken branches should be removed regardless of species. Generally, you should aim to prune your Pink Lady Apple every 3-5 years, but more frequent pruning is recommended if it has a lot of dead or crossing branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

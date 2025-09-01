@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 864,
+      "species_id": 364,
+      "common_name": "Golden Russet Apple",
+      "scientific_name": [
+        "Malus 'Golden Russet'"
+      ],
+      "section": [
+        {
+          "id": 2594,
+          "type": "watering",
+          "description": "Golden Russet Apples require consistent moisture to produce healthy fruits. It is best to water them on a weekly basis. To ensure the plants are adequately hydrated, give them about 1 to 1.5 inches of water each week. This should be done early in the morning, so as to ensure that any excess water can evaporate during the day. Drip irrigation or soaker hoses are the best way to water these trees. During the hottest months of summer, plants may need 2 waterings per week or more."
+        },
+        {
+          "id": 2595,
+          "type": "sunlight",
+          "description": "Golden Russet Apples require between 6 to 8 hours of direct sunlight each day in order to grow and produce optimal yields. This type of apple tree thrives in full sun, meaning the more hours of direct sunlight it is exposed to, the more fruit it will yield. While it can tolerate some shade, it will still need several hours of direct sunlight to thrive and produce the best fruit. Any area that offers 6 – 8 hours of direct sunlight per day should be ideal for this particular plant species."
+        },
+        {
+          "id": 2596,
+          "type": "pruning",
+          "description": "For the Golden Russet Apple, pruning should be done in late winter, when the tree is dormant. Prune judiciously—try to remove only unnecessary branches. Aim to take out any branches that are overly close together, crossed, dead, diseased, or identical in size. Pruning should not exceed 1/3 of the total canopy. Be sure to make cuts close to the trunk, but still slightly outside the branch collar to avoid leaving a large area of exposed tissue. Lastly, if you are cutting back a large branch, make sure to cut it back in stages to prevent shock."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
