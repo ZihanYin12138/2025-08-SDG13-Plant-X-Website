@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1882,
+      "species_id": 430,
+      "common_name": "koa",
+      "scientific_name": [
+        "Acacia koa"
+      ],
+      "section": [
+        {
+          "id": 5851,
+          "type": "watering",
+          "description": "Koa (Acacia koa) needs to be watered about once a week, or more frequently if the soil is drying out quickly. It is best to water deeply, to a depth of 6 inches or more, to encourage deep roots. Allow the soil to dry somewhat between waterings, but not completely. Koa should not be allowed to sit in saturated or very wet soil. During the summer days when temperatures reach higher levels, Koa may need to be watered more frequently. During the winter months, when temperature and light levels are lower, Koa needs less frequent watering and the soil should be allowed to dry out slightly between waterings."
+        },
+        {
+          "id": 5852,
+          "type": "sunlight",
+          "description": "Koa (Acacia koa) plants thrive in full sun when grown outdoors. However, young plants should receive only partial shade for the first few years to help them adjust to the environment. In general, they should receive between 6 and 8 hours of direct sunlight every day. "
+        },
+        {
+          "id": 5853,
+          "type": "pruning",
+          "description": "Koa trees (Acacia koa) should be pruned in late fall or early winter. When pruning koa, it is important to consider the overall shape of the tree and remove any dead, damaged, or diseased branches. Also, select branches to prune for size and to shape the tree, and try not to prune more than 1-third of the total growth in 1 season as this could cause shock to the tree. If you are trying to thin out the canopy of the tree, remember to prune multiple branches in different areas. This allows sunlight and air to move into the foliage and helps reduce the surface area on the koa."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

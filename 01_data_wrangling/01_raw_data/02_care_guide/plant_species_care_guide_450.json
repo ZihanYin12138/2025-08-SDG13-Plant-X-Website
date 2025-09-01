@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1901,
+      "species_id": 450,
+      "common_name": "hornbeam maple",
+      "scientific_name": [
+        "Acer carpinifolium"
+      ],
+      "section": [
+        {
+          "id": 5908,
+          "type": "watering",
+          "description": "Hornbeam maple plants should be watered regularly and deeply if grown in the ground. During the summer, water the plant every couple of days, making sure to drench the soil completely. During the winter, water should be reduced to once every 10 to 14 days. If grown in a container, water the hornbeam maple when the top inch of soil is dry. Container-grown plants should be watered every 2 to 3 days during the summer and once every 10 to 14 days during the winter."
+        },
+        {
+          "id": 5909,
+          "type": "sunlight",
+          "description": "Hornbeam Maple trees (Acer carpinifolium) grow best in full sun, meaning at least 6 hours of direct sunlight each day. However, this species can tolerate several hours of partial shade, such as from late afternoon sun or from dappled light through surrounding trees. It is important to ensure that the tree receives a full season of direct sunlight for maximum growth. Water requirements for Hornbeams range from medium-to-high, depending upon the amount of sunlight exposure. Provide extra irrigation during any prolonged dry periods to ensure that the foliage remains healthy and lush."
+        },
+        {
+          "id": 5910,
+          "type": "pruning",
+          "description": "The hornbeam maple (Acer carpinifolium) is a medium to large-size tree that should be pruned in late winter or early spring, just before the start of any new growth. This species is tolerant of both light and hard pruning, so you can selectively remove branches or shape the tree as needed. However, avoid removing too much in any 1 season; generally, no more than 1/3 of the total tree should be pruned in any 1 year. When pruning, look for diseased, broken or crossed branches and remove them to promote healthy new growth. Also, consider the shape and balance of the tree – look for any branches that lay against the trunk, and prune those back. Finally, pay attention to the overall size and shape of the tree and make sure there is adequate space for new, healthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

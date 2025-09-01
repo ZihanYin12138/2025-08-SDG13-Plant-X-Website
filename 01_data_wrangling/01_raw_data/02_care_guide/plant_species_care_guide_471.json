@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 571,
+      "species_id": 471,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea 'Anblo' ANTHEA"
+      ],
+      "section": [
+        {
+          "id": 1712,
+          "type": "watering",
+          "description": "Yarrow (Achillea 'Anblo' ANTHEA) should be watered once per week, giving enough water to moisten the soil but being careful not to overwater. It is best to water in the morning to give the plant time to dry out through the day and to avoid any fungal issues. If the plant is in a pot, you may need to water more often and check soil moisture levels regularly to make sure the plant does not dry out. Additionally, it is important to water at the base of the plant to avoid wetting the leaves and to allow the water to penetrate the soil."
+        },
+        {
+          "id": 1715,
+          "type": "sunlight",
+          "description": "Yarrow (Achillea 'Anblo' ANTHEA) requires 6-8 hours of direct sunlight daily. It can tolerate partial shade, but its growth and blooms will be best if it can receive 8 hours of direct light. Plant yarrow in a location that experiences direct sun all day or part of the day and some filtered shade in the afternoon."
+        },
+        {
+          "id": 1718,
+          "type": "pruning",
+          "description": "Yarrow (Achillea 'Anblo'ANTHEA) should be pruned in the early spring, before the new growth appears. Pruning can be done to remove any dead, weak, or unproductive stems. The stems can be cut back to the ground or to the desired length. To promote an abundance of blooms, remove approximately 1/3 of the stems down to the base of the plant. When pruning, make sure to cut the stems back in a slant at a point above an outward-facing bud. Yarrow is a resilient plant, so even if the wrong stems are cut or the plant is cut too heavily, it should still recover quickly and bloom in the summer. If pruning is done correctly and at the right times, these flowers should be in full bloom until late summer and throughout fall."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

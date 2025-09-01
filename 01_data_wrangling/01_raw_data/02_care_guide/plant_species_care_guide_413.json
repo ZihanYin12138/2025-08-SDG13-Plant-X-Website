@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1001,
+      "species_id": 413,
+      "common_name": "musk mallow",
+      "scientific_name": [
+        "Abelmoschus moschatus"
+      ],
+      "section": [
+        {
+          "id": 2998,
+          "type": "watering",
+          "description": "Musk mallow plants should be watered once a week, providing about 1 inch of water over the entire soil surface. During hot, dry weather, it may be necessary to water up to twice a week. During the winter months, reduce watering to once every 2 weeks or less. Blooming can be delayed if the plant is excessively watered. Monitor the soil for moisture to ensure your musk mallow is getting the proper amount of water."
+        },
+        {
+          "id": 3006,
+          "type": "sunlight",
+          "description": "Musk mallow prefers full to partial sunlight. Since this plant is native to tropical climates, it’s best to provide at least 6 to 8 hours of sunlight throughout the day. If possible, an area where the plant will receive direct sunlight in the morning and some afternoon shade would be ideal. Constant direct sunlight throughout a whole day could be too much for this species so providing some shade from the harsh rays is beneficial."
+        },
+        {
+          "id": 3013,
+          "type": "pruning",
+          "description": "Pruning should be done when the plant is actively growing in the spring and summer, which is usually around early May to late August or beginning of September. First, dead, diseased, and damaged stems should be removed as a first step of cleaning. Light pruning should be done to control the size and shape of the plant. Pinching the tips of the shoots will help to promote branching. Judicious cutting back of the stems to a few buds on each stem can also help increase branching and promote more flowers. Do not prune too severely as this will stunt growth. Pruning should be done on an as-needed basis, and not excessively."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1866,
+      "species_id": 408,
+      "common_name": "abelia",
+      "scientific_name": [
+        "Abelia 'Rose Creek'"
+      ],
+      "section": [
+        {
+          "id": 5803,
+          "type": "watering",
+          "description": "For Abelia 'Rose Creek', water the plant when the top 1-2 inches of soil in the container feels dry. Water deeply, and then allow the soil to drain completely before refilling the container. Water your Abelia 'Rose Creek' every 1-2 weeks in the summer months and give it a deep drink of approximately 1 inch of water. In the winter, it's best to water a bit more sparingly, allowing the soil to become slightly dry before watering again."
+        },
+        {
+          "id": 5804,
+          "type": "sunlight",
+          "description": "Abelia 'Rose Creek' is a shrub that thrives best in full sun to part shade. This plant species prefers 6-8 hours of direct sunlight per day. If the plant does not receive enough direct sun, flowering may be reduced in a given year. It also helps the plant become more drought resistant, as it has had time to absorb the much needed sunlight."
+        },
+        {
+          "id": 5805,
+          "type": "pruning",
+          "description": "It is generally recommended that Abelia 'Rose Creek' be pruned in late winter or very early spring. Prune lightly and selectively to maintain an attractive shape. If needed, thin the shrub by cutting several of the main branches at the base. This is also a good time to remove any dead, diseased, or overgrown branches. Abelia ‘Rose Creek’ typically does not need to be heavily pruned, as it blooms on old wood from the previous year. Be sure to take only small amounts of growth each time and be mindful not to take too much at once and damage the shrub. Doing so may also inhibit flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1860,
+      "species_id": 402,
+      "common_name": "glossy abelia",
+      "scientific_name": [
+        "Abelia grandiflora 'Kaleidoscope'"
+      ],
+      "section": [
+        {
+          "id": 5785,
+          "type": "watering",
+          "description": "Water glossy abelia regularly once a week in the morning to ensure the soil remains moist, but avoid overwatering, which can cause root rot. When watering, give the plant enough water to moisten the soil about 8 inches deep. Check soil moisture more frequently during hot, dry weather to make sure the soil does not dry out completely. Water the glossy abelia until it begins to trickle slowly from the bottom of the pot. If the glossy abelia is planted in the ground, use a soaker hose, trickle irrigation, or other water-saving methods to ensure adequate watering."
+        },
+        {
+          "id": 5786,
+          "type": "sunlight",
+          "description": "Glossy abelias (Abelia grandiflora 'Kaleidoscope') thrive in partial to full sun and can adapt to a variety of light conditions. During the summer months, glossy abelia needs at least 6 hours of direct sunlight for optimal growth and performance. As the days become shorter and the sunlight less intense in late fall and winter, glossy abelia can withstand partial shade and still grow beautifully."
+        },
+        {
+          "id": 5787,
+          "type": "pruning",
+          "description": "Glossy abelia should be pruned annually in early spring when new growth begins. Pruning should include removing any dead or damaged branches, then cutting back the overall shape of the plant by up to 30%. Prune out shoots that are overgrowing and any branches that are growing too close to each other and interfering with air flow. This will encourage dense, healthy foliage. After pruning, fertilize with a balanced plant food to promote further healthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

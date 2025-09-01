@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1898,
+      "species_id": 447,
+      "common_name": "hedge maple",
+      "scientific_name": [
+        "Acer campestre 'Postelense'"
+      ],
+      "section": [
+        {
+          "id": 5899,
+          "type": "watering",
+          "description": "Hedge maple (Acer campestre 'Postelense'), a deciduous tree, requires regular, moderate watering throughout the growing season to ensure good health and growth. During the summer months, water the tree deeply and thoroughly every week, for a total of at least 1” of water per week. Allow the soil to dry out to a depth of 2” before watering again. As autumn approaches and temperatures drop, reduce watering. Water around the roots once or twice a month during cooler months, depending on the weather."
+        },
+        {
+          "id": 5900,
+          "type": "sunlight",
+          "description": "Hedge Maple (Acer campestre 'Postelense') requires moderate amounts of sunlight. It should be planted in a spot that is exposed to either full Sun or partial shade. In general, it is best for Hedge Maple to receive at least 4 – 6 hours of direct sunlight per day, with ideally more in the morning, and slightly less in the afternoon. In most areas, particularly those with hot summers, partial shade is the ideal location for Hedge Maple. In areas with particularly hot summers, the shrub may appreciate some relief from the sun in the afternoon hours, especially if the location is particularly exposed."
+        },
+        {
+          "id": 5901,
+          "type": "pruning",
+          "description": "For hedge maple (Acer campestre 'Postelense'), pruning should be done twice per year: in early spring and late fall. In early spring, the tree should be pruned to keep its shape and encourage new growth. After the tree has started to leaf out, it is best to prune off any dead, disease or broken branches, as well as any branches that are crossing or growing too close together. In the late fall, prune off any dead, diseased or weak branches, as well as any branches that have grown too long or are growing unattractively. Prune the tree to its desired shape, making sure not to cut too much."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

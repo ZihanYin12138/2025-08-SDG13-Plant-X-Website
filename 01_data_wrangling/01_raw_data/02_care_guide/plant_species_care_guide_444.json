@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1895,
+      "species_id": 444,
+      "common_name": "trident maple",
+      "scientific_name": [
+        "Acer buergerianum"
+      ],
+      "section": [
+        {
+          "id": 5890,
+          "type": "watering",
+          "description": "When watering a trident maple (Acer buergerianum), it should receive roughly 1 inch of water per week, either through raining or through manual irrigation. During the spring and summer months, water the trident maple twice a week, allowing the soil to dry out between each watering. During the cooler months, reduce the watering frequency to once per week. The timing of the watering should depend on when the trident maple is actively growing and when temperatures are warmest. Make sure to avoid overwatering, as this can lead to root rot or other issues."
+        },
+        {
+          "id": 5891,
+          "type": "sunlight",
+          "description": "Trident maple (Acer buergerianum) typically prefers full to partial sunlight. For optimal growth, it should receive 4 to 6 hours of sunlight per day during the growing season. When grown outdoors, the plant should be placed in an area that receives morning sunlight for best results. When grown indoors, it should be cultivated in an area that receives generous, uninterrupted sunlight for at least 6 hours each day. To protect it from intense direct sunlight, place the plant in an east- or west-facing window."
+        },
+        {
+          "id": 5892,
+          "type": "pruning",
+          "description": "Trident maple (Acer buergerianum) should be pruned when the plant is dormant, usually during late winter or early spring. Depending on the desired look or shape of the tree, some pruning may also need to be done after the tree blooms. Heavy pruning should generally be avoided, as this can harm the tree and reduce its flowering potential. Light pruning such as deadheading flowers, removing crossed branches or weak shoots, or thinning out the tree canopy can safely be done on an annual basis or as needed. \n\nIn terms of how much to prune, trident maple should not and need not be pruned severely; removing 10-15% of the branches is usually sufficient to maintain the desired look and shape. It is important not to remove too much foliage or make cuts too close to the main trunk of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

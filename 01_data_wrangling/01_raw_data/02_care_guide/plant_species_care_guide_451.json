@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1902,
+      "species_id": 451,
+      "common_name": "ivy-leaved maple",
+      "scientific_name": [
+        "Acer cissifolium"
+      ],
+      "section": [
+        {
+          "id": 5911,
+          "type": "watering",
+          "description": "The ivy-leaved maple needs to be watered regularly to maintain healthy foliage and growth. Its soil should be kept evenly moist, but not soggy, at all times. Water the ivy-leaved maple every 7-10 days, or check the soil moisture every few days and water as needed if it starts to feel dry. During the warmer months, water may be needed more frequently. Make sure to water the ivy-leaved maple at the ground level, and avoid getting the leaves wet."
+        },
+        {
+          "id": 5912,
+          "type": "sunlight",
+          "description": "Ivy-leaved maple (Acer cissifolium) does best in partial shade or dappled sunlight, and can tolerate full sun if it is provided with sufficient moisture. It can also tolerate some light shade. The ideal amount of sunlight for an ivy-leaved maple is 4-5 hours of direct sun per day. Plants grown in partial shade will not reach their full potential size, but will grow much more slowly, and be prone to more fungal infections."
+        },
+        {
+          "id": 5913,
+          "type": "pruning",
+          "description": "Ivy-leaved maple (Acer cissifolium) should be pruned once per year in late spring or early summer. Prune each stem back to the previous year’s growth leaving 2 or 3 buds. Prune enough to keep the size and shape of the plant in check to avoid it becoming overly thick or overgrown. Additionally, remove any dead, diseased, or damaged growth as it occurs."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

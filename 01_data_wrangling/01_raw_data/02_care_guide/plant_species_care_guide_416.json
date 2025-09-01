@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1872,
+      "species_id": 416,
+      "common_name": "balsam fir",
+      "scientific_name": [
+        "Abies balsamea 'Nana'"
+      ],
+      "section": [
+        {
+          "id": 5821,
+          "type": "watering",
+          "description": "Balsam Fir (Abies balsamea 'Nana') should be watered once a week while actively growing. Water until the soil is moist and evenly saturated throughout. Make sure not to overwater and avoid allowing the plant to sit in water as this can lead to root rot. During the hotter months, they may need to be watered twice a week, or more if the soil dries out quickly. During cooler months, reduce watering to once a month or less."
+        },
+        {
+          "id": 5822,
+          "type": "sunlight",
+          "description": "Balsam fir (Abies balsamea 'Nana') requires full sun or partial shade. Partial shade is preferable in locations with hot summers. The plant should get 5 to 7 hours of full sun daily to thrive. To ensure that it gets enough light, it should be planted in an area with a southern or western aspect, or at the edge of a wooded area. This species can also tolerate full shade for short periods of time, but if kept in a fully shaded area over a long period of time, it may not thrive."
+        },
+        {
+          "id": 5823,
+          "type": "pruning",
+          "description": "Balsam fir (Abies balsamea 'Nana') should be pruned in the spring season. Pruning should be light in order to minimize stress to the plant. Remove only dead, broken or diseased branches. Try to maintain the natural, conical form, and make sure not to prune off the terminal buds at the apex of the plant. If specific shaping is desired, it can be done at this time, but the plant should not be sheared. Pruning should be done soon after the days become consistently warm and the dormant season's new growth begins."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

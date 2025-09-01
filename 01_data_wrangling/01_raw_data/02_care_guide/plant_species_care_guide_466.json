@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1915,
+      "species_id": 466,
+      "common_name": "silver maple",
+      "scientific_name": [
+        "Acer saccharinum 'Silver Queen'"
+      ],
+      "section": [
+        {
+          "id": 5950,
+          "type": "watering",
+          "description": "Silver maple (Acer saccharinum 'Silver Queen') is known for its fast-growing, hardy nature and can easily tolerate moderate to occasional drought. During establishment, this species should be watered a minimum of 2-3 times per week and allowed the soil to remain moist until established. Once established, this species should only need to be watered once a week, though during periods of particularly hot, dry weather or extreme heat waves it may require more frequent watering. It is best to water the tree deeply, and allow the soil to dry out between waterings for optimal health."
+        },
+        {
+          "id": 5951,
+          "type": "sunlight",
+          "description": "Silver Maple (Acer saccharinum 'Silver Queen') plants require full sunlight for optimal growth and health. This species grows best when exposed to 6–8 hours of sunlight every day. Placing Silver Maple plants in full sun on the south or east side of your home or garden is ideal. During the summer months, Silver Maple plants should receive the most sunlight possible, while in the winter months, the amount of sunlight should be reduced slightly, but still remain relatively consistent."
+        },
+        {
+          "id": 5952,
+          "type": "pruning",
+          "description": "Silver Maple (Acer saccharinum 'Silver Queen') should be pruned in late winter or early spring, as the new buds begin to swell. Pruning should not be done any later than early spring, as the tree will have started to grow and the pruning wounds may not heal properly. The amount of pruning will depend on the specific location and desired form of the tree. For most Silver Maple trees, it is best to remove dead, dying and diseased branches, crossing branches, and any that rub or otherwise interfere with the overall shape and structure of the tree. If the goal is to reduce the size of the tree, then more substantial pruning can be done. Always make sure to cut back to a healthy bud or branch and never leave large stubs. Also, make sure to thin out the canopy for better airflow and light penetration, but take care to not remove too many inner branches at once, as this can cause excessive stress on the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

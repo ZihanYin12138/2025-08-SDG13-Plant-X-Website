@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1905,
+      "species_id": 454,
+      "common_name": "Freeman maple",
+      "scientific_name": [
+        "Acer freemanii 'Scarsen' SCARLET SENTINEL"
+      ],
+      "section": [
+        {
+          "id": 5920,
+          "type": "watering",
+          "description": "Freeman maple (Acer freemanii 'Scarsen' SCARLET SENTINEL) should be watered about once a week during its active growing season, typically the spring and summer. When watering, give your tree a good, deep soaking - usually enough water to penetrate to the root zone of the tree, meaning it should be moistened 3-4 feet deep. During times of drought, water may need to be given more frequently. In the winter, when the tree is dormant, only water when the soil is dry to the touch."
+        },
+        {
+          "id": 5921,
+          "type": "sunlight",
+          "description": "Freeman Maple (Acer freemanii 'Scarsen' SCARLET SENTINEL) plants require at least 4 to 6 hours of direct sunlight per day for optimal growth. They can survive in partial shade, but may not flower as abundantly with less sun. Providing extra sunlight during the season's longest days (June and July) can enhance flower production."
+        },
+        {
+          "id": 5922,
+          "type": "pruning",
+          "description": "Freeman maple (Acer freemanii 'Scarsen' SCARLET SENTINEL) typically does not require regular pruning. Any pruning should be done during the late winter season, when the tree is dormant. Pruning in the spring or summer should be avoided to minimize the stress on the tree. However, pruning done at the proper time can improve the overall shape of the tree and can help to promote healthy growth. Pruning should be done using sharp pruners and each cut should be made at the proper angle to ensure better healing. Any dead, diseased, or broken branches should be removed as quickly as possible to encourage further healthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

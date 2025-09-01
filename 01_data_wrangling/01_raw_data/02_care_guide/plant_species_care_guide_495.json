@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1938,
+      "species_id": 495,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea sibirica subsp. camschatica 'Love Parade'"
+      ],
+      "section": [
+        {
+          "id": 6019,
+          "type": "watering",
+          "description": "Yarrow (Achillea sibirica subsp. camschatica 'Love Parade') should be watered 1-2 times per week. The soil should be allowed to dry slightly between waterings, meaning that water should not be applied until the surface of the soil feels dry to the touch. If it is planted outdoors in the summer, it will most likely need more water in order to stay healthy, especially during the hottest parts of the day. If planted in a container, the container should be checked daily to make sure the soil does not become overly dry."
+        },
+        {
+          "id": 6020,
+          "type": "sunlight",
+          "description": "Yarrow (Achillea sibirica subsp. camschatica 'Love Parade') in full sun, or a minimum of 6 hours per day of direct sunlight to thrive and flower well. During the hottest months, it should be planted in a spot with some afternoon shade, so it doesn't get too much direct sunlight. Early morning or late afternoon sun is sufficient for it to thrive over summer as long as it still gets 6 hours or more of sunlight a day."
+        },
+        {
+          "id": 6021,
+          "type": "pruning",
+          "description": "Yarrow (Achillea sibirica subsp. camschatica 'Love Parade') should be pruned in early spring, before the foliage begins to regrow. Cutting the plant back to 2-4 inches from the ground will encourage bushier, fuller growth. The top of the plant can also be thinned down to prevent leggy, lanky growth. Any dead or diseased stems should be removed as soon as they are noticed. During hot summer months, deadheading the plant may be necessary to encourage a second bloom. Again, cutting the stems back to 2-4 inches is generally best for promoting new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1903,
+      "species_id": 452,
+      "common_name": "snakebark maple",
+      "scientific_name": [
+        "Acer conspicuum 'Phoenix'"
+      ],
+      "section": [
+        {
+          "id": 5914,
+          "type": "watering",
+          "description": "Snakebark maple (Acer conspicuum 'Phoenix') should be watered 3 to 4 times per week to keep the soil moist. Water the soil until it is damp, not soggy, and water until the excess water is able to flow freely from the pot's drainage holes. During hot or dry periods, increase watering to every 4 to 5 days. In the winter months, the plant can be watered less often, but it's important to avoid letting the soil become completely dry. Avoid splashing water on the foliage. If possible, water the plant early in the day so that any splashed water has time to dry off before nightfall."
+        },
+        {
+          "id": 5915,
+          "type": "sunlight",
+          "description": "Snakebark maple (Acer conspicuum 'Phoenix') requires full sun, meaning it needs a minimum of 6 hours of direct sunlight every day. During summer months, the plant should be given extra sun, favoring the morning hours when the sun is not as strong. During the winter months, it can handle a bit more shade since the sun is less intense. During these cooler months, try to locate the plant in a spot that gets some sun, although not all day."
+        },
+        {
+          "id": 5916,
+          "type": "pruning",
+          "description": "Snakebark maple (Acer conspicuum 'Phoenix') should be pruned selectively in late winter or early spring before new growth begins. Pruning should be focused primarily on removal of dead, diseased, and broken branches. Some thinning of branches may also be beneficial in order to open up the canopy to allow for better airflow and light penetration. If desired, some light shaping can be done, but a very natural appearance should be maintained. Avoid heavy pruning as this can be damaging to the tree and pruning wounds may not heal properly."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

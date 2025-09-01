@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1873,
+      "species_id": 417,
+      "common_name": "momi fir",
+      "scientific_name": [
+        "Abies firma"
+      ],
+      "section": [
+        {
+          "id": 5824,
+          "type": "watering",
+          "description": "Momi Fir should be watered once per week, thoroughly soaking the soil around the root zone once per week. Be sure to check the top 2-3\" of soil for dryness before performing any additional waterings as the fir is vulnerable to root rot when over watered. During hot summer days, supplement waterings with occasional misting of the foliage to raise the humidity level around the fir. In the winter months, waterings can decrease as the plant’s growth slows."
+        },
+        {
+          "id": 5825,
+          "type": "sunlight",
+          "description": "Momi fir plants require 6–7 hours of direct sunlight each day in order to thrive. The best time to provide sunlight is from mid-morning to early afternoon, as the sun's rays are the strongest during these hours and will provide the most energy for the plant. If the plant is placed in a spot that receives less than 6 hours of sun per day, it should be supplemented with artificial light. Additionally, the amount of sunlight can vary between seasons, so it's important to adjust the amount of direct sunlight that the species receives depending on the season."
+        },
+        {
+          "id": 5826,
+          "type": "pruning",
+          "description": "Momi Fir (Abies firma) should be pruned during late winter or early spring. This species requires undergoing severe pruning regularly to keep its shape. The aim of this pruning is to allow clearance for buildings to make protective barriers, and to maintain the shape of the crown, thinning the middle of it in order to allow light and airflow freely throughout the foliage. The amount that should be pruned will depend on the size of the tree and its purpose. It is best to remove no more than 1-third of the foliage at any given time in order to avoid shock to the tree. If the tree is being pruned for clearance purposes it is common to remove the lower branches as these can be the most hazardous. Additionally, it is recommended to remove dead and damaged branches, as well as any overly dense or irregular growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

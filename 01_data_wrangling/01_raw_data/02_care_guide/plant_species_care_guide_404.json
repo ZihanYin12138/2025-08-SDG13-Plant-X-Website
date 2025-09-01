@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1862,
+      "species_id": 404,
+      "common_name": "glossy abelia",
+      "scientific_name": [
+        "Abelia grandiflora 'Minipan' GOLDEN ANNIVERSARY"
+      ],
+      "section": [
+        {
+          "id": 5791,
+          "type": "watering",
+          "description": "Water the glossy abelia (Abelia grandiflora 'Minipan' GOLDEN ANNIVERSARY) deeply once a week. This is best done in the morning. Make sure the soil is kept moist, but not soggy, by providing about 1 inch of water per week. Do not let the plants completely dry out. Wilt on the foliage may indicate it needs more water. "
+        },
+        {
+          "id": 5792,
+          "type": "sunlight",
+          "description": "Glossy abelia, an evergreen to semi-evergreen plant, thrives in full sun to part shade, a minimum of 6 hours of direct sunlight being ideal for healthy growth and flowering. The golden anniversary cultivar of glossy abelia enjoys light all day long in the summertime and in moderate climates, and 4-5 hours of sun in cooler climates. "
+        },
+        {
+          "id": 5793,
+          "type": "pruning",
+          "description": "Pruning of Glossy Abelia is best done from spring to late summer after flowering has finished. Prune lightly to maintain the desired shape and size of the plant. In general, remove no more than 1/3 of the old woody stems each year and selectively remove stems that have become too dense. To prevent the plant from becoming too large and out of control, prune off long, straggly branches, and dead or diseased branches. Lateral buds should be left in place to force flowering on the tips of the branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

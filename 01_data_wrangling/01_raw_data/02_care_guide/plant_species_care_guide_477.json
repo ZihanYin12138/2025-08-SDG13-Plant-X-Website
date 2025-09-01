@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1922,
+      "species_id": 477,
+      "common_name": "fern-leaf yarrow",
+      "scientific_name": [
+        "Achillea filipendulina 'Gold Plate'"
+      ],
+      "section": [
+        {
+          "id": 5971,
+          "type": "watering",
+          "description": "Fern-leaf yarrow should be watered moderately. Water when the top inch or 2 of soil is dry to the touch. Depending on the temperature and light that the plant is exposed to, you may need to water it more or less frequently. Generally the plant prefers to be watered twice a week or every 3 days. During hot spells or periods of intense sun, you may need to water it more often. However, be careful not to overwater or the plant may start to rot or develop fungal diseases."
+        },
+        {
+          "id": 5972,
+          "type": "sunlight",
+          "description": "Fern-leaf yarrow (Achillea filipendulina 'Gold Plate') is a hardy, sun-loving perennial that requires full sun for best performance. This plant should receive a minimum of 4 hours of direct sunlight each day, although it will thrive when provided with more. For best results, the plant should be planted in a spot that receives morning sun and afternoon shade, ensuring that it gets a full day’s worth of sunlight with a small break in the midday heat."
+        },
+        {
+          "id": 5973,
+          "type": "pruning",
+          "description": "Fern-leaf yarrow (Achillea filipendulina 'Gold Plate') should be pruned in late winter or early spring, before new growth begins. It’s best to remove any dead, damaged, or diseased stems, as well as any overly tall or leggy stems. Pruning should be kept to a minimum to preserve the plant’s shape and size. Once the desired shape is achieved, light pruning may be done throughout the growing season to maintain the shape and encourage denser growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1880,
+      "species_id": 424,
+      "common_name": "Spanish fir",
+      "scientific_name": [
+        "Abies pinsapo 'Horstmann'"
+      ],
+      "section": [
+        {
+          "id": 5845,
+          "type": "watering",
+          "description": "Water Spanish fir regularly throughout the growing season to ensure the soil remains moist, but not soggy. A good rule of thumb is to water when the soil has dried out, approximately once a week when there are no periods of significant rain. During periods of extreme heat, such as the summertime months, water frequency may need to increase to up to twice a week. It is important to not over-water the tree, as this can lead to root rot. During the winter months when the tree is dormant, water it more sparingly, allowing the soil to dry out between waterings."
+        },
+        {
+          "id": 5846,
+          "type": "sunlight",
+          "description": "Spanish fir (Abies pinsapo 'Horstmann') prefers full sun exposure in order to thrive and reach its full potential. This plant species should be placed in an area where it can receive at least 6 hours of direct sunlight each day throughout the growing season. It is best to avoid any excessive shade, as this can limit the growth rate of the Spanish fir and lead to stunted foliage. "
+        },
+        {
+          "id": 5847,
+          "type": "pruning",
+          "description": "Spanish fir, or Abies pinsapo 'Horstmann', should be pruned twice a year during its dormant season. Prune lightly in late winter to early spring before the new growth begins, removing broken, diseased or dead branches as well as crossing branches. You can also prune live branches if needed, such as to reduce the size of the plant, thin out growth or create a more natural form. \n \nGreat care should be taken when pruning because Spanish fir can have thin bark that can be easily damaged. Completely remove the branches by cutting the stem right at the collar and never leave a stub, as this can lead to rot."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

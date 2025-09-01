@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 471,
+      "species_id": 426,
+      "common_name": "flowering-maple",
+      "scientific_name": [
+        "Abutilon hybridum 'Bella Red'"
+      ],
+      "section": [
+        {
+          "id": 1416,
+          "type": "pruning",
+          "description": "It is recommended to prune flowering-maples twice a year, once in late winter and once in late summer. Prune the plant in late winter before the new growth appears, to shape and maintain a compact form. Late summer pruning should be done after the plant blooms, to remove any faded flowers. To avoid reducing the number of flowers, try to make the cuts slightly above a leaf node, so that the stems can re-sprout and produce more flowers. On a mature specimen, only remove 1 third to 1 half of the branches when pruning."
+        },
+        {
+          "id": 1417,
+          "type": "watering",
+          "description": "Flowering-maple plants should be watered once a week with approximately 1 inch (2.5 cm) of water. The soil should be allowed to dry out slightly between watering. It is important to avoid over-watering as this can cause the plant to rot or develop root diseases. Observe the leaves and if they start to yellow, the plant may need a bit more water. "
+        },
+        {
+          "id": 1420,
+          "type": "sunlight",
+          "description": "Flowering-maple plants prefer bright, indirect sunlight throughout the day and do best when they get between 4-5 hours of direct sunlight each day. These plants do not like to be in overly bright direct sun for long periods of time as this could damage the foliage. Early morning sunlight or late afternoon sunlight is the best time for your flower-maple plants to get their direct light for the day."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1893,
+      "species_id": 442,
+      "common_name": "bear's breeches",
+      "scientific_name": [
+        "Acanthus 'Summer Beauty'"
+      ],
+      "section": [
+        {
+          "id": 5884,
+          "type": "watering",
+          "description": "When caring for a Bear's Breeches (Acanthus 'Summer Beauty') plant, it is important to water regularly. Start by providing the plant with a deep soaking once a week. Allow the soil to dry out between waterings, but never let it become completely dry. Watering should be done in the morning, so that the moisture in the soil has a chance to evaporate before the cooler temperatures of the evening. In addition, during the summer, it may be necessary to give this plant additional water, especially during times of prolonged heat and drought."
+        },
+        {
+          "id": 5885,
+          "type": "sunlight",
+          "description": "Bear's breeches (Acanthus 'Summer Beauty') require 4-6 hours of direct sunlight per day for optimal growth. They prefer a bright, sunny spot with southern exposure. During periods of extreme heat, it is advisable to provide some shade in the form of a lattice or umbrella to protect the plant from the sun."
+        },
+        {
+          "id": 5886,
+          "type": "pruning",
+          "description": "Bear's breeches (Acanthus 'Summer Beauty') should be pruned lightly after flowering in late summer or early fall. If necessary, prune again the following late winter or early spring. Set up a regular pruning in the late winter or early spring each year in order to keep the plant from getting too large, although bear's breeches (Acanthus 'Summer Beauty') does not require much in the way of pruning. Be sure to use sharp prunes and only remove branches that are overcrowded or damaged."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

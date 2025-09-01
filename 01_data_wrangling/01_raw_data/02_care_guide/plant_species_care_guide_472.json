@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1918,
+      "species_id": 472,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea 'Apfelblute' APPLEBLOSSOM"
+      ],
+      "section": [
+        {
+          "id": 5959,
+          "type": "watering",
+          "description": "Water yarrow (Achillea 'Apfelblute' APPLEBLOSSOM) deeply every 10-14 days when the soil is dry to the touch. Yarrow prefers well-drained soil and can tolerate short dry periods. Water in the morning, if possible, to avoid humidity and foliage disease, and water slowly to ensure thorough saturation. In periods of prolonged heat or heat waves, yarrow will need more frequent watering."
+        },
+        {
+          "id": 5960,
+          "type": "sunlight",
+          "description": "Yarrow (Achillea 'Apfelblute' APPLEBLOSSOM) should receive a full, direct sun of at least 6 hours per day to grow and flourish. If planted in a garden, Yarrow should be placed in an area that receives consistent sun throughout the day. When grown in a container, Yarrow should be placed strategically in a location where it will receive 8 hours of direct sunlight during the warmer months of the year."
+        },
+        {
+          "id": 5961,
+          "type": "pruning",
+          "description": "Yarrow (Achillea 'Apfelblute' Appleblossom) should be pruned in late winter or early spring when the plant is dormant. Pruning should remove up to 1-third of the previous year's growth, which will encourage vigorous, healthy growth and blooms when the weather warms up. Yarrow responds well to light and frequent pruning. Remove any dead or diseased stems first, and then shape the plant by cutting back individual stems to maintain the desired size and shape. Pruning can be done with either shears or hand pruners."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1933,
+      "species_id": 488,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium 'Red Beauty'"
+      ],
+      "section": [
+        {
+          "id": 6004,
+          "type": "watering",
+          "description": "Yarrow (Achillea millefolium 'Red Beauty') should be watered once a week, providing about 1\" - 1 1/2\" of water per session. It is important to avoid overwatering, so only water when the top inch of soil begins to dry out. When determining whether to water, stick your finger into the soil to check for dryness. Refrain from applying water to the leaves, as this can damage them and encourage diseases."
+        },
+        {
+          "id": 6005,
+          "type": "sunlight",
+          "description": "Yarrow (Achillea millefolium 'Red Beauty') should receive full to partial sun, ideally 4 to 6 hours per day. It grows best in sunny locations with well-draining soil and minimal shade. Yarrow will tolerate a variety of light levels, but may not flower as prolifically in full shade. Morning sunlight is preferred, and afternoon sun should be avoided when direct sunlight is present. With less direct light, yarrow can be placed in areas with some afternoon sun without compromising its health or flower production."
+        },
+        {
+          "id": 6006,
+          "type": "pruning",
+          "description": "Yarrow (Achillea millefolium 'Red Beauty') should be pruned once per year in late winter or early spring, before the new growth begins. Prune back the stems of the Yarrow to encourage more compact growth and to promote bushier, stronger stems. It is best to remove old, flowering stems and to cut back all the stems to about 1-third of their total height. Additionally, if the plant becomes leggy, remove some of the center stems to open up the plant and to promote better air circulation. Lastly, deadhead any seedheads that remain after the blooms have faded."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

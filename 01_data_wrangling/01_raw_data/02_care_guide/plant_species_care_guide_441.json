@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1892,
+      "species_id": 441,
+      "common_name": "bear's breeches",
+      "scientific_name": [
+        "Acanthus spinosus"
+      ],
+      "section": [
+        {
+          "id": 5881,
+          "type": "watering",
+          "description": "Bear’s Breeches should be watered every few days during the growing season. Always check the soil before watering; if it feels dry, then it needs water. Water enough to moisten the top 2–5 inches of soil, but don't overwater. In the summer months, it's best to water in the morning to help the plant fight off any heat stress that the hot sun may bring. In the winter months, it's best to water a little less often, but still make sure the soil is moist. As a general rule, Bear's Breeches should be watered once a week or every other week, depending on the soil and weather conditions."
+        },
+        {
+          "id": 5882,
+          "type": "sunlight",
+          "description": "Bear's breeches (Acanthus spinosus) prefer sun for at least 4-5 hours each day, although they can tolerate partial shade conditions. There is also evidence that the flowers of this species last longer in full sun. In general, it's best to plant this species in a spot that gets full morning sun and some shade in late afternoon. During the heat of the summer, some extra shade would be beneficial for this species."
+        },
+        {
+          "id": 5883,
+          "type": "pruning",
+          "description": "Bear's breeches (Acanthus spinosus) should be pruned in early spring, before the plants begin actively growing. Pruning can be done for shaping and to remove any dead or diseased foliage and stems. Use pruning shears and cut back the flowering shoots to the basal foliage mound. Removing faded flower spikes will also help to encourage re-flowering. In general, you should limit pruning to about a third of the stems. This will help to promote fullness. In addition, if your plant becomes leggy, you can cut roots in spring. This will help promote more buds and blooms."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1884,
+      "species_id": 432,
+      "common_name": "acaena",
+      "scientific_name": [
+        "Acaena inermis 'Purpurea'"
+      ],
+      "section": [
+        {
+          "id": 5857,
+          "type": "watering",
+          "description": "When watering Acaena inermis 'Purpurea', water the soil deeply and thoroughly once or twice a week during the growing season. During the winter months, water very infrequently or not at all due to the plant's low water requirements. The amount of water to provide should be adjusted depending on the weather, the season, the soil and the plant. Always check the soil moisture beforehand to ensure that the soil is not overly dry or soggy. This species typically does not require fertilizer, but if necessary, a light application may be beneficial."
+        },
+        {
+          "id": 5858,
+          "type": "sunlight",
+          "description": "Acaena inermis 'Purpurea' is a species of plant that thrives in bright, indirect sunlight. The amount of sunlight it requires will vary, but in can adapt to shaded conditinos. In general, Acaena inermis 'Purpurea' requires 4 to 6 hours of sunlight spread throughout the day in order to reach its full potential. "
+        },
+        {
+          "id": 5859,
+          "type": "pruning",
+          "description": "Acaena (Acaena inermis 'Purpurea') should be lightly pruned any time of the year, but with a stronger pruning in late winter while the plant is still slightly dormant. Pruning should be done using shears to remove dead growth and spent flower heads. If desired, the plant can also be pruned to shape. Prune off any stems that are dead, overly long, or not producing viable blooms. Make small, precise cuts with sterilized shears in order to avoid fungal or bacterial diseases. If the plant becomes overgrown, a more drastic pruning can be done in late winter to rejuvenate the plant. This will encourage fresh foliage growth and discourage an overly dense form."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

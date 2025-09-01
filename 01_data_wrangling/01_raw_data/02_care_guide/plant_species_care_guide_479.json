@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1924,
+      "species_id": 479,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium"
+      ],
+      "section": [
+        {
+          "id": 5977,
+          "type": "watering",
+          "description": "Yarrow (Achillea millefolium) needs to be watered about once a week, depending on the weather and temperature. In hot, dry weather it is best to water more often in order to keep the soil moist. In cool, rainy weather, less frequent watering is necessary. To ensure a healthy root system and good blooming, water the plants when the soil begins to feel dry to the touch. For best results, water slowly and deeply to ensure the entire root system is getting the necessary moisture."
+        },
+        {
+          "id": 5978,
+          "type": "sunlight",
+          "description": "Yarrow (Achillea millefolium) requires 6–10 hours of direct sunlight a day, ideally during the morning or late afternoon when the sun’s rays are not as strong. In areas with intense and prolonged heat during the summer months, it is best to provide some afternoon shade to prevent leaf burn, or to move the plant to a shadier area. Yarrow also prefers full sun during the winter."
+        },
+        {
+          "id": 5979,
+          "type": "pruning",
+          "description": "Yarrow (Achillea millefolium) is best pruned in late winter or early spring when new growth begins to emerge from the base of the plant. Pruning yarrow should be done with pruning shears, taking care to avoid cutting back more than 1-third of the plant at any given time. Removal of any dead or diseased stems should also be done when pruning. Deadheading or removal of any spent flowers should be done throughout the growing season. Be sure to leave some flowers on the plant in order for it to reseed itself."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

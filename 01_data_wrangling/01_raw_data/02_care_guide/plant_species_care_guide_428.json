@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 474,
+      "species_id": 428,
+      "common_name": "flowering-maple",
+      "scientific_name": [
+        "Abutilon pictum 'Gold Dust'"
+      ],
+      "section": [
+        {
+          "id": 1422,
+          "type": "watering",
+          "description": "Flowering maple requires a lot of water and should be watered on a regular basis, at least once or twice a week during the hot summer months. The soil should be kept moist but not soggy and should be allowed to dry out slightly between watering. It is important to make sure the soil is moist, but not soaking wet, at all times. During the colder months, reduce the frequency of watering to about once a week or every other week. Avoid over-watering the plant as it is sensitive to root rot."
+        },
+        {
+          "id": 1425,
+          "type": "pruning",
+          "description": "Flowering-maple should be pruned in early spring, before the plant begins to grow actively, and again in midsummer after blooming. This plant requires only light pruning throughout the season. For the spring pruning, remove any seeds and spent flowers, as well as dead or damaged branches to maintain a vigorous, healthy plant. If necessary, lightly shear the top of the plant to maintain an attractive shape. For mid-summer pruning, prune to remove any dead, spent flowers and remove any branches that are outgrowing the plant's general shape. Rejuvenation pruning can be done once every 3 to 4 years, in late winter or early spring, to help stimulate new growth."
+        },
+        {
+          "id": 1429,
+          "type": "sunlight",
+          "description": "Flowering-maple plants require plenty of bright light and should be given 6-8 hours of direct sunlight daily. A minimum of 4 hours of direct sunlight is required for the plant to grow, flower, and reach its optimal health. If grown indoors, place the flowering-maple near an east- or west-facing window to expose the plant to morning and evening sunlight. In this case, adjust the position of the plant depending on the intensity of the light available for it to receive."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

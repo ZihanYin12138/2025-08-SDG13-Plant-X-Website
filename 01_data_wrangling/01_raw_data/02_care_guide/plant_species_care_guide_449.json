@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1900,
+      "species_id": 449,
+      "common_name": "cappadocian maple",
+      "scientific_name": [
+        "Acer cappadocicum"
+      ],
+      "section": [
+        {
+          "id": 5905,
+          "type": "watering",
+          "description": "The Cappadocian Maple typically prefers moist, well-drained soils and should be watered deeply and infrequently. Be sure to let the top few inches of soil dry out before watering again. During dry periods, water the tree deeply about twice a week. In the summer months, the tree may need extra water during periods of prolonged dry weather. Be sure to water slowly and deeply, as a light sprinkling may not provide enough irrigation for the tree's needs."
+        },
+        {
+          "id": 5906,
+          "type": "sunlight",
+          "description": "Cappadocian maple (Acer cappadocicum) should receive at least 4 hours of direct sunlight per day, although it can tolerate partial shade as well. It tends to do best in early morning or late afternoon sun, so a spot away from the hottest part of the day is ideal. This plant species can also tolerate some shade, so an area that only receives limited sunlight for larges periods of the day can still provide ample light for the cappadocian maple."
+        },
+        {
+          "id": 5907,
+          "type": "pruning",
+          "description": "Pruning for the Cappadocian Maple (Acer cappadocicum) should be done lightly in the early spring season and be completed before mid-May. To keep the plant healthy, prune any dead, broken, or diseased branches. The aim is to thin out the branches of the plant, so do not remove more than 1-third of the foliage. This will help keep the maple’s canopy healthy and reduce the risk of disease. To help promote air flow, prune out crowded branches growing too close to 1 another. Once the initial pruning is complete, annual maintenance pruning should be done in late winter to early spring. Cut off any broken or overcrowded branches, and thin out and trim back the branches to keep the form of the tree. Avoid pruning while the plant is in bloom."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

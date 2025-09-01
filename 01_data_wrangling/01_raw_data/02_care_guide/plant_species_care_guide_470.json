@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1917,
+      "species_id": 470,
+      "common_name": "shantung maple",
+      "scientific_name": [
+        "Acer truncatum"
+      ],
+      "section": [
+        {
+          "id": 5956,
+          "type": "watering",
+          "description": "The Shantung Maple needs to be watered consistently and deeply, so that the soil remains evenly moist. However, it is important to avoid over-watering, as this can cause root rot. Water your Shantung Maple when the top inch or 2 of the soil appears dry, and provide enough water so that it runs out of the bottom of the pot. Aim to water the maple twice a week in spring and summer, and once a week in fall and winter. During periods of extreme heat or drought, water may need to be provided more frequently."
+        },
+        {
+          "id": 5957,
+          "type": "sunlight",
+          "description": "Shantung Maple (Acer truncatum) will thrive in full sun to light shade. Generally, it does best in 3 to 6 hours of direct sunlight per day, depending on the season, with some additional indirect sunlight throughout the rest of the day. During spring and summer, direct sunlight should be abundant and consistent, with slightly reduced light levels during the late fall and winter."
+        },
+        {
+          "id": 5958,
+          "type": "pruning",
+          "description": "Shantung maple (Acer truncatum) should be pruned during the winter season, when the plant is dormant, using sharp pruning shears. Pruning is essential to help the tree maintain its form and overall health throughout the year. Generally, this species of maple should be pruned lightly each year. This will help keep the tree from becoming too large and keep the canopy from being overly dense. Old, weak, crossing, or dead branches should be removed to control the size and maintain a healthy shape. Branches that are too tall should also be trimmed down to the desired height. To promote new growth and fuller branches, it is recommended to lightly trim the ends of the branches each year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

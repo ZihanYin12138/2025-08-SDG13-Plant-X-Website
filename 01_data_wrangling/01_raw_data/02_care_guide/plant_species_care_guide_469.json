@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 305,
+      "species_id": 469,
+      "common_name": "Amur maple",
+      "scientific_name": [
+        "Acer tataricum subsp. ginnala 'Mandy' RED RHAPSODY"
+      ],
+      "section": [
+        {
+          "id": 464,
+          "type": "watering",
+          "description": "Amur maples need regular watering during the growing season. They are drought tolerant and do not need frequent irrigation. During warmer months, water deeply every 7-10 days, allowing the soil to dry slightly between waterings. In cooler months, reduce the frequency of watering to 1-2 times a month. Watering should be done in the morning when the temperature is cooler to allow the excess water to evaporate and prevent root rot. Over-watering can cause leaf drop, so ensure that the top few inches of soil remain dry, before adding more water."
+        },
+        {
+          "id": 465,
+          "type": "sunlight",
+          "description": "Amur maple (Acer tataricum subsp. ginnala 'Mandy' RED RHAPSODY) typically requires at least 4-6 hours of direct sunlight per day, with mornings being optimal because midday sun is stronger and can burn the foliage. This plant thrives in full sun or partial shade environments and does best when situated in a location that receives direct sun for the majority of the day during the growing season."
+        },
+        {
+          "id": 466,
+          "type": "pruning",
+          "description": "Amur maple trees should be pruned twice each year: once in the late winter/early spring and once in the late summer/early fall. During the late winter/early spring pruning, any dead, damaged, or diseased branches should be removed first, followed by pruning to encourage healthy growth and to maintain an attractive appearance. During the summer pruning, you should remove any branches that are crossing and rubbing together, as well as any overly long or leggy shoots. Remember to always use sharp pruning tools and to sterilize them between plants to prevent the spread of disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

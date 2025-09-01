@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1934,
+      "species_id": 490,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea 'Moonshine'"
+      ],
+      "section": [
+        {
+          "id": 6007,
+          "type": "watering",
+          "description": "Yarrow (Achillea 'Moonshine') benefits from regular watering throughout the growing season. During the first few weeks after planting, it’s important to keep the soil consistently moist but not soggy. Water your yarrow in the morning to give the leaves a chance to dry before nighttime.\n\nOnce the plants have fully established, water them every 7–10 days, or when the soil becomes dry to the touch. Yarrow requires an average of 1 inch of water per week, either from rainfall or manual watering. If there is little or no rainfall, it’s important to make sure it gets enough moisture."
+        },
+        {
+          "id": 6008,
+          "type": "sunlight",
+          "description": "Yarrow (Achillea 'Moonshine') should be grown in full sun to partial shade for optimal growth. It prefers full sun, preferably 4 to 8 hours of sunlight per day, both for its appearance and disease resistance. If grown in shade, it may produce fewer flowers and become prone to disease. During the peak of summer, when temperatures are extreme, partial shade is beneficial for this plant species. It can tolerate both warm and humid climates, as well as cold temperatures, as long as the plants receive enough sunlight."
+        },
+        {
+          "id": 6009,
+          "type": "pruning",
+          "description": "For best results when pruning yarrow (Achillea 'Moonshine'), it is recommended to prune your plant during late spring or early summer once the flowering season is over. Remove old dying stems and faded flower heads, as well as any weak and spindly growth. Cut back stems to just above the point where the leaves grow, as this will encourage new bushy growth. To promote bushiness, you can trim the entire plant in late spring or early summer and then continue to trim any overly long shoots or heads in mid-summer. If pruned correctly and with care, yarrow will grow and produce flowers for years to come."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

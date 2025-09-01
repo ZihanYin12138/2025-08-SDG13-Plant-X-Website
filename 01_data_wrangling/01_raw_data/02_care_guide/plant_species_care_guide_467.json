@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1916,
+      "species_id": 467,
+      "common_name": "bigtooth maple",
+      "scientific_name": [
+        "Acer saccharum subsp. grandidentatum"
+      ],
+      "section": [
+        {
+          "id": 5953,
+          "type": "watering",
+          "description": "Bigtooth maple should be watered twice a week. Use enough water to moisten the top few inches of the soil, but be careful not to oversaturate it. The soil should never be soggy or wet. When you water, wait until the top 2-3 inches of soil are dry before applying water again. Remember to avoid over-watering, but also don't let the soil dry out completely."
+        },
+        {
+          "id": 5954,
+          "type": "sunlight",
+          "description": "Bigtooth maple (Acer saccharum subsp. grandidentatum) does best in warm, sunny environments, so it should receive at least 4-6 hours of full sun daily for optimal growth and development. While it tolerates partial shade, it will reward you by growing much faster when in full sun."
+        },
+        {
+          "id": 5955,
+          "type": "pruning",
+          "description": "For Bigtooth Maple, pruning should generally be done in the late winter or early spring of the year. Pruning should involve removing crossing, dead, or diseased branches to improve the health and structure of the tree. To promote healthy growth, remove no more than 25% of the canopy at a time. Make sure to spread the pruning cuts throughout the tree. Furthermore, as the Bigtooth Maple matures, it is wise to thin out the canopy and remove broken or dead branches. Pruning should also keep in mind the natural shape of the tree and its growth habits."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

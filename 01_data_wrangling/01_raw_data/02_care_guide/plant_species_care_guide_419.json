@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1875,
+      "species_id": 419,
+      "common_name": "Nikko fir",
+      "scientific_name": [
+        "Abies homolepis"
+      ],
+      "section": [
+        {
+          "id": 5830,
+          "type": "watering",
+          "description": "Nikko firs should be watered thoroughly and deeply, approximately once each week or when the top inch of soil is dry. For potted Nikko firs, ensure that the potting mix is the appropriate soil mix for the species and that any excess water is able to drain away effectively, as Nikko firs are sensitive to root rot. During the summer, once a week watering should generally be sufficient. During the winter, when temperatures dip, water demand decreases and water should be given less frequently — about once every couple of weeks — to prevent the roots from being overexposed to wet and stagnant conditions."
+        },
+        {
+          "id": 5831,
+          "type": "sunlight",
+          "description": "The Nikko fir is native to the mountains of Japan, where it typically receives full sun for at least 6 hours per day. In general, most fir species require at least some direct sunlight each day in order for photosynthesis and growth to occur. Due to its native environment, the Nikko fir has adapted to thrive in bright, sunny conditions, and does best when receiving direct sunlight for between 6 to 8 hours per day. "
+        },
+        {
+          "id": 5832,
+          "type": "pruning",
+          "description": "Nikko fir (Abies homolepis) should be pruned lightly and only as needed. Pruning should be done after the new growth has hardened off in the late spring or early summer, but prior to late summer. Before pruning, it is important to inspect the tree for any signs of disease or insect infestation. Pruning should focus on removing any narrow-angled or crossing branches. The tree should also be thinned by removing any dense or overcrowded foliage. If necessary, the tree can also be gently shaped. It is important to avoid pruning Nikko fir excessively, as it can increase susceptibility to pests and pathogens. Pruning should also be done with sterilized sharp pruning shears."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
