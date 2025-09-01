@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1912,
+      "species_id": 463,
+      "common_name": "red maple",
+      "scientific_name": [
+        "Acer rubrum 'Karpick'"
+      ],
+      "section": [
+        {
+          "id": 5941,
+          "type": "watering",
+          "description": "Red maple (Acer rubrum 'Karpick') should be watered thoroughly once a week, ensuring that the soil is always kept moist but not soggy. When watering, soak the soil until excess moisture begins to run freely from drainage holes located on the bottom of the container. If the container does not have any drainage holes, water sparingly, making sure to only dampen the top few inches of soil and not saturating the soil. If the container does have drainage holes, allow a few minutes for the water to drain out of the pot before discarding any excess water left in the saucer at the bottom. During the warmer months, additional water may be needed if the soil is not moist to the touch."
+        },
+        {
+          "id": 5942,
+          "type": "sunlight",
+          "description": "Red maple (Acer rubrum 'Karpick') is a deciduous tree native to parts of North America. It is a hardy species that can tolerate partial shade, but for best growth and flowering it needs direct sunlight for at least 4-5 hours each day. Red maple will do best when exposed to full sun for all or part of the day. However, young trees may require some protection from excessive direct sunlight, so they should be sheltered from direct sun in the afternoon and placed where they will receive morning sun."
+        },
+        {
+          "id": 5943,
+          "type": "pruning",
+          "description": "Red maple (Acer rubrum 'Karpick') is generally considered to be a low maintenance tree and requires very little pruning. Pruning should take place in early spring, just as new growth begins to emerge. For this species, only dead or diseased branches should be removed to promote healthier growth and help maintain the desired shape of the tree. Any shaping should be kept to a minimum, as red maples naturally have a spreading structure. It is best to prune the tree before it begins to leaf out in the spring, as it is easier to see the shape and structure of the tree. Prune out any dead or diseased wood as well as any crossing, rubbing, or broken branches. Remove any branches that may be trying to block windows or doorways as well. In conclusion, prune your red maple shortly after the emergence of spring growth, and limit the amount of pruning that needs to be done as this species generally requires very little."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

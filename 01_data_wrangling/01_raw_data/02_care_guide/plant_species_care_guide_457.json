@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1907,
+      "species_id": 457,
+      "common_name": "Japanese maple",
+      "scientific_name": [
+        "Acer palmatum 'Germaine's Gyration'"
+      ],
+      "section": [
+        {
+          "id": 5926,
+          "type": "watering",
+          "description": "Japanese maples should be watered thoroughly, once a week in spring, summer and fall. They should be watered beforehand if the soil is dry to the touch. During especially warm temperatures, plants may also require additional weekly watering. Make sure to check the soil for moisture before watering. In winter months, the soil should remain very dry, so only water enough to keep the soil slightly damp."
+        },
+        {
+          "id": 5927,
+          "type": "sunlight",
+          "description": "Japanese maple (Acer palmatum 'Germaine's Gyration') grows best in locations that receive at least 4-6 hours of direct sunlight per day. Planting Japanese maples in a fully shaded area can damage the tree as they need absorbing sunlight for photosynthesis to be strong and healthy. Ideally, Japanese maples should receive morning sunlight and then some shade in the afternoon as the sunlight can burn the leaves in hot climates. Morning sunlight will help the leaves to dry out from the dew and will encourage a deep, vibrant leaf color."
+        },
+        {
+          "id": 5928,
+          "type": "pruning",
+          "description": "Japanese maples should be pruned in late winter or early spring, before new growth begins. Pruning should focus on removing dead or damaged wood, crossing or crowded branches, and any vigorous, upright branches that detract from the tree's shape. Generally, no more than 20-30% of the total canopy should be removed in any 1 season. Be sure to leave plenty of air space between branches to ensure good air circulation."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

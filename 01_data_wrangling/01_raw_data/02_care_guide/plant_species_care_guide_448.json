@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1899,
+      "species_id": 448,
+      "common_name": "snakebark maple",
+      "scientific_name": [
+        "Acer capillipes"
+      ],
+      "section": [
+        {
+          "id": 5902,
+          "type": "watering",
+          "description": "Snakebark maple should be watered every 1-2 weeks, depending on the soil conditions in the pot where the tree is growing. When watering, give the tree enough moisture so that the soil is wet but not saturated. It's best to water the tree at the base of the tree and avoid getting the leaves wet. During the summer months, water more generously than during cooler months. Keep the soil slightly moist during periods of drought."
+        },
+        {
+          "id": 5903,
+          "type": "sunlight",
+          "description": "Snakebark maple prefers partial to full sun, with about 4 to 5 hours of direct sunlight each day. In warm summer climates, provide some shade to the plant during the hot midday sun to prevent burning or drying out. In cooler climates, the plant can tolerate more direct sunlight. When grown indoors, provide bright, indirect light for the plant."
+        },
+        {
+          "id": 5904,
+          "type": "pruning",
+          "description": "Snakebark maples should be pruned in late spring, once leaves have emerged and the danger of frost has passed. Pruning should be light to moderate, removing only dead, dying, or diseased branches as well as those that are crossing or rubbing one another. It is also important to thin out densely packed branches to allow more light and air to reach the interior of the plant. Avoid pruning off more than 1-third of the plant’s total foliage. If necessary, pruning can be repeated in mid-summer."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

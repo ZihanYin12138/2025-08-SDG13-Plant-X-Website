@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1897,
+      "species_id": 446,
+      "common_name": "hedge maple",
+      "scientific_name": [
+        "Acer campestre 'Evelyn' QUEEN ELIZABETH"
+      ],
+      "section": [
+        {
+          "id": 5896,
+          "type": "watering",
+          "description": "Hedge maple (Acer campestre 'Evelyn' QUEEN ELIZABETH) should be watered copiously once every 3 to 4 days, to a depth of up to 6-8\" in the soil. This plant needs to be kept consistently moist but not soaked. The best time to water is early in the morning so the water can be absorbed before the sun rises and it does not evaporate quickly. It is important to monitor the soil moisture as the weather changes in order to provide the most effective amount of water for the species."
+        },
+        {
+          "id": 5897,
+          "type": "sunlight",
+          "description": "Hedge maple (Acer campestre 'Evelyn' Queen Elizabeth) requires full sun for optimal health; however, partial shade is tolerated. Hedgerow maples typically need at least 6 hours of direct sunlight each day to flourish. The best time of day for the hedge maple to receive its full 6 hours of sunlight is between 9am and 3pm. When planted in a shaded area, the hedge maple may need supplemental lighting of 2 to 3 hours per day during this same time frame."
+        },
+        {
+          "id": 5898,
+          "type": "pruning",
+          "description": "Pruning a Hedge Maple (Acer campestre 'Evelyn' QUEEN ELIZABETH) should be done once a year in early spring. Pruning should be done gently, as Hedge Maples have a distinct layered look and should be pruned in a way that preserves its natural form. Begin with cutting off any dead, diseased or dying branches or stems that are a result of winter or other environmental damage. Next, gently thin out the canopy of the tree, without going overboard, to allow more light and air to reach the interior of the tree. Use sharp, clean pruning shears, and make sure to sterilize them afterward with rubbing alcohol to avoid spreading diseases from one plant to another. Lastly, be sure to remove any suckers, and any branches or stems that are growing in an awkward or outward-facing direction."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

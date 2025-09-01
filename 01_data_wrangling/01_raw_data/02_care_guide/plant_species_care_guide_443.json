@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1894,
+      "species_id": 443,
+      "common_name": "pineapple guava",
+      "scientific_name": [
+        "Acca sellowiana"
+      ],
+      "section": [
+        {
+          "id": 5887,
+          "type": "watering",
+          "description": "Pineapple guava (Acca sellowiana) should be watered every 10-14 days, gradually increasing the water each time. Start by applying 1-2 gallons (3.8-7.6 liters) of water to soil around the plant. After a few weeks increase the amount of water, aiming for 3-4 gallons (11.3-15.2 liters) each time. Water deeply whenever the soil becomes dry, and avoid wetting the leaves. During the hotter summer months, check the soil for dryness every 7 days or so and water as needed. In the cooler winter months, reduce watering to every 14 days."
+        },
+        {
+          "id": 5888,
+          "type": "sunlight",
+          "description": "Pineapple guava, (Acca sellowiana), does best in full sun and prefers warm climates. In most climates, some shade is beneficial in the afternoon. During the summer months, 6 to 8 hours of full sun per day is ideal. During the winter months, 4 to 6 hours is enough. Too much sun can damage the plant, resulting in sunburn, dryness, and wilting. Too little sun will cause the plant to be pale and weak, and may make the fruits small and tasteless."
+        },
+        {
+          "id": 5889,
+          "type": "pruning",
+          "description": "Pineapple guava (Acca sellowiana) should be pruned twice a year to remove dead, damaged, or crossing branches. In the spring, lightly trim the tips of the flowering branches to promote the development of flower buds. In the fall, thin out older branches and remove shade, dead, or diseased wood. Try to keep the plant to a single main stem and prune all branches that cross or rub together. Much of the pruning can be done with hand pruners or shears. When using anything other than hand tools, be sure to leave 1/4” (5-6mm) of the branch collar exposed, as it can help prevent disease. When pruning, work slowly and take your time to keep the plant healthy and attractive."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

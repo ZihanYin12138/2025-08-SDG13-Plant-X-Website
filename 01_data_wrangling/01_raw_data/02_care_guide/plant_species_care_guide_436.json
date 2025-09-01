@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1887,
+      "species_id": 436,
+      "common_name": "bear's breeches",
+      "scientific_name": [
+        "Acanthus hungaricus"
+      ],
+      "section": [
+        {
+          "id": 5866,
+          "type": "watering",
+          "description": "Bear's Breeches should be watered on a regular basis, but not too often. During summer months, the soil should be kept moist, which will require weekly watering. The best thing to do is to check the soil before watering, as it should never be too wet or too dry. During the winter months, the plant will need water less frequently, only when the soil is dry enough that it is beginning to pull away from the sides of the pot. In any case, be sure to avoid waterlogging as this can lead to root rot."
+        },
+        {
+          "id": 5867,
+          "type": "sunlight",
+          "description": "Bear’s breeches (Acanthus hungaricus) thrive in full sun which means at least 6 hours of direct sunlight per day. It should be planted in a place with full sun in the morning and some late afternoon shade. It can also thrive in partial shade, but it won't thrive in full shade."
+        },
+        {
+          "id": 5868,
+          "type": "pruning",
+          "description": "Bear's Breeches should be pruned twice annually. Once in early spring and once in late summer. In early spring, all dead or broken stems should be pruned back to the point where the live tissue begins. Any spent flower stalks should also be removed. During late summer, new flowers may need to be pinched back to control size and promote a bushier form. If needed, the overall size of the plant can be reduced by pruning back each stem by 1/3 of its length."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

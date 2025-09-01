@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1881,
+      "species_id": 429,
+      "common_name": "river wattle",
+      "scientific_name": [
+        "Acacia cognata 'Mini Cog'"
+      ],
+      "section": [
+        {
+          "id": 5848,
+          "type": "watering",
+          "description": "River Wattle (Acacia cognata 'Mini Cog') is an evergreen perennial that requires plenty of water in order to appear its best. Watering this species should take place every 7 to 10 days during the hotter months and every 14-21 days during the cooler months. During the hotter months, water at the root level and make sure the soil is moist throughout. During the cooler months, provide enough water to keep the soil just moist but not soggy. If the soil becomes dry, provide enough water to saturate the soil. It is also important to make sure the plant is not overwatered, as this can lead to root rot and other fungal diseases."
+        },
+        {
+          "id": 5849,
+          "type": "sunlight",
+          "description": "River Wattle (Acacia cognata 'Mini Cog') requires full sun for at least 6 hours of direct sunlight each day to achieve best growth and flowering. It can handle some partial shade, but the amount of sun it receives will determine how vigorously it grows and how many flowers it will produce. When grown in full sun, River Wattle will produce many more flowers and foliage will be more lush. During hot summer months, River Wattle should be shaded from the afternoon sun."
+        },
+        {
+          "id": 5850,
+          "type": "pruning",
+          "description": "River wattles should be pruned twice a year: once in late winter/early spring (August to October) and then again in early summer (December to February). Prune lightly in late winter/early spring by cutting off any dead or straggly branches and to reduce the size of the plant. In early summer, shape the plant by selectively trimming off wayward branches and removing all dead, diseased and damaged wood. Keep in mind that River Wattles do not respond well to heavy pruning. Pruning should be done with sharp, clean secateurs and be neat to promote good regeneration. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 470,
+      "species_id": 425,
+      "common_name": "flowering-maple",
+      "scientific_name": [
+        "Abutilon hybridum"
+      ],
+      "section": [
+        {
+          "id": 1413,
+          "type": "pruning",
+          "description": "Flowering-maple (Abutilon hybridum) should be pruned heavily and frequently throughout the year for best results. Prune the plants after they have finished blooming to remove dead branches and promote more compact growth. Be sure to prune the plant soon after flowering in the spring and cutting back no more than 1-third of the top growth. Prune again in midsummer and then after the second flowering in the late summer or early fall. When pruning, be sure to use clean, sharp pruning tools, and wear gloves to protect your hands from the small spines on the plant."
+        },
+        {
+          "id": 1414,
+          "type": "watering",
+          "description": "Flowering maple (Abutilon hybridum) is a fast-growing plant that requires frequent watering. The plants should be watered heavily and deeply 1-2 times per week during the spring and summer months. During the cooler months, waterings should be reduced to once every 2-3 weeks."
+        },
+        {
+          "id": 1415,
+          "type": "sunlight",
+          "description": "A flowering-maple (Abutilon hybridum) needs full sun for 6-8 hours per day in order to thrive. During the spring and summer months the plants require more sunlight and can benefit from up to 10 hours of full sun each day. If grown in a shadier area, the flowering-maple may have less abundant blooms and growth. During the winter, the plant requires slightly less sunlight and may do better with only 4-6 hours of direct sunlight per day."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

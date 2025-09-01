@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1856,
+      "species_id": 398,
+      "common_name": "Chinese abelia",
+      "scientific_name": [
+        "Abelia chinensis"
+      ],
+      "section": [
+        {
+          "id": 5773,
+          "type": "watering",
+          "description": "Chinese abelia should be watered when the soil feels dry to the touch, usually once a week in the summer and once every 10-14 days in the winter. When watering, be sure to saturate the entire root area with water. Do not over-water, since this can lead to root rot and decline in the plant."
+        },
+        {
+          "id": 5774,
+          "type": "sunlight",
+          "description": "Chinese Abelias need at least 6 hours of direct sunlight per day. If grown in full sun, Chinese Abelias may require afternoon shade in areas with strong summer sun. Too much sun can burn their foliage. During the winter months, a Chinese Abelia should receive some protection, such as a northern or eastern exposure, or they may require some sun shade to avoid sun-scorch."
+        },
+        {
+          "id": 5775,
+          "type": "pruning",
+          "description": "Chinese abelia should be pruned in early spring, before new growth starts. You should remove any dead or damaged branches, as well as any growth that is straggly or out of proportion. You can also remove any branches that cross over each other or that are growing inward instead of outward. Prune lightly, removing no more than 1-third of the plant material. This will help keep the bush compact and dense, and encourage a longer bloom time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

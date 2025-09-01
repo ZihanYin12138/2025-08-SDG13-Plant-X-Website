@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1921,
+      "species_id": 476,
+      "common_name": "fern-leaf yarrow",
+      "scientific_name": [
+        "Achillea filipendulina 'Gold Coin Dwarf'"
+      ],
+      "section": [
+        {
+          "id": 5968,
+          "type": "watering",
+          "description": "Water the Fern-leaf Yarrow deeply twice a week. Allow the soil to dry out slightly between watering to prevent root rot. During periods of active growth, water more frequently if the soil begins to dry out. During the winter months, reduce the frequency to no more than once every 2 weeks. Make sure to observe the plant often - if it begins to appear wilted, it may need more water."
+        },
+        {
+          "id": 5969,
+          "type": "sunlight",
+          "description": "Fern-leaf yarrow (Achillea filipendulina 'Gold Coin Dwarf') requires direct sunlight for up to 6-7 hours per day in order to thrive. When grown in full sun, the plant forms full mounds of gold-green foliage that are studded with fragrant yellow-dotted, white daisy-like flowers. When grown in partial sun, the plants may get lanky and sparse. "
+        },
+        {
+          "id": 5970,
+          "type": "pruning",
+          "description": "Fern-Leaf Yarrow (Achillea filipendulina 'Gold Coin Dwarf') should be pruned once a year in late spring or early summer when the foliage is starting to look untidy. The best time to prune is just after the plant flowers. During this time, lightly thin-out the plant by cutting back overlong stems to 10-20 cm from the main plant. It is best to use sharp shears or clippers and trim the plant back, making sure to cut above foliage nodes for new growth. Doing this annual pruning will help with its overall growth and will reward you with a beautiful flowering bush more likely to reach its full potential."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

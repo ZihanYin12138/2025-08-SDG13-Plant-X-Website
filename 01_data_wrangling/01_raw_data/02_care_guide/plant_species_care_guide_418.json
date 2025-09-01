@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1874,
+      "species_id": 418,
+      "common_name": "grand fir",
+      "scientific_name": [
+        "Abies grandis"
+      ],
+      "section": [
+        {
+          "id": 5827,
+          "type": "watering",
+          "description": "Grand fir should receive 1 to 1.5 inches of water per week. This should be applied either through rainfall or irrigation. For best results, water should be applied in the morning so that the moisture can be absorbed by the roots before the heat of the day evaporates it. The frequency with which water should be provided can be flexible, but regular watering at least every 7-10 days is recommended."
+        },
+        {
+          "id": 5828,
+          "type": "sunlight",
+          "description": "Grand fir (Abies grandis) prefers full, direct sunlight. The optimal amount of sunlight for this species is 8-10 hours per day. Grand fir will thrive in a slightly shadier environment, but for best growth and health, it should receive a full, direct daily dose of morning sunlight. The ideal time for sunlight exposure is from 10am to 6pm whenever possible."
+        },
+        {
+          "id": 5829,
+          "type": "pruning",
+          "description": "Grand fir (Abies grandis) should be pruned in late winter before new growth begins, usually sometime between February and March. Pruning can help to maintain the desired shape of the plant and encourage strong, healthy growth. To prune, it is best to start at the base of the plant and remove any dead, diseased, or damaged branches. Next, remove any crossing branches, as well as thin out any overly dense parts of the tree. Make sure to cut flush with the trunk to avoid bark stubs. Make sure not to prune away more than 1-third of the live branches in any 1 growth period."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

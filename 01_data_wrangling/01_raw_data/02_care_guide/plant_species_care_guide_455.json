@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1906,
+      "species_id": 455,
+      "common_name": "full moon maple",
+      "scientific_name": [
+        "Acer japonicum 'O-isami'"
+      ],
+      "section": [
+        {
+          "id": 5923,
+          "type": "watering",
+          "description": "Full Moon maple plants should be watered deeply every 10 days when temperatures are warmer, or every 2 weeks when temperatures are cooler. However, during cold weather, it is best to allow the soil to dry out slightly between waterings. When watering, it is important to water the roots of this plant, not the leaves, in order to prevent leaf spotting and other damage. It is also important to avoid over-watering, as this can cause root rot."
+        },
+        {
+          "id": 5924,
+          "type": "sunlight",
+          "description": "A full moon maple (Acer japonicum 'O-isami') needs 6 to 8 hours of direct sunlight per day for optimal growth. Some variegated varieties of full moon maple may need a bit less sunlight to avoid leaf scorch. Aim to provide your full moon maple with bright, but indirect light during the morning hours and direct sunlight for the afternoon. If possible, place your full moon maple in a location that receives direct sunlight for about 4 to 5 hours each day. Partial shade is also suitable for full moon maples, and could prevent injury from too much sunlight."
+        },
+        {
+          "id": 5925,
+          "type": "pruning",
+          "description": "Pruning the Full Moon Maple (Acer japonicum 'O-isami') should be done each year in late winter or early spring. Before initiating pruning, inspect the tree for dead, diseased, or insect-infested branches to remove. Aim to create a balanced system of strong branches that create an oval canopy. To do this, remove upward and inward-growing branches, while also removing any shoots that are growing in a horizontal manner. Also, remove any branches that cross each other to reduce the risk of breakage and open up the canopy of the tree. Finally, shorten any branches growing too long. This will help ensure the tree looks neat and well-groomed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

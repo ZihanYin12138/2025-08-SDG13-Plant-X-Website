@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 306,
+      "species_id": 474,
+      "common_name": "fern-leaf yarrow",
+      "scientific_name": [
+        "Achillea filipendulina"
+      ],
+      "section": [
+        {
+          "id": 467,
+          "type": "watering",
+          "description": "Fern-leaf yarrow (Achillea filipendulina) should be watered about 1 to 2 inches (2.5 to 5 cm) once or twice per week. The frequency of watering can vary depending on the weather. In the summer, the plants may need to be watered more frequently while in the winter they may need to be watered less frequently. Always make sure the soil is completely dry before watering again. When watering, make sure to water the soil, not the foliage. Too much water can lead to disease, so only water when necessary."
+        },
+        {
+          "id": 468,
+          "type": "sunlight",
+          "description": "Fern-leaf yarrow should receive 6-8 hours of direct sunlight daily in order to grow and thrive. It is best planted in areas that receive full sun in the mornings but partial shade in the afternoons. Planting in areas that receive too much direct sunlight and heat can lead to a decrease in flowering and overall performance."
+        },
+        {
+          "id": 469,
+          "type": "pruning",
+          "description": "Pruning for fern-leaf yarrow should take place in early spring and again in late summer. This can vary depending on the climate and region, but generally, the best time to prune is when the plant’s growth begins to slow down in late summer. \n\nWhen pruning, the main branches should not be cut back more than 1-third of their length. However, if the plant’s center is becoming overcrowded with dead or dying branches, it can be thinned out to create more space. With any pruning, care should be taken not to cut too far back or the plant could become weakened."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1885,
+      "species_id": 433,
+      "common_name": "red hot cat's tail",
+      "scientific_name": [
+        "Acalypha hispida"
+      ],
+      "section": [
+        {
+          "id": 5860,
+          "type": "watering",
+          "description": "Water your Red Hot Cat's Tail regularly. Water it deeply once a week, or whenever the soil dries out (generally about 1-2 inches). Make sure to water the root area and avoid splashing the leaves to reduce the chances of disease.  In particularly hot or dry weather, you may need to water it more frequently."
+        },
+        {
+          "id": 5861,
+          "type": "sunlight",
+          "description": "Red hot cat's tail typically thrives when grown in areas with indirect sunlight or bright, indirect light for 6 to 8 hours a day. Depending on where it is planted, direct sunlight may also be tolerated for a few hours, however, too much direct sunlight can burn the leaves. All in all, providing 6-8 hours of bright light will ensure that the plant continues to thrive."
+        },
+        {
+          "id": 5862,
+          "type": "pruning",
+          "description": "Red Hot Cat's Tail should be pruned around mid to late summer when the plant is actively growing. Pruning should focus on removing dead or yellow foliage and cutting back to prevent the plant from becoming leggy and sparse. It is best to prune only a few inches from the top of the plant, cutting the branches just above a leaf node. This will keep the plants attractive looking and encourage healthy new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

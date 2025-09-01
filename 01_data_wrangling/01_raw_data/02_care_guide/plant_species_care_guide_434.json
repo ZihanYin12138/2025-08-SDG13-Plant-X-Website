@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 475,
+      "species_id": 434,
+      "common_name": "Jacob's coat",
+      "scientific_name": [
+        "Acalypha wilkesiana"
+      ],
+      "section": [
+        {
+          "id": 1426,
+          "type": "watering",
+          "description": "Jacob's Coat should be watered generously and evenly, about twice per week. When watering, it's best to provide enough water to thoroughly moisten the soil, but it's important not to overwater the plant as this can cause root rot. You may also need to water slightly more often if the soil dries out very quickly due to intense heat or other environmental conditions. Additionally, it’s also important to make sure that any excess water drains away easily so as not to leave the plant in soggy soil."
+        },
+        {
+          "id": 1430,
+          "type": "sunlight",
+          "description": "Jacob's coat will require at least 3 to 4 hours of direct sunlight each day in order to thrive and produce lush foliage. It is best for these plants to get direct sunlight in the morning, which will help them store up light for necessary energy and fuel their growth throughout the day. The afternoon sun can be a bit too intense, so providing partial or filtered light from nearby tree canopies can help give an added layer of protection."
+        },
+        {
+          "id": 1431,
+          "type": "pruning",
+          "description": "Prune Jacob's coat at least once a year in late winter or early spring. Prune off any dead, dying, or diseased branches, and remove any excess branches that are overgrown, crowding, or growing in an unnatural direction. Cut back sideshoots that are longer than 1 third the length of the parent stem. Prune to shape Jacob's coat, removing up to 1 third of the stems by cutting them back just above a node or junction. Prune out leggy growths or branches that are growing out over pathways."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

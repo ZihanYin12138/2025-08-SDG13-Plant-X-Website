@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1932,
+      "species_id": 487,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium 'Pretty Belinda'"
+      ],
+      "section": [
+        {
+          "id": 6001,
+          "type": "watering",
+          "description": "Yarrow (Achillea millefolium 'Pretty Belinda') needs to be watered regularly to ensure it thrives. Generally, when the top inch of soil is dry, it is time to water. During hot summers, yarrow may need watered more often, about once or twice per week. Be careful not to over-water; allow the soil to dry out slightly between waterings. In the garden, yarrow should be watered at the base of the plant, trying to avoid wetting the foliage as much as possible."
+        },
+        {
+          "id": 6002,
+          "type": "sunlight",
+          "description": "Yarrow (Achillea millefolium 'Pretty Belinda') is an herbaceous perennial that grows best in full sun. It prefers consistently warm temperatures and will thrive with at least 6 hours of direct sunlight each day. While the plant can survive in partial shade, its best growth and flowering will occur in a sunny spot. To keep this species happy, it will need at least 6 hours of direct sun each day in spring, summer, and early fall."
+        },
+        {
+          "id": 6003,
+          "type": "pruning",
+          "description": "Yarrow (Achillea millefolium 'Pretty Belinda') should be pruned in early spring to encourage healthy and robust growth. This is best done as soon as the ground thaws and the last frost has passed. Use sharp, clean pruning shears to remove all dead, wilted, or diseased foliage and stems. Additionally, pruning should be done to thin out the canopy structure, to encourage air circulation, and to encourage more flowers to grow. Cut back around 1-third of the tallest stems and remove any crossing stems. Prune the plant down to the desired height, depending on the size of the area you are working with. Finally, gently shape the plant following the desired shape and size."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

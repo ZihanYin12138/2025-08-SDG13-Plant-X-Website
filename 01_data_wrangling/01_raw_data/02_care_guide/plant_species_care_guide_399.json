@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1857,
+      "species_id": 399,
+      "common_name": "abelia",
+      "scientific_name": [
+        "Abelia 'Edward Goucher'"
+      ],
+      "section": [
+        {
+          "id": 5776,
+          "type": "watering",
+          "description": "Abelia 'Edward Goucher' should be watered when the top 1 inch of soil is dry. When watering, thoroughly soak the soil, allowing the water to penetrate down to the root level. Water early in the morning if possible, to avoid wet conditions in the evening and to allow any excess water to evaporate before nightfall. During the summer, this plant may need to be watered every 7-14 days depending on the weather and the amount of sunlight it's receiving. In the winter months, water more sparingly, allowing the soil to dry out between waterings."
+        },
+        {
+          "id": 5777,
+          "type": "sunlight",
+          "description": "Abelia 'Edward Goucher' does best when planted in full sun, meaning 6-8 hours of direct sunlight per day. While it can tolerate partial shade, this plant species will not thrive and may become prone to disease if it does not get adequate sunlight. Make sure to plant your Abelia in an area that receives direct sunlight for the majority of the day, such as an east- or south-facing window, in order to give it the best chance of success."
+        },
+        {
+          "id": 5778,
+          "type": "pruning",
+          "description": "Abelia 'Edward Goucher' is a low-maintenance evergreen shrub which requires minimal pruning. Pruning should generally be done in early spring before new growth begins, starting about 3 years after planting. Prune off any dead or diseased branches first, then selectively thin branches to encourage air circulation and promote new growth. To improve the appearance of the shrub, selectively prune to encourage branching and to remove old and unbranched canes. Remove no more than 15-20% of the shrub’s total canopy area at any given time. Pruning should not be done excessively, as over pruning can lead to weakened or sparse growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1886,
+      "species_id": 435,
+      "common_name": "prickly thrift",
+      "scientific_name": [
+        "Acantholimon ulicinum"
+      ],
+      "section": [
+        {
+          "id": 5863,
+          "type": "watering",
+          "description": "Prickly thrift requires regular watering to thrive. Water the soil deeply each week during the growing season (April to September). Allow the top layer of soil to dry between waterings. Then give the plant a good soaking with moisture reaching up to 5” (13 cm) deep. During the winter months, reduce watering frequency to every 2 to 3 weeks. Take caution to avoid overwatering; soggy soil can cause root rot."
+        },
+        {
+          "id": 5864,
+          "type": "sunlight",
+          "description": "Prickly thrift (Acantholimon ulicinum) does best in full sun, meaning it should receive 8 to 10 hours of direct sunlight each day. During the summer, prickly thrift should be positioned in an area where it receives morning light and shade in the afternoon, when heat is most intense. In winter, prickly thrift may benefit from full sun during the day, as well as some indirect light in the late afternoon. For optimal growth, place prickly thrift in an area that receives equal amounts of direct and indirect light."
+        },
+        {
+          "id": 5865,
+          "type": "pruning",
+          "description": "Prickly thrift (Acantholimon ulicinum) generally requires minimal pruning and can easily become overgrown or leggy when not regularly maintained. To maintain the shape and size of the plant, prune it in late winter or early spring while the plant is still dormant. Cut off any woody, misshapen, or otherwise unsightly branches, as well as any dead or dying stems near the base. Because prickly thrift is a flowering shrub, it is best to not prune it too heavily as this can reduce the number of flowers it produces. To ensure a good balance between dense foliage and plenty of flowers, trim the outer stems and lateral branches back by 1/3 to 1/2 of their original length. The best practice is to remove only non-flowering stems."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

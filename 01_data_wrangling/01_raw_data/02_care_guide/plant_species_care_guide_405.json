@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1863,
+      "species_id": 405,
+      "common_name": "glossy abelia",
+      "scientific_name": [
+        "Abelia grandiflora 'Panache' SILVER ANNIVERSARY"
+      ],
+      "section": [
+        {
+          "id": 5794,
+          "type": "watering",
+          "description": "Water your Glossy Abelia (Abelia grandiflora 'Panache' SILVER ANNIVERSARY) weekly, deeply and thoroughly. Check the soil around the base of the plant for moisture before each watering; if the soil feels dry to the touch, it's time to water. Apply enough water so that it runs through the soil and out of the drainage holes at the bottom of the planter. Once the water drains, empty the container so that the plant isn't left sitting in the residual water. During drier seasons, you may need to water your Glossy Abelia 2 to 3 times a week."
+        },
+        {
+          "id": 5795,
+          "type": "sunlight",
+          "description": "Glossy abelia (Abelia grandiflora 'Panache' SILVER ANNIVERSARY) thrives best when planted in an area with full sun to partial shade. If planted in direct sunlight, the plant should be in an area with at least 4 to 5 hours of direct sunlight per day. If planted in shade, it should be in an area with at least 6 hours of indirect sunlight per day. It is important to note that it can tolerate light shade but may not flower as profusely."
+        },
+        {
+          "id": 5796,
+          "type": "pruning",
+          "description": "Glossy abelia (Abelia grandiflora 'Panache' SILVER ANNIVERSARY) should be pruned annually in late winter or early spring, before growth begins. Pruning should be kept to a minimum, only removing dead, damaged, or crossing branches as needed. To encourage vigor and flowering, lightly prune new growth during the growing season as needed, taking care to not reduce the shrub’s overall shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

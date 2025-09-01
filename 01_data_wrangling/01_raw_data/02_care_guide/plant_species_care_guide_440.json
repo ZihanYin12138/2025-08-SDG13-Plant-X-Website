@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1891,
+      "species_id": 440,
+      "common_name": "mountain thistle",
+      "scientific_name": [
+        "Acanthus montanus"
+      ],
+      "section": [
+        {
+          "id": 5878,
+          "type": "watering",
+          "description": "For best results, mountain thistle plants should be watered deeply and regularly. During the heat of summer, they should be watered every other day in the morning. During the cooler months, once or twice a week should suffice. It is important to make sure that the soil is kept consistently moist, but not wet. To ensure proper moisture, use a trowel or a soil sample probe to check the soil moisture 2 inches below the surface. If the soil is dry, water the plant at the base until the soil is damp. Be sure to not over-water because this can lead to root rot. "
+        },
+        {
+          "id": 5879,
+          "type": "sunlight",
+          "description": "Mountain thistle needs full sun exposure throughout the day in order to grow and flourish. This species of plant will perform best when given at least 6 hours of direct sunlight. However, during the hotter days of summer, some light shading in the afternoon can help the plant avoid becoming scorched or burned. For mountain thistle, morning sun is especially desirable, as it will help keep the foliage dry and promote the best growth."
+        },
+        {
+          "id": 5880,
+          "type": "pruning",
+          "description": "Mountain thistle should be pruned in the late winter, when temperatures are still relatively cool but the plant is beginning to show signs of new growth. Remove all dead and diseased stems, branches and foliage before pruning. Use sharp pruners and cut at an angle to promote healing and prevent disease. Prune each branch back to an outward facing bud on a slightly sloping angle. Make the cut just above the bud at an angle so that water doesn't collect and sit on the end of the cut. Prune lower branches, stems and leaves that are dead or diseased, and those that are crossing or rubbing against each other. Prune the mountain thistle until it reaches the desired size or shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

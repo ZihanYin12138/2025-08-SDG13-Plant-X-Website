@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1864,
+      "species_id": 406,
+      "common_name": "glossy abelia",
+      "scientific_name": [
+        "Abelia grandiflora 'Sherwoodii'"
+      ],
+      "section": [
+        {
+          "id": 5797,
+          "type": "watering",
+          "description": "This glossy abelia should be watered deeply once a week during the spring and summer. In the fall, reduce water to about every 2 weeks. Make sure the soil is moist, not soggy. Be careful not to overwater, as too much water can lead to root rot. If rainfall is low, then water more frequently, but make sure the soil drains quickly. During the winter months, water only when the plant looks its about to wilt and there has been no rainfall for 2 weeks or more."
+        },
+        {
+          "id": 5798,
+          "type": "sunlight",
+          "description": "Glossy abelia (Abelia grandiflora 'Sherwoodii') enjoys full sun for 6-8 hours per day, although it can tolerate some partial shade. It is best to plant in areas with plenty of sunlight, such as on south facing hills, or near east or west exposed walls, to make sure it is getting enough sun. When the plant is in sunnier locations, it rewards gardeners with thick, glossy green foliage and brighter, more abundant flowers. Potted glossy abelia should also be placed in a sunny area and given more frequent watering, as they dry out quickly in comparison to plants grown in the ground."
+        },
+        {
+          "id": 5799,
+          "type": "pruning",
+          "description": "Glossy abelia should be pruned once a year in late winter or early spring before the new growth appears. Its best to prune out about 1/3 of the branches, cutting them to just above a side shoot or leaf bud. Be sure to remove any dead, diseased, or crossing branches as well. Avoid pruning the stems longer than 3 feet (1 meter) in length. If the plant gets too large, you can also cut back some stems in the early summer to keep it in check and promote more growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

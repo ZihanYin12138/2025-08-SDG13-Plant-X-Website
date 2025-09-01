@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1923,
+      "species_id": 478,
+      "common_name": "fern-leaf yarrow",
+      "scientific_name": [
+        "Achillea filipendulina 'Parker's Variety'"
+      ],
+      "section": [
+        {
+          "id": 5974,
+          "type": "watering",
+          "description": "Water your Fern-leaf Yarrow every 7–10 days depending on the weather. Water it thoroughly, so that water runs out of the bottom of the pot, and allow the soil to almost dry out between watering. Reduce the frequency of watering in winter. If growing the plant indoors, generally reduce watering even more than you would for outdoor plants. Never allow your plant to sit in water, as this may lead to root rot."
+        },
+        {
+          "id": 5975,
+          "type": "sunlight",
+          "description": "Fern-leaf yarrow (Achillea filipendulina 'Parker's Variety') should be grown in full sunlight for at least 6 hours each day in order to flourish. It grows best in bright, sunny spots in the garden where it can receive direct sunlight for most of the day. Avoid growing this plant in areas with too much shade, as it will not thrive and may become leggy. "
+        },
+        {
+          "id": 5976,
+          "type": "pruning",
+          "description": "Fern-leaf yarrow (Achillea filipendulina 'Parker's Variety') should be pruned 2 times a year in order to maintain its vigorous growth. It is best to prune the plant lightly in the late winter or early spring, once the chance of frost passes, as this will provide it with an opportunity to begin new growth. Then, prune again in the mid to late summer to encourage continued growth throughout the season. The extent of pruning should be minimal, removing only the dead or dying foliage, as well as any extra branches or trunks."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

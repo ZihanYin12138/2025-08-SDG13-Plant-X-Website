@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1936,
+      "species_id": 493,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea 'Schwellenburg'"
+      ],
+      "section": [
+        {
+          "id": 6013,
+          "type": "watering",
+          "description": "Yarrow (Achillea 'Schwellenburg') should be watered when the top few inches of soil are dry. Aim to water deeply once a week in the summer months, and every 10 to 14 days during the cooler season. It is important to water the plant deeply to encourage strong root growth. Too much or too little water can lead to weak plants and yellow and wilted leaves. If the plant appears dry, water it thoroughly, allowing the water to fully penetrate the root ball."
+        },
+        {
+          "id": 6014,
+          "type": "sunlight",
+          "description": "Yarrow (Achillea 'Schwellenburg') is an attractive perennial plant that prefers full sun. The plant should be grown in an area that receives 6 to 8 hours of direct sunlight every day. When grown in partial shade, the plant may not flower as much as it would if grown in full sun. The best times for sunlight exposure for Yarrow are during the morning to mid afternoon, as during this period the sunlight is intense but not scorching."
+        },
+        {
+          "id": 6015,
+          "type": "pruning",
+          "description": "Yarrow (Achillea 'Schwellenburg') should be pruned twice a year during its dormant season. In late winter to early spring, pruning should be done lightly, removing any dead or damaged leaves or stems. This helps to promote healthy and compact growth. In midsummer, feed and prune heavily, removing non-flowering stems, dead or wilted flowers, and finished flower heads. This encourages fresh new blooms and helps to keep the plant in a compact shape. Make sure to not prune more than 1-third of the plant's stems in order to maintain a healthy balance."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
