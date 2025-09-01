@@ -1,0 +1,133 @@
+{
+  "id": 469,
+  "common_name": "Amur maple",
+  "scientific_name": [
+    "Acer tataricum subsp. ginnala 'Mandy' RED RHAPSODY"
+  ],
+  "other_name": [],
+  "family": "Sapindaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Mandy",
+  "variety": null,
+  "species_epithet": "tataricum",
+  "genus": "Acer",
+  "origin": [
+    "China",
+    "Russia",
+    "North Korea",
+    "Japan"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 25,
+      "max_value": 25,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Tissue Culture"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "3"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=469&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=469&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "branches",
+      "color": [
+        "red-brown"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "orange-red"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "August",
+    "February",
+    "March",
+    "April",
+    "June",
+    "July",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=469&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Amur Maple (Acer tataricum subsp. ginnala 'Mandy' RED RHAPSODY) is a stunning plant. It has a unique and intricate branching structure and gorgeous foliage. In spring the foliage has a deep purple hue that changes to a vibrant, scarlet-hued red in the fall. This tree is extremely hardy and easily adapts to various climates and soil conditions. It is also very low maintenance so it is ideal for a busy gardener. In addition to its outstanding beauty, Amur Maple also provides great shade throughout the summer months. It's a perfect choice for any landscape and its fiery foliage will add beauty to your home. It's no wonder why this tree has earned its nickname \"Red Rhapsody\".",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/469_acer_tataricum_subsp_ginnala_mandy_red_rhapsody/og/52134549579_196756d109_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/469_acer_tataricum_subsp_ginnala_mandy_red_rhapsody/regular/52134549579_196756d109_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/469_acer_tataricum_subsp_ginnala_mandy_red_rhapsody/medium/52134549579_196756d109_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/469_acer_tataricum_subsp_ginnala_mandy_red_rhapsody/small/52134549579_196756d109_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/469_acer_tataricum_subsp_ginnala_mandy_red_rhapsody/thumbnail/52134549579_196756d109_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

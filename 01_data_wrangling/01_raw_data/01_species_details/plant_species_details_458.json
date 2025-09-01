@@ -1,0 +1,119 @@
+{
+  "id": 458,
+  "common_name": "Japanese maple",
+  "scientific_name": [
+    "Acer palmatum 'Shishio Improved'"
+  ],
+  "other_name": [],
+  "family": "Sapindaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Shishio Improved",
+  "variety": null,
+  "species_epithet": "palmatum",
+  "genus": "Acer",
+  "origin": [
+    "Japan"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 6,
+      "max_value": 9,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Cutting",
+    "Air Layering Propagation",
+    "Tissue Culture"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=458&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=458&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "June",
+    "July",
+    "August",
+    "February",
+    "January",
+    "March",
+    "June",
+    "July",
+    "August",
+    "July",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=458&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The Japanese maple (Acer palmatum 'Shishio Improved') is an amazing plant species, featuring stunning foliage and a graceful form. With its delicate, lacy leaves and graceful shape, it adds a graceful and elegant feel to any garden. In the spring and summer, the bright red-green leaves add a splash of vibrant color to the landscape while in the fall they turn a gorgeous crimson hue. It is also very versatile, thriving in a variety of climates and soil types. With its low maintenance and slow, upright growth habit, it is perfect for small spaces. In short, the Japanese maple (Acer palmatum 'Shishio Improved') is a must-have for any landscaping project and an invaluable addition to any garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/458_acer_palmatum_shishio_improved/og/51150061025_29f690d490_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/458_acer_palmatum_shishio_improved/regular/51150061025_29f690d490_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/458_acer_palmatum_shishio_improved/medium/51150061025_29f690d490_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/458_acer_palmatum_shishio_improved/small/51150061025_29f690d490_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/458_acer_palmatum_shishio_improved/thumbnail/51150061025_29f690d490_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

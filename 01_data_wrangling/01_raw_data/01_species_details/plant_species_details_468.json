@@ -1,0 +1,140 @@
+{
+  "id": 468,
+  "common_name": "sugar maple",
+  "scientific_name": [
+    "Acer saccharum 'Sweet Shadow'"
+  ],
+  "other_name": [
+    "Hard Maple",
+    "Rock Maple",
+    "Hard Maple",
+    "Bird's Eye Maple",
+    "Curly Maple",
+    "Sweet Maple",
+    "Northern Sugar Maple",
+    "Head Maple"
+  ],
+  "family": "Sapindaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Sweet Shadow",
+  "variety": null,
+  "species_epithet": "saccharum",
+  "genus": "Acer",
+  "origin": [
+    "Canada",
+    "United States"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 50,
+      "max_value": 50,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Tissue Culture"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "4"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=468&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=468&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"6-8\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "branches",
+      "color": [
+        "gray-brown"
+      ]
+    },
+    {
+      "part": "trunk",
+      "color": [
+        "gray-brown"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "red-green",
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=468&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sand",
+    " Loam",
+    " Humus Enriched"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": true,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The Sugar Maple (Acer saccharum 'Sweet Shadow') is an amazing tree with many attractive features. It is a medium-sized tree that is incredibly hardy and has beautiful dark green foliage during the summer months which changes to a vivid yellow, orange, and red in the fall. The Sugar Maple produces an abundance of sap which makes it an excellent choice for producing delicious maple syrup. In addition, its stately upright branches provide excellent shade and it is a great choice for providing food and shelter for a variety of wildlife. All in all, the Sugar Maple is an excellent choice if you want a tree with numerous aesthetic and practical benefits.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/468_acer_saccharum_sweet_shadow/og/26470317439_86f0498e17_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/468_acer_saccharum_sweet_shadow/regular/26470317439_86f0498e17_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/468_acer_saccharum_sweet_shadow/medium/26470317439_86f0498e17_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/468_acer_saccharum_sweet_shadow/small/26470317439_86f0498e17_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/468_acer_saccharum_sweet_shadow/thumbnail/26470317439_86f0498e17_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,113 @@
+{
+  "id": 453,
+  "common_name": "Freeman maple",
+  "scientific_name": [
+    "Acer freemanii 'Marmo'"
+  ],
+  "other_name": [],
+  "family": "Sapindaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Marmo",
+  "variety": null,
+  "species_epithet": "freemanii",
+  "genus": "Acer",
+  "origin": [
+    "United States"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 45,
+      "max_value": 70,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Root Division"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=453&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=453&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=453&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Freeman maple, or Acer freemanii 'Marmo' is a stunning maple tree with its bright autumn foliage, highly attractive throughout the season. This maple tree is fast-growing and creates a bold statement in any garden. It produces a fine grain with a deep reddish-brown color that stands out from the lush green of the surrounding landscape. Its bark is also deeply furrowed, with a dark gray to black color. It promotes wildlife habitats, and its dense canopy provides a perfect refuge for birds, squirrels, and other small animals. Its wide range of adaptability across many soil types, cold climates, and urban hardscapes make the Freeman maple an excellent choice for the home garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/453_acer_freemanii_marmo/og/46333073481_5ae76108c6_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/453_acer_freemanii_marmo/regular/46333073481_5ae76108c6_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/453_acer_freemanii_marmo/medium/46333073481_5ae76108c6_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/453_acer_freemanii_marmo/small/46333073481_5ae76108c6_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/453_acer_freemanii_marmo/thumbnail/46333073481_5ae76108c6_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

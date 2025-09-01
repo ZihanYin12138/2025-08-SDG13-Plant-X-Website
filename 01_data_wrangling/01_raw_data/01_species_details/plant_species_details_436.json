@@ -1,0 +1,131 @@
+{
+  "id": 436,
+  "common_name": "bear's breeches",
+  "scientific_name": [
+    "Acanthus hungaricus"
+  ],
+  "other_name": [],
+  "family": "Acanthaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "hungaricus",
+  "genus": "Acanthus",
+  "origin": [
+    "Southeastern Europe"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Seed Propagation",
+    "Cutting"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=436&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=436&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flower",
+      "color": [
+        "white-brown"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "August",
+    "March",
+    "April",
+    "August",
+    "May"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=436&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": true,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Bear's Breeches (Acanthus hungaricus) is an ornamental plant whose mounds of foliage are as deep and as wide as its impressive flower spikes. Growing up to 1m in height, the stiff, glossy leaves are striped with attractive yellow veins and contrast nicely with the tall creamy-white flower spikes. Its intense but subtle aroma and eco-friendly livelihood has found it in high demand in many gardens. The combination of its vivid pastel shades, spiky flowers and wide, expansive foliage make it truly a sight to behold. Its flowers look like something out of a fairytale and its leaves have a waxy sheen. Bear's Breeches provides endless beauty to any garden and its delightful scent makes it an amazing complement to any landscape.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/436_acanthus_hungaricus/og/28238262895_1731e43303_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/436_acanthus_hungaricus/regular/28238262895_1731e43303_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/436_acanthus_hungaricus/medium/28238262895_1731e43303_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/436_acanthus_hungaricus/small/28238262895_1731e43303_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/436_acanthus_hungaricus/thumbnail/28238262895_1731e43303_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,129 @@
+{
+  "id": 452,
+  "common_name": "snakebark maple",
+  "scientific_name": [
+    "Acer conspicuum 'Phoenix'"
+  ],
+  "other_name": [],
+  "family": "Sapindaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Phoenix",
+  "variety": null,
+  "species_epithet": "conspicuum",
+  "genus": "Acer",
+  "origin": [
+    "Japan"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 13,
+      "max_value": 16,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Tissue Culture"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=452&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=452&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green-yellow"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "red-green",
+        "red"
+      ]
+    },
+    {
+      "part": "leaf",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=452&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The Snakebark Maple (Acer conspicuum 'Phoenix') is an absolute showstopper! It boasts beautiful, variegated leaves in shades of yellow, orange, and green with an interesting snake-like pattern on its bark. This maple prefers to be planted in sheltered areas with moist, well-drained soils, but still makes a great landscape accent when planted in exposed areas. In the summer and autumn it shows off its stunning foliage as it turns from light yellow to intense orange and red hues. And during the winter months, its bark provides beauty and visual interest. If you're looking for an unusual and eye-catching addition to your landscape, look no further than the Snakebark Maple.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/452_acer_conspicuum_phoenix/og/4847364629_825daaff21_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/452_acer_conspicuum_phoenix/regular/4847364629_825daaff21_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/452_acer_conspicuum_phoenix/medium/4847364629_825daaff21_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/452_acer_conspicuum_phoenix/small/4847364629_825daaff21_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/452_acer_conspicuum_phoenix/thumbnail/4847364629_825daaff21_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

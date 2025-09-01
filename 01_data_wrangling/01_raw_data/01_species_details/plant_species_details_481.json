@@ -1,0 +1,109 @@
+{
+  "id": 481,
+  "common_name": "yarrow",
+  "scientific_name": [
+    "Achillea millefolium 'Desyel' DESERT EVE YELLOW"
+  ],
+  "other_name": [],
+  "family": "Asteraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Desyel",
+  "variety": null,
+  "species_epithet": "millefolium",
+  "genus": "Achillea",
+  "origin": [
+    "Europe",
+    "western Asia",
+    "North America"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=481&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=481&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=481&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Loamy Clay"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Mildew",
+    " Rust",
+    "  Pest resistant",
+    " Deer resistant",
+    " Rabbit resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Summer",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "DESERT EVE YELLOW yarrow is a showy perennial that stands out in any garden. It makes an excellent border, and its deep yellow daisy-like flowers can be a treat for both the senses and the garden. Its long-lasting blooms stay bright and cheerful from the midsummer to the first hard frost. Its heart-shaped evergreen foliage makes a great backdrop for any landscape. This drought-tolerant plant is ideal for sunny spots and is resistant to deer. It can also be used as cut flowers, as the blooms last a few days in water. DESERT EVE YELLOW yarrow is an essential addition to any flowerbed or border.",
+  "default_image": null,
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

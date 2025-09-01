@@ -1,0 +1,135 @@
+{
+  "id": 405,
+  "common_name": "glossy abelia",
+  "scientific_name": [
+    "Abelia grandiflora 'Panache' SILVER ANNIVERSARY"
+  ],
+  "other_name": [],
+  "family": "Caprifoliaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Panache",
+  "variety": null,
+  "species_epithet": "grandiflora",
+  "genus": "Abelia",
+  "origin": [
+    "China"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=405&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=405&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stems",
+      "color": [
+        "red"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green-yellow"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "white"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=405&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Glossy Abelia (Abelia grandiflora 'Panache' SILVER ANNIVERSARY) is an amazing plant species. It has lush, deep green foliage with silver undersides that creates an eye-catching effect year-round. During summer, it blooms beautiful clusters of fragrant white and pink flowers. This award-winning variety of Abelia Grandiflora is incredibly versatile, and can be grown as a shrub or a specimen. It's drought-tolerant and can even been grown in containers. It's a low maintenance plant and the perfect addition to any garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/405_abelia_grandiflora_panache_silver_anniversary/og/24864929776_d7cf2968b6_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/405_abelia_grandiflora_panache_silver_anniversary/regular/24864929776_d7cf2968b6_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/405_abelia_grandiflora_panache_silver_anniversary/medium/24864929776_d7cf2968b6_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/405_abelia_grandiflora_panache_silver_anniversary/small/24864929776_d7cf2968b6_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/405_abelia_grandiflora_panache_silver_anniversary/thumbnail/24864929776_d7cf2968b6_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

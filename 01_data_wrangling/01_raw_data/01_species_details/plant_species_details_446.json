@@ -1,0 +1,132 @@
+{
+  "id": 446,
+  "common_name": "hedge maple",
+  "scientific_name": [
+    "Acer campestre 'Evelyn' QUEEN ELIZABETH"
+  ],
+  "other_name": [],
+  "family": "Sapindaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Evelyn",
+  "variety": null,
+  "species_epithet": "campestre",
+  "genus": "Acer",
+  "origin": [
+    "Europe",
+    "western Asia"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 25,
+      "max_value": 35,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Air Layering Propagation",
+    "Division"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=446&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=446&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "red"
+      ]
+    },
+    {
+      "part": "branch",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "December",
+    "January",
+    "February"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=446&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Hedge Maple (Acer campestre 'Evelyn' QUEEN ELIZABETH) is an amazing species of maple tree beloved by many gardeners and landscapers. The tree offers eye-catching green foliage, displaying clusters of yellow flowers in spring and vibrant orange-bronze leaves in fall. In addition to its ornamental appeal, Hedge Maple is a resilient tree, able to adapt to various conditions and grow in sun or shade. The hardy tree is also low-maintenance and slow-growing, making it ideal for growing along hedgerows for a lush and dramatic look. With its attractive foliage and versatile growth habit, Hedge Maple (Acer campestre 'Evelyn' QUEEN ELIZABETH) is an ideal choice for any garden.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/446_acer_campestre_evelyn_queen_elizabeth/og/50573659347_5a5bbb0e30_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/446_acer_campestre_evelyn_queen_elizabeth/regular/50573659347_5a5bbb0e30_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/446_acer_campestre_evelyn_queen_elizabeth/medium/50573659347_5a5bbb0e30_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/446_acer_campestre_evelyn_queen_elizabeth/small/50573659347_5a5bbb0e30_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/446_acer_campestre_evelyn_queen_elizabeth/thumbnail/50573659347_5a5bbb0e30_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

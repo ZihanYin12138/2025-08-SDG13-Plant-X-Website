@@ -1,0 +1,142 @@
+{
+  "id": 489,
+  "common_name": "yarrow",
+  "scientific_name": [
+    "Achillea millefolium 'Saucy Seduction'"
+  ],
+  "other_name": [],
+  "family": "Asteraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Saucy Seduction",
+  "variety": null,
+  "species_epithet": "millefolium",
+  "genus": "Achillea",
+  "origin": [
+    "Europe",
+    "western Asia",
+    "North America"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=489&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=489&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "pink-white"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=489&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Loamy Clay"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Mildew",
+    " Rust",
+    "  Pest resistant",
+    " Deer resistant",
+    " Rabbit resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Summer",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Yarrow (Achillea millefolium 'Saucy Seduction') is a perennial flower that is perfect for cutting gardens and patios. Its delicate, fragrant blooms come in a mix of deep magenta, pink and purple and attract butterflies and hummingbirds. This hardy plant is also an excellent choice for dry gardens as it has good drought tolerance. Its well-branched, upright habit makes it ideal for groundcover, rock gardens, cottage-style gardens, and may even be used as a border. It is deer resistant and easy to maintain—just prune lightly after blooming. Yarrow's unique beauty, easy care, and versatility make it an amazing addition to any garden!",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/489_achillea_millefolium_saucy_seduction/og/5147860510_c54d44e5f5_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/489_achillea_millefolium_saucy_seduction/regular/5147860510_c54d44e5f5_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/489_achillea_millefolium_saucy_seduction/medium/5147860510_c54d44e5f5_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/489_achillea_millefolium_saucy_seduction/small/5147860510_c54d44e5f5_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/489_achillea_millefolium_saucy_seduction/thumbnail/5147860510_c54d44e5f5_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
