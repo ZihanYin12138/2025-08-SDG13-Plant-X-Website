@@ -5,12 +5,12 @@ const routes = [
   {
     path: '/',
     name: 'Home',
-    component: () => import('../views/Home.vue')
+    component: () => import('../views/HomePage.vue')
   },
   {
     path: '/garden',
     name: 'Garden',
-    component: () => import('../views/Garden.vue')
+    component: () => import('../views/GardenPage.vue')
   },
   {
     path: '/urbanwild',
@@ -20,7 +20,7 @@ const routes = [
   {
     path: '/community',
     name: 'Community',
-    component: () => import('../views/Community.vue'),
+    component: () => import('../views/CommunityPage.vue'),
   },
 ];
 

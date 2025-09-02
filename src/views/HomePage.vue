@@ -16,7 +16,7 @@
           they remind us that caring for our own garden is also caring for the planet.
         </p>
         <div class="hero-cta">
-          <RouterLink class="btn btn-primary" to="/Garden">Explore</RouterLink>
+          <RouterLink class="btn btn-primary" to="/garden">Explore</RouterLink>
         </div>
       </div>
       <div class="img-col">
