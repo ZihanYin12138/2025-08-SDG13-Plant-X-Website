@@ -1,5 +1,43 @@
-<script setup>
+<script setup lang="ts">
+import { onMounted, onBeforeUnmount, ref } from 'vue'
+import { fetchPlants, type Plant } from '@/api/plants'
+import PlantCard from '@/components/PlantCard.vue'
+import PlantCardSkeleton from '@/components/PlantCardSkeleton.vue'
 
+const plants = ref<Plant[]>([])
+const loading = ref(true)
+const error = ref('')
+
+let ctrl: AbortController | null = null
+
+function thumbStyle(url: string) {
+  return {
+    backgroundImage: `url('${url}')`,
+    backgroundSize: 'cover',
+    backgroundPosition: 'center',
+    aspectRatio: '4 / 3',
+    borderRadius: '8px'
+  } as any
+}
+
+async function load() {
+  loading.value = true
+  error.value = ''
+  if (ctrl) ctrl.abort()
+  ctrl = new AbortController()
+
+  try {
+    const { items } = await fetchPlants({ page: 1, page_size: 8 })
+    plants.value = items
+  } catch (e: any) {
+    if (e.name !== 'AbortError') error.value = e.message || String(e)
+  } finally {
+    loading.value = false
+  }
+}
+
+onMounted(load)
+onBeforeUnmount(() => ctrl?.abort())
 </script>
 
 
@@ -105,53 +143,24 @@
 
   <!-- plant list -->
   <section id="plants" class="section container">
-    <h2 class="title">We have tons of plants data</h2>
-    <div class="seeall">
-        <a class="btn btn-ghost" href="#plants">See all</a>
-    </div>
+      <h2 class="title">We have tons of plants data</h2>
+      <div class="seeall">
+        <!-- 跳转到你的“全部列表页”（/garden 或 /plants 的别名） -->
+        <RouterLink class="btn btn-ghost" to="/allplants">See all</RouterLink>
+      </div>
+
     <div class="plants-grid">
-      <article class="plant">
-        <div class="thumb" aria-label="American Burnweed image placeholder"></div>
-        <h4>American Burnweed</h4>
-        <p class="latin">Erechtites hieraclifolius</p>
-      </article>
-      <article class="plant">
-        <div class="thumb"></div>
-        <h4>Pilea Dark Mystery</h4>
-        <p class="latin">Pilea involucrata</p>
-      </article>
-      <article class="plant">
-        <div class="thumb"></div>
-        <h4>Phillipine Evergreen</h4>
-        <p class="latin">Aglaonema commutatum</p>
-      </article>
-      <article class="plant">
-        <div class="thumb"></div>
-        <h4>European Cypress</h4>
-        <p class="latin">Cupressus sempervirens</p>
-      </article>
-      <article class="plant">
-        <div class="thumb"></div>
-        <h4>Lawyer's Tongue</h4>
-        <p class="latin">Gasteria</p>
-      </article>
-      <article class="plant">
-        <div class="thumb"></div>
-        <h4>Big Leaf Philodendron</h4>
-        <p class="latin">Philodendron maximum</p>
-      </article>
-      <article class="plant">
-        <div class="thumb"></div>
-        <h4>Hebe Plant</h4>
-        <p class="latin">Hebe andersonii</p>
-      </article>
-      <article class="plant">
-        <div class="thumb"></div>
-        <h4>Teddy Bear Vine</h4>
-        <p class="latin">Cyanotis beddomei</p>
-      </article>
+      <!-- 骨架屏 -->
+      <template v-if="loading">
+        <PlantCardSkeleton v-for="n in 8" :key="'s'+n" />
+      </template>
+
+      <p v-else-if="error" class="error">加载失败：{{ error }}</p>
+
+      <PlantCard v-else v-for="p in plants" :key="p.id" :plant="p" />
     </div>
   </section>
+
 </template>
 
 
@@ -183,5 +192,15 @@
 .plant .latin{color:var(--muted);font-size:.9rem}
 
 .divider-red{border:0;height:3px;background:linear-gradient(90deg,#ff3b3b,#ff9a3b);margin:0}
+
+/*.plants-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 1rem; }
+.plant { display: grid; gap: .25rem; }
+.thumb { width: 100%; background: #eee; }
+.latin { color: #666; font-style: italic; }
+.error { color: #c00; }
+
+/* 骨架屏 
+.skeleton .thumb { background: #f1f1f1; height: 0; padding-bottom: 75%; border-radius: 8px; }
+.skeleton h4, .skeleton .latin { height: 12px; background: #f6f6f6; border-radius: 6px; } */
 </style>
 
