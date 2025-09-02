@@ -1,11 +1,5 @@
 <script setup>
-import { ref } from 'vue'
-const email = ref('')
-const name = ref('')
-const onSubmit = () => {
-// Placeholder — here you would POST to your API with CSRF and validation
-alert(`Welcome, ${name.value}! Check your inbox at ${email.value}.`)
-}
+
 </script>
 
 <template>

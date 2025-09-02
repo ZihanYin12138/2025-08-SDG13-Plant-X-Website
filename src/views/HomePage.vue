@@ -16,12 +16,17 @@
           they remind us that caring for our own garden is also caring for the planet.
         </p>
         <div class="hero-cta">
-          <RouterLink class="btn btn-primary" to="/Garden">Explore</RouterLink>
+          <RouterLink class="btn btn-primary" to="/garden">Explore</RouterLink>
         </div>
       </div>
       <div class="img-col">
-        <div class="img-placeholder" aria-label="Hero image placeholder">Add image here</div>
+        <img src="@/assets/home 1.png" />
       </div>
+    </div>
+  </section>
+  <section class="section container">
+    <div>
+      <img src="@/assets/home 2.png" />
     </div>
   </section>
 
@@ -55,7 +60,7 @@
 
       </div>
       <div class="img-col">
-        <div class="img-placeholder" aria-label="Data illustration placeholder">Add image here</div>
+        <img src="@/assets/SDG 13.png" />
       </div>
     </div>
   </section>
@@ -67,7 +72,7 @@
   <section class="section container">
     <div class="grid cards">
       <article class="card">
-        <div class="img-placeholder small" aria-label="Garden feature image placeholder">Image</div>
+        <img src="@/assets/h gps.png" />
         <h3>Garden Plant Support</h3>
         <p>
             Our Garden Plant Support feature offers personalized care guidance to help you easily monitor and maintain the health of your plants, 
@@ -76,16 +81,16 @@
         <RouterLink class="btn btn-ghost" to="/garden">Learn more →</RouterLink>
       </article>
       <article class="card">
-        <div class="img-placeholder small" aria-label="Urban & Wild feature image placeholder">Image</div>
+        <img src="@/assets/h U&W.png" />
         <h3>Explore Urban & Wild Forest</h3>
         <p>
             The "Explore Urban & Wild Forest feature helps users discover native plant species and their ecological roles in urban and forest environments, 
-            aiding in better garden plant choices.
+            aiding in better garden plant choices.   
         </p>
         <RouterLink class="btn btn-ghost" to="/urbanwild">Learn more →</RouterLink>
       </article>
       <article class="card">
-        <div class="img-placeholder small" aria-label="Community feature image placeholder">Image</div>
+        <img src="@/assets/h jc.png" />
         <h3>Join Community Activity</h3>
         <p>
             The "Join Community Activity feature connects gardening enthusiasts to share experiences, 
@@ -96,23 +101,6 @@
     </div>
   </section>
 
-
-  <hr class="divider-red" aria-hidden="true" />
-
-
-  <section class="section container">
-    <div class="callout">
-      <div>
-        <h2 class="title">Supporting climate action</h2>
-        <p class="lead">
-          Caring for personal plants is more than just a hobby. Urban greenery builds climate resilience, while wild plants protect biodiversity — caring for our own garden is also caring for the planet.
-        </p>
-      </div>
-      
-    </div>
-  </section>
-
-  
   <hr class="divider-red" aria-hidden="true" />
 
   <!-- plant list -->
