@@ -1,41 +1,58 @@
 # common/db_utils.py
 from __future__ import annotations
 import json
-import pymysql
 from typing import Any, Dict, Iterable, List, Optional, Tuple
+
+import mysql.connector
+from mysql.connector import Error
+
 from .config import env_str, env_int
 
-# 环境变量配置（支持 RDS Proxy）
+# -----------------------------
+# 环境变量（把同事给你的配置填到 Lambda 环境变量里）
+# 例：
+#   DB_HOST=database-plantx.cqz06uycysiz.us-east-1.rds.amazonaws.com
+#   DB_USER=zihan
+#   DB_PASSWORD=********
+#   DB_NAME=FIT5120_PlantX_Database
+#   DB_PORT=3306
+# -----------------------------
 DB_HOST = env_str("DB_HOST", required=True)
 DB_USER = env_str("DB_USER", required=True)
 DB_PASSWORD = env_str("DB_PASSWORD") or env_str("DB_PASS", required=True)
 DB_NAME = env_str("DB_NAME", required=True)
 DB_PORT = env_int("DB_PORT", "3306")
 
-# 连接复用（冷启动后缓存）
-_conn: Optional[pymysql.connections.Connection] = None
+# 可按需暴露开关（与同事给的配置对齐）
+# mysql-connector 的 Python 版选项
+ALLOW_LOCAL_INFILE = True     # 同事给的 allow_local_infile=True
+USE_PURE = True               # 同事给的 use_pure=True
 
-def get_connection() -> pymysql.connections.Connection:
-    """Get a reusable MySQL connection (auto-reconnect)."""
+# 连接复用（冷启动后缓存）
+_conn: Optional[mysql.connector.connection.MySQLConnection] = None
+
+def get_connection() -> mysql.connector.connection.MySQLConnection:
+    """
+    获取可复用的 MySQL 连接；若断开则自动重连。
+    注意：在高并发下更推荐使用 RDS Proxy 或 mysql.connector.pooling 连接池。
+    """
     global _conn
-    if _conn is None:
-        _conn = pymysql.connect(
-            host=DB_HOST,
-            user=DB_USER,
-            password=DB_PASSWORD,
-            database=DB_NAME,
-            port=DB_PORT,
-            autocommit=True,
-            connect_timeout=10,
-            cursorclass=pymysql.cursors.DictCursor,
-        )
-        return _conn
     try:
-        _conn.ping(reconnect=True)
-    except Exception:
+        if _conn is None or not _conn.is_connected():
+            _conn = mysql.connector.connect(
+                host=DB_HOST,
+                user=DB_USER,
+                password=DB_PASSWORD,
+                database=DB_NAME,
+                port=DB_PORT,
+                allow_local_infile=ALLOW_LOCAL_INFILE,
+                use_pure=USE_PURE,
+                autocommit=True,   # 保持与之前行为一致
+            )
+        return _conn
+    except Error as e:
         _conn = None
-        return get_connection()
-    return _conn
+        raise e
 
 def _maybe_parse_json(val: Any) -> Any:
     if isinstance(val, str):
@@ -47,39 +64,54 @@ def _maybe_parse_json(val: Any) -> Any:
                 return val
     return val
 
-def fetch_all(sql: str, params: Optional[Tuple[Any, ...]] = None) -> List[Dict[str, Any]]:
-    conn = get_connection()
-    with conn.cursor() as cur:
-        cur.execute(sql, params or ())
-        rows = cur.fetchall()
-        return [_postprocess_row(r) for r in rows]
-
-def fetch_one(sql: str, params: Optional[Tuple[Any, ...]] = None) -> Optional[Dict[str, Any]]:
-    conn = get_connection()
-    with conn.cursor() as cur:
-        cur.execute(sql, params or ())
-        row = cur.fetchone()
-        return _postprocess_row(row) if row else None
-
-def execute(sql: str, params: Optional[Tuple[Any, ...]] = None) -> int:
-    """Execute DML (INSERT/UPDATE/DELETE). Returns affected rows."""
-    conn = get_connection()
-    with conn.cursor() as cur:
-        affected = cur.execute(sql, params or ())
-        return int(affected)
-
-def executemany(sql: str, seq_params: Iterable[Tuple[Any, ...]]) -> int:
-    conn = get_connection()
-    with conn.cursor() as cur:
-        affected = cur.executemany(sql, seq_params)
-        return int(affected)
-
 def _postprocess_row(row: Dict[str, Any]) -> Dict[str, Any]:
     # 可按需对潜在 JSON 字段做自动解析
     out = {}
     for k, v in row.items():
         out[k] = _maybe_parse_json(v)
     return out
+
+def fetch_all(sql: str, params: Optional[Tuple[Any, ...]] = None) -> List[Dict[str, Any]]:
+    conn = get_connection()
+    cur = conn.cursor(dictionary=True)
+    try:
+        cur.execute(sql, params or ())
+        rows = cur.fetchall() or []
+        return [_postprocess_row(r) for r in rows]
+    finally:
+        cur.close()
+
+def fetch_one(sql: str, params: Optional[Tuple[Any, ...]] = None) -> Optional[Dict[str, Any]]:
+    conn = get_connection()
+    cur = conn.cursor(dictionary=True)
+    try:
+        cur.execute(sql, params or ())
+        row = cur.fetchone()
+        return _postprocess_row(row) if row else None
+    finally:
+        cur.close()
+
+def execute(sql: str, params: Optional[Tuple[Any, ...]] = None) -> int:
+    """
+    执行 DML（INSERT/UPDATE/DELETE），返回受影响行数。
+    autocommit=True 已开启；若你想手动事务，可把 autocommit 关掉并在这里 commit/rollback。
+    """
+    conn = get_connection()
+    cur = conn.cursor()
+    try:
+        cur.execute(sql, params or ())
+        return int(cur.rowcount or 0)
+    finally:
+        cur.close()
+
+def executemany(sql: str, seq_params: Iterable[Tuple[Any, ...]]) -> int:
+    conn = get_connection()
+    cur = conn.cursor()
+    try:
+        cur.executemany(sql, list(seq_params))
+        return int(cur.rowcount or 0)
+    finally:
+        cur.close()
 
 # ---- 示例业务函数（可直接在 handler 里调用） ----
 def get_plant_by_general_id(gid: int) -> Optional[Dict[str, Any]]:

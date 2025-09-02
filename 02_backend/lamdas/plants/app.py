@@ -1,58 +1,25 @@
 # lambdas/plants/app.py
 from __future__ import annotations
-import mysql.connector
-from mysql.connector import Error
-from typing import Any, Dict, Optional
+from typing import Any, Dict
 
 from common import (
     ok, bad_request, not_found, server_error,
-    query_param
+    query_param,
+    get_plant_by_general_id, search_plants_by_name, fetch_all
 )
 
-# ---- 数据库连接配置 ----
-db_config = {
-    'host': 'database-plantx.cqz06uycysiz.us-east-1.rds.amazonaws.com',
-    'user': 'zihan',
-    'password': '2002317Yzh12138.',
-    'database': 'FIT5120_PlantX_Database',
-    'allow_local_infile': True,
-    'use_pure': True
-}
-
-_conn: Optional[mysql.connector.connection.MySQLConnection] = None
-
-def get_connection():
-    """获取可复用的 MySQL 连接"""
-    global _conn
+def _to_int(s: str | None, default: int) -> int:
     try:
-        if _conn is None or not _conn.is_connected():
-            _conn = mysql.connector.connect(**db_config)
-        return _conn
-    except Error as e:
-        _conn = None
-        raise e
+        return int(s) if s is not None else default
+    except Exception:
+        return default
 
-def fetch_one(sql: str, params: tuple) -> Optional[Dict[str, Any]]:
-    conn = get_connection()
-    cur = conn.cursor(dictionary=True)
-    cur.execute(sql, params)
-    row = cur.fetchone()
-    cur.close()
-    return row
-
-def fetch_all(sql: str, params: tuple = ()) -> list[Dict[str, Any]]:
-    conn = get_connection()
-    cur = conn.cursor(dictionary=True)
-    cur.execute(sql, params)
-    rows = cur.fetchall()
-    cur.close()
-    return rows
-
-# ---- Lambda 入口 ----
 def handler(event: Dict[str, Any], context):
     """
-    - GET /plants?general_plant_id=1  -> 查单条
-    - GET /plants?q=maple&limit=20    -> 模糊查
+    支持的请求方式：
+    - GET /plants?general_plant_id=1         → 按 ID 精确查一条
+    - GET /plants?q=maple&limit=20&offset=0  → 按名字模糊查（common_name / scientific_name）
+    - GET /plants?limit=20&offset=0          → 列表（不带 q/id）
     """
     try:
         method = event.get("requestContext", {}).get("http", {}).get("method", "")
@@ -61,37 +28,34 @@ def handler(event: Dict[str, Any], context):
         if method != "GET" or not path.startswith("/plants"):
             return bad_request({"message": f"Unsupported route: {method} {path}"})
 
-        gid   = query_param(event, "general_plant_id")
-        q     = query_param(event, "q")
-        limit = int(query_param(event, "limit", "20"))
+        # ---- 参数解析 ----
+        gid    = query_param(event, "general_plant_id")
+        q      = query_param(event, "q")
+        limit  = _to_int(query_param(event, "limit"), 20)
+        offset = _to_int(query_param(event, "offset"), 0)
 
-        # ---- 按 ID 查 ----
+        # ---- 按 ID 精确查 ----
         if gid:
-            row = fetch_one(
-                "SELECT * FROM Table01_PlantMainTable WHERE general_plant_id = %s",
-                (int(gid),)
-            )
+            try:
+                gid_int = int(gid)
+            except ValueError:
+                return bad_request({"message": "general_plant_id must be an integer"})
+            row = get_plant_by_general_id(gid_int)
             if not row:
                 return not_found({"message": "plant not found"})
             return ok(row)
 
-        # ---- 按关键字模糊查 ----
+        # ---- 按名字模糊搜索 ----
         if q:
-            like = f"%{q}%"
-            items = fetch_all(
-                "SELECT * FROM Table01_PlantMainTable "
-                "WHERE common_name LIKE %s OR scientific_name LIKE %s "
-                "LIMIT %s",
-                (like, like, limit)
-            )
-            return ok({"items": items, "limit": limit})
+            items = search_plants_by_name(q=q, limit=limit)
+            return ok({"items": items, "limit": limit, "offset": offset})
 
-        # ---- 默认列出前 N 条 ----
+        # ---- 默认：列表 ----
         items = fetch_all(
-            "SELECT * FROM Table01_PlantMainTable ORDER BY plant_id ASC LIMIT %s",
-            (limit,)
+            "SELECT * FROM Table01_PlantMainTable ORDER BY plant_id ASC LIMIT %s OFFSET %s",
+            (limit, offset)
         )
-        return ok({"items": items, "limit": limit})
+        return ok({"items": items, "limit": limit, "offset": offset})
 
     except Exception as e:
         return server_error({"message": f"internal error: {str(e)}"})
