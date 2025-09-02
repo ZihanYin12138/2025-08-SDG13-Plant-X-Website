@@ -1,0 +1,117 @@
+openapi: 3.0.1
+info:
+  title: PlantX HTTP API
+  version: 1.0.0
+
+x-amazon-apigateway-importexport-version: "1.0"
+
+# 顶层 CORS（API Gateway 自动生成 OPTIONS）
+x-amazon-apigateway-cors:
+  allowOrigins:
+    - "*"
+  allowHeaders:
+    - Content-Type
+    - Authorization
+    - X-Requested-With
+  allowMethods:
+    - GET
+    - POST
+    - PUT
+    - DELETE
+    - OPTIONS
+  maxAge: 3600
+
+# 可选：启用二进制媒体（若将来直接返图片等）
+x-amazon-apigateway-binary-media-types:
+  - "image/*"
+  - "application/octet-stream"
+
+paths:
+  /plants:
+    get:
+      summary: Get plants by id / search / list
+      parameters:
+        - in: query
+          name: general_plant_id
+          schema: { type: integer }
+          required: false
+        - in: query
+          name: q
+          schema: { type: string }
+          required: false
+        - in: query
+          name: limit
+          schema: { type: integer, default: 20 }
+          required: false
+        - in: query
+          name: offset
+          schema: { type: integer, default: 0 }
+          required: false
+      responses:
+        "200":
+          description: OK
+      x-amazon-apigateway-integration:
+        payloadFormatVersion: "2.0"
+        type: aws_proxy
+        httpMethod: POST
+        uri: arn:aws:apigateway:${REGION}:lambda:path/2015-03-31/functions/arn:aws:lambda:${REGION}:${ACCOUNT_ID}:function:${LAMBDA_PLANTS_NAME}/invocations
+
+  /assets/upload:
+    post:
+      summary: Generate presigned URLs for S3 upload
+      requestBody:
+        required: false
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                filename:
+                  type: string
+                  example: myfile.png
+      responses:
+        "200":
+          description: OK
+      x-amazon-apigateway-integration:
+        payloadFormatVersion: "2.0"
+        type: aws_proxy
+        httpMethod: POST
+        uri: arn:aws:apigateway:${REGION}:lambda:path/2015-03-31/functions/arn:aws:lambda:${REGION}:${ACCOUNT_ID}:function:${LAMBDA_ASSETS_NAME}/invocations
+
+  /assets/download:
+    get:
+      summary: Generate presigned URL for S3 download
+      parameters:
+        - in: query
+          name: key
+          schema: { type: string }
+          required: true
+      responses:
+        "200":
+          description: OK
+      x-amazon-apigateway-integration:
+        payloadFormatVersion: "2.0"
+        type: aws_proxy
+        httpMethod: POST
+        uri: arn:aws:apigateway:${REGION}:lambda:path/2015-03-31/functions/arn:aws:lambda:${REGION}:${ACCOUNT_ID}:function:${LAMBDA_ASSETS_NAME}/invocations
+
+  /classify:
+    post:
+      summary: Run image classification
+      requestBody:
+        required: false
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                s3_bucket: { type: string }
+                s3_key: { type: string }
+      responses:
+        "200":
+          description: OK
+      x-amazon-apigateway-integration:
+        payloadFormatVersion: "2.0"
+        type: aws_proxy
+        httpMethod: POST
+        uri: arn:aws:apigateway:${REGION}:lambda:path/2015-03-31/functions/arn:aws:lambda:${REGION}:${ACCOUNT_ID}:function:${LAMBDA_CLASSIFY_NAME}/invocations
