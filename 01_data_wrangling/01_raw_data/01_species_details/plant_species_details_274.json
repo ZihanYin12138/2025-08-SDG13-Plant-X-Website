@@ -1,0 +1,163 @@
+{
+  "id": 274,
+  "common_name": "Common Persimmon",
+  "scientific_name": [
+    "Diospyros virginiana"
+  ],
+  "other_name": [
+    "American Persimmon",
+    "Eastern Persimmon"
+  ],
+  "family": "Ebenaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "virginiana",
+  "genus": "Diospyros",
+  "origin": [
+    "Eastern and midwestern United States"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 40,
+      "max_value": 40,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation",
+    "Cutting",
+    "Air Layering Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "4"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=274&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=274&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stem",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "dark-green",
+        "green-red",
+        "green"
+      ]
+    },
+    {
+      "part": "fruits",
+      "color": [
+        "orange-yellow",
+        "yellow-orange"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "brown",
+        "gray-brown"
+      ]
+    },
+    {
+      "part": "twig",
+      "color": [
+        "gray-brown",
+        "brown"
+      ]
+    },
+    {
+      "part": "fruit",
+      "color": [
+        "orange-yellow",
+        "orange",
+        "yellow-green",
+        "yellow-orange"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "brown-gray"
+      ]
+    },
+    {
+      "part": "twigs",
+      "color": [
+        "brown-gray"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=274&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Common Persimmon (Diospyros virginiana) is an amazing species of deciduous tree. It has a lot to offer with its outstanding fall foliage, producing beautiful white blooms and clusters of orange fruit. The fruits are edible and can be eaten raw or cooked in a variety of delicious dishes. It's also a great choice for gardeners, providing an interesting and unique look to gardens with its bright green leaves, shiny bark, and small, deep burgundy-black fruits. Common Persimmon is a great and easy to take care of tree that can bring visual interest and delicious fruits to a landscape.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/274_diospyros_virginiana/og/49014714943_39e9d002d6_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/274_diospyros_virginiana/regular/49014714943_39e9d002d6_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/274_diospyros_virginiana/medium/49014714943_39e9d002d6_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/274_diospyros_virginiana/small/49014714943_39e9d002d6_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/274_diospyros_virginiana/thumbnail/49014714943_39e9d002d6_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 72,
+      "common_name": "Anthracnose",
+      "scientific_name": "Elsinoe spp.",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Anthracnose (Elsinoe spp.)?",
+          "description": "Anthracnose, caused by various species of fungus such as Elsinoë ampelina, is primarily a grape rot disease. It is commonly referred to as bird's-eye rot due to the distinctive appearance of the symptoms on the infected plants. It causes grey-centred spots with brown to black margins on young leaves, resembling a \"shot-through\" appearance. In addition, it can be highly destructive when it occurs in vineyards. "
+        },
+        {
+          "subtitle": "How does Anthracnose (Elsinoe spp.) occur?",
+          "description": "Anthracnose fungus survives winter in infected grape shoots, canes, and berries. In spring, rain facilitates the development and spread of conidia spores. Infected areas produce asexual fruiting bodies (acervuli) and conidia during wet weather, leading to secondary infections. Anthracnose is prevalent in regions with rainy, warm, and humid climates. "
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices",
+          "description": "1.\t Effective control relies on removing and destroying infected plant parts, eliminating nearby wild grape hosts, and implementing proper training systems and leaf removal to improve air circulation.\n2.\tChoosing grape varieties resistant to Anthracnose can help prevent or reduce disease incidence.\n3.\tAnthracnose thrives in rainy and warm weather. Monitoring temperature and precipitation patterns can help assess the risk of infection.\n4.\tUtilizing vineyard management support systems like vineyards can provide timely advice for disease control in your vineyard.\n"
+        },
+        {
+          "subtitle": "Chemical Control ",
+          "description": "Common fungicides used for controlling Anthracnose in grapevines include sulfur-based fungicides, copper-based fungicides, and synthetic fungicides containing active ingredients like azoxystrobin, boscalid, or pyraclostrobin. \nProper application following label instructions."
+        }
+      ],
+      "host": [
+        "caneberry"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/72_elsinoe_spp/og/15803235321_1fd37f67ae_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/72_elsinoe_spp/regular/15803235321_1fd37f67ae_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/72_elsinoe_spp/medium/15803235321_1fd37f67ae_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/72_elsinoe_spp/small/15803235321_1fd37f67ae_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/72_elsinoe_spp/thumbnail/15803235321_1fd37f67ae_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1617,
+      "species_id": 83,
+      "common_name": "Nuresagi Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Nuresagi'"
+      ],
+      "section": [
+        {
+          "id": 5056,
+          "type": "watering",
+          "description": "Nuresagi Japanese Maple should be watered 2 to 3 times per week, depending on the season and weather conditions. During spring and summer, when temperatures are warmer and rainfall more frequent, the soil should be kept constantly moist. If the weather turns dry, the watering frequency should be increased to 3 times a week. In autumn, as temperatures drop and rainfall decreases, reduce the waterings to twice a week. During winter, when the plant's growth slows, reduce the watering frequency to once a week—allowing the soil to dry out a bit between waterings."
+        },
+        {
+          "id": 5057,
+          "type": "sunlight",
+          "description": "Nuresagi Japanese Maple (Acer palmatum 'Nuresagi') requires full sun to partial shade in order to thrive, with approximately 6 to 8 hours of sunshine per day in the heaviest months being optimal for growth and health. Its best to avoid locations that receive constant direct sunlight, particularly during the hottest parts of the day, as the Nuresagi Japanese Maple can become stressed and suffer serious damage if exposed to prolonged overexposure to the sun. In the mornings and late afternoons, however, more direct sunlight is acceptable."
+        },
+        {
+          "id": 5058,
+          "type": "pruning",
+          "description": "Pruning a Nuresagi Japanese Maple should be done after the tree has finished blooming, typically in late spring or early summer. It's important to wait until the new shoots have developed before pruning. The Nuresagi Japanese Maple should only be lightly pruned to reduce its overall size and maintain its shape, rather than to eliminate dead or damaged branches. Only remove up to 1-third of the plant each season to maintain its shape. Using sharp pruning shears, trim back branches to a smaller, secondary or tertiary branch. This will encourage dense growth. After pruning, prune off the remaining stubs close to the main trunk or branch for a nicer appearance."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

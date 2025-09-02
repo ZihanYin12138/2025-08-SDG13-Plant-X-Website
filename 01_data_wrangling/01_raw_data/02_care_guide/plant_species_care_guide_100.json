@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1632,
+      "species_id": 100,
+      "common_name": "Pixie Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Pixie'"
+      ],
+      "section": [
+        {
+          "id": 5101,
+          "type": "watering",
+          "description": "Pixie Japanese Maples need moderate watering about once every 5 to 7 days. During the summer months, the soil should be kept moist while in winter, it's best to water them less frequently at every 10 to 14 days. Make sure the soil is allowed to dry out slightly between watering cycles. It's important to avoid over-watering Pixie Japanese Maples, as too much moisture can cause root rot and other fungal diseases."
+        },
+        {
+          "id": 5102,
+          "type": "sunlight",
+          "description": "Pixie Japanese Maples prefer an area with full sun to light shade. The trees will do well in a sunny location with a few hours of shade each day, preferably in the afternoon. During the summer months, they should receive 6-8 hours of direct sunlight daily, while in winter the amount of sunlight needed is reduced to 4-6 hours. It is important to provide adequate sun protection for the plants by planting in a location with at least partial afternoon shade. Early morning sun and late day sun are ideal for the optimal growth of the tree."
+        },
+        {
+          "id": 5103,
+          "type": "pruning",
+          "description": "Pixie Japanese Maple (Acer palmatum 'Pixie') should be pruned in early Spring, before the new growth begins. Pruning should involve thinning out overcrowded branches and removing any damaged or diseased branches. Deadwood should also be removed. Pruning should take place in 2 stages; lightly tip prune branches in early spring, and then cut back the plant further in late spring or early summer. It's best to avoid pruning the Pixie Japanese Maple any later than late summer, as this can reduce the amount of autumn foliage colour."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

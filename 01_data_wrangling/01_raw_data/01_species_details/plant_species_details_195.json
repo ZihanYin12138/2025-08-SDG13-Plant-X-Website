@@ -1,0 +1,139 @@
+{
+  "id": 195,
+  "common_name": "Pyramidal European Hornbeam",
+  "scientific_name": [
+    "Carpinus betulus 'Fastigiata'"
+  ],
+  "other_name": [
+    "Common Hornbeam"
+  ],
+  "family": "Betulaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Fastigiata",
+  "variety": null,
+  "species_epithet": "betulus",
+  "genus": "Carpinus",
+  "origin": [
+    "Europe",
+    "Asia"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 50,
+      "max_value": 50,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "5"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=195&size=og&key=sk-ACnv68b0630adff3b12096",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=195&size=og&key=sk-ACnv68b0630adff3b12096'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "trunk",
+      "color": [
+        "brown-colored",
+        "brown"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "brown-colored",
+        "green-brown"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "brown-green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "yellow-green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=195&key=sk-ACnv68b0630adff3b12096",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [
+    "Heteroptera - true bugs",
+    " Leafhopper",
+    "spittlebug",
+    "  Disease resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Pyramidal European Hornbeam (Carpinus betulus 'Fastigiata') is an amazing tree that is perfect for landscaping. This tree will add extra depth and definition to any outdoor area, as it forms a tall, conical shape that is both eye catching and aesthetically pleasing. It's a relatively low maintenance tree, only requiring occasional trimming and occasional fertilization. In addition to its beauty, this species has a durable, steadfast quality and can withstand tough weather conditions, such as wind, snow and ice. It is also very resilient and low allergy, making it a safe choice of tree for anyone with allergies.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/195_carpinus_betulus_fastigiata/og/49080668718_25410417d6_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/195_carpinus_betulus_fastigiata/regular/49080668718_25410417d6_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/195_carpinus_betulus_fastigiata/medium/49080668718_25410417d6_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/195_carpinus_betulus_fastigiata/small/49080668718_25410417d6_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/195_carpinus_betulus_fastigiata/thumbnail/49080668718_25410417d6_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1601,
+      "species_id": 63,
+      "common_name": "Iijima Sunago Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Iijima Sunago'"
+      ],
+      "section": [
+        {
+          "id": 5002,
+          "type": "watering",
+          "description": "The Iijima Sunago Japanese Maple should be watered moderately during the first year as it establishes itself. After the first year, water the plant weekly in spring, summer, and fall; and every other week during the winter. The amount of water should be adjusted based on the weather and soil conditions; in sandy soils, more water is needed, while in clay soils, less water is needed. Water thoroughly until the water runs out of the drainage holes in the bottom of the pot. Watering too much or too little can both cause damage to the plant. In general, giving the plant 1-2 inches of water per week should be sufficient. During periods of drought, more water may be needed."
+        },
+        {
+          "id": 5003,
+          "type": "sunlight",
+          "description": "The Iijima Sunago Japanese Maple (Acer palmatum 'Iijima Sunago') does best in a spot that receives at least 4 hours of direct sunlight each day. In most climates, morning sunlight is the best choice for this plant since it will help avoid the risk of sunburn. It can do well in partial shade, however, it is important to ensure it still receives adequate sunlight as this will help to maintain its shape and foliage coloration."
+        },
+        {
+          "id": 5004,
+          "type": "pruning",
+          "description": "Iijima Sunago Japanese Maple should be pruned in late winter or early spring before its new growth starts. Pruning should be minimal and generally confined to removing dead, diseased and crossing branches, and carefully thinning interior foliage to maintain an attractive, open shape. Avoid removing more than 1-third of the tree's foliage in any pruning session. Trim overgrown branches and shoots in a way that avoids creating jagged wounds. Avoid topping the tree as this will encourage weak, overly vigorous growth and reduce the tree's overall lifespan."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

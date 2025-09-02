@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 600,
+      "species_id": 358,
+      "common_name": "Cox's Orange Pippin Apple",
+      "scientific_name": [
+        "Malus 'Cox's Orange Pippin'"
+      ],
+      "section": [
+        {
+          "id": 1801,
+          "type": "watering",
+          "description": "When it comes to watering a Cox’s Orange Pippin Apple (Malus 'Cox's Orange Pippin'), you should water the soil around the tree deeply and thoroughly, making sure that you get the entire root area. You should also keep the soil moist but not wet. It is best to water 3 to 4 times per week, providing about 1-2 gallons of water per week, depending on the size of your tree and the temperature and dryness of the air. If the weather is particularly hot and dry, you might want to water more often. When it rains heavily, you should reduce or eliminate watering for that week. Keeping an eye on the top 2-3 inches of soil for signs of dryness will also help you ensure that your Cox’s Orange Pippin Apple gets enough water."
+        },
+        {
+          "id": 1802,
+          "type": "sunlight",
+          "description": "Cox's Orange Pippin Apple is best suited for a location that receives full sun, at least 6 to 8 hours of direct sunlight per day. The best months for harvesting this species of apple are usually late September to mid October. To ensure optimal fruit production, the trees should be exposed to a minimum of 8 hours of daily direct sunlight between the months of April and September. If the tree is not receiving enough sunlight, then its growth, blooming and fruit production will be affected."
+        },
+        {
+          "id": 1803,
+          "type": "pruning",
+          "description": "Cox's Orange Pippin Apple (Malus 'Cox's Orange Pippin') should be pruned in early spring, prior to bud break, to improve the shape and structure of the tree. Begin pruning when the tree is young (3 to 5 years old) by removing the central leader, or upward-growing center stem, and any crossing branches to ensure a strong and open framework. Once the central leader is established, remove any broken or dead branches and any water sprouts, or vigorous upward-growing shoots, that grow off of the main stems or branches. Once the tree is established, continue to prune lightly each spring and also prune in late summer to maintain a desirable, healthy plant shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

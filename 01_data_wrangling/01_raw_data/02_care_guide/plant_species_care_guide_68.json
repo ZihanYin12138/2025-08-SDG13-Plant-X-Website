@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1604,
+      "species_id": 68,
+      "common_name": "Kamagata Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Kamagata'"
+      ],
+      "section": [
+        {
+          "id": 5017,
+          "type": "watering",
+          "description": "Watering your Kamagata Japanese Maple should be done once a week, with the soil kept evenly moist. For best results, soak the soil to a depth of about 4-5 inches to ensure adequate moisture penetration. In hot and dry weather, you might need to water more frequently, and reduce the frequency of watering in rainy or cool weather. Be sure to check the soil before you water the plant, as overwatering can be damaging and also lessen the tree's ability to tolerate periods of drought."
+        },
+        {
+          "id": 5018,
+          "type": "sunlight",
+          "description": "Kamagata Japanese Maple plants prefer full sun or partial shade. In full sun, they should receive at least 4-6 hours of direct sunlight each day; in partial shade, they can thrive with more limited daily sunlight. The best time for sunlight is during the morning hours, when the sun is low in the sky and less intense. Afternoon bright light can still be beneficial, but more shade is needed then, since the plant will be exposed to direct sunlight for a greater portion of its day."
+        },
+        {
+          "id": 5019,
+          "type": "pruning",
+          "description": "Kamagata Japanese Maple trees should be pruned in early spring, before the buds open and the leaves begin to sprout. Pruning too early could damage new growth. Pruning after leaves emerge can also be done, although it may remove some of this year's new growth. To encourage a bushier shape, prune out the vertical shoots and thin out overcrowded branches. These trees should be pruned to open the center of the plant, allowing more light and air to reach the inner parts of the plant. Don't reduce the size of the tree drastically; this could weaken or damage the structure of the tree. Prune off dead branches and remove suckers at any time of year. Cut any crossed branches and shorten branches that are too long. Generally remove no more than 1/3 of the previous season's growth at any 1 pruning session."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

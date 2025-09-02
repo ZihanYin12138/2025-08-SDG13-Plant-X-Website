@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 65,
+      "species_id": 23,
+      "common_name": "Big Leaf Maple",
+      "scientific_name": [
+        "Acer macrophyllum"
+      ],
+      "section": [
+        {
+          "id": 1259,
+          "type": "watering",
+          "description": "Big Leaf Maple should be watered once or twice a week, depending on the season and the soil conditions. The area should be watered thoroughly until water runs out of the drainage holes. If the tree is grown in a container, it should be watered until the soil is moist but not soggy. The amount of water depends on soil type, size of container, and climate; it can range from 2-5 gallons of water per week."
+        },
+        {
+          "id": 1260,
+          "type": "sunlight",
+          "description": "Big Leaf Maple trees need full sun to thrive and will reach optimal growth in areas where they get 6 to 8 hours of direct, unfiltered sunlight per day. This species can tolerate cold temperatures and can even grow in the drier southern climates as long as they're given ample shade and protection during the hottest part of the day. As long as they have access to plenty of light, Big Leaf Maples will respond positively and grow vigorously."
+        },
+        {
+          "id": 1261,
+          "type": "pruning",
+          "description": "Big Leaf Maple (Acer macrophyllum) should be pruned in the late winter or early spring months. Pruning should be kept light. Dead, damaged and diseased branches should be removed. Branches should be thinned out, which will allow for better air circulation, sun exposure, and encourage new growth. It’s important not to prune more than 15-20% of the tree’s total foliage. This species of maple may produce a profusion of suckers throughout the growing season, which should be removed at their base."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

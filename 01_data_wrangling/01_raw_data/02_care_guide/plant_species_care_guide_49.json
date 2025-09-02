@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1588,
+      "species_id": 49,
+      "common_name": "Chishio Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Chishio'"
+      ],
+      "section": [
+        {
+          "id": 4960,
+          "type": "watering",
+          "description": "Chishio Japanese Maple (Acer palmatum 'Chishio') should be watered deeply and infrequently. During the spring and summer months, water the plant deeply once every week or 2. In the fall and winter months, reduce watering to once every 2 weeks or less. Be sure to check the soil with your finger to make sure it is dry before watering again. Make sure to water at the base of the tree, soaking the soil several inches deep. Be sure to not overwater as this can cause issues for the tree. Too much water can cause the root system to rot, leading to a weakened tree or even death of the tree."
+        },
+        {
+          "id": 4961,
+          "type": "sunlight",
+          "description": "Chishio Japanese Maple prefers full sun in the morning and late afternoon with shade in the mid-day to prevent sunburn. It is important to avoid excessive sunlight during the hottest part of the day. This plant species should receive approximately 4 to 6 hours of direct sunlight each day, ideally in the cooler morning and late afternoon hours. If grown in an area with consistent full sunlight, then it is important to protec the plant with shade in the hottest part of the day and provide adequate irrigation. Providing shade and good drainage will help keep this tree healthy and prevent it from being scorched by the sun's heat in the afternoon."
+        },
+        {
+          "id": 4962,
+          "type": "pruning",
+          "description": "Chishio Japanese Maple (Acer palmatum 'Chishio') should be pruned twice a year: once in late winter and then again in late summer. Pruning in late winter should be done to remove dead, damaged, or crowded branches and to minimize the size of large branches if desired. In late summer, pinch off the tips of branches to promote bushiness. Not over-pruning is recommended, as this may decrease the health and vigor of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

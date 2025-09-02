@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 67,
+      "common_name": "Black blight (Ringspot)",
+      "scientific_name": "Mycosphaerella brassicicola",
+      "other_name": [
+        "Ringspot (Black blight)"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Black blight (Mycosphaerella brassicicola)?",
+          "description": "Mycosphaerella brassicicola is a fungal pathogen that primarily affects cabbage, cauliflower, Brussels sprouts, and broccoli. It is distributed worldwide and can cause significant damage to seed production. Symptoms include dark lesions with concentric rings, surrounded by a yellowish zone, on the aboveground parts of the plants. Severe infection can lead to coalescing spots and blackening of the entire plant, while stored cabbage may develop deep-penetrating dark lesions."
+        },
+        {
+          "subtitle": "How does Black blight (Mycosphaerella brassicicola) occur?",
+          "description": "Black blight caused by M. brassicicola is characterized by small black fruiting bodies with concentric circles of spores at the center, giving it a ringspot appearance. It primarily affects mature plants, particularly older leaves. As spots merge, leaves become yellow and die prematurely. Cool and moist weather conditions, with temperatures ranging from 59°F to 70°F, favor the development of the disease. Spore dissemination occurs through water splash, wind, and rain over short distances. Long-distance spread can happen via contaminated seeds."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Preventions",
+          "description": "•\tPractice crop rotation by avoiding planting in the same field year after year. Rotate with non-host crops to reduce the buildup of fungal populations in the soil.\n\n•\tRemove and destroy infected plant debris promptly. This includes burning straw stacks and ploughing under diseased residues immediately after harvest.\n\n•\tLocate new plant beds at least 1 mile away from diseased fields to reduce the risk of spore dispersal.\n\n•\tUse hot water treatment at 122°F for 30 minutes to eliminate seedborne inoculum. Treat a small quantity of each seed lot and test the germination before treating all the seeds.\n"
+        },
+        {
+          "subtitle": "Treatment",
+          "description": "•\tSeveral fungicides can be effective against Black blight. These include Cabrio EG, Chlorothalonil formulations, Miravis Prime, Priaxor Xemium Brand, and Quadris Flowable. \n\n\nIt is advisable to consult with local agricultural extension services or experts for specific recommendations and guidance on prevention and treatment strategies for black blight in your region.\n"
+        }
+      ],
+      "host": [
+        "brussel sprouts"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/67_mycosphaerella_brassicicola/og/Mycosphaerella_brassicicola_02.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/67_mycosphaerella_brassicicola/regular/Mycosphaerella_brassicicola_02.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/67_mycosphaerella_brassicicola/medium/Mycosphaerella_brassicicola_02.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/67_mycosphaerella_brassicicola/small/Mycosphaerella_brassicicola_02.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/67_mycosphaerella_brassicicola/thumbnail/Mycosphaerella_brassicicola_02.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

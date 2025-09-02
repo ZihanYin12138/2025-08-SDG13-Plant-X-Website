@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "id": 53,
+      "common_name": "Powdery mildew",
+      "scientific_name": "Erysiphe polygoni",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Powdery mildew (Erysiphe polygoni)?",
+          "description": "Powdery mildew is a common fungal disease affecting various plants worldwide. It is caused by different species of powdery mildew fungi, such as Erysiphe polygoni.  It is characterized by white, powdery spots on leaves, shoots, flowers, and fruit. Vegetable crops like beans, cucumbers, lettuce, peppers, squash, tomatoes, and many others are susceptible. Symptoms include yellowing, leaf distortion, and premature leaf drop."
+        },
+        {
+          "subtitle": "How does Powdery mildew (Erysiphe polygoni) occur?",
+          "description": "It reproduces through spores that are dispersed by wind. These spores can germinate and infect plants even in the absence of free water. The fungi form thin layers of mycelium on the plant surface, producing chains of spores that create the characteristic white, powdery growth. Some species also produce special resting spores for overwinter survival. The moderate temperature range of 60°F to 80°F and shady conditions are favorable for powdery mildew development, while extreme heat and direct sunlight inhibit its growth and spread."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Plant Management Strategies",
+          "description": "•\tChoose Resistant Varieties: Opt for vegetable varieties that are resistant to powdery mildew to reduce the risk of infection.\n•\tProper Spacing: Provide sufficient spacing between plants to ensure good air circulation and reduce humidity levels.\n•\tSunlight Exposure: Plant in sunny areas to promote dry conditions and discourage powdery mildew growth.\n"
+        },
+        {
+          "subtitle": "Cultural Practices",
+          "description": "•\tWatering Techniques: Avoid overhead watering to keep foliage dry; instead, water at the base of plants.\n•\tBalanced Fertilization: Apply balanced fertilizers and avoid excessive nitrogen, which can promote susceptible foliage.\n•\tPruning and Sanitation: Regularly remove and destroy infected plant parts to prevent the spread of spores.\n"
+        },
+        {
+          "subtitle": "Biological Control Agents",
+          "description": "•\tSerenade: A biological fungicide containing the bacterium Bacillus subtilis helps prevent powdery mildew infections. It is considered nontoxic to people, pets, and beneficial insects.\n\n•\tBeneficial Fungi: Certain species of beneficial fungi, such as Trichoderma spp., can help suppress powdery mildew growth when applied as a biocontrol agent.\n\nIt's important to read and follow the instructions and precautions provided on the fungicide labels, as they vary based on the specific product and crop being treated.\n"
+        },
+        {
+          "subtitle": "Fungicides",
+          "description": "•\tHorticultural Oils: Saf-T-Side Spray Oil, Sunspray Ultra-Fine Spray Oil.\n\n•\tNeem Oil: Effective as both an insecticide and fungicide.\n\n•\tSulfur-based Fungicides: Safer Garden Fungicide (wettable sulfur).\n\n•\tCopper-based Fungicides: Available but not highly effective against powdery mildew.\n\nIt's important to read and follow the instructions and precautions provided on the fungicide labels, as they vary based on the specific product and crop being treated.\n"
+        }
+      ],
+      "host": [
+        "beans",
+        "beet",
+        "carrot"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/53_erysiphe_polygoni/og/40162585395_640d299711_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/53_erysiphe_polygoni/regular/40162585395_640d299711_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/53_erysiphe_polygoni/medium/40162585395_640d299711_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/53_erysiphe_polygoni/small/40162585395_640d299711_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/53_erysiphe_polygoni/thumbnail/40162585395_640d299711_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

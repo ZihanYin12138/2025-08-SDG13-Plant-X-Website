@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1687,
+      "species_id": 159,
+      "common_name": "Legacy Sugar Maple",
+      "scientific_name": [
+        "Acer saccharum 'Legacy'"
+      ],
+      "section": [
+        {
+          "id": 5266,
+          "type": "watering",
+          "description": "Legacy Sugar Maple should be watered when the soil is dry, about once every 7 to 10 days. For best results, check the soil with your finger to determine if more water is needed. Be sure to thoroughly saturate the root zone when watering and avoid allowing water to stand on the foliage. Additionally, avoid wetting the stems and trunk as this can cause rot."
+        },
+        {
+          "id": 5267,
+          "type": "sunlight",
+          "description": "Legacy Sugar Maple (Acer saccharum 'Legacy') grown in temperate climates, should receive at least 4 to 6 hours of direct sunlight each day for optimal health and growth. When direct sunlight is not possible, the plant should receive as much indirect light as possible such as light coming through a north or east facing window. It should also be noted that Legacy Sugar Maple prefers full to partial sun, so it should not be exposed to shade for too long. Prolonged exposure to shade can weaken and stunt the growth of the plant."
+        },
+        {
+          "id": 5268,
+          "type": "pruning",
+          "description": "Legacy Sugar Maple trees should be pruned in early spring, before the tree flowers. Prune out any dead, diseased, crowded, and crossing branches, and remove any shoots growing from the bottom of the trunk. Prune off branches that appear in undesirable locations or rub against other branches. Do not cut back any major branches unless there is an obvious hazard. Remove no more than 1/4 of the live foliage to maintain a natural shape and promote vigor. Longer branches should be cut back just above a shoot or a lateral branch. Make sure to use clean, sharp pruning tools to avoid damaging the tree tissue."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

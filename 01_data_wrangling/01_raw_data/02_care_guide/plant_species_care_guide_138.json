@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1667,
+      "species_id": 138,
+      "common_name": "Utsu Semi Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Utsu Semi'"
+      ],
+      "section": [
+        {
+          "id": 5206,
+          "type": "watering",
+          "description": "Utsu Semi Japanese Maple is a beautiful, slow-growing specimen tree that needs to be watered regularly throughout the year to remain healthy and vibrant. In general, this plant likes to be watered every 7–10 days during the growing season (spring through fall) when there is no rain. Water deeply, saturating the soil down to 8–12 inches deep. In the winter watering is not necessary, unless the weather has been very dry. If so, give the Utsu Semi Japanese Maple a deep, thorough soaking every 2–3 weeks."
+        },
+        {
+          "id": 5207,
+          "type": "sunlight",
+          "description": "The Utsu Semi Japanese Maple prefers full sun in the morning and partial shade in the afternoon. It will thrive with 6-8 hours of sun per day, with the sun striking its foliage in the morning and shade in the afternoon allowing it to cool down. Plants exposed to full sun all day long will be prone to burnout, so make sure to provide the needed shade in the afternoon."
+        },
+        {
+          "id": 5208,
+          "type": "pruning",
+          "description": "Utsu Semi Japanese Maples should be pruned twice per year: once in late spring (May or June) and again in early summer (usually in June or July). Late spring pruning should focus on removing dead, damaged, or crossing twigs and branches. For summer pruning, focus on removing any suckers or unruly growth. Be sure to prune towards the base to maintain the desired shape of the tree. Pruning of Utsu Semi Japanese Maples should be light and sparse in order to preserve the natural shape of the tree and encourage healthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

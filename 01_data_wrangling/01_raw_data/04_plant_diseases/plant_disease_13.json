@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "id": 13,
+      "common_name": "Phytophthora root and crown rot",
+      "scientific_name": "Phytophthora spp.",
+      "other_name": [
+        "Phytophthora crown and spear rot",
+        "Phytophthora root rot",
+        "Brown rot",
+        "Phytophthora gummosis",
+        "Root rot",
+        "Phytophthora root and crown rot (Red Stele)",
+        "Red Stele (Phytophthora root and crown rot)",
+        "Buckeye (Phytophthora root rot)",
+        "Phytophthora root rot (Buckeye)",
+        "Collar foot root and crown rot",
+        "Damping off and seed rots"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Phytophthora root (Phytophthora ssp)?",
+          "description": "Phytophthora root and crown rots are fungal diseases caused by soilborne fungi of the genus Phytophthora.  These diseases affect various trees and shrubs in the northeastern region. Commonly infected hosts include rhododendron, andromeda, holly, yew, juniper, beech, dogwood, maple, apple, cherry, peach, and apricot. Infected plants exhibit yellowing, and browning of leaves, and an overall decline in health. The pathogen spreads from the roots to the root crown and lower trunk, leading to root decay, wilting, stunted growth, and, in severe cases, plant death"
+        },
+        {
+          "subtitle": "How does Phytophthora root (Phytophthora ssp) occur? ",
+          "description": "Crown rot happens when Phytophthora pathogens infect the roots and crown of vulnerable plants. These pathogens release zoospores that can swim in water. When the soil becomes saturated, the zoospores are attracted to plant roots and invade them. They then gradually move upward, infecting the root crown and lower trunk. The fungi target the inner bark, causing the death of inner bark and browning of the outer sapwood layer. This leads to plant decline or death."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Prevention and Cultural Practices",
+          "description": "•\tGood Water Management: Avoid overwatering and ensure proper drainage.\n•\tPlant Selection: Choose resistant or tolerant plant varieties.\n•\tSite Selection: Plant in well-drained areas, avoiding low-lying or poorly drained spots.\n•\tSoil Improvement: Incorporate organic matter to improve soil drainage.\n•\tProper Planting: Follow recommended planting guidelines to avoid burying the root crown.\n•\tSanitation: Remove and destroy infected plant material.\n•\tCrop Rotation: Practice rotation in vegetable gardens to reduce pathogen buildup.\n•\tAvoid Soil Contamination: Prevent the introduction of contaminated soil, water, or plant material.\n•\tRegular Monitoring: Monitor plants for early signs of disease.\n\n"
+        },
+        {
+          "subtitle": "Fungicide Application",
+          "description": "Metalaxyl/Mefenoxam and Fosetyl-Aluminum Systemic fungicides provide control against Phytophthora species, and Products based on phosphorous acid and Dimethomorph fungicides with protective and curative properties are being used against this fungus.\nConsult local agricultural resources for specific recommendations and follow label instructions for proper use."
+        }
+      ],
+      "host": [
+        "almond",
+        "apple",
+        "asparagus",
+        "avocado",
+        "caneberry",
+        "citrus",
+        "cucurbits",
+        "pepper",
+        "stone fruit",
+        "strawberry",
+        "tomato",
+        "various trees and shrubs",
+        "various vegetables and melons",
+        "walnut"
+      ],
+      "images": []
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

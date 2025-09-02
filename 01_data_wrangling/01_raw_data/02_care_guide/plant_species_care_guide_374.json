@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 498,
+      "species_id": 374,
+      "common_name": "Melrose Apple",
+      "scientific_name": [
+        "Malus 'Melrose'"
+      ],
+      "section": [
+        {
+          "id": 1497,
+          "type": "watering",
+          "description": "Melrose Apple (Malus 'Melrose') should be watered thoroughly every 5 to 7 days during periods of active growth. Depending on the climate, this may vary slightly, but the frequency of watering should remain stable. During the hotter months, plants may need more water, while in the winter, a bit less. Soil moisture should always be monitored as an indicator of when to water the plant. If the soil feels dry, then it is time to water. Overwatering should be avoided as it can cause root rot."
+        },
+        {
+          "id": 1498,
+          "type": "sunlight",
+          "description": "Melrose Apple (Malus 'Melrose') varieties require full sun for most of the day, at least 6 to 8 hours of direct sunlight each day. The more hours of sunlight it gets, the better it will produce. During the peak of summer in many regions, Melrose Apple foliage may experience foliage burn if too much sun is received. On the other hand, too little sunlight will lead to reduced growth and poor fruit production. Therefore, the amount of sunlight adequate for Melrose Apples will vary depending on the season and your specific climate and environment. It's best to experiment with different amounts of sunlight to determine what works best for your particular area."
+        },
+        {
+          "id": 1499,
+          "type": "pruning",
+          "description": "Melrose Apple can be pruned in the late winter or early spring, once it begins to show signs of new growth. Pruning should be done sparsely in the first year, removing only dead or damaged branches. Over time, you can begin to shape and form the tree by selectively pruning the branches that are not desirable, such as those growing towards the center of the tree. Because Melrose Apple is a semi-dwarf variety, you should aim to remove no more than 1-third of the total branch or growth during each pruning session."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1640,
+      "species_id": 108,
+      "common_name": "Ruby Ridge Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Ruby Ridge'"
+      ],
+      "section": [
+        {
+          "id": 5125,
+          "type": "watering",
+          "description": "Ruby Ridge Japanese Maple is a low-maintenance plant that requires regular watering to stay healthy and increase the vibrant color of the foliage. It should be watered on a weekly basis throughout the spring, summer, and autumn. In the spring, the soil should be completely moist and the Ruby Ridge Japanese Maple should be watered every 7-14 days. During the summer, the soil should be kept moist and the Ruby Ridge Japanese Maple should be watered every 5-7 days. In the autumn, the soil should remain slightly moist and the Ruby Ridge Japanese Maple should be watered every 7-14 days. "
+        },
+        {
+          "id": 5126,
+          "type": "sunlight",
+          "description": "Ruby Ridge Japanese Maple is a deciduous tree that prefers to be placed in a spot where it can receive at least 6-8 hours of sunlight a day throughout the growing season. The amount of sunlight and the timing of it will be the most important factor in determining the health and growth of the Ruby Ridge Japanese Maple. A spot with full sun in the morning and dappled shade in the afternoon is ideal for this species. During the winter, Ruby Ridge Japanese Maple trees can tolerate full sun as long as the temperatures are not too extreme. "
+        },
+        {
+          "id": 5127,
+          "type": "pruning",
+          "description": "Ruby Ridge Japanese Maple should be pruned annually in late spring or early summer once any freeze damage has healed. Pruning should begin when the tree is young, removing any crossing branches to create a single trunk and open up the canopy to provide adequate air circulation. During the growing season, dead, damaged, or diseased branches should be removed. The tree should also be thinned out to keep a healthy, dense form by selectively removing excess branches. Regularly pruning to shape the tree will also keep it at an ideal size. Pruning should be done conservatively to avoid over pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

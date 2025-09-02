@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 996,
+      "species_id": 338,
+      "common_name": "Yulan Magnolia",
+      "scientific_name": [
+        "Magnolia denudata"
+      ],
+      "section": [
+        {
+          "id": 2989,
+          "type": "watering",
+          "description": "Yulan Magnolia requires regular watering. New plants should be watered as often as needed to keep the surface soil moist but not soggy. Once established, Yulan Magnolia can generally tolerate drought and survive with occasional deep drenchings. In summer, provide this plant with 1 inch of water once a week to keep the soil evenly moist. During the winter months, reduce the number of watering sessions to about once every 2 weeks. The plant should not remain constantly wet or saturated, so allow the soil to dry between watering sessions."
+        },
+        {
+          "id": 2990,
+          "type": "pruning",
+          "description": "Yulan magnolias should be pruned in early spring (mid-April to mid-May) or early summer (late May to early June). Pruning should be limited to removing dead wood, diseased branches, and crossing branches. This should be done sparingly to maintain the tree's natural form and beauty. The aim should be to remove as few live branches as possible. No more than 15-20% of the canopy can be pruned at any 1 time."
+        },
+        {
+          "id": 2991,
+          "type": "sunlight",
+          "description": "Yulan Magnolia prefers full sun to partial shade, but should be protected from exposure to extreme heat in the afternoon. In sunny climates, it should be planted in a location that offers morning sun with some afternoon shade. In cooler climates with less natural sunlight, Yulan Magnolia should receive a minimum of 4 hours of direct sunlight each day. In areas with intense summer heat, morning sun is best."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

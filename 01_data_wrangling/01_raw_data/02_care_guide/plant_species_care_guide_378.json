@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 948,
+      "species_id": 378,
+      "common_name": "Red Delicious Apple",
+      "scientific_name": [
+        "Malus 'Red Delicious'"
+      ],
+      "section": [
+        {
+          "id": 2845,
+          "type": "watering",
+          "description": "Red Delicious Apple (Malus 'Red Delicious') plants require regular watering throughout the year, however the amount of water they need will depend on the season and the soil type. In most areas, Red Delicious Apples will need weekly watering during the growing season, which is usually from spring to fall. During the warmest time of the year, your Red Delicious Apple tree may need watering twice a week or more. During times of drought, you may need to water your tree more frequently, being sure to deeply soak the roots each time."
+        },
+        {
+          "id": 2846,
+          "type": "sunlight",
+          "description": "Red Delicious apples need at least 6 hours of direct sunlight each day to maintain optimal growth and proper fruit production. In climates with high outdoor temperatures, it's best to provide afternoon shade or to plant Red Delicious apples in an area that will be shaded later in the day."
+        },
+        {
+          "id": 2847,
+          "type": "pruning",
+          "description": "When pruning Red Delicious apples, it is important to remove up to 1/3 of the growth each season. This can be done from late fall to early spring, when the tree is dormant. As a rule of thumb, the removal of older, unproductive wood as well as weak, diseased, and insect-damaged branches is beneficial to the overall health of the tree. Additionally, the removal of crossing, rubbing, and weak scaffold branches should be done in order to promote good tree structure. It is important to not remove too much growth at any 1 time, as it can put stress on the tree and reduce fruit production."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

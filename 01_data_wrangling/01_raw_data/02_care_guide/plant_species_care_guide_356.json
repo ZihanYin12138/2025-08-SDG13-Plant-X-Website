@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 598,
+      "species_id": 356,
+      "common_name": "Chehalis Apple",
+      "scientific_name": [
+        "Malus 'Chehalis'"
+      ],
+      "section": [
+        {
+          "id": 1795,
+          "type": "watering",
+          "description": "Chehalis Apple plants should be watered thoroughly every 7-10 days during the growing season and should be given around 1-2 inches of water each time. Watering should be reduced in the winter, so that the soil does not stay overly wet. Once established, the plant should require less frequent watering and will receive enough moisture from rainfall. If the soil feels dry 1 to 2 inches below the surface, it should be watered. It's important to never let the soil become waterlogged or overly dry because this can lead to root damage or plant death."
+        },
+        {
+          "id": 1796,
+          "type": "sunlight",
+          "description": "Chehalis Apple (Malus 'Chehalis') grows best in full sun, receiving at least 6-8 hours of direct sunlight per day. It will also tolerate some light afternoon shade if needed. Inconsistent light levels can cause plants to be less productive, so look for a spot in your garden that will receive consistent sunlight each day. However, it is important to not let them sit in direct sunlight for too long - they should get some relief from the midday sun in order to remain healthy. Plants should get at least 4-6 hours of direct sunlight in the morning and evening with some light shade during the hottest parts of the day."
+        },
+        {
+          "id": 1797,
+          "type": "pruning",
+          "description": "Chehalis Apple (Malus 'Chehalis') should be pruned in the late winter or early spring before the sap begins to flow. Prune dead or diseased branches first, then prune back long or overgrown branches to control the size of the plant. Shaping the canopy should involve removing no more than 1/3 of the live branch growth per year. Pruning of fruits should be done in the summer after a few fruits have developed. Remove crossed branches or competitors and any remaining diseased wood to promote health and proper fruit ripening."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,156 @@
+{
+  "id": 199,
+  "common_name": "Golden Catalpa",
+  "scientific_name": [
+    "Catalpa bignonioides 'Aurea'"
+  ],
+  "other_name": [
+    "Southern Catalpa"
+  ],
+  "family": "Bignoniaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Aurea",
+  "variety": null,
+  "species_epithet": "bignonioides",
+  "genus": "Catalpa",
+  "origin": [
+    "Southeastern United States"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 40,
+      "max_value": 40,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=199&size=og&key=sk-ACnv68b0630adff3b12096",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=199&size=og&key=sk-ACnv68b0630adff3b12096'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "branch",
+      "color": [
+        "green-gray"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "light-green",
+        "green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "flower",
+      "color": [
+        "white-yellow-purple"
+      ]
+    },
+    {
+      "part": "buds",
+      "color": [
+        "purple-green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "red"
+      ]
+    },
+    {
+      "part": "vein",
+      "color": [
+        "yellow"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=199&key=sk-ACnv68b0630adff3b12096",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Golden Catalpa (Catalpa bignonioides 'Aurea') is a great plant species for those who want an eye-catching addition to their garden. Famous for its vibrant yellow foliage, this tree is sure to make a statement. In addition to its striking foliage, the Golden Catalpa produces white blooms which turn into Seedpods that gradually turn from green to brown and can be used to decorate outdoor spaces. Its low-maintenance nature and drought tolerance make it an ideal choice for many landscapes. The Golden Catalpa's incredible appearance and easy-care make it an amazing choice for gardeners looking for a stunningly beautiful and hardy plant.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/199_catalpa_bignonioides_aurea/og/9207605354_43a5ee5982_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/199_catalpa_bignonioides_aurea/regular/9207605354_43a5ee5982_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/199_catalpa_bignonioides_aurea/medium/9207605354_43a5ee5982_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/199_catalpa_bignonioides_aurea/small/9207605354_43a5ee5982_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/199_catalpa_bignonioides_aurea/thumbnail/9207605354_43a5ee5982_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

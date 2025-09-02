@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1855,
+      "species_id": 397,
+      "common_name": "Columnar Norway Spruce",
+      "scientific_name": [
+        "Picea abies 'Cupressina'"
+      ],
+      "section": [
+        {
+          "id": 5770,
+          "type": "watering",
+          "description": "The Columnar Norway Spruce requires regular watering to keep the soil consistently moist. Depending on the season, water the plant every 3-4 days in the spring and summer and every 5-7 days in the fall and winter. However, when temperatures are high and there is little rain, more frequent watering may be necessary. During hot months, check the soil daily for dryness and water deeply until the water begins to drain from the pot's bottom."
+        },
+        {
+          "id": 5771,
+          "type": "sunlight",
+          "description": "Columnar Norway Spruces need full sunlight, at least 6 hours per day, to ensure that growth is optimal. During the summer months, these trees can be exposed to the sun all day."
+        },
+        {
+          "id": 5772,
+          "type": "pruning",
+          "description": "Columnar Norway Spruce should be pruned during their first year of planting and then with light maintenance over the following few years. This includes cutting off any dead or damaged branches as well as any branches that are crossing over each other or growing towards the center of the tree. Pruning should be done in late winter or early spring, before new buds appear. To maintain the columnar shape of the tree, lightly prune the sides of the tree during the first few growing seasons. This can be done by removing any branches that are growing out of the vertical sides at a 45-degree angle or greater. Once the tree is established, routine pruning will be needed every 2 to 3 years to keep the columnar growth pattern. Pruning should focus on removing any branches that are growing inward, as well as dead or damaged branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

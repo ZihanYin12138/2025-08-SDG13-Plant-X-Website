@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "id": 19,
+      "common_name": "Dollar spot",
+      "scientific_name": "Sclerotinia homoecarpa  Lanzia",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Dollar Spot (Clarireedia jacksonii)?",
+          "description": "Dollar spot (Clarireedia jacksonii, formerly Sclerotinia homoeocarpa) is a worldwide fungal disease that affects highly managed turf. It forms small, round, bleached to straw-colored spots, ranging from 1-6 inches in diameter. In addition, it primarily infects cool-season grasses like bentgrass, fescue, and ryegrass. Moreover, symptoms include patches of blighted turf, visible white mycelium in dewy conditions, and hour-glass shaped lesions on leaves."
+        },
+        {
+          "subtitle": "How does Dollar Spot (Clarireedia jacksonii) occur?",
+          "description": "Dollar spot (Clarireedia jacksonii) reproduces through spore production and spread. The fungus survives in infected plants or debris, as well as stromata (masses of mycelium) on leaf surfaces. It becomes active in temperatures between 60-90 °F, favoring warm days, cool nights, and heavy dew. The pathogen is spread by mowers, golf carts, wind, and water. Inadequate nitrogen fertility and dry soils increase disease severity. "
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices",
+          "description": "•\tWater deeply and infrequently, avoiding extended leaf wetness.\n•\tRemove dew and guttation fluids by mowing, rolling, or brushing early in the morning.\n•\tMaintain adequate to high nitrogen fertility with light, frequent applications.\n•\tPrune trees and shrubs to improve air circulation around the turf.\n•\tOverseed with newer cultivars that are less susceptible to dollar spot.\n•\tConsider lightweight rolling on golf greens to suppress the disease.\n•\tExplore organic fertilizers, composts, and biological control agents as potential control measures.\n"
+        },
+        {
+          "subtitle": "Applications of Fungicide ",
+          "description": "• There are Many fungicides available to cure Dollere spot such as  Benzimidazoles (e.g., thiophanate-methyl), demethylation inhibitors (e.g., propiconazole), dicarboximides (e.g., iprodione), carboxamides (e.g., boscalid), chlorothalonil, Emerald, Honor, Curalan, Eagle, and Torque.\n\n•\t Adhere to label instructions for proper application.\n\n•\tAvoid repeated use of fungicides from the same class or FRAC code to minimize resistance.\n\n•\tConsider tank mixing or alternating fungicides with different modes of action.\n\n"
+        }
+      ],
+      "host": [
+        "annual bluegrass",
+        "bermudagrass",
+        "fescues",
+        "ryegrasses",
+        "seashore paspalum",
+        "zoysiagrass"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/19_sclerotinia_homoecarpa_ lanzia/og/15489837762_0b9ab08177_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/19_sclerotinia_homoecarpa_ lanzia/regular/15489837762_0b9ab08177_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/19_sclerotinia_homoecarpa_ lanzia/medium/15489837762_0b9ab08177_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/19_sclerotinia_homoecarpa_ lanzia/small/15489837762_0b9ab08177_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/19_sclerotinia_homoecarpa_ lanzia/thumbnail/15489837762_0b9ab08177_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

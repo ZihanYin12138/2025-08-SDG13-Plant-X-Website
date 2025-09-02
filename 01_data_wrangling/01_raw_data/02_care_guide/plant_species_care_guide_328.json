@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1820,
+      "species_id": 328,
+      "common_name": "Butterflies Magnolia",
+      "scientific_name": [
+        "Magnolia 'Butterflies'"
+      ],
+      "section": [
+        {
+          "id": 5665,
+          "type": "watering",
+          "description": "Butterflies Magnolia plants should be watered every 7-10 days. Water thoroughly when you do, so that the soil is moist to a depth of 6 inches. Be careful not to overwater, as this could lead to root rot. Allow the top few inches of soil to dry slightly between waterings. If the soil feels dry to the touch, then it is time to water again. It is especially important to water your plant during hot, dry weather. Keep an eye on the soil’s moisture level, and water your plant accordingly."
+        },
+        {
+          "id": 5666,
+          "type": "sunlight",
+          "description": "Butterflies Magnolia is a deciduous shrub that grows best in full sun. The plant is best suited to areas with at least 6 hours of direct sunlight per day, after which some protection from late afternoon sun may be beneficial. During summer, Butterflies Magnolia should be receiving sunlight between 8am and 6pm. "
+        },
+        {
+          "id": 5667,
+          "type": "pruning",
+          "description": "Magnolia 'Butterflies' should be pruned in the late winter or early spring, when the plant is still dormant. Pruning should be done minimally, and only to remove dead or damaged wood. Any branches should be thinned to open up the crown of the tree and improve air circulation, but the overall shape should be left intact. No more than 25% of the tree should be removed in any given year. It is not advisable to prune this species hard as it is prone to dieback if excessive pruning is done."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

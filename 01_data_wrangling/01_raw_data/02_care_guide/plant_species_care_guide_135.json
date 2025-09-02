@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1664,
+      "species_id": 135,
+      "common_name": "Twombly's Red Sentinel Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Twombly's Red Sentinel'"
+      ],
+      "section": [
+        {
+          "id": 5197,
+          "type": "watering",
+          "description": "Twombly's Red Sentinel Japanese Maple (Acer palmatum 'Twombly's Red Sentinel') should be kept evenly moist, but not waterlogged. Water thoroughly when the top inch of soil feels dry to the touch. This can be 1-2 times per week, depending on your climate. Do not let the soil dry out completely. This plant prefers humidity, so misting the leaves daily or misting and watering more often during hot, dry weather is recommended."
+        },
+        {
+          "id": 5198,
+          "type": "sunlight",
+          "description": "Twombly's Red Sentinel Japanese Maple (Acer palmatum 'Twombly's Red Sentinel') grows best in full to partial sunlight. This maple prefers at least 6 to 8 hours of sunlight per day, when possible, during the growing season. This species also benefits from some sunlight in the winter months, but should not be placed in direct, hot afternoon sunlight for prolonged periods of time. This can cause leaf scorch and other damage."
+        },
+        {
+          "id": 5199,
+          "type": "pruning",
+          "description": "Twombly's Red Sentinel Japanese Maple should be pruned in late winter or very early spring, while the tree is still dormant. Pruning should be done judiciously, taking out only the dead, damaged, or crowded branches.The goal should be to maintain the natural structure of the tree, rather than removing large portions of the canopy. Large branches should be cut back to the trunk at an angle, using sharp pruning shears. To enhance the structural beauty, thin out some of the branches growing upward to create a balanced shape. Avoid pruning branches that originate from the trunk or from thick central branches, as these will help maintain the natural look of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

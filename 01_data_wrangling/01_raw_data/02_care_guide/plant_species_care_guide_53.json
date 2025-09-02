@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1591,
+      "species_id": 53,
+      "common_name": "Ever Red Lace-Leaf Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Ever Red'"
+      ],
+      "section": [
+        {
+          "id": 4972,
+          "type": "watering",
+          "description": "Watering for an Ever Red Lace-Leaf Japanese Maple (Acer palmatum 'Ever Red') should be done regularly, about once a week. When watering, soak the root zone and surrounding soil thoroughly. During hot days, water may be needed more often. The amount of water you use should be adjusted to the season and climate. In summer, you may need to water more frequently. In winter or colder climates, reduce the amount and frequency of watering. You should also take into account how much rainfall you are receiving. You can let the soil dry in-between watering, and only add water when the soil is dry up to a few inches. Overwatering should be avoided, as it can cause root rot."
+        },
+        {
+          "id": 4973,
+          "type": "sunlight",
+          "description": "Ever Red Lace-Leaf Japanese Maple (Acer palmatum 'Ever Red') thrives in part to full sun with a minimum of 6 hours of sunlight per day. This species should not be planted in the dappled shade of high canopy trees where it can remain in shade throughout the day. Ideally, morning sun is beneficial for this species, as well as filtered sun throughout the evening hours."
+        },
+        {
+          "id": 4974,
+          "type": "pruning",
+          "description": "The best time to prune an Ever Red Lace-Leaf Japanese Maple is in late winter or early spring, before the new leaves and buds appear. This is because pruning the tree while it is dormant allows you to see the structure of the tree clearly. The actual amount of pruning on the tree should be minimal. You should only really trim off shoots that are crossing, rubbing against other branches, or are otherwise creating an imbalance. It’s also important to be aware of the tree’s natural shape and try to maintain its overall form. Pruning should be done selectively so that the tree’s canopy does not become too thin. It’s also essential to use clean, sterilised shears to prevent disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

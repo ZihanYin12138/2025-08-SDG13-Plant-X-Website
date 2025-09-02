@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1684,
+      "species_id": 156,
+      "common_name": "Red Sunset® Red Maple",
+      "scientific_name": [
+        "Acer rubrum 'Franksred'"
+      ],
+      "section": [
+        {
+          "id": 5257,
+          "type": "watering",
+          "description": "This tree needs regular watering to keep the soil damp, but not soggy. During the summer months, water the Red Sunset Red Maple every 5 to 7 days, giving the soil a deep watering to encourage root growth. In hotter climates, you may need to water more often. During the winter months, water less often, only when the top few inches of soil begin to dry out."
+        },
+        {
+          "id": 5258,
+          "type": "sunlight",
+          "description": "Red Sunset® Red Maple (Acer rubrum 'Franksred') should receive at least 4-5 hours of direct sunlight each day in order to thrive. This species prefers full sun in the morning or late afternoon, but not necessarily at the peak of the day. This plant should not be subjected to harsh, direct sunlight during the heat of the summer; instead, it will benefit from dappled light or some afternoon shade during hotter months."
+        },
+        {
+          "id": 5259,
+          "type": "pruning",
+          "description": "Red Sunset® Red Maple should typically be pruned twice a year. In late winter before it buds, prune out any dead or diseased branches, crossed or rubbing branches, and long shoots. About half of the current year’s shoots can also be pruned to maintain the desired size and shape. In late summer, also prune out long, wispy shoots to encourage dense growth of new branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

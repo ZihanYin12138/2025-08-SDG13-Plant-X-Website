@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 57,
+      "species_id": 15,
+      "common_name": "Ruby Slippers Amur Maple",
+      "scientific_name": [
+        "Acer ginnala 'Ruby Slippers'"
+      ],
+      "section": [
+        {
+          "id": 1226,
+          "type": "watering",
+          "description": "The Ruby Slippers Amur Maple will need to be watered on a regular basis, approximately once a week. It is best to wait until the top inch or so of soil has dried before watering. The amount of water to give the plant can vary depending on the size of the pot and the time of year, but in general, aim for a good soaking that leaves the entire root mass evenly moist. Keep an eye on the leaves of the plant for signs of wilting, which could indicate that more water is needed. During the warmer summer months, it may be necessary to water as often as every other day. While the Ruby Slippers Amur Maple should not be left to dry out completely, it is important not to overwater as too much moisture can lead to root rot."
+        },
+        {
+          "id": 1227,
+          "type": "sunlight",
+          "description": "The Ruby Slippers Amur Maple is a deciduous plant species that does best in full sun, meaning 6-8 hours of direct sunlight each day. This species of maple is best suited to locations that receive ample daylight, though it can still thrive in part sun, or indirect, light."
+        },
+        {
+          "id": 1228,
+          "type": "pruning",
+          "description": "Pruning of the Ruby Slippers Amur Maple should be done in late spring or early summer, after it has finished flowering and before the new growth starts. The extent of pruning for this tree species is moderate, which means about 1-third of the existing branch structure should be removed in order to encourage new, healthy growth. To ensure the tree looks its best, any dead, diseased, or broken branches should be removed as well as any branches that are rubbing against each other or growing in an undesirable direction. It is also a good idea to thin the canopy to increase air flow and light penetration."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

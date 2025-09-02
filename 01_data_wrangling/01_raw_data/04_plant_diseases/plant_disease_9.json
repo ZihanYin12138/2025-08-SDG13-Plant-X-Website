@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "id": 9,
+      "common_name": "Bacterial canker",
+      "scientific_name": "Pseudomonas syringae",
+      "other_name": [
+        "Bacterial blossom blast",
+        "Bacterial canker and blast",
+        "Bacterial leaf spot",
+        "Angular leaf spot",
+        "Leaf spot Angular",
+        "Citrus blast",
+        "Bacterial blight"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Bacterial canker (Pseudomonas syringae)?",
+          "description": "Pseudomonas syringae is a bacterial pathogen that causes economically important diseases in the Pacific Northwest. It infects a wide range of fruits, vegetables, and ornamental plants, including plums, cherries, apricots, peaches, and ornamental Prunus species. Common symptoms include flower blast, dead buds, necrotic leaf spots, fruit spots, shoot-tip dieback, stem cankers, and inhibited seed germination. Disease severity varies, with factors like wounds, plant dormancy, soil conditions, and dual infections increasing susceptibility. "
+        },
+        {
+          "subtitle": "How dose Bacterial canker (Pseudomonas syringae) occur?",
+          "description": "Pseudomonas syringae reproduces through binary fission, dividing into two identical daughter cells. It rapidly multiplies in favorable conditions of high humidity and moderate temperatures. The bacterium can survive in infected plant debris, weeds, and soil. Spread occurs through water splashes, wind, insects, and contaminated tools. It can also establish latent infections within plant tissues, aiding its long-term persistence and further spread."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices and Crop Rotation",
+          "description": "•\tImplement good sanitation measures by removing and destroying infected plant debris.\n\n•\tRotate susceptible plant species with non-host plants to disrupt the disease cycle.\n\n•\tMaintain proper plant nutrition and avoid excessive nitrogen fertilization.\n"
+        },
+        {
+          "subtitle": "Integrated Pest Management (IPM) and Resistant Varieties",
+          "description": "•\tImplement an IPM approach, combining various strategies to manage the disease effectively.\n\n•\tChoose and plant resistant or tolerant varieties to reduce susceptibility.\n\n•\tExplore the use of beneficial microorganisms or biocontrol agents to suppress bacterial growth.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "Chemical Control:  Antibiotics such as streptomycin and oxytetracycline, as well as copper-based fungicides or bactericides like copper sulfate and copper hydroxide, can be used to treat Pseudomonas syringae infections. \n\nFollow label instructions and apply at the right time and concentration."
+        }
+      ],
+      "host": [
+        "almond",
+        "apple",
+        "apricot",
+        "broccoli",
+        "cantaloupe",
+        "citrus",
+        "various fruits and nuts",
+        "various trees and shrubs"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/9_p/og/Pseudomonas_syringae_a2_%283%29.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/9_p/regular/Pseudomonas_syringae_a2_%283%29.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/9_p/medium/Pseudomonas_syringae_a2_%283%29.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/9_p/small/Pseudomonas_syringae_a2_%283%29.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/9_p/thumbnail/Pseudomonas_syringae_a2_%283%29.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/9_p/og/Pseudomonas_syringae_a1_%282%29.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/9_p/regular/Pseudomonas_syringae_a1_%282%29.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/9_p/medium/Pseudomonas_syringae_a1_%282%29.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/9_p/small/Pseudomonas_syringae_a1_%282%29.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/9_p/thumbnail/Pseudomonas_syringae_a1_%282%29.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/og/Pseudomonas_syringae_a2_28429.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/regular/Pseudomonas_syringae_a2_28429.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/medium/Pseudomonas_syringae_a2_28429.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/small/Pseudomonas_syringae_a2_28429.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/thumbnail/Pseudomonas_syringae_a2_28429.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/og/2560px-Pseudomonas_syringae_a2_28329.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/regular/2560px-Pseudomonas_syringae_a2_28329.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/medium/2560px-Pseudomonas_syringae_a2_28329.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/small/2560px-Pseudomonas_syringae_a2_28329.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/thumbnail/2560px-Pseudomonas_syringae_a2_28329.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

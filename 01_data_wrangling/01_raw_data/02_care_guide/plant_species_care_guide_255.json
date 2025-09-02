@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1766,
+      "species_id": 255,
+      "common_name": "Milky Way Chinese Dogwood",
+      "scientific_name": [
+        "Cornus kousa 'Milky Way'"
+      ],
+      "section": [
+        {
+          "id": 5503,
+          "type": "watering",
+          "description": "The Milky Way Chinese Dogwood needs to be kept evenly moist, so water when the top inch or 2 of soil is dry. This usually will mean watering every 5-7 days. It should never be allowed to dry out completely. During extreme heat or drought, it may benefit from extra water - check often and water thoroughly. Deep soak the soil once or twice a month to encourage deep root growth. Be sure to remove any standing water after watering."
+        },
+        {
+          "id": 5504,
+          "type": "sunlight",
+          "description": "Milky Way Chinese Dogwood, or Cornus kousa 'Milky Way', is a deciduous plant that benefits from a minimum of 4 to 5 hours of full sun per day. This sun exposure is optimal when the sun is out in the morning and late afternoon; however, the plant should be shielded from the hot afternoon sun in warmer climates. Partial shade is also acceptable for this plant species as long as the hours of filtered sunlight are sufficient to meet the plant’s demand."
+        },
+        {
+          "id": 5505,
+          "type": "pruning",
+          "description": "This plant species should be pruned in late winter or early spring, ideally when it is in a dormant state. It should be pruned with light maintenance pruning, removing dead or damaged branches and thinning out any overly dense areas. Avoid pruning too much, as too heavy a pruning will result in fewer and smaller flowers. If the shrub is growing too large, prune it back by no more than 1/3 of its size."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

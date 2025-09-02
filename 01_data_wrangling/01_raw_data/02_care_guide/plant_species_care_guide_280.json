@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1784,
+      "species_id": 280,
+      "common_name": "Dawyck Gold Beech",
+      "scientific_name": [
+        "Fagus sylvatica 'Dawyck Gold'"
+      ],
+      "section": [
+        {
+          "id": 5557,
+          "type": "watering",
+          "description": "Dawyck Gold Beech requires consistent water throughout the entire growing season. Water 1 to 2 inches (2.5-5 cm) per week during the spring and summer months. During the summer months, make sure to water thoroughly and deeply. During the winter months, reduce regular watering to every 2-3 weeks, allowing the soil to dry out just slightly between waterings. Make sure to water at the base of the plant and avoid getting the leaves wet, as excessive water droplets can lead to leaf scorch."
+        },
+        {
+          "id": 5558,
+          "type": "sunlight",
+          "description": "Dawyck Gold Beech (Fagus sylvatica 'Dawyck Gold') is a slow growing plant and needs moderate amounts of sunlight to thrive. This plant type prefers some shade (especially in the summer) and requires 4-6 hours of direct sunlight per day. The best times of day for sunlight are the morning and late afternoon. Direct sunlight in the middle of the day during the summer months (especially in warmer areas) should be avoided as this can cause the leaves to burn. Placing the plant in a spot that gets morning sun and afternoon shade is ideal for preventing leaf burn."
+        },
+        {
+          "id": 5559,
+          "type": "pruning",
+          "description": "For Dawyck Gold Beech, prune early in the spring before the growth of new shoots. Start pruning by removing dead, diseased, or damaged branches. Next, cut any branches that are out of proportion with the overall shape of the tree. Then, thin out any overcrowded, criss-crossing, or otherwise dense branches to allow for increased light and air circulation. Finally, remove any shoots that grow parallel to the ground instead of upward. It is best to do your pruning in stages, as this is more gentle on the tree and allows it to get used to the change gradually. Do not prune more than 1-third of the tree's branches in a single season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

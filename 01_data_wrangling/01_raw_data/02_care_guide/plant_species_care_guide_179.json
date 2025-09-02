@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1702,
+      "species_id": 179,
+      "common_name": "Variegated Japanese Angelica Tree",
+      "scientific_name": [
+        "Aralia elata 'Variegata'"
+      ],
+      "section": [
+        {
+          "id": 5311,
+          "type": "watering",
+          "description": "A Variegated Japanese Angelica Tree (Aralia elata 'Variegata') requires weekly watering, with 1-2 inches of water distributed evenly around the base of the tree. Depending on the weather and soil moisture, this may require more or less water. During the growing season (spring and summer), water the tree more frequently, as it requires more moisture for optimal growth. During the fall and winter months, reduce watering to once every couple of weeks. Always check the soil moisture before watering so as to not over-water the tree. Water the tree more frequently if it is planted in a container, as potted plants dry out faster than those planted in the ground."
+        },
+        {
+          "id": 5312,
+          "type": "sunlight",
+          "description": "Variegated Japanese Angelica Tree requires full sun to partial shade. It prefers at least 4-6 hours of direct sunlight per day. For optimal growth and coloration, some shade is recommended in the afternoon, especially in hot climates. It can even thrive in low light, although its leaves will not be as vibrant."
+        },
+        {
+          "id": 5313,
+          "type": "pruning",
+          "description": "Prune Variegated Japanese Angelica Trees during late winter or early spring (February-March). This is the time of year when the tree is in its dormancy and it is best to prune before the new growth begins. Pruning should be done carefully to maintain the shape of the tree and to remove any diseased, damaged, or dead branches. Inner branches should also be thinned to allow more light and air into the canopy of the tree. It is important not to prune more than 1-third of the tree, as this can cause damage and the growth of new shoots can be inhibited. If possible, leave fruiting branches intact whenever possible. Pruning should be done cautiously and only when necessary."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

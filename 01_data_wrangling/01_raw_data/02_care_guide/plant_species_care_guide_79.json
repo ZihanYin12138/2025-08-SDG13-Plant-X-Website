@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1614,
+      "species_id": 79,
+      "common_name": "Mikawa Yatsubusa Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Mikawa Yatsubusa'"
+      ],
+      "section": [
+        {
+          "id": 5047,
+          "type": "watering",
+          "description": "Water the Mikawa Yatsubusa Japanese Maple once per week in the summer, ensuring the soil stays moist but not soggy. In most situations, this will involve about 2 gallons of water per session. In particularly hot or dry climates, it may be necessary to water more often. In the winter, reduce the number of waterings to about once a month, with just enough to prevent the soil from completely drying out."
+        },
+        {
+          "id": 5048,
+          "type": "sunlight",
+          "description": "Mikawa Yatsubusa Japanese Maple (Acer palmatum 'Mikawa Yatsubusa') prefers to be grown in a location that receives at least 4 hours of direct sunlight every day. Direct sunlight should be avoided during the hottest part of the day, especially during the midday hours, when temperatures can get very high and the sun's Rays are the strongest. During the morning and late afternoon, when the sun is lower in the sky and its rays are not as hot, direct sunlight is acceptable for this plant. Too much direct sunlight can cause leaf burn and scorch, which can harm the plant. Partial helps keep the Maple healthy, as it will create a more temperate growing area, mitigating the worst effects of the sun."
+        },
+        {
+          "id": 5049,
+          "type": "pruning",
+          "description": "Mikawa Yatsubusa Japanese Maple (Acer palmatum 'Mikawa Yatsubusa') should be pruned in late winter or early spring before the new growth emerges. Prune only to maintain the desired size and shape, removing any dead wood or overlapping branches. Be sure to use sharp, sterilised pruning tools to help ensure that diseases and pests are not spread between plants. Avoid heavy pruning as it will reduce the health of the plant over time. Focus on removing dead or weak branches and making light cuts to those that need shaping. Lastly, when pruning always remember to keep the tree's natural form in mind."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

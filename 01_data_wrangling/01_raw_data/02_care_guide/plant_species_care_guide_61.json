@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1599,
+      "species_id": 61,
+      "common_name": "Hogyoku Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Hogyoku'"
+      ],
+      "section": [
+        {
+          "id": 4996,
+          "type": "watering",
+          "description": "Hogyoku Japanese Maples should be watered deeply when the soil is dry about 1-2 inches deep. Always check the soil moisture before deciding how much and how often to water. During the growing season, plan on watering at least once per week, or more often depending on your area's climate. In winter months, water less often, allowing the soil to become mostly dry between waterings."
+        },
+        {
+          "id": 4997,
+          "type": "sunlight",
+          "description": "Hogyoku Japanese Maple (Acer palmatum 'Hogyoku') will need 4 to 6 hours of direct sunlight each day to keep it growing well. However, it should not be in strong, direct, mid-day sunlight as this can lead to scorching of the leaves. The best time to have the plant exposed to direct sunlight is in the early morning or late afternoon, when its intensity is much lower and will not burn the leaves. "
+        },
+        {
+          "id": 4998,
+          "type": "pruning",
+          "description": "Hogyoku Japanese Maple should be pruned twice a year: light pruning in the early spring (April) and heavier pruning in late summer (August). In the early spring, remove dead or damaged branches as well as any suckers that come up from the root system. In late summer, remove any large branches that are crowding out other branches, and thin out any areas that have too many twiggy branches. Do not cut back all of the branches at once or remove more than 1-third of a tree’s total branches in a single year. After pruning, provide the tree with extra water to help it recover and replenish essential nutrients."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1935,
+      "species_id": 491,
+      "common_name": "sneezewort",
+      "scientific_name": [
+        "Achillea ptarmica 'gypsy white'"
+      ],
+      "section": [
+        {
+          "id": 6010,
+          "type": "watering",
+          "description": "Sneezewort requires frequent yet light watering. Water the plant regularly; providing it with water when the top inch of soil is dry. In summer, water it every 2 - 3 days, and in winter every 3 - 4 days. In winter water very lightly; just enough to prevent it from wilting. Do not let the plant stand in water for prolonged periods as this could cause it to rot."
+        },
+        {
+          "id": 6011,
+          "type": "sunlight",
+          "description": "Sneezewort (Achillea ptarmica 'gypsy white') requires an average of 6 hours of direct sunlight every day for optimal health. It is best to give the plant full morning sun, and then slightly dappled shade during the hottest part of the day. As Sneezewort naturally grows in lightly shaded areas, it is important to adjust the amount of sunlight based on the time of year and your plant's environment. "
+        },
+        {
+          "id": 6012,
+          "type": "pruning",
+          "description": "Sneezewort (Achillea ptarmica 'gypsy white') should be pruned regularly to encourage vigorous growth and maintain the pleasing appearance of the perennial. Pruning should be completed in early spring, once the plant has begun to emerge from winter dormancy. At this time, remove any dead, damaged, or diseased growth, as well as any weak, thin, or multi-headed stems. If desired, the plant can also be lightly pruned once in mid-summer to encourage bushiness and promote stronger growth. To do so, simply cut back about 1-third of the tallest stems to the desired height."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

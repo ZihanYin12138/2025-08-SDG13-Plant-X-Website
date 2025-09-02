@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 518,
+      "species_id": 456,
+      "common_name": "Montpellier maple",
+      "scientific_name": [
+        "Acer monspessulanum"
+      ],
+      "section": [
+        {
+          "id": 1557,
+          "type": "watering",
+          "description": "Montpellier maple should be watered on a regular basis to help ensure that it remains healthy and vibrant. Generally, it is best to water these plants once per week during the growing season. When watering, it is important to thoroughly soak the soil around the roots, allowing the water to reach a depth of around 6-8 inches. In the warmer months, it is important to water more frequently as the soil can become dry quickly. During winter, the frequency of watering should be reduced to every 2-3 weeks, as this species is not as active during colder weather. "
+        },
+        {
+          "id": 1560,
+          "type": "sunlight",
+          "description": "Montpellier maple trees thrive best in a location that receives full sun, ideally at least 6-8 hours a day. Montpellier maples should be given full sun exposure during the morning and early evening, as excessive afternoon sunlight can cause sunburn."
+        },
+        {
+          "id": 1562,
+          "type": "pruning",
+          "description": "Pruning a Montpellier maple (Acer monspessulanum) should be done at least once a year, preferably in late winter or early spring. Pruning should be light and moderate, and should strive to maintain the natural shape and structure of the tree. Take care to remove any dead, damaged, diseased, or crossing branches, as well as any branches that are growing too close together or inside the canopy. Prune only just enough to thin and shape the crown, avoid cutting more than 25% of the tree’s branches in a single pruning. If additional pruning is necessary, wait until the following season before doing so."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

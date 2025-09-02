@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1759,
+      "species_id": 247,
+      "common_name": "Cherokee Daybreak Flowering Dogwood",
+      "scientific_name": [
+        "Cornus florida 'Cherokee Daybreak'"
+      ],
+      "section": [
+        {
+          "id": 5482,
+          "type": "watering",
+          "description": "Cherokee Daybreak Flowering Dogwood (Cornus florida 'Cherokee Daybreak') should be watered regularly during its first growing season to establish a healthy root system. For the best results, water deeply and slowly to ensure the entire root system is reached and hydrated. Watering should continue until the ground is saturated (about 1-2 inches of water per week) and then let the soil dry out before watering again. In subsequent season, water the plant at monthly intervals to supplement rainfall. In periods of prolonged drought, water twice a month to keep the soil moist. Avoid over-watering as it can cause root rot and other damage to the plant."
+        },
+        {
+          "id": 5483,
+          "type": "sunlight",
+          "description": "Cherokee Daybreak Flowering Dogwood (Cornus florida 'Cherokee Daybreak') prefers full sun, which means it should receive at least 6 hours of direct sunlight each day. However, it is important to note that this plant can tolerate some shade, which can be beneficial during the hottest part of the day. It is best to provide morning sun, with some shade in the afternoon for optimal growth and flowering."
+        },
+        {
+          "id": 5484,
+          "type": "pruning",
+          "description": "The Cherokee Daybreak Flowering Dogwood should be pruned in late winter, just before new growth appears. Pruning is best done in small amounts each year and should focus mainly on removing dead, damaged or overgrown branches and thinning out the canopy. Any crossing, rubbing or diseased branches should also be removed. Pruning should remove no more than 1/3 of the crown in any 1 season to avoid shock to the plant. If more pruning is necessary, it should be done over several seasons."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

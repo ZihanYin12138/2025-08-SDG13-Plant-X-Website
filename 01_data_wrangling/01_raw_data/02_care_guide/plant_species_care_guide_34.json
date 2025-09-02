@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1578,
+      "species_id": 34,
+      "common_name": "Ribbon-leaf Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Atrolineare'"
+      ],
+      "section": [
+        {
+          "id": 4915,
+          "type": "watering",
+          "description": "Ribbon-leaf Japanese Maples should be watered when the top inch of soil feels dry. Watering should be done deeply and evenly, and it's important not to water too quickly in order to avoid causing leaf burn. The amount of water depends on the plant's size, the temperature, and the humidity, but as a general rule, the soil should be kept evenly moist. Water the plant every few days in spring and summer, and every 7-14 days in fall and winter. Make sure not to allow water to stand around the roots of the plant as it's sensitive to soggy soil."
+        },
+        {
+          "id": 4916,
+          "type": "sunlight",
+          "description": "Ribbon-leaf Japanese Maple (Acer palmatum 'Atrolineare') will do best in full sun or partial shade. This plant should receive at least 4-6 hours of direct sunlight each day in order to thrive. If the plant is more shaded, it will require less sunlight, which can be as little as 2-3 hours per day. However, when grown in a heavily shaded location, the plant may not display its vibrant colors and foliage evenly."
+        },
+        {
+          "id": 4917,
+          "type": "pruning",
+          "description": "Ribbon-leaf Japanese Maple (Acer palmatum 'Atrolineare') should be pruned lightly in early spring, before new growth appears. Pruning too late in the year may cause damage to new buds. The plant should be pruned in a way that maintains its natural shape and gently removes any dead or damaged branches. Heading back long shoots to desired length and thinning out the plant to allow for better air circulation can also help to keep it healthy. About 1-third of the overall growth should be removed each year, including any diseased or damaged branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

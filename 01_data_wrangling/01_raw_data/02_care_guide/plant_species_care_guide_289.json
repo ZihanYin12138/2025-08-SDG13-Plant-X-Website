@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 592,
+      "species_id": 289,
+      "common_name": "Kadota Fig",
+      "scientific_name": [
+        "Ficus carica 'Kadota'"
+      ],
+      "section": [
+        {
+          "id": 1777,
+          "type": "watering",
+          "description": "Kadota Fig plants prefer to be watered deeply and infrequently, usually about once a week or so during the growing season. The best way to know when to water is to check the soil 1-2 inches deep with your finger and if it is dry, it needs to be watered. As Kadota Fig plants mature, they will require less water. If in doubt, it is better to underwater these plants than to overwater them. In periods of extreme heat, you may need to water more often."
+        },
+        {
+          "id": 1778,
+          "type": "sunlight",
+          "description": "Kadota Fig plants thrive when exposed to full sunlight for 6 to 8 hours every day. They prefer sunlight in the morning and early afternoon rather than the hot afternoon sun, which can scorch the fragile leaves. When given the proper amount of sunlight, these plants will grow and produce many figs. During the month of July, Kadota Fig plants should receive 10 to 12 hours of direct sunlight for best results."
+        },
+        {
+          "id": 1779,
+          "type": "pruning",
+          "description": "Kadota Fig plants should be pruned regularly, beginning right after bud set in the spring. Prune the plants back to about 2/3 of their height in order to promote a strong structure and healthy growth. It is important to remove any dead or diseased wood during pruning. Prune laterals back to only a few leaves in order to keep the Kadota Figs from becoming too dense. Prune the plants once a year in order to maximize their production of figs. For best results, prune in the winter or early spring before new buds form."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

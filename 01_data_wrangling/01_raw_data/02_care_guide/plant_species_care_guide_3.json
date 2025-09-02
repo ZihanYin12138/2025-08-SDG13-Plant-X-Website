@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 45,
+      "species_id": 3,
+      "common_name": "White Fir",
+      "scientific_name": [
+        "Abies concolor"
+      ],
+      "section": [
+        {
+          "id": 142,
+          "type": "watering",
+          "description": "White Fir (Abies Concolor) should be watered thoroughly once per week during the growing season. During the winter, water should be reduced to once every two weeks. The soil should be moist but not soggy, so it is important to adjust the amount of water as needed.\n\nIf the soil around your White Fir becomes too wet, it is important to aerate the soil by adding a bit of sand or stone to allow water to drain better. Firs can also suffer from over-watering, so be sure to check the soil before each watering and adjust accordingly. When in doubt, less water is better than too much when it comes to White Firs."
+        },
+        {
+          "id": 143,
+          "type": "sunlight",
+          "description": "White Fir (Abies Concolor) requires a minimum of 6 hours of direct sunlight per day in order to grow and thrive. It prefers full sun, but it can also tolerate partial shade. The best time for White Fir to receive sunlight is between 10am and 2pm, when the sun is at its strongest. During the late afternoon and early morning, the sun's rays may be too weak for the tree to absorb.\n\nIf the tree is not receiving enough sunlight, it may become stunted or develop yellowing needles."
+        },
+        {
+          "id": 144,
+          "type": "pruning",
+          "description": "Pruning white fir Abies concolor should be done regularly to keep the tree healthy and promote new growth. Pruning should be done in late winter or early spring before new growth emerges. Make sure to remove any dead, diseased, or damaged branches at this time. Pruning should be light, removing no more than 1/3 of the tree’s total foliage. Make sure to leave enough foliage to maintain the natural shape of the tree. Pruning can be done with hand shears or pruning saws."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

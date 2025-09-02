@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1728,
+      "species_id": 213,
+      "common_name": "Eastern Redbud",
+      "scientific_name": [
+        "Cercis canadensis"
+      ],
+      "section": [
+        {
+          "id": 5389,
+          "type": "watering",
+          "description": "Its best to water deeply once a week, in spring and summer when the tree is actively growing and producing new leaves. When the weather is particularly dry, additional watering may be necessary. The soil should not remain soggy or wet, so it's best to wait until the top inch or 2 of soil is dry before watering. During the winter months, the tree should be watered less often, usually every 2 to 3 weeks, or when the soil is very dry."
+        },
+        {
+          "id": 5390,
+          "type": "sunlight",
+          "description": "Eastern redbuds typically require 6 to 8 hours of full sun daily and prefer soil that is evenly moist but not wet. This plant species grows best when in an area that is partially shaded in the afternoon, turning to full sun in the morning. In hotter climates, it is best to provide some shade in the afternoon to reduce any potential scorching of its delicate foliage. If planted in an area with too much shade, the tree will not bloom as well as if it were in full sun."
+        },
+        {
+          "id": 5391,
+          "type": "pruning",
+          "description": "When to prune Eastern Redbud: Pruning should take place in late winter or early spring before the foliage begins to appear. Late spring and summer pruning tends to cause stunted growth in the following season. Pruning should be light and selective, cutting just enough to shape the tree but still retain its natural shape and appeal. Removal of dead, crossing, and damaged branches should be given priority. Heavy pruning and topping should be avoided, as these practices can harm the tree’s health."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": 11,
+      "common_name": "Coryneum blight (Shot hole disease)",
+      "scientific_name": "Wilsonomyces carpophilus",
+      "other_name": [
+        "Shot hole disease (Coryneum blight)"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is coryneum blight (Wilsonomyces carpophilus)?",
+          "description": "Coryneum blight, or shot hole disease, is a fungal infection caused by the pathogen Wilsonomyces carpophilus. It affects various fruit trees such as peach, nectarine, apricot, almond (both ornamental and nut-bearing), and to a lesser extent, cherry trees (both sour and sweet varieties). The disease is characterized by developing small, circular lesions or \"shot holes\" on the leaves, which can expand and merge under warm and humid environments. These lesions may have a tan or gray center with a reddish-brown border."
+        },
+        {
+          "subtitle": "How coryneum blight (Wilsonomyces corpophilus) occurs? ",
+          "description": "The fungal pathogen primarily occurs through the dispersal of fungal spores. It infects plants through wounds or natural openings such as stomata on the leaves. Spores of the fungus are spread by wind, rain, or through contact with infected plant material. \nOnce the spores land on susceptible plants, they germinate and penetrate the plant tissues, establishing an infection. Warm temperatures, high humidity, and excessive moisture promote its growth."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Control",
+          "description": "•\tPrune and remove dead or diseased branches, buds, and twigs. This helps reduce the potential sources of the pathogen and improves air circulation within the tree canopy.\n\n•\tAvoid overhead watering, as leaves must be moist for infection to occur. Use drip irrigation or direct water to the soil around the base of the tree.\n\n•\tRake and destroy fallen infected leaves and debris to reduce the overwintering and spread of the disease.\n\n•\tMaintain overall tree health through proper nutrition, irrigation, and pest control practices. Healthy trees are more resistant to diseases.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "Here are some commonly available fungicides for treating Coryneum blight (Wilsonomyces carpophilus)\n\n•\tArmada 50 WDG: Contains trifloxystrobin and triadimefon (Group 3 + 11).\n\n•\tBonide Fung-onil Multi-purpose Fungicide: Contains chlorothalonil (Group M5).\n•\tEagle 20 EW: Contains myclobutanil (Group 3).\n\n•\tProtect DF: Contains mancozeb (Group M3).\nAlways follow label instructions and consult local experts for specific recommendations and availability in your area.\n\n"
+        }
+      ],
+      "host": [
+        "almond",
+        "apricot",
+        "laurel",
+        "nectarine",
+        "peach"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/11_wilsonomyces_carpophilus/og/Peach_shot_hole_disease.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/11_wilsonomyces_carpophilus/regular/Peach_shot_hole_disease.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/11_wilsonomyces_carpophilus/medium/Peach_shot_hole_disease.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/11_wilsonomyces_carpophilus/small/Peach_shot_hole_disease.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/11_wilsonomyces_carpophilus/thumbnail/Peach_shot_hole_disease.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

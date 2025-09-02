@@ -1,0 +1,136 @@
+{
+  "id": 166,
+  "common_name": "Snakebark Maple",
+  "scientific_name": [
+    "Acer tegmentosum"
+  ],
+  "other_name": [
+    "Manchurian Striped Maple"
+  ],
+  "family": null,
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "tegmentosum",
+  "genus": "Acer",
+  "origin": [
+    "Japan",
+    "China",
+    "Korea",
+    "Taiwan"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 30,
+      "max_value": 30,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Cutting",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "4"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=166&size=og&key=sk-ACnv68b0630adff3b12096",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=166&size=og&key=sk-ACnv68b0630adff3b12096'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "trunk",
+      "color": [
+        "brown-green-white"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "brown-green-white"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "part shade",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=166&key=sk-ACnv68b0630adff3b12096",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": false,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Snakebark Maple (Acer tegmentosum) is an amazing species of tree. It's unique snake-like bark is what earns the tree its name. Often referred to as the vibrant tree, it is a deciduous species with bright red, green, and yellow foliage that stands out against other trees, making it a wonderful addition to any landscape. In the autumn, it further stands out when its leaves turn shades of yellow, orange, and red. Not only is this species of maple a beautiful addition to any outdoor space, but it is also very hardy and can thrive in a wide range of climates. It is an excellent choice for low-maintenance gardening and requires little pruning. All around, the Snakebark Maple is an amazing species of tree to enjoy.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/166_acer_tegmentosum/og/9310377367_1b5eed3b3a_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/166_acer_tegmentosum/regular/9310377367_1b5eed3b3a_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/166_acer_tegmentosum/medium/9310377367_1b5eed3b3a_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/166_acer_tegmentosum/small/9310377367_1b5eed3b3a_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/166_acer_tegmentosum/thumbnail/9310377367_1b5eed3b3a_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 43,
+      "common_name": "Dothiorella canker",
+      "scientific_name": "Neofusicoccum spp.",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What are Branch canker and dieback (Neofusicoccum ssp.)?",
+          "description": "Branch canker and dieback, formerly known as Dothiorella Canker, is a fungal disease caused by Neofusicoccum, Botryosphaeria, and Fusicoccum species. It affects a wide range of woody plants worldwide, including avocados, apples, pears, peaches, and ornamental trees. Symptoms include elongated dark discolorations, cracked or sunken bark, and reddish sap that dries to brown and white powder. Leaves and small branches may wither and die, while infected fruit develop small brown lesions that become sunken and black, leading to subsequent decay. "
+        },
+        {
+          "subtitle": "How do Branch canker and dieback (Neofusicoccum ssp.) occur?",
+          "description": "Neofusicoccum fungi enter plants through wounds or natural openings. They colonize the bark, causing sunken cankers that encircle stems and branches, leading to dieback of leaves and fruit. The disease spreads in wet conditions like rain or irrigation. Infected plant material can also transmit the disease. Warm and humid conditions, with temperatures between 20°C to 30°C (68°F to 86°F) and high humidity, favor the development of this disease."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Control Measures",
+          "description": "•\tProper irrigation techniques, reducing plant stress, planting high-quality material, and maintaining good tree nutrition can prevent plant stress and infection. \n•\tAvoid excessive use of nitrogen fertilizers, which can promote disease development.\n"
+        },
+        {
+          "subtitle": "Physical Control Measures",
+          "description": "•\tInfected plant material should be removed and destroyed, and pruning wounds should be avoided or minimized.\n•\tClean pruning tools can prevent the spreading of the pathogen.\n"
+        },
+        {
+          "subtitle": "Chemical Control Measures",
+          "description": "•\tFungicides commonly used for this fungus include Boscalid, copper-based fungicides, Fludioxonil, Propiconazole, Pyraclostrobin + boscalid, and Thiophanate-methyl. But their use should be determined by a professional.\n\n•\tFungicides with different modes of action should be rotated to prevent resistance.\n\n•\tFungicides should only be used to supplement cultural and physical control measures.\n"
+        }
+      ],
+      "host": [
+        "avocado"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/43_neofusicoccum_spp/og/Botryosphaeria_canker.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/43_neofusicoccum_spp/regular/Botryosphaeria_canker.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/43_neofusicoccum_spp/medium/Botryosphaeria_canker.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/43_neofusicoccum_spp/small/Botryosphaeria_canker.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/43_neofusicoccum_spp/thumbnail/Botryosphaeria_canker.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1896,
+      "species_id": 445,
+      "common_name": "hedge maple",
+      "scientific_name": [
+        "Acer campestre"
+      ],
+      "section": [
+        {
+          "id": 5893,
+          "type": "watering",
+          "description": "Hedge maple plants should be watered regularly and deeply. During the growing season, water them once a week or as needed if the soil becomes dry. Allow the soil to dry out in between waterings. During the winter months, reduce watering to once every 2 weeks. When you do water, use enough water so that it penetrates the root zone."
+        },
+        {
+          "id": 5894,
+          "type": "sunlight",
+          "description": "The hedge maple (Acer campestre) requires full sun in order to thrive and grow healthy foliage. It should receive at least 6 to 8 hours of direct sunlight each day; preferably in the morning hours to avoid heat stress. The hedge maple does not tolerate full shade very well and may become weak and spindly in this environment. It is best to position this plant in an area that receives full sun for the majority of the day, but partial afternoon shade may be beneficial in hot climates."
+        },
+        {
+          "id": 5895,
+          "type": "pruning",
+          "description": "Hedge Maple (Acer campestre) should be pruned twice a year - once in the late summer/early fall and then again in late winter/early spring. Pruning in late summer/early fall helps to reduce the spread of diseases in the spring, whereas pruning in late winter helps to promote proper branching and allows for a dramatic flowering display in the spring. During the summer/fall pruning, it is best to remove any congested or dead branches, as well as shaping the plant if desired. During late winter/early spring pruning, it is best to remove any badly placed branches and any crossing branches, while also removing some of the older, less vigorous branches. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

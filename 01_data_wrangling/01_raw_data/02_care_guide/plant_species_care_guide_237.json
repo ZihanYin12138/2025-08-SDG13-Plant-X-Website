@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1750,
+      "species_id": 237,
+      "common_name": "Eddie's White Wonder Flowering Dogwood",
+      "scientific_name": [
+        "Cornus 'Eddie's White Wonder'"
+      ],
+      "section": [
+        {
+          "id": 5455,
+          "type": "watering",
+          "description": "For optimal growth and flowering of Eddie's White Wonder Flowering Dogwood, the plant should be watered generously about once to twice a week for the first 2 to 3 months after planting. During the next 2 months, the watering frequency can be decreased to about once a week, or even every other week, as long as the soil remains moist. Once the tree is established, watering should be reduced to more of a light sprinkling every 7 to 10 days. In times of drought, extra water may be required in order to keep the soil moist. During periods of excessive rainfall, ensure that the roots are not sitting in standing water to prevent root rot."
+        },
+        {
+          "id": 5456,
+          "type": "sunlight",
+          "description": "Eddie's White Wonder Flowering Dogwood (Cornus 'Eddie's White Wonder') prefers full sun or part shade for best performance and will tolerate most light conditions. However, the best blooming and flowering is achieved when the plant receives at least 6-8 hours of direct sunlight per day. This is especially true in the morning, as some afternoon shade can moderate the intensity of the hot summer sun, preventing too much stress. During winter, it is important for the plant to receive some sunlight even when temperatures and days are colder, as this will help to provide a steady metabolic balance. It is also important to avoid a location where afternoon sunlight is blocked by structures, trees or other plants, as the plant will need more winter sunlight if it is deprived of it."
+        },
+        {
+          "id": 5457,
+          "type": "pruning",
+          "description": "For best results, it is best to prune Eddie's White Wonder Flowering Dogwood (Cornus 'Eddie's White Wonder') annually. Prune this variety in late winter or early spring before new growth begins. When pruning, remove any weak or crossing branches, as well as those that are dead or diseased. Aim to open the middle of the shrub to allow for better air flow. Also remove any branches too close to the ground, and those which are so dense as to interfere with proper air circulation. Avoid removing more than 1/3 of the branches in any 1 pruning session."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

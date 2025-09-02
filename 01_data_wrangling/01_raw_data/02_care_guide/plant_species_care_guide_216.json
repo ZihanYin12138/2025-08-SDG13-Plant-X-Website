@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1731,
+      "species_id": 216,
+      "common_name": "Appalachian Red Redbud",
+      "scientific_name": [
+        "Cercis canadensis 'Appalachian Red'"
+      ],
+      "section": [
+        {
+          "id": 5398,
+          "type": "watering",
+          "description": "Appalachian Red Redbud should be watered regularly to ensure optimal growth and health. Water the plant deeply at least once a week during the growing season, usually April to October. In addition, water the plant if the top inch of soil feels dry to the touch or after periods of extended dry or hot weather. During very hot or dry weather, the plant may need more frequent watering. Avoid overt watering of the plant as this can lead to root rot and other diseases."
+        },
+        {
+          "id": 5399,
+          "type": "sunlight",
+          "description": "Appalachian Red Redbud (Cercsis canadensis 'Appalachian Red') thrives best in full sun, meaning it should receive at least 6 to 8 hours of sunshine daily. It can tolerate some shade, particularly in the mornings, but insufficient sunlight can result in reduced flowering and poor foliage color. This plant should be planted in an area which receives sunlight throughout the day, from mid-morning to late afternoon, to ensure the best flowering and foliage display."
+        },
+        {
+          "id": 5400,
+          "type": "pruning",
+          "description": "Appalachian Red Redbud should be pruned sparingly once a year, after the blooming period is finished. Pruning encourages new, healthy wood to grow, however it should never be done severely as this could reduce the vigour of the plant. It may be helpful to trim off dead or crossing branches in order to ensure that the overall shape of the plant remains neat and attractive. Generally, prune to maintain a central leader, and slightly prune side shoots to encourage additional branching. You should focus on cutting back and thinning the plant, rather than drastically cutting large branches. Pruning should be done with sharp and sterilized shears, curved pruning knives, and light loppers."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

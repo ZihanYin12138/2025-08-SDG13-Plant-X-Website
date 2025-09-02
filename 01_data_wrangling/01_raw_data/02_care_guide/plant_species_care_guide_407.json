@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1865,
+      "species_id": 407,
+      "common_name": "fragrant abelia",
+      "scientific_name": [
+        "Abelia mosanensis 'SMNAMDS' SWEET EMOTION"
+      ],
+      "section": [
+        {
+          "id": 5800,
+          "type": "watering",
+          "description": "Fragrant abelia (Abelia mosanensis 'SMNAMDS' SWEET EMOTION) requires regular watering to ensure optimal health and growth. Water the plant when the top 1-2 inches of soil feel dry to the touch, typically about once a week during summer and once every 2 weeks during winter, depending on the climate. Aim for about a half inch of water each time, and water slowly to ensure thorough saturation of the soil. Avoid overwatering, as soggy soil can lead to root rot and other issues."
+        },
+        {
+          "id": 5801,
+          "type": "sunlight",
+          "description": "Fragrant abelia (Abelia mosanensis 'SMNAMDS' SWEET EMOTION) prefers full sun locations for optimal growth. The plant prefers at least 6-8 hours of direct sunlight each day. Morning sun is preferred as it helps to dry morning dew and keep the plant's foliage dry. If planted in partial shade or full shade, fragrance abelia may not flower as much, and it usually does not reach its full growth potential. During the hottest parts of the day (11am-3pm) it is important to provide some protection from the sun, such as by shading with a light cloth or by moving the container into the shade."
+        },
+        {
+          "id": 5802,
+          "type": "pruning",
+          "description": "Fragrant Abelia should be pruned in the early spring from late March to early April. Pruning should involve light shaping and removal of any dead or broken branches. Pruning should not take away more than 1-third of the plant's growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

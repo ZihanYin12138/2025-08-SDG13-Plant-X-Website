@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 18,
+      "common_name": "Brown patch (large patch or Rhizoctonia blight )",
+      "scientific_name": "Rhizoctonia solani",
+      "other_name": [
+        "Large patch (brown patch or Rhizoctonia blight )",
+        "Rhizoctonia blight (brown patch large patch)",
+        "Damping off"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is a Brown Patch (Rhizoctonia solani)?",
+          "description": "Brown patch, caused by the fungus Rhizoctonia solani, is a widespread turfgrass disease occurring globally. It affects various turfgrass species, including cool season grasses such as tall fescue, Kentucky bluegrass, and perennial ryegrass. The disease manifests as circular patches ranging from a few inches to several feet in diameter, with a dark purple to grayish-brown border known as a \"smoke ring.\" Infected leaves exhibit irregular lesions with purplish to brown borders, eventually turning brown and drying out."
+        },
+        {
+          "subtitle": "How does the Brown Patch (Rhizoctonia solani) occur?",
+          "description": "Rhizoctonia solani reproduces through sclerotia, compact mycelium masses that serve as survival structures. These sclerotia persist in the soil or on plant debris. When conditions are favorable, sclerotia germinate, producing hyphae that infect plants. The fungus can also spread through spores, transported by wind, water, or equipment, facilitating the disease's dissemination to new areas."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices",
+          "description": "•\tAvoid excessive nitrogen applications, as lush growth is more susceptible.\n•\tImprove drainage to prevent waterlogged conditions.\n•\tRemove dew manually to reduce leaf wetness.\n•\tPrune trees and shrubs to improve air circulation and light penetration.\n•\tThatch removal should be considered if it exceeds 0.5 inches.\n•\tPlant disease-tolerant cultivars.\n"
+        },
+        {
+          "subtitle": "Treatment",
+          "description": "•\tPlant biofumigant crops such as mustards (Brassica juncea) in the affected area.\n\n•\tAllow the plants to grow until they reach the flowering stage.\n\n•\tCover the soil with a plastic sheet or tarp to trap the released gases.\n\n•\tLeave the cover in place for 2-4 weeks, allowing the breakdown of plant tissues to release bioactive compounds that suppress the pathogen.\n"
+        }
+      ],
+      "host": [
+        "annual bluegrass",
+        "beans",
+        "bermudagrass",
+        "bluegrass",
+        "fescues",
+        "kikuyugrass",
+        "ryegrasses",
+        "st. augustine grass",
+        "zoysiagrass"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/18_rhizoctonia_solani/og/9737590164_e32057b741_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/18_rhizoctonia_solani/regular/9737590164_e32057b741_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/18_rhizoctonia_solani/medium/9737590164_e32057b741_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/18_rhizoctonia_solani/small/9737590164_e32057b741_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/18_rhizoctonia_solani/thumbnail/9737590164_e32057b741_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

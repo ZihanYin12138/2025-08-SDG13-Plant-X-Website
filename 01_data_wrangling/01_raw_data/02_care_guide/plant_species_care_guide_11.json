@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 53,
+      "species_id": 11,
+      "common_name": "Snakebark Maple",
+      "scientific_name": [
+        "Acer davidii"
+      ],
+      "section": [
+        {
+          "id": 1214,
+          "type": "watering",
+          "description": "Snakebark Maple should be watered regularly and consistently. It is best to water this species deeply and infrequently throughout the warmer months of the year (spring and summer). It should be watered about once a week, or when the soil begins to feel dry about 2 inches below the surface. During the cooler months of the year (fall and winter) the watering should be reduced and only done when the top of the soil is dry. Be sure to avoid over-watering, as this can cause the roots to rot."
+        },
+        {
+          "id": 1215,
+          "type": "sunlight",
+          "description": "Snakebark Maple is an attractive woody shrub or small tree that will thrive in full sun to partial shade. It prefers humid climates and appreciates a protected spot out of strong winds. In ideal growing conditions, this plant species will need 5 to 6 hours of direct sun each day during spring and summer. If you live in a cooler climate, 4 to 5 hours of direct sun will be sufficient. During autumn and winter, reduce sun exposure to 2 or 3 hours of direct sun. This will protect the sensitive leaves from sunburn and help the plant rest for next year's growth."
+        },
+        {
+          "id": 1216,
+          "type": "pruning",
+          "description": "Snakebark Maple should be pruned in early spring, before the new growth starts to form. Prune only dead, diseased, and damaged branches, as pruning too much can harm the tree. You should leave some of the previous season's growth uncut - known as “watersprouts” - in case the tree doesn't grow enough new shoots. Prune branches to 1-third of their length, taking special care when removing shoots from the trunk."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

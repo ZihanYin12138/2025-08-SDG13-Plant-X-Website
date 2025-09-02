@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1809,
+      "species_id": 315,
+      "common_name": "Weeping Laburnum",
+      "scientific_name": [
+        "Laburnum x watereri 'Pendulum'"
+      ],
+      "section": [
+        {
+          "id": 5632,
+          "type": "watering",
+          "description": "Weeping Laburnum (Laburnum x watereri 'Pendulum') should be watered on average once per week, but variations may be necessary depending on soil conditions, the type of pot the plant is in, and ambient temperature. It is best to water at the base of the plant, allowing time for the water to fully saturate the root zone before the next watering. During warmer months, it may require more frequent waterings. During cooler months, waterings should be reduced. As a general rule, it's best to water when the top inch or 2 of soil feels dry."
+        },
+        {
+          "id": 5633,
+          "type": "sunlight",
+          "description": "Weeping Laburnum (Laburnum x watereri 'Pendulum') should be planted in a spot that full sunlight most of the day. Ideally, the plant should receive around 6-8 hours of direct sunlight each day in spring, summer, and fall. However, during the hottest part of the day in summer, partial shade is preferred to protect the plant from the intense heat. During the winter months, Weeping Laburnum should receive some indirect sunlight as a winter or morning sun can still provide the plant with an important energy boost."
+        },
+        {
+          "id": 5634,
+          "type": "pruning",
+          "description": "Weeping Laburnum (Laburnum x watereri 'Pendulum') should be pruned in the late spring or early summer, after flowering but before the end of July. Heavy pruning should not be done on this plant species, as this will remove the flowers for the following season. Instead, light pruning should be done to remove any dead, diseased or damaged branches, and to trim any branches that are growing too long or unsightly. If any branches are interfering with walkways or buildings, those can also be pruned. This species can also be pruned to keep its shape and size, or to thicken up the branches, but care should be taken not to remove too many branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

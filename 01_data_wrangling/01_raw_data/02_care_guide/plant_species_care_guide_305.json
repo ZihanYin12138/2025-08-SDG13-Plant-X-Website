@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1802,
+      "species_id": 305,
+      "common_name": "Pink Diamond Hydrangea (tree form)",
+      "scientific_name": [
+        "Hydrangea paniculata 'Pink Diamond (tree form)'"
+      ],
+      "section": [
+        {
+          "id": 5611,
+          "type": "watering",
+          "description": "For best results, Pink Diamond Hydrangea (tree form) should be watered twice a week. Initially, the soil should be watered deeply enough to moisten deeply and reach the roots. After the initial watering, keep the soil evenly moist, but not saturated. On average, at least 1 inch of water per week should be sufficient. In hot and dry climates, water twice a week. In rainy climates, watch the soil closely and water only when it becomes dry or parched."
+        },
+        {
+          "id": 5612,
+          "type": "sunlight",
+          "description": "Pink Diamond Hydrangea (tree form) need full, direct sun for almost the entire day, typically 6 to 8 hours. It does best in a sunny spot, but can tolerate some shade, especially in the hot afternoon. It will perform its best in dappled or light shade for part of the day, but too much shade can cause the blooms to be less spectacular. With too much shade, the blooms will be less showy and the plant will be less vigorous."
+        },
+        {
+          "id": 5613,
+          "type": "pruning",
+          "description": "For best performance, Pink Diamond Hydrangea (tree form) should be pruned twice a year, in late summer and late winter. When pruning in late summer, prune off any diseased or dead stems. In late winter, prune off any stems that do not fit the desired shape of the shrub. Trim off about 1/4 of all stems and stems that have grown too long. This will help to control the size of the shrub and encourage strong growth of blooms in the coming year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

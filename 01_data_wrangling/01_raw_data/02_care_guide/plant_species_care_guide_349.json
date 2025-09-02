@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1840,
+      "species_id": 349,
+      "common_name": "Alexandrina Saucer Magnolia",
+      "scientific_name": [
+        "Magnolia x soulangeana 'Alexandrina'"
+      ],
+      "section": [
+        {
+          "id": 5725,
+          "type": "watering",
+          "description": "Alexandrina Saucer Magnolia likes moist but well-drained soil. Water this plant species regularly, but not excessively, once every 7 to 14 days during the warm months. During the winter, the plant does not need any supplemental irrigation. Make sure to check the soil before each watering to see if it is dry. If the first inch of soil is dry, the plant needs water. Water the root area of the tree rather than the leaves."
+        },
+        {
+          "id": 5726,
+          "type": "sunlight",
+          "description": "The Alexandrina Saucer Magnolia, when grown to its full potential, can reach up to 12 feet tall and 10 feet wide. Full sun is ideal for most of the day, but this particular Magnolia species can tolerate up to 4 hours of shade each day. When grown in full sun, this species of Magnolia blooms heavily in spring, sometimes with a second bloom in late summer."
+        },
+        {
+          "id": 5727,
+          "type": "pruning",
+          "description": "Alexandrina Saucer Magnolia should typically be pruned in winter when the plant is in its dormant state. However, some light pruning can also be done during late spring or early summer after the flowers have finished blooming. When pruning make sure to only remove dead, diseased, or overcrowded branches and never more than 1-third of the entire plant. Pruning may also be done to control size, shape and to encourage healthier growth and flowers. Depending on the size of the Magnolia, pruning should take no longer than 1-2 hours."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

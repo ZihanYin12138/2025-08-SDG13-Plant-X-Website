@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1828,
+      "species_id": 336,
+      "common_name": "Sunburst Magnolia",
+      "scientific_name": [
+        "Magnolia 'Sunburst'"
+      ],
+      "section": [
+        {
+          "id": 5689,
+          "type": "watering",
+          "description": "Sunburst Magnolia should be watered thoroughly when the top inch of soil becomes dry. During active growth periods, this should occur every 1-2 weeks. During fall and winter, when the magnolia is dormant, water the soil much less frequently. Watering should occur only every 4-6 weeks during these periods, or when the soil is completely dry. Be sure to check the moisture content of the soil before watering and make sure water is reaching the roots. Also, use a shallow saucer or basin to help distribute water away from the center of the plant to avoid creating a \"bathtub\" effect. It is important to not over water Sunburst Magnolia, as this can damage the plant."
+        },
+        {
+          "id": 5690,
+          "type": "sunlight",
+          "description": "Sunburst Magnolia (Magnolia 'Sunburst') is a deciduous tree that requires full sunlight for optimal growth and flowering. The tree requires at least 4-6 hours of direct sunlight each day in order to thrive. Sunburst Magnolia should not be planted in areas that receive less than 4 hours of direct light a day as it may result in stunted growth and fewer blooms. It is best planted in an area that gets sun all day long or at least most of the day in order to get the best possible results. "
+        },
+        {
+          "id": 5691,
+          "type": "pruning",
+          "description": "Pruning Sunburst Magnolia (Magnolia 'Sunburst') is recommended in early spring, just before the beginning of new growth. To promote a healthy shape and size, selective pruning should be done on an annual basis. Remove any dead, diseased or broken branches as soon as possible as well as any crossing branches, branches growing downward, or those that are rubbing against each other. Sunburst Magnolia shrubs may also benefit from light pruning to control size, promote new growth, and create a pleasing shape. If pruning is done when the plant is dormant in late winter or early spring, blooms may be reduced in the following season but the shrub should benefit from increased branching and new growth in the following season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

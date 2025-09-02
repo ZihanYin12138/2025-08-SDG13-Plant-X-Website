@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1696,
+      "species_id": 170,
+      "common_name": "Armstrong Maple",
+      "scientific_name": [
+        "Acer x freemanii 'Armstrong'"
+      ],
+      "section": [
+        {
+          "id": 5293,
+          "type": "watering",
+          "description": "Armstrong Maple is a moderately drought-tolerant tree, so it should be watered deeply and regularly for the first 2 years after planting. Beyond that, water as the soil begins to dry, or when during periods of drought. A good rule of thumb is to provide about 1 inch of water per week in the summer months. It's also important to avoid over-watering. In rainy seasons, check the soil first to make sure it isn't already saturated before watering."
+        },
+        {
+          "id": 5294,
+          "type": "sunlight",
+          "description": "Armstrong Maple trees require full sunlight to thrive. They prefer at least 6 hours of direct, unfiltered sunlight each day. The best time of day for Armstrong Maple trees to get direct sunlight is in the morning, when the sun is at its strongest. To ensure optimal results, ensure that the tree receives at least 6 hours of direct sunlight each day, either in the morning or from both the morning and late afternoon."
+        },
+        {
+          "id": 5295,
+          "type": "pruning",
+          "description": "Acer x freemanii ‘Armstrong’ is a popular maple hybrid known for its hardiness and attractive fall foliage. To maintain its shape and promote healthy new growth, this maple species should be pruned every year in late winter or early spring. Pruning should focus on cutting away any dead, diseased or damaged branches, and thinning the canopy to encourage full growth and minimize the chances of disease. If shaping and size control is desired, light pruning can be done in early summer, but no more than 20% of the branch should be removed at once."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

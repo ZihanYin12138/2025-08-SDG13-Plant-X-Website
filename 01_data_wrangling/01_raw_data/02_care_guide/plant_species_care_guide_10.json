@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 52,
+      "species_id": 10,
+      "common_name": "Johin Japanese Maple",
+      "scientific_name": [
+        "Acer 'Johin'"
+      ],
+      "section": [
+        {
+          "id": 1211,
+          "type": "watering",
+          "description": "Johin Japanese Maple should be watered about every 5-7 days with about 1 gallon of water on each occasion. Water should be applied slowly and evenly so that the soil is thoroughly soaked. Generally, it is better to water your plant deeply only once instead of a little bit every day."
+        },
+        {
+          "id": 1212,
+          "type": "sunlight",
+          "description": "The Johin Japanese Maple needs full sun in the morning and afternoon, as well as some afternoon shade. It should receive at least 6 hours of direct sunlight each day, with a minimum of 4 hours in the morning and 2 to 4 hours in the afternoon. Avoid exposing it to intense midday sun as it is more susceptible to sunburn."
+        },
+        {
+          "id": 1213,
+          "type": "pruning",
+          "description": "Johin Japanese maples should be pruned in early spring, before new growth appears. Pruning should be light, removing no more than 10-15% of the tree at each pruning session. Pay particular attention to crossing or exposed branches, and those that are crossing the center of the tree. Heavy pruning should be avoided, as this encourages weak and leggy growth. Additionally, take care not to prune away any flower buds or new shoots that are forming."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

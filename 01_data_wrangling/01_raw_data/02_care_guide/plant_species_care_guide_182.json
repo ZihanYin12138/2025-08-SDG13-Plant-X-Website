@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 589,
+      "species_id": 182,
+      "common_name": "Pacific Madrone*",
+      "scientific_name": [
+        "Arbutus menziesii"
+      ],
+      "section": [
+        {
+          "id": 1768,
+          "type": "watering",
+          "description": "It generally prefers to be watered deeply, but not too frequently, when the soil is dry. During active growth season, which is typically in the spring and summer, you should water the plant deeply approximately every 7-10 days, depending on the soil moisture. In the fall and winter, you can reduce the watering to every 2-3 weeks. It is important to make sure the water you are providing to your plant is at an appropriate temperature and not cold or warm enough to shock it. Overwatering can lead to root rot, so it is important to observe the plant’s individual needs and not to water too frequently."
+        },
+        {
+          "id": 1769,
+          "type": "sunlight",
+          "description": "Pacific Madrone trees need at least 6 hours of full direct sunlight in order to thrive. They should be exposed to the sun for a minimum amount of direct sunlight for at least 4 hours in the morning and afternoon, or 3 hours in the morning and 3 hours in the afternoon. This amount of direct sunlight should be provided each day during the tree's growing season, typically from late spring to early fall. Additionally, it is important to place Pacific Madrone trees in an area where they will not be heavily shaded, as this can affect their growth."
+        },
+        {
+          "id": 1770,
+          "type": "pruning",
+          "description": "Pruning for Pacific Madrone (Arbutus menziesii) should be minimal, as over-pruning can damage the health of the plant. Pacific Madrone respond well to light pruning for shaping early in the growing season, typically between February and June. For more severe pruning, it is best to wait until the winter months when the plant is dormant. Always prune when the plant is dry, as pruning wet plants can lead to fungal diseases or dieback. When pruning, use sharp pruning shears to make clean and precise cuts. Try to avoid pruning too much in 1 season, as this could leave the plant vulnerable. As a guideline, prune approximately 1/3 of each branch in any given season, but be sure to use your judgment for how much to cut."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

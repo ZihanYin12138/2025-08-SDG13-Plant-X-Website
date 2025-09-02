@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 459,
+      "species_id": 278,
+      "common_name": "Loquat",
+      "scientific_name": [
+        "Eriobotrya japonica"
+      ],
+      "section": [
+        {
+          "id": 1377,
+          "type": "watering",
+          "description": "Loquat (Eriobotrya japonica) should be watered every 7-14 days. The amount of water should be adjusted according to the weather conditions and the type of soil. In general, the amount of water needed is approximately 2-3 inches per week. It is best to water deeply so that the root system of the loquat tree has access to sufficient water. However, be sure to avoid over-watering the plant, as this can cause root rot."
+        },
+        {
+          "id": 1378,
+          "type": "pruning",
+          "description": "Loquat (Eriobotrya japonica) should be pruned annually in the late winter or early spring. Aim to remove no more than 25-30% of the prior season's growth. If pruning is necessary during the summer or fall months, aim to prune no more than 20% of the prior season's growth. When pruning loquats, aim to thin crowded branches and remove old or dead wood. If possible, prune only the tips or sides of branches to promote a balanced and natural structure."
+        },
+        {
+          "id": 1379,
+          "type": "sunlight",
+          "description": "Loquat (Eriobotrya japonica) prefers bright, indirect sunlight for best growth. This plant species does well with about 4-6 hours of full sun or bright, indirect sunlight per day. When grown indoors, loquat should be kept in a location that receives plenty of sunlight, such as a southern- or western-facing window."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

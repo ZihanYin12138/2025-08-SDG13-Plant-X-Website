@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1659,
+      "species_id": 129,
+      "common_name": "Tana Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Tana'"
+      ],
+      "section": [
+        {
+          "id": 5182,
+          "type": "watering",
+          "description": "Tana Japanese Maple (Acer palmatum 'Tana') should be watered once per week, providing 1–1.5 inches (2.5–3.8 cm) of water each time. Make sure the soil is moist but not soggy or waterlogged. During the warmer months, it may need to be watered more often if the soil gets too dry. You can use a soil moisture meter to check the water levels and determine when it needs to be watered, and avoid letting the soil dry out completely. In the winter, do not allow the plant to remain wet, but do give it the occasional trickle of water if the soil feels largely dry."
+        },
+        {
+          "id": 5183,
+          "type": "sunlight",
+          "description": "Tana Japanese Maple (Acer palmatum 'Tana') plants need full sun in the morning for at least 4-6 hours, and partial or dappled shade during the afternoon. They do best with protection from hot afternoon sun and preferably some shade during the late afternoon and evening. The more sun that the Tana Japanese Maple receives, the more brilliant its purple-red leaf color will be."
+        },
+        {
+          "id": 5184,
+          "type": "pruning",
+          "description": "Tana Japanese Maple (Acer palmatum 'Tana') should be pruned in late winter or early spring when the tree is dormant. The amount of pruning needed varies depending on the size of the tree, with larger trees requiring more pruning than smaller ones. Generally, the goal should be to remove dead or diseased branches, thin out densely populated branches, and open the canopy of the tree to allow light in and promote airflow. However, prune sparingly; avoid drastic pruning as it can weaken the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

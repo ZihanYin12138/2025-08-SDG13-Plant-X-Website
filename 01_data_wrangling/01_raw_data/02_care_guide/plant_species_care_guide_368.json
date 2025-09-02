@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 496,
+      "species_id": 368,
+      "common_name": "Jonagold Apple",
+      "scientific_name": [
+        "Malus 'Jonagold'"
+      ],
+      "section": [
+        {
+          "id": 1491,
+          "type": "watering",
+          "description": "Jonagold Apples (Malus 'Jonagold') should be watered thoroughly once a week in the spring, summer, and fall. During the hottest months of summer, you may need to water more often. Be sure not to over water as root rot can occur. During the winter months, water more cautiously as the plant will be dormant. Only water when the top few inches of soil are dry."
+        },
+        {
+          "id": 1492,
+          "type": "sunlight",
+          "description": "Jonagold Apple requires 8-10 hours of direct, unfiltered sunlight per day. During the summer months, when the days are longer, it is important that the apple tree receives enough sunlight to grow and develop fruit. The Jonagold Apple should be exposed to the longest period of sunlight possible to ensure adequate growth. In the winter months, when the days are shorter, it should still be exposed to 6-8 hours of direct sunlight daily. If this is not possible, it is recommended that supplemental lighting be provided to ensure adequate sunlight for the apple tree."
+        },
+        {
+          "id": 1493,
+          "type": "pruning",
+          "description": "When pruning Jonagold Apple (Malus 'Jonagold'), generally it should be pruned during late winter or early spring (February to April). The amount of pruning should be minimal and only done to remove dead or diseased wood, as well as branches crossing each other or that are growing in an undesirable direction. It's important to only prune the branches that are necessary and avoid removing much of the canopy. Jonagold apples are a large, semi-dwarf apple tree, so it's important to not over prune to not risk damaging or stunting the tree. In addition, the size and number of fruit is largely determined by the amount of vegetative growth, so it's important to limit pruning to no more than 15-20% of the tree's canopy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1710,
+      "species_id": 192,
+      "common_name": "Whitebark Himalayan Birch",
+      "scientific_name": [
+        "Betula utilis 'var. jacquemontii'"
+      ],
+      "section": [
+        {
+          "id": 5335,
+          "type": "watering",
+          "description": "Whitebark Himalayan Birch should be watered approximately once a week. The amount of water needed will depend on the size and age of the tree, as well as the weather conditions. In hot summer months, the tree may need additional watering more often, whereas during cooler months or during dry spells, less water may be necessary. Water should be avoided from flowing onto the trunk or foliage of the tree, and the water should only be applied to the soil. Soil should be moist but not soggy for optimal growth. If the soil is allowed to dry out too much, the tree will become stressed and growth may be stunted."
+        },
+        {
+          "id": 5336,
+          "type": "sunlight",
+          "description": "Whitebark Himalayan Birch (Betula utilis 'var. jacquemontii') is a hardy deciduous tree that prefers bright, full sun exposure. Ideally, the tree should receive 6 to 8 hours of direct sunlight each day to remain healthy and thrive. As long as it receives enough sun, the Whitebark Himalayan Birch can tolerate a wide range of temperatures and will thrive in both hot and cold climates. Additionally, its broad-tipped foliage is able to efficiently collect energy from sunlight, making it a great choice for the brightest of spots."
+        },
+        {
+          "id": 5337,
+          "type": "pruning",
+          "description": "Whitebark Himalayan Birch should be pruned right after the tree flowers in late spring or early summer. Pruning should be done carefully to preserve the tree's natural structure. Pruning should be minimal and should focus mainly on clearing dead or diseased tissue from the tree, and removing any damaged, overcrowded or weak branches. Heavy pruning is not recommended for this species."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

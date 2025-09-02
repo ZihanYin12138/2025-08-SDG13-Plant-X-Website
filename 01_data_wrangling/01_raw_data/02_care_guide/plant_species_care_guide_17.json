@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 59,
+      "species_id": 17,
+      "common_name": "Fullmoon Maple",
+      "scientific_name": [
+        "Acer japonicum"
+      ],
+      "section": [
+        {
+          "id": 1232,
+          "type": "watering",
+          "description": "Fullmoon Maple thrives best with regular watering. Water the soil deeply, providing about 1 inch of water weekly during the growing season (April through October). Decrease watering slightly during the winter months (November through March), providing approximately 1/2 inch of water every 2 weeks. Ensure that the soil is evenly moist but not too wet, and avoid overwatering. Additionally, consider adding a mulch layer of organic material around the base of the plant to help the soil retain moisture and reduce weed growth."
+        },
+        {
+          "id": 1233,
+          "type": "sunlight",
+          "description": "Fullmoon Maple trees require direct sunlight for a minimum of 6 hours each day. Although they will tolerate full sun exposures, they prefer morning sun and afternoon shade during the hottest hours of the day and do well in partial shade. During the winter months the plant needs less sunlight and morning sun is preferable. Keep the tree planted in a sunny area to ensure a healthy life and high-quality blooms."
+        },
+        {
+          "id": 1234,
+          "type": "pruning",
+          "description": "The Fullmoon Maple should be pruned in late winter or early spring. Pruning should focus on removing dead and weak branches and should not be overly aggressive. Remove no more than 1-third of the total branch structure. Remove water sprouts and any large multiple shoots growing from the same area. You may also want to selectively prune some branches to reduce the overall size of the tree if desired."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

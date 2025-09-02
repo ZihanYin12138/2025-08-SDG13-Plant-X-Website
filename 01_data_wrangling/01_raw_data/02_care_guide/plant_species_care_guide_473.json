@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1919,
+      "species_id": 473,
+      "common_name": "Alps yarrow",
+      "scientific_name": [
+        "Achillea distans"
+      ],
+      "section": [
+        {
+          "id": 5962,
+          "type": "watering",
+          "description": "Alps yarrow (Achillea distans) should be watered approximately every 7-10 days in spring and summer. Water thoroughly until it starts to drain out of the bottom of the pot. In winter, it should only be watered occasionally when the soil begins to feel dry to the touch, around once every 2 to 3 weeks. It is important to not let the soil dry out completely. Allow the top few inches of soil to dry before thoroughly watering again."
+        },
+        {
+          "id": 5963,
+          "type": "sunlight",
+          "description": "Alps yarrow is a full sun plant species and will require at least 6 hours of direct sunlight a day for optimal growth. If possible, this plant species should receive morning sun and afternoon shade to prevent the leaves from becoming scorched in the heat of the afternoon."
+        },
+        {
+          "id": 5964,
+          "type": "pruning",
+          "description": "Alps yarrow (Achillea distans) should generally be pruned in early spring, before new growth begins. This will encourage the plant to produce fresh, new stems and a more upright and bushy shape. When pruning, make sure to remove shoots that are thin or broken and dead or diseased stems. Any shoots that are too long should be cut by about 1-third to promote branching out. It is also important to remove any flowers that have faded or finished blooming, as this will help prevent further flowering and promote new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

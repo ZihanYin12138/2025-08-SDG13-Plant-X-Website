@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1726,
+      "species_id": 210,
+      "common_name": "Katsura Tree",
+      "scientific_name": [
+        "Cercidiphyllum japonicum"
+      ],
+      "section": [
+        {
+          "id": 5383,
+          "type": "watering",
+          "description": "The Katsura Tree needs regular and consistent watering. During the period of active growth, from spring until late summer, water the tree at least once a week and more during periods of heat stress. During the fall and winter months, water the tree less frequently, every 2-3 weeks, as it is not actively growing and therefore does not need as much water. Apply water directly to the soil at the base of the tree, never to the actual foliage, and water slowly until the soil is saturated to a depth of 2-3 inches. To check if the tree needs water, poke your finger just below the surface of the soil. If it is dry, then the tree needs water."
+        },
+        {
+          "id": 5384,
+          "type": "sunlight",
+          "description": "Katsura Trees prefer direct sunlight during spring and early summer. They should receive a minimum of 4 to 5 hours of direct sun each day, with up to 7 or 8 hours being ideal for most growth. During late summer and fall, less direct light is recommended, since the tree largely shuts down active growth during these months. Though it can tolerate some full shade, avoid prolonged periods of darkness, as this can cause the tree to weaken or stunt its growth."
+        },
+        {
+          "id": 5385,
+          "type": "pruning",
+          "description": "When it comes to pruning Katsura Trees, it's best to prune them early in the season, from late winter to early spring. Pruning should be done cautiously because the Katsura Tree is a slow grower. The main goal when pruning a Katsura Tree is to maintain its natural form and shape. To achieve this, prune the tree to remove any crossing branches and any dead or diseased wood. Also, to keep the tree from getting too tall, it's important to selectively remove some of the longest or tallest shoots. Prune out any thin, weak shoots to encourage the growth of more vigorous ones.\n\nOverall, a conservative approach to pruning a Katsura Tree is the best option. Avoid hard pruning and heavy removal of foliage as this can lead to excess stress on the tree. Less is more when it comes to pruning a Katsura Tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

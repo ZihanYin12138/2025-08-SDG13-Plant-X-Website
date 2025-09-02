@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1612,
+      "species_id": 77,
+      "common_name": "Linearilobum Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Linearilobum'"
+      ],
+      "section": [
+        {
+          "id": 5041,
+          "type": "watering",
+          "description": "Linearilobum Japanese Maple (Acer palmatum 'Linearilobum') should be watered once a week, providing about 1 inch of water. The best time to water is early in the morning, so the foliage can dry quickly and avoid fungal diseases. During periods of extreme heat, you may need to water more often in order to maintain moisture levels. Avoid overwatering, as Japanese maples prefer moist, but not soaking wet, soil."
+        },
+        {
+          "id": 5042,
+          "type": "sunlight",
+          "description": "Linearilobum Japanese Maple (Acer palmatum 'Linearilobum') is a slow-growing, deciduous shrub that prefers partial sunlight and shade. This plant should receive bright, filtered sunlight for about 4-6 hours a day, preferably during morning or late afternoon hours when the sun's rays are less intense. When located in direct sunlight, the plant may become sunburned or suffer from leaf scorch. It is best to avoid too much direct sun, especially during the hottest part of the day, or the leaves may turn yellow and the growth may be stunted."
+        },
+        {
+          "id": 5043,
+          "type": "pruning",
+          "description": "Linearilobum Japanese Maple should be pruned twice a year to maintain its shape and size. In the early summer, lightly trim back the branches to control the size of the tree. Then in the late winter or early spring, prune back any branches that are dead or damaged. Remove less than a third of the total branches on the tree at any 1 time to maintain a natural balance. When pruning, use sharp, clean pruning shears and avoid tearing branches when possible. Remember to prune with the goal of removing the least amount of stems or branches possible, while still achieving the desired form."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

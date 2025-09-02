@@ -1,0 +1,138 @@
+{
+  "id": 374,
+  "common_name": "Melrose Apple",
+  "scientific_name": [
+    "Malus 'Melrose'"
+  ],
+  "other_name": [],
+  "family": null,
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Melrose",
+  "variety": null,
+  "species_epithet": "'Melrose'",
+  "genus": "Malus",
+  "origin": [
+    "United States"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 25,
+      "max_value": 25,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation",
+    "Budding",
+    "Layering Propagation",
+    "Budding",
+    "Budding",
+    "Whip Grafting Propagation",
+    "Cleft Grafting Propagation",
+    "Budding",
+    "Inarching"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "4"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=374&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=374&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "branch",
+      "color": [
+        "green-brown"
+      ]
+    },
+    {
+      "part": "fruit",
+      "color": [
+        "pink-green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "twigs",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=374&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": true,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": false,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": true,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Melrose Apple (Malus 'Melrose') is a highly desirable landscape and garden tree. With its attractive white blooms in spring, and its bright red fruit turning to dark yellow in the fall, this deciduous tree is a sight to behold! The bright red, sweet and tart apples of the Melrose variety are sure to be a hit with everyone. Melrose Apple is resistant to many of the most common apple diseases, making it an ideal variety for commercial planting in many areas. With an easy-care nature, it's an excellent choice for home gardens. Its stunning foliage and tasty fruit make the Melrose an amazing tree for any landscape!",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/374_malus_melrose/og/50860213661_1b84b33396_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/374_malus_melrose/regular/50860213661_1b84b33396_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/374_malus_melrose/medium/50860213661_1b84b33396_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/374_malus_melrose/small/50860213661_1b84b33396_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/374_malus_melrose/thumbnail/50860213661_1b84b33396_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

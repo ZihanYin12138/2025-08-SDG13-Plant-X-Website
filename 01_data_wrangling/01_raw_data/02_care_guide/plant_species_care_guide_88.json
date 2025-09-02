@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1622,
+      "species_id": 88,
+      "common_name": "Oregon Sunset Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Oregon Sunset'"
+      ],
+      "section": [
+        {
+          "id": 5071,
+          "type": "watering",
+          "description": "Oregon Sunset Japanese Maples should be watered on a regular basis to ensure healthy growth. They prefer moist soil that is kept consistently moist, but not soggy. Water thoroughly each time you water and wait until the soil has dried out before watering again. Daily watering may be necessary during hot, dry weather. In the cooler, more moderate months of spring and fall, water about once or twice a week. Always check the soil before watering to make sure it is dry and not already saturated."
+        },
+        {
+          "id": 5072,
+          "type": "sunlight",
+          "description": "Oregon Sunset Japanese Maple requires full-sun to partial-shade exposure, depending on the season. During the summer months, this species should receive 6 hours of direct sunlight daily; in the winter months, aim for 4 or 5 hours of indirect sunlight. Too little sunlight can result in reduced growth and health in the tree. "
+        },
+        {
+          "id": 5073,
+          "type": "pruning",
+          "description": "Oregon Sunset Japanese Maple trees should be pruned in late winter to early spring, right before the tree begins to leaf out. Because Acer palmatum 'Oregon Sunset' is a small tree, it should not require extensive pruning. First, remove any dead, diseased, or damaged branches. Then, prune back only those branches that have become too long and are crowding the overall shape of the tree. For overall shaping, thin out the branches by removing some of the interior shoots or branches that are growing in a circular or inward direction. If necessary, remove any branches that are rubbing or crossing against each other, as these can cause damage over time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

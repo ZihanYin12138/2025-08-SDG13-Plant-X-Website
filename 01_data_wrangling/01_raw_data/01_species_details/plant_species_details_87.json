@@ -1,0 +1,133 @@
+{
+  "id": 87,
+  "common_name": "Orangeola Cutleaf Japanese Maple",
+  "scientific_name": [
+    "Acer palmatum 'Orangeola'"
+  ],
+  "other_name": [],
+  "family": null,
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Orangeola",
+  "variety": null,
+  "species_epithet": "palmatum",
+  "genus": "Acer",
+  "origin": [
+    "Japan"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 8,
+      "max_value": 8,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Root Division"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=87&size=og&key=sk-3ksU68b046f66e1f912089",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=87&size=og&key=sk-3ksU68b046f66e1f912089'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green-pink-red",
+        "green-pink"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "red-grey",
+        "brown"
+      ]
+    },
+    {
+      "part": "veins",
+      "color": [
+        "light-green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "June",
+    "July",
+    "August",
+    "March",
+    "April",
+    "May",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=87&key=sk-3ksU68b046f66e1f912089",
+  "soil": [],
+  "growth_rate": "Moderate",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": false,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Orangeola Cutleaf Japanese Maple is an amazing small tree with an incredible array of features. Not only does it have an orangey-red bark, but its foliage also ‘scallops’ and has an orange-tinted margin, which makes it an eye-catching addition to any garden. It provides a wonderful medley of colors in spring and summer, with leaves that change throughout the season, adding to the allure of this unique tree. It’s also ideal for small yards, as it grows quite slowly, reaching only 8 to 10 feet high and wide. Perfect for any gardener looking to bring some extra color and drama to their garden.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/87_acer_palmatum_orangeola/og/4715310180_346e3f1ccb_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/87_acer_palmatum_orangeola/regular/4715310180_346e3f1ccb_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/87_acer_palmatum_orangeola/medium/4715310180_346e3f1ccb_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/87_acer_palmatum_orangeola/small/4715310180_346e3f1ccb_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/87_acer_palmatum_orangeola/thumbnail/4715310180_346e3f1ccb_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

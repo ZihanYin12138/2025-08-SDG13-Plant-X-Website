@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1817,
+      "species_id": 325,
+      "common_name": "Arnold Tuliptree",
+      "scientific_name": [
+        "Liriodendron tulipifera 'Arnold'"
+      ],
+      "section": [
+        {
+          "id": 5656,
+          "type": "watering",
+          "description": "Arnold Tuliptree should be watered deeply about once per week, or more frequently during periods of extreme heat or drought. This species needs a lot of water to stay healthy, so make sure the soil is always kept moist but not soggy. It is best to water in the morning to help the soil retain moisture throughout the day. Avoid over-watering though, as this can cause root rot or fungal diseases. You should wait to see if the topsoil is dry before you water your plant. In most climates, you should water around 1-2 inches per week for optimal health."
+        },
+        {
+          "id": 5657,
+          "type": "sunlight",
+          "description": "Arnold Tuliptree (Liriodendron tulipifera 'Arnold') is a full-sun loving plant species, preferring 6 to 8 hours of direct sun per day, with partial shade in the harshest, hottest parts of the day. The ideal lighting for this species is bright, indirect light early in the day and more intense light in the afternoon. The amount of sunlight the plant receives will depend on the region and climate. In northern climates, Arnold Tuliptree prefers more morning light than afternoon, while plants in southern climates prefer midday light. If planted in areas with very low light, the plant may become leggy and sparse."
+        },
+        {
+          "id": 5658,
+          "type": "pruning",
+          "description": "Arnold Tuliptree (Liriodendron tulipifera 'Arnold') requires light pruning to maintain its shape and remove dead or broken branches. Pruning should occur in late winter or early spring (February or March) for this particular species. It is best to only prune 1-third to 1-half of the tree's branches each year, depending on how much pruning is needed. When pruning, remember to make smooth cuts that are just outside the branch collar. To avoid stressing the tree, never remove more than 1-third of its total foliage in 1 season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

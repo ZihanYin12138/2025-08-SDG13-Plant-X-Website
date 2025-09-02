@@ -1,0 +1,108 @@
+{
+  "id": 404,
+  "common_name": "glossy abelia",
+  "scientific_name": [
+    "Abelia grandiflora 'Minipan' GOLDEN ANNIVERSARY"
+  ],
+  "other_name": [],
+  "family": "Caprifoliaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Minipan",
+  "variety": null,
+  "species_epithet": "grandiflora",
+  "genus": "Abelia",
+  "origin": [
+    "China"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Division",
+    "Grafting Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=404&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=404&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "August"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=404&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Glossy Abelia (Abelia grandiflora 'Minipan' GOLDEN ANNIVERSARY) is a showstopper of a shrub, distinguishable by its glossy green and yellow variegated leaves that turn russet in the fall. This variety boasts an abundance of fragrant white blooms, arranged in distinctive clusters on arching bold stems. A low maintenance plant that doesn’t require pruning, and is highly resistant to any pest and disease attack, it is ideal for both sunny and semi-shaded areas. Its drought tolerant nature and compact growth make it a great choice for pathways, patio containers and small gardens. What’s more, it also looks particularly attractive during winter. A truly vibrant and hardy plant, Glossy Abelia adds charm, texture and long lasting color to any landscape.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/404_abelia_grandiflora_minipan_golden_anniversary/og/24864929776_d7cf2968b6_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/404_abelia_grandiflora_minipan_golden_anniversary/regular/24864929776_d7cf2968b6_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/404_abelia_grandiflora_minipan_golden_anniversary/medium/24864929776_d7cf2968b6_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/404_abelia_grandiflora_minipan_golden_anniversary/small/24864929776_d7cf2968b6_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/404_abelia_grandiflora_minipan_golden_anniversary/thumbnail/24864929776_d7cf2968b6_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

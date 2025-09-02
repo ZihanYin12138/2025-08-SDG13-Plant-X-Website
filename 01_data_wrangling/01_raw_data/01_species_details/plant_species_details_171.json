@@ -1,0 +1,113 @@
+{
+  "id": 171,
+  "common_name": "Autumn Blaze Maple",
+  "scientific_name": [
+    "Acer x freemanii 'Jeffersred'"
+  ],
+  "other_name": [],
+  "family": null,
+  "hybrid": "freemanii",
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Jeffersred",
+  "variety": null,
+  "species_epithet": null,
+  "genus": "Acer",
+  "origin": [
+    "United States"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 50,
+      "max_value": 50,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Root Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "3"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=171&size=og&key=sk-ACnv68b0630adff3b12096",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=171&size=og&key=sk-ACnv68b0630adff3b12096'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "September",
+    "October",
+    "November",
+    "February",
+    "March",
+    "April",
+    "February",
+    "March",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=171&key=sk-ACnv68b0630adff3b12096",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": false,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Autumn Blaze Maple (Acer x freemanii 'Jeffersred') is the perfect addition to any garden. A member of the Aceraceae family, this deciduous tree is bred for its unique colouring; with green foliage in spring and summer, and vivid red leaves during autumn and winter. It is incredibly hardy and can even tolerate cold winter climates and hot, dry summers. The Autumn Blaze Maple is also impressively fast-growing, reaching a mature height of 30-50 feet in just 10-15 years. Ideal for providing natural shade, it is an excellent choice for any garden.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/171_acer_x_freemanii_jeffersred/og/Acer_x_freemanii_Autumn_Blaze_5zz.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/171_acer_x_freemanii_jeffersred/regular/Acer_x_freemanii_Autumn_Blaze_5zz.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/171_acer_x_freemanii_jeffersred/medium/Acer_x_freemanii_Autumn_Blaze_5zz.jpg",
+    "small_url": "https://perenual.com/storage/species_image/171_acer_x_freemanii_jeffersred/small/Acer_x_freemanii_Autumn_Blaze_5zz.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/171_acer_x_freemanii_jeffersred/thumbnail/Acer_x_freemanii_Autumn_Blaze_5zz.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

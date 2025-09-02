@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1700,
+      "species_id": 176,
+      "common_name": "Autumn Brilliance Serviceberry",
+      "scientific_name": [
+        "Amelanchier x grandiflora 'Autumn Brilliance (tree form)'"
+      ],
+      "section": [
+        {
+          "id": 5305,
+          "type": "watering",
+          "description": "The Mature and tree form of Autumn Briliance Serviceberry requires regular watering to keep it healthy and bring out the best of its autumn brilliance. Depending on your particular climate and the time of year, you should water your tree every 7 to 10 days in a warm, dry season, or every 4 to 7 days in a cooler, wetter season. \n\nTo water your Autumn Brilliance Serviceberry correctly, use a routine watering system that provides enough water for the roots to absorb, but not too much. Use a hose, watering can, or other container to deliver the water, and water deeply and evenly. Make sure the water reaches at least 8 to 10 inches (20 to 25 cm) below the surface, and avoid wetting the foliage as much as possible. In hot, dry weather, water the tree more often. During winter, reduce the amount of water needed."
+        },
+        {
+          "id": 5306,
+          "type": "sunlight",
+          "description": "Autumn Brilliance Serviceberry trees need 6 to 8 hours of sunlight per day in order to thrive. The ideal amount would be about 6 to 7 hours of direct sunlight in the morning until mid- to late afternoon with the remaining hours of natural sunlight either filtered by trees or other plants, or indirect. This species also has good tolerance to shade, so it can handle up to 8 hours of indirect or filtered light."
+        },
+        {
+          "id": 5307,
+          "type": "pruning",
+          "description": "Autumn Brilliance Serviceberry should be pruned between late winter and early spring before the new growth starts to emerge. Pruning should be based on the size and shape desired. Light pruning can be done to remove wild shoots, dead branches, or any branches growing in an undesirable direction. Pruning should be done in moderation, as over-pruning can harm the tree's health by reducing the number of blossoms. It is best to cut no more than a fourth of the total branch length, and to avoid cutting the branches down to the main trunk."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

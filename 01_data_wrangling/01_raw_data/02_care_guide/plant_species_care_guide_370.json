@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 610,
+      "species_id": 370,
+      "common_name": "Liberty Apple",
+      "scientific_name": [
+        "Malus 'Liberty'"
+      ],
+      "section": [
+        {
+          "id": 1833,
+          "type": "watering",
+          "description": "It is important to provide the Liberty Apple plant with an appropriate amount of water. This plant requires moderate watering, which should be done on a regular basis. Water should be applied deeply and thoroughly, allowing it to saturate the soil and reach the roots. Water the Liberty Apple plant 1-2 times per week during the growing season and 1-2 times monthly during the cooler months.  Additionally, check the soil moisture level before watering. If the first few inches of soil are still moist, then additional watering is not necessary."
+        },
+        {
+          "id": 1834,
+          "type": "sunlight",
+          "description": "Liberty apples prefer as much sunlight as possible, but they should not be exposed to direct sunlight during the hottest part of the day. It is best to expose them to 6 to 8 hours a day of full sun in the morning, with afternoon shade if available. The light should be evenly distributed over the entire growing area. Liberty apples require this amount of sunlight in order to grow at their optimal rate and remain healthy."
+        },
+        {
+          "id": 1835,
+          "type": "pruning",
+          "description": "Pruning Liberty Apples (Malus 'Liberty') should be done in early spring before the plant begins to bloom. You should prune off any dead or diseased branches, and any branches that are growing inwards or crossing over other branches. For aesthetic reasons, reduce the height and naturally thin out the canopy to give the tree a balanced shape. General pruning should be done each year, and more drastic pruning if the tree has become overgrown. Be sure to minimize pruning as too much can stress the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1694,
+      "species_id": 168,
+      "common_name": "White Tigress Maple",
+      "scientific_name": [
+        "Acer tegmentosum 'White Tigress'"
+      ],
+      "section": [
+        {
+          "id": 5287,
+          "type": "watering",
+          "description": "Water White Tigress Maple (Acer tegmentosum 'White Tigress') regularly during the growing season in order to maintain healthy foliage. Water it deeply once a week, providing it with 1 to 2 inches of water. During dry periods, increase watering to twice per week to maintain soil moisture.Make sure to water slowly and evenly, applying water at the base of the tree. Monitor soil moisture levels weekly, and water as needed to keep the soil evenly moist. Allow the soil to naturally dry out between waterings. It is important to avoid overwatering, as too much water can lead to plant diseases. Gradually reduce watering during the fall and winter months as the tree enters dormancy."
+        },
+        {
+          "id": 5288,
+          "type": "sunlight",
+          "description": "The White Tigress Maple requires bright, indirect sunlight. Plant this species in a location that gets partial sun for 4-6 hours per day, preferably morning sun and afternoon shade. Full sun exposure may cause the leaves to scorch, but too little sun can prevent vigorous growth. During the summer, it can tolerate full sun, but should be shaded in the afternoon."
+        },
+        {
+          "id": 5289,
+          "type": "pruning",
+          "description": "White Tigress Maple (Acer tegmentosum 'White Tigress') should be pruned twice a year; once in late winter or early spring, and again in late summer or early fall. Pruning in winter or spring should be done lightly, focusing on taking off diseased or dead branches and thinning the canopy to allow more light and air circulation. Pruning in late summer or early fall should focus on shaping and maintaining the tree’s desired size and form. Overall, pruning should be done as minimally as possible - no more than 10-15% of the canopy should be removed at any single pruning session."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

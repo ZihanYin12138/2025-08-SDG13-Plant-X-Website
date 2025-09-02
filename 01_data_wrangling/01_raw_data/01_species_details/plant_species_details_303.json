@@ -1,0 +1,129 @@
+{
+  "id": 303,
+  "common_name": "Tree Form Pee Gee Hydrangea",
+  "scientific_name": [
+    "Hydrangea paniculata 'Grandiflora (tree form)'"
+  ],
+  "other_name": [
+    "P.G. Hydrangea"
+  ],
+  "family": "Hydrangeaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Grandiflora (tree form)",
+  "variety": null,
+  "species_epithet": "paniculata",
+  "genus": "Hydrangea",
+  "origin": [
+    "Eastern and southern China",
+    "Japan",
+    "Sakhalin",
+    "Kuril Island"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 6,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Division"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "4"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=303&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=303&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "January",
+    "February",
+    "August",
+    "July",
+    "August",
+    "February",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=303&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Abiotic disorder",
+    " Fungal leaf spot",
+    " Mildew",
+    " Mold",
+    " Nematodes",
+    "  Deer resistant",
+    " Rabbit resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Summer",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Tree Form Pee Gee Hydrangea is an amazing large shrub that produces hundreds of white flowers in late summer to early fall. It has strong branches that fan out into an elegant, tree like structure, making it an attractive garden feature. Its flowers start out white and turn to green and then again to purple. With its bright foliage and beautiful blooms, it brings a pleasant hint of colour to gardens throughout the season. The hedge of blooms is also attractive to pollinators like butterflies and bees. Its easy care and tidy shape make it easy to maintain and great for the home gardener. A must have for any garden!",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/303_hydrangea_paniculata_grandiflora_tree_form/og/Hydrangea_paniculata_27Grandiflora27_kz3.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/303_hydrangea_paniculata_grandiflora_tree_form/regular/Hydrangea_paniculata_27Grandiflora27_kz3.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/303_hydrangea_paniculata_grandiflora_tree_form/medium/Hydrangea_paniculata_27Grandiflora27_kz3.jpg",
+    "small_url": "https://perenual.com/storage/species_image/303_hydrangea_paniculata_grandiflora_tree_form/small/Hydrangea_paniculata_27Grandiflora27_kz3.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/303_hydrangea_paniculata_grandiflora_tree_form/thumbnail/Hydrangea_paniculata_27Grandiflora27_kz3.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

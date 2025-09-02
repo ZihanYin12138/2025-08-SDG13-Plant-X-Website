@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1812,
+      "species_id": 320,
+      "common_name": "Round Leaf Sweet Gum",
+      "scientific_name": [
+        "Liquidambar styraciflua 'Rotundiloba'"
+      ],
+      "section": [
+        {
+          "id": 5641,
+          "type": "watering",
+          "description": "The Round Leaf Sweet Gum should be watered about once a week in the spring and summer, and once every 2 weeks in the fall and winter. It will need more water during hot, dry periods. The soil should be kept evenly moist, but not soggy. To do this, water deeply and then allow the top 2 to 4 inches of soil to dry out before watering again. Water until it freely drains from the pot or depression in the ground where it is planted."
+        },
+        {
+          "id": 5642,
+          "type": "sunlight",
+          "description": "Round Leaf Sweet Gum (Liquidambar styraciflua 'Rotundiloba') plants thrive best in full sun. It prefers 6-8 hours of direct sunlight a day. However, it can handle some light shade, especially in the afternoon or in areas with very hot summers. The best time of day for this species to receive the maximum amount of sunlight is in the morning hours. If possible, position the plant so it can receive direct sunlight between the hours of 8 am – 10 am. This will ensure the plant gets enough sunlight for healthy growth and blooms."
+        },
+        {
+          "id": 5643,
+          "type": "pruning",
+          "description": "For Round Leaf Sweet Gums, pruning should be done twice a year; once in the early spring (March to April) and then toward the end of summer (August to September). To prune, remove any branches that are dead or dying, and any that intrude into the center of the canopy to promote better air circulation. Reduce the length of branches to control size and make any necessary thinning cuts to ensure an open and symmetrical canopy. The goal of the pruning should be to maintain a strong, healthy, and balanced structure."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

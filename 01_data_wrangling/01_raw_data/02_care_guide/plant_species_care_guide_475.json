@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1920,
+      "species_id": 475,
+      "common_name": "fern-leaf yarrow",
+      "scientific_name": [
+        "Achillea filipendulina 'Altgold'"
+      ],
+      "section": [
+        {
+          "id": 5965,
+          "type": "watering",
+          "description": "Fern-leaf yarrow (Achillea filipendulina 'Altgold') should be watered thoroughly when the top 1-2 inches of soil have dried out. It should be inspected regularly, about once a week, for signs of overwatering or underwatering. During the summer, it may require watering every 3-4 days, while in the cooler months, it may only need to be watered about once a week. It is important to make sure the soil is not allowed to dry out completely between waterings."
+        },
+        {
+          "id": 5966,
+          "type": "sunlight",
+          "description": "Fern-leaf yarrow (Achillea filipendulina 'Altgold') is a low-maintenance perennial that prefers full sun or light shade. This plant is best suited to 6 to 8 hours of direct sunlight each day. During summer, the plant should get up to 8 hours of direct sunlight in order to promote growth and flowering. During winter, it should get an average of 4 to 6 hours of direct sunlight."
+        },
+        {
+          "id": 5967,
+          "type": "pruning",
+          "description": "Fern-leaf yarrow (Achillea filipendulina 'Altgold') should be pruned once a year, typically in the late spring when the new growth emerges. Pruning should be done by cutting back the plant to about 8 inches (20 cm) above the soil surface. This will remove any dead or damaged stems and promote bushier, more vigorous growth. It is also possible to lightly shear the top 6 to 8 inches (15-20 cm) of the plant in midsummer to promote a fuller, attractive form. It is not necessary to prune these plants every season, however, as they can do quite well with minimal pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

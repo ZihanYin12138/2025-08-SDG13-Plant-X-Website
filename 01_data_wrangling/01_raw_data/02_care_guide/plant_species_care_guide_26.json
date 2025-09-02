@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 68,
+      "species_id": 26,
+      "common_name": "Kelly's Gold Boxelder",
+      "scientific_name": [
+        "Acer negundo 'Kelly's Gold'"
+      ],
+      "section": [
+        {
+          "id": 1268,
+          "type": "watering",
+          "description": "Kelly's Gold Boxelder should be watered when the top inch or so of soil has dried out, usually every 2 to 4 days depending on temperature, light, and humidity levels. The frequency of watering as well as the amount of water may have to be adjusted accordingly. It is best to water with small amounts of water deeply, using up to 2 gallons of water per plant. The goal should be to keep the soil evenly moist but not waterlogged, which can lead to root rot."
+        },
+        {
+          "id": 1269,
+          "type": "sunlight",
+          "description": "Kelly's Gold Boxelder (Acer negundo 'Kelly's Gold') is a deciduous tree that grows best in full-sun or partial shade conditions. It should receive 6 to 8 hours of direct sunlight each day in order to maintain healthy growth and keep its vibrant golden-yellow color. During the summer months, it is best to provide Kelly's Gold Boxelder with morning sunlight, as this tree can become stressed by the intense heat of the afternoon sun. In areas with high temperatures, it is recommended to provide afternoon shade so that the tree does not suffer from excessive temperatures. During the winter months, Kelly's Gold Boxelder needs about 4 to 5 hours of direct sunlight each day."
+        },
+        {
+          "id": 1270,
+          "type": "pruning",
+          "description": "Kelly's Gold Boxelder should be pruned annually in early to mid-spring before the new growth has fully emerged. Prune only to remove broken, diseased, or otherwise compromised limbs or branches. Prune only to shape or thin out the tree as necessary, focusing on removing crossing or crowded branches. To maintain its ideal shape, a yearly pruning of up to 25-30% of the tree can be done. Prune carefully, as the tree is susceptible to sunscald, drying out, and other damage if pruned incorrectly."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

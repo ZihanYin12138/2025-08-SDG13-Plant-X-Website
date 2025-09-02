@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1747,
+      "species_id": 233,
+      "common_name": "Pink Dawn Chitalpa",
+      "scientific_name": [
+        "Chitalpa 'Pink Dawn'"
+      ],
+      "section": [
+        {
+          "id": 5446,
+          "type": "watering",
+          "description": "Water Pink Dawn Chitalpa when the top 1-2 inches of the soil feels dry. During the growing season (spring through summer) water the plant regularly, approximately once a week. During warm weather, provide additional frequent watering as need. During the winter months, reduce watering to once every 2 weeks, depending on the soil conditions. Over-watering can cause root rot, so pay close attention to soil moisture levels."
+        },
+        {
+          "id": 5447,
+          "type": "sunlight",
+          "description": "Pink Dawn Chitalpa (Chitalpa 'Pink Dawn') is a drought-tolerant plant species that grows best in direct sunlight. It requires 6 to 8 hours of sunlight every day. During the summer months, the plant should receive full sun from around 10am to 6pm for optimal growing conditions. During the winter months, the plant should receive either early morning or late afternoon sun for a few hours. If planted in an area that does not receive enough sunlight, the plant will not thrive and may not survive."
+        },
+        {
+          "id": 5448,
+          "type": "pruning",
+          "description": "Pink Dawn Chitalpa (Chitalpa 'Pink Dawn') should be pruned in early spring, right before new growth begins. Pruning should be done carefully to ensure the plant has the desired shape and size. Light pruning can be done throughout the growing season to control size, remove dead or damaged branches, and thin out the canopy to increase air circulation and light penetration. Heavy pruning is best avoided since it can weaken the plant. To promote flowering, light pruning of hybrid Chitalpas should be done after the main flush of blooms, cutting back wise shoots to 1/3 of their length."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

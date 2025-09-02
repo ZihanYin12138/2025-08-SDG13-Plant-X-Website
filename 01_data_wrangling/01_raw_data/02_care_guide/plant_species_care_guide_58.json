@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1596,
+      "species_id": 58,
+      "common_name": "Shirazz Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Gwen's Rose Delight'"
+      ],
+      "section": [
+        {
+          "id": 4987,
+          "type": "watering",
+          "description": "Water your Shirazz Japanese Maple every 5 to 7 days with at least 2 inches of water per application. Watering in the mornings will help reduce evaporation and allow the soil to absorb the water more efficiently. Avoid wetting the foliage to prevent fungal diseases, and water directly onto the roots. During hot periods, you may need to water more frequently but always check the soil to ensure when the plant needs water. During cooler weather, you can water less."
+        },
+        {
+          "id": 4988,
+          "type": "sunlight",
+          "description": "Shirazz Japanese Maple (Acer palmatum 'Gwen's Rose Delight') thrives best in an environment with full sun to partial shade 5 to 6 hours of direct sunlight each day is optimal. When planted in an area that receives full sunlight, it is important to monitor daily temperatures and ensure that the plant does not receive too much heat. To ensure optimal growth, this Japanese Maple should receive morning or afternoon sun, and be in shade during the hottest part of the day when temperatures reach their highest."
+        },
+        {
+          "id": 4989,
+          "type": "pruning",
+          "description": "Shirazz Japanese Maple (Acer palmatum 'Gwen's Rose Delight') should be pruned in late winter or early spring. Pruning should be limited and done judiciously, as Japanese maples can be easily damaged by over-pruning. Pruning should focus on eliminating dead, diseased, or damaged branches, as well as controlling size and shape. Additionally, larger branches should be pruned with caution, as this can damage the tree. Thin out inner branches to help air move through the tree, and to develop its structure. Prune to shape as desired, just before a tree’s leaves emerge, and remove any suckers that may appear. Cut back branches that have crossed, as they may rub against each other and cause damage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

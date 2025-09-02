@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 66,
+      "species_id": 24,
+      "common_name": "Mocha Rose Big Leaf Maple",
+      "scientific_name": [
+        "Acer macrophyllum 'Mocha Rose'"
+      ],
+      "section": [
+        {
+          "id": 1262,
+          "type": "watering",
+          "description": "The Mocha Rose Big Leaf Maple should be watered deeply once or twice a week, depending on the weather and the amount of sunlight it is receiving. Make sure to check the topsoil of the potted plant for moisture every few days. If the top layer of soil is dry, then it is time to water the plant. If the soil is still moist, then wait a few more days before attempting to water again. A general rule of thumb is to give the plant a deep watering session equivalent to 1-1.5 inches of water per week. Allow as much water to seep in as possible, and then let the soil dry out before watering again. If the plant is in direct sunlight, be sure to give it extra water to keep it from drying out."
+        },
+        {
+          "id": 1263,
+          "type": "sunlight",
+          "description": "Mocha Rose Big Leaf Maple (Acer macrophyllum 'Mocha Rose') requires full or partial sunlight for optimal growth. Ideally, it should receive 4-6 hours of direct sun per day, with the remainder of the day spent in indirect light or partial shade. To promote healthy growth, the plant should be placed in an area that receives the maximum amount of sunlight available without the risk of its branches and leaves being burned. Additionally, if the area experiences a low level of ambient light, then supplemental lighting can be beneficial."
+        },
+        {
+          "id": 1264,
+          "type": "pruning",
+          "description": "Pruning should take place in late winter or early spring after the last frost. Pruning should be done to maintain the desired size and shape of Mocha Rose Big Leaf Maple. Generally, light pruning should be all that is needed, unless dead or diseased branches need to be removed. Remove any branches that cross or are crowded and selectively thin the canopy slightly to promote air circulation and light penetration. Avoid over pruning as it can weaken and stunt the growth of the tree. Avoid removing more than 1/3 of the tree’s branches in a single pruning session. Overall, we recommend only light pruning for a Mocha Rose Big Leaf Maple."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

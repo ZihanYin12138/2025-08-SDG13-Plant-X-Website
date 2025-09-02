@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1799,
+      "species_id": 302,
+      "common_name": "Sea Buckthorn",
+      "scientific_name": [
+        "Hippophae rhamnoides"
+      ],
+      "section": [
+        {
+          "id": 5602,
+          "type": "watering",
+          "description": "For optimal growth, Sea Buckthorn (Hippophae rhamnoides) requires moderate to regular watering during the growing season (spring through fall). During the summer months, water the plant deeply but less frequently. Depending on the temperature and weather conditions in your area, water every 2 to 3 days. In hotter and drier climates, water more frequently. Reduce your watering to once a week or less once cooler fall temperatures arrive. Make sure to check the soil is still moist before watering Sea Buckthorn. In the winter, Sea Buckthorn will only need occasional watering, maybe once or twice a month. Never allow the soil to completely dry out."
+        },
+        {
+          "id": 5603,
+          "type": "sunlight",
+          "description": "Sea Buckthorn (Hippophae rhamnoides) needs full-sunlight to thrive. It does best in direct sunlight for at least 6 hours per day, though it can tolerate anything from partial sun to full sun. Generally, the more sunny it is, the better this species will do. It is recommended to make sure it can get at least 4 to 6 hours of full sun each day. In addition to the direct sunlight, Sea Buckthorn (Hippophae rhamnoides) needs reflected light from nearby surfaces to help with photosynthesis and fruiting. Therefore, providing it with southeast- or southwest-facing slopes, or near water bodies or large, reflective surfaces, can be advantageous."
+        },
+        {
+          "id": 5604,
+          "type": "pruning",
+          "description": "Sea Buckthorn (Hippophae rhamnoides) is best pruned during dormancy in late winter or early spring, before new growth begins. You can remove up to 1-third of the plant material each year. Start by removing any dead or damaged branches, and then begin thinning the plant by removing the older branches that no longer produce fruit or flowers. This encourages new plant growth and helps maintain a healthy structure. Avoid pruning too much in one season to prevent over-stressing the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

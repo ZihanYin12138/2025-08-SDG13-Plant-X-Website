@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1811,
+      "species_id": 319,
+      "common_name": "Sweet Gum",
+      "scientific_name": [
+        "Liquidambar styraciflua"
+      ],
+      "section": [
+        {
+          "id": 5638,
+          "type": "watering",
+          "description": "Sweet Gum trees should be watered deeply once a week during the active growing season, which is typically from spring through fall. Water thoroughly and slowly. The soil should be kept consistently moist, not too wet or too dry. Allow the top 2 inches of soil to dry out before deeply watering the tree again. During periods of extreme drought supplementation may be required. Additionally, water the root ball of the tree once or twice a month during its first season in the ground."
+        },
+        {
+          "id": 5639,
+          "type": "sunlight",
+          "description": "Sweet Gum (Liquidambar styraciflua) requires 6 to 8 hours of sunlight per day for optimal health. It can also tolerate partial shade or filtered sunlight, but the canopy of the tree will be less dense and the leaves less vibrant in color when not given an adequate amount of sun. Sweet Gum is a deciduous tree, meaning it will lose its leaves in the fall and winter. In the spring, when the days are long and the sunlight is abundant, Sweet Gum trees will start to grow new leaves and will require more sun than the winter months. "
+        },
+        {
+          "id": 5640,
+          "type": "pruning",
+          "description": "Sweet Gum (Liquidambar styraciflua) should be pruned when the tree is young, while it is still developing its structure. Prune before spring growth and during early summer. Start by pruning away dead or diseased branches. Then, remove any branches that are crossing or rubbing up against each other. Thin out the overall form of the tree by removing some branches and creating an open, airy shape. Finally, shorten branches that are competing for dominance and creating an uneven canopy. After pruning, it’s important to maintain your Sweet Gum tree by pruning away crossing or dead branches annually in the spring."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

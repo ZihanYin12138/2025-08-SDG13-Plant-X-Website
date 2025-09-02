@@ -1,0 +1,112 @@
+{
+  "id": 342,
+  "common_name": "Little Gem Magnolia",
+  "scientific_name": [
+    "Magnolia grandiflora 'Little Gem'"
+  ],
+  "other_name": [
+    "Bull Bay"
+  ],
+  "family": "Magnoliaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Little Gem",
+  "variety": null,
+  "species_epithet": "grandiflora",
+  "genus": "Magnolia",
+  "origin": [
+    "Southeastern United States"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 60,
+      "max_value": 60,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=342&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=342&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=342&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [
+    "Diptera - true flies",
+    " Leaf miner insect",
+    " Stem borer insects"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Little Gem Magnolia is one of the most popular garden plants. This slow-growing, evergreen tree has an upright pyramidal shape with dense, glossy foliage. Its easily maintained reaching up to 10-15 feet in height, and is perfect for tight spaces. The deep green, magnolia-like leaves have a rusty underside which adds to its charm. In fall and winter, pale yellow flowers grace its branches. Its tolerance for heat and humidity make it an ideal choice for any garden, and as an added bonus it's virtually pest and disease-free. Its unmistakable beauty makes it a great addition to any landscape.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/342_magnolia_grandiflora_little_gem/og/2560px-thumbnail.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/342_magnolia_grandiflora_little_gem/regular/2560px-thumbnail.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/342_magnolia_grandiflora_little_gem/medium/2560px-thumbnail.jpg",
+    "small_url": "https://perenual.com/storage/species_image/342_magnolia_grandiflora_little_gem/small/2560px-thumbnail.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/342_magnolia_grandiflora_little_gem/thumbnail/2560px-thumbnail.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

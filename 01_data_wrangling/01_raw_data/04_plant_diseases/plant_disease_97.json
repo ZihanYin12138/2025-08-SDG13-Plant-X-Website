@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": 97,
+      "common_name": "Parchment fungus",
+      "scientific_name": "Stereum spp.",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Parchment fungus, (Stereum spp.)?",
+          "description": "Parchment fungus, Stereum spp., is a saprophytic group of fungi known as false turkey tails, hairy curtain crust, and hairy parchment. They inhabit dead or dying hardwood and conifer stumps, logs, or snags. Resembling dried leaves, their papery fruiting bodies display colors like white, cream, yellow, orange, or reddish-brown. While not major pathogens, they can cause wood rot in trees."
+        },
+        {
+          "subtitle": "How does Parchment fungus, (Stereum spp.) occur?",
+          "description": "Stereum spp. usually reproduces by releasing spores from its fruiting bodies. These structures can persist year-round, but spore release primarily occurs in the fall. The spores are dispersed by wind, rain, or animals and land on suitable substrates.\n\n Upon landing, the spores germinate, giving rise to mycelium that obtains nutrients from decaying organic matter. As the mycelium matures, it forms new fruiting bodies, completing the reproductive cycle. This method ensures the fungus' spread, enabling the colonization of new environments and contributing to organic material decomposition."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Control",
+          "description": "1.\tMaintain tree health through proper watering, fertilization, and pruning practices.\n\n2.\t Ensure proper spacing between trees to promote airflow and reduce moisture retention.\n\n3.\tMinimize tree damage and wounds, as they can provide entry points for fungal infections.\n\n4.\t Promptly remove and destroy infected branches or trees to prevent further spread.\n\n5.\tPrune and remove infected branches to limit the spread of the fungus.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "There are several fungicides available, such as copper-based, borate-based, thiabendazole, and propiconazole, that can be used to control wood-decaying fungi.\n\nFollow the instructions provided by the manufacturer and consult professionals for specific recommendations and proper usage.\n"
+        }
+      ],
+      "host": [
+        "cherry",
+        "various trees and shrubs"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/97_stereum_spp/og/Hairy_Parchment_28206196478129.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/97_stereum_spp/regular/Hairy_Parchment_28206196478129.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/97_stereum_spp/medium/Hairy_Parchment_28206196478129.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/97_stereum_spp/small/Hairy_Parchment_28206196478129.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/97_stereum_spp/thumbnail/Hairy_Parchment_28206196478129.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

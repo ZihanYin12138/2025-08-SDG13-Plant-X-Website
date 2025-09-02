@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 76,
+      "common_name": "Leaf spot",
+      "scientific_name": "Mycosphaerella rubi",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Leaf spot (Mycosphaerella rubi)?",
+          "description": "Leaf spot caused by Mycosphaerella rubi is a fungal disease that affects various berry plants, including blackberries, raspberries, and related cultivars. It is characterized by the formation of circular, reddish-purple spots on the leaves, which can later become irregular or angular. The centers of the spots may turn white to gray, while the margins often retain a purple color."
+        },
+        {
+          "subtitle": "How does Leaf spot (Mycosphaerella rubi) occur?",
+          "description": "Leaf spot pathogens survive winter in infected leaf debris and can infect buds and young twigs. Disease spread occurs during the growing season through wind and splashing rain, disseminating spores to susceptible plant tissue. Infection requires prolonged moisture or high humidity (12 to 24 hours). Leaf spots mature within one to two weeks, releasing spores that can initiate new infections."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Control",
+          "description": "•\tRake and dispose of fallen leaves before the first snowfall to eliminate disease sources for the next season.\n\n•\tTrim trees and shrubs to improve light penetration and enhance air circulation within the canopy.\n\n•\tWater trees at the base, avoiding leaf splashing, and use drip or soaker hoses instead of sprinklers.\n\n•\tKeep the top 6-8 inches of soil moist, allowing it to dry before the next watering.\n\n•\tApply a 3–4-inch layer of mulch around the tree, avoiding trunk contact.\n\n•\tAnnually replenish mulch, ensuring a flat layer with a 2-inch gap between the mulch and stem.\n\n•\tRefrain from fertilizing trees with leaf spot diseases unless a soil test indicates nutrient deficiencies.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "•\tApply fungicide sprays at different growth stages of the young primocanes like Abound, Bonide Captan 50 WP, Cabrio EG, Captan 80 WDG, fixed coppers (Nu-Cop, C-O-C-S, Nordox, Cuprofix, Kocide) Luna Tranquility, Pristine, and propiconazole-based fungicides.\n\n•\tFollow the specific instructions regarding each product's reentry periods and harvest restrictions. \n\n•\tIt's essential to consult professionals for complete and accurate disease prevention and chemical control guidelines.\n"
+        }
+      ],
+      "host": [
+        "caneberry"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/76_mycosphaerella_rubi/og/2560px-Mycosphaerella_rubi_a1_28329.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/76_mycosphaerella_rubi/regular/2560px-Mycosphaerella_rubi_a1_28329.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/76_mycosphaerella_rubi/medium/2560px-Mycosphaerella_rubi_a1_28329.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/76_mycosphaerella_rubi/small/2560px-Mycosphaerella_rubi_a1_28329.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/76_mycosphaerella_rubi/thumbnail/2560px-Mycosphaerella_rubi_a1_28329.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

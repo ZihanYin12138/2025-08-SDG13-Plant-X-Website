@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1871,
+      "species_id": 415,
+      "common_name": "balsam fir",
+      "scientific_name": [
+        "Abies balsamea 'Jamy'"
+      ],
+      "section": [
+        {
+          "id": 5818,
+          "type": "watering",
+          "description": "The balsam fir can be watered weekly. The soil should be allowed to dry out in between waterings. In the warmer months, it may need water more often. When watering the plant, make sure to check the soil moisture level and water only when it is dry. Soil moisture can be tested by using a soil tester or by inserting a finger into the soil. If the soil is dry up to a depth of 1-2 inches, then it is time to water. During watering, thoroughly saturate the soil and avoid wetting the foliage. Water deeply to encourage strong root growth. Too little water can result in yellowing of the needles and can cause stress to the plant."
+        },
+        {
+          "id": 5819,
+          "type": "sunlight",
+          "description": "Balsam fir (Abies balsamea 'Jamy') is best grown in full sun, although it can tolerate some shade. This species prefers well-drained, moist soils, although it can tolerate a wide range of soil types including rocky and sandy soils. During the summer, balsam fir does best when it receives around 6 to 8 hours of direct sunlight a day."
+        },
+        {
+          "id": 5820,
+          "type": "pruning",
+          "description": "Balsam fir, also known as Abies balsamea 'Jamy', should be pruned once a year in late winter to early spring when the temperatures are still cold and there are no signs of any new growth. Pruning encourages the tree to produce more healthy needles and shoots. It is best to remove all dead, diseased, and weak branches as soon as they can be seen. Additionally, it is important to selectively remove any branches that are overcrowding the tree in order to allow more light and air to reach the interior and increase air circulation and reduce the chances for disease. When pruning, it is important to practice cutting techniques such as heading cuts and thinning cuts so as not to damage the tree. Heading cuts should be made 1/4 inch above a bud on the side of the branch that is facing outward from the tree's center. Thinning cuts should be made several inches above a bud as to not create a large wound on the tree. Balsam fir should not be pruned excessively, as this can leave the tree vulnerable to pests and diseases."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1717,
+      "species_id": 201,
+      "common_name": "Deodar Cedar",
+      "scientific_name": [
+        "Cedrus deodara"
+      ],
+      "section": [
+        {
+          "id": 5356,
+          "type": "watering",
+          "description": "Deodar Cedar (Cedrus deodara) should be watered regularly and consistently to ensure it remains in peak condition throughout its lifespan. Generally, these trees do best if they receive 1 to 2 inches of water each week. \n\nDuring cooler, windier months, you should slightly reduce the amount of water to avoid overwatering. If possible, it is best to water your Deodar Cedar in the morning, so that the soil has time to dry before evening. Additionally, you should check the soil before watering by sticking your finger about 2-3 inches down in the soil and if it is dry, then it is time for you to add more water. It is important to watch for any signs of water stress, such as curled leaves or weak branches and adjust your watering schedule accordingly."
+        },
+        {
+          "id": 5357,
+          "type": "sunlight",
+          "description": "Deodar Cedar (Cedrus deodara) is a species of evergreen tree that prefers an environment of full sun or nearly full sun. In the summer, it should get direct sunlight for at least 6 hours per day. During winter months, a minimum of 3 to 4 hours of sunshine is needed. In locations that experience very hot, dry climates, such as desert households, it’s best to provide Deodar Cedar with some shade in the afternoons."
+        },
+        {
+          "id": 5358,
+          "type": "pruning",
+          "description": "Deodar Cedar should be pruned in late winter or early spring, just before new growth begins. Pruning should be done lightly; remove no more than 1/4 of the plant's growth each year to prevent stress or damage to the tree. Be sure to remove diseased, broken, and dead wood as well as any branches that are growing in an undesirable location. This species of cedar can also be pruned for aesthetic purposes as it is an attractive tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1669,
+      "species_id": 140,
+      "common_name": "Wilson's Pink Dwarf Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Wilson's Pink Dwarf'"
+      ],
+      "section": [
+        {
+          "id": 5212,
+          "type": "watering",
+          "description": "Water Wilson's Pink Dwarf Japanese Maple once every week or so, applying about 1/2 to 1 inch of water each time. Water deeply, so that the water reaches the root zone, when the soil starts to feel dry. During extremely hot weather, you may need to water as frequently as every 2-3 days. Regular, deep watering is essential to help the tree establish a healthy root system."
+        },
+        {
+          "id": 5213,
+          "type": "sunlight",
+          "description": "Wilson's Pink Dwarf Japanese Maple is a shrub/small tree that requires full sun to partial shade for optimal growth. It is best to provide Wilson's Pink Dwarf Japanese Maple with around 3 to 5 hours of direct sunlight each day. Some morning sun and afternoon shade is beneficial for keeping the foliage from overheating and drying out. If possible, avoid placing Wilson's Pink Dwarf Japanese Maple in a spot that receives intense afternoon sunshine, especially during the summer months. Additionally, it is important to make sure that the area around the tree does not become too dry."
+        },
+        {
+          "id": 5214,
+          "type": "pruning",
+          "description": "Wilson's Pink Dwarf Japanese Maple should be pruned in early spring. To maximize blooming and to encourage a denser habit with more vibrant foliage, moderate to heavy pruning is recommended. Be sure to carefully decide where to cut and remove as you will not get a second chance to fix the shape of the tree. Prune branches back to a main trunk or other lateral branch, and some branches can be removed completely. Remove long, straight branches that can appear awkward against the normal curved structure. Remove any dead or damaged branches, and any branches growing in poor directions as well. Remove any shoots that are emerging from below the crown of the tree. Severe pruning should be avoided in order to keep the tree healthy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

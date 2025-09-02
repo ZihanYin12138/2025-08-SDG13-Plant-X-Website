@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1757,
+      "species_id": 245,
+      "common_name": "Cherokee Brave Flowering Dogwood",
+      "scientific_name": [
+        "Cornus florida 'Cherokee Brave'"
+      ],
+      "section": [
+        {
+          "id": 5476,
+          "type": "watering",
+          "description": "The Cherokee Brave Flowering Dogwood requires regular water to stay healthy. Its roots need moisture, but it should not be allowed to become waterlogged. During the growing season of spring and summer, the dogwood should receive water 1-2 times per week. In hotter, drier weather, watering can be increased to every 3-4 days. Not all varieties require watering during the winter, but Cherokee Brave may benefit from some supplemental watering, especially if the winter is especially dry. Watering during the winter should be done sparingly, with the soil lightly moist to the touch. Over-watering can lead to rot and other problems in the fall and winter."
+        },
+        {
+          "id": 5477,
+          "type": "sunlight",
+          "description": "Cherokee Brave Flowering Dogwood plants require 4 to 6 hours of direct sunlight per day. For best results, the Dogwood should receive more sun during the morning hours when the sun is not at its hottest. In periods of drought, the Dogwood may need extra sunlight to ensure proper growth and flowering. Avoid placing the plant in a particularly hot, sunny location in order to avoid sunburn or leaf scorch."
+        },
+        {
+          "id": 5478,
+          "type": "pruning",
+          "description": "Cherokee Brave Flowering Dogwood should be pruned twice a year for best results. Pruning during the late fall and late winter will help keep the Cherokee Brave Flowering Dogwood’s health and appearance in optimal condition. Pruning during the late fall should focus on removing dead, diseased, or broken branches. Pruning during the late winter should concentrate on removing branches that are crossing and rubbing against each other. It is important to not prune more than 1/3 of the total branches, as this can cause stress on the tree. Always use sharp, clean pruning tools to reduce the spread of disease while pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

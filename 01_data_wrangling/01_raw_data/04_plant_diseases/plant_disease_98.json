@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 98,
+      "common_name": "Powdery mildew",
+      "scientific_name": "Podosphaera clandestina",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": " What is Powdery mildew (Podosphaera clandestina)?",
+          "description": "Powdery mildew is caused by Podosphaera clandestina, a biotrophic fungus. It affects mid and late-season, leading to unmarketable fruit covered in white fungal growth. Initial symptoms include powdery patches on young, susceptible leaves, The disease is more likely to initiate on the undersides of leaves but will occur on both sides at later stages. Severe infections can cause leaf distortion and curling. New leaves on new shoots become smaller, pale, and distorted."
+        },
+        {
+          "subtitle": "How does Powdery mildew (Podosphaera clandestina) occur?",
+          "description": "Podosphaera clandestina undergoes a lifecycle that includes the formation of chasmothecia (overwintering structures) in autumn. In spring, chasmothecia release ascospores during wet weather events, causing primary infections. Wind dispersal leads to secondary infections on young leaves, resulting in widespread powdery mildew. As autumn nears, chasmothecia production resumes, preparing for host defoliation and overwintering."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices",
+          "description": "•\tIn arid regions, early spring irrigation may stimulate early powdery mildew infections.\n\n•\tDelaying irrigation by two weeks can help in delaying disease initiation without harming fruit.\n\n•\tWell-pruned canopies promote air flow and leaf drying, reducing favorable conditions for powdery mildew.\n"
+        },
+        {
+          "subtitle": "Root Sucker Management",
+          "description": "•\tPowdery mildews prefer root suckers as they are highly susceptible to infection.\n\n•\tRoot suckers are close to irrigation and high humidity, facilitating disease onset and spread.\n\n•\tRemoving root suckers eliminates a potential source of infection for the canopy and fruit.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "Some available fungicides for managing cherry powdery mildew include Abound (azoxystrobin), Cabrio (pyraclostrobin), Fontelis (penthiopyrad), Luna Sensation (fluopyram+trifloxystrobin), and Merivon (fluxapyroxad+pyraclostrobin).\n\nFollow the instructions provided by the manufacturer and consult professionals for specific recommendations and proper usage.\n"
+        }
+      ],
+      "host": [
+        "cherry"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/98_podosphaera_clandestina/og/14804678499_389825150e_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/98_podosphaera_clandestina/regular/14804678499_389825150e_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/98_podosphaera_clandestina/medium/14804678499_389825150e_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/98_podosphaera_clandestina/small/14804678499_389825150e_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/98_podosphaera_clandestina/thumbnail/14804678499_389825150e_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

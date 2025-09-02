@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 521,
+      "species_id": 459,
+      "common_name": "Japanese maple",
+      "scientific_name": [
+        "Acer palmatum var. dissectum 'Inaba-shidare'"
+      ],
+      "section": [
+        {
+          "id": 1564,
+          "type": "watering",
+          "description": "Japanese maple should be watered thoroughly and deeply on a regular basis for optimal growth. Depending on the soil conditions, amount of sun/shade, and the size of the plants, they should be watered once every 5 to 10 days in the summer. During the hotter parts of the day, it can be beneficial to mist or sprinkle the plants to provide extra water, especially during long periods of drought. In the winter, the plant should only be watered when the soil is completely dry."
+        },
+        {
+          "id": 1566,
+          "type": "sunlight",
+          "description": "Japanese maple trees should be given approximately 4-6 hours of direct sunlight a day. This is most prominently available during the early morning and late afternoon hours. During the hottest and sunniest period of the day, between 10am and 2pm, the Japanese maple should be given protection from the intense sun to prevent scorching and drying of the leaves. During the winter months, it is best to provide the Japanese maple with just a few hours of light in the form of morning sun as the sun is less intense during this period."
+        },
+        {
+          "id": 1568,
+          "type": "pruning",
+          "description": "Pruning Japanese maples is important to maintain a healthy tree and encourage new growth. Pruning should be done in late winter or early spring (February or March) before the tree begins to leaf out. It is best to remove no more than 1/3 of the total branches in a year and no more than 1/2 of the smaller branches. Pruning cuts should be kept to a minimum and should be made just above a bud to preserve the aesthetically pleasing shape of the tree. Avoid removing large branches close to the trunk, which can ruin the shape and form of the tree. Japanese maples should be pruned lightly each year, rather than heavily pruning annually."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

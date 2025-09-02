@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1662,
+      "species_id": 132,
+      "common_name": "Tsukasa Silhouette Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Tsukasa Silhouette'"
+      ],
+      "section": [
+        {
+          "id": 5191,
+          "type": "watering",
+          "description": "Tsukasa Silhouette Japanese Maple (Acer palmatum 'Tsukasa Silhouette') does well in moist but well-drained soil. Water the tree regularly throughout the growing season, maintaining a consistently moist soil and keeping the root ball evenly moist, but not soggy. Water once or twice a week when the soil is dry to a depth of 2 inches. After the tree is established, reduce watering to once a week in the spring and early summer. In the late summer and fall, reduce watering to once every 2 weeks. Monitor the soil regularly and water when needed, especially during periods of intense summer heat or prolonged drought. Avoid overwatering which can lead to root rot and other fungal diseases."
+        },
+        {
+          "id": 5192,
+          "type": "sunlight",
+          "description": "Tsukasa Silhouette Japanese Maple (Acer palmatum 'Tsukasa Silhouette') can thrive under indirect to full sunlight and prefers at least 4 hours of sunlight per day, however it is required to reduce direct sun exposure in the morning. This species should also be planted in a well-lit area, whether it be the east, north, or west sun exposure. They should also have more shade during the hottest part of the day to prevent scorching of the leaves. Additionally, it is important to remember that although the plant needs plenty of sunlight, Tsukasa Silhouettes can handle occasional light shade so long as they are also in enough direct sunlight daily."
+        },
+        {
+          "id": 5193,
+          "type": "pruning",
+          "description": "Tsukasa Silhouette Japanese Maple (Acer palmatum 'Tsukasa Silhouette') should be pruned in early to mid spring before or as new leaves begin to form. Pruning should be done lightly, removing no more than 1-third of the total growth of the plant. If necessary, corrective pruning can be done during the summer months, but should be minimal. When pruning, thin out weak, diseased, or overcrowded branches, and remove any dead branches or those that are growing in an undesirable direction."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1721,
+      "species_id": 205,
+      "common_name": "Karl Fuchs Deodar Cedar",
+      "scientific_name": [
+        "Cedrus deodara 'Karl Fuchs'"
+      ],
+      "section": [
+        {
+          "id": 5368,
+          "type": "watering",
+          "description": "Water Karl Fuchs Deodar Cedar (Cedrus deodara 'Karl Fuchs') regularly, about once a week up to every 10 days. Water the soil until it is evenly moist and avoid over-watering. If necessary, water more often in hot or dry conditions, and during extended periods of dry weather. During the growing season, apply a deep soaking once a month to encourage deep root growth. Be sure to water the plants in the early morning, so they have time to dry out before evening."
+        },
+        {
+          "id": 5369,
+          "type": "sunlight",
+          "description": "The Karl Fuchs Deodar Cedar (Cedrus deodara 'Karl Fuchs') is a coniferous evergreen tree that prefers full sunlight. For optimal growth and health, Karl Fuchs Deodar Cedar trees should receive at least 6 hours of unfiltered sunlight daily. During the hottest summer months, the tree should receive some relief from the sun in late afternoon as the sun intensity peaks in late afternoon and early evening. During winter months, full sun is not as intense, but you should still consider where the sun will be available for most of the day based on the available space for the tree."
+        },
+        {
+          "id": 5370,
+          "type": "pruning",
+          "description": "Karl Fuchs Deodar Cedar should be pruned every year in late fall or early winter. Pruning should be done with careful attention to the overall shape of the tree and the natural pattern of branch growth. Pruning should focus on removing dead or damaged branches, and trimming back overly vigorous branches to manage the size and encourage denser foliage coverage. The tree should be kept in an open and symmetrical shape, with the branches spaced evenly all around. Depending on the desired shape, you may opt to prune further beyond the natural silhouette in order to spice up the look of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

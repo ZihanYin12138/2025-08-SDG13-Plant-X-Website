@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1620,
+      "species_id": 86,
+      "common_name": "Orange Dream Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Orange Dream'"
+      ],
+      "section": [
+        {
+          "id": 5065,
+          "type": "watering",
+          "description": "Orange Dream Japanese Maple should be watered once to twice a week, depending on the time of year and amount of sunlight it receives. During the spring and summer, the tree should be watered more frequently than in the fall and winter. When watering, make sure to saturate the soil until water begins to run freely out of the root ball, then wait to water again until the top 2 inches of soil are dry. During the hot summer months, it may require more frequent or deeper watering to ensure that the tree stays adequately hydrated."
+        },
+        {
+          "id": 5066,
+          "type": "sunlight",
+          "description": "Orange Dream Japanese Maple requires full morning sunlight for at least 6 hours. Partial shade in the afternoon is fine, but it should be kept out of direct, hot afternoon sunlight, which can cause heat stress and sunburn. The plant prefers bright, indirect sunlight for the rest of the day. "
+        },
+        {
+          "id": 5067,
+          "type": "pruning",
+          "description": "Orange Dream Japanese Maple should be pruned in the early spring, before new growth begins. Pruning should be minimal and should only remove dead, diseased or broken branches. Avoid pruning branches with live leaves. The best time for light pruning is after new growth appears allowing the shape of the tree to be established. Heavy pruning can also be done in summer and early fall and can be used to control size and shape.Make sure to use clean, sharp pruning tools. Make sure to remove suckers and any branches that are crossing or rubbing against other branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

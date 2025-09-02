@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 76,
+      "species_id": 184,
+      "common_name": "Common Paw Paw",
+      "scientific_name": [
+        "Asimina triloba"
+      ],
+      "section": [
+        {
+          "id": 1292,
+          "type": "watering",
+          "description": "Common Paw Paw plants should be watered deeply every 7-10 days during the growing season. The soil should be kept moist but not soggy, with an average of 1-2 inches of water per week provided. In areas of rainfall, it is not necessary to water the plant as long as there is adequate rainfall. During periods of drought, additional watering may be necessary."
+        },
+        {
+          "id": 1293,
+          "type": "sunlight",
+          "description": "Common Paw Paw trees require full sun, meaning they should receive at least 6 to 8 hours of direct sunlight each day in order to thrive, which typically corresponds with a southern exposure. In some cases, they are able to thrive in partial shade, but full sun is generally considered ideal. The amount of sunlight you provide your trees will be dependent on your geographical region and the season of the year. In the northern United States, during the peak of summer, Common Paw Paw trees should receive 8 to 10 hours per day, while in winter, the tree will only receive 4 to 6 hours of direct sunlight."
+        },
+        {
+          "id": 1294,
+          "type": "pruning",
+          "description": "Pruning of Asimina triloba (Common Paw Paw) should occur in late winter or early spring while the trees are still dormant. It is important to prune the trees annually to promote new vigorous growth, reduce the spread of potential diseases, and improve air circulation. On average, it is recommended to remove 10-15% of the total branches/leave each year, unless severe infestation of diseases or insects is noticed, in which case larger scale pruning may be necessary. It is suggested to prune at least some of the oldest branches each year to encourage a healthy structure and promote its natural shape. Additionally, pruning of dead or diseased branches should take place as soon as notice to prevent further spread. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

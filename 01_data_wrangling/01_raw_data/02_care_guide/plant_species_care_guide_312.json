@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1806,
+      "species_id": 312,
+      "common_name": "Daub's Frosted Juniper (tree form)",
+      "scientific_name": [
+        "Juniperus x media 'Daub's Frosted (tree form)'"
+      ],
+      "section": [
+        {
+          "id": 5623,
+          "type": "watering",
+          "description": "Daub's Frosted Juniper (tree form) should be watered 1-2 times per week when the soil is dry to the touch, approximately 1 inch down into the soil. During the warmer months, it may be necessary to water up to 3 times per week. During colder months, watering can be reduced to once per week. Always check the soil before watering to avoid overwatering. Once established, Daub's Frosted Juniper (tree form) is considered drought tolerant. As with other juniper trees, it benefits from occasional deep waterings (twice per month) during dry periods."
+        },
+        {
+          "id": 5624,
+          "type": "sunlight",
+          "description": "Daub's Frosted Juniper grows best in full sun, meaning 6 to 8 hours of direct sunlight each day is ideal. In warmer climates, partial shade can be beneficial to protect the plant from scorching midday sun. Early in the season, direct sun can be beneficial, but as temperatures heat up, the tree will appreciate some shade from noon till afternoon. In cooler climates, full sun is preferred throughout the year. When establishing a young Daub's Frosted Juniper, it should be kept in a sunny spot until mature."
+        },
+        {
+          "id": 5625,
+          "type": "pruning",
+          "description": "Daub's Frosted Juniper trees should be pruned in late spring or early summer, typically after the trees have finished flowering. It is a low-maintenance tree and does not need extensive pruning, however, limb and branch pruning can be done to help maintain an even shape and structure. When pruning the tree, it is important to avoid removing large amounts of foliage since the tree will require time to recover. Cut the branches at a 45-degree angle, just slightly above the desired shape. Cutting too far below the desired silhouette may lead to an unnatural shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

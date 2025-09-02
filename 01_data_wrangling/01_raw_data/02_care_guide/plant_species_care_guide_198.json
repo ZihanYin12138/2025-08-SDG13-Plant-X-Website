@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1715,
+      "species_id": 198,
+      "common_name": "Japanese Hornbeam",
+      "scientific_name": [
+        "Carpinus japonica"
+      ],
+      "section": [
+        {
+          "id": 5350,
+          "type": "watering",
+          "description": "Japanese Hornbeam prefers to be watered approximately once a week, or when the soil feels dry. It is best to thoroughly saturate the soil until water begins to come out of the drainage holes. Allow the water to drain away before resuming normal watering. During summer months, increase watering to twice a week. In winter, reduce watering to every 2 weeks or when the soil feels dry. Established plants may require extra watering during intense heat or drought."
+        },
+        {
+          "id": 5351,
+          "type": "sunlight",
+          "description": "Japanese Hornbeam thrives in full sun to part shade, but prefers some limited shade during the hottest hours of the day. It grows best when it receives at least 6 hours of direct sunlight each day. During peak summer months, the Japanese Hornbeam can benefit from shade during mid-day hours. It is recommended to place the plant in a location with plenty of sunlight during early morning and late afternoon hours. This species of plant should have full sun from spring to fall, and then filtered sunlight and shade during winter months."
+        },
+        {
+          "id": 5352,
+          "type": "pruning",
+          "description": "Japanese Hornbeam should be lightly pruned in the spring, just after it finishes blooming. Pruning should remove dead, diseased, or damaged branches, as well as branches that are crossing or rubbing against other branches. It should also remove any branches that have grown too large for the intended purpose (a hedge, for example). Medium to heavy pruning of Japanese Hornbeam should be done in the winter months, since it won't affect the blooming period as significantly. Pruning should be kept to a minimum to ensure the plant's overall aesthetic value is retained."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 303,
+      "species_id": 133,
+      "common_name": "Tsuma Gaki Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Tsuma Gaki'"
+      ],
+      "section": [
+        {
+          "id": 458,
+          "type": "watering",
+          "description": "Watering requirements for a Tsuma Gaki Japanese Maple will vary depending on the climate and season. Generally, during the plant's growing season, it should be given an average of 1 inch of water each week, or enough to keep the soil moist. During the winter, it should only be watered occasionally when the soil is dry. This is especially important if your Tsuma Gaki Japanese Maple is planted in an area with extreme weather conditions. Keep in mind that it is better to water your Tsuma Gaki Japanese Maple more frequently and with less water than to give it large amounts of water all at once."
+        },
+        {
+          "id": 459,
+          "type": "sunlight",
+          "description": "Tsuma Gaki Japanese Maple thrives best in full sun and partial shade. Sunlight should be provided for at least 4-6 hours a day as young trees, and up to 8-10 hours a day as mature trees. Optimal sunlight for Tsuma Gaki Japanese Maple should be provided during the morning and early afternoon, as direct sunlight in the middle of the day may cause the foliage to become scorched in some areas. During the summer months, it is best to keep the tree sheltered from intense afternoon sun to prevent damage to the foliage."
+        },
+        {
+          "id": 460,
+          "type": "pruning",
+          "description": "Tsuma Gaki Japanese Maple is best pruned in the late winter or early spring, before any new growth begins. Pruning should be minimal and is not required every year. Depending on the size and shape of the tree, light selective pruning can be done to encourage a desired shape or size. When pruning Tsuma Gaki Japanese Maple, it is important to only remove dead or damaged branches and to not remove more than 20-25% of the foliage. Too much pruning can decrease the tree's energy reserves and reduce the health of the foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,156 @@
+{
+  "id": 339,
+  "common_name": "Southern Magnolia",
+  "scientific_name": [
+    "Magnolia grandiflora"
+  ],
+  "other_name": [
+    "Bull Bay"
+  ],
+  "family": "Magnoliaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "grandiflora",
+  "genus": "Magnolia",
+  "origin": [
+    "Southeastern United States"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 60,
+      "max_value": 60,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=339&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=339&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flower",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "pistils",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green-yellow",
+        "dark-green",
+        "green"
+      ]
+    },
+    {
+      "part": "buds",
+      "color": [
+        "green-pink"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "red-green",
+        "green-red"
+      ]
+    },
+    {
+      "part": "trunk",
+      "color": [
+        "gray-brown"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "gray-brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=339&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Diptera - true flies",
+    " Leaf miner insect",
+    " Stem borer insects"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Southern Magnolia (Magnolia grandiflora) is an amazing plant species known for its towering stature and incredibly fragrant flowers. It produces beautiful, creamy-white flowers that bloom in the spring and summer months, filling the air with a delightful scent. The foliage of the Southern Magnolia is large and glossy, providing much-needed shade during hot summers. The plant is also highly adaptable and able to thrive in many climates and growing conditions. The Southern Magnolia is a great choice for any garden and makes a bold statement wherever it is planted.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/339_magnolia_grandiflora/og/48132372757_ea96e7aa50_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/339_magnolia_grandiflora/regular/48132372757_ea96e7aa50_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/339_magnolia_grandiflora/medium/48132372757_ea96e7aa50_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/339_magnolia_grandiflora/small/48132372757_ea96e7aa50_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/339_magnolia_grandiflora/thumbnail/48132372757_ea96e7aa50_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

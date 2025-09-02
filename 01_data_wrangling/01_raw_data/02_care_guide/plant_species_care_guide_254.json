@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1765,
+      "species_id": 254,
+      "common_name": "Heart Throb Chinese Dogwood",
+      "scientific_name": [
+        "Cornus kousa 'Heart Throb'"
+      ],
+      "section": [
+        {
+          "id": 5500,
+          "type": "watering",
+          "description": "Heart Throb Chinese Dogwood should be watered deeply but infrequently. Water when the top 3 to 4 inches of soil have dried, typically once or twice a week during the growing season. During prolonged hot or dry periods, the plant may need more frequent watering. Reduce the watering frequency in winter or when the plant enters a period of dormancy."
+        },
+        {
+          "id": 5501,
+          "type": "sunlight",
+          "description": "The Heart Throb Chinese Dogwood requires full sun to partial shade for optimal growth. It should receive 4-6 hours of direct sunlight each day, preferably morning or late afternoon sun, as midday sun may be too intense for the plant. This plant species should be placed in an area with a good amount of sun, but that is not constantly exposed to intense midday sun."
+        },
+        {
+          "id": 5502,
+          "type": "pruning",
+          "description": "Heart Throb Chinese Dogwoods should be pruned in early spring, before new growth begins. This plant benefits from light pruning to retain its naturally attractive shape. Branches should be pruned back to a pair of buds, when possible. Dead and diseased branches should be removed and all crossing branches should be removed. If necessary, selective pruning can be done to open up the center of the shrub to increase light penetration. Pruning should be kept moderate, and no more than 1-third of the canopy should be trimmed off in any season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

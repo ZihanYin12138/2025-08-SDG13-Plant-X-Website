@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1837,
+      "species_id": 346,
+      "common_name": "Oyama Magnolia",
+      "scientific_name": [
+        "Magnolia sieboldii"
+      ],
+      "section": [
+        {
+          "id": 5716,
+          "type": "watering",
+          "description": "Oyama Magnolia should be watered deeply about once or twice a week during the spring and summer seasons when the tree is actively growing. Water around the root system, adding enough water to moisten the soil 8 to 10 inches deep. Reduce the amount of watering in fall and winter as the plant goes dormant. Ensure the soil always remains slightly moist during these seasons."
+        },
+        {
+          "id": 5717,
+          "type": "sunlight",
+          "description": "Oyama magnolia grows best in areas that receive full sun, though it can tolerate partial shade. It needs at least 6-8 hours of direct sunlight per day in order to flourish. In the spring and summer, the tree should receive direct sunlight for much of the day, while in the autumn and winter, it can benefit from less direct sun and more indirect light."
+        },
+        {
+          "id": 5718,
+          "type": "pruning",
+          "description": "Oyama Magnolia (Magnolia sieboldii) should be pruned during the late winter or early spring when the plant is still dormant. Light pruning is recommended to shape the plant and maintain an attractive form. The best time for more thorough pruning is after the Oyama Magnolia has finished flowering. Be sure to only prune dead, diseased, or damaged branches, and avoid pruning healthy branches. Remove no more than 1/4 of the branches to avoid damaging the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

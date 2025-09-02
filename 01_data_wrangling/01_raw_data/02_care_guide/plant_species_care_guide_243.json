@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1756,
+      "species_id": 243,
+      "common_name": "Variegated Pagoda Dogwood",
+      "scientific_name": [
+        "Cornus alternifolia 'Argentea'"
+      ],
+      "section": [
+        {
+          "id": 5473,
+          "type": "watering",
+          "description": "Variegated Pagoda Dogwood (Cornus alternifolia 'Argentea') should be watered regularly and deeply. Water thoroughly, keeping the soil evenly moist but not soggy, once every 2 to 3 weeks during the growing season (between April and September). During dry weather, water the plant every 1 to 2 weeks, as needed. During winter months, reduce watering significantly."
+        },
+        {
+          "id": 5474,
+          "type": "sunlight",
+          "description": "Variegated Pagoda Dogwood (Cornus alternifolia 'Argentea') prefers full sun or partial shade in areas with hot summers, and should receive at least 4 hours of direct sunlight each day. In areas with cooler climates, the plant can tolerate full sun. In areas with very hot summers, it is best to provide some afternoon shade in order to protect the leaves from sunburn. It is important to ensure that the plant receives direct sunlight during the morning rather than later in the day."
+        },
+        {
+          "id": 5475,
+          "type": "pruning",
+          "description": "Variegated Pagoda Dogwood (Cornus alternifolia 'Argentea') should be pruned in late winter or early spring. It does not require much pruning as it is a naturally small and compact shrub. To help maintain a desired shape, selectively prune out any unwanted or diseased shoots and cut near the main trunk. Avoid removing more than 1-third of the total number of a branches in a single pruning session. Prune just enough to maintain the desired shape and do not shear off the ends of branches as this eliminates flowering potential."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

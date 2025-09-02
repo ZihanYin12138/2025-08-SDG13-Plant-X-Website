@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 44,
+      "common_name": "Sunblotch",
+      "scientific_name": "Avocado sunblotch viroid",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Sunblotch (Avocado sunblotch viroid)?",
+          "description": "The Sunblotch Avocado viroid, also known as ASBVd, is a small RNA molecule that infects avocado trees, causing various symptoms including necrotic, red, yellow, or white discolorations on fruit, often in depressions or scars on the fruit surface or may exhibit no symptoms in some hosts. Many variants of this viroid can alter the growth and development of avocado trees. Sunblotch viroid can move systemically within avocados, and it persists in host tissues. "
+        },
+        {
+          "subtitle": "How does Sunblotch (Avocado sunblotch viroid) occur?",
+          "description": "Sunblotch Avocado viroid primarily spreads through grafting with infected budwood or rootstock seedlings from symptomatic or asymptomatic trees. It can also transmit naturally through root-to-root contact within groves, and mechanical transmission is possible through contaminated tools in the presence of infected trees. Pollination by infected tree pollen can result in infected seeds, but the disease does not spread unless these seeds are used for propagation. Insects do not appear to play a role in viroid transmission."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Prevention",
+          "description": "•\tImplement stringent sanitation practices, and disinfecting tools and equipment to prevent viroid transmission.\n•\tMonitor nursery stock regularly and confirm disease-free status through indexing or genetic testing.\n•\tPlant disease-free stock obtained from indexed nurseries.\n•\tPromptly remove symptomatic trees and chemically treat the stumps.\n"
+        },
+        {
+          "subtitle": "Management Techniques",
+          "description": "•\tMinimize tree stress by avoiding severe pruning of symptomless carriers.\n•\tMaintain overall tree health to reduce susceptibility to the viroid.\n•\tAvoid grafting with infected budwood or rootstock seedlings.\n•\tImplement strict sanitation measures when working with avocado trees.\n•\tStay updated with the latest research and management recommendations for ASBVd.\n\n"
+        }
+      ],
+      "host": [
+        "avocado"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/44_avocado_sunblotch_viroid/og/5688739048_29968a5283_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/44_avocado_sunblotch_viroid/regular/5688739048_29968a5283_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/44_avocado_sunblotch_viroid/medium/5688739048_29968a5283_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/44_avocado_sunblotch_viroid/small/5688739048_29968a5283_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/44_avocado_sunblotch_viroid/thumbnail/5688739048_29968a5283_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

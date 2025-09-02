@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1852,
+      "species_id": 392,
+      "common_name": "Sourwood",
+      "scientific_name": [
+        "Oxydendron arboreum"
+      ],
+      "section": [
+        {
+          "id": 5761,
+          "type": "watering",
+          "description": "Sourwood trees should be watered regularly and deeply during the first 2 growing seasons after planting. Watering should be done in the early morning hours, or late in the evening, so as to allow the leaves plenty of time to dry out and avoid fungal diseases. During the first 2 years, water every 7-10 days, allowing the soil to dry out slightly between waterings. During the heat of the summer, water may be necessary more than once a week. After the first 2 years, watering can be adjusted depending on rainfall and the time of year. "
+        },
+        {
+          "id": 5762,
+          "type": "sunlight",
+          "description": "Sourwood (Oxydendron arboreum) prefers full sun, although partial shade is tolerated. It should receive at least 5 hours of direct sunlight a day for optimal growth, but it is important to avoid direct midday sun. During frosty winter months, morning sun is beneficial as it will help warm the leaves. Sourwood is also well suited to woodland settings and will flourish in moderate shade from other trees, as long as there's enough dappled sun."
+        },
+        {
+          "id": 5763,
+          "type": "pruning",
+          "description": "Sourwood (Oxydendron arboreum) should be minimally pruned to maintain its natural shape. Pruning of sourwood should be done each year, usually in late winter or early spring before the growing season starts. During this dormant season, any dead, broken, or diseased branches can be removed to help maintain good health. Additionally, thinning can be done to remove small, young branches. To improve the form of a sourwood and to produce a more showy display of flowers and leaves, selective pruning can be done to accentuate particular branches. Pruning of sourwood should always be done with the natural shape of the tree in mind, and never severe or misuse pruning practices, as this could damage the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

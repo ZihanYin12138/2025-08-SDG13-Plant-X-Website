@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1682,
+      "species_id": 154,
+      "common_name": "Autumn Flame Red Maple",
+      "scientific_name": [
+        "Acer rubrum 'Autumn Flame'"
+      ],
+      "section": [
+        {
+          "id": 5251,
+          "type": "watering",
+          "description": "Autumn Flame Red Maple should be watered twice a week, and deeply. Use a gallon of water each time, or about 15 minutes of an average hose watering. Water at the roots of the tree, rather than spraying the leaves or trunk. Soak the soil until it is saturated, allowing the water to trickle down to the roots. Be sure to move the hose several feet away before stopping, otherwise the roots closest to the hose may be over watered. Watering in the early morning is preferred because it allows for the foliage to dry off throughout the day, reducing the risk of fungal and foliar disease development."
+        },
+        {
+          "id": 5252,
+          "type": "sunlight",
+          "description": "The Autumn Flame Red Maple tree (Acer rubrum 'Autumn Flame') does best in full sunlight. It requires at least 6-8 hours of direct sunlight each day throughout the growing season. This tree also does well in partial shade, but it will produce healthier leaves, flowers, and fruit in full sunlight. It should be placed where it will receive morning sun in the spring and summer, and then afternoon sun in the summer and fall. During the winter months, Autumn Flame Red Maple should receive at least 4 hours of sunlight a day."
+        },
+        {
+          "id": 5253,
+          "type": "pruning",
+          "description": "Autumn Flame Red Maple (Acer rubrum 'Autumn Flame') should generally be pruned in early spring, before any new growth begins. This is done to prepare the tree for a healthy growing season, as well as to remove any dead or diseased branches. Minor maintenance pruning, such as trimming off the dead tips of branches and thinning out crowded growth, is encouraged throughout the summer season. Heavy pruning should be avoided in summer, as this can reduce the tree’s vigor. However, if necessary, light pruning can be done at this time. It is best to avoid any pruning after August, as this can encourage new growth late in the season that may be damaged by frost."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

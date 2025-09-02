@@ -1,0 +1,123 @@
+{
+  "id": 156,
+  "common_name": "Red Sunset® Red Maple",
+  "scientific_name": [
+    "Acer rubrum 'Franksred'"
+  ],
+  "other_name": [
+    "Swamp Maple",
+    "Scarlet Maple"
+  ],
+  "family": "Sapindaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Franksred",
+  "variety": null,
+  "species_epithet": "rubrum",
+  "genus": "Acer",
+  "origin": [
+    "Eastern and central North America"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 50,
+      "max_value": 50,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Squirrels",
+    " Birds",
+    " Bees",
+    " Other Showy Insects"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Greenwood Cuttings",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "3"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=156&size=og&key=sk-ACnv68b0630adff3b12096",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=156&size=og&key=sk-ACnv68b0630adff3b12096'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=156&key=sk-ACnv68b0630adff3b12096",
+  "soil": [
+    "Sandy Loamy Clay"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Heteroptera - true bugs",
+    " Mites",
+    " Stem borer insects",
+    " Wilt",
+    "  Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Red Sunset® Red Maple is an amazing tree for any landscape. Its foliage turns brilliant shades of red, orange and yellow in the fall and its lush green leaves add a captivating splash of colour to the landscape all season long. This fast-growing deciduous tree can reach heights of up to 50 feet with a spread of 35 feet, and it thrives in USDA Hardiness Zones 3−9. It also tolerates air pollution and wet, clay soils, and its drought and wind tolerance make it a perfect choice for many different conditions and locations. Red Sunset® Red Maple is an excellent option for urban yards, parks and gardens.",
+  "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/156_acer_rubrum_franksred/og/tree_leaves_maple_autumn_fall_red_woods_forest-1017374.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/156_acer_rubrum_franksred/regular/tree_leaves_maple_autumn_fall_red_woods_forest-1017374.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/156_acer_rubrum_franksred/medium/tree_leaves_maple_autumn_fall_red_woods_forest-1017374.jpg",
+    "small_url": "https://perenual.com/storage/species_image/156_acer_rubrum_franksred/small/tree_leaves_maple_autumn_fall_red_woods_forest-1017374.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/156_acer_rubrum_franksred/thumbnail/tree_leaves_maple_autumn_fall_red_woods_forest-1017374.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

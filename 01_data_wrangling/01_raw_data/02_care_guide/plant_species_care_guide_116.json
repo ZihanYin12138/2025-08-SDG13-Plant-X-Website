@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1648,
+      "species_id": 116,
+      "common_name": "Scolopendrifolium Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Scolopendrifolium'"
+      ],
+      "section": [
+        {
+          "id": 5149,
+          "type": "watering",
+          "description": "Scolopendrifolium Japanese Maple should be watered deeply but infrequently to establish a deep and extensive root system. The best practice is to water the plant thoroughly when the soil is dry to a depth of 2 to 3 inches. The amount of water needed will depend on the season and the soil conditions. Generally, new plants should receive 1 to 2 inches of water each week during the growing season. During hot and dry periods, an additional 1/2 to 1 inch of water may be necessary. In cold and wet winter months, the plant should receive only a small amount of water. As the tree matures, it may need to be watered less frequently."
+        },
+        {
+          "id": 5150,
+          "type": "sunlight",
+          "description": "Scolopendrifolium Japanese Maple trees prefer bright, indirect sunlight or dappled shade. They can tolerate full sun, but afternoon sun should be avoided to reduce the potential for leaf burn. This species should receive at least 4 hours of sunlight per day for optimal growth and health. During the hottest part of the day (midday) when the sun is at its strongest, Scolopendrifolium Japanese Maple trees should be located in an area that provides adequate shade."
+        },
+        {
+          "id": 5151,
+          "type": "pruning",
+          "description": "The Scolopendrifolium Japanese Maple should be pruned twice a year, in the early spring before new growth begins, and then again in the late summer/early fall after the new growth has hardened off. Pruning in the early spring should involve minimal pruning to remove dead, damaged, and diseased branches. The main objective is to thin out the overall shape of the tree and open up the canopy to allow more light into the tree as well as to create a more aesthetically pleasing shape. This usually involves removing 10-20% of the branches. Pruning in the late summer/early fall is a bit more aggressive and is intended to shape the tree and should involve removing about 50% of all the new growth that was attained during the growing season. Additionally, this is the time to take off any water sprouts and any crossing branches to allow light and air to move through the tree better."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

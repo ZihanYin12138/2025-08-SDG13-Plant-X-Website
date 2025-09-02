@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1623,
+      "species_id": 89,
+      "common_name": "Oridono Nishiki Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Oridono Nishiki'"
+      ],
+      "section": [
+        {
+          "id": 5074,
+          "type": "watering",
+          "description": "Oridono Nishiki Japanese Maple generally prefers moist but well-drained soil and partial to full sun. It is important to water the tree deeply and consistently, particularly during the first 2 years. During the hot summer months, aim to water the tree at least once a week, or more if needed. In the winter and fall months, water the tree every 2 weeks. Make sure water is able to penetrate down below the surface of the soil. To check for moisture, stick your finger about 1 inch into the soil. If the soil feels dry, then it's time to water."
+        },
+        {
+          "id": 5075,
+          "type": "sunlight",
+          "description": "Oridono Nishiki Japanese Maple (Acer palmatum 'Oridono Nishiki') prefers bright, indirect sunlight or a mix of both morning and afternoon sun. It should not be placed in direct, midday sun. To optimize growth, provide the plant with at least 4 to 6 hours of dappled sunlight daily. If the plant is in an area of full sun during the heat of the day, be sure it is getting some afternoon shade to help protect it from the intense rays of the sun."
+        },
+        {
+          "id": 5076,
+          "type": "pruning",
+          "description": "Oridono Nishiki Japanese Maple is known for its stunning deeply divided green and white foliage, making it a popular choice for the home garden. Pruning should be done in early spring before any new growth begins, or in late winter when the plant is dormant. Avoid heavy pruning, as this will weaken the plant in the long run and reduce its ornamental value. Light pruning is recommended to help maintain the desired form and size of the tree. Remove dead or diseased branches first, then move on to any crossing, rubbing or competing branches. Be sure not to remove more than 25 % of the tree's total foliage. This will ensure the remaining branch structure is strong and healthy, and will provide plenty of foliage for the tree to produce in the season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

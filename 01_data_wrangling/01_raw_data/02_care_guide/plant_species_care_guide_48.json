@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1587,
+      "species_id": 48,
+      "common_name": "Chantilly Lace Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Chantilly Lace'"
+      ],
+      "section": [
+        {
+          "id": 4957,
+          "type": "watering",
+          "description": "Chantilly Lace Japanese Maple generally requires moderately moist soil during the growing season. Water this plant twice a week during the spring and summer months, making sure to never let the soil completely dry out. In the colder winter months, water only every 2 to 4 weeks, or when the soil is dry 1–2 inches below the soil surface. Try to keep the soil evenly moist throughout the year, but be careful to not over-water your plant."
+        },
+        {
+          "id": 4958,
+          "type": "sunlight",
+          "description": "Chantilly Lace Japanese Maple (Acer palmatum 'Chantilly Lace') needs between 4 and 6 hours of direct sunlight per day. It should be planted in an area that gets bright dappled shade or partial shade for the rest of the day. If the plant is in full sun it will become scorched or burned. This plant will tolerate some light shade, but it prefers to grow in bright, indirect sunlight. The best time of day for Chantilly Lace Japanese Maple is early morning when the sun is gentler and the air is cool."
+        },
+        {
+          "id": 4959,
+          "type": "pruning",
+          "description": "Chantilly Lace Japanese Maple should be pruned in late winter or early spring before new growth appears. Cut away any crossing or damaged branches, and prune the tree to shape it and remove any dead or damaged wood. Although pruning should be kept to a minimum, it will help to maintain a healthy, attractive shape. Aim to remove no more than 1/3 of the total length of the branches at any 1 time, and generally, avoid pruning into old wood. The ideal time for pruning is between February and April."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

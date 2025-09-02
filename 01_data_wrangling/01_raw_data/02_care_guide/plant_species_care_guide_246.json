@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1758,
+      "species_id": 246,
+      "common_name": "Cherokee Chief Flowering Dogwood",
+      "scientific_name": [
+        "Cornus florida 'Cherokee Chief'"
+      ],
+      "section": [
+        {
+          "id": 5479,
+          "type": "watering",
+          "description": "For best results, Cherokee Chief Flowering Dogwood (Cornus florida 'Cherokee Chief') should be watered thoroughly every 7-10 days. Provide approximately 1-1.5 inches of water per week during the spring and summer months, and 1/2-1 inch of water during the fall and winter months. Allow the topsoil to dry out between waterings. During periods of extreme heat or drought, extra watering may be needed. It is important to water deeply and thoroughly to keep the roots from drying out."
+        },
+        {
+          "id": 5480,
+          "type": "sunlight",
+          "description": "Cherokee Chief Flowering Dogwood is a flowering shrub that requires at least 6 hours of direct sunlight each day. An ideal time for the plant to get the most sunlight is during the late morning and early afternoon hours. While it can tolerate some degree of shade, it should be placed in a location with a good amount of sunlight to ensure blooming and healthy foliage."
+        },
+        {
+          "id": 5481,
+          "type": "pruning",
+          "description": "Cherokee Chief Flowering Dogwood (Cornus florida 'Cherokee Chief') should be pruned in late winter to early spring when the tree is dormant. Pruning should focus on removing dead, diseased, or damaged branches. To maintain a healthy, aesthetically pleasing shape, remove any crossing or rubbing branches and thin out or selectively remove any small branches near the interior of the canopy. Make sure to shape the tree by slightly cutting back the leader (dominant top-most branch) and any lateral branch shoots that have grown beyond desired height. Light pruning should be done every year if needed. Heavy pruning should be avoided, as it can damage the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1609,
+      "species_id": 74,
+      "common_name": "Kiyohime Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Kiyohime'"
+      ],
+      "section": [
+        {
+          "id": 5032,
+          "type": "watering",
+          "description": "Kiyohime Japanese maple (Acer palmatum 'Kiyohime') should be watered generously and consistently in order to stay healthy and thrive. Water the tree deeply at least twice a week during spring and summer. Benefits from a light application of water once a week in the fall and winter months. During extremely dry and hot months, water the tree more often as needed. Make sure to always check the soil before watering; the soil should not be soggy or saturated, only moist."
+        },
+        {
+          "id": 5033,
+          "type": "sunlight",
+          "description": "Kiyohime Japanese Maples need at least partial shade when planted in warmer climates. They should receive at least 4 or 5 hours of direct sunlight per day but no more than 8 hours of direct sunlight in total. During the hottest part of the day, such as between 11am and 3pm, it is best to make sure this species is provided with some shade. In cooler climates, they can be grown in full sun, but still benefit from some afternoon shade."
+        },
+        {
+          "id": 5034,
+          "type": "pruning",
+          "description": "Kiyohime Japanese Maple should be pruned in late winter or early spring (January through April) when the tree is dormant. Pruning should focus on selective removal of dead, diseased, and broken branches and twiggy growth, as well as any crossing branches. Keep the canopy of the tree open so that adequate sunshine can reach all parts of the tree for photosynthesis. Do not prune to drastically as the tree is a slow-growing species and will not recover so quickly from drastic pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

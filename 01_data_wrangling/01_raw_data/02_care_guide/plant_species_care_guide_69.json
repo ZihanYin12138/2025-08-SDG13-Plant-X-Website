@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1605,
+      "species_id": 69,
+      "common_name": "Kandy Kitchen Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Kandy Kitchen'"
+      ],
+      "section": [
+        {
+          "id": 5020,
+          "type": "watering",
+          "description": "Kandy Kitchen Japanese Maple (Acer palmatum 'Kandy Kitchen') should be watered deeply and infrequently, approximately every 7 days during the growing season. During the hot summer months, watering should be increased to ensure the root system does not dry out. In mid-summer (July and August), 2 to 3 waterings per week are recommended. When watering, use enough water to saturate the root system and allow the soil to dry out between waterings."
+        },
+        {
+          "id": 5021,
+          "type": "sunlight",
+          "description": "Kandy Kitchen Japanese Maple (Acer palmatum 'Kandy Kitchen') prefers to be grown in bright, filtered sunlight or partial shade. For optimal health, up to 4 hours of direct sunlight per day is best. Keep in mind that the amount of direct sun is dependent on your region and climate, and the plant must be protected from scorching midday rays. To ensure that your Kandy Kitchen Japanese Maple plant gets the right amount of sunlight, they should be placed in a location that receives morning sun and some additional dappled sun during the late afternoon. Direct sun in the afternoon should be avoided so the foliage does not become scorched."
+        },
+        {
+          "id": 5022,
+          "type": "pruning",
+          "description": "Kandy Kitchen Japanese Maple should be pruned in early spring, ideally right after the last frost, or in late summer after the harshest of summer's heat has passed. Cut back branches that have grown too long and prune away dead or unhealthy branches as needed. Pruning can help to promote a fuller, more natural looking foliage shape for this type of tree. Be careful not to over prune as this can cause the tree to be unhealthy and slow down its growth. It is best to remove no more than 1-third of the tree at any 1 time. This will encourage a healthy growth and keep the Japanese Maple looking its best."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

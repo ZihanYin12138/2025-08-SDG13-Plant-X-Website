@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "id": 70,
+      "common_name": "Eastern filbert blight",
+      "scientific_name": "Anisogramma anomala",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Eastern filbert blight (Anisogramma anomala)?",
+          "description": "Eastern filbert blight is a highly destructive fungal disease caused by Anisogramma anomala, primarily affecting European hazelnut trees (Corylus avellana) and their cultivars. It is commonly known as filbert. Symptoms include twig and shoot blight, canker formation with black fruiting bodies, nut discoloration and shriveling, and leaf lesions. The disease can cause significant damage to nuts and lead to defoliation."
+        },
+        {
+          "subtitle": "How does Eastern filbert blight (Anisogramma anomala) occur?",
+          "description": "The disease spreads when it rains, releasing infective ascospores. In western Oregon, this mostly happens during winter and early spring, continuing into mid-to-late spring when new shoots grow. The ascospores are carried by rain and wind, mainly in the direction of the wind. Infections occur when temperatures are between 8 and 25°C and humidity is high for 24 to 72 hours. The fungus enters the tree's phloem, cambium, and outer xylem layers, causing cankers to form along branches. The pathogen, A. anomala, doesn't have resting structures and relies on living plants to survive."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Preventions",
+          "description": "•\tPlanting resistant cultivars that are specifically bred to withstand the disease.\n•\tRegularly inspecting hazelnut trees for symptoms and promptly pruning and removing infected branches and cankers.\n•\tPracticing good orchard sanitation by removing fallen leaves and debris to minimize the spread of fungal spores.\n•\tImplementing cultural practices to optimize tree health, including proper nutrition, irrigation, and sunlight.\n"
+        },
+        {
+          "subtitle": "Biological Control",
+          "description": "•\tAviv (Bacillus subtilis strain IAB/BS03)\n•\tBotector (Aureobasidium pullulans strains DSM 14940 and 14941)\n•\tSerenade OPTI (Bacillus subtilis strain QST 713)\n•\tSerenade Garden Disease Control Concentrate.\n"
+        },
+        {
+          "subtitle": "Resistance cultivars",
+          "description": "•\tSome hazelnut cultivars resistant to Eastern Filbert Blight (EFB) include 'Gasaway,' 'Yamhill,' 'Jefferson,' and 'McDonald.' \n•\tThese cultivars offer a valuable means of managing EFB, although regular monitoring and proper orchard management are still essential.\n"
+        },
+        {
+          "subtitle": "Fungicide Applications",
+          "description": "•\tThere are different fungicides that can be used to control the disease. Some examples include Chlorothalonil, copper-based fungicides (like copper hydroxide and copper sulfate), and triazole fungicides (such as tebuconazole and propiconazole). \nThese fungicides may be available under various brand names like Abound, Bravo Weather Stik, Cabrio EG, and many others. \n•\tIt's essential to consider your location and local regulations as fungicide availability and recommendations may vary.\n"
+        }
+      ],
+      "host": [
+        "california hazel",
+        "filbert",
+        "hazlenut"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/70_anisogramma_anomala/og/Anisogramma_anomala.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/70_anisogramma_anomala/regular/Anisogramma_anomala.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/70_anisogramma_anomala/medium/Anisogramma_anomala.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/70_anisogramma_anomala/small/Anisogramma_anomala.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/70_anisogramma_anomala/thumbnail/Anisogramma_anomala.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 140,
+      "species_id": 385,
+      "common_name": "Wealthy Apple",
+      "scientific_name": [
+        "Malus 'Wealthy'"
+      ],
+      "section": [
+        {
+          "id": 998,
+          "type": "watering",
+          "description": "Wealthy Apple trees should be watered deeply and regularly to encourage healthy growth. An average-sized tree needs about 10 gallons of water per week in the active growth season and between 4-5 gallons per week in the dormant season.  "
+        },
+        {
+          "id": 999,
+          "type": "sunlight",
+          "description": "Wealthy Apple (Malus 'Wealthy') is an excellent choice for small landscapes, as it requires around 5 to 6 hours of direct sunlight a day to produce its delicious fruit. The tree should be planted in a sunny spot that receives full morning sun and partial afternoon shade. If the tree is growing in an area that receives too much shade, the fruit production will be significantly reduced. Additionally, Wealthy Apple trees should be exposed to sunlight year-round for optimal growth and fruit production."
+        },
+        {
+          "id": 1000,
+          "type": "pruning",
+          "description": "Wealthy Apple trees should be pruned in late winter or early spring. Depending on the desired size and shape of the plant, anywhere from 1-3 major pruning sessions may be necessary each year. Thinning out and shortening branches should be done in early spring to stimulate new growth and help the tree form a strong structure. You may also prune to remove old, damaged, or diseased branches and promote better airflow throughout the canopy. After the initial pruning, you may need to do a few light prunings during the growing season to maintain the desired shape of your tree. Prune lightly and selectively, as too much vigorous pruning can harm the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

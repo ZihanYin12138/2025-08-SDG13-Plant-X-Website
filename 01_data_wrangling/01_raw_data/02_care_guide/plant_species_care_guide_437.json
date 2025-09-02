@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1888,
+      "species_id": 437,
+      "common_name": "bear's breeches",
+      "scientific_name": [
+        "Acanthus mollis"
+      ],
+      "section": [
+        {
+          "id": 5869,
+          "type": "watering",
+          "description": "Bear's breeches should be watered thoroughly once a week during its growing season in spring and summer. The soil should remain moist, but not soggy. During the cold months when the plant is not actively growing, reduce watering. Allow the top few inches of soil to dry out between waterings. Provide extra humidity to the plant around the active growing season, especially in the winter or dry climates, to prevent potential leaf drop."
+        },
+        {
+          "id": 5870,
+          "type": "sunlight",
+          "description": "Bear's breeches (Acanthus mollis) prefers full sun, meaning an area that receives at least 6 hours of direct sunlight every day. The amount of sunlight each day can be broken down further to provide your plant with enough light but still rest. During the spring and summer months, Bear's Breeches can tolerate up to 8-10 hours of full sun. During the fall and winter, reducing the amount of direct sunlight to 6 hours is advised. Aim times for sunlight should be from 10am to 4pm for the best results. The full sun should be supplemented with indirect light for the remaining hours of the day. When grown in full sun, Bear's breeches will grow best and flower the most."
+        },
+        {
+          "id": 5871,
+          "type": "pruning",
+          "description": "Bear's Breeches should be pruned in early spring when the plant is still dormant. The amount of pruning depends on the size of the plant and the desired shape, but the general rule is to prune away at least a third of the foliage and flower stems. Remove any dead, damaged or crowded stems. Prune away overly long stems to maintain a neat and attractive shape. Cut back the plant to the desired size or shape, but avoid cutting into the old wood. Pruning should be done with sharp, clean shears or pruners to avoid damaging the stems."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

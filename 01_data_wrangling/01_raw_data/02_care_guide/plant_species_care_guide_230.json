@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1744,
+      "species_id": 230,
+      "common_name": "Chinese Fringetree",
+      "scientific_name": [
+        "Chionanthus retusus"
+      ],
+      "section": [
+        {
+          "id": 5437,
+          "type": "watering",
+          "description": "Chinese Fringetrees should be watered once every 1 to 2 weeks during the growing season. In dryer areas, it may be necessary to increase the frequency. During hot summer months, the trees should be watered more frequently. A good way to check if it needs to be watered is to do a finger test. Stick your finger about 2 inches into the soil and if it feels dry, it may need to be watered. Be sure to water deeply and slowly so that the water can penetrate the root system. Over-watering should be avoided as this can cause root rot and other problems. For established trees, about 2 inches of rain per week is optimal."
+        },
+        {
+          "id": 5438,
+          "type": "sunlight",
+          "description": "Chinese Fringetree (Chionanthus retusus) does best in full sun, meaning it should receive at least 8 hours of direct sunlight each day. In addition, the tree will benefit from some dappled or partial shade during the fiercest sunlight. Additionally, Chinese Fringetree should not be planted on North-facing sides of buildings and other structures where the tree will not receive ample amounts of direct sunlight."
+        },
+        {
+          "id": 5439,
+          "type": "pruning",
+          "description": "Chinese Fringetree should be pruned in late winter or early spring before new growth begins. Pruning in this time allows for maximum bud formation and reduces stress on the tree. When pruning, only removal of dead, diseased or crossing branches is recommended. Thinning can be done to improve air flow/circulation and light penetration, but should be done judiciously. You should prune no more than 25% of transitional and/or current year’s growth as excessive thinning may weaken the structure of the tree. Be sure to sterilize tools between cuts to avoid introducing diseases or pests."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

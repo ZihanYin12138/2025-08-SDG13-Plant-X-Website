@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 597,
+      "species_id": 354,
+      "common_name": "Braeburn Apple",
+      "scientific_name": [
+        "Malus 'Braeburn'"
+      ],
+      "section": [
+        {
+          "id": 1792,
+          "type": "watering",
+          "description": "Braeburn apple plants should be watered regularly during the spring, summer and fall months when temperatures are warm. Water deeply; the top 6 to 8 inches of soil should be evenly moist throughout the growing season. During hot weather, water every 2 to 3 days, and don't let the soil dry out completely. In early spring, water once every week but gradually increase watering to twice a week once the tree begins to actively grow. In the winter months, Braeburn apple plants do not require watering; if you live in an area with mild winters (zones 7 to 10), you may wish to water the tree lightly once or twice a month."
+        },
+        {
+          "id": 1793,
+          "type": "sunlight",
+          "description": "Braeburn Apple trees (Malus 'Braeburn') should receive at least 6-8 hours of direct sunlight each day for optimal growth and fruiting. An ideal planting site should receive sun in the morning, followed by shade in the afternoon. This will help protect the tree from overheating during summer months. Furthermore, during the summer months, the Braeburn Apple tree should be shaded from the midday sun to prevent sunscald and reduce water stress. During the fall and winter months, Braeburn Apple trees should receive more sunlight, as cooler weather means less heat-induced stress on the tree."
+        },
+        {
+          "id": 1794,
+          "type": "pruning",
+          "description": "Pruning Braeburn Apple (Malus 'Braeburn') should be done yearly in late winter or early spring while the tree is still dormant. Pruning should be done to remove any dead, damaged or diseased wood, along with crossing branches and any water sprouts. Overall, pruning should be kept light, only removing 10-20% of the growth and outwardly facing branches. Doing too much pruning can reduce fruit production."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1807,
+      "species_id": 313,
+      "common_name": "Golden Rain Tree",
+      "scientific_name": [
+        "Koelreuteria paniculata"
+      ],
+      "section": [
+        {
+          "id": 5626,
+          "type": "watering",
+          "description": "The Golden Rain Tree should be watered deeply and infrequently, allowing the soil to dry out slightly between waterings. Generally, water the tree once a week in summer, reducing to every 2 or 3 weeks in autumn and spring and once a month or less in winter."
+        },
+        {
+          "id": 5627,
+          "type": "sunlight",
+          "description": "The Golden Rain Tree (Koelreuteria paniculata) thrives best in an area with full sun, requiring at least 6 hours of sunlight per day during its growing season (typically mid-spring to mid-fall). This species is also tolerant to partial shade, although it may not bloom or produce fruit in such an area. If the tree is planted in an area with less sun than 6 hours per day, the foliage may become thin and the tree itself may not reach its full size potential."
+        },
+        {
+          "id": 5628,
+          "type": "pruning",
+          "description": "Golden Rain Tree should be pruned in late winter or early spring, just before the new growth appears. This will ensure that the tree is shaped and growing correctly, and help with any future conflicts with other plants. Start by removing any dead, diseased, or damaged branches. After that, decide which limbs to remove depending on the desired shape of the tree. Be careful not to over prune, as the Golden Rain Tree grows back quickly if you prune too much. Remove no more than a third of the branches each time, and take care not to cut off any buds or flowers. In addition, it's important to prune the limbs so that the overall shape of the tree remains intact. Lastly, once you have finished pruning, make sure to clean up the dead branches and debris from the ground."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

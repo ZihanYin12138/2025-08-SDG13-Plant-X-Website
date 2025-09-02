@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1845,
+      "species_id": 377,
+      "common_name": "Prairifire Flowering Crab",
+      "scientific_name": [
+        "Malus 'Prairifire'"
+      ],
+      "section": [
+        {
+          "id": 5740,
+          "type": "watering",
+          "description": "Prairifire Flowering Crab (Malus 'Prairifire') should be watered once or twice a week in spring and summer when the soil is dry. Aim to water at the root level, rather than sprinkling the leaves. During the fall, water your tree every 2 to 3 weeks, allowing the soil to dry out between waterings. In winter, water sparingly, approximately once a month, but do not allow the soil to dry out completely."
+        },
+        {
+          "id": 5741,
+          "type": "sunlight",
+          "description": "The Prairifire Flowering Crab thrives best in bright, direct sunlight for at least 6 hours per day. The plant should be placed in an area that will receive at least 4 hours of direct sunlight in the morning and 2 hours in the afternoon, preferably in an eastern or western exposure. This will ensure the plant gets the right amount of sunlight and warmth to promote flowering. Sunlight is especially important during the summer months when the plant is actively growing. If the plant is planted in partial shade, it should be given some additional artificial light (such as grow lights) to supplement the natural light."
+        },
+        {
+          "id": 5742,
+          "type": "pruning",
+          "description": "Prairifire Flowering Crab (Malus 'Prairifire') should be pruned in late winter or early spring when the plant is still dormant. Pruning should be light with only a few selective branches removed. The branches should be cut back just above an outward pointing bud to ensure good growth. Branches with dead or damaged wood can be completely removed. If more vigorous pruning is needed, the plant should receive at least 4 weeks of growth before it is trimmed. Pruning should continue until midsummer in order to encourage a healthy dense shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 570,
+      "species_id": 387,
+      "common_name": "Zestar Apple",
+      "scientific_name": [
+        "Malus 'Zestar'"
+      ],
+      "section": [
+        {
+          "id": 1711,
+          "type": "watering",
+          "description": "Zestar Apple trees should be watered weekly or bi-weekly depending upon the season. During the spring and early summer, when the tree is actively growing, water deeply so that the entire root zone is moistened. In the autumn months, watering should taper off as the tree's growth slows for winter dormancy, but the root zone should be kept evenly moist. Additionally, mulch should be applied to the root zone of the tree to keep moisture in and protect roots during the heat of the summer."
+        },
+        {
+          "id": 1714,
+          "type": "sunlight",
+          "description": "Zestar Apple (Malus 'Zestar') plants should receive at least 6 hours of direct sunlight per day for optimal growth, though some days they may be able to absorb more hours of sun. It is best to adjust their sun exposure according to the season, with more sun hours during the spring and summer months and fewer during the cooler winter months. This will give the plant the best opportunity to thrive."
+        },
+        {
+          "id": 1717,
+          "type": "pruning",
+          "description": "Zestar apples should be pruned during their dormancy period, which typically falls between late fall and early spring (depending on where you live). Pruning should involve removing dead, broken, diseased, and crossing branches, and thinning out excess growth. Young trees should be pruned more heavily than mature trees; for young trees, prune away any low-lying branches and shape the main leader. Mature trees should only be pruned to maintain the normal shape and to remove any dead, broken, or diseased branches. Light pruning can also be done during the growing season to remove suckers and spindly growth. Generally, no more than 10–20% of the total amount of growth should be removed in any given year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

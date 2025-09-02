@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1928,
+      "species_id": 483,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium 'Montrose Rose'"
+      ],
+      "section": [
+        {
+          "id": 5989,
+          "type": "watering",
+          "description": "Water your yarrow (Achillea millefolium 'Montrose Rose') regularly, preferably every 1 to 2 weeks in the growing season. Water early in the day, so water has a chance to soak into the soil before the heat of the afternoon sun. Pour water at the base of the plant until it begins to flow freely from the base. Doing this will help ensure that water its reaching the deeper roots of the plant. Yarrow plants need a good 1 to 2 inches of water per week, depending on temperature and your soils texture. To conserve water, use a layer of mulch around the base of the plant to help retain moisture. Water only when the top 1 or 2 inches of soil become dry as overwatering can cause root rot."
+        },
+        {
+          "id": 5990,
+          "type": "sunlight",
+          "description": "Yarrow (Achillea millefolium 'Montrose Rose') plants enjoy 6 to 8 hours of direct sun each day in order to thrive. Yarrows require well-drained soil that is kept evenly moist but not soggy. It is best to water in the morning so the foliage has a chance to dry out and this will also reduce the chance of powdery mildew. When given too much shade, the plants tend to be spindly with few blooms and poor growth."
+        },
+        {
+          "id": 5991,
+          "type": "pruning",
+          "description": "Yarrow (Achillea millefolium 'Montrose Rose') should be pruned in late spring/early summer to ensure lush and healthy foliage. Pruning times should be kept to a minimum to prevent stress on the plant and to maintain its desirable shape and size.  When pruning, remove dead or wilted flower heads to make room for new blooms. Cut back the stems of the yarrow to just above the leaf nodes so that you don't create an unsightly bald spot in the flower bed. If you prune too far back, you'll create excessive branching. Pruning should be done selectively and minimally to maintain the natural shape of the plant. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

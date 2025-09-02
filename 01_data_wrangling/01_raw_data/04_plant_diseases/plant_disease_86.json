@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 86,
+      "common_name": "Leaf spot Septoria",
+      "scientific_name": "Septoria dianthi",
+      "other_name": [
+        "Septoria leaf spot"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Septoria leaf spot (Septoria dianthi)?",
+          "description": "Septoria leaf spot, caused by the fungus Septoria dianthi, is a plant disease that affects various species of Dianthus plants, including carnations and sweet William. It has widespread distribution globally. The disease is characterized by circular spots on the leaves, which are light brown in the center and surrounded by purplish brown borders. In severe cases, the spots can coalesce and lead to leaf deformation, necrosis, and the scorched appearance of the whole plant. "
+        },
+        {
+          "subtitle": "How does the Septoria leaf spot (Septoria dianthi) occur?",
+          "description": "Septoria dianthi survives the winter on infected plant debris. In the spring, spores are released and dispersed through wind, rain, and water. These spores land on the leaves of plants and germinate, penetrating the leaf tissue. As the fungus grows, it produces more spores that can spread to other leaves, continuing the disease cycle. The disease progresses until hot or dry weather conditions inhibit its growth. Eventually, the fungus dies, but its spores can persist on infected debris until the following spring, initiating the cycle once again. "
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural practice\t",
+          "description": "•\tChoose resistant varieties of species that are less susceptible to Septoria leaf spot.\n\n•\tRemove and destroy any infected plant debris, including fallen leaves, stems, and flowers. This helps to minimize the presence of overwintering spores and prevent the disease from spreading.\n\n•\tPlant with adequate spacing to ensure good air circulation and reduce humidity levels, which can inhibit the growth and spread of the fungus.\n\n•\tAvoid overhead irrigation, as it can keep the foliage wet for extended periods and promote disease development. Instead, use drip irrigation or water at the base of the plants.\n"
+        },
+        {
+          "subtitle": "Application of Fungicide",
+          "description": "Common fungicides for controlling Septoria leaf spot include chlorothalonil (Daconil), mancozeb (Dithane), azoxystrobin (Heritage), myclobutanil (Immunox), thiophanate-methyl (Topsin), propiconazole (Banner MAXX.) Armada 50 WDG, and Avelyo.\n\nHowever, it is crucial to follow label instructions, adhere to reentry intervals, and prioritize safe pesticide usage for effective disease management in Dianthus plants. \n"
+        }
+      ],
+      "host": [
+        "carnation"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/86_septoria_dianthi/og/Septoria_scabiosicola_WF3_28129.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/86_septoria_dianthi/regular/Septoria_scabiosicola_WF3_28129.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/86_septoria_dianthi/medium/Septoria_scabiosicola_WF3_28129.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/86_septoria_dianthi/small/Septoria_scabiosicola_WF3_28129.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/86_septoria_dianthi/thumbnail/Septoria_scabiosicola_WF3_28129.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1608,
+      "species_id": 73,
+      "common_name": "Kiri Nishiki Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Kiri Nishiki'"
+      ],
+      "section": [
+        {
+          "id": 5029,
+          "type": "watering",
+          "description": "Water the Kiri Nishiki Japanese Maple (Acer palmatum 'Kiri Nishiki') deeply 2 to 3 times a week during the growing season (spring and summer). In the fall, water weekly. During the winter months, chlorine will not build up as quickly, so only water every other week, unless the soil stays dry. To check if your soil is dry, stick your finger into the soil. If soil is dry up to your knuckle, then it is time to water."
+        },
+        {
+          "id": 5030,
+          "type": "sunlight",
+          "description": "Kiri Nishiki Japanese Maple plants should receive at least 6 hours of direct sunlight each day for optimal growth and health. If not provided with enough sunlight, the trees can become leggy, meaning too tall and spindly. To prevent this, they should be placed in an area that receives morning sun and shade in the afternoon. It is best to try to avoid overcrowding in order to maximize light for all plants. If possible, avoid east-facing locations, as these can be too cold and dry for these trees."
+        },
+        {
+          "id": 5031,
+          "type": "pruning",
+          "description": "Kiri Nishiki Japanese Maple (Acer palmatum 'Kiri Nishiki') should be pruned once a year, in early spring before buds start to swell. Since this is a Japanese Maple, careful pruning is necessary to avoid damage to the delicate foliage. Prune very little at a time, taking off only the top 1/3 of the new growth and dead branches. Pruning too heavily may lead to weaken the structure of the tree. Any dead wood can be removed just above a live bud or branch junction. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

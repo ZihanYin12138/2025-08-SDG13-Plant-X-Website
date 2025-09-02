@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "id": 27,
+      "common_name": "Varnish fungus rot",
+      "scientific_name": "Ganoderma lucidum",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Varnish fungus rot (Ganoderma lucidum)?",
+          "description": "Ganoderma lucidum, also known as varnish fungus or reishi mushroom, is a wood-rotting fungus that affects trees globally. It causes Ganoderma rot, a severe and often fatal tree disease. Susceptible species include maples, oaks, honeylocusts, ashes, elms, and conifers. The fungus attacks tree roots and lower trunks, leading to decay and structural weakness. Symptoms include yellowing, wilting, undersized leaves, dead branches, and the formation of shelf-like fruiting bodies (conks) on the lower trunk and exposed roots. "
+        },
+        {
+          "subtitle": "How does Varnish fungus rot (Ganoderma lucidum) occur?",
+          "description": "During humid summers, new spores are released from conks, which are reproductive structures. These spores infect open wounds on the root flares and lower trunk of susceptible trees. Once germinated, the spores cause infection, attacking the sapwood of major roots and the lower trunk. As time passes, the decayed wood increases, resulting in soft and spongy wood in critical tree areas. The conks, produced yearly, appear in summer and fall, eventually decaying and deteriorating."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": " Prevention and Early Detection",
+          "description": "•\tChoose resistant tree species and cultivars for the specific site conditions.\n\n•\tMinimize wounds and injuries to tree trunks and roots, especially during landscaping or maintenance activities.\n\n•\tConduct routine checks for signs of fungal infection, including conks, wilting leaves, and dead branches.\n"
+        },
+        {
+          "subtitle": "Tree Maintenance and Care",
+          "description": "•\t Implement proper planting, watering, fertilizing, and pruning techniques to promote tree health and vigor.\n\n•\t Address environmental stresses, such as improving soil conditions, managing water effectively, and addressing nutrient deficiencies.\n\n•\tPromptly remove and dispose of infected branches to prevent further spread of the fungus.\n"
+        },
+        {
+          "subtitle": "Professional Intervention",
+          "description": "•\tSpecific fungicides for treating Ganoderma lucidum infections in trees are not available. However, systemic fungicides like propiconazole and thiabendazole are commonly used for managing other tree diseases.\n\n•\tProfessionals may suggest specific treatments, such as fungicides or other disease management techniques.\n\n•\tIn cases of advanced decay or compromised structural integrity, professional intervention may involve the safe removal of infected trees to prevent accidents and further spread of the fungus.\n"
+        }
+      ],
+      "host": [
+        "apple",
+        "cherry",
+        "citrus",
+        "olive",
+        "peach",
+        "various trees and shrubs"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/27_ganoderma_lucidum/og/Ganoderma_lucidum_48805944.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/27_ganoderma_lucidum/regular/Ganoderma_lucidum_48805944.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/27_ganoderma_lucidum/medium/Ganoderma_lucidum_48805944.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/27_ganoderma_lucidum/small/Ganoderma_lucidum_48805944.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/27_ganoderma_lucidum/thumbnail/Ganoderma_lucidum_48805944.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/27_g/og/Ganoderma_lucidum_48805909.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/27_g/regular/Ganoderma_lucidum_48805909.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/27_g/medium/Ganoderma_lucidum_48805909.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/27_g/small/Ganoderma_lucidum_48805909.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/27_g/thumbnail/Ganoderma_lucidum_48805909.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/27_g/og/Ganoderma_lucidum_33544632.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/27_g/regular/Ganoderma_lucidum_33544632.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/27_g/medium/Ganoderma_lucidum_33544632.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/27_g/small/Ganoderma_lucidum_33544632.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/27_g/thumbnail/Ganoderma_lucidum_33544632.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

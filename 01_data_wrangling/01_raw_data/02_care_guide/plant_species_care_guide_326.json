@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1818,
+      "species_id": 326,
+      "common_name": "Yellow Variegated Tuliptree",
+      "scientific_name": [
+        "Liriodendron tulipifera 'Aureomarginatum'"
+      ],
+      "section": [
+        {
+          "id": 5659,
+          "type": "watering",
+          "description": "The amount and frequency of watering for a Yellow Variegated Tuliptree (Liriodendron tulipifera 'Aureomarginatum') depends on the growing conditions. In well-drained soil, a Yellow Variegated Tuliptree should be watered deeply twice a month during the first year or 2. Once established, the tree should be watered approximately every 10 to 14 days during the spring and summer months. It's important to never let the soil for this plant dry out completely, as it may cause stress to the tree and possibly even death. During times of extreme drought, the Yellow Variegated Tuliptree should be watered more often in order to prevent the soil from drying completely."
+        },
+        {
+          "id": 5660,
+          "type": "sunlight",
+          "description": "The Yellow Variegated Tuliptree (Liriodendron tulipifera 'Aureomarginatum') is a large deciduous tree that prefers full-sun exposure and thrives in moist, well-drained soil. In general, this plant species requires 6-8 hours of direct sunlight per day when grown outdoors. In hot climates, partial shade may be beneficial since the foliage may scorch in direct sun. Ideal light conditions for this plant species is dappled, full sunlight during the morning hours that transitions to afternoon shade, since this will ensure that the leaves are less exposed to intense midday light that may cause damage."
+        },
+        {
+          "id": 5661,
+          "type": "pruning",
+          "description": "Yellow Variegated Tuliptree (Liriodendron tulipifera 'Aureomarginatum') should be pruned in late winter or early spring before new growth begins. Pruning should be done lightly and selectively, focusing on removing dead and diseased branches, and any branches that are crossed or rubbing together. The goal should be to open up the canopy to allow light and air to penetrate, while maintaining the general shape of the tree. Heavy pruning should be avoided as it can impact bloom production. Removing more than 1/4 of the foliage in 1 season is not recommended. Yearly light pruning of 2-3 branches is better than attempting a major pruning in 1 season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

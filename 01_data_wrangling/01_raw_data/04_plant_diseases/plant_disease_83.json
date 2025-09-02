@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": 83,
+      "common_name": "Alternaria blight",
+      "scientific_name": "Alternaria spp.",
+      "other_name": [
+        "Leaf spot diseases"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Alternaria blight (Alternaria spp)?",
+          "description": "Alternaria leaf spot, also called Alternaria blight, is caused by several closely related species of Alternaria fungi, with different forms of disease targeting specific plants or even entire plant families. Brassica vegetables such as cabbage, broccoli, cauliflower, and Brussels sprouts can be affected by multiple forms of Alternaria leaf spot. Alternaria. It causes small water-soaked lesions on leaves, stems, and fruits. These lesions initially appear dark brown or black with concentric rings, enlarging into necrotic areas. Alternaria spp. can also cause blight symptoms, including rapid wilting, browning, and sunken areas covered in dark spores."
+        },
+        {
+          "subtitle": "How does Alternaria blight (Alternaria spp) occur?",
+          "description": "Alternaria blight is caused by spores produced by the Alternaria fungi present in infected crop debris or soil. These spores are disseminated by wind, water, insects, or human activities. When conditions are favorable, the spores germinate and infect plants through natural openings or wounds. Disease development is promoted by extended leaf wetness and moderate to warm temperatures. The fungi can survive in debris or soil for up to two years, allowing the disease cycle to repeat.\n"
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices",
+          "description": "1.\tBuy high-quality seeds from trusted sources. Save seeds only from plants that are disease-free and in good health.\n2.\tConsider heat-treating your seeds to reduce the risk of disease. Clean and sanitize your seed-starting trays every year.\n3.\tRemove or bury any plant residues in your garden to prevent the spread of diseases.\n4.\tWait at least three years before planting Brassica plants in the same location again.\n5.\tIf you've had issues with diseases, avoid using cover crops from the Brassica family, like tillage radish.\n6.\tProvide enough space between plants to promote airflow. Ideally, broccoli plants should be spaced 10-18 inches apart in rows 18-36 inches apart.\n7.\tKeep an eye out for weeds in the Brassica family, such as shepherd's purse, black mustard, and field mustard. Remove them promptly to prevent them from hosting diseases like black rot.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "Fungicides available for Alternaria blight management include AZOXYSTROBIN (Quadris), CHLOROTHALONIL (Bravo Weather Stik), IPRODIONE (Rovral 4F), PYRACLOSTROBIN (Cabrio EG), and TRIFLOXYSTROBIN (Flint) and more.\n\nFollow local regulations, label instructions, and integrated pest management practices when using fungicides.\n"
+        }
+      ],
+      "host": [
+        "carnation",
+        "marigold",
+        "pansy",
+        "violet",
+        "zinnia"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/83_alternaria_spp/og/8227641316_9695d1d63f_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/83_alternaria_spp/regular/8227641316_9695d1d63f_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/83_alternaria_spp/medium/8227641316_9695d1d63f_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/83_alternaria_spp/small/8227641316_9695d1d63f_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/83_alternaria_spp/thumbnail/8227641316_9695d1d63f_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

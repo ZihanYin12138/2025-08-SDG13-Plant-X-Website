@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1586,
+      "species_id": 46,
+      "common_name": "Burgundy Lace Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Burgundy Lace'"
+      ],
+      "section": [
+        {
+          "id": 4951,
+          "type": "watering",
+          "description": "These plants need moist soil but should not be kept overly wet. Water thoroughly when the top 2-3 inches of soil is dry. This usually works out to around once every 7-10 days. In summer, you may need to water a bit more frequently. In winter, allow the soil to almost dry out before giving a good watering. Keep an eye out for wilting leaves and water more frequently if needed."
+        },
+        {
+          "id": 4952,
+          "type": "sunlight",
+          "description": "The Burgundy Lace Japanese Maple grows best when exposed to bright, indirect light or partial shade. Those planted in full sun should be placed in an area where they can receive dappled light for part of the day. Too much direct sun can cause leaf burn or plant stress, so extra care should be taken to protect this species from too much sun. It will need no more than 4-5 hours of direct sunlight per day. Because this species is native to woods and forest floors, it often prefers the shade of nearby trees. A strategically placed tree or large shrub can provide much needed coverage for a Burgundy Lace Japanese Maple."
+        },
+        {
+          "id": 4953,
+          "type": "pruning",
+          "description": "Pruning should be done in the early spring before new growth begins. This species should have light trimming throughout the year, and more significant pruning be done every couple of years - removing dead, diseased, or overcrowded branches and any tangling branches that cross each other which can lead to problems. Pruning should also be done to maintain desired shape, size, and to keep the tree looking tidy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

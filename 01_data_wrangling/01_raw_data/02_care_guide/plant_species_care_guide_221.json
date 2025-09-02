@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1736,
+      "species_id": 221,
+      "common_name": "Blue Nootka Cypress",
+      "scientific_name": [
+        "Chamaecyparis nootkatensis 'Glauca'"
+      ],
+      "section": [
+        {
+          "id": 5413,
+          "type": "watering",
+          "description": "The Blue Nootka Cypress (Chamaecyparis nootkatensis 'Glauca') should be watered regularly. Water only when the soil is dry to the touch, and water deeply. Provide approximately 1-2 inches of water per week, either from rainfall or from watering directly with a hose. If the soil is moist, do not water. During the growing season, usually between spring and fall, water more often, giving the plant approximately 2 inches of water per week. During winter, water only when the soil is dry. Water only at the soil level, avoiding wetting the leaves or needles."
+        },
+        {
+          "id": 5414,
+          "type": "sunlight",
+          "description": "Blue Nootka Cypress is best grown in full sun for maximum growth and beauty. This species does best when receiving 5-6 hours of direct sunlight per day, and can tolerate some dappled shade during the hottest part of summer. When grown in more shaded conditions, the foliage may become bleached or discolored, and growth will be slowed."
+        },
+        {
+          "id": 5415,
+          "type": "pruning",
+          "description": "Blue Nootka Cypress should be pruned lightly in fall or spring. The timing of pruning is important, as it can help direct the growth of the tree and keep it looking its best. Pruning should be done to remove any dead or diseased branches, and to shape the tree for an aesthetically pleasing form. Pruning should generally not remove more than 1-third of the tree at any 1 time, as this can stress the tree and lead to unhealthy growth. If necessary, the tree can be pruned more severely, with removal of up to 2-thirds, but this should be done gradually over a period of 2 to 3 years."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

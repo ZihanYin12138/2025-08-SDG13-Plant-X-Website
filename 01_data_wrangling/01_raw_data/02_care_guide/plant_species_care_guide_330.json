@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1822,
+      "species_id": 330,
+      "common_name": "Elizabeth Magnolia",
+      "scientific_name": [
+        "Magnolia 'Elizabeth'"
+      ],
+      "section": [
+        {
+          "id": 5671,
+          "type": "watering",
+          "description": "Elizabeth Magnolia (Magnolia 'Elizabeth') should be watered weekly during the growing season, typically from mid-spring to mid-fall. Water thoroughly once a week, saturating the soil but not causing standing water. The soil should remain moist, but not saturated. Reduce watering in the winter when there is less active growth and the soil may not need watering more than once a month. Make sure to check the soil every few weeks to ensure the soil is not overly dry or wet."
+        },
+        {
+          "id": 5672,
+          "type": "sunlight",
+          "description": "Magnolia 'Elizabeth' prefers full sun conditions that offer at least 6-8 hours of direct sunlight each day. Place the plant in an area of your garden that receives plenty of morning sunlight to ensure the best blooming. It’s best to avoid growning this species in overly shady areas as too little sun will interfere with blooming. Ensure the planting area continuously receives direct or indirect sunlight throughout the day."
+        },
+        {
+          "id": 5673,
+          "type": "pruning",
+          "description": "Elizabeth Magnolia should be pruned in late winter or early spring before bloom. Pruning should be done selectively to maintain the desired shape and size of the plant. Any dead, diseased, crossing, or old branches should be removed first. Afterward light thinning may be done to remove a few healthy branches to remove competing buds, reduce crowding, and promote air circulation. Pruning should not exceed 1/3 of the total plant material, so be conservative with cuts."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

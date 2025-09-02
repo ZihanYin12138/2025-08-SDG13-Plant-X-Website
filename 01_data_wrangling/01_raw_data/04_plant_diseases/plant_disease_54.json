@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 54,
+      "common_name": "Powdery mildew",
+      "scientific_name": "Sphaerotheca fuliginea",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Powdery mildew (Sphaerotheca fuliginea)?",
+          "description": "Powdery mildew caused by Sphaerotheca fuliginea is a common fungal disease that affects beans, black-eyed peas, cucurbits (cucumbers, melons, squash, pumpkins), and okra. It is characterized by the presence of a white powdery coating on leaves, stems, and fruits. This disease is prevalent in warm and dry regions. Infected plants exhibit symptoms such as powdery patches, leaf distortion, stunted growth, premature leaf drop, and blemished or deformed fruits."
+        },
+        {
+          "subtitle": "How does Powdery mildew (Sphaerotheca fuliginea) occur?",
+          "description": "It reproduces through a process called asexual reproduction. It produces powdery spores called conidia that are dispersed by wind and can germinate on susceptible plants. When favorable conditions are present, such as warm temperatures and high humidity, the conidia germinate and form new fungal colonies on susceptible plant surfaces. The rapid reproduction and dispersal of conidia contribute to the widespread occurrence and spread of powdery mildew in beans, black-eyed peas, cucurbits, and okra."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Plant Management Strategies",
+          "description": "•\tChoose Resistant Varieties: Opt for vegetable varieties that are resistant to powdery mildew to reduce the risk of infection.\n\n•\tProper Spacing: Provide sufficient spacing between plants to ensure good air circulation and reduce humidity levels.\n\n•\tSunlight Exposure: Plant in sunny areas to promote dry conditions and discourage powdery mildew growth.\n"
+        },
+        {
+          "subtitle": "Cultural Practices",
+          "description": "•\tWatering Techniques: Avoid overhead watering to keep foliage dry; instead, water at the base of plants.\n\n•\tBalanced Fertilization: Apply balanced fertilizers and avoid excessive nitrogen, which can promote susceptible foliage.\n\n•\tPruning and Sanitation: Regularly remove and destroy infected plant parts to prevent the spread of spores.\n"
+        },
+        {
+          "subtitle": "Biological Control",
+          "description": "•\tSerenade: A biological fungicide containing the bacterium Bacillus subtilis helps prevent powdery mildew infections. It is considered nontoxic to people, pets, and beneficial insects.\n\n•\tBeneficial Fungi: Certain species of beneficial fungi, such as Trichoderma spp., can help suppress powdery mildew growth when applied as a biocontrol agent.\n\nIt's essential to read and follow the instructions and precautions provided on the fungicide labels, as they vary based on the specific product and crop being treated.\n"
+        },
+        {
+          "subtitle": "Fungicides",
+          "description": "•\tHorticultural Oils: Saf-T-Side Spray Oil, Sunspray Ultra-Fine Spray Oil.\n•\tNeem Oil: Effective as both an insecticide and fungicide.\n•\tSulfur-based Fungicides: Safer Garden Fungicide (wettable sulfur).\n•\tCopper-based Fungicides: Available but not highly effective against powdery mildew.\n\nIt's important to read and follow the instructions and precautions provided on the fungicide labels, as they vary based on the specific product and crop being treated.\n"
+        }
+      ],
+      "host": [
+        "beans",
+        "black-eyed pea",
+        "cantaloupe",
+        "cucurbits",
+        "okra"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/54_sphaerotheca_fuliginea/og/2560px-Sphaerotheca_fusca_on_Cucumber_leaves.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/54_sphaerotheca_fuliginea/regular/2560px-Sphaerotheca_fusca_on_Cucumber_leaves.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/54_sphaerotheca_fuliginea/medium/2560px-Sphaerotheca_fusca_on_Cucumber_leaves.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/54_sphaerotheca_fuliginea/small/2560px-Sphaerotheca_fusca_on_Cucumber_leaves.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/54_sphaerotheca_fuliginea/thumbnail/2560px-Sphaerotheca_fusca_on_Cucumber_leaves.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

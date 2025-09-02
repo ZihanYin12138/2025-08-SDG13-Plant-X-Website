@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1869,
+      "species_id": 412,
+      "common_name": "sunset huskmallow",
+      "scientific_name": [
+        "Abelmoschus manihot"
+      ],
+      "section": [
+        {
+          "id": 5812,
+          "type": "watering",
+          "description": "Sunset huskmallow (Abelmoschus manihot) is a tropical plant that likes warm and moist conditions. It should be watered often to keep the soil consistently moist. However, it should not be overwatered as this can lead to root rot.\n\nThis plant needs to be watered every 3 to 5 days, depending on the temperature, humidity, and light exposure. The soil should always be damp to the touch, but not soggy. It is important to check the soil's moisture level before watering. You can also use a moisture meter to make sure the plant is getting enough water."
+        },
+        {
+          "id": 5813,
+          "type": "sunlight",
+          "description": "Sunset huskmallow plants require 7 to 8 hours of direct sunlight each day during the growing season. They prefer full sun but can tolerate partial shade especially during the hot summer months. During the cooler months, plants can handle full sun for 6 to 8 hours a day."
+        },
+        {
+          "id": 5814,
+          "type": "pruning",
+          "description": "Sunset huskmallow is best pruned in the late winter or early spring. Pruning should be done only if the plant is overgrown, unshapely, or if dead wood needs to be removed. Prune by cutting back unwanted growth to a bud or branch junction to encourage bushier, denser growth for a more attractive appearance. Avoid removing more than 1-third of the overall growth at once to prevent damage to the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

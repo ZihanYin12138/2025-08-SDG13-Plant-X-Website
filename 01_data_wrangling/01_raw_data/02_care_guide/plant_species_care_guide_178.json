@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1701,
+      "species_id": 178,
+      "common_name": "Princess Diana Serviceberry",
+      "scientific_name": [
+        "Amelanchier x grandiflora 'Princess Diana'"
+      ],
+      "section": [
+        {
+          "id": 5308,
+          "type": "watering",
+          "description": "Princess Diana Serviceberry should be watered deeply and infrequently.  Water thoroughly every 7-14 days, depending on soil and climate. Soak the soil to the depth of 8-12 inches; and allow the soil to dry out between waterings. It's best to check the moisture of the soil before watering. If the soil is still moist, skip a watering until the soil has a chance to dry out. During the summer, more frequent watering may be necessary if the weather is extremely hot or dry. In this case, water every 5-7 days. During the winter months, water the plant less frequently as the plant is dormant."
+        },
+        {
+          "id": 5309,
+          "type": "sunlight",
+          "description": "Princess Diana Serviceberry requires full sun to partial shade, which translates to 6 to 8 hours of sunlight each day. This plant should be exposed to the morning sunlight for maximum growth and overall health. If placed in too much shade, the shrub may experience stunted growth and reduced flowering. In areas that receive more than 8 hours of sun per day, the plant should be placed in semi-shade to protect it from the intense afternoon sunlight. Providing Princess Diana Serviceberry with enough sun and the right environmental conditions will ensure that it thrives."
+        },
+        {
+          "id": 5310,
+          "type": "pruning",
+          "description": "Princess Diana Serviceberry requires pruning to remain healthy and promote flowering. It should be pruned in late winter or early spring before the new growth begins. To prune, start by removing any dead, diseased, or broken branches. Also thin out any overcrowded areas to improve the form of the tree. Cut away any shoots that are crossing or rubbing against each other. Remove any branches that are growing out of the desired shape of the tree and those that are growing straight up vertically. To encourage flowering, select a few of the older, thicker branches and cut them back to 1/3 of their length. Finally, if needed, shape the tree by light pruning of the remaining branches. Make sure not to reduce the amount of flower buds, or you won't get blooms.\n"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

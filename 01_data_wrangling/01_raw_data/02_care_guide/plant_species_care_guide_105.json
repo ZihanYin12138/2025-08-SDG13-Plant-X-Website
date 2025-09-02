@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1637,
+      "species_id": 105,
+      "common_name": "Dwarf Red Pygmy Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Red Pygmy'"
+      ],
+      "section": [
+        {
+          "id": 5116,
+          "type": "watering",
+          "description": "Water Dwarf Red Pygmy Japanese Maples deeply but infrequently. During the summer season, water once or twice a week, allowing the soil to dry slightly between waterings. When temperatures drop in autumn, you can reduce watering to every 2 or 3 weeks. During winter, water only when necessary, generally when the soil is dry to a depth of 3-4 inches. Do not let the plant sit in standing water."
+        },
+        {
+          "id": 5117,
+          "type": "sunlight",
+          "description": "Dwarf Red Pygmy Japanese Maple (Acer palmatum 'Red Pygmy') prefer a location with partial shade and protection from the strong afternoon sunshine. They need a minimum of 4 hours of direct sunlight each day, but do best when receiving 5 to 6 hours of direct sunlight during the morning and early afternoon hours. Planting it in a location that offers some protection from strong afternoon sun will help your Japanese maple look its best and will reduce the risk of leaf scorch due to too much direct sunlight."
+        },
+        {
+          "id": 5118,
+          "type": "pruning",
+          "description": "Dwarf Red Pygmy Japanese Maple (Acer palmatum 'Red Pygmy') benefits most from selective pruning in early spring or just before growth begins. Pruning should be done to maintain the desired shape and to remove any branches that crowd or cross over other branches. Pruning should be light, as this species does not respond well to heavy pruning. Remove no more than 25-30% of the previous year’s growth. Only prune healthy branches, and try to avoid stripping too much wood from 1 side of the tree. Dead wood can be pruned out at any time of year, and small twiggy growth can be selectively thinned in summer if desired."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

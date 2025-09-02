@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1708,
+      "species_id": 189,
+      "common_name": "Paper Birch",
+      "scientific_name": [
+        "Betula papyrifera"
+      ],
+      "section": [
+        {
+          "id": 5329,
+          "type": "watering",
+          "description": "Paper Birch should be watered once a week, and around 2 to 3 inches of water should be given. This will help the plant's roots to be more deeply hydrated and also maintain moisture in its shallow root zone. Make sure to avoid overwatering, as this can cause root rot. Water in the morning or late afternoon to minimize evaporation. Reduce watering in the winter months and when the weather is colder. During the growing season, supplement natural rainfall with about an additional 1 inch of water to ensure the plant stays hydrated."
+        },
+        {
+          "id": 5330,
+          "type": "sunlight",
+          "description": "Paper Birch (Betula papyrifera) prefers full to partial sun for optimal growth. Generally, the tree should receive at least 6 hours of sunlight per day, but up to 8 or 9 hours of sunlight per day is ideal. In climates where summers are extremely hot, it may be beneficial to plant the tree in an area where it will receive more partial sun to avoid sunburn or stress."
+        },
+        {
+          "id": 5331,
+          "type": "pruning",
+          "description": "Paper birch (Betula papyrifera) should be pruned in early spring (April or May) when the ground begins to thaw. Pruning should be limited to young trees only since mature birches are more vulnerable to damage. When pruning, aim to remove any dead, diseased, or broken branches. Also, shape the tree by removing thin branches or branches that rub against each other. However, avoid pruning more than 1-third of a mature tree’s crown. To keep a young tree’s shape, focus pruning on the top half of the crown. Prune branches back to a lateral branch or the trunk. For older trees, prune larger branches back to an intersecting branch or the trunk. Finally, avoid creating flat-topped trees when pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

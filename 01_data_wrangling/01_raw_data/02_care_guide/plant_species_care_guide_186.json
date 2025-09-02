@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1705,
+      "species_id": 186,
+      "common_name": "River Birch",
+      "scientific_name": [
+        "Betula nigra"
+      ],
+      "section": [
+        {
+          "id": 5320,
+          "type": "watering",
+          "description": "River Birch (Betula nigra) should be watered about once a week, or when the soil is dry to the touch. The best time to water is in the early morning to allow the water to penetrate the soil and reach the roots before the heat of the day. Water thoroughly until the soil is moist but not soggy. Make sure not to over water the plant to avoid root rot."
+        },
+        {
+          "id": 5321,
+          "type": "sunlight",
+          "description": "The birch does best if it gets the full sun from morning to late afternoon, however it can tolerate some partial shade, as long as it still recieves at least 4-5 hours of direct sunlight a day. Without enough sunlight, the tree's growth is inhibited in both height and flowers and foliage can become sparse or stunted. River Birch is happiest when receiving direct sunlight in the early morning and late afternoon hours with only partial shade during the middle of the day."
+        },
+        {
+          "id": 5322,
+          "type": "pruning",
+          "description": "River Birch (Betula nigra) should be pruned in late winter or early spring before any new growth begins, preferably in February or March. Prune branches back to a 1- to 2-year-old branch where possible. Pruning should be selective to create a single dominant trunk and remove dead, dying, and rubbing branches. Minor shape pruning and thinning are also recommended. Do not prune more than 1/4 of the canopy in 1 year. Excessive pruning can lead to a decrease in the tree shape and vigor, and in some cases, death."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1835,
+      "species_id": 344,
+      "common_name": "Kobus Magnolia",
+      "scientific_name": [
+        "Magnolia kobus"
+      ],
+      "section": [
+        {
+          "id": 5710,
+          "type": "watering",
+          "description": "The Kobus Magnolia (Magnolia kobus) is a hardy, evergreen tree that requires regular watering during the growing season to ensure optimum health. During the spring and summer months, it is important to water regularly, keeping the soil moist but not soggy. Water once a week, ensuring that the soil is thoroughly soaked. During the fall and winter months, the soil should remain slightly dry, allowing the plant to rest and prepare for the spring growth. Water the plant only when the top 1 to 2 inches of soil feel dry. "
+        },
+        {
+          "id": 5711,
+          "type": "sunlight",
+          "description": "Kobus Magnolia (Magnolia kobus) grows best with full sun to partial shade, meaning they should receive at least 6 to 8 hours of sunlight per day. Morning sunlight is the preferred option for this species, as the afternoon sun may produce heat stress and cause scorching damage to the leaves. In regions with strong midday sunlight, providing an umbrella of sorts to block direct rays may be beneficial. "
+        },
+        {
+          "id": 5712,
+          "type": "pruning",
+          "description": "Kobus magnolia should be pruned in late winter or early spring to maintain its shape, remove dead or crossing branches, and promote vigorous flowering. The amount of pruning will depend on the desired shape of the tree and the overall health of the tree. Generally, the tree should not be pruned too aggressively, as this can reduce its flowering potential. To start, remove dead, diseased, or damaged branches, and any crowding or rubbing branches. Then, thin out the canopy by removing smaller branches, as well as branches that are growing straight up or in a V shape. Finally, shape the tree into the desired form you wish, making sure to retain a more natural shape. In order to retain the tree's natural form, it is important not to prune too severely or remove too many branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

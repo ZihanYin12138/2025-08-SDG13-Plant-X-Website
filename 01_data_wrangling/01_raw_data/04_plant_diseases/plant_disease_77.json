@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 77,
+      "common_name": "Orange rust",
+      "scientific_name": "Arthuriomyces peckianus",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Orange Rust (Arthuriomyces peckianus) and (Gymnoconia nitens)?",
+          "description": "Orange rust is a fungal disease that affects blackberries and black raspberries. It is caused by two different fungi: Arthuriomyces peckianus on black raspberries and Gymnoconia nitens on blackberries. The disease is found in various regions, including the Northeastern United States. Symptoms include stunted and deformed leaves, yellowing, orange growths on the undersides of leaves, and later, black spots on leaves. Infected plants may have weak shoots, fewer blossoms, and fruit. While orange rust weakens plants, it typically doesn't kill them. "
+        },
+        {
+          "subtitle": "How does Orange Rust (Arthuriomyces peckianus) and (Gymnoconia nitens) occur? ",
+          "description": "Orange rust occurs through the reproduction of the fungal pathogens A. peckianus and G. nitens. The disease spreads through spores produced by the fungi. These spores are released from the orange growths (aecia) on the undersides of infected leaves. The spores can be carried by wind, water, or contact with contaminated materials, allowing them to infect healthy plants. Once the spores land on susceptible host plants, they germinate and establish infection, leading to the development of new orange rust lesions. This cycle continues as infected plants produce more spores, perpetuating the disease's spread."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices ",
+          "description": "1.\tSource Planting Material Carefully: Purchase from reputable sources, avoiding infected plants.\n\n2.\tChoose an Ideal Planting Location: Select a sunny spot away from woodlots or riverbanks.\n\n3.\tEarly Spring Scouting and Removal: Scout for infected plants and dig them out, including the roots.\n\n4.\tPrevent Spore Spread: Remove and destroy infected plants before spores are released.\n\n5.\tMaintain Air Circulation: Prune old canes, thin healthy canes, and keep the area weed-free.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "•\tChemical control options for orange rust in blackberries and black raspberries include Abound, Quadris, QuiltXcel, Rally 40 WSP, and Spectracide Immunox Multi-Purpose Fungicide Spray Concentrate for Gardens. These fungicides can prevent new infections but won't cure existing ones.\n•\tFollow label instructions, avoid silicone-based surfactants, and consider pre-harvest intervals and reentry periods.\n•\tSpot treatment with herbicides can be used to kill infected plants. Consult local regulations, and always read and follow the product labels for proper and safe use.\n"
+        }
+      ],
+      "host": [
+        "caneberry"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/77_arthuriomyces_peckianus/og/2560px-Arthuriomyces_peckianus.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/77_arthuriomyces_peckianus/regular/2560px-Arthuriomyces_peckianus.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/77_arthuriomyces_peckianus/medium/2560px-Arthuriomyces_peckianus.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/77_arthuriomyces_peckianus/small/2560px-Arthuriomyces_peckianus.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/77_arthuriomyces_peckianus/thumbnail/2560px-Arthuriomyces_peckianus.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

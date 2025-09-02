@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1760,
+      "species_id": 248,
+      "common_name": "Cherokee Princess Flowering Dogwood",
+      "scientific_name": [
+        "Cornus florida 'Cherokee Princess'"
+      ],
+      "section": [
+        {
+          "id": 5485,
+          "type": "watering",
+          "description": "The Cherokee Princess Flowering Dogwood should be watered deeply and evenly every 7-10 days, allowing its soil to dry partially between watering. During hot periods of weather, water more frequently, such as every 5-6 days. Water the root zone area – extending out about 1-2 feet from the trunk of the tree – slowly to thoroughly saturate the soil. It is important to avoid saturating the bark and trunk. Mulching around the root zone can help both conserve moisture and help protect its shallow root system."
+        },
+        {
+          "id": 5486,
+          "type": "sunlight",
+          "description": "Cherokee Princess Flowering Dogwood (Cornus florida 'Cherokee Princess') prefers full sun in the morning and some afternoon shade in hotter climates. This species tolerates partial shade, but it will produce fewer flowers and smaller flowers in shaded areas. In general, 6 to 8 hours of sunlight per day is typically recommended for this species of plant."
+        },
+        {
+          "id": 5487,
+          "type": "pruning",
+          "description": "For best results when pruning Cherokee Princess Flowering Dogwood (Cornus florida 'Cherokee Princess'), pruning should take place during late winter or early spring just before new growth begins. This ensures that the new leaves and flowers will have the proper amount of sunlight and air circulation. Prune away any crossed over or damaged branches and remove suckers that have grown up from the roots. During the formative years when the tree is young, it can be pruned to create a well-balanced structure. For adult plants, the pruning should be minimal and mainly just to remove dead or broken branches. Pruning should be light and performed more like tidying and thinning. Over-pruning can reduce flowering and nutrients for the plant, leading to reduced plant health."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

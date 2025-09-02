@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 54,
+      "species_id": 12,
+      "common_name": "Amur Maple",
+      "scientific_name": [
+        "Acer ginnala"
+      ],
+      "section": [
+        {
+          "id": 1217,
+          "type": "watering",
+          "description": "For Amur Maple (Acer ginnala), water approximately 1 inch per week when conditions are dry. Generally, it's best to water in the early morning or the evening. It's important not to over-water the plant, so only water when the top 1-2 inches of soil feels dry to the touch. Be sure to water the plant until water is seen coming out of the drainage holes of the pot."
+        },
+        {
+          "id": 1218,
+          "type": "sunlight",
+          "description": "Amur Maple plants need a moderate amount of sunlight to grow and thrive. They should be placed in a spot where they receive at least 4 to 6 hours of direct sunlight per day. During the hottest and brightest part of the day, from 10am to 4pm, the plant should get more shade to protect it from too much heat and light exposure."
+        },
+        {
+          "id": 1219,
+          "type": "pruning",
+          "description": "Amur maple (Acer ginnala) typically requires only light pruning for shape and size control. Pruning should be done in late winter (February-March) to remove dead, broken, or criss-crossing branches. Begin by removing any dead branches and cut back the tallest stems by 1-third to 1-half. Prune back other branches to maintain a symmetrical shape and size. Cut just above a bud or leaf node with sharp pruning scissors. Avoid pruning more than 25% of the total foliage in 1 season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

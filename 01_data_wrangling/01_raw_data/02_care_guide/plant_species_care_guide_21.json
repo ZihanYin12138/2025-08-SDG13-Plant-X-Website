@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 63,
+      "species_id": 21,
+      "common_name": "Emmett's Pumpkin Fullmoon Maple",
+      "scientific_name": [
+        "Acer japonicum 'Emmett's Pumpkin'"
+      ],
+      "section": [
+        {
+          "id": 1253,
+          "type": "watering",
+          "description": "The Emmett's Pumpkin Fullmoon Maple requires regular watering, especially when the soil begins to feel dry. Throughout its growing season, during the spring and summer, aim to water the plant deeply about once a week, or more often if the soil is drying quickly due to heat or wind. During the colder winter months, water about every 2 to 3 weeks. It is important to only water when the soil feels dry because this species can suffer from root rot if it is overwatered."
+        },
+        {
+          "id": 1254,
+          "type": "sunlight",
+          "description": "Emmett's Pumpkin Fullmoon Maple (Acer japonicum 'Emmett's Pumpkin') should be planted in an area that receives a minimum of 4 to 6 hours of direct sunlight per day. Morning and late afternoon sun are the best times of the day for the Maple to receive sunlight. If the area receives a large amount of afternoon sun, it should be planted in a partially shaded area or where it will receive dappled or filtered sunlight. It is best to avoid direct midday sun, as this can cause the leaves to burn or discolor."
+        },
+        {
+          "id": 1255,
+          "type": "pruning",
+          "description": "Pruning for an Emmett's Pumpkin Fullmoon Maple (Acer japonicum 'Emmett's Pumpkin') should take place every spring or early summer. Pruning should focus on creating a symmetrical and attractive shape, removing any dead, damaged, or crossed branches. To maintain a compact form and minimize mess it is a good idea to lightly prune the tips of branches after flowering. This will force new growth from lower parts of the plant, adding to the fullness. Heavy pruning should generally be avoided as it can cause the loss of flowers, fruit, or leaves. It is best to remove no more than 1-third of the tree's growth each year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

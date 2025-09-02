@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1925,
+      "species_id": 480,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium 'little moonshine'"
+      ],
+      "section": [
+        {
+          "id": 5980,
+          "type": "watering",
+          "description": "Water yarrow (Achillea millefolium 'little moonshine') deeply once a week in the summer, or every 2 to 3 weeks in the winter. If the soil is very dry, water until the soil is evenly moist throughout. Make sure not to over-water, as waterlogged soil can harm the plant. In the summer, distilled or rainwater is best for irrigation since it contains fewer salts than tap water and is kinder to the roots."
+        },
+        {
+          "id": 5981,
+          "type": "sunlight",
+          "description": "Yarrow (Achillea millefolium 'little moonshine') does best in full sunlight. If grown in the Northern Hemisphere, yarrow should be placed in direct sun for at least 6 to 8 hours a day. Though tolerant of shade, it will thrive and become more robust when given more direct sunlight. Yarrow prefers the morning sun and the afternoon shade, especially in warmer climates. In the Southern Hemisphere, yarrow should have access to plenty of sunshine with a few hours of shade in the afternoon."
+        },
+        {
+          "id": 5982,
+          "type": "pruning",
+          "description": "Yarrow (Achillea millefolium 'Little Moonshine') should be pruned in late winter or early spring for optimal results. Prune lightly after the plant blooms. Start by removing the entire stem and any dead or damaged stems. Then cut off 1-third of the stems above the ground and remove any leaves that are on these stems. If the plant has grown too high, cut back the entire stems to promote lateral growth instead. Rejuvenate the plant by cutting it back to 1-third or even 1-quarter of its height. Remove any remaining dead or damaged stems, and thin out older foliage from the center of the plant. Trim off all the top buds to delay blooming and help promote later, heavier flowering. Yarrow can be pruned back each year for healthier growth and an attractive shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

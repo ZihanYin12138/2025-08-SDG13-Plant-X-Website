@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1782,
+      "species_id": 272,
+      "common_name": "Dove Tree",
+      "scientific_name": [
+        "Davidia involucrata"
+      ],
+      "section": [
+        {
+          "id": 5551,
+          "type": "watering",
+          "description": "The Dove Tree requires deep watering and will perform best if watered 1 to 2 times per week. When watering, ensure that the soil is thoroughly soaked to a depth of 18 inches or more. Allow the soil to dry out slightly in between waterings and avoid over-watering. During the summer months, the Dove Tree may require more frequent watering to ensure the soil around it stays moist."
+        },
+        {
+          "id": 5552,
+          "type": "sunlight",
+          "description": "Dove Tree (Davidia involucrata) prefers bright,but indirect sunlight so it should be kept away from direct sun rays.During Winter and Fall,it should receive 3 to 6 hours of sunlight per day and during Spring and Summer,it should receive 4 to 8 hours of sunlight per day.It is important to note that overexposure to sunlight can severely damage this plant species."
+        },
+        {
+          "id": 5553,
+          "type": "pruning",
+          "description": "The Dove Tree should be pruned regularly to maintain its shape and vigor. It is best to prune after the leaves have fallen in Autumn or Winter, as this will avoid any unnecessary stress on the plant. Prune to remove any dead or diseased branches, as well as any branches which are growing in an unruly or unattractive manner. When pruning, aim to keep the shape of the tree natural and symmetrical, removing branches in a balanced way. It is important not to prune the crown of the tree, as this may cause it to become unbalanced and unhealthy. Prune judiciously to maintain a healthy and aesthetically pleasing Dove Tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

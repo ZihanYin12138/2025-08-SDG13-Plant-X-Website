@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1930,
+      "species_id": 485,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium 'Peachy Seduction'"
+      ],
+      "section": [
+        {
+          "id": 5995,
+          "type": "watering",
+          "description": "Yarrow (Achillea millefolium 'Peachy Seduction') should be watered regularly, to help keep the soil evenly moist. It should receive about 1 to 1-1/2 inches of water per week, either from rainfall or manual watering. It is best to water the plants in the early morning so that the foliage has a chance to dry before nightfall. Avoid overhead watering, as this can lead to fungal diseases and leaf spot. In areas with high temperatures and dry air, supplemental irrigation may be necessary to keep the soil evenly moist. Additionally in areas with high rainfall, it is important to make sure the soil does not become too saturated."
+        },
+        {
+          "id": 5996,
+          "type": "sunlight",
+          "description": "Yarrow (Achillea millefolium 'Peachy Seduction') plants prefer full sun to partial shade but can tolerate some light shade. Placing these plants in an area with direct sunlight for at least 6 hours each day is recommended for optimal growth and flowering. For optimal flowering, Yarrow should receive direct sunlight for most of the day. To ensure plenty of light for these plants, planting against a light-colored wall, in a south-facing bed, or on the south side of a garden structure or building are all great options. In regions with hot summers, it will benefit from afternoon shade."
+        },
+        {
+          "id": 5997,
+          "type": "pruning",
+          "description": "Yarrow (Achillea millefolium 'Peachy Seduction') should be pruned in late spring after it blooms. Pruning in late spring will encourage additional flowering throughout the summer and help to keep the plant healthy and strong. Pruning encourages bushier, denser growth. To keep a neat and tidy shape, yarrow should be pruned to just above the foliage. Remove only dead and damaged branches, no more than a third of the total plant at any 1 pruning. If the plant has become too large, it can also be pruned back to the desired size. In general, yarrow does not require a lot of pruning, but it is important to keep it tidy and trimmed in order to promote healthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

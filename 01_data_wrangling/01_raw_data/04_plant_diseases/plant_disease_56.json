@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 56,
+      "common_name": "Bacterial soft rots leaf spots blights wilts",
+      "scientific_name": "Erwinia spp.",
+      "other_name": [
+        "Bacterial soft rot"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Bacterial soft rot (Erwinia spp.)?",
+          "description": "Bacterial soft rot, caused by Erwinia spp., is a worldwide plant disease affecting potato, carrot, eggplant, squash, and tomato. It causes water-soaked lesions that turn slimy, leading to tissue discoloration, collapse, and a foul odor. This highly destructive disease results in wilting and plant death."
+        },
+        {
+          "subtitle": "How does Bacterial soft rot (Erwinia spp.) occur?",
+          "description": "Erwinia spp. bacteria can enter plants through wounds, natural openings, or by infecting roots. Once inside the plant, they start to grow and reproduce by releasing enzymes that break down plant tissues. These bacteria can survive for a long time in soil, plant debris, and tools used in plant production. In wet conditions, the bacteria can spread through water, insects, and other means. They can also be introduced into healthy plants through contaminated soil, water, or plant material. Erwinia spp. can reproduce quickly, leading to the rapid spread of the disease within a plant or among plants in a production facility."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Preventions",
+          "description": "•\tPractice good hygiene by promptly removing and destroying infected plant material.\n•\tUse disease-free seeds and transplants from reputable sources.\n•\tRotate susceptible crops with non-host plants to break the disease cycle.\n•\tAvoid overhead watering and opt for drip irrigation or watering at the base of plants.\n•\tHandle plants with care to minimize mechanical injury and wounds.\n•\tClean and sterilize tools to prevent the spread of bacteria.\n•\tPlant resistant cultivars whenever available to reduce susceptibility.\n"
+        },
+        {
+          "subtitle": "Biological Control",
+          "description": "•\tBeneficial microorganisms that are used include Bacillus subtilis, Trichoderma spp., and Pseudomonas fluorescens.\n•\tThese organisms can be applied to plants as soil drenches or foliar sprays, providing long-term control of fungal diseases without negative environmental impacts.\nConsult with local agricultural experts or extension services for appropriate chemical control options.\n"
+        },
+        {
+          "subtitle": "Chemical Controls",
+          "description": "•\tIn severe cases, consider the use of bactericides or antibiotics following recommended guidelines.\n\n•\tConsult with local agricultural experts or extension services for appropriate chemical control options.\n"
+        }
+      ],
+      "host": [
+        "begonia",
+        "broccoli",
+        "corn"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/56_erwinia_spp/og/5832793333_206e828baa_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/56_erwinia_spp/regular/5832793333_206e828baa_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/56_erwinia_spp/medium/5832793333_206e828baa_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/56_erwinia_spp/small/5832793333_206e828baa_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/56_erwinia_spp/thumbnail/5832793333_206e828baa_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

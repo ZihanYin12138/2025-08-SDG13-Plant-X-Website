@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 62,
+      "species_id": 20,
+      "common_name": "Golden Fullmoon Maple",
+      "scientific_name": [
+        "Acer japonicum 'Aureum'"
+      ],
+      "section": [
+        {
+          "id": 1250,
+          "type": "watering",
+          "description": "Golden Fullmoon Maple should be watered when the top 2 inches of soil become dry, generally at least once a week. Water deeply, until it begins to trickle out of the bottom of the pot. In the summer months, when the temperature is higher, water more often to keep the soil moist. To prevent leaves from yellowing, reduce water in the winter months."
+        },
+        {
+          "id": 1251,
+          "type": "sunlight",
+          "description": "Golden Fullmoon Maple (Acer japonicum 'Aureum') will thrive in direct sunlight or partial shade, though it prefers to be in a sunnier spot. Its best to provide it with 4-5 hours of direct sunlight each day. Planting it in a location that gets direct sunlight in the morning and afternoon, or all day dappled sunlight is ideal. Additionally, avoid overheating by avoiding full, direct sunlight in the hottest part of the day (usually late afternoon)."
+        },
+        {
+          "id": 1252,
+          "type": "pruning",
+          "description": "The Golden Fullmoon Maple is a deciduous tree that should be pruned in late winter or early spring, when the tree is still dormant and not actively growing. It is important to avoid pruning too much during the growing season, because this can severely weaken budding and decrease its flowering potential.\n\nThe pruning should focus on dead and damaged branches, as well as branches that are large or that interfere with other branches and crossing branches. Prune back the branches to 1-third of their length. Cut at an angle so that water can easily flow away from the cut and prevent disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 64,
+      "species_id": 22,
+      "common_name": "Green Cascade Maple",
+      "scientific_name": [
+        "Acer japonicum 'Green Cascade'"
+      ],
+      "section": [
+        {
+          "id": 1256,
+          "type": "watering",
+          "description": "Green Cascade Maple plants should be watered evenly and deeply once every week during the active growing season from spring through summer. Allow the soil to dry out in between waterings. Water approximately 1 to 2 inches each time and avoid overwatering. Water early enough in the day to allow the foliage to dry out before nightfall. During the winter, the plant should only be watered when the soil is completely dry, typically once or twice a month."
+        },
+        {
+          "id": 1257,
+          "type": "sunlight",
+          "description": "Green Cascade Maple plants prefer full sun in the morning and partial shade in the late afternoon. Ideally, Green Cascade Maple plants should receive at least 6-8 hours of sunlight per day. To best promote healthy growth and leaf vibrancy, it is beneficial to plant Green Cascade Maple trees in an area that receives sun throughout the day. Be sure to monitor the amount of sunlight throughout the day to ensure the tree is receiving enough, but not too much."
+        },
+        {
+          "id": 1258,
+          "type": "pruning",
+          "description": "Pruning Green Cascade Maples should be done in late winter or early spring and should be kept to a minimum. It should only be done to remove dead or damaged branches, to improve vigor, and to keep the shape of the tree. When pruning, cut just above a healthy outward facing bud and make sure not to remove more than 1-third of the tree's total branches in a single pruning session. A light annual pruning can help your Green Cascade Maple stay healthy and ensure a long life for your tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

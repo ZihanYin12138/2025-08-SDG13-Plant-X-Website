@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1867,
+      "species_id": 409,
+      "common_name": "white forsythia",
+      "scientific_name": [
+        "Abeliophyllum distichum"
+      ],
+      "section": [
+        {
+          "id": 5806,
+          "type": "watering",
+          "description": "White Forsythia should be watered when the soil in the pot feels dry. It is best to check the soil moisture level with your finger before watering, as overwatering can be detrimental. Allow the soil to dry out between waterings, but do not let the plants completely dry out. Generally, water the plants once every 7 to 10 days but in summer water more frequently. When watering, use lukewarm water and water until it drains from the bottom of the pot. During the winter months, water less often."
+        },
+        {
+          "id": 5807,
+          "type": "sunlight",
+          "description": "White Forsythia (Abeliophyllum distichum) does best in full sunlight, receiving at least 6-8 hours per day. During the summer months, plants should get full sun in the midday when the sun is highest in the sky. In the cooler months, allowing the plant to receive morning sun is ideal. "
+        },
+        {
+          "id": 5808,
+          "type": "pruning",
+          "description": "White forsythia (Abeliophyllum distichum) is best pruned in early to mid-spring, when the plant is just beginning to show signs of growth. This will encourage new growth and help it remain sturdy and healthy. Pruning should be kept to a minimum; remove any dead, dying or weak branches. If any long branches have grown, they can be cut back slightly to create a more pleasing shape. Finally, if the shrub has become overgrown and has become too dense, you can trim it back so that more air and light can reach the inner branches in order to aid in the overall health of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

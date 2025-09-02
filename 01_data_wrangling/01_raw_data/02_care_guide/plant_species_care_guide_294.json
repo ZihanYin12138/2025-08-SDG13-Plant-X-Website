@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1791,
+      "species_id": 294,
+      "common_name": "Leprechaun Green Ash",
+      "scientific_name": [
+        "Fraxinus pennsylvanica 'Leprechaun'"
+      ],
+      "section": [
+        {
+          "id": 5578,
+          "type": "watering",
+          "description": "This plant species needs to be watered regularly to ensure proper growth and health. It should be watered once or twice a week, depending on the season and climate. During the summer months, the soil should remain moist but not water-logged. To avoid over-watering, it is best to check the soil moisture before watering. During the spring and fall, it is recommended to water only when the soil appears to be drying out. During the winter months, this plant species should be watered once every 2 weeks or so."
+        },
+        {
+          "id": 5579,
+          "type": "sunlight",
+          "description": "Leprechaun Green Ash is a deciduous tree that will perform best when provided with an adequate amount of sunlight. The ideal amount of sunlight for this plant species is 5-6 hours of direct sunlight per day in order to promote optimal growth and flowering. During the warmer months, the plant should receive at least a few hours of direct sunlight in the morning and the late afternoon in order to thrive. During the winter and fall, this species should receive as much sunlight as possible to promote growth and ensure successful blooming. It is also beneficial for sun-loving plants to be rotated in order to ensure the maximum amount of sunlight is available."
+        },
+        {
+          "id": 5580,
+          "type": "pruning",
+          "description": "Pruning Leprechaun Green Ash (Fraxinus pennsylvanica 'Leprechaun') is important for optimal health and appearance. Pruning should be done in early spring, before the tree leafs out, when the plant’s energy reserves are low. Trees can be thinned, which involves removing limbs to decrease the density, or cut back, which involves removing limb ends to reduce the overall size of the tree. \n\nThis species is generally tolerant to pruning if the cuts are made correctly. Pruning should focus on thinning out dead and crowded branches, and removing any limbs that are rubbing against 1 another, crossing, or growing at strange angles. Prune to remove any limbs that may interfere with wires, sidewalks, and building. Any problem branches should be removed at their junction point. It is important to make clean cuts to help encourage the healing process. Also remove any weak limbs, those with insect and disease problems, and crossing or dead branches. \n\nPruning too much can cause serious damage, so it’s important to take a conservative approach to pruning and avoid changing the shape of the tree too drastically."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1611,
+      "species_id": 76,
+      "common_name": "Koto No Ito Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Koto No Ito'"
+      ],
+      "section": [
+        {
+          "id": 5038,
+          "type": "watering",
+          "description": "Koto No Ito Japanese Maple (Acer palmatum 'Koto No Ito') should be watered once every weeks, depending on the season and the weather. During the summer months, water the plant slightly more often and increase the amount of water each time. However, during the winter months, cut back on the amount of water and frequency of watering. When watering, thoroughly saturate the soil and avoid wetting the foliage. Water until the top inch or 2 of soil is damp, and let the soil dry out before re-watering."
+        },
+        {
+          "id": 5039,
+          "type": "sunlight",
+          "description": "Koto No Ito Japanese Maple (Acer palmatum 'Koto No Ito') requires 5-6 hours of direct sunlight each day, with early morning and late afternoon sun being the most beneficial. It is important to note that this species of maple prefers morning sun more than afternoon because direct afternoon sunlight can be too hot and cause leaf scorch and sunburn. While full sun will help to produce larger foliage and give a better chance of vibrant color in the fall, the plant should be kept out of the hot afternoon sun during the summer months."
+        },
+        {
+          "id": 5040,
+          "type": "pruning",
+          "description": "Pruning of Koto No Ito Japanese Maple should take place in late winter or early spring, prior to bud break. Care should be taken to not remove too much of the plant's foliage as the tree is very slow-growing. Pruning should focus on opening the tree's center and removing crossing branches to increase air circulation and improve the tree's overall shape. Dead, diseased, or damaged branches should always be removed first, and any weak or overcrowded branches should also be thinned out to reduce stress on the tree. If necessary, selective removal of larger branches may be done to control the size of the tree. Pruning should be done using sharp and clean pruning shears or saws and using pruning techniques such as cutting to just above a lateral branch."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

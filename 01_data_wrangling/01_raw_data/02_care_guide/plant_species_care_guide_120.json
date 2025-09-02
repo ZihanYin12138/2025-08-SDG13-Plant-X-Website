@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1651,
+      "species_id": 120,
+      "common_name": "Sherwood Flame Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Sherwood Flame'"
+      ],
+      "section": [
+        {
+          "id": 5158,
+          "type": "watering",
+          "description": "Sherwood Flame Japanese Maple (Acer palmatum 'Sherwood Flame') should be watered regularly during the growing season (Spring through Fall). About 1 inch (2.5 cm) of water per week is usually sufficient. The frequency of watering should be adjusted according to the temperature and precipitation levels. If the weather is hot and dry, increase the frequency. If the weather is cool and wet, reduce the amount of water or skip a watering."
+        },
+        {
+          "id": 5159,
+          "type": "sunlight",
+          "description": "Sherwood Flame Japanese Maple (Acer palmatum 'Sherwood Flame') grows best in partial shade, meaning it needs several hours of direct sunlight each day. This maple tree will do well in an area that receives at least 4 hours of direct sunlight each day, and is often recommended to be planted in an area that is bright but does not receive excessive amounts of direct sun. It cannot tolerate full sun conditions, as extended exposure can damage its foliage. During the hottest part of the day, the Sherwood Flame Maple should be kept in indirect sunlight, or sheltered from the sun’s rays, as this will help protect its delicate leaves."
+        },
+        {
+          "id": 5160,
+          "type": "pruning",
+          "description": "Sherwood Flame Japanese Maple can be pruned twice each year - once in the late winter and once in the late summer. Since the tree is naturally dense, pruning should focus on thinning out the canopy and keeping the tree in its ideal shape. In winter, light pruning helps to ensure good air circulation which will reduce the risk of leaf diseases. In summer, more aggressive pruning can be done to maintain a desired shape; be sure to make your cuts clean and as close to the branch as possible. It is important to leave some smaller branches to provide stability and strength for the tree. Lastly, it is important to avoid pruning too drastically, as this may result in bald patches or stunted growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

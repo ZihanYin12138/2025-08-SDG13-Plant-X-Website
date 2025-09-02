@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": 6,
+      "common_name": "Rust",
+      "scientific_name": "Puccinia spp.",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Rust (Puccinia spp) ?",
+          "description": "Rust diseases are fungal infections that affect turfgrasses, caused by fungi in the Puccinia genus. They can be found on various types of grassy areas like golf courses, athletic fields, and home lawns. Symptoms include pale-yellow spots on leaves or stems that grow parallel to leaf veins. Over time, reddish-brown pustules form, releasing orange spores. Rust diseases usually appear in late summer or early fall, mainly affecting cool season grasses like perennial ryegrass and Kentucky bluegrass."
+        },
+        {
+          "subtitle": " How does Rust (Puccinia spp) occur?",
+          "description": "Rust diseases have a complex life cycle with different spore stages. The fungi produce windborne spores called urediniospores, which infect the host plant through tiny openings called stomata. Moisture, like heavy dew, is needed for spore germination and infection. Once inside the plant, the infection and spore production persist as long as the leaf lives. Rust fungi may need different host plants, including turfgrasses, shrubs, or ornamental plants, to complete their life cycle."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Preventions",
+          "description": "\n•\tMaintain adequate nitrogen and irrigation to promote healthy turf growth.\n\n•\tAvoid excessive thatch buildup and improve air circulation by regular aerating and dethatching.\n\n•\tProvide sufficient spacing between plants to promote air circulation, reducing humidity levels and creating less favorable conditions for rust development.\n\n•\tRemove and dispose of infected plant debris to reduce the source of inoculum.\n\n•\tSelect rust-resistant turfgrass cultivars whenever possible.\n\n\n"
+        },
+        {
+          "subtitle": "Application of fungicides",
+          "description": "In cases of persistent rust problems, targeted application of fungicides may be necessary.\n\n•\tTriazoles: Tebuconazole, Propiconazole, and Metconazole\n•\tStrobilurins: Azoxystrobin, Pyraclostrobin\n•\tCopper-based fungicides: Copper sulfate, Copper hydroxide Mancozeb (Bonide® Orchard Spray)\n•\tDithiocarbamates: Maneb, Mancozeb \nThese are commonly used fungicides to prevent this disease. \n\nHowever, using these agents carefully and according to label instructions is vital to avoid unintended negative impacts on other organisms in the ecosystem."
+        }
+      ],
+      "host": [
+        "all lawn grasses",
+        "various flowers"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/6_p/og/13034637154_1c0ffb57b9_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/6_p/regular/13034637154_1c0ffb57b9_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/6_p/medium/13034637154_1c0ffb57b9_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/6_p/small/13034637154_1c0ffb57b9_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/6_p/thumbnail/13034637154_1c0ffb57b9_b.jpg"
+        },
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/6_p/og/13034698824_0940102091_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/6_p/regular/13034698824_0940102091_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/6_p/medium/13034698824_0940102091_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/6_p/small/13034698824_0940102091_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/6_p/thumbnail/13034698824_0940102091_b.jpg"
+        },
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/6_puccinia_spp/og/13034637154_1c0ffb57b9_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/6_puccinia_spp/regular/13034637154_1c0ffb57b9_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/6_puccinia_spp/medium/13034637154_1c0ffb57b9_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/6_puccinia_spp/small/13034637154_1c0ffb57b9_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/6_puccinia_spp/thumbnail/13034637154_1c0ffb57b9_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1931,
+      "species_id": 486,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium 'Pomegranate'"
+      ],
+      "section": [
+        {
+          "id": 5998,
+          "type": "watering",
+          "description": "Yarrow (Achillea millefolium 'Pomegranate') prefers consistently moist soil, so it should be watered as soon as the soil feels dry to the touch. Depending on its position and drainage, it may need to be watered as often as every other day during the hottest months. Avoid overwatering by allowing the top few inches of soil to dry before watering again. During the cooler months, water yarrow at least once or twice a week."
+        },
+        {
+          "id": 5999,
+          "type": "sunlight",
+          "description": "Yarrow (Achillea millefolium 'Pomegranate) requires a minimum of 6 hours of direct sunlight each day, but can tolerate up to 8 hours of direct sunlight for optimal growth and flowering. The sunlight should be evenly distributed throughout the day for best results, and not all at once. Yarrow does not do well in full shade or partial shade, and the more sunlight it receives, the healthier it will be. The sunlight should be direct, and not filtered through a window, as this could hamper or even prevent flowering."
+        },
+        {
+          "id": 6000,
+          "type": "pruning",
+          "description": "Pruning is essential for the health and growth of yarrow (Achillea millefolium 'Pomegranate'). Pruning should be done in early spring, before new growth appears. In general, the entire plant should be cut back a third of its total height in order to encourage fresh growth. The clumps can also be divided and replanted at this time. Deadheading or cutting off the spent flowers will also help keep the plant looking neat and promote reblooming."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

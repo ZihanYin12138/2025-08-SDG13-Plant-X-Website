@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1890,
+      "species_id": 439,
+      "common_name": "bear's breeches",
+      "scientific_name": [
+        "Acanthus mollis 'Tasmanian Angel'"
+      ],
+      "section": [
+        {
+          "id": 5875,
+          "type": "watering",
+          "description": "Bear's breeches should be watered deeply and infrequently. Water once every 2 weeks, ensuring that the soil is saturated. Water at the base of the plant and avoid getting the foliage wet. During the summer months, water more often if the soil becomes dry. Reduce watering in the fall and winter, and only water if the soil feels dry. Never allow the soil to remain soggy."
+        },
+        {
+          "id": 5876,
+          "type": "sunlight",
+          "description": "Bear's breeches (Acanthus mollis 'Tasmanian Angel') will do best when grown in a location that receives full, direct sun in the morning. Ideal sun exposure for this plant species is 6-8 hours per day. Bear's breeches will tolerate some afternoon shade, but not extended hours of shade. Too much shade will result in an overcrowded, floppy, and unruly plant."
+        },
+        {
+          "id": 5877,
+          "type": "pruning",
+          "description": "Bear's breeches (Acanthus mollis 'Tasmanian Angel') should be pruned once per season, preferably in late spring, after flowering has ceased. Removing the previous season's flowers and any diseased, dead, or damaged branches will promote healthy new growth and flowering. Pruning should remove no more than 1-third of the plant and should be done sparingly. After pruning, any remaining leaves can be trimmed to shape or size as needed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1868,
+      "species_id": 411,
+      "common_name": "okra",
+      "scientific_name": [
+        "Abelmoschus esculentus 'Baby Bubba'"
+      ],
+      "section": [
+        {
+          "id": 5809,
+          "type": "watering",
+          "description": "Okra should be watered deeply and regularly during the growing season. Aim to give approximately 1 inch of water per week. Water okra in the morning or early evening so that the foliage has time to dry out before nightfall. This prevents fungal diseases. When the plant starts blooming, reduce watering and switch to regularly misting the leaves as flowers may drop if watered too directly. If the soil is dry for a longer period of time, water deeply but infrequently to encourage the roots to grow deeper so that the plant may better access water in the future. "
+        },
+        {
+          "id": 5810,
+          "type": "sunlight",
+          "description": "Okra plant species (Abelmoschus esculentus 'Baby Bubba') needs full sun in order to produce its best yield. Direct sunlight should be provided for at least 6 hours a day. Depending on the region and the season, direct sunlight might not be available every day, and partial shade can help prevent excessive heat buildup and protect the plants from too much sun. Placing okra plants where they will receive morning sun and some shade in the afternoon can help sustain healthy yields and reduce the risk of sunburn."
+        },
+        {
+          "id": 5811,
+          "type": "pruning",
+          "description": "Okra (Abelmoschus esculentus 'Baby Bubba') requires minimal pruning. It is recommended to remove spent flowers and seed pods to ensure continued production of new fruiting branches. If the plant grows too large, it can be pruned down to a desired size, but make sure to avoid pruning too early in the season. Pruning should be done in mid to late summer for optimal plant health. Pruning should also be done cautiously to avoid removing too much of the plant, as this may decrease the yield of okra pods."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

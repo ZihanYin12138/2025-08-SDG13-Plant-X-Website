@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 519,
+      "species_id": 292,
+      "common_name": "Franklin Tree",
+      "scientific_name": [
+        "Franklinia alatamaha"
+      ],
+      "section": [
+        {
+          "id": 1558,
+          "type": "watering",
+          "description": "The Franklin tree should be kept in moist but not soggy soil. In the summer months, water the tree deeply and slowly every 5-7 days and ensure the soil is kept moist. During the winter months, the tree should be watered less, approximately every 10-14 days, depending on weather conditions. If the soil dries out too much it may be necessary to water more frequently. It is important to make sure not to overwater the tree as it is adapted to living in drier soils."
+        },
+        {
+          "id": 1559,
+          "type": "sunlight",
+          "description": "The Franklin Tree (Franklinia alatamaha) requires a lot of light to thrive, and should ideally receive between 6-8 hours of direct and indirect sunlight per day. In areas with intense sunlight, it is best to plant this species in a location that receives some shade in the afternoon, as its delicate foliage can burn when exposed to intense direct sunlight for too long."
+        },
+        {
+          "id": 1561,
+          "type": "pruning",
+          "description": "Franklin trees should be pruned in the late winter, right before the tree begins to break dormancy and flower. Pruning should be done sparingly, only removing dead or damaged branches to maintain a pleasing shape. The pruning should be minimal, as the Franklin tree is a small, slow-growing species and may not have the capacity to regenerate without damaging the overall health of the tree. Additionally, any pruning should be done carefully to avoid ruining the structure of the tree and encouraging overgrowth in the wrong areas."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

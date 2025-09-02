@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1878,
+      "species_id": 422,
+      "common_name": "Caucasian fir",
+      "scientific_name": [
+        "Abies nordmanniana 'Brandt'"
+      ],
+      "section": [
+        {
+          "id": 5839,
+          "type": "watering",
+          "description": "For best care, the Caucasian fir should be watered generously and regularly to keep the soil moist but not wet. Water deeply until moisture can be easily felt up to 2 or 3 inches down from the soil surface. Begin watering once every 7 to 10 days in the spring and summer, and then reduce watering to once every 10 to 14 days in the fall and winter months. Always water early in the day, preferably in the morning, so the soil can absorb enough water before evening. Monitor the soil to ensure that it doesn’t dry out."
+        },
+        {
+          "id": 5840,
+          "type": "sunlight",
+          "description": "The Caucasian fir needs full sun to partial shade- 4 to 6 hours of direct sun daily is ideal. It also needs some protection in the summer when temperatures rise, as its roots have difficulty finding water if exposed to the full force of the summer sun. During the hottest months, find a spot where the fir can get morning sun and afternoon shade."
+        },
+        {
+          "id": 5841,
+          "type": "pruning",
+          "description": "Caucasian fir (Abies nordmanniana 'Brandt') should be pruned during the late spring or early summer just before growth begins. Pruning should be done minimally, with only smaller branches being removed to thin the crown, encourage new growth, and eliminate dead wood. It is also important to keep the central leader intact, to maintain an aesthetically pleasing shape. Generally, only 5-10% of the branches should be removed in any 1 year, but this can vary depending on the desired shape for the tree. Care should be taken to avoid cutting live branches and to prune with sharp, clean pruning tools."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

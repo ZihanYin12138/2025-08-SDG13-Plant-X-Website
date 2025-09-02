@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "id": 36,
+      "common_name": "Fusarium wilt",
+      "scientific_name": "Fusarium oxysporum",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Fusarium wilt (Fusarium oxysporum)?",
+          "description": "Fusarium wilt is a plant disease caused by various forms of the fungus Fusarium oxysporum. It infects a wide range of plants, including carnations, gladiolus, China aster, pea, cyclamen, and others. Symptoms include yellowing, stunting, and death of seedlings, as well as yellowing, wilting, and death of mature plants. In some cases, the symptoms may initially appear on one side of the plant. The disease is characterized by the fungus entering the xylem tissue, plugging it, and producing toxins that cause foliage to turn yellow."
+        },
+        {
+          "subtitle": " How does  Fusarium wilt (Fusarium oxysporum) occur?",
+          "description": "Fusarium wilt is primarily reproduced through the production and dissemination of spores. The fungus Fusarium oxysporum produces chlamydospores and conidia. Chlamydospores, with their thick walls, allow the fungus to survive in the soil for extended periods. Conidia, thin-walled spores, are spread through contaminated soil, splashing water, and contaminated tools. When in contact with susceptible plant roots, these spores germinate, penetrate the plants, and establish infection, leading to the occurrence and spread of the disease."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Resistant Varieties",
+          "description": " Use plant varieties that are resistant to Fusarium wilt. Resistant varieties have genetic traits that make them less susceptible to the disease.\n"
+        },
+        {
+          "subtitle": "Soil Management",
+          "description": " Maintain well-drained soil conditions to minimize the risk of infection. Excessively wet or waterlogged soil can create favorable conditions for Fusarium wilt development."
+        },
+        {
+          "subtitle": "Crop Rotation",
+          "description": " Avoid planting susceptible crops in the same area for consecutive seasons. Rotating crops helps break the disease cycle by reducing the buildup of the fungus in the soil."
+        },
+        {
+          "subtitle": "Sanitation and Hygiene",
+          "description": " Practice good plant hygiene by removing and destroying infected plant debris. This reduces the source of inoculum and prevents the spread of the fungus."
+        },
+        {
+          "subtitle": "Seed Treatment",
+          "description": "Treat seeds with fungicides or hot water treatments before planting to reduce the presence of Fusarium oxysporum on the seed surface."
+        },
+        {
+          "subtitle": "Biological Controls",
+          "description": "Some beneficial microorganisms can suppress the growth and activity of Fusarium oxysporum. Consider using biocontrol agents, such as Trichoderma species, which are commercially available."
+        },
+        {
+          "subtitle": "Fungicide Applications",
+          "description": "In severe cases or high-risk situations, fungicides labelled for Fusarium wilt control can be used. Common fungicides include thiophanate-methyl, benomyl,  metalaxyl, propiconazole, azoxystrobin, and others.\nIt's important to note that the efficacy and availability of specific fungicides may vary depending on your region, crop, and local regulations."
+        },
+        {
+          "subtitle": "Soil solarization",
+          "description": "Before planting, expose the soil to the sun by covering it with clear plastic. This method helps raise soil temperatures, reducing the survival of Fusarium oxysporum and other soil-borne pathogens."
+        }
+      ],
+      "host": [
+        "asparagus",
+        "cantaloupe",
+        "pea",
+        "tomato",
+        "various flowers",
+        "various trees and shrubs",
+        "watermelon"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/36_fusarium_oxysporum/og/13960296920_9a3fd55696_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/36_fusarium_oxysporum/regular/13960296920_9a3fd55696_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/36_fusarium_oxysporum/medium/13960296920_9a3fd55696_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/36_fusarium_oxysporum/small/13960296920_9a3fd55696_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/36_fusarium_oxysporum/thumbnail/13960296920_9a3fd55696_b.jpg"
+        },
+        {
+          "license": 451,
+          "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/36_fusarium_oxysporum/og/kohlrabi-vegetable-garden-food.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/36_fusarium_oxysporum/regular/kohlrabi-vegetable-garden-food.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/36_fusarium_oxysporum/medium/kohlrabi-vegetable-garden-food.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/36_fusarium_oxysporum/small/kohlrabi-vegetable-garden-food.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/36_fusarium_oxysporum/thumbnail/kohlrabi-vegetable-garden-food.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

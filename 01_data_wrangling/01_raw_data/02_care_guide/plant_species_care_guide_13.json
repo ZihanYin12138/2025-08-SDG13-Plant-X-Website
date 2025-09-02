@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 55,
+      "species_id": 13,
+      "common_name": "Flame Amur Maple",
+      "scientific_name": [
+        "Acer ginnala 'Flame'"
+      ],
+      "section": [
+        {
+          "id": 1220,
+          "type": "watering",
+          "description": "The Flame Amur Maple usually requires water weekly, especially in times of drought. It should be watered deeply, once a week, so that the soil is moist at a depth of 6 inches. During prolonged dry periods, increase the watering frequency to twice a week for optimal growth. In general, the plant prefers to grow in moist, well-drained soil but it can tolerate occasional dry periods."
+        },
+        {
+          "id": 1221,
+          "type": "sunlight",
+          "description": "Flame Amur Maple requires full sun for best growth and foliage color. It should receive 4-6 hours of sunlight per day throughout the year. In terms of seasonality, spring and summer are ideal for ensuring that the darkest, truest colors of the foliage emerge. During the winter, the plant will require sun for at least 2 hours each day to keep its vibrant color."
+        },
+        {
+          "id": 1222,
+          "type": "pruning",
+          "description": "Flame Amur Maple should be pruned in the late winter or early spring before new growth begins. Pruning should be minimal, with thinning of the canopy to improve light penetration. Remove dead, broken, weak or crossing branches and any diseased growth or other parts of the tree that are not aesthetically pleasing or necessary. Also, prune any suckers from the base of the tree. Make sure to use proper pruning techniques and clean tools to avoid diseases. Avoid cutting into large branches or the main trunk as this may cause harm to the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

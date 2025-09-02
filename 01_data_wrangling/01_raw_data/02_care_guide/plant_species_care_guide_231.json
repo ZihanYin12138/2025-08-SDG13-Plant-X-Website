@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1745,
+      "species_id": 231,
+      "common_name": "White Fringetree",
+      "scientific_name": [
+        "Chionanthus virginicus"
+      ],
+      "section": [
+        {
+          "id": 5440,
+          "type": "watering",
+          "description": "White Fringetree is an easy-to-care-for species that requires infrequent watering. For the first 3 years after planting, they should be watered weekly. After 3 years, they should only be watered during times of drought or extreme heat. Water deeply but be careful not to over-water. Give each plant at least 1 to 1.5 gallons of water for every inch of trunk diameter every week for the first 3 years. New trees should be watered with 1 to 2 gallons per week afterward."
+        },
+        {
+          "id": 5441,
+          "type": "sunlight",
+          "description": "White Fringetree thrives in full sun, meaning it should have direct exposure to the sun for the majority of the day. The tree's optimum growing conditions are 8-10 hours of direct sunlight per day. If planting in partial shade, it should at least receive 6 hours of direct sunlight a day. Ideally, the White Fringetree should be placed in an area of the garden that receives full sun in the morning."
+        },
+        {
+          "id": 5442,
+          "type": "pruning",
+          "description": "White Fringetree (Chionanthus virginicus) benefits from light pruning during the late winter or early spring just before the new growth begins. This species responds well to a light pruning of any unruly branches or extra density in the center of the plant. Pruning can result in improved air circulation and light penetration to the center of the plant, and also helps promote flowering. Cut back the long shoots by half their length and remove any dead or diseased wood. Prune sparingly, as this species blooms on the previous season's growth. Heavy pruning of this species should be avoided."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

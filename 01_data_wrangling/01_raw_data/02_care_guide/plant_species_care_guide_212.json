@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 995,
+      "species_id": 212,
+      "common_name": "Red Fox Katsura Tree",
+      "scientific_name": [
+        "Cercidiphyllum japonicum 'Rotfuchs'"
+      ],
+      "section": [
+        {
+          "id": 2986,
+          "type": "watering",
+          "description": "The Red Fox Katsura Tree should be watered deeply and thoroughly. During the summer months, they should be watered once or twice a week and, in the winter months, once every 2 weeks. Make sure that the top 12 inches of soil are moist after each watering session. Be sure to check the moisture of the soil in between waterings to ensure your tree is getting the recommended amount of moisture."
+        },
+        {
+          "id": 2987,
+          "type": "sunlight",
+          "description": "Red Fox Katsura Trees prefer a location with at least 6 hours of full sunlight during the growing season to maintain their vibrant foliage tones. It can tolerate some shade as well, but direct sunlight is needed for the best growth. Plant the trees in the morning to make sure they are receiving the most sunlight throughout the day."
+        },
+        {
+          "id": 2988,
+          "type": "pruning",
+          "description": "Pruning of Red Fox Katsura Trees should be done in early spring, right before new growth begins. Prune away dead or damaged branches, as well as crossing and rubbing branches. Light pruning can also be done to shape the tree and keep its desired size and structure. It is important to not over prune the tree as it is not as vigorous growing as some other varieties. Remove no more than 15-20% of the tree in 1 pruning session to ensure that the tree can adequately recover. Branch removal should be done with a sharp pruning saw and the cuts should be made cleanly and precisely."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

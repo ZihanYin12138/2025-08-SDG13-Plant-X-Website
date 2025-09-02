@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1697,
+      "species_id": 171,
+      "common_name": "Autumn Blaze Maple",
+      "scientific_name": [
+        "Acer x freemanii 'Jeffersred'"
+      ],
+      "section": [
+        {
+          "id": 5296,
+          "type": "watering",
+          "description": "Autumn Blaze Maple trees will need to be watered regularly the first 2 years they are planted in order to establish a strong root system. During the growing season, water the tree deeply once a week, soaking the soil until it is saturated. During dry spells, water more frequently to supplement natural rainfall. In the winter, water only when necessary. If the soil is dry or it hasn't rained for more than a week, give the tree a deep soak with about 2 inches of water."
+        },
+        {
+          "id": 5297,
+          "type": "sunlight",
+          "description": "The Autumn Blaze Maple tree (Acer x freemanii 'Jeffersred') should receive full sun exposure. In general, the tree should receive 4 to 5 hours of direct sunlight throughout the day. The tree should receive an even distribution of light, with no part of the tree receiving more sunlight than any other part. During the summer months, when the sun is strongest, more shade may be needed to protect the tree from too much intense light exposure."
+        },
+        {
+          "id": 5298,
+          "type": "pruning",
+          "description": "Autumn Blaze Maple should be pruned in late winter or early spring around February to March when the tree is dormant. Pruning should be limited to removing dead or diseased branches and maintaining the desired shape or size of the tree. Even though this tree is naturally fast growing, try to prune selectively and only remove a few large branches at a time. Be sure to not prune too much or your tree may become stressed. If you intend to promote a shape, it is best to prune in small amounts over many years to achieve the desired structure."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

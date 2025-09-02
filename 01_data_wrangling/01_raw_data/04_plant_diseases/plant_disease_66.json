@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "id": 66,
+      "common_name": "Powdery mildew",
+      "scientific_name": "Erysiphe cruciferarum",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Powdery mildew (Erysiphe cruciferarum)?",
+          "description": "Powdery mildew, scientifically known as Erysiphe cruciferarum, is a global fungal disease affecting plants in temperate regions. It forms a white or grayish powdery coating on leaves, stems, and flowers, causing stunted growth and distortion. This disease poses a significant threat to crops like cabbage, broccoli, Brussels sprouts, cauliflower, radicchio, radishes, turnips, and other cruciferous vegetables, as well as various ornamental plants."
+        },
+        {
+          "subtitle": "How does Powdery mildew (Erysiphe cruciferarum) occur?",
+          "description": "Powdery mildew fungi form thin layers of mycelium on plant surfaces, creating a white, powdery appearance due to abundant spores. Wind disperses these chain-like spores, distinguishing them from downy mildew. \n\nPowdery mildew can germinate and infect plants without free water, although prolonged moisture inhibits or kills certain spores. Moderate temperatures (60°F to 80°F) and shade promote its development, while extreme heat (above 90°F) and direct sunlight hinder it. Understanding these factors is crucial for managing powdery mildew infestations."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Plant Management Strategies",
+          "description": "•\tChoose Resistant Varieties: Opt for vegetable varieties that are resistant to powdery mildew to reduce the risk of infection.\n•\tProper Spacing: Provide sufficient spacing between plants to ensure good air circulation and reduce humidity levels.\n•\tSunlight Exposure: Plant in sunny areas to promote dry conditions and discourage powdery mildew growth.\n"
+        },
+        {
+          "subtitle": "Cultural Practices",
+          "description": "\n•\tWatering Techniques: Avoid overhead watering to keep foliage dry; instead, water at the base of plants.\n•\tBalanced Fertilization: Apply balanced fertilizers and avoid excessive nitrogen, which can promote susceptible foliage.\n•\tPruning and Sanitation: Regularly remove and destroy infected plant parts to prevent the spread of spores.\n"
+        },
+        {
+          "subtitle": "Biological Fungicides and Horticultural Oils",
+          "description": "•\tBiological fungicides like Serenade contain beneficial microorganisms that destroy fungal pathogens.\n•\tSerenade utilizes Bacillus subtilis, a bacterium that helps prevent powdery mildew infection.\n•\tAlthough nontoxic to people, pets, and beneficial insects, Serenade may be less effective than oils or sulfur in controlling powdery mildew.\n•\tHorticultural Oils: Saf-T-Side Spray Oil, Sunspray Ultra-Fine Spray Oil, and jojoba oil.\n•\tNeem Oil: Effective as both an insecticide and fungicide.\n"
+        },
+        {
+          "subtitle": "Chemical Control Methods ",
+          "description": "•\tFungicides, such as sulfur and potassium bicarbonate, can effectively control the disease. \n•\tSulfur-based Fungicides: Safer Garden Fungicide (wettable sulfur).\n•\tCopper-based Fungicides: Available but not highly effective against powdery mildew.\n•\tHowever, it is important to follow label instructions carefully and avoid overuse of chemicals to prevent harmful effects on the environment and non-target organisms.\n"
+        }
+      ],
+      "host": [
+        "broccoli",
+        "brussel sprouts",
+        "cauliflower",
+        "cole crops",
+        "radicchio",
+        "radish",
+        "turnip"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/66_erysiphe_cruciferarum/og/2560px-Erysiphe_cruciferarum_on_Alliaria_petiolata_284547438165229.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/66_erysiphe_cruciferarum/regular/2560px-Erysiphe_cruciferarum_on_Alliaria_petiolata_284547438165229.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/66_erysiphe_cruciferarum/medium/2560px-Erysiphe_cruciferarum_on_Alliaria_petiolata_284547438165229.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/66_erysiphe_cruciferarum/small/2560px-Erysiphe_cruciferarum_on_Alliaria_petiolata_284547438165229.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/66_erysiphe_cruciferarum/thumbnail/2560px-Erysiphe_cruciferarum_on_Alliaria_petiolata_284547438165229.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1795,
+      "species_id": 298,
+      "common_name": "Magyar Ginkgo",
+      "scientific_name": [
+        "Ginkgo biloba 'Magyar'"
+      ],
+      "section": [
+        {
+          "id": 5590,
+          "type": "watering",
+          "description": "Water Magyar Ginkgo when the top inch of soil is dry. This species of Ginkgo is very drought tolerant, so if possible, it's best to wait until the soil is dry before watering. Once the plant is established, give it deep watering once a week. Make sure to water the soil, not the leaves, as Magyar Ginkgo is susceptible to fungal infection. On hot and dry days, it is a good idea to give the plant an additional watering."
+        },
+        {
+          "id": 5591,
+          "type": "sunlight",
+          "description": "Magyar Ginkgo (Ginkgo biloba 'Magyar') does best when exposed to plenty of bright, indirect sunlight. They should receive at least 4 to 6 hours of full sun each day, ideally around mid-morning (between the hours of 9am and 11am) and early afternoon (between 1pm and 3pm). When exposed to direct sunlight for too long, Magyar Ginkgo can show signs of sunburn and scorching on its foliage, so it’s important not to over-expose it to too much intense sunlight."
+        },
+        {
+          "id": 5592,
+          "type": "pruning",
+          "description": "Magyar Ginkgo (Ginkgo biloba 'Magyar') should be pruned in early spring (late March or early April) before any new growth begins. Pruning should be minimal and involve removal only of dead or dying branches. Selective selective pruning can be used to thin branches and open up the canopy, allowing light and air to reach the lower levels of the tree. If needed, lightly shape the tree by removing crossed or rubbing branches, and reduce the size by no more than 1-third in any given season if needed for safety or aesthetics. The crown should be kept naturally compact and should not be cut into hard angles or artificially shaped. The inner branches should be pruned by removing weak or thin branches, and deadwood should be removed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,140 @@
+{
+  "id": 262,
+  "common_name": "Cornelian Cherry Dogwood",
+  "scientific_name": [
+    "Cornus mas"
+  ],
+  "other_name": [
+    "Cornelian cherry"
+  ],
+  "family": "Cornaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "mas",
+  "genus": "Cornus",
+  "origin": [
+    "Western Asia",
+    "Europe"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 20,
+      "max_value": 20,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Greenwood Cuttings",
+    "Greenwood Cuttings"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=262&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=262&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "branch",
+      "color": [
+        "brown-gray"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "brown-gray"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "yellow"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "February",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=262&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Anthracnose",
+    " Nematodes",
+    " Root rot",
+    " Scale insects",
+    " Stem borer insects",
+    " Thrips",
+    "  Deer resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Spring",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Cornelian Cherry Dogwood (Cornus mas) is a deciduous tree that is an amazing choice for gardens, with its long living beauty. This slow growing species can reach up to 20 feet in height and 15 feet in width with unique and stunning white flowers in the spring and its leaves that change color with each season. In the fall, the leaves turn beautiful shades of red and orange, adding a pop of color to landscape designs. Plus, it produces orange-red fruits during late summer, providing an unexpected food source for birds and other wildlife. Plus, it is adaptable to a variety of conditions and can be grown in both sun and shade.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/262_cornus_mas/og/51984552479_dcbda153b0_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/262_cornus_mas/regular/51984552479_dcbda153b0_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/262_cornus_mas/medium/51984552479_dcbda153b0_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/262_cornus_mas/small/51984552479_dcbda153b0_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/262_cornus_mas/thumbnail/51984552479_dcbda153b0_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

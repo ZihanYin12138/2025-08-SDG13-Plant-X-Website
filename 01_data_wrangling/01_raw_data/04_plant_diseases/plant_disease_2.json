@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "common_name": "Fungi Nuisance",
+      "scientific_name": " Panaeolus foenisecii ",
+      "other_name": [
+        "Nuisance fungi"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": " What is Nuisance fungi (Panaeolus foenisecii)?",
+          "description": "The dog vomit fungus, also known as Fuligo septica or slime mold, is a type of fungus that can appear in lawns and other outdoor areas. It has a widespread distribution and can be found in various regions. It does not infect plants directly but thrives on decaying organic matter in the soil. The symptoms of dog vomit fungus include the formation of a gooey, vomit-like mass on the surface of the lawn. While it is generally harmless to grass, it can be unsightly."
+        },
+        {
+          "subtitle": "How does Nuisance fungi (Panaeolus foenisecii) Occur?",
+          "description": "Dog vomit fungus, or Fuligo septica reproduces through spores released by the fungus. When conditions are suitable, the spores germinate and form a plasmodium, a mass of protoplasm that moves and feeds on decaying organic matter. The plasmodium matures into the characteristic slime mold, resembling vomit. Within the slime mold, sporangia develop, producing and releasing spores to complete the reproductive cycle."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Proper Lawn Maintenance",
+          "description": "•\tRegularly mow the lawn at the appropriate height to promote healthy grass growth.\n•\tAvoid overwatering or poor drainage conditions, as excessive moisture can contribute to mushroom growth.\n•\tReduce thatch buildup by dethatching the lawn when necessary.\n•\tEnsure proper disposal of organic debris and avoid burying it in the lawn.\n•\tUse a lawn aerator to improve water penetration and reduce the development of dense fungal mats.\n•\tRegularly pick or remove mushrooms as soon as they appear to prevent the spread of spores.\n•\tApply nitrogen fertilizer at a rate of 1 pound of actual nitrogen per 1,000 square feet of lawn to hasten the decomposition of organic matter and discourage mushroom growth.\n"
+        }
+      ],
+      "host": [
+        "all lawn grasses"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/2__panaeolus_foenisecii_/og/Panaeolus_foenisecii_124316833.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/2__panaeolus_foenisecii_/regular/Panaeolus_foenisecii_124316833.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/2__panaeolus_foenisecii_/medium/Panaeolus_foenisecii_124316833.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/2__panaeolus_foenisecii_/small/Panaeolus_foenisecii_124316833.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/2__panaeolus_foenisecii_/thumbnail/Panaeolus_foenisecii_124316833.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

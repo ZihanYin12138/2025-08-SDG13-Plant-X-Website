@@ -1,0 +1,114 @@
+{
+  "id": 315,
+  "common_name": "Weeping Laburnum",
+  "scientific_name": [
+    "Laburnum x watereri 'Pendulum'"
+  ],
+  "other_name": [
+    "Golden Chain Tree"
+  ],
+  "family": null,
+  "hybrid": "watereri",
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Pendulum",
+  "variety": null,
+  "species_epithet": null,
+  "genus": "Laburnum",
+  "origin": [
+    "Austria",
+    "Czech Republic",
+    "Germany",
+    "Poland",
+    "Slovakia"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 15,
+      "max_value": 15,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Cutting",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=315&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=315&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July",
+    "July"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": null,
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=315&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": false,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": true,
+  "poisonous_to_pets": true,
+  "description": "Weeping Laburnum (Laburnum x watereri 'Pendulum') is truly an amazing plant that stands out in any garden. Its pendulous branches, adorned with bright yellow flowers, give it an unique look and a highly distinctive silhouette. Its river-like structure makes it a perfect choice for hanging baskets, as its cascading form brings a unique twist to your floral arrangements. Hardy and low maintenance, this species is ideal for any garden, large or small. Celebrate the beauty of nature with an eye-catching species and enjoy its magnificent cascading display of yellow flowers every spring and summer. With Weeping Laburnum (Laburnum x watereri 'Pendulum') your garden will look breathtaking!",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/315_laburnum_x_watereri_pendulum/og/Laburnum_x_watereri_Vossii_0zz.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/315_laburnum_x_watereri_pendulum/regular/Laburnum_x_watereri_Vossii_0zz.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/315_laburnum_x_watereri_pendulum/medium/Laburnum_x_watereri_Vossii_0zz.jpg",
+    "small_url": "https://perenual.com/storage/species_image/315_laburnum_x_watereri_pendulum/small/Laburnum_x_watereri_Vossii_0zz.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/315_laburnum_x_watereri_pendulum/thumbnail/Laburnum_x_watereri_Vossii_0zz.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

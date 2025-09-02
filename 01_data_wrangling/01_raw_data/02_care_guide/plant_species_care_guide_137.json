@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1666,
+      "species_id": 137,
+      "common_name": "Floating Cloud Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Ukigumo'"
+      ],
+      "section": [
+        {
+          "id": 5203,
+          "type": "watering",
+          "description": "Floating Cloud Japanese Maples should be watered every 2-3 days, depending on the temperature and soil moisture. In warm summer months when the humidity is higher, it may need to be watered on a daily basis. During the dormant season, water it every 7-10 days. It should be thoroughly watered each time and allowed to dry out slightly in between waterings. Make sure the soil does not become overly saturated. When watering, the best practice is to place the hose at the base of the tree for more direct contact. Avoid getting the foliage wet, as it may cause fungal damage."
+        },
+        {
+          "id": 5204,
+          "type": "sunlight",
+          "description": "Floating Cloud Japanese Maple typically requires about 4–6 hours of direct sunlight each day. However, the amount of sunlight and the time of day when it receives that sunlight may vary depending on the climate and time of year. In cooler climates, morning sun or partial shade with some midday or late afternoon sun is ideal. In hotter climates, the tree may benefit from afternoon shade to avoid potential sunburn. The Floating Cloud Japanese Maple should be monitored over time in order to determine when it needs additional sunlight and when it needs time in the shade, as this can vary by location."
+        },
+        {
+          "id": 5205,
+          "type": "pruning",
+          "description": "Floating Cloud Japanese Maple should be pruned in early spring. Pruning should be minimal and should only be done to remove dead or undesirable branches. It is best to prune away no more than 1/4 of the overall plant. Prune carefully, making sure to avoid any vigorous pruning that may damage the plant. Also, try to prune in a way that maintains or enhances the natural form and shape of the tree. Pruning in mid-summer may also be done to control growth or to remove crossed or broken branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

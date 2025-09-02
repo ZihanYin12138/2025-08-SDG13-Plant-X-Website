@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "id": 75,
+      "common_name": "Downy mildew",
+      "scientific_name": "Peronospora sparsa",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Downy mildew (Peronospora sparsa)?",
+          "description": "Peronospora sparsa is a plant pathogen belonging to the group of Oomycetes causing highly destructive diseases like downy mildew. These fungal infections can also affect other closely related Rubus species, such as blackberry, raspberry, and boysenberry. blackberries, and raspberries. It primarily infects leaves but can also affect stems and fruits. Symptoms include yellow lesions on upper leaf surfaces turning brown, accompanied by fluffy growth on the underside due to pathogen sporulation."
+        },
+        {
+          "subtitle": "How does Downy mildew (Peronospora sparsa occur)?",
+          "description": " Peronospora sparsa survives as oospores and forms sporangia that produce zoospores. Germination requires water. Pathogens enter plants through stomata or by penetrating the surface. They create haustoria to extract nutrients. Fluffy symptoms appear on leaf undersides. Pathogens spread through air, water, and tools, with some seed transmission. The optimum temperature for germination, infection, and spore production is around 10-20°C. Overwintering oospores develop late in the season, found in soil or on living host plants."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Control",
+          "description": "•\tChoose resistant cultivars when available to prevent downy mildew.\n•\tPurchase seeds from reputable nurseries to avoid infected plants.\n•\tPrune plants to enhance air circulation and reduce moisture on leaves.\n•\tAdequately space row crops to ensure proper airflow even as they mature.\n•\tAvoid overhead irrigation that wet leaves and opt for drip irrigation to water plants at ground level.\n•\tApply a 3-inch layer of mulch around plants to prevent soil splashing and maintain moisture balance.\n•\tClean up and discard plant debris, leaves, and infected material to eliminate overwintering sites for downy mildew spores.\n•\tQuarantine new plants for 14 days before introducing them to the garden or greenhouse.\n"
+        },
+        {
+          "subtitle": " Biological Control Agents for Downy Mildew",
+          "description": "•\tTrichoderma spp competes with downy mildew and produces antifungal compounds. While Bacillus subtilis colonizes plant surfaces and produces antimicrobial compounds.\n•\tNeem oil, garlic extract, and cinnamon oil exhibit antifungal properties against downy mildew, providing alternative control methods.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "1.\tCopper-based Fungicides: Effectively control downy mildew, but repeated use can cause soil copper accumulation.\n2.\tSystemic Fungicides: Absorbed by plants for internal protection against downy mildew. \nRotate fungicides with different modes of action to prevent resistance.\n"
+        }
+      ],
+      "host": [
+        "caneberry",
+        "rose"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/75_peronospora_sparsa/og/2560px-Peronospora_sparsa_G44_28429.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/75_peronospora_sparsa/regular/2560px-Peronospora_sparsa_G44_28429.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/75_peronospora_sparsa/medium/2560px-Peronospora_sparsa_G44_28429.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/75_peronospora_sparsa/small/2560px-Peronospora_sparsa_G44_28429.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/75_peronospora_sparsa/thumbnail/2560px-Peronospora_sparsa_G44_28429.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

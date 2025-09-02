@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1927,
+      "species_id": 482,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium f. rosea"
+      ],
+      "section": [
+        {
+          "id": 5986,
+          "type": "watering",
+          "description": "Yarrow (Achillea millefolium f. rosea) is best watered when the soil feels dry to the touch. This could be once or twice a week, depending on the conditions in your garden. To avoid root rot and water-logging, water no more than is absolutely necessary. If you have an automatic sprinkler system, ensure that it is only operated for a few minutes a day. Generally, a good deep soak once or twice a week should suffice. If it’s particularly hot, increase the frequency. In winter, water just enough to keep the soil slightly damp. Do not overwater, as this can lead to root rot."
+        },
+        {
+          "id": 5987,
+          "type": "sunlight",
+          "description": "Yarrow (Achillea millefolium f. rosea) prefers direct sunlight for at least 6-7 hours a day, although it can tolerate a few hours of midday shade. In its most optimal conditions, it would be recommended to place this plant in a location where it will receive 6-8 hours of direct sunlight each day. However, when planted in less than optimal conditions, it should still thrive in a location that receives at least 3-4 hours of sunlight a day. Additionally, since yarrow prefers full sun, it should be planted in a location that is away from even the tallest plants that might otherwise cast a shadow on it during the day’s peak hours."
+        },
+        {
+          "id": 5988,
+          "type": "pruning",
+          "description": "Yarrow (Achillea millefolium f. rosea) should be pruned annually in late winter, early spring. Begin by cutting off the stems that have overgrown the desired shape or size of the plant. Cut the remaining stems back to the desired height, usually just above the existing leaf buds. If the yarrow isn't blooming, you may need to cut the stems back even further. Additionally, remove any dead or damaged stems, and pinch off any dead flower heads to encourage new growth and blooming."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

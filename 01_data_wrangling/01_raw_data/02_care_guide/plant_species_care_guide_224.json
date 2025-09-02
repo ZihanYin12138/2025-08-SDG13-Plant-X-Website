@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1738,
+      "species_id": 224,
+      "common_name": "Golden Hinoki Falsecypress",
+      "scientific_name": [
+        "Chamaecyparis obtusa 'Aurea'"
+      ],
+      "section": [
+        {
+          "id": 5419,
+          "type": "watering",
+          "description": "Golden Hinoki Falsecypress prefers moist, well-drained soil. Water the plant weekly during the first growing season to help establish an extensive root system. In hot climates, water 2 to 3 times a week during the summer months. Reduce watering to once a week thereafter. It should be watered whenever the top 1 to 2 inches of soil feel dry. "
+        },
+        {
+          "id": 5420,
+          "type": "sunlight",
+          "description": "Golden Hinoki Falsecypress (Chamaecyparis obtusa 'Aurea') is a slow-growing evergreen tree that requires direct sunlight for a minimum of 4-6 hours a day. This species prefers full sun in the morning and partial shade in the afternoon. Placing it near a south-facing window or in a location with bright, indirect sunlight during the day is ideal. For best growth, the tree should receive full sun for most of the day during summer and partial shade during winter."
+        },
+        {
+          "id": 5421,
+          "type": "pruning",
+          "description": "Golden Hinoki Falsecypress (Chamaecyparis obtusa 'Aurea') should be pruned in late winter or early spring. This species typically does not require much pruning, as it has a naturally neat and symmetrical shape. However, if it is necessary to prune, it should be done carefully and selectively. Prune off any dead, diseased, or damaged branches, as well as any weak and scraggly branches that detract from the overall shape of the plant. Avoid pruning too much of the foliage, as this will reduce the overall size and fullness of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

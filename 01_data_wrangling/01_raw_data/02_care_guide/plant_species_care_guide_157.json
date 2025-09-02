@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1685,
+      "species_id": 157,
+      "common_name": "Commemoration Sugar Maple",
+      "scientific_name": [
+        "Acer saccharum 'Commemoration'"
+      ],
+      "section": [
+        {
+          "id": 5260,
+          "type": "watering",
+          "description": "The Commemoration Sugar Maple should be watered when the top inch of soil is dry. In general, this species of Maple should be watered deeply every 1-2 weeks with about 1 inch of water. Water should be applied at the base of the plant and not on the leaves. It is important to avoid over-watering, so make sure the soil is completely dry before each watering. During the growing season, it may require more frequent watering."
+        },
+        {
+          "id": 5261,
+          "type": "sunlight",
+          "description": "The Commemoration Sugar Maple (Acer saccharum 'Commemoration') is a hardy, deciduous tree that thrives in full sun to partial shade. It should be planted in a location where it will get at least 6 hours of sunlight each day between April and September for optimal growth and fruit production. In the late fall and winter months, the tree gets the best light when the sun is low in the sky and the angle of light is oblique, meaning not directly overhead. This allows the tree to absorb more of the sun's energy, providing more energy for growth and fruiting."
+        },
+        {
+          "id": 5262,
+          "type": "pruning",
+          "description": "Commemoration Sugar Maple should be pruned in late fall or early spring, just before the spring growing season begins. Pruning should be minimal and aimed at maintaining the tree's desired shape and encouraging healthy growth. Weak, damaged, infested or dead branches should be removed. If desired, branches may be thinned or crown lifted by the removal of the lower branches. Prune to thin congested branches and maintain a uniform shape. remove any crossing or rubbing branches, as these can cause damage to the bark over time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

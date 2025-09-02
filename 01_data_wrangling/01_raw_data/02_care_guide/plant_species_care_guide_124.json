@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1654,
+      "species_id": 124,
+      "common_name": "Shishio Hime Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Shishio Hime'"
+      ],
+      "section": [
+        {
+          "id": 5167,
+          "type": "watering",
+          "description": "Generally, the Shishio Hime Japanese Maple needs to be watered twice a week. Its soil should not be allowed to dry out completely. After planting, saturate the plant's root ball with water, soaking it thoroughly. For younger plants, water deeply every 2 or 3 days and less frequently for mature plants, such as once a week. During hot, dry weather, water more often, about 3 times per week. Decrease watering frequency in winter and increase when temperatures rise. Press down the soil around the plant to ensure proper water absorption."
+        },
+        {
+          "id": 5168,
+          "type": "sunlight",
+          "description": "Shishio Hime Japanese Maple (Acer palmatum 'Shishio Hime') is best grown in partial shade to full sun. It should receive full sun in the early morning — between 7am and 11am — and should be shaded from the hot afternoon sun. This variety of maple prefers afternoon shade and should not be exposed to full sun for more than 4 to 6 hours per day."
+        },
+        {
+          "id": 5169,
+          "type": "pruning",
+          "description": "Pruning of Shishio Hime Japanese Maple should be done in early spring, before new leaves appear. Prune no more than 20% of the total canopy, taking care to remove dead branches and ones that are growing inward. Make sure all cuts are made at the branch collar to avoid further damage to the plant. Light seasonal pruning may be done in late summer or early fall as needed. Remember to sterilize all pruning tools between cuts to ensure the health of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

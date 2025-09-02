@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1904,
+      "species_id": 453,
+      "common_name": "Freeman maple",
+      "scientific_name": [
+        "Acer freemanii 'Marmo'"
+      ],
+      "section": [
+        {
+          "id": 5917,
+          "type": "watering",
+          "description": "Freeman Maple (Acer freemanii 'Marmo') should be watered deeply and regularly, during its first growing season to help establish an extensive root system. Once established, water as needed during times of drought. In general, water every 7-10 days during periods of dry weather. Soak the root zone thoroughly to a depth of at least 8 inches each time you water. Freeman Maple trees prefer soils that are moist, but not soggy. Water in the morning, and not in the evening, as wet foliage overnight can increase the risk of disease."
+        },
+        {
+          "id": 5918,
+          "type": "sunlight",
+          "description": "Freeman maple (Acer freemanii 'Marmo') is a deciduous species of maple that prefers full sun exposure. In Northern climates, this species should receive about 6 hours of direct sunlight per day in order to thrive. When planting this maple, it is important to keep in mind that it should have no shade for optimal growth."
+        },
+        {
+          "id": 5919,
+          "type": "pruning",
+          "description": "Freeman maple (Acer freemanii 'Marmo') should be pruned during the late winter or early spring season, prior to the onset of the growing season. Pruning should be limited to removal of dead, diseased or damaged branches, selective removal of branches to improve structure or aesthetics, or to thin out branches for increased air circulation. Since this species is considered to have moderate growth rate, pruning should reduce the overall mass of the tree by no more than 25% of the total roof line in any given season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

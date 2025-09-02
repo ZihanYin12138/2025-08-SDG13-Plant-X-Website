@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1823,
+      "species_id": 331,
+      "common_name": "Gold Star Magnolia",
+      "scientific_name": [
+        "Magnolia 'Gold Star'"
+      ],
+      "section": [
+        {
+          "id": 5674,
+          "type": "watering",
+          "description": "Water Gold Star Magnolias deeply at least once a week, providing 1 to 2 inches of water. Water more frequently during periods of drought or if your soil is sandy or fast draining. Water as soon as the top inch of soil begins to feel dry to the touch. Soak the soil until water begins to run out of the drainage holes on the bottom of the pot. Avoid overhead watering to prevent damaging the leaves."
+        },
+        {
+          "id": 5675,
+          "type": "sunlight",
+          "description": "Gold Star Magnolia grows best in full sunlight for at least 6-8 hours per day. For best results, the plant should be placed in a location where it can receive full sun for the majority of the day, especially during the warmer months from late spring to early fall. "
+        },
+        {
+          "id": 5676,
+          "type": "pruning",
+          "description": "Gold Star Magnolia (Magnolia 'Gold Star') should be pruned in the late winter or early spring before the new growth emerges. Only light pruning is required, focusing on removal of dead or dying branches and any that are growing in an undesirable direction. Branches that cross one another should also be removed or trimmed back. Avoid major pruning, as this could disrupt the balance of the plant and prevent it from blooming."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

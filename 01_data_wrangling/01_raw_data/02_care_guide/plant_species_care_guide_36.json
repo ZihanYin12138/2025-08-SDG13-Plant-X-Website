@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1579,
+      "species_id": 36,
+      "common_name": "Aureum Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Aureum'"
+      ],
+      "section": [
+        {
+          "id": 4921,
+          "type": "watering",
+          "description": "The Aureum Japanese Maple (Acer palmatum 'Aureum') is a low-maintenance plant that prefers moist soil and does not tolerate drought. Its ideal soil pH is between 5.5 and 7.5. When watering, be sure to soak the soil until it is thoroughly moistened. You should water it once a week during the summer, and twice a month during the winter when the tree is dormant and not actively growing. During periods of abundant rainfall, reduce or skip watering to avoid over-saturating the soil. If the soil feels dry to the touch, it’s time to water."
+        },
+        {
+          "id": 4922,
+          "type": "sunlight",
+          "description": "Aureum Japanese Maple (Acer palmatum 'Aureum') thrive in areas with bright, indirect light and should be in a spot where they receive a few hours of direct sunlight each day. The best time for this plant for sunlight exposure is during the morning hours, when the light is least intense. During the summer months, it is best to provide some protection from the hottest afternoon sun."
+        },
+        {
+          "id": 4923,
+          "type": "pruning",
+          "description": "Aureum Japanese Maples should be pruned in late winter or early spring before the new leaves and flowers appear. Early spring is the best time to prune because the tree is still dormant. Pruning should be minimal and concentrated mainly on removing dead wood and slenderizing the branches, as pruning too heavily will interfere with the shape of the tree. If needed, prune out selected branches to thicken the canopy, remove crossing branches, or narrow the crown. Cuts should be made close to the trunk, but not too close as this may cause undesirable bark wounds. Aureum Japanese Maples can also be pruned in late summer, but it should be done sparingly and thoughtfully, as pruning in the summer may reduce flowering and cause bud drop."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

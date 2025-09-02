@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1695,
+      "species_id": 169,
+      "common_name": "Three Flowered Maple",
+      "scientific_name": [
+        "Acer triflorum"
+      ],
+      "section": [
+        {
+          "id": 5290,
+          "type": "watering",
+          "description": "For optimal health, Three Flowered Maple (Acer triflorum) requires regular watering through the growing season. During the spring and summer months, water the plant deeply every week, allowing the soil to become fully saturated before letting it dry out. During the fall and winter, water only when the soil feels dry to the touch, usually every 1-2 weeks, depending on weather and temperature. Be sure to check for signs of water stress such as wilting, curling, or yellowing of the leaves. It is also important to avoid over-watering or allowing the soil to become soggy as this could lead to plant health problems."
+        },
+        {
+          "id": 5291,
+          "type": "sunlight",
+          "description": "Three Flowered Maple (Acer triflorum) prefers full to partial sun exposure for growth. The ideal amount of sun for this species is considered to be 6 to 8 hours of direct, bright light per day. During the hottest days of the year, some protective shade may be beneficial during the mid-day to reduce stress from direct sun. Morning sun is usually the best and brightest for this plant species."
+        },
+        {
+          "id": 5292,
+          "type": "pruning",
+          "description": "Pruning Three Flowered Maple (Acer triflorum) should be done in late winter or early spring before the buds begin to swell. The amount of pruning depends on the age and size of the plant, as well as the desired shape. For younger plants, remove dead, diseased, and damaged branches, as well as any crossing branches and shoots growing in an undesirable direction. On established trees, remove only small branches, new shoots, and suckers if the plant has become too large or if the canopy is too dense. Remember, removing too much can slow growth and reduce the number of flowers."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

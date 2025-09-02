@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "id": 46,
+      "common_name": "Leaf spot diseases",
+      "scientific_name": "Alternaria gerberae",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is leaf spot disease (Alternaria gerberae)?",
+          "description": "Alternaria gerberae is a fungal pathogen causing leaf spot disease. The disease is widespread and is commonly found in all areas where gerberas are grown. Symptoms include small, circular brownish-black spots on leaves with a concentric ring pattern. As the disease progresses, spots merge, causing yellowing, wilting, and leaf loss."
+        },
+        {
+          "subtitle": "How does leaf spot disease (Alternaria gerberae) occur?",
+          "description": "The fungus reproduces by producing spores that can be dispersed by wind, water, or insects and can survive in plant debris and soil. When spores land on susceptible plants, they germinate and infect the tissues, leading to the spread of the disease to other parts of the plant or neighboring plants. \nOptimal conditions for Alternaria gerberae growth and reproduction are warm and moist environments, which can be created through overwatering or high humidity levels."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices ",
+          "description": "Proper cultural practices can help reduce the risk of Alternaria gerberae infection. This includes adequate plant spacing, good ventilation, and proper watering practices to avoid creating a warm and moist environment that favors fungal growth."
+        },
+        {
+          "subtitle": "Resistant Cultivars ",
+          "description": "Choosing resistant cultivars can help reduce the risk of Alternaria gerberae infection. Consult with local extension offices or plant suppliers to identify cultivars that are resistant to Alternaria leaf spot disease."
+        },
+        {
+          "subtitle": "Biological Control",
+          "description": " Biological control methods such as the use of beneficial microbes or fungi can also help manage Alternaria gerberae. \nConsult with local extension offices or horticulture experts to determine which methods are best suited for your specific situation."
+        },
+        {
+          "subtitle": "Fungicides",
+          "description": "There are several fungicides that can be used to control Alternaria gerberae, including Azoxystrobin, Chlorothalonil, Myclobutanil, Pyraclostrobin, and Tebuconazole. \nIt is important to follow label instructions carefully when using any fungicide."
+        }
+      ],
+      "host": [
+        "barberton daisy",
+        "gerbera daisy",
+        "transvaal daisy"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/46_alternaria_gerberae/og/Hibiscus_Bacterial_leaf_spot_caused_by_Pseudomonas_cichorii_28568457581829.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/46_alternaria_gerberae/regular/Hibiscus_Bacterial_leaf_spot_caused_by_Pseudomonas_cichorii_28568457581829.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/46_alternaria_gerberae/medium/Hibiscus_Bacterial_leaf_spot_caused_by_Pseudomonas_cichorii_28568457581829.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/46_alternaria_gerberae/small/Hibiscus_Bacterial_leaf_spot_caused_by_Pseudomonas_cichorii_28568457581829.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/46_alternaria_gerberae/thumbnail/Hibiscus_Bacterial_leaf_spot_caused_by_Pseudomonas_cichorii_28568457581829.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

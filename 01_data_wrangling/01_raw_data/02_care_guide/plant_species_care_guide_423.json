@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1879,
+      "species_id": 423,
+      "common_name": "Caucasian fir",
+      "scientific_name": [
+        "Abies nordmanniana subsp. equi-trojani"
+      ],
+      "section": [
+        {
+          "id": 5842,
+          "type": "watering",
+          "description": "Caucasian fir should be watered once a week. The amount of water should depend on the weather and size of the tree. In periods of extreme heat or drought, more frequent watering will be needed. On average, water the fir tree deeply so that the soil is soaked up to 8-12 inches deep. This can be accomplished by using a garden hose or a watering can with a gentle rainfall pattern. During this process, make sure to avoid overwatering as this can lead to root rot and other disease problems. In the winter months, water less often, but be sure to maintain the roots so that they are not allowed to dry out completely."
+        },
+        {
+          "id": 5843,
+          "type": "sunlight",
+          "description": "Caucasian fir (Abies nordmanniana subsp. equi-trojani) prefers bright, indirect sunlight. It should receive at least 6 hours of direct sunlight each day during the growing season, but avoid direct sunlight during the hottest hours of the day. During the winter months, it should receive indirect sunlight throughout the day. Avoid any exposure to prolonged direct sunlight, as this could damage the needles of the plant."
+        },
+        {
+          "id": 5844,
+          "type": "pruning",
+          "description": "Caucasian Fir (Abies nordmanniana subsp. equi-trojani) should be pruned during the late winter or early spring when the plant is dormant. Before beginning pruning, inspect the tree for dead or diseased branches and remove them. The goal of pruning should be to encourage the development of a strong structure and evenly spaced branches. Light pruning should be done to keep the tree looking tidy, but moderate to heavy pruning should be avoided. Make sure to prune the branches back to a lateral branch or the main trunk, rather than leaving a stub. This will help the tree retain its natural shape and reduce the chance of infection or disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

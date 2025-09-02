@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "id": 26,
+      "common_name": "Powdery mildew",
+      "scientific_name": "Podosphaera leucotricha",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Powdery Mildew (Podosphaera leucotricha)?",
+          "description": "Powdery mildew (Podosphaera leucotricha) is a fungal disease that affects a variety of plants, such as apples, almonds, pears, quince, peach, and photinia. It is found worldwide in apple production regions. This disease can impact leaves, buds, shoots, blossoms, and fruit. Typical symptoms include whitish patches on the lower leaf surface, yellow spots on the upper surface, and a powdery appearance due to white spores. Leaves may exhibit curling and dropping, while buds become more vulnerable to winter damage. Infected fruit may develop a netlike russeting. "
+        },
+        {
+          "subtitle": "How does Powdery Mildew (Podosphaera leucotricha) occur?",
+          "description": "Powdery mildew reproduces through a combination of asexual and sexual methods. It produces asexual spores called conidia, which spread through wind or insects, causing new infections. Under specific conditions, it forms sexual fruiting bodies called chasmothecia, which produce sexual spores called ascospores. These ascospores can survive tough conditions and infect plants in the following seasons. The ability to reproduce both ways helps powdery mildew survive, spread, and adapt as a plant disease."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Control",
+          "description": "•  Pruning and sanitation: Pruning helps reduce inoculum by removing infected plant parts, but it can be labor-intensive for larger operations.\n\n•\tOrchard maintenance: Regular maintenance, including opening the tree canopy, improves fungicide deposition and reduces humidity, hindering pathogen development.\n"
+        },
+        {
+          "subtitle": "Chemical Management",
+          "description": "•\tTimely fungicide applications effectively control powdery mildew.\n•\tElemental sulfur is commonly used for management.\n•\tInorganic potassium carbonates and kaolin-based particle film are used in organic production.\n•\tResistance management strategies include rotating fungicide modes of action.\n•\tAnilinopyrimidines, once commonly used, are now less favored.\n•\tSurfactant treatments show some reduction in infections but may delay bud break and flowering.\n•\tFungicide-surfactant mix applications are more effective with reduced phytotoxicity.\n"
+        },
+        {
+          "subtitle": "Biological Control",
+          "description": "•\tPlant oil extracts, like sunflower, olive, and canola oils, can control powdery mildew symptoms.\n\n•\tBiocontrol organisms (e.g., Ampelomyces mycoparasites, Bacillus species) show varying success.\n\n•\tResearch is ongoing to identify effective biocontrol agents and naturally derived antimicrobial compounds.\n"
+        }
+      ],
+      "host": [
+        "apple",
+        "nectarine",
+        "peach",
+        "quince"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/26_p/og/38978012882_9cac2df61e_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/26_p/regular/38978012882_9cac2df61e_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/26_p/medium/38978012882_9cac2df61e_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/26_p/small/38978012882_9cac2df61e_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/26_p/thumbnail/38978012882_9cac2df61e_b.jpg"
+        },
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/26_podosphaera_leucotricha/og/9010271992_4f2c71e479_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/26_podosphaera_leucotricha/regular/9010271992_4f2c71e479_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/26_podosphaera_leucotricha/medium/9010271992_4f2c71e479_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/26_podosphaera_leucotricha/small/9010271992_4f2c71e479_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/26_podosphaera_leucotricha/thumbnail/9010271992_4f2c71e479_b.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

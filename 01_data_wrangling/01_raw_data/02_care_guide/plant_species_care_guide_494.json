@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1937,
+      "species_id": 494,
+      "common_name": "Siberian yarrow",
+      "scientific_name": [
+        "Achillea sibirica"
+      ],
+      "section": [
+        {
+          "id": 6016,
+          "type": "watering",
+          "description": "Watering for this plant species should be done about once a week, allowing the soil to dry out somewhat between waterings. Make sure that your plant does not suffer from overwatering, as this could lead to root rot. If you live in an area with hotter climates, you may need to water your Siberian yarrow more often. You may also need to water the plant more often if the soil is sandy or in other situations where the soil drains quickly. "
+        },
+        {
+          "id": 6017,
+          "type": "sunlight",
+          "description": "Siberian yarrow (Achillea sibirica) is a perennial plant that grows best in full sun. It requires 6-8 hours of direct sunlight each day during the peak growing season in order to thrive. When grown in exposed, open locations, Siberian yarrow should be protected from the harsh midday sun in late spring and summer, as this can lead to scorching of the foliage. In cooler climates, however, the plant can tolerate more intense sunlight. "
+        },
+        {
+          "id": 6018,
+          "type": "pruning",
+          "description": "Siberian yarrow should be pruned in late spring or early summer, when the new growth has just started to come in. Pruning should involve both deadheading and cutting back the plant. Deadheading removes spent flower heads, which encourages more blooms but also prevents self-seeding. Cutting back yarrow promotes a bushier, more compact form and can help control its spread. Cut back yarrow canes to reduce their size and remove old, dead growth. Doing this every 2 to 3 years will keep the plant tidy and produce vigorous, healthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

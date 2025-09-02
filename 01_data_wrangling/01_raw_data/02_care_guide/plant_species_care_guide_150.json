@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1678,
+      "species_id": 150,
+      "common_name": "Eskimo Sunset Sycamore Maple",
+      "scientific_name": [
+        "Acer pseudoplatanus 'Eskimo Sunset'"
+      ],
+      "section": [
+        {
+          "id": 5239,
+          "type": "watering",
+          "description": "Water your Eskimo Sunset Sycamore Maple (Acer pseudoplatanus 'Eskimo Sunset') deeply once per week, when the soil is slightly dry. Usually this will require approximately 1 gallon of water per foot of the tree's height once a week. Depending on the weather conditions, the tree may need to be watered more in summer and less in winter or wetter seasons. Ensure that the entire root system receives enough water and avoid over-watering, which can cause leaf or root problems."
+        },
+        {
+          "id": 5240,
+          "type": "sunlight",
+          "description": "Eskimo Sunset Sycamore Maple (Acer pseudoplatanus 'Eskimo Sunset') is a large deciduous tree that does best when planted in full sun locations. During its growing season, this maple species needs at least 6 to 8 hours of direct sunlight a day to help promote healthy growth and flowering. That said, it may do well with slightly less sunlight, such as 4 to 6 hours daily. During winter months, sunlight needs decrease as the tree is in a dormant stage and does not need as much light."
+        },
+        {
+          "id": 5241,
+          "type": "pruning",
+          "description": "Eskimo Sunset Sycamore Maple (Acer pseudoplatanus 'Eskimo Sunset') should be pruned in late winter or early spring before the buds begin to break. Start at a young age to shape and train the tree into its desired shape. This can be accomplished by trimming off any weak and diseased branches and using heading back cuts to control the height and spread of the tree. In general, pruning should be modest, with no more than 15 to 20% of the branches removed in 1 session. Increase light and air circulation in the center of the tree by selectively removing some of the crossing branches. Once established, Eskimo Sunset Sycamore Maple only need to be pruned lightly every 2 to 3 years."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

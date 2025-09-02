@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1592,
+      "species_id": 54,
+      "common_name": "Glowing Embers Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Glowing Embers'"
+      ],
+      "section": [
+        {
+          "id": 4975,
+          "type": "watering",
+          "description": "For optimal health, the Glowing Embers Japanese Maple should be watered regularly. During the first 2 years after it has been planted, water the plant every 7-10 days, depending on the weather conditions and how much natural rainfall has been received. During the spring, summer, and fall seasons, add enough water to keep the soil evenly moist, but not water-logged. In the winter months, water the soil only when it begins to dry out. It's best to avoid letting the soil dry out completely, however, even during winter."
+        },
+        {
+          "id": 4976,
+          "type": "sunlight",
+          "description": "The Glowing Embers Japanese Maple is a moderate growing small size deciduous tree. It prefers full sun exposure in the morning and filtered light in the afternoon, for a total of 4-5 hours of direct sunlight per day. The Glowing Embers maple grows best in areas that have part shade during the hottest parts of the day and/or the summer season. "
+        },
+        {
+          "id": 4977,
+          "type": "pruning",
+          "description": "Pruning Pruning of the Glowing Embers Japanese Maple (Acer palmatum ‘Glowing Embers’) should begin when the tree is young, typically after it has been transplanted. During the first year, pruning should be limited to removing any dead, diseased or damaged branches. Prune back any crossing branches, and any upright branches that are growing in an undesirable direction.\n\nPruning can then be done annually, in early spring before leaves form. Take care to prune no more than 1-third of the canopy of the tree each year. Cut back any branches that are crossing or growing too close together. Also prune away any new growth that isn't desired, such as branches with too much foliage crowding the center of the tree. Avoid cutting back into the old wood, as this will limit the vigor of the new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

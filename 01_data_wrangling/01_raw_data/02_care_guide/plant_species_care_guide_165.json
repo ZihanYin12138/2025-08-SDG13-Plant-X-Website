@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1691,
+      "species_id": 165,
+      "common_name": "Hot Wings Tatarian Maple",
+      "scientific_name": [
+        "Acer tataricum 'GarAnn'"
+      ],
+      "section": [
+        {
+          "id": 5278,
+          "type": "watering",
+          "description": "Hot Wings Tatarian Maple should be watered every 1-2 weeks, depending on the outdoor temperature and the plant's position in your garden. When watering, it is important to give the plant a thorough soaking to ensure that the root system is reached. Allow the soil in containers to dry before re-watering. Hot Wings Tatarian Maple prefers moist soil but not soggy, so do not overwater. In the hotter months of the year, you may need to water more frequently to make sure the roots stay hydrated. "
+        },
+        {
+          "id": 5279,
+          "type": "sunlight",
+          "description": "Hot Wings Tatarian Maple (Acer tataricum 'GarAnn') thrives in full sun to partial shade, with 6-8 hours of direct sunlight each day being ideal for optimal growth and flowering. It should be planted in a location that is exposed to at least a few hours of direct sunlight each day, preferably in an unshaded area that receives full sun in the afternoon. In areas that receive less sun or when exposed to more shade, the tree may not flower or fruit as well."
+        },
+        {
+          "id": 5280,
+          "type": "pruning",
+          "description": "Hot Wings Tatarian Maple should be pruned in late winter or early spring, before new growth begins. Pruning should be limited to removing dead, damaged, or crossing branches and maintaining the desired overall shape, size, and form of the tree. If needed, pruning can be used to create a more balanced, organized canopy of branches and to improve the tree’s structure. To avoid a lopsided, crowded look, selectively remove branches that detract from the tree’s overall form and beauty."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

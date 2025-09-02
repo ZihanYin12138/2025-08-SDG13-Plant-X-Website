@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1733,
+      "species_id": 218,
+      "common_name": "Hearts of Gold Redbud",
+      "scientific_name": [
+        "Cercis canadensis 'Hearts of Gold'"
+      ],
+      "section": [
+        {
+          "id": 5404,
+          "type": "watering",
+          "description": "Water your Hearts of Gold Redbud deeply and infrequently. As this is a drought-tolerant plant, it is important to avoid overly frequent watering, which can lead to root rot. Aim to water your plant deeply once every 1 to 2 weeks, depending on temperature. In hot, dry weather, you may need to water slightly more often to keep the soil consistently moist. Monitor the soil moisture to determine frequency of irrigation—it should feel dry to the touch 1 inch below the surface before more water is needed."
+        },
+        {
+          "id": 5405,
+          "type": "sunlight",
+          "description": "Hearts of Gold Redbud (Cercis canadensis 'Hearts of Gold') prefers full sun to partial shade. It will tolerate full shade, but will not perform as well and tends to become leggy with sparse foliage. The ideal environment for this plant species is 6-8 hours of direct sunlight per day. If providing partial shade, it should be in the morning or late afternoon/early evening to protect the foliage from intense, mid-day heat."
+        },
+        {
+          "id": 5406,
+          "type": "pruning",
+          "description": "Hearts of Gold Redbud requires little pruning to maintain its shape and size. Generally, pruning should only occur in the early spring, before the plant starts to bloom. This is because the plant produces its blossoms on old wood, meaning it will not rebloom if pruned after blooms have begun appearing. Any pruning should focus on dead or diseased wood, as well as stems growing in unwanted directions. Pruning should also be done in such a way to maintain the natural shape of the plant and to keep it from becoming too leggy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

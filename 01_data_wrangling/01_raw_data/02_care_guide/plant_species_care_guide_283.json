@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1787,
+      "species_id": 283,
+      "common_name": "Weeping Beech",
+      "scientific_name": [
+        "Fagus sylvatica 'Pendula'"
+      ],
+      "section": [
+        {
+          "id": 5566,
+          "type": "watering",
+          "description": "Weeping Beech (Fagus sylvatica 'Pendula') has moderate watering needs, so it is best to keep the soil evenly moist. Water the plant deeply once every 7 to 10 days, making sure to water until the soil is thoroughly saturated and any excess moisture has drained away. Young plants should be watered more often, as the soil tends to dry out more quickly. During periods of hot or dry weather, water the plant more often. For mature trees, once per week is usually sufficient, however, it is important to check the soil for moisture before watering. If the soil is dry to the touch, a thorough watering is needed. When in doubt, err on the side of caution and water the soil deeply."
+        },
+        {
+          "id": 5567,
+          "type": "sunlight",
+          "description": "Weeping Beech (Fagus sylvatica 'Pendula') prefers full sun exposure, although it will tolerate partial shade as well. The optimal amount of direct sunlight for this plant species is between 4–6 hours per day during the spring and summer seasons, and approximately 2–4 hours during the fall and winter. When in direct sunlight, the foliage is likely to be more vibrant and healthy, and the growth rate may be slightly faster."
+        },
+        {
+          "id": 5568,
+          "type": "pruning",
+          "description": "Weeping Beech (Fagus sylvatica 'Pendula') should be pruned in early to mid-spring before new growth begins. There should be minimal pruning done each year to maintain the desired shape. Pruning would involve cutting out dead, diseased, and crossing branches, as well as thinning out some of the inner foliage. Pruning should be kept to a minimum to avoid cutting off new growth. It is best to only prune each branch back by no more than 1-third of its total growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

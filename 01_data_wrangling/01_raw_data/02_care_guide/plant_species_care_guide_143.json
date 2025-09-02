@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1672,
+      "species_id": 143,
+      "common_name": "Yubae Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Yubae'"
+      ],
+      "section": [
+        {
+          "id": 5221,
+          "type": "watering",
+          "description": "Yubae Japanese Maple should be watered once a week, or when the top inch of soil is dry. Use lukewarm water; cold water can shock the roots. Water long and deeply - a thorough soaking - so the moisture reaches the bottom of the roots. Avoid getting the leaves wet, which can cause disease problems. Check the root ball for any waterlogged soil. If there is too much water in the pot, wait a few days before watering again. Also remember to adjust the watering schedule as the growing season progresses. In the summer, during hot and dry conditions, you may need to water twice a week. In the winter, when the plant is dormant, the tree will need less water than during the growing season."
+        },
+        {
+          "id": 5222,
+          "type": "sunlight",
+          "description": "Yubae Japanese Maple (Acer palmatum 'Yubae') prefers full sun to part shade. It can tolerate morning sun and afternoon shade, as well as dappled sun all day. In areas with intense sun, it should receive some shade during the hottest part of the day (roughly 11 am to 4 pm). Yubae Japanese Maple should receive at least 6 hours of direct sunlight per day, but no more than 8 hours."
+        },
+        {
+          "id": 5223,
+          "type": "pruning",
+          "description": "Yubae Japanese Maple (Acer palmatum 'Yubae') is a small, slow-growing ornamental tree that should be pruned annually. Pruning should be done in late winter or early spring once the tree is dormat. During pruning, remove dead, damaged or diseased branches, along with those growing in awkward or undesirable locations. To promote desired shape and size, selectively thin out inner branch growth and remove crossing branches. Once the desired form is achieved, the amount of pruning should decrease each year. When pruning in the later years, it is recommended to take off no more than 25-30% of the foliage. Consider hiring an arborist or gardening professional to perform major pruning tasks."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

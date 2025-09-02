@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1689,
+      "species_id": 161,
+      "common_name": "Autumn Moon Full Moon Maple",
+      "scientific_name": [
+        "Acer shirasawanum 'Autumn Moon'"
+      ],
+      "section": [
+        {
+          "id": 5272,
+          "type": "watering",
+          "description": "Autumn Moon Full Moon Maple (Acer shirasawanum 'Autumn Moon') plants require regular watering for best growth and health. During the spring and summer months, when the plant is actively growing, you should water regularly to maintain moist soil. Water deeply when the top inch (2.5 cm) of soil feels dry to the touch, usually every 7-10 days. Reduce watering frequency in the winter when the plant is dormant. Aim to keep the soil slightly moist, but not overly wet. Established plants benefit from a deep soak once or twice a month during the winter. Always avoid overwatering, as this may lead to root rot."
+        },
+        {
+          "id": 5273,
+          "type": "sunlight",
+          "description": "The Autumn Moon Full Moon Maple is native to Japan and requires full sun for 6-8 hours per day. This species of maple does best in partial shade, so it is important to provide shelter from hot afternoon sun in the peak of the summer months. In the spring, Autumn Moon Full Moon Maple should have ample sunlight but less as summer approaches. In the fall and winter months, the tree can follow its natural cycle and receive full sun."
+        },
+        {
+          "id": 5274,
+          "type": "pruning",
+          "description": "Autumn Moon Full Moon Maple should be pruned in early spring only if necessary, to remove dead, diseased, or damaged branches. This species of maple is normally a low-maintenance tree that rarely needs pruning since it does not sucker or form an untidy habit. If pruning is necessary, it is best to prune only the tips of branches or other sections that need shaping, avoiding any major pruning. It is important not to prune more than a third of the tree's canopy in any season; removing more than that may lead to stress and decline of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

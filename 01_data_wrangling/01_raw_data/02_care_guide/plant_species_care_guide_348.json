@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1839,
+      "species_id": 348,
+      "common_name": "Merrill Magnolia",
+      "scientific_name": [
+        "Magnolia x loebneri 'Merrill'"
+      ],
+      "section": [
+        {
+          "id": 5722,
+          "type": "watering",
+          "description": "Merrill Magnolia requires frequent watering, especially during the first year of planting. During the dry season, this species should be watered twice per week, supplying 1 to 2 inches of water each time. During periods of excessive heat, increase waterings to 3 times per week. During the winter months, water the Merrill Magnolia less often, about once per month. Be sure to always check the soil before watering to ensure it is dry."
+        },
+        {
+          "id": 5723,
+          "type": "sunlight",
+          "description": "Merrill Magnolia (Magnolia x loebneri 'Merrill') is an absolute sun-lover, requiring full sun for optimal blooms and growth. It should be planted in a spot where it receives at least 6 to 8 hours of direct sunlight during the summer. When grown in direct sunlight, Merrill Magnolia produces large, fragrant, white blooms in late spring to early summer."
+        },
+        {
+          "id": 5724,
+          "type": "pruning",
+          "description": "Merrill Magnolia should typically be pruned in late winter or early spring. Prune dead, damaged, or diseased branches at any point they may be present. To maintain the desired shape for the Merrill Magnolia, prune lightly and selectively, removing no more than 1-third of the canopy at a time. This will help prevent the plant from becoming sparse. It is also important to always leave healthy buds behind when pruning and never remove the entire branch or stem. Doing so can lead to drastic changes in the plant’s shape and potential harm to the plant’s health. To keep the Merrill Magnolia healthy and looking its best, prune annually and lightly."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

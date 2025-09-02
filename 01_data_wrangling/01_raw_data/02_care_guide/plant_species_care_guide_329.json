@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1821,
+      "species_id": 329,
+      "common_name": "Daybreak Magnolia",
+      "scientific_name": [
+        "Magnolia 'Daybreak'"
+      ],
+      "section": [
+        {
+          "id": 5668,
+          "type": "watering",
+          "description": "Daybreak Magnolia should be watered thoroughly once a week, making sure to moisten the soil completely. During periods of hot weather, you may want to water twice a week to ensure the soil is consistently moist. Be sure to avoid standing water or overly saturated soil. Always check the soil with your finger before watering to make sure it doesn’t already feel moist."
+        },
+        {
+          "id": 5669,
+          "type": "sunlight",
+          "description": "Daybreak Magnolia, also known as Magnolia 'Daybreak', grows best when given 6 to 8 hours of direct sunlight per day and, ideally, should be planted in a spot that gets at least 6 hours of sun in the afternoon. The plant should not be exposed to direct sunlight during the hottest time of the day as this can cause stress and potentially cause sunburn. If planting in a shade garden, be sure to place it in a spot that still gets a good amount of sun throughout the day. For optimal growth, Daybreak Magnolia should receive fall-to-spring sun, but should be shaded in the summer months."
+        },
+        {
+          "id": 5670,
+          "type": "pruning",
+          "description": "Daybreak Magnolia should be pruned in late winter or early spring. Pruning should be minimal as this species is best left unpruned to allow for its natural form to emerge. If pruning is desired, only remove dead, broken, or sickly branches. Rejuvenation pruning may be beneficial in extreme cases to reduce the size of the plant, but only after consulting with a knowledgeable expert. After pruning, it is important to apply a light mulch to the base of the tree to protect the soil and promote healthy roots."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

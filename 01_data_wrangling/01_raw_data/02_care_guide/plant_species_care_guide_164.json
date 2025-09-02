@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 515,
+      "species_id": 164,
+      "common_name": "Yasemin Full Moon Maple",
+      "scientific_name": [
+        "Acer shirasawanum 'Yasemin'"
+      ],
+      "section": [
+        {
+          "id": 1546,
+          "type": "watering",
+          "description": "Yasemin Full Moon Maple should be watered deeply and regularly, about once a week or when the top inch of soil feels dry. Be careful not to overwater, as the plant can become susceptible to root rot. During the warm months, you can water more frequently. During the colder months, reduce watering, as this plant will go into dormancy and does not require as much moisture."
+        },
+        {
+          "id": 1548,
+          "type": "sunlight",
+          "description": "Yasemin Full Moon Maple plants prefer full sun, which means at least 6 hours of direct sunlight a day. They need at least 6 hours in the late morning and early afternoon, so these plants should be in an area where they get the most sunshine between 10am to 4pm. During summer, the plant should also be protected from the extremely intense rays of the late afternoon sun."
+        },
+        {
+          "id": 1550,
+          "type": "pruning",
+          "description": "Yasemin Full Moon Maple should not require frequent pruning. Pruning should only be done to remove dead, diseased or damaged branches, and to shape the tree for a desired effect. If light pruning is needed, it is best done in late winter or early spring, before new growth begins. Prune back branch tips and side shoots as desired, and remove crossed branches when they occur. Avoid major pruning such as topping or major structural pruning as it will disrupt the tree's natural growth pattern."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

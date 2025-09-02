@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1926,
+      "species_id": 481,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium 'Desyel' DESERT EVE YELLOW"
+      ],
+      "section": [
+        {
+          "id": 5983,
+          "type": "watering",
+          "description": "Water yarrow (Achillea millefolium 'Desyel' DESERT EVE YELLOW) every 1-2 weeks, depending on the soil moisture and the weather conditions. Water deeply to ensure the root system is well hydrated. During periods of hot weather, water more frequently. For the driest months of the season, water every 7-10 days. During spring and summer, yarrow will benefit from an occasional deep soak of water throughout the week. "
+        },
+        {
+          "id": 5984,
+          "type": "sunlight",
+          "description": "Yarrow (Achillea millefolium 'Desyel' DESERT EVE YELLOW) should be grown in an area with full sun and 6 hours of sunlight per day. Yarrow is a hardy perennial plant that loves heat and lots of sun. It is best suited to growing in well-draining soils in a location that receives full sunlight all day. Yarrow is commonly found growing in disturbed soils such as on the sides of roads or in open fields, so it should not be kept in too much shade. "
+        },
+        {
+          "id": 5985,
+          "type": "pruning",
+          "description": "Yarrow (Achillea millefolium 'Desyel' DESERT EVE YELLOW) should be pruned in late spring or early summer once the flowers have faded. Generally, yarrow should be cut back to 1/3 of its height, but with Desert Eve Yellow, the center of the plant should be left intact to promote fuller and compact growth. With all yarrow varieties, be sure to cut just above a healthy bud to encourage new growth. Yarrow is a tough plant that responds well to pruning, so don’t be afraid to give it a good cutback and trim off straggly foliage. Pruning yarrow can also help keep it from being invasive, so it’s best to trim it back once it begins to crowd other plants."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

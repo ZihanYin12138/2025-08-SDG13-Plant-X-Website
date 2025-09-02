@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 58,
+      "species_id": 16,
+      "common_name": "Paperbark Maple",
+      "scientific_name": [
+        "Acer griseum"
+      ],
+      "section": [
+        {
+          "id": 1229,
+          "type": "watering",
+          "description": "Paperbark Maple thrives in moist but well-drained soil and should be watered regularly during the growing season with approximately 1-2 inches of water per week. It should be watered deeply but infrequently, giving the soil time to dry out between waterings. Water should be applied around the perimeter of the plant to ensure it is penetrating deeply into the root zone. During the winter, when the plant is dormant, watering should be reduced significantly. Paperbark Maple does not tolerate overly wet soil and will not survive standing water, so make sure to check the soil before watering and not to overwater."
+        },
+        {
+          "id": 1230,
+          "type": "sunlight",
+          "description": "Paperbark Maple does well in full sun, but can also tolerate partial shade, so you want to make sure it gets at least 6 hours of sunlight per day. The best times for it to receive sunlight are in the morning and early afternoon, as the intense afternoon sun can cause the leaves to scorch. Morning sunlight will encourage blooms later in the year and will help the tree build up its food reserves. "
+        },
+        {
+          "id": 1231,
+          "type": "pruning",
+          "description": "Paperbark Maple (Acer griseum) should be pruned twice each year, once in early spring and once in late summer. In early spring, prune only to remove dead and diseased branches. Late summer pruning should be more extensive, and can include removing excess watersprouts and crossed branches, thinning out interior growth, and shaping the tree’s overall canopy. Care should be taken to not prune more than 1/3 of the tree’s growth in a single session, and to prune any branches back to their points of origin or to another branch or branchlet at least 1 thumb’s width in diameter."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

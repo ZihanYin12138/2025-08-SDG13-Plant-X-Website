@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1713,
+      "species_id": 195,
+      "common_name": "Pyramidal European Hornbeam",
+      "scientific_name": [
+        "Carpinus betulus 'Fastigiata'"
+      ],
+      "section": [
+        {
+          "id": 5344,
+          "type": "watering",
+          "description": "The Pyramidal European Hornbeam (Carpinus betulus 'Fastigiata') prefers moist, well-drained soil, so it is important to water it regularly. Water the tree deeply to ensure that the whole root zone is wet. During the hot summer months, the tree should be watered every 5 to 7 days. In spring and autumn, watering can be done every 10 to 14 days. During the winter, water only when the top 2 to 3 inches of soil is dry. Allow the water to penetrate the soil slowly to ensure the roots can easily soak up the moisture. If the soil is compacted, aerate it to allow better water absorption."
+        },
+        {
+          "id": 5345,
+          "type": "sunlight",
+          "description": "Pyramidal European Hornbeam (Carpinus betulus 'Fastigiata') requires 5 to 6 hours of sunlight each day in order to thrive. It does best in partial shade, meaning lighter shadows cast by trees, buildings, or structures, but can have some direct sun for a portion of the day. The sun should be filtered through a curtain of foliage or other structures that still leave the plant's foliage in the shade during the hottest part of the day. "
+        },
+        {
+          "id": 5346,
+          "type": "pruning",
+          "description": "Pyramidal European Hornbeam (Carpinus betulus 'Fastigiata') should be pruned in late winter before the new growth begins. Pruning should be light, focusing on dead, diseased and broken branches. Prune any multiple leaders to ensure the central leader remain dominant and remove any shoots that sprout from the main trunk. To maintain the pyramidal shape, remove shoots that grow out of the top and sides to keep the sides straight. Removal of selected branches at the bottom of the tree is a good way to raise the crown and increase the openness of the foliage. Lastly, cut back overgrown branches to the desired height."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

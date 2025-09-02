@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 61,
+      "species_id": 19,
+      "common_name": "Attaryi Fullmoon Maple*",
+      "scientific_name": [
+        "Acer japonicum 'Attaryi'"
+      ],
+      "section": [
+        {
+          "id": 1238,
+          "type": "watering",
+          "description": "The Attaryi Fullmoon Maple plant should be watered on a regular basis, but not overwatered. It should be watered when the top 1-2 inches (2.5-5 cm) of the soil are drying out. This typically requires watering once a week in the warmer months, and every 2 weeks in the winter season. The exact amount of water for each watering will vary depending on weather and climate, but a good rule of thumb is to apply 1 to 2 inches (2.5-5 cm) of water per week."
+        },
+        {
+          "id": 1239,
+          "type": "sunlight",
+          "description": "Attaryi Fullmoon Maple is a beautiful, deciduous species that thrives in areas with full to partial sunlight. It does best when it receives at least 4-6 hours of direct sunlight per day, preferably during the early morning or late afternoon when the sun is not as strong. During peak summer months, it can tolerate up to 8 hours of direct sunlight but should be sheltered from the hottest midday sun. If grown in areas with full shade, the maple may lack vigor, display slow growth, or have an overall less vibrant foliage."
+        },
+        {
+          "id": 1240,
+          "type": "pruning",
+          "description": "Attaryi Fullmoon Maple should be pruned annually in mid to late winter, when the tree is dormant. Pruning should be limited to removing dead, dying, diseased, or crowded branches and should include removing any crossing branches that could cause damage to the tree. Remove no more than 20% of the total branch growth from each pruning session as this species doesn't tolerate heavy pruning well. When pruning, maintain an overall natural shape by pruning weak, sprouty growth and avoiding topping or shearing the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 87,
+      "common_name": "Alternaria leaf blight",
+      "scientific_name": "Alternaria dauci",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Alternaria leaf blight (Alternaria dauci)?",
+          "description": "Alternaria leaf blight is a fungal disease caused by Alternaria dauci. It primarily affects carrot plants but can also infect parsley. The disease is distributed in regions where carrots are grown, with notable occurrences in western Idaho and eastern Oregon. Symptoms include dark brown to black irregular lesions on leaf blades and petioles, often surrounded by a yellow margin. Lesions may merge, causing leaf death, and weakened leaves may break off during harvesting."
+        },
+        {
+          "subtitle": "How does Alternaria leaf blight (Alternaria dauci) occur?",
+          "description": "Alternaria dauci reproduces and spreads through spores produced by the fungus. These spores can be carried by air or water splashes to infect healthy plants. Alternaria dauci can survive on carrot debris, volunteer plants, and seeds. When conditions are favorable, such as rainy weather or overhead irrigation, the spores germinate and infect the leaves and stalks of carrots. It can thrives best at 82°F but can infect plants at temperatures as low as 57°F and high as 95°F. "
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Controls & Prevention:",
+          "description": "- Implement rotations of 3-4 years to reduce disease incidence.\n\n- Use certified pathogen-free seeds or treat seeds with hot water or fungicides.\n\n- Opt for cultivars with tolerance to Alternaria diseases\n"
+        },
+        {
+          "subtitle": "Organically Acceptable Methods",
+          "description": "For organic production, cultural control practices, hot water dips, and the application of Serenade ASO and MAX foliar sprays are acceptable methods for managing Alternaria leaf blight."
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "Common fungicides used for managing Alternaria leaf blight in carrots include Chlorothalonil (Bravo, Daconil), Azoxystrobin (Quadris), Mancozeb (Dithane), Propiconazole (Tilt), and Fludioxonil (Switch). \n\nHowever, it is important to consult local agricultural authorities for approved fungicides and their proper usage in your region."
+        }
+      ],
+      "host": [
+        "carrot"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/87_alternaria_dauci/og/2560px-Alternaria_solani_a1_28229.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/87_alternaria_dauci/regular/2560px-Alternaria_solani_a1_28229.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/87_alternaria_dauci/medium/2560px-Alternaria_solani_a1_28229.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/87_alternaria_dauci/small/2560px-Alternaria_solani_a1_28229.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/87_alternaria_dauci/thumbnail/2560px-Alternaria_solani_a1_28229.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

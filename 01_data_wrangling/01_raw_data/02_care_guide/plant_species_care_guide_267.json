@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1778,
+      "species_id": 267,
+      "common_name": "Yoshino Japanese Cedar",
+      "scientific_name": [
+        "Cryptomeria japonica 'Yoshino'"
+      ],
+      "section": [
+        {
+          "id": 5539,
+          "type": "watering",
+          "description": "When watering the Yoshino Japanese Cedar, it is important to water on a consistent basis and avoid over-watering or under-watering. This species should be given 1-2 inches of water per week during the spring, summer and fall months when rainfall levels are low. During the winter months, watering should be reduced to once per month. When watering the Yoshino Japanese Cedar, it is best to water early in the morning and avoid wetting the foliage to reduce the risk of disease. The soil around the tree should be kept consistently moist but not overly soggy."
+        },
+        {
+          "id": 5540,
+          "type": "sunlight",
+          "description": "Yoshino Japanese Cedar (Cryptomeria japonica 'Yoshino') grows best when it receives full to partial sunlight. It will thrive if it receives 6-8 hours of direct sunlight each day during the summer months. If it is planted in an area that receives more shade, it will not grow as vigorously, but can still survive with as little as 4 hours of sunlight each day. "
+        },
+        {
+          "id": 5541,
+          "type": "pruning",
+          "description": "Yoshino Japanese Cedar (Cryptomeria japonica 'Yoshino') requires minimal pruning for a mature tree because of its naturally tight, pyramidal shape. However, some pruning is needed to maintain the desired shape and size. For young trees, it is best to prune them as they grow, to reduce the risk of damage to older wood. This can be done in late winter or early spring for best results. For mature trees, prune each branch back to the desired length in late winter or early spring. Be sure to make clean cuts close to the main branch. Avoid topping the tree, as it can result in weak branching and can reduce vigor. Remove any dead or diseased branches as soon as they are discovered to keep the tree healthy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

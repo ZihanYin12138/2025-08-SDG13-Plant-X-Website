@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1789,
+      "species_id": 287,
+      "common_name": "Red Obelisk Beech",
+      "scientific_name": [
+        "Fagus sylvatica 'Red Obelisk'"
+      ],
+      "section": [
+        {
+          "id": 5572,
+          "type": "watering",
+          "description": "For best results, Red Obelisk Beech should be given an ample amount of water on a regular basis. As a general rule of thumb, the plant should be given a deep watering about every 3-4 days, or when the top 2-3 inches of soil feels dry. This should be done in order to keep the soil moist, but not soggy. During especially hot or dry days, the watering schedule may need to be adjusted to provide more frequent or deep watering. If the soil is too wet, though, some of the water should be allowed to evaporate before watering again."
+        },
+        {
+          "id": 5573,
+          "type": "sunlight",
+          "description": "Red Obelisk Beech (Fagus sylvatica 'Red Obelisk') thrives best in full sun to partial shade, which means it should receive 6-8 hours of direct sunlight each day. It prefers the direct sunlight in the morning, as the afternoon sun may be too intense in some climates. This plant needs a good sun exposure to develop its compact, conical form. Although Red Obelisk Beech can tolerate partial shade, it will not become as compact and thrive as much as when grown in full sun."
+        },
+        {
+          "id": 5574,
+          "type": "pruning",
+          "description": "Red Obelisk Beech trees should be pruned in late winter or early spring before the tree grows back its foliage. When pruning, make sure to remove any dead, diseased, or twisted branches, as well as any branches that are crossing or growing too close to the main trunk. For heavier shaping, wait until the tree is at least 5-7 years old and the trunk and branches have matured. To promote a lush, full crown make sure to remove no more than 1/3 of the outer growth each year. This will help keep the tree strong and healthy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

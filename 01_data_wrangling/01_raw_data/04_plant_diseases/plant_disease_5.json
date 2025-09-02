@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "id": 5,
+      "common_name": "Powdery mildew",
+      "scientific_name": "Erysiphe graminis",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Powdery mildew (Erysiphe graminis)?",
+          "description": "Powdery mildew is a fungal disease that affects a wide range of plants, including ornamentals, vegetables, and turfgrass. It is distributed worldwide and thrives in conditions with high humidity and moderate temperatures. Infected plants exhibit grayish white, powdery growth on leaf surfaces, starting as isolated patches and spreading over larger areas. In advanced stages, affected leaves may turn yellow and become distorted. "
+        },
+        {
+          "subtitle": "How does Powdery mildew (Erysiphe graminis) occur?",
+          "description": "Powdery mildew reproduces through sexual reproduction, forming fruiting bodies called cleistothecia that release spores. These spores can be carried by wind or other means to infect susceptible plants. Additionally, it reproduces asexually by producing conidia, which are airborne spores formed on the powdery growth of infected plants. These conidia can spread to new hosts, initiating new infections, and facilitating the rapid dissemination of the disease."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Select resistant plant varieties",
+          "description": "Choose plant varieties that have demonstrated resistance to Erysiphe graminis, as they possess natural defences against the fungus.\n"
+        },
+        {
+          "subtitle": "Ensure proper plant spacing",
+          "description": "Maintain adequate spacing between plants to promote airflow and minimize humidity around the foliage, creating less favorable conditions for this fungus."
+        },
+        {
+          "subtitle": "Optimize sunlight exposure",
+          "description": "Position plants in areas that receive ample sunlight, as sunlight helps reduce humidity levels and inhibits its growth."
+        },
+        {
+          "subtitle": "Manage watering practices",
+          "description": "Avoid overhead watering, as wet foliage encourages its development. Instead, water plants at the base or utilize drip irrigation to keep the foliage dry."
+        },
+        {
+          "subtitle": "Regular pruning and debris removal",
+          "description": "Trim and dispose of infected plant parts, fallen leaves, and other debris to minimize the presence of fungal spores and reduce the risk of infection."
+        },
+        {
+          "subtitle": "Practice crop rotation",
+          "description": "If it recurs, rotate susceptible plants to different areas each growing season to break the disease cycle."
+        },
+        {
+          "subtitle": "Monitor and detect early signs",
+          "description": "Routinely inspect plants for early indications of infection, such as white powdery patches on leaves and stems. Early detection enables timely intervention and effective control."
+        },
+        {
+          "subtitle": "Application of Fungicides",
+          "description": "In severe cases or when preventive measures are insufficient. Azoxystrobin, propiconazole (Bumper® 250 EC), tebuconazole, myclobutanil (Orius 250 EW), fenarimol, difenoconazole, cyprodinil, and flutriafol are examples of synthetic fungicides effective against this fungus.\n\n Sulfur-based fungicides and Biofungicides based on Bacillus subtilis can also be used against this. Adhere to the instructions and apply them as directed."
+        }
+      ],
+      "host": [
+        "all lawn grasses"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/5_e/og/Blumeria_graminis_on_winter_wheat.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/5_e/regular/Blumeria_graminis_on_winter_wheat.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/5_e/medium/Blumeria_graminis_on_winter_wheat.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/5_e/small/Blumeria_graminis_on_winter_wheat.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/5_e/thumbnail/Blumeria_graminis_on_winter_wheat.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/5_e/og/Hordeum_vulgare_Erysiphe_graminis_f._hordei_%281%29.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/5_e/regular/Hordeum_vulgare_Erysiphe_graminis_f._hordei_%281%29.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/5_e/medium/Hordeum_vulgare_Erysiphe_graminis_f._hordei_%281%29.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/5_e/small/Hordeum_vulgare_Erysiphe_graminis_f._hordei_%281%29.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/5_e/thumbnail/Hordeum_vulgare_Erysiphe_graminis_f._hordei_%281%29.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/5_erysiphe_graminis/og/2560px-Hordeum_vulgare_Erysiphe_graminis_f._hordei_28129.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/5_erysiphe_graminis/regular/2560px-Hordeum_vulgare_Erysiphe_graminis_f._hordei_28129.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/5_erysiphe_graminis/medium/2560px-Hordeum_vulgare_Erysiphe_graminis_f._hordei_28129.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/5_erysiphe_graminis/small/2560px-Hordeum_vulgare_Erysiphe_graminis_f._hordei_28129.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/5_erysiphe_graminis/thumbnail/2560px-Hordeum_vulgare_Erysiphe_graminis_f._hordei_28129.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

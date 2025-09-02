@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1753,
+      "species_id": 240,
+      "common_name": "Stellar Pink Flowering Dogwood",
+      "scientific_name": [
+        "Cornus 'Stellar Pink'"
+      ],
+      "section": [
+        {
+          "id": 5464,
+          "type": "watering",
+          "description": "It is best to water Steller Pink Flowering Dogwood once a week, providing a deep soaking that moistens the entire root zone. The best time of day to water is in the morning while the sun is still low, allowing the plant to absorb the moisture before the heat of the day. Be sure to check the soil and avoid watering if the surface is still damp. Be careful not to overwater, as this can lead to root rot and other issues."
+        },
+        {
+          "id": 5465,
+          "type": "sunlight",
+          "description": "Stellar Pink Flowering Dogwood (Cornus 'Stellar Pink') should receive plenty of direct sunlight each day. During the spring and summer months, the plant should get at least 6 hours of sunlight, and 8 to 10 hours during the fall and winter months. It is important for Stellar Pink Flowering Dogwood to receive consistent and abundant sunlight, as it will help it to grow and thrive."
+        },
+        {
+          "id": 5466,
+          "type": "pruning",
+          "description": "Stellar Pink Flowering Dogwood (Cornus 'Stellar Pink') should be pruned annually in early spring before its new growth emerges. Pruning should be minimal, removing only dead, diseased, crossing or rub branches, and opening up the center of the plant to help improve air circulation. This will also help to promote more vigorous new growth and flowers. When pruning, shorten overly long branches back to healthy, outwardly facing buds. It's important to avoid pruning off too much of the plant's foliage as this can inhibit flowering and new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

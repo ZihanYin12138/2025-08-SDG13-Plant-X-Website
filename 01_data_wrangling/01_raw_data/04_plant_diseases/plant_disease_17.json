@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": 17,
+      "common_name": "Clubroot",
+      "scientific_name": "Plasmodiophora brassicae",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Clubroot (Plasmodiophora brassicae)?",
+          "description": "Clubroot, caused by a soil-borne pathogen Plasmodiophora brassicae, poses a significant threat to Brassica crops worldwide, including vegetables like cabbage, radish, cauliflower, and broccoli. It is particularly common in cool and moist climates. \nThe pathogen infects the roots of these plants, causing them to develop swollen, or \"clubs.\" It impairs the plant's ability to take up water and nutrients, resulting in stunted growth, yellowing leaves, and eventual plant death. Clubroot can persist in the soil for several years, making it challenging to control. It is a known problem in several Canadian provinces.\n"
+        },
+        {
+          "subtitle": "How does Clubroot (Plasmodiophora brassicae) occur?",
+          "description": "Clubroot is reproduced through resting spores in the soil. These spores germinate into motile zoospores, which infect susceptible plant roots, causing the formation of galls. As the galls mature, they release more resting spores into the soil. \nThese resting spores can survive in the soil for several years, even in the absence of host plants. When a new susceptible plant is grown in the infested soil, the resting spores germinate, restarting its life. Spread occurs through soil movement and contaminated materials. \n"
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Soil Solarization",
+          "description": "•\tClear the affected area of plant debris and weeds.\n\n•\tMoisten the soil to ensure good heat conduction.\n\n•\tCover the soil with clear plastic sheets, securing the edges to create a seal.\n\n•\tLeave the plastic sheets in place for 4-6 weeks during the hottest period of the year.\n\n•\tThe heat trapped under the plastic will help reduce the population of Plasmodiophora brassicae and other soil-borne pathogens.\n"
+        },
+        {
+          "subtitle": "Biofumigation",
+          "description": "•\tPlant biofumigant crops such as mustards (Brassica juncea) in the affected area.\n•\tAllow the plants to grow until they reach the flowering stage.\n\n•\tIncorporate the biofumigant crops into the soil while still green, chopping them finely.\n•\tCover the soil with a plastic sheet or tarp to trap the released gases.\n\n•\tLeave the cover in place for 2-4 weeks, allowing the breakdown of plant tissues to release bioactive compounds that suppress the pathogen.\n"
+        },
+        {
+          "subtitle": "Resistant Varieties and Soil Amendments",
+          "description": "•\tPlant brassica crop varieties that have been specifically bred for resistance to Plasmodiophora brassicae.\n\n•\tAmend the soil with calcium to raise the pH level above 7.0, creating an unfavorable environment for the pathogen.\n\n•\tIncorporate organic matter such as compost or well-rotted manure into the soil to improve its structure and nutrient content.\n\n•\tMaintain proper soil moisture levels and drainage to discourage disease development.\n"
+        }
+      ],
+      "host": [
+        "alyssum",
+        "cole crops",
+        "nasturtium"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/17_plasmodiophora_brassicae/og/Knolvoet_bij_bloemkool_28Plasmodiophora_brassicae_on_cauliflower29.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/17_plasmodiophora_brassicae/regular/Knolvoet_bij_bloemkool_28Plasmodiophora_brassicae_on_cauliflower29.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/17_plasmodiophora_brassicae/medium/Knolvoet_bij_bloemkool_28Plasmodiophora_brassicae_on_cauliflower29.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/17_plasmodiophora_brassicae/small/Knolvoet_bij_bloemkool_28Plasmodiophora_brassicae_on_cauliflower29.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/17_plasmodiophora_brassicae/thumbnail/Knolvoet_bij_bloemkool_28Plasmodiophora_brassicae_on_cauliflower29.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

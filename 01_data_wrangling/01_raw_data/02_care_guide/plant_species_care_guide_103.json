@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1635,
+      "species_id": 103,
+      "common_name": "Red Feathers Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Red Feathers'"
+      ],
+      "section": [
+        {
+          "id": 5110,
+          "type": "watering",
+          "description": "Red Feathers Japanese Maple should be watered deeply and regularly. It requires an average of 1-2 inches of water per week. Water in the morning so that the leaves have time to dry out throughout the day. This helps to reduce the chance of fungal diseases. During periods of intense heat or drought, your Red Feathers Japanese Maple may require more frequent watering, up to twice per week. The best way to tell if the plant needs to be watered is to dig your finger into the top inch of soil near the roots. If it feels dry, give it a drink. It's important to not over-water your Red Feathers Japanese Maple. If the soil becomes soggy, cut back on watering and allow the soil to partially dry out before watering again."
+        },
+        {
+          "id": 5111,
+          "type": "sunlight",
+          "description": "Red Feathers Japanese maples require full sun to partial shade, with at least 4 hours of sunlight per day for optimal growth. They prefer morning light and filtered light in the afternoon. While direct afternoon sunlight may cause the foliage to fade or burn, exposure to late afternoon shade can help to prevent sunburn. During winter months, when sunlight is limited, Red Feathers Japanese maples will benefit from exposure to as much light as possible, so offer the plant a few hours of direct sunlight each day. It's essential to monitor your maple's exposure to sunlight, particularly during extreme weather conditions. Too little or too much light can cause leaf discoloration or branch dieback."
+        },
+        {
+          "id": 5112,
+          "type": "pruning",
+          "description": "Red Feathers Japanese Maple is best pruned in late winter to early spring, while the plant is still dormant. Pruning should be done sparingly, and the aim should be to maintain the natural shape of the tree while removing any damaged, diseased, or crossing branches. To eliminate leggy or interior growth, selectively thin out some of the older branches near the trunk, removing 1-third to 1-half their length. Cut just above a leaf bud, angling the cut away from the bud for best results. Remove any suckers coming from the rootstock near the base of the tree. Prune deadwood and broken branches back to the trunk or nearest branch in the crown, again making sure to angle the cut away from the part of the tree that is still alive."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

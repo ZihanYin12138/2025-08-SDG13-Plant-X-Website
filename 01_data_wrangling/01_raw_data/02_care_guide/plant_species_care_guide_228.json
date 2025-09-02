@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1742,
+      "species_id": 228,
+      "common_name": "Threadleaf Falsecypress",
+      "scientific_name": [
+        "Chamaecyparis pisifera 'Filifera'"
+      ],
+      "section": [
+        {
+          "id": 5431,
+          "type": "watering",
+          "description": "Threadleaf Falsecypress (Chamaecyparis pisifera 'Filifera') should be watered to keep the soil moist, but not soggy. Water the plants when the top 1-2 inches of soil are dry, and give the plant a thorough soaking. Avoid overwatering, which can cause root rot. These plants generally need to be watered about once every 7 - 10 days. During periods of extreme heat, the plant may need to be watered more frequently."
+        },
+        {
+          "id": 5432,
+          "type": "sunlight",
+          "description": "Threadleaf Falsecypress requires full sun to partial shade for optimal growth and health. Up to 6 hours of direct sunlight is ideal. Too much sun can cause discolouration, stress, and even death in extreme cases. However, afternoon shade is recommended in warmer climates to keep the plant from entering a state of dormancy. Sunlight should be filtered during the hottest hours of the day, and the amount of sunlight should be gradually increased to prevent shock. "
+        },
+        {
+          "id": 5433,
+          "type": "pruning",
+          "description": "Threadleaf Falsecypress (Chamaecyparis pisifera 'Filifera') should be pruned twice a year: once in late winter or early spring and again in late summer. Pruning in late winter or early spring should focus on removing any dead, damaged or diseased branches, and shaping the foliage canopy or overall shape of the plant. Late-summer pruning should be used to promote denser growth and, if desired, for further shape refinement. Pruning should be kept light, with just enough targeted cuts to achieve the desired form. Heavy pruning should be avoided as it can result in an overgrowth of foliage, which can potentially reduce air circulation and encourage disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

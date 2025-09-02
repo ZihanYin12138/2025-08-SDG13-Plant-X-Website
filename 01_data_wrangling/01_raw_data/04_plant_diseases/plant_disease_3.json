@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": 3,
+      "common_name": "Grease spot (Pythium blight)",
+      "scientific_name": "Pythium spp.",
+      "other_name": [
+        "Pythium blight (grease spot)",
+        "Damping off and root dieback",
+        "Damping off and seed rots",
+        "Damping off diseases"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Pythium Bligh (Pythium spp.)?",
+          "description": "Pythium blight is a fungal disease that impacts turfgrass, causing small circular spots that combine to form withered, reddish-brown, greasy-looking leaves, earning it the name \"grease spot.\" This disease thrives in warm, humid conditions, especially when humidity is high and temperatures exceed 86°F. It affects all grass species, leading to seedling damping-off and root rots. Pythium blight spreads rapidly, capable of killing extensive grass areas within just 24 hours."
+        },
+        {
+          "subtitle": "How does Pythium Blight occur?",
+          "description": "Pythium blight reproduces through both asexual and sexual methods. In humid conditions, it releases zoospores that can swim in water and infect nearby turfgrass. It also produces durable sexual spores that help it survive in soil and plant debris. These reproductive strategies allow Pythium blight to spread and persist, causing damage to susceptible plants in turfgrass environments."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Improve soil drainage",
+          "description": "Maintain proper soil moisture levels to avoid creating conditions favorable for Pythium growth. Improving soil drainage through aeration and avoiding overwatering can limit the conditions that allow the fungus to thrive."
+        },
+        {
+          "subtitle": "Avoid watering at night",
+          "description": "Watering the lawn early in the day and using fertilizers appropriately can further help reduce the risk of Pythium blight."
+        },
+        {
+          "subtitle": "Use resistant grass cultivars",
+          "description": "Additionally, selecting grass cultivars that are resistant to the disease can provide an extra level of protection. "
+        },
+        {
+          "subtitle": "Maintain appropriate nitrogen levels",
+          "description": "Avoid excessive nitrogen fertilization, as it can stimulate rapid turfgrass growth and make the plants more susceptible to disease."
+        },
+        {
+          "subtitle": "Apply fungicides",
+          "description": "Here are some commonly used fungicides for the management of Pythium blight (grease spot) in turfgrass.\n\n•\tAzoxystrobin (Brand name: Heritage)\n•\tFosetyl-al (Brand names: Aliette WDG, Prodigy, Chipco Signature)\n•\tMancozeb (Brand names: Fore 80WP, Dithane M-45)\n•\tMefenoxam (Brand names: Subdue MAXX, Ridomil Gold SL)\n•\tChlorothalonil (Brand names: Daconil, Bravo)\n•\tPropamocarb (Brand name: Banol)\n\n•\tPlease note that the use of fungicides should be in accordance with local regulations, product labels, and the advice of professionals or local extension services.\n"
+        }
+      ],
+      "host": [
+        "all lawn grasses",
+        "carrot",
+        "corn",
+        "various trees and shrubs",
+        "various vegetables and melons"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/3_p/og/Monographella_nivalis-2013-Brno-4.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/3_p/regular/Monographella_nivalis-2013-Brno-4.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/3_p/medium/Monographella_nivalis-2013-Brno-4.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/3_p/small/Monographella_nivalis-2013-Brno-4.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/3_p/thumbnail/Monographella_nivalis-2013-Brno-4.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

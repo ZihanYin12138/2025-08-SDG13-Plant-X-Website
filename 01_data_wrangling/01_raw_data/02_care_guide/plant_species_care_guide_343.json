@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1834,
+      "species_id": 343,
+      "common_name": "Teddy Bear® Magnolia",
+      "scientific_name": [
+        "Magnolia grandiflora 'Southern Charm'"
+      ],
+      "section": [
+        {
+          "id": 5707,
+          "type": "watering",
+          "description": "Teddy Bear® Magnolia (Magnolia grandiflora 'Southern Charm') plants will thrive in well-drained, acidic soil. Water your plant consistently and thoroughly. During the growing season (Spring and Summer) the soil should remain moist but not soggy. This can be achieved by watering 1-2 times a week, checking the soil each time to ensure it is not completely dry before watering. If the soil is still moist, you can wait another day or 2 before watering again. During the Winter season, you can give the plant a deep soak about once every 2 weeks. Make sure to stop watering if the soil becomes soggy or waterlogged."
+        },
+        {
+          "id": 5708,
+          "type": "sunlight",
+          "description": "Teddy Bear® Magnolia (Magnolia grandiflora 'Southern Charm') grows well in full sun or partial shade. It prefers at least 6 hours of sun a day, but can tolerate up to 8 hours of sun. If the tree gets too much sun, it can become stressed and its leaves will turn yellow. For best results, place the tree in a spot with morning sun and afternoon shade. During the hottest part of the day, the tree should be sheltered from the intense afternoon rays which can do damage to the delicate foliage."
+        },
+        {
+          "id": 5709,
+          "type": "pruning",
+          "description": "Teddy Bear® Magnolia (Magnolia grandiflora 'Southern Charm') should be pruned after flowering, in late spring or early summer. Pruning should be minimal, focusing only on removing any dead, diseased, or broken branches. Avoid cutting the younger, outward-facing shoots in order to maintain the fullness of the shrub. To reduce the risk of plant disease, make sure to disinfect your tools before and after pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

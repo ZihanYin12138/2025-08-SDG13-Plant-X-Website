@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1796,
+      "species_id": 299,
+      "common_name": "Princeton Sentry Ginkgo",
+      "scientific_name": [
+        "Ginkgo biloba 'Princeton Sentry'"
+      ],
+      "section": [
+        {
+          "id": 5593,
+          "type": "watering",
+          "description": "The Princeton Sentry Ginkgo should be watered thoroughly when the top layer of soil is dry. This may be every 7-14 days, depending on how warm it is and how much rain is received. Plant it in soil that has good drainage. In the first few weeks after planting, water more often. When gardening in colder areas, it's important not to overwater in the winter months, as this could cause root damage due to icy soil. During the growing season, ensure your ginkgo tree is always moist, but not soggy."
+        },
+        {
+          "id": 5594,
+          "type": "sunlight",
+          "description": "The Princeton Sentry Ginkgo (Ginkgo biloba 'Princeton Sentry') is a species of plant that requires around 4-5 hours of direct sunlight daily to thrive and produce vibrant foliage. This plant prefers full sun in the spring and fall, and partial to full sun during the summer. Avoid planting this species in a spot that receives intense heat and direct sunlight during the hottest part of the day (generally, around noon) to prevent potential damage."
+        },
+        {
+          "id": 5595,
+          "type": "pruning",
+          "description": "Princeton Sentry Ginkgo should be pruned during the spring, before the growth of new leaves. To promote a strong structure, small branches should be pruned during this time for the removal of excess, crossing, or damaged branches. Pruning back larger branches should be done with care, as it can inhibit the growth of the tree. Additionally, removing more than 1-third of the canopy should be avoided as it can cause shock and compromise the health of the tree. Before pruning, it is important to assess the tree’s overall health. If the tree is unhealthy due to lack of water or poor soil texture, it is best not to prune."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1624,
+      "species_id": 90,
+      "common_name": "Ornatum Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Ornatum'"
+      ],
+      "section": [
+        {
+          "id": 5077,
+          "type": "watering",
+          "description": "Ornatum Japanese Maples should be watered once a week to a depth of 1 inch, approximately 10-14 litres (3-4 gallons) each time. The soil should be kept moist but not soggy. Be sure to check that there is good drainage before applying water, as water sitting and pooling around the roots can lead to root rot. In the warmest months of summer, you may need to increase the frequency of watering to once every few days. Mulching around the root area can also help to conserve moisture."
+        },
+        {
+          "id": 5078,
+          "type": "sunlight",
+          "description": "The Ornatum Japanese Maple (Acer palmatum 'Ornatum') is a deciduous tree that prefers partial sunlight but still needs some direct sunlight throughout the day for optimal growth. This species of maple is able to tolerate full sun, but prefers partial shade. When grown in full sun, it should be placed in an area that gets afternoon shade to protect it from strong afternoon sun exposure.\n\nWhen it comes to sunlight, it is important to keep in mind that this tree requires 4 to 6 hours of direct sunlight daily. Ideally, it should receive its sunlight in the morning, allowing it to have plenty of time to dry off before evening arrives. As an added precaution against sunburn or leaf damage, trees should not be exposed to full sun during the peak hours of the day when the intensity of the sun is strongest."
+        },
+        {
+          "id": 5079,
+          "type": "pruning",
+          "description": "Ornatum Japanese Maple should be pruned in the early spring when new growth is starting to emerge. Pruning should be done selectively, focusing on removing any dead, broken, or crossing branches. It is important to avoid removing too much vigor from the tree by taking too much of the canopy away. Light pruning to encourage growth in desired directions can be done throughout the season. Ornatum Japanese Maple have delicate branching structures and can be injured by too much heavy pruning. It is best to prune the species conservatively."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

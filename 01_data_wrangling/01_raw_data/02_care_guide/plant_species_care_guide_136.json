@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1665,
+      "species_id": 136,
+      "common_name": "Ueno Homare Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Ueno Homare'"
+      ],
+      "section": [
+        {
+          "id": 5200,
+          "type": "watering",
+          "description": "This Japanese Maple prefers regular watering. It should be watered weekly during the growing season from April to August, allowing the soil to just dry out before watering again. The soil should never be allowed to become saturated or dry out completely. In the winter months, it should be watered less, once every 3 to 4 weeks. It may also benefit from a slow drip irrigation system. To check if it needs water, stick your finger into the soil. If it’s damp, wait a few days before watering again."
+        },
+        {
+          "id": 5201,
+          "type": "sunlight",
+          "description": "Ueno Homare Japanese Maple (Acer palmatum 'Ueno Homare') needs at least 4 to 6 hours of full sun each day for optimal growth and health. It can tolerate partial shade, but too much shade will cause it to become spindly and thin, compromising its structural integrity. Placing the Ueno Homare Japanese Maple in an area that receives early morning sunshine, followed by dappled or partial shade in the late afternoon to create a mix of sun and shade, is ideal."
+        },
+        {
+          "id": 5202,
+          "type": "pruning",
+          "description": "Pruning of the Ueno Homare Japanese Maple should be done in early spring, before the growth buds break. Pruning should be minimal; no more than 10cm from the overall size of the plant should be removed in any 1 season. Smaller branches can be removed from the smaller twigs, to encourage a fuller, healthy, strong form. Dead wood should be clipped, and all foliage should be removed from the centre of the plant to allow for better air flow."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

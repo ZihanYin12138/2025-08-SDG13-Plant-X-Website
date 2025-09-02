@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1771,
+      "species_id": 260,
+      "common_name": "Chinese Dogwood",
+      "scientific_name": [
+        "Cornus kousa 'var. chinensis'"
+      ],
+      "section": [
+        {
+          "id": 5518,
+          "type": "watering",
+          "description": "Chinese Dogwood plants should be watered about once a week, and the soil should be kept moist but not soggy. Water the plant slowly, soaking the root ball to ensure the moisture reaches the roots. During the summer months, it may be necessary to water them more often as the temperatures rise and soil begins to dry out quicker. Be mindful of over-watering, as standing water will lead to rotten roots."
+        },
+        {
+          "id": 5519,
+          "type": "sunlight",
+          "description": "Chinese Dogwood (Cornus kousa 'var. chinensis') prefers 4 to 6 hours of direct sunlight per day and does best when planted in part shade or dappled sunlight. When planted in an area with partial shade allows this species to benefit from the sun without being damanged from its heat and intensity. Exposure to full sun for will result in scorched leaves and less-than-desirable growth. Regardless of the amount of sun, it is important to ensure the sun exposure is even throughout the day, as periods of intense and prolonged sun can be damaging. "
+        },
+        {
+          "id": 5520,
+          "type": "pruning",
+          "description": "Chinese Dogwood should be pruned in late winter or early spring, before flowering. Pruning should begin when the shrub is 2 or 3 years old and should be limited to removal of dead or diseased wood, crossing branches, and thinning of shrub branches. For more mature shrubs, light pruning, such as removal of selected branches or thinning out the canopies may be done. Generally, no more than 1/3 of the upper branches should be removed at a time. This will help keep the shrub healthy and decrease the chances of death after pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

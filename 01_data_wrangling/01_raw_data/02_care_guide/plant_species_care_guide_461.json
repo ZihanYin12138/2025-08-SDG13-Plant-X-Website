@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1910,
+      "species_id": 461,
+      "common_name": "red maple",
+      "scientific_name": [
+        "Acer rubrum 'Columnare'"
+      ],
+      "section": [
+        {
+          "id": 5935,
+          "type": "watering",
+          "description": "For best results, red maple (Acer rubrum 'Columnare') should be watered deeply once a week during its active growing season, which typically occurs from spring to fall. Start by completely saturating the root ball until water runs out of the bottom of the container. If rainfall is insufficient, which is especially common in dry or windy climates, provide 1 inch of water every week, which is equivalent to 10-15 gallons for a 10-gallon pot. During winter dormancy, the frequency and amount of water can be reduced significantly. Provide only enough water to keep the soil slightly moist."
+        },
+        {
+          "id": 5936,
+          "type": "sunlight",
+          "description": "Red Maple (Acer rubrum 'Columnare') plants will grow best with a lot of sunlight, at least 6 hours of direct sunlight per day. However, these plants do grow in partial shade, such as morning sun and afternoon shade, or partial shade throughout the day. Ideal lighting for Red Maple trees includes periods of direct sun in the morning, followed by light shade in the afternoon. Direct afternoon sun should be avoided, as this can cause the leaves to become scorched."
+        },
+        {
+          "id": 5937,
+          "type": "pruning",
+          "description": "Red maple (Acer rubrum 'Columnare') should be pruned in late winter/early spring. Pruning can help improve its shape and overall appearance. Start by removing any dead, diseased, or broken branches. Next, selectively thin out any crossing, weak, or overcrowded branches to open up the canopy and allow light to reach all parts of the tree. Remove no more than 20-30% of the branches to avoid shock. Lastly, cut the remaining branches slightly above the desired height and shape, making sure to leave a small bud at the bottom of the cut to ensure new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

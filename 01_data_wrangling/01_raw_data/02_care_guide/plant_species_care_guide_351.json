@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 596,
+      "species_id": 351,
+      "common_name": "Akane Apple",
+      "scientific_name": [
+        "Malus 'Akane'"
+      ],
+      "section": [
+        {
+          "id": 1789,
+          "type": "watering",
+          "description": "Akane Apple plants should be watered frequently. Depending on the climate and temperature, you should water about 1-2 times a week. You should water the plant thoroughly until the water runs out of the drainage holes in the bottom of the pot. During summer, Akane Apple plants may need to be watered more frequently than in cooler weather. Make sure to check the soil moisture level before watering; if the soil is damp then skip the watering for that day. During periods of hot, dry weather, the plants may need to be watered daily."
+        },
+        {
+          "id": 1790,
+          "type": "sunlight",
+          "description": "Akane Apple plants need at least 6-8 hours of direct sunlight each day to thrive. Ideally, they should be planted in an area with full sun exposure that receives at least 6-8 hours of direct sunlight around noon. During the spring and summer months, Akane Apples require full sun throughout the day, but in the winter, a more filtered light from morning to midday sun is suitable."
+        },
+        {
+          "id": 1791,
+          "type": "pruning",
+          "description": "Akane apple trees should be pruned in late winter or early spring while they are still dormant. All dead, diseased, or crossing branches should be removed. Thinning of young shoots should also be done to help the Akane Apple tree develop a strong central leader. The spacing between outer branches should be wide enough to allow for good air flow. Additionally, pruning should be done every year in order to shape the tree and regulate fruit production. Heavy pruning may also be necessary every 3-5 years to keep the overall shape and size in check."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1908,
+      "species_id": 458,
+      "common_name": "Japanese maple",
+      "scientific_name": [
+        "Acer palmatum 'Shishio Improved'"
+      ],
+      "section": [
+        {
+          "id": 5929,
+          "type": "watering",
+          "description": "The Japanese maple (Acer palmatum 'Shishio Improved') requires regular but controlled watering for optimal growth. During the growing season (springthrough summer), the soil should be kept lightly moist but never soggy. Generally, watering 1-2 times a week in hotter climates and 1 inch of water per week in cooler climates is enough. During the cooler, dormant season (fall and winter) in climates with freezing temperatures, reduce the watering to a minimum. Wait to water until the top few inches of soil are dry."
+        },
+        {
+          "id": 5930,
+          "type": "sunlight",
+          "description": "Japanese maple (Acer palmatum 'Shishio Improved' ) prefers at least 3 to 4 hours of sunlight each day. It is typically grown in a spot that gets partial to full sun, though it is important to provide the tree with protection from winds and hot summer sun. Most Japanese maples prefer morning and early afternoon sun, and dappled shade during the late afternoon hours. "
+        },
+        {
+          "id": 5931,
+          "type": "pruning",
+          "description": "Japanese maple (Acer palmatum 'Shishio Improved') should be pruned twice a year: once in late winter and again in mid-summer. Prune this species lightly in late winter (January to March) to remove any dead, broken, or diseased branches, as well as any crossing branches that could be creating a congested appearance. In mid-summer (July to August), prune more heavily to help maintain the desired size and shape. When trimming, be sure to make your cuts on a slight angle and at a lateral node (where the branch attaches to another branch, or to the main trunk)."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

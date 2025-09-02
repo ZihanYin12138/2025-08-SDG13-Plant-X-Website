@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1740,
+      "species_id": 226,
+      "common_name": "Cripps Gold Falsecypress",
+      "scientific_name": [
+        "Chamaecyparis obtusa 'Crippsii'"
+      ],
+      "section": [
+        {
+          "id": 5425,
+          "type": "watering",
+          "description": "This plant species prefers moist, well-drained soil and should only be watered when it is dry. Generally, watering once a week is sufficient, however, during hot, dry weather water every 2-3 days. Water deeply, so the moisture penetrates the roots of the plant. It is important to never let the soil dry out completely, since the plant is sensitive to dryness and could die."
+        },
+        {
+          "id": 5426,
+          "type": "sunlight",
+          "description": "Cripps Gold Falsecypress requires at least 4 to 6 hours of direct sunlight per day. This species does best in full sun but can tolerate partial shade. During the summer months, when the days are the longest, it should receive at least 6 hours of direct sunlight to ensure proper growth. In the winter months, when days are shorter, it should receive at least 4 hours of direct sunlight."
+        },
+        {
+          "id": 5427,
+          "type": "pruning",
+          "description": "The Cripps Gold Falsecypress should be pruned in late winter or early spring for best results. Pruning should be light and should focus mainly on removing dead or damaged wood. Limbing up should be done judiciously, as these shrubs do not respond well to heavy pruning. Dead or dying branches can be cut close to the ground to help the health of the shrub. Overall, pruning of the Cripps Gold Falsecypress should be light and should focus on removing dead or damaged branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

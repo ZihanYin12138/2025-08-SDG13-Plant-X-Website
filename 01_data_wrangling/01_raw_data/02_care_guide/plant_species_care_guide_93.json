@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1627,
+      "species_id": 93,
+      "common_name": "Oshu Shidare Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Oshu Shidare'"
+      ],
+      "section": [
+        {
+          "id": 5086,
+          "type": "watering",
+          "description": "Water the Oshu Shidare Japanese Maple when the top inch of the soil is dry. This is most likely going to be twice a week in the summer months and every 7-10 days in the winter. If temperatures are higher, than it is likely that the plant will need more frequent watering than in the winter. When watering, make sure the soil is completely saturated and that there is no pooling at the base of the tree."
+        },
+        {
+          "id": 5087,
+          "type": "sunlight",
+          "description": "Oshu Shidare Japanese Maple (Acer palmatum 'Oshu Shidare') prefers bright indirect sunlight, which means several hours of direct sunlight per day without over-exposure to the intense heat of the afternoon sun. Ideally, this plant should be in a spot that provides approximately 4-6 hours of direct sunlight per day. However, in areas with hotter climates, it might require some protection from afternoon sun if it gets too intense. In cooler climates, it can handle more sunlight, and it might need some supplemental light in the winter months."
+        },
+        {
+          "id": 5088,
+          "type": "pruning",
+          "description": "Pruning of Oshu Shidare Japanese Maple should take place once a year, between late winter and early spring. Before cutting back large branches, check for signs of new growth. Trim any dead or diseased branches first to prevent the spread of disease. Cut off any branches that are growing up into the center of the tree to keep the shape, remove crossing branches and any wayward branches growing out to the side. Cut back long stems to limit height while keeping a rounded shape. Take a few inches off of the top of the tree to encourage bushier growth. Pruning too frequently or too heavily can reduce the density and size of the leaves."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

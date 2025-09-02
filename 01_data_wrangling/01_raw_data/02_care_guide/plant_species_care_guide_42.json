@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1584,
+      "species_id": 42,
+      "common_name": "Beni Tsukasa Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Beni Tsukasa'"
+      ],
+      "section": [
+        {
+          "id": 4939,
+          "type": "watering",
+          "description": "Water your Beni Tsukasa Japanese maple when the top inch of soil is dry to the touch. This usually requires watering once every week or 2 depending on the weather. Make sure to water thoroughly, as this variety of maple does not enjoy dry soil. During the warmer months, water the tree even more often, as Japanese maples are sensitive to drought. If you are unsure if the soil is dry or not, use your index finger to gauge the moisture: if it is damp, then the soil is still moist."
+        },
+        {
+          "id": 4940,
+          "type": "sunlight",
+          "description": "Acer palmatum 'Beni Tsukasa' Japanese maples prefer bright sunlight, but not direct sunlight, for at least a few hours a day in order to thrive. This species may receive full sun in cooler areas, however, in warmer areas indirect sunlight is necessary in order to protect the plant from heat stress and to prevent leaf burn. The ideal amount of light exposure should be filtered light in the late afternoon with shade at other times, or dappled light for roughly 3-4 hours throughout the day. Too much sun exposure may cause wilted and scorched leaves and the leaves may also become discolored or curl upwards along the edges. "
+        },
+        {
+          "id": 4941,
+          "type": "pruning",
+          "description": "Beni Tsukasa Japanese Maple should be pruned in late winter or early spring before any new growth begins. Generally, the pruning should be minimal so as to not disrupt the overall shape of the shrub too much. Dead or diseased branches should be removed, as well as any crossing branches or branches that may be partially blocking the view. Small branches can be pruned at a slight angle to promote growth, and larger branches can be pruned back to a side branch that can support the weight of the new shoots. This type of pruning requires good judgement and careful inspection of the tree to ensure that it maintains a balanced, attractive shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

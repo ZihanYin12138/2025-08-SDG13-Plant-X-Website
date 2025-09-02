@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "id": 23,
+      "common_name": "European canker (Necria canker)",
+      "scientific_name": "Nectria galligena",
+      "other_name": [
+        "Necria canker (European canker)"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is European canker (Neonectria ditissima)?",
+          "description": "European canker, caused by the fungus Neonectria ditissima (formerly Nectria galligena), is a plant disease. Apple and pear trees are commonly infected, while other susceptible plants include quince, hawthorn, and some ornamental shrubs. Symptoms include reddish-brown sunken areas on twigs, wilting of branches beyond the cankers, and the formation of concentric calluses. Fruit can also be affected, leading to calyx end rot and bull's-eye rot. Additionally,  European canker is a significant concern in orchards."
+        },
+        {
+          "subtitle": "How does European canker (Neonectria ditissima) occur?",
+          "description": "Apple canker is caused by a fungal pathogen that reproduces through spores. Infection occurs through leaf scars, wounds, pruning cuts, or broken twigs. Rain or irrigation spreads the spores, while airborne spores from older cankers can intensify the disease. The fungus invades the tree, damaging the bark and cambium layer, leading to the formation of cankers. These cankers produce spore-bearing structures, contributing to further spread and reproduction. "
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Control",
+          "description": "•\tSelect disease-resistant varieties when planting.\n•\tPrune infected branches during dry weather to remove cankers.\n•\tMaintain tree health through proper pruning, fertilization, and irrigation.\n•\tMinimize tree wounds and avoid unnecessary damage to the bark.\n•\tMonitor trees regularly for early signs of canker formation.\n•\tFollow cultural practices recommended for your specific region.\n"
+        },
+        {
+          "subtitle": "Fungicide Application (if necessary)",
+          "description": "•\tFor the control of European canker, fungicides like Captan 80 WDG, copper-based products (such as Bordeaux 8-8-100), C-O-C-S WDG, Copper-Count-N, Cuprofix Ultra 40 Disperss, Kocide 3000, Nu-Cop 50 DF, and Ziram 76 DF have been used.\n\n•\tEach fungicide has specific application rates and reentry intervals. It is important to consult local regulations and experts for accurate and up-to-date information on fungicide availability and usage for European canker control in your area.\n"
+        }
+      ],
+      "host": [
+        "apple",
+        "pear"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/23_nectria_galligena/og/Baumkrebs_28Nectria_galligena29.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/23_nectria_galligena/regular/Baumkrebs_28Nectria_galligena29.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/23_nectria_galligena/medium/Baumkrebs_28Nectria_galligena29.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/23_nectria_galligena/small/Baumkrebs_28Nectria_galligena29.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/23_nectria_galligena/thumbnail/Baumkrebs_28Nectria_galligena29.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/23_n/og/Nectria_galligena.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/23_n/regular/Nectria_galligena.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/23_n/medium/Nectria_galligena.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/23_n/small/Nectria_galligena.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/23_n/thumbnail/Nectria_galligena.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/23_n/og/N.galligena_canker.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/23_n/regular/N.galligena_canker.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/23_n/medium/N.galligena_canker.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/23_n/small/N.galligena_canker.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/23_n/thumbnail/N.galligena_canker.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

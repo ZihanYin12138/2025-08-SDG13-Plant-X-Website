@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1663,
+      "species_id": 134,
+      "common_name": "Tsuri Nishiki Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Tsuri Nishiki'"
+      ],
+      "section": [
+        {
+          "id": 5194,
+          "type": "watering",
+          "description": "Tsuri Nishiki Japanese Maple trees should be watered deeply and regularly, especially during the first 2 to 3 years of growth. For established trees, water once to twice a week during warm weather. For young trees, provide 1 to 2 inches of water per week. During droughts, water more often. Ensure the soil around the tree is moist but not soggy. When watering, let the water soak into the soil until it has penetrated the root zone, typically 8-12 inches deep. If possible, use soaker hoses or an irrigation system to avoid damaging the tree with runoff. Water in the early morning to discourage fungal diseases."
+        },
+        {
+          "id": 5195,
+          "type": "sunlight",
+          "description": "Tsuri Nishiki Japanese Maple (Acer palmatum 'Tsuri Nishiki') grows best when exposed to full sun in the early morning and afternoon with some shade during the hottest parts of the day. This requires at least 6 hours of direct sunlight per day in order to thrive. In regions that experience high levels of intense sunshine, Tsuri Nishiki Japanese Maple should be planted in a location where it will get some afternoon shade."
+        },
+        {
+          "id": 5196,
+          "type": "pruning",
+          "description": "Pruning should be done in late winter or early spring just before new growth begins, about 1 month before the tree leafs out. Pruning should focus on shaping the tree and removing any unbalanced, excess, crossing, or inviable branches. To shape the tree, remove 1/3 of the previous season’s growth by cutting the leader back to a well formed bud. Thinning out the tree’s canopy and removing horizontal branches will also improve the plant’s health by providing more light and air circulation. It is also important to periodically check for any dead or diseased branches that need to be removed. Overall, periodic pruning will keep the Tsuri Nishiki Japanese Maple looking healthy and attractive for years to come."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

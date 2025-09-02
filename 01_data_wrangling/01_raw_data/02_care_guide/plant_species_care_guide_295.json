@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1792,
+      "species_id": 295,
+      "common_name": "Patmore Green Ash",
+      "scientific_name": [
+        "Fraxinus pennsylvanica 'Patmore'"
+      ],
+      "section": [
+        {
+          "id": 5581,
+          "type": "watering",
+          "description": "The Patmore Green Ash is a drought-tolerant shrub that does best with regular watering. It should be watered once a week, using enough to moisten the soil to a depth of 8-12 inches. If the weather is particularly hot or dry, it is beneficial to water more frequently but use a bit less at each watering. Always check the soil before watering to make sure it actually needs it."
+        },
+        {
+          "id": 5582,
+          "type": "sunlight",
+          "description": "Patmore Green Ash requires full sunlight for 6 to 8 hours per day for best growth and appearance. While it will tolerate some shade, it will be less vigorous with reduced flowering and fruiting. This species grows best in locations with light morning sun and afternoon shade during the summer. In the northern part of its range, it may be grown with full sun all day without any ill effects, but throughout the range, it should be protected from the hottest afternoon sun in summer."
+        },
+        {
+          "id": 5583,
+          "type": "pruning",
+          "description": "Generally speaking, Patmore Green Ash should be pruned in late winter or early spring. It is especially important to prune this type of tree in the winter season at a time when it is still dormant. Pruning should be done before any sign of growth has begun.\n\nGenerally speaking, pruning should begin when the tree is young in order to create a strong, aesthetically pleasing structure while avoiding making drastic changes in later years. Depending on the desired size and shape, established trees should be pruned to maintain their structure. Remove dead, weak, or diseased branches as well as crossing branches, and any branches that hang too low. When pruning, be sure to make clean cuts above a side shoot or bud. This will ensure that any future growth will occur in the desired manner. Finally, be sure to avoid any extreme pruning practices."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

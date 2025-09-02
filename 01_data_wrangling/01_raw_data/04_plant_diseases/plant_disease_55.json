@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "id": 55,
+      "common_name": "White mold",
+      "scientific_name": "Sclerotinia sclerotiorum",
+      "other_name": [
+        "Cottony soft rot (white mold)",
+        "White mold (Cottony soft rot)"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": " What is White mold (Sclerotinia sclerotiorum)?",
+          "description": "White mold, caused by the fungus Sclerotinia sclerotiorum, is a disease that affects various crops worldwide. It has a wide distribution, occurring in regions with cool and moist conditions. Infected plants include soybeans, sunflowers, canola, beans, lettuce, and other susceptible crops. Symptoms of white mold include wilting stems, gray-green or brown leaves, and the presence of white, cottony mycelium and black, hard sclerotia on stems or in the soil."
+        },
+        {
+          "subtitle": "How does White mold (Sclerotinia sclerotiorum) occur?",
+          "description": "It reproduces through the production of small, hard, black sclerotia, which can survive in the soil for several years. These structures are formed from mycelium that colonizes plant tissues and can germinate and produce new fungal growth when environmental conditions are favorable. \nThe fungus can also produce spores called ascospores, which are dispersed by wind and rain and can infect plants through wounds or natural openings. Once inside the host, the fungus spreads through the plant's vascular system, causing extensive damage and often leading to the death of the infected plant."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices for Prevention and Management",
+          "description": "•\tCrop rotation: Rotate with non-host crops like corn or small grains to reduce the buildup of the pathogen in the soil.\n\n•\tProper spacing: Use wider row spacing to improve air circulation and reduce humidity within the crop canopy, creating unfavorable conditions for disease development.\n\n•\tTimely planting: Avoid planting during periods of high humidity or when the weather conditions favor the disease.\n\n•\tGood field sanitation: Remove crop debris and plant residues to reduce overwintering of the pathogen.\n\n•\tPlant resistant varieties: Choose soybean or other crop varieties bred for resistance to white mold.\n"
+        },
+        {
+          "subtitle": "Biological control",
+          "description": "Some biological control agents, such as Trichoderma and Bacillus, have shown potential in suppressing the growth of Sclerotinia sclerotiorum.\nIt is important to note that specific fungicides, their efficacy, and application recommendations may vary depending on the region, crop, and local regulations."
+        },
+        {
+          "subtitle": "Chemical control",
+          "description": "Here are a few examples of fungicides commonly used for white mold control caused by Sclerotinia sclerotiorum\n\n•\tBoscalid: This fungicide is available under various trade names such as Endura, Emerald, and Serenade ASO.\n\n•\tPyraclostrobin: Fungicides like Headline and Cabrio contain pyraclostrobin as an active ingredient, which provides control against white mold.\n\n•\tAzoxystrobin: Products such as Quadris and Amistar contain azoxystrobin, which is effective against Sclerotinia diseases.\n\n•\tThiophanate-methyl: Fungicides like Topsin-M and T-Methyl contain thiophanate-methyl and can be used for white mold management.\n\nIt is important to note that specific fungicides, their efficacy, and application recommendations may vary depending on the region, crop, and local regulations.\n"
+        }
+      ],
+      "host": [
+        "beans",
+        "carrot",
+        "cucurbits",
+        "tomato"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/55_sclerotinia_sclerotiorum/og/Sclerotinia_sclerotiorum_at_Phaseolus_vulgaris2C_sclerotiC3ABnrot_stamsperzieboon.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/55_sclerotinia_sclerotiorum/regular/Sclerotinia_sclerotiorum_at_Phaseolus_vulgaris2C_sclerotiC3ABnrot_stamsperzieboon.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/55_sclerotinia_sclerotiorum/medium/Sclerotinia_sclerotiorum_at_Phaseolus_vulgaris2C_sclerotiC3ABnrot_stamsperzieboon.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/55_sclerotinia_sclerotiorum/small/Sclerotinia_sclerotiorum_at_Phaseolus_vulgaris2C_sclerotiC3ABnrot_stamsperzieboon.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/55_sclerotinia_sclerotiorum/thumbnail/Sclerotinia_sclerotiorum_at_Phaseolus_vulgaris2C_sclerotiC3ABnrot_stamsperzieboon.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

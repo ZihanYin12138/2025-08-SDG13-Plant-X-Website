@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1876,
+      "species_id": 420,
+      "common_name": "Korean fir",
+      "scientific_name": [
+        "Abies koreana 'Silberlocke'"
+      ],
+      "section": [
+        {
+          "id": 5833,
+          "type": "watering",
+          "description": "Korean fir (Abies koreana 'Silberlocke') should be watered once a week and needs about 1 inch of water each time. Water should be applied to the soil, not directly on the plant. You should water the soil around the plant until it is moist but not saturated, allowing the soil to dry slightly between waterings. If the soil is dry 2 inches below the surface, this is an indication that it is time to water again. In the hotter months, it may be necessary to water more often."
+        },
+        {
+          "id": 5834,
+          "type": "sunlight",
+          "description": "Korean fir (Abies koreana 'Silberlocke') grow best in full sunlight. In climates with hot summers, Korean firs benefit from partial shade in the afternoon to protect them from the intense sun. Ideally, these trees need 5 to 8 hours of direct sun each day."
+        },
+        {
+          "id": 5835,
+          "type": "pruning",
+          "description": "For Korean fir (Abies koreana 'Silberlocke'), the best time to prune is in late winter or early spring, as this is when the tree is in its dormancy period. Pruning during this time will help to maintain the shape and structure of the tree and it is also the best time for pruning away dead and diseased branches. Be sure to use sharp pruning shears and make cuts at the ridge where 2 branches meet. Prune lightly and avoid any severe pruning that could damage the tree. Even though light pruning is a good maintenance practice for Korean fir, it is not necessary to do so every year. Pruning only needs to be performed when necessary to maintain the shape or health of the tree. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

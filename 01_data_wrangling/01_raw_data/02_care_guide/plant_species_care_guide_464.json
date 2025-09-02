@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1913,
+      "species_id": 464,
+      "common_name": "red maple",
+      "scientific_name": [
+        "Acer rubrum 'Northwood'"
+      ],
+      "section": [
+        {
+          "id": 5944,
+          "type": "watering",
+          "description": "Red maple (Acer rubrum 'Northwood') prefers a moist, well-draining soil and should be watered 1-2 times a week in the growing season (spring through fall). Allow the soil to dry out slightly between waterings, about 1 inch deep. In hot, dry climates, water more frequently in the summer, usually every 3-4 days like any other tree. During the winter, this species should not need supplemental water unless the soil is very dry."
+        },
+        {
+          "id": 5945,
+          "type": "sunlight",
+          "description": "Red Maple (Acer rubrum 'Northwood') should receive at least 6 to 8 hours of direct sunlight each day in order to grow at its best. This amount of sunlight is optimal, but the plant will still survive with a bit less sunlight. It is best to plant this tree in an area that gets 4 hours of sun and 4 hours of partial shade daily. Red Maple prefers morning sun and afternoon shade in order to prevent it from drying out too quickly. It should be noted that intense, direct sunlight for more than 8 hours in a day can lead to leaf burn or foliage discoloration of Red Maple trees."
+        },
+        {
+          "id": 5946,
+          "type": "pruning",
+          "description": "Red maple (Acer rubrum 'Northwood') should be pruned in late winter or early spring, before the new shoots start to appear. Prune out dead or weak branches to maintain a strong canopy and to help promote healthier growth. Remove any badly shaped or crossing branches, thin out congested areas and cut back branches that are crowding your house or garden structures. Pruning should be moderate – removing no more than 1/4 of the tree at any session – as too much pruning can cause damage or create an unbalanced look."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

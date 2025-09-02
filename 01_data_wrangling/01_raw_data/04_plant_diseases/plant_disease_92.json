@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "id": 92,
+      "common_name": "Cercospora leaf spot",
+      "scientific_name": "Cercospora carotae",
+      "other_name": [
+        "Leaf spot Cercospora"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Cercospora leaf blight  (Cercospora carotae)?",
+          "description": "Cercospora leaf blights, caused by the fungus Cercospora carotae, are fungal diseases primarily affecting leaves and petioles, resulting in yield loss due to brittle petioles breaking during harvest. Symptoms manifest as circular tan-brown spots that coalesce into larger areas, causing yellowing, browning, and necrosis of leaves. Blighted leaves collapse and remain attached to the crown, while heart leaves show lesser impact, remaining green. "
+        },
+        {
+          "subtitle": "How does Cercospora leaf blight (Cercospora carotae) occur?",
+          "description": "The fungi causing Cercospora leaf blight can persist for up to 2 years in plant debris and wild hosts like Queen Anne's lace. Contaminated seeds play a significant role in their transmission. \nSpores are spread by wind, water, and field equipment during the growing season. In humid conditions, Cercospora lesions develop pale gray undersides with black spore-producing structures. Lesions expand, causing leaflets to wither and exhibit a burnt appearance. Prolonged leaf wetness allows spores to enter through pores, resulting in lesions appearing 3-5 days later and becoming a source of new infection."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Use Disease-Tolerant Varieties and Crop Rotations",
+          "description": "•\tOpt for varieties that have demonstrated tolerance to the diseases.\n\n•\tTolerant varieties show delayed disease onset, slower spread, lower losses, and reduced reliance on fungicide treatments.\n\n•\tFollow a three-year crop rotation plan to break disease cycles and minimize the buildup of pathogens in the soil.\n"
+        },
+        {
+          "subtitle": "Ensure Clean Seed and Timely Irrigation",
+          "description": "•\tPurchase high-quality seeds from reputable dealers to avoid introducing disease-causing spores into your field.\n\n•\tWater plants early in the day to allow foliage to dry thoroughly, minimizing prolonged leaf wetness that favors disease development.\n"
+        },
+        {
+          "subtitle": "Select Well-Drained Sites and Prompt Debris Incorporation",
+          "description": "•\tWhen establishing new fields, choose locations with good drainage to prevent excessive soil moisture, which can contribute to disease development.\n\n•\tImmediately incorporate plant debris after harvest to accelerate the decomposition of infected material, reducing the survival and spread of pathogens.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "•\tCopper-based fungicides, such as Bordeaux mixture, copper hydroxide, and copper sulfate, are commonly used to manage Cercospora and Alternaria leaf blights. \n\n•\tOther fungicides like Chlorothalonil (Bravo, Daconil), Mancozeb (Dithane, Manzate), Azoxystrobin (Quadris), and Pyraclostrobin (Cabrio) are also effective options. \n\n•\tIt is important to refer to local guidelines and follow the specific label instructions for proper and safe use of these fungicides.\n"
+        }
+      ],
+      "host": [
+        "carrot"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/92_cercospora_carotae/og/3024px-Spinach-_Cercospora_leaf_spot_-_2.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/92_cercospora_carotae/regular/3024px-Spinach-_Cercospora_leaf_spot_-_2.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/92_cercospora_carotae/medium/3024px-Spinach-_Cercospora_leaf_spot_-_2.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/92_cercospora_carotae/small/3024px-Spinach-_Cercospora_leaf_spot_-_2.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/92_cercospora_carotae/thumbnail/3024px-Spinach-_Cercospora_leaf_spot_-_2.jpg"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
