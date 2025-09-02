@@ -1,0 +1,105 @@
+{
+  "id": 541,
+  "common_name": "ladybells",
+  "scientific_name": [
+    "Adenophora 'Amethyst'"
+  ],
+  "other_name": [],
+  "family": "Campanulaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Amethyst",
+  "variety": null,
+  "species_epithet": "'Amethyst'",
+  "genus": "Adenophora",
+  "origin": [
+    "Japan"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1.5,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Seed Propagation",
+    "Cutting"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=541&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=541&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=541&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Ladybells (Adenophora 'Amethyst') is a stunning perennial plant with eye-catching purple blooms. This showy, low maintenance, and drought tolerant variety of ladybells is the perfect addition to any landscape. Its tall, spire-like stems and bell-shaped flowers provide an attractive display of color and texture, making it the focal point of any garden. Ladybells bloom in summer, producing blooms that are not only delicate in appearance but also fragrant, attracting plenty of pollinators throughout the season. It is also great for cut flowers, bringing elegance to any bouquet. With it's easy care, long blooming period and attractive look, Ladybells (Adenophora 'Amethyst') is an amazing plant for the garden.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/541_adenophora_amethyst/og/2448px-Adenophora_cf._aurita_282098345350529.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/541_adenophora_amethyst/regular/2448px-Adenophora_cf._aurita_282098345350529.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/541_adenophora_amethyst/medium/2448px-Adenophora_cf._aurita_282098345350529.jpg",
+    "small_url": "https://perenual.com/storage/species_image/541_adenophora_amethyst/small/2448px-Adenophora_cf._aurita_282098345350529.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/541_adenophora_amethyst/thumbnail/2448px-Adenophora_cf._aurita_282098345350529.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,148 @@
+{
+  "id": 499,
+  "common_name": "yarrow",
+  "scientific_name": [
+    "Achillea 'Terracotta'"
+  ],
+  "other_name": [],
+  "family": "Asteraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Terracotta",
+  "variety": null,
+  "species_epithet": "'Terracotta'",
+  "genus": "Achillea",
+  "origin": [
+    "Germany",
+    "Austria",
+    "Switzerland",
+    "France",
+    "Italy",
+    "Slovenia",
+    "Croatia",
+    "Bosnia and Herzegovina",
+    "Serbia",
+    "Montenegro",
+    "Albania",
+    "Bulgaria",
+    "Romania",
+    "Ukraine",
+    "Moldova",
+    "Belarus",
+    "Poland",
+    "Czech Republic",
+    "Slovakia",
+    "Hungary"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2.5,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Layering Propagation",
+    "Seed Propagation",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=499&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=499&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "yellow-pink"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "brown-green",
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=499&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Achillea 'Terracotta' - more commonly known as yarrow - is an amazing plant species for any home gardener. Its beautiful terracotta-coloured blooms add an eye-catching splash of colour in any garden, while its natural air freshening properties help naturally deter pests. Plus, its easy to maintain - once established, it's drought-tolerant and loves the sun! Its blooming season is usually mid to late spring, and its pollinator-friendly flowers will attract and sustain wildlife in the garden. A classic, low maintenance plant choice for any garden, Achillea 'Terracotta' is a great addition to any outdoor space.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/499_achillea_terracotta/og/51814554903_89600efb50_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/499_achillea_terracotta/regular/51814554903_89600efb50_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/499_achillea_terracotta/medium/51814554903_89600efb50_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/499_achillea_terracotta/small/51814554903_89600efb50_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/499_achillea_terracotta/thumbnail/51814554903_89600efb50_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

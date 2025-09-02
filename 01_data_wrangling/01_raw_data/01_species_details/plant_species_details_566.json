@@ -1,0 +1,137 @@
+{
+  "id": 566,
+  "common_name": "bottlebrush buckeye",
+  "scientific_name": [
+    "Aesculus parviflora var. serotina 'Rogers'"
+  ],
+  "other_name": [],
+  "family": "Sapindaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Rogers",
+  "variety": "var. serotina ",
+  "species_epithet": "parviflora",
+  "genus": "Aesculus",
+  "origin": [
+    "United States"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 15,
+      "max_value": 20,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=566&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=566&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "dark-green",
+        "green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green",
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "February",
+    "March",
+    "June",
+    "July",
+    "August",
+    "June",
+    "July"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=566&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Bottlebrush buckeye (Aesculus parviflora var. serotina 'Rogers') is the perfect addition to any outdoor garden! With its iconic, brush like light pink flowers, this deciduous shrub provides a showy display in the summer and grows 3-4 feet in height and width. The eye-catching flowers give way to clusters of dark green leaves which provide much-needed shade in the summer. In the fall, its leaves turn a golden yellow, adding to the drama in the garden. Deer resistant and low maintenance, bottlebrush buckeye works well in both full and partial sun, making it a great choice for any garden. For a remarkably beautiful and fuss-free shrub, bottlebrush buckeye is an amazing choice!",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/566_aesculus_parviflora_var_serotina_rogers/og/28089233630_b73187a52c_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/566_aesculus_parviflora_var_serotina_rogers/regular/28089233630_b73187a52c_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/566_aesculus_parviflora_var_serotina_rogers/medium/28089233630_b73187a52c_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/566_aesculus_parviflora_var_serotina_rogers/small/28089233630_b73187a52c_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/566_aesculus_parviflora_var_serotina_rogers/thumbnail/28089233630_b73187a52c_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

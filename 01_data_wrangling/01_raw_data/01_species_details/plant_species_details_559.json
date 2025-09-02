@@ -1,0 +1,147 @@
+{
+  "id": 559,
+  "common_name": "Ohio buckeye",
+  "scientific_name": [
+    "Aesculus glabra"
+  ],
+  "other_name": [
+    "Fetid Buckeye"
+  ],
+  "family": "Sapindaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "glabra",
+  "genus": "Aesculus",
+  "origin": [
+    "Eastern United States and Canada"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 20,
+      "max_value": 40,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Hummingbirds",
+    " Butterflies"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Division"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=559&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=559&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "branches",
+      "color": [
+        "brown-gray",
+        "brown"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green",
+        "red-green"
+      ]
+    },
+    {
+      "part": "blooms",
+      "color": [
+        "yellow-colored"
+      ]
+    },
+    {
+      "part": "trunk",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=559&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Humus Enriched"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": true,
+  "poisonous_to_pets": true,
+  "description": "The Ohio buckeye is a hardy, impressive tree species native to the United States. Its iconic fruits, resembling chocolate brown eyes, are a telltale sign of the Ohio buckeye’s presence. The leaves of the tree are five to six inches across, and are attractive, shiny and deep green. During the fall season the tree boasts attractive clusters of yellow and white flowers that provide nectar to helpful pollinators. The Ohio buckeye is an amazing species - it was designated as the state tree of Ohio in 1953 and is revered as a symbol of strength and endurance.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/559_aesculus_glabra/og/51160864937_6edf9e8aa9_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/559_aesculus_glabra/regular/51160864937_6edf9e8aa9_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/559_aesculus_glabra/medium/51160864937_6edf9e8aa9_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/559_aesculus_glabra/small/51160864937_6edf9e8aa9_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/559_aesculus_glabra/thumbnail/51160864937_6edf9e8aa9_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
