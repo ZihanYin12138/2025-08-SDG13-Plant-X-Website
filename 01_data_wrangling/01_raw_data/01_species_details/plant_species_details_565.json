@@ -1,0 +1,129 @@
+{
+  "id": 565,
+  "common_name": "bottlebrush buckeye",
+  "scientific_name": [
+    "Aesculus parviflora var. serotina"
+  ],
+  "other_name": [],
+  "family": "Sapindaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": "var. serotina",
+  "species_epithet": "parviflora",
+  "genus": "Aesculus",
+  "origin": [
+    "Southeastern United States"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 15,
+      "max_value": 20,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Division"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=565&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=565&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "dark-green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=565&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Summer",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": true,
+  "description": "The Bottlebrush Buckeye is an amazing plant species due to its unique appearance. It has beautiful white flowers, lush green foliage, and bright red bottlebrush-like fruits that draw the eye. It grows quickly and can reach up to 10 feet in height once mature. This deciduous shrub is hardy and can tolerate long periods of drought. Furthermore, its berries provide food for birds and small mammals, making it an ideal landscape addition for wild gardens. Its drought-tolerance combined with beautiful blooms and berries make Bottlebrush Buckeye an incredibly valuable species for providing visual appeal and habitat to your outdoor space.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/565_aesculus_parviflora_var_serotina/og/28238289635_615c9a43dd_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/565_aesculus_parviflora_var_serotina/regular/28238289635_615c9a43dd_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/565_aesculus_parviflora_var_serotina/medium/28238289635_615c9a43dd_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/565_aesculus_parviflora_var_serotina/small/28238289635_615c9a43dd_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/565_aesculus_parviflora_var_serotina/thumbnail/28238289635_615c9a43dd_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,112 @@
+{
+  "id": 530,
+  "common_name": "bugbane",
+  "scientific_name": [
+    "Actaea simplex (Atropurpurea Group) 'Black Negligee'"
+  ],
+  "other_name": [
+    "cimicifuga"
+  ],
+  "family": "Ranunculaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Black Negligee",
+  "variety": null,
+  "species_epithet": "simplex",
+  "genus": "Actaea",
+  "origin": [
+    "Central",
+    "west Asia"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 4,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=530&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=530&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "deep shade",
+    "filtered shade",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=530&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Humus rich",
+    " Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Rust"
+  ],
+  "flowers": true,
+  "flowering_season": "Summer",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Bugbane is an amazing plant species for two main reasons. Firstly, its unique look, with a clump of dark, bold foliage highlighted with feathery white flower clusters in late summer, makes it a stunning feature in the garden. Secondly, its resilience–resistant to drought and common garden pests, it's also tolerant of partial shade and sandy, clay or loam soil. With beautiful colors, graceful foliage and a low maintenance approach, bugbane is a great addition to any garden or landscape.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/530_actaea_simplex_atropurpurea_group_black_negligee/og/6195900163_28e83a7771_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/530_actaea_simplex_atropurpurea_group_black_negligee/regular/6195900163_28e83a7771_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/530_actaea_simplex_atropurpurea_group_black_negligee/medium/6195900163_28e83a7771_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/530_actaea_simplex_atropurpurea_group_black_negligee/small/6195900163_28e83a7771_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/530_actaea_simplex_atropurpurea_group_black_negligee/thumbnail/6195900163_28e83a7771_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
