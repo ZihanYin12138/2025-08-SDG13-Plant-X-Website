@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1957,
+      "species_id": 518,
+      "common_name": "grassy-leaved sweet flag",
+      "scientific_name": [
+        "Acorus gramineus 'Ogon'"
+      ],
+      "section": [
+        {
+          "id": 6076,
+          "type": "watering",
+          "description": "Grassy-leaved sweet flag (Acorus gramineus 'Ogon') plants should be watered approximately once a week. Initially, the plant should be checked for soil moisture prior to watering, as its roots prefer consistently moist soil. If the soil feels dry to the touch, water the plant thoroughly, until water begins to gently drain out of the bottom of the pot. Allow the soil to dry out slightly between waterings. During the summer, its soil might need to be watered more often to ensure that it remains adequately moist. The plant should also be misted occasionally with clean water, especially during drier or warmer months."
+        },
+        {
+          "id": 6077,
+          "type": "sunlight",
+          "description": "Grassy-leaved sweet flag (Acorus gramineus ‘Ogon’) grows best in bright, indirect sunlight for 4 – 6 hours a day. The plant’s variegated foliage thrives in partial shade, making it an ideal accent for the shaded spots in your garden. If you’re growing your plants inside, make sure to place them next to a north-facing window."
+        },
+        {
+          "id": 6078,
+          "type": "pruning",
+          "description": "Grassy-leaved sweet flag (Acorus gramineus 'Ogon') is generally a low-maintenance plant, and it doesn't require much pruning. It should be lightly trimmed during the late spring and early summer to help it maintain a neat and compact shape. Pruning instructions will vary depending on the size of the plant and its intended shape. Generally, prune all dead or diseased stems as soon as possible. If it is necessary to prune back healthy growth, cut the stems back to the original height or shorter. A light shaping when needed also helps maintain the desired shape. You may also want to remove any flower spikes that form, to keep the plant from spreading through seed production. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

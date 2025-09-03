@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 572,
+      "species_id": 510,
+      "common_name": "monkshood",
+      "scientific_name": [
+        "Aconitum napellus"
+      ],
+      "section": [
+        {
+          "id": 1713,
+          "type": "watering",
+          "description": "Monkshood should be watered moderately throughout its growing season. Water your monkshood plants deeply once a week, allowing the soil to become slightly dry between waterings. Give Monkshood a deep watering that saturates the entire root zone and that thoroughly moistens the soil to a depth of several inches. Monkshood is a fairly drought tolerant species, however, during the hottest weeks of summer, it is best to water the monkshood plants more frequently to help resist wilting."
+        },
+        {
+          "id": 1716,
+          "type": "sunlight",
+          "description": "Monkshood (Aconitum napellus) is typically best grown in partial shade, so it should be given 2-4 hours of sunlight per day. Monkshood should not be exposed to the hottest, brightest hours of the day, which are typically midday, as this could potentially damage the leaves. For best results, monkshood should be provided with morning or late afternoon sunlight."
+        },
+        {
+          "id": 1719,
+          "type": "pruning",
+          "description": "Monkshood (Aconitum napellus) should be pruned to keep plants in a compact shape and size. Pruning should be done in the spring, with plants cut back to just above the ground after flowering is finished. You should remove any damaged, dead, or crossing branches, taking care to leave enough healthy green shoots so that no more than 1/3 of the total plant is removed at any time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

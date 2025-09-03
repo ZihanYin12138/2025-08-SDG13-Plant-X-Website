@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 500,
+      "species_id": 561,
+      "common_name": "horse chestnut",
+      "scientific_name": [
+        "Aesculus hippocastanum"
+      ],
+      "section": [
+        {
+          "id": 1503,
+          "type": "watering",
+          "description": "Horse chestnut plants need to be watered thoroughly about once a week in spring and summer, and every 10-14 days in fall and winter. Water in the morning and be sure to evenly saturate the soil. Water until the top 2-3 inches of soil are damp and the soil has an even consistency. Avoid overwatering and avoid allowing the soil to become soggy or muddy. Discontinue watering in late fall or winter, when the weather is cooler and the soil is dry."
+        },
+        {
+          "id": 1504,
+          "type": "sunlight",
+          "description": "Horse chestnut (Aesculus hippocastanum) prefers full sun to partial shade, with 6-8 hours of direct sunlight per day. Too much sun can cause the leaves to brown specifically on the tip, so it's important to make sure the plant is not receiving too much sun. To give horse chestnut the best chance of thriving, it should be placed in an area that receives both morning and afternoon sunlight, and is protected from strong winds."
+        },
+        {
+          "id": 1505,
+          "type": "pruning",
+          "description": "Pruning of a horse chestnut tree (Aesculus hippocastanum) should be done in early to mid-spring before the flowers appear. You should use pruning shears, loppers, or a pruning saw. The amount of pruning can vary depending on the size and age of the plant. Young trees should not be pruned excessively as this will slow growth and prevent the development of a strong central leader. For trees that have reached maturity, prune to maintain shape and size by removing branches that are crossing, dead, diseased, or rubbing against each other. For deadwood, remove only 1/3 of the branches each year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

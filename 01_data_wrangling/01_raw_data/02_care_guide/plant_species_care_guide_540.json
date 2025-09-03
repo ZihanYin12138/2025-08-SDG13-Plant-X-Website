@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 477,
+      "species_id": 540,
+      "common_name": "desert rose",
+      "scientific_name": [
+        "Adenium obesum"
+      ],
+      "section": [
+        {
+          "id": 1434,
+          "type": "watering",
+          "description": "As a general guideline, the Desert Rose should be watered about once a week, providing enough water to moisten the soil to a depth of about 8-10 inches. In the winter months or in cooler climates, water the plant less frequently, allowing the top 3-4 inches of soil to become dry before more water is added. For each watering, aim for at least a quart of water per plant. When watering, try to avoid getting the plant leaves wet, as this can encourage rot."
+        },
+        {
+          "id": 1436,
+          "type": "sunlight",
+          "description": "Desert roses prefer lots of sunlight during their growing season. They thrive in areas with at least 6 hours of direct sunlight per day, with the best option being 8 to 10 hours of full sun. They should receive the most sunlight possible during the morning and late afternoon. Because they are adapted to hot, dry climates, desert roses can also be placed in direct sunlight in the middle of the day when the sun is strongest."
+        },
+        {
+          "id": 1438,
+          "type": "pruning",
+          "description": "To maintain a healthy shape and promote flowering, Desert Rose should be pruned lightly throughout the growing season. Pruning should focus on removing long shoots, crossing branches and weak growth. In late winter, each stem should be trimmed back by 1/3 to promote bushier growth. It's important to avoid pruning back too much at once, as Desert Rose can become overly stressed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

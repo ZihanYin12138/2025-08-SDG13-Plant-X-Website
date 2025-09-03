@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1971,
+      "species_id": 535,
+      "common_name": "hardy kiwi vine",
+      "scientific_name": [
+        "Actinidia arguta 'Issai'"
+      ],
+      "section": [
+        {
+          "id": 6118,
+          "type": "watering",
+          "description": "Hardy kiwi vines (Actinidia arguta 'Issai') should be watered once a week from spring to fall. The vines should be given enough water so that it soaks into the soil to a depth of about 8 inches. In the hot summer months, plants may need to be watered twice a week. During the winter months, water only enough to keep the soil just slightly moist. Avoid over-watering at all times."
+        },
+        {
+          "id": 6119,
+          "type": "sunlight",
+          "description": "Hardy kiwi vines (Actinidia arguta 'Issai') require 4-6 hours of direct sunlight per day, preferably in the morning. If the vine is grown in hot climates, shady spots or afternoon shade is recommended.\nWhen grown in the ground, these vines should be planted in a location with full sun most of the day. If grown in containers, they should be moved around during the day to ensure the vine has direct sunlight."
+        },
+        {
+          "id": 6120,
+          "type": "pruning",
+          "description": "Hardy kiwi vines (Actinidia arguta 'Issai') should be pruned every year during the winter months once the vines have gone dormant. Pruning should be done to remove weak or damaged stems, as well as to shape the plant and promote growth of new, desirable stems. Since these vines can get quite large and rambling, you may also need to do light pruning throughout the summer to keep it in the desired shape. Heavy pruning isn't recommended as it can damage new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

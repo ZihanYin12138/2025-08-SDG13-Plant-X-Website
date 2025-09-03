@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1985,
+      "species_id": 557,
+      "common_name": "Chinese horse chestnut",
+      "scientific_name": [
+        "Aesculus chinensis"
+      ],
+      "section": [
+        {
+          "id": 6160,
+          "type": "watering",
+          "description": "Chinese horse chestnuts require moist but well-draining soil. You should water them deeply and then allow the soil to dry out slightly between waterings. Water the tree at least once a week in the summer, and once every 2 to 3 weeks during other times of the year. During periods of extreme heat it may be necessary to water more frequently."
+        },
+        {
+          "id": 6161,
+          "type": "sunlight",
+          "description": "Chinese horse chestnuts (Aesculus chinensis) require between 4 and 6 hours of direct sunlight each day. The best time to ensure the plant is getting optimal sunlight is to place it in an area that receives sun from about 8:00 am to approximately 2:00 pm with no shade or clouds blocking the rays. While the plant may survive without optimal sunlight, it will not perform as well without the proper amount of direct sunlight exposure."
+        },
+        {
+          "id": 6162,
+          "type": "pruning",
+          "description": "Pruning Chinese horse chestnuts is important in order to ensure a healthy and attractive tree. Pruning should begin shortly after the tree is planted, and should continue periodically throughout the tree's life. Young trees should be pruned in late winter or early spring, just before growth begins, with the goal of creating a strong, well-branched structure. This should include removal of any significant crossing branches, as well as any dead, crowded, or diseased limbs. Around the tree's fourth or fifth year, conservative thinning pruning may also be undertaken; that is, removing a portion of densely clustered branches to encourage better air circulation and light penetration. In subsequent years, heading back and selective thinning pruning should be done to provide shape and balance, as well as to control size. This should be performed in late summer or early fall."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

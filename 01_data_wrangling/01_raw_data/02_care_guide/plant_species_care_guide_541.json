@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1975,
+      "species_id": 541,
+      "common_name": "ladybells",
+      "scientific_name": [
+        "Adenophora 'Amethyst'"
+      ],
+      "section": [
+        {
+          "id": 6130,
+          "type": "watering",
+          "description": "Adenophora 'Amethyst' (Ladybells) should be watered deeply and infrequently in order to encourage the plant to develop its deep root system. Water deeply once every 7-10 days, allowing the soil to dry out between waterings. When watering, ensure that you water the entire root system, not just the topsoil. Adding a layer of mulch around the base of the plant can help conserve moisture and reduce evaporation from the soil."
+        },
+        {
+          "id": 6131,
+          "type": "sunlight",
+          "description": "Ladybells (Adenophora ‘Amethyst’) prefer 6-8 hours of direct sunlight per day. During the warmest parts of the year, they can tolerate a few hours of partial sun, particularly in the morning and late afternoon."
+        },
+        {
+          "id": 6132,
+          "type": "pruning",
+          "description": "Ladybells should be pruned in early to mid-spring, just as they are beginning to flower. Prune by cutting back the complex stems and seed heads, and remove any dead or damaged flower heads. This species responds well to pruning and it is best to keep the plant slightly smaller than desired by pruning it back each year. Focus on pruning the dead and spindly growth, while leaving the stronger branches and stems to flourish. Prune back to approximately 4 to 6 inches, removing no more than 1-third of the plant. Generally, pruning lightly after flowering is sufficient for the majority of Ladybells."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

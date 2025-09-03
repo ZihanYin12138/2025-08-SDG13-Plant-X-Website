@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1941,
+      "species_id": 498,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea 'Summerwine'"
+      ],
+      "section": [
+        {
+          "id": 6028,
+          "type": "watering",
+          "description": "Yarrow (Achillea 'Summerwine') should be watered deeply when the top 2 inches of soil has dried out. Water should be directed at the soil, not the foliage, and it should be done in the morning so that the leaves have time to dry off by the end of the day. Watering should occur once every 7 to 10 days. During the summer months, the soil should be allowed to dry out more thoroughly between watering and waterings should occur every 10 to 14 days. In the winter months, reduce watering to once every 3 to 4 weeks. However, watch the plant closely and water if the soil is dry to the touch. "
+        },
+        {
+          "id": 6029,
+          "type": "sunlight",
+          "description": "Achillea 'Summerwine' yarrow should receive full sun for maximum growth and bloom. It prefers at least 6 hours of direct sunlight each day, with 8 hours of sunlight per day being optimal. Yarrow should be protected from intense, mid-day heat and should be placed in an area that receives some afternoon shade."
+        },
+        {
+          "id": 6030,
+          "type": "pruning",
+          "description": "Yarrow (Achillea 'Summerwine') should be pruned in the late winter to early spring. Pruning this type of yarrow should be done lightly. Cut back the plant to a height of 6 to 8 inches. Remove any dead or damaged stems. Removing any flower heads will encourage new growth and blooms in the late summer or early fall. This type of yarrow will produce lots of secondary flower heads if the old flower heads are removed during pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

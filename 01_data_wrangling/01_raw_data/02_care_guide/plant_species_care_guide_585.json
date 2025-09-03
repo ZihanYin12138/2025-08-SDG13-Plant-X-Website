@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 141,
+      "species_id": 585,
+      "common_name": "giant hyssop",
+      "scientific_name": [
+        "Agastache 'Bolero'"
+      ],
+      "section": [
+        {
+          "id": 1001,
+          "type": "watering",
+          "description": "When watering Giant Hyssop (Agastache 'Bolero'), water it deeply and thoroughly once a week, as it prefers moist soil. When the soil becomes dry to the touch (about 1 inch deep), apply water to the soil until it is saturated. Avoid over-watering, as this can cause root rot in the plant. It is also important to avoid getting water on the foliage of the Giant Hyssop, as it is more prone to fungal diseases. To ensure the soil does not become too dry between waterings, apply a light layer of mulch. This will help to retain moisture and will also help protect the roots from temperature extremes."
+        },
+        {
+          "id": 1002,
+          "type": "sunlight",
+          "description": "Giant hyssop (Agastache 'Bolero') benefits from plenty of sunlight during the warm summer months when it is actively growing and producing gorgeous blooms. When temperatures start to heat up, ideally around 6 hours of direct sunlight per day will suffice for the plant to thrive. However, it is important to note that too much sun can lead to stressed plants, which will result in fewer flowers and duller foliage. To avoid this, either keep the plant in a slightly shadier location or shield the soil it sits in from the strong heat of midday sun. In the cooler months of fall and winter, the plant can be situated in a sunnier spot to ensure that it can receive enough light to stay healthy."
+        },
+        {
+          "id": 1003,
+          "type": "pruning",
+          "description": "The best time for pruning giant hyssop shrubs is in late-spring or early summer, when the plants become unruly or show signs of overheating. Pruning giant hyssop too often (more than once a year) can reduce their flowering. Aim to remove no more than 1-quarter to 1-third of the stems (canes) of the shrub at 1 time. Removing too much may cause over-pruning, which can lead to stress and reduced flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

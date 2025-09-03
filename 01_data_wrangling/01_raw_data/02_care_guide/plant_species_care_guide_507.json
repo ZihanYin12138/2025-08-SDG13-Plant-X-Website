@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1947,
+      "species_id": 507,
+      "common_name": "azure monkshood",
+      "scientific_name": [
+        "Aconitum carmichaelii var. angustius"
+      ],
+      "section": [
+        {
+          "id": 6046,
+          "type": "watering",
+          "description": "Azure monkshood should be watered consistently throughout the growing season. During the spring and summer, water the plant regularly, taking care to keep the moisture level even. Make sure not to over water; dry is better than soggy. In the winter, wait until the soil’s surface is dry before watering. On average, azure monkshood will need about 1-2 inches of water per week. However, this amount may need to be adjusted depending on your local environment, soil quality, and time of year."
+        },
+        {
+          "id": 6047,
+          "type": "sunlight",
+          "description": "Azure monkshood, or Aconitum carmichaelii var. angustius, is a type of flowering plant that thrives on full sun. It prefers at least 6 hours of direct sunlight each day and generally performs best when exposed to full sun all day. Growing in partial shade is acceptable, as long as at least 6 hours of direct sunlight are received during the day. When exposed to full sun, azure monkshood produces more flowers and their colors are more vivid. "
+        },
+        {
+          "id": 6048,
+          "type": "pruning",
+          "description": "Azure Monkshood requires pruning 3 or 4 times a year. Pruning should occur in spring (March-May) before new growth starts, in mid-to-late summer (August-September) after the first flush of flowers, and in autumn (October-November) after the plant has gone dormant.  \n\nRegarding how much to prune, it is best to focus on maintaining an attractive form and shape. Remove the oldest, darkest and thickest stems in the center of the plant, leaving the newer green stems which should form the compact shape. Dead or damaged stems should also be trimmed off.  Pruning should be done sparingly, and not done to such an extent that you are left with bare stems. The aim is to promote a healthy plant with full foliage and a pleasing shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1979,
+      "species_id": 547,
+      "common_name": "Chinese buttonbush",
+      "scientific_name": [
+        "Adina rubella"
+      ],
+      "section": [
+        {
+          "id": 6142,
+          "type": "watering",
+          "description": "Chinese buttonbush should be watered thoroughly once a week during the warmer months and every other week during the cooler months. Ensure the soil is kept moist through regular watering, but do not overwater. To check if the Chinese buttonbush needs water, stick your finger into the soil to a depth of 1 or 2 inches. If the soil is still slightly moist, waiting to water. If it is dry, water deeply. Water in the morning so the leaves can dry throughout the day."
+        },
+        {
+          "id": 6143,
+          "type": "sunlight",
+          "description": "Chinese buttonbush (Adina rubella) should be grown in full sun for optimal growth and flowering. Planting in partial sun or light shade will compromise its flowering potential. When grown in full sun, this plant blooms from mid spring through late fall. In areas receiving more sunlight, flowers may appear as early as late winter. Chinese buttonbush need at least 6 hours per day of direct sunlight to reach its full potential. It can thrive in hot, humid Southern climates, but may need additional shade in the extreme heat of summer. Though this species may not require full sun all day, it’s important that its exposure to direct sunlight is consistent throughout the day in order to promote optimal flower and foliage growth."
+        },
+        {
+          "id": 6144,
+          "type": "pruning",
+          "description": "Chinese buttonbush should be pruned once a year in late winter or early spring just before bud burst. Pruning should be light and selective, removing no more than 1/3 of the plant’s total growth. Remove any dead, damaged, or diseased stems at any time of year. Thin branches and crowded or crossed branches to promote improved air circulation and reduce the likelihood of pest and disease problems. Pruning should also be used to shape and maintain bushy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

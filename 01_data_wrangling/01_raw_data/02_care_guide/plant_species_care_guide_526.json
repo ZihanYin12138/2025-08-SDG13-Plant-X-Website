@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 573,
+      "species_id": 526,
+      "common_name": "bugbane",
+      "scientific_name": [
+        "Actaea podocarpa"
+      ],
+      "section": [
+        {
+          "id": 1720,
+          "type": "watering",
+          "description": "Bugbane prefers moist, but well-drained soil. Water regularly during its first growing season and make sure to keep the soil consistently moist, but not soggy. Once established, the plant can usually tolerate periods of drought. Water when the top 1-2 inches of soil are dry, typically once or twice a week during the summer months and every 1-2 weeks during the winter months. Make sure to water deeply so that the soil receives a thorough soaking."
+        },
+        {
+          "id": 1721,
+          "type": "sunlight",
+          "description": "Bugbane (Actaea podocarpa) should be planted in full sun to provide enough light for the plant to thrive. This means the plant should receive 4-6 hours of direct sunlight each day during its active growing season, usually between late spring and mid-summer. During the summer months, the plant should receive 6-8 hours of direct sunlight. In winter, the plant should get as much sunlight as possible, although direct sunlight may not be necessary. To ensure the best chances of success for this plant species, it is best to provide adequate sunlight throughout the year."
+        },
+        {
+          "id": 1722,
+          "type": "pruning",
+          "description": "Bugbane should be pruned once annually, in late winter or early spring. This should be done before it begins to bud, so that all of the pruning is done in 1 go. All dead or damaged branches should be removed first, then prune further to shape the plant as desired. It is best to remove anywhere from a third to a half of the inner growth on the shrub, aiming to cut off at least 1/2 inch below the visible bud union. This will help promote a bushy, full growth and help stimulate new growth each year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 564,
+      "species_id": 582,
+      "common_name": "giant hyssop",
+      "scientific_name": [
+        "Agastache 'Black Adder'"
+      ],
+      "section": [
+        {
+          "id": 1693,
+          "type": "watering",
+          "description": "As a drought-tolerant variety, it prefers an occasional watering schedule. During the spring and summer, it should be watered deeply once or twice per week, allowing the soil to dry out between waterings. During the winter, it only needs to be watered once or twice a month. Be sure not to overwater, as this could potentially lead to root rot. In general, it is best to feel the soil before watering to determine if the plant needs additional moisture."
+        },
+        {
+          "id": 1694,
+          "type": "sunlight",
+          "description": "Giant hyssop (Agastache 'Black Adder') enjoys plenty of direct sunlight for 6 to 8 hours per day. Planting in full sun is recommended and will help to ensure that this plant species reaches its full size and produces its best blooming performance."
+        },
+        {
+          "id": 1695,
+          "type": "pruning",
+          "description": "Pruning is an important part of caring for giant hyssop to help prevent disease and encourage vigorous growth. The best time for pruning is late winter or early spring, before new growth begins. Start by removing dead or damaged stems. Thin out any overcrowded stems to allow more air flow and prevent the plant from becoming too dense. Additionally, it may be beneficial to trim off the tips of the stems. This will encourage the plant to produce thicker and more robust stems.\n\nIt is important not to prune too much, as it can weaken the stem strength. For most plants, removing no more than 1-third of the stems is recommended. If more aggressive pruning is needed, do so in increments over several years.\n\nGiant hyssop is a great option for adding a beautiful, colorful addition to any garden. However, it is important to trim it appropriately to ensure the optimal health and growth of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

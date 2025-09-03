@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1992,
+      "species_id": 567,
+      "common_name": "red buckeye",
+      "scientific_name": [
+        "Aesculus pavia"
+      ],
+      "section": [
+        {
+          "id": 6181,
+          "type": "watering",
+          "description": "Red buckeyes are more drought tolerant than most other plants, however they prefer a consistent source of moisture. During the growing season, water the soil near the roots of red buckeyes every 7-10 days. Water slowly and deeply, aiming for the best soil moisture at a depth of 6-12 inches. During periods of drought, increase watering to every 5-6 days. Reduce watering in the winter, watering only once every 2 weeks. If the soil is allowed to become too dry, the leaves may become scorched and the plant will suffer."
+        },
+        {
+          "id": 6182,
+          "type": "sunlight",
+          "description": "Red buckeye (Aesculus pavia) prefers bright, indirect sunlight. This species should be placed in a spot that receives at least 4 hours of direct sunlight during the spring and summer growing season, with protection from the harshest, hottest midday rays. During the fall and winter months, it should be placed in an area that receives at least 3 hours of indirect sunlight per day."
+        },
+        {
+          "id": 6183,
+          "type": "pruning",
+          "description": "Red buckeye (Aesculus pavia), is generally considered a low-maintenance plant that requires little pruning. Although you do not need to prune it back at any set time during its growing season, occasional pruning can lead to a healthier and bushier plant. Pruning should be done in the early spring just as the new growth is appearing or in late winter if your climate allows. Begin by removing any dead, cracked, or diseased branches. Then remove any shoots that are growing out of the desired shape of the plant. Cut the branches back to where they merge with other branches. Afterward, you can tidy up any remaining foliage by removing any overcrowded or overgrown stems.\n\nDo not prune more than 1/3 of your red buckeye to maintain its natural shape and health. The goal with pruning is to direct new leaf growth and create more foliage, so only prune as much as necessary."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

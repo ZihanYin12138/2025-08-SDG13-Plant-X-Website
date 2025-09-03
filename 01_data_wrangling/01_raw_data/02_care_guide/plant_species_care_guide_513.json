@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1952,
+      "species_id": 513,
+      "common_name": "sweet flag",
+      "scientific_name": [
+        "Acorus calamus"
+      ],
+      "section": [
+        {
+          "id": 6061,
+          "type": "watering",
+          "description": "Sweet flag should be watered thoroughly, but moderately - once every 3 to 4 days. Avoid overwatering as this can lead to root rot. Make sure the soil is moist but not soaking wet. When watering, provide enough water to keep the soil evenly moist in the pot. If the leaves start to turn brown and curl, it may signal that the plant needs more regular watering."
+        },
+        {
+          "id": 6062,
+          "type": "sunlight",
+          "description": "Sweet flag (Acorus calamus) needs about 6 to 8 hours of direct sunlight per day. This should be spread out during the morning and early afternoon since the sun's intensity is strongest during those times. For best results, it should have some shade during the midday when temperatures can be at their highest. As long as it gets this amount of sunlight daily, the sweet flag will do well."
+        },
+        {
+          "id": 6063,
+          "type": "pruning",
+          "description": "Sweet flag is a marsh-loving plant, and should be pruned back in early spring when new growth has begun to emerge. Pruning should not be severe, as there is potential for sun damage to the leaves. To prune, remove dead material, enforce shape, and thin out the center of the plant by removing the overcrowded stems. Aim to maintain a form or shape rather than shearing the plant after pruning. Sweet flag is a vigorous species, so ongoing pruning or dead heading may be required during the growing season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

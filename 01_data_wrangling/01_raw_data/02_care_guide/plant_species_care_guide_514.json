@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1953,
+      "species_id": 514,
+      "common_name": "sweet flag",
+      "scientific_name": [
+        "Acorus calamus 'Variegatus'"
+      ],
+      "section": [
+        {
+          "id": 6064,
+          "type": "watering",
+          "description": "Sweet flag plants should be watered fairly frequently in order to keep the soil moist but not soggy at all times. During the summer, it's best to water your sweet flag plants at least once a week to ensure they have enough water to sustain their growth. During the cooler months, once every 2 weeks should be sufficient. When watering, it's important to ensure the soil is damp at least 3 to 4 inches deep. It's also important to avoid getting the leaves wet during watering. If you're growing sweet flag indoors, you may have to water it more frequently due to the lack of humidity in the air."
+        },
+        {
+          "id": 6065,
+          "type": "sunlight",
+          "description": "Sweet flag (Acorus calamus 'Variegatus') is a semi-evergreen perennial plant that needs at least 4 hours of direct sunlight each day. It prefers full sun in the morning and afternoon, with some shade in the mid-day to avoid overheating. While it can tolerate the intense summer heat, it may also suffer from sunburn if exposed to too much intense sunlight."
+        },
+        {
+          "id": 6066,
+          "type": "pruning",
+          "description": "Sweet flag (Acorus calamus 'Variegatus') should be pruned in late winter or early spring before growth begins. About 1/3 of the plant should be pruned off, cutting stems down to the base of the plant. This allows new growth to come in fuller and bushier. Pruning helps to keep the plant compact and maintains its natural shape. Keep in mind that if you remove too much of the foliage, it can slow down the plant's growth and cause flowering to be lessened or absent. Take care not to over-prune or you could shock the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

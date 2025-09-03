@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1978,
+      "species_id": 545,
+      "common_name": "Northern maidenhair fern",
+      "scientific_name": [
+        "Adiantum pedatum"
+      ],
+      "section": [
+        {
+          "id": 6139,
+          "type": "watering",
+          "description": "Northern maidenhair ferns should be watered when the soil begins to feel dry to the touch. When it is time to water, give the soil a thorough soak until water begins to drain from the bottom of the pot. Allow the water to completely drain before moving the plant back to its spot. These ferns do best in humid conditions, so misting the leaves daily or weekly can help."
+        },
+        {
+          "id": 6140,
+          "type": "sunlight",
+          "description": "Northern maidenhair ferns prefer bright, indirect light, which is why they are commonly grown as houseplants. To ensure optimal growth, they should get at least 3-4 hours of indirect sunlight in the morning or afternoon. They should be kept out of direct sunlight as too much light can cause the foliage to turn yellow. Can also be grown in low light conditions, but exposure to bright, indirect light will keep them looking healthy and vibrant. Growing Northern maidenhair ferns in an east-facing or north-facing window is the ideal space."
+        },
+        {
+          "id": 6141,
+          "type": "pruning",
+          "description": "Pruning is not typically necessary for the Northern maidenhair fern. However, it can benefit from a light pruning when the fronds become overly dense or if damaged by insects or disease. The best time for pruning is late winter or early spring, just before new growth begins. Use pruning shears to cut away any dead or damaged fronds, but avoid cutting off the entire plant. This will ensure the plant will be able to continue to grow and thrive."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

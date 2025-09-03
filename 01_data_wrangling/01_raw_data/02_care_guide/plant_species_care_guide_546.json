@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 479,
+      "species_id": 546,
+      "common_name": "delta maidenhair fern",
+      "scientific_name": [
+        "Adiantum raddianum"
+      ],
+      "section": [
+        {
+          "id": 1440,
+          "type": "watering",
+          "description": "Delta maidenhair ferns should be watered moderately and consistently. Aim to water evenly once a week in the summer and every 10-14 days in the winter. Checking the soil for levels of moisture is the best way to determine exactly how much water your fern needs. The soil should be evenly moist, but never soggy. If it feels dry to the touch, it's time to water your fern. It is important to remember to avoid any standing water. The fern's delicate root system does not respond well to too much water, so it is best to discard any excess water that does not drain away quickly."
+        },
+        {
+          "id": 1442,
+          "type": "sunlight",
+          "description": "Delta maidenhair ferns prefer indirect sunlight and need to be kept out of direct, harsh sunlight as it burns their delicate leaves. When provided with bright indirect light, these ferns should receive an average of 6 hours of sunlight per day. This should be met with consistent, evenly distributed sunlight throughout the day for optimal growth."
+        },
+        {
+          "id": 1444,
+          "type": "pruning",
+          "description": "Delta maidenhair ferns (Adiantum raddianum) benefit from occasional pruning. The best time to prune is in early spring, before new growth begins. This gives the fern time to establish new foliage and grow before the summer season. As for how much to prune, you can remove any dead fronds, as well as fronds that are yellowing or have brown spots. Pruning back 2-3 inches of the previous season’s growth is sufficient, as too much pruning can harm the overall health of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

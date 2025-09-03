@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1972,
+      "species_id": 537,
+      "common_name": "variegated kiwi vine",
+      "scientific_name": [
+        "Actinidia kolomikta"
+      ],
+      "section": [
+        {
+          "id": 6121,
+          "type": "watering",
+          "description": "Variegated kiwi vine (Actinidia kolomikta) is a fast-growing, climbing vine that loves lots of moisture. Water deeply and consistently, about 1 to 2 times per week. The soil should stay moist but not soggy; allow the top 2 to 3 inches of soil to dry out before deeply watering. Drought-like conditions may cause the plant to shed some leaves. "
+        },
+        {
+          "id": 6122,
+          "type": "sunlight",
+          "description": "The variegated kiwi vine (Actinidia kolomikta) grows best in bright, indirect sunlight. This means it should receive at least 6 hours of bright, indirect sunlight each day, preferably during the morning or late afternoon."
+        },
+        {
+          "id": 6123,
+          "type": "pruning",
+          "description": "Variegated kiwi vine (Actinidia kolomikta) should be pruned annually in late winter or very early spring before any new growth emerges. Pruning should involve removing dead or weak stems, as well as thinning out stems that are densely packed together to help promote better air circulation and light penetration to the inner leaves on the vine. About 1/3to 1/2 of the vine canopy should be removed, cutting back the stems to where 2 healthy buds are present. This will help to encourage more abundant blooms, new foliage, and overall vine growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

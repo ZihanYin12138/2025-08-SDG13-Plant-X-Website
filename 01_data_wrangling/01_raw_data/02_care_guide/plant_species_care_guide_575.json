@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1997,
+      "species_id": 575,
+      "common_name": "lily of the Nile",
+      "scientific_name": [
+        "Agapanthus (group)"
+      ],
+      "section": [
+        {
+          "id": 6196,
+          "type": "watering",
+          "description": "Lily of the Nile (Agapanthus (group)) should be watered weekly and deeply, allowing the soil to become almost dry between waterings. During the growing season (spring to fall), water plants deeply once every 1 to 2 weeks. During the winter months, water the plants only occasionally, no more than once per month. When watering plants, ensure that the water can penetrate deeply into the soil. For outdoor containers, place a garden hose at the base of the pot and let the water run slowly for several minutes. For indoor containers, water until the water exits the drainage holes at the bottom of the pot."
+        },
+        {
+          "id": 6197,
+          "type": "sunlight",
+          "description": "Lily of the Nile (Agapanthus) is a plant species that thrives in bright sunlight. During the spring and summer months, it should receive at least 6 hours of direct sunlight each day. During the winter months, Agapanthus will do best with 4-5 hours of direct sunlight each day, though they will still benefit from additional indirect sunlight as well. The ideal sunlight for Agapanthus is when the sun is high in the sky, from mid-morning to mid-afternoon, preferably avoiding the hottest part of the day."
+        },
+        {
+          "id": 6198,
+          "type": "pruning",
+          "description": "The best time to prune Lily of the Nile is in late winter or early spring right before the new growth appears. This is typically when the plant is still dormant and any dead or damaged leaves have already fallen off. Pruning should be minimal since the plant is not very vigorous and very sensitive to pruning; removing too much of the old foliage can weaken the plant. \n\nIf you do need to prune the plant, use sharp pruning shears to carefully trim off any dead, yellowed, or damaged leaves. It is also a good idea to remove any flower stems that have begun to dry out or discolor. Pruning in this way will help ensure healthy growth and blooming throughout the new season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

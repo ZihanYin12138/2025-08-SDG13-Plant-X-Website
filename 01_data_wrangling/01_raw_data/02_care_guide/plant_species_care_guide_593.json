@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2011,
+      "species_id": 593,
+      "common_name": "giant hyssop",
+      "scientific_name": [
+        "Agastache 'Pink Pop'"
+      ],
+      "section": [
+        {
+          "id": 6238,
+          "type": "watering",
+          "description": "Giant hyssop (Agastache 'Pink Pop') should be watered deeply once a week, making sure to water directly onto the root zone and not just the leaves. The soil should be kept moist, but not wet. Allow the top inch of the soil to dry out between waterings. During hot summer days, water the plant more often as necessary to prevent wilting. Water early in the day to prevent fungal problems."
+        },
+        {
+          "id": 6239,
+          "type": "sunlight",
+          "description": "Giant hyssop (Agastache 'Pink Pop') prefers full sun, which means it should be grown in an area that receives at least 6 to 8 hours of direct sunlight per day. If possible, it is best to place the plant in an area that receives full sun during the morning and late afternoon. This will ensure that the plant absorbs as much sunlight as possible throughout the day. "
+        },
+        {
+          "id": 6240,
+          "type": "pruning",
+          "description": "Giant hyssop (Agastache 'Pink Pop') is a hardy, drought-tolerant plant that prefers full sun, well-drained soil, and moderate watering. Pruning can be beneficial for these plants to keep them healthy and looking their best. Pruning should take place in early spring, just before new growth begins. It is important to remove older, more mature stems and remove any dead or damaged stems. Cutting back stems to 1/3 or 2/3 of their original height is recommended for shaping and thinning the plant. It is also important to remove any dead flowers or flowerheads from the stems. When pruning, be sure to disinfect your pruning shears with alcohol before use to prevent the spread of disease or pests. Pruning can also help encourage additional flowering and allow for better air circulation throughout the plants."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

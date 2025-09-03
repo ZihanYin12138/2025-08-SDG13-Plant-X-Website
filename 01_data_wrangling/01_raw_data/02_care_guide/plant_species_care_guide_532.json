@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1968,
+      "species_id": 532,
+      "common_name": "bugbane",
+      "scientific_name": [
+        "Actaea simplex (Atropurpurea Group) 'Hillside Black Beauty'"
+      ],
+      "section": [
+        {
+          "id": 6109,
+          "type": "watering",
+          "description": "Bugbane plants prefer consistently damp soil, so water this plant regularly.  Aim for soil that is evenly damp but not saturated. Give the plant a good soaking once a week, allowing the top few inches of soil to dry out before watering again. During periods of extreme heat, you may need to water more frequently, though. When in doubt, check the soil before watering. Place your finger in the soil and if it feels dry an inch below the surface, then the plant needs to be watered."
+        },
+        {
+          "id": 6110,
+          "type": "sunlight",
+          "description": "Bugbane, also known as Actaea simplex (Atropurpurea Group) 'Hillside Black Beauty', should receive full, direct sunlight for a minimum of 4 to 6 hours each day. If growing in an area that receives shade, additional supplemental lighting may be necessary."
+        },
+        {
+          "id": 6111,
+          "type": "pruning",
+          "description": "Bugbane should be pruned once per year towards the end of winter. During this pruning, focus on removing any dead, damaged, or diseased branches and cutting away any crossing branches or overly vigorous growth. Aim to remove no more than a quarter of the plant’s total growth. Pruning bugbane helps to maintain a tidy shape and remove leggy growth from the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

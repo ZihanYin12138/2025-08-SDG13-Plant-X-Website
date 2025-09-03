@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1939,
+      "species_id": 496,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea 'Snow Sport'"
+      ],
+      "section": [
+        {
+          "id": 6022,
+          "type": "watering",
+          "description": "Yarrow (Achillea 'Snow Sport') is a low-maintenance perennial that prefers to be kept on the dry side. Water it once a week during the summer months if there is no rainfall; keep the soil evenly moist, but not wet or soggy. During the cooler months, water once every 1 to 2 weeks."
+        },
+        {
+          "id": 6023,
+          "type": "sunlight",
+          "description": "Yarrow (Achillea 'Snow Sport') should be grown in full sun or part shade. When growing in full sun, the plant should receive 6-8 hours of direct sunlight each day. If grown in part shade, it is best to give the plant 4-6 hours of direct sunlight and about 4-6 hours of partial shade. In order to maximize flowering and yield, it is best to provide the plant with half sun and half shade conditions. Yarrows prefer a cool climate and can tolerate lower temperatures in the winter months, but should not be planted in areas where there is consistently extreme heat."
+        },
+        {
+          "id": 6024,
+          "type": "pruning",
+          "description": "Yarrow (Achillea 'Snow Sport') should be pruned after flowering has finished in summer, or even in autumn for plants that rebloom. Prune the plants back to about 2/3 of their original height, cutting stems back to side shoots or to just above the existing leaf growth. Pruning the stems will encourage the plant to produce more bushy growth and more flower stems. Regular pruning is suggested during the growing season to ensure fresh young foliage that supports the flowers, and to keep the plants looking neat and compact."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1940,
+      "species_id": 497,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea (Summer Pastels Group)"
+      ],
+      "section": [
+        {
+          "id": 6025,
+          "type": "watering",
+          "description": "Yarrow (Achillea (Summer Pastels Group)) plants prefer moist soil, though they are drought tolerant. Water thoroughly when the top 2 inches of soil are dry. Water about once a week, or every 2 weeks in the winter. Make sure the soil never becomes soggy as waterlogged soil can cause root rot. In hotter climates, the plants may need more frequent watering. Be sure to check the soil before adding more water."
+        },
+        {
+          "id": 6026,
+          "type": "sunlight",
+          "description": "Yarrow (Achillea Summer Pastels Group) prefers sunny conditions and should be planted in an area with at least 6-8 hours of direct sunlight each day, preferably in the morning or late afternoon. Partial shade will also suffice as long as it has some exposure to the sun. "
+        },
+        {
+          "id": 6027,
+          "type": "pruning",
+          "description": "Yarrow (Achillea (Summer Pastels Group)) should be lightly pruned every 2-3 years in the spring. Pruning should be done after yarrow has bloomed. You can prune back stems to the base of the plant to rejuvenate the foliage and reduce the amount of dead wood in the shrub. If necessary, you can also prune away any broken or damaged branches. Further, you can also pinch spent flowers to encourage a longer lasting bloom time. As with most species, create a pleasing shape and refrain from over-pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

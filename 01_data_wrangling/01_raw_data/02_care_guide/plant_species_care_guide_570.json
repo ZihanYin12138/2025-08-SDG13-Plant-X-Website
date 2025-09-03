@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1994,
+      "species_id": 570,
+      "common_name": "African fern pine",
+      "scientific_name": [
+        "Afrocarpus gracilior"
+      ],
+      "section": [
+        {
+          "id": 6187,
+          "type": "watering",
+          "description": "African Fern Pine should be watered about 1-2 times per week, depending on the age of the plant and the environment in which it is growing. Younger plants may require more frequent watering, while those that are older may require less. Pay attention to the soil the plant is growing in, it should feel barely moist to the touch when it's time to water. If the soil feels dry, water thoroughly until water runs out of the bottom of the container. If the soil is soggy and wet, don't water until the soil is dry again. It's important to make sure the soil never becomes too dry or too wet. African Fern Pines need good drainage, so it's important to avoid overwatering."
+        },
+        {
+          "id": 6188,
+          "type": "sunlight",
+          "description": "African fern pine requires bright indirect sunlight to flourish. At least 4 hours of sunshine per day, preferably in the morning, is ideal for this plant species. During the summer months, the African fern pine should be allowed additional hours of afternoon sunlight for optimal growth. In the winter months, however, the African fern pine should be sheltered from the sun's direct rays to prevent yellowing of the foliage."
+        },
+        {
+          "id": 6189,
+          "type": "pruning",
+          "description": "African fern pine (Afrocarpus gracilior) should be pruned once a year in late winter or early spring before new growth begins. Pruning this species helps to maintain its attractive shape and encourage new growth. When pruning, remove only about 1/3 of its foliage, leaving the rest of the foliage intact. Be careful not to remove too much foliage, as this could result in the plant's untimely death. Additionally, avoid pruning any branch that has multiple growing buds, as that could damage the overall growth of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2006,
+      "species_id": 587,
+      "common_name": "giant hyssop",
+      "scientific_name": [
+        "Agastache cana 'Sinning' SONORAN SUNSET"
+      ],
+      "section": [
+        {
+          "id": 6223,
+          "type": "watering",
+          "description": "Giant hyssop (Agastache cana 'Sinning' SONORAN SUNSET) should be watered about once a week, but not more than twice a week. The soil should be moist, but not soggy. It is best to water early in the day when possible, so that the leaves and flowers have time to dry off before nightfall. When the temperature is especially warm, an additional light watering may be necessary. To reduce the risk of over-watering, it is recommended to check the soil's moisture content prior to adding water."
+        },
+        {
+          "id": 6224,
+          "type": "sunlight",
+          "description": "Giant hyssop (Agastache cana 'Sinning' SONORAN SUNSET) should ideally be grown in full sun, receiving at least 6 to 8 hours of direct, unfiltered sunlight every day. This sun-loving plant should be placed in an area of the garden that receives plenty of direct sunlight throughout the day. If the plant is not getting the necessary sunlight, its growth and blooming may become stunted or slowed. To give the plant the best chance of thriving, it is best to choose a spot that receives consistent sunlight all day."
+        },
+        {
+          "id": 6225,
+          "type": "pruning",
+          "description": "Giant hyssop (Agastache cana 'Sinning' SONORAN SUNSET) should be lightly pruned in the late spring and again in early fall. This helps to promote new, healthy growth and prevents the plant from becoming too leggy and scraggly looking due to excessive top-growth. Pruning should be done by removing any dead or diseased branches, as well as any flower heads that have died off. Also, prune any branches that are competing with one another or growing in a way that is too dense or crowded. This will help to keep the growth of the plant contained and looking more attractive. Pruning should also be done if the plant is becoming too large for its intended space, or if you wish to control its size. The amount of pruning that is required for optimal health should be proportional to the size of your plant, but in general it is best to prune only what is necessary."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

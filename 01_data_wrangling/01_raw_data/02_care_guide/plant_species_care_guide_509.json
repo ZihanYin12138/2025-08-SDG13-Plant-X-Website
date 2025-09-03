@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1949,
+      "species_id": 509,
+      "common_name": "climbing monk's hood",
+      "scientific_name": [
+        "Aconitum hemsleyanum"
+      ],
+      "section": [
+        {
+          "id": 6052,
+          "type": "watering",
+          "description": "Climbing monk's hood should be watered once a week with about 1-inch of water. It is important to water the plant deeply so that the roots can absorb all the moisture. Be sure not to over-water, as this will cause the plant to become root-bound and lead to stunted growth. Watering should take place early in the day to allow the soil to dry out and prevent fungus and root rot. Soaker hoses or drip irrigation systems are also beneficial for keeping the plant well-watered without overwatering. "
+        },
+        {
+          "id": 6053,
+          "type": "sunlight",
+          "description": "Climbing monk's hood (Aconitum hemsleyanum) is a species of perennial plant that likes to grow in a sunny spot, ideally with at least 5 hours of direct sunlight each day. The plant generally prefers morning sun, as it can become scorched with too much afternoon exposure. While climbing monk's hood can handle some shade, it thrives and blooms best in bright light."
+        },
+        {
+          "id": 6054,
+          "type": "pruning",
+          "description": "Climbing monk's hood (Aconitum hemsleyanum) should be pruned in late winter or early spring. This is to ensure optimal growth and blooming potential. During the growing season, prune back any dead, damaged or weak stems to keep the plant looking healthy. Additionally, it could be necessary to prune late in the season to keep the plant from becoming overcrowded. When pruning, be sure to remove any spent flowers and prune to a bud. Doing this will allow for a good flower display in the following season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

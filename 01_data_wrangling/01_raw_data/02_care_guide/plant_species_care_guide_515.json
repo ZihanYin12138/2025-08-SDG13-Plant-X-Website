@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1954,
+      "species_id": 515,
+      "common_name": "grassy-leaved sweet flag",
+      "scientific_name": [
+        "Acorus gramineus"
+      ],
+      "section": [
+        {
+          "id": 6067,
+          "type": "watering",
+          "description": "Acorus gramineus, also known as Grassy-leaved Sweet Flag, should be watered regularly so its soil remains moist but not soggy. Water the plant when the top inch to 2 inches of soil is dry. In addition, if the plant is in full sunlight, water it daily, but if it’s in a shadier spot, water it every 2 to 3 days. If the plant is in a pot, lift it and feel the weight as it can be an indicator if it’s still wet or dry. Always try to water Acorus gramineus with lukewarm and distilled water."
+        },
+        {
+          "id": 6068,
+          "type": "sunlight",
+          "description": "Grassy-leaved sweet flag (Acorus gramineus) needs at least 4 hours of direct sunlight each day. It is best suited for a spot that receives full sun in the morning but is protected from the hot afternoon sun. These plants can also benefit from morning sun for a few hours and bright, but indirect afternoon sunlight. In cooler climates, sweet flag prefers full sun all day. In hotter climates, midday shade is recommended. Sweet flag will tolerate full shade, but will become leggy and less vigorous."
+        },
+        {
+          "id": 6069,
+          "type": "pruning",
+          "description": "Grassy-leaved sweet flag should be pruned lightly each year in the late summer or early fall. In general, it is best to prune off any dead or weak foliage before the growing season starts. Additionally, removal of any flower stalks that form is recommended for the health of the parent plant. Additionally, it is beneficial to prune off any foliage that is encroaching into pathways or walkways. In sum, light annual pruning of grassy-leaved sweet flag should take place during the late summer or early fall."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

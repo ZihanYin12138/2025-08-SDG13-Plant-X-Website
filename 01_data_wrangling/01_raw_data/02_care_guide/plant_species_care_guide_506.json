@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1946,
+      "species_id": 506,
+      "common_name": "azure monkshood",
+      "scientific_name": [
+        "Aconitum carmichaelii 'Arendsii'"
+      ],
+      "section": [
+        {
+          "id": 6043,
+          "type": "watering",
+          "description": "Azure monkshood (Aconitum carmichaelii 'Arendsii') is a hardy, perennial plant that flowers in the late summer. The plant should be watered thoroughly when first planted, and then every 1-2 weeks, depending on the weather and soil conditions. During long dry spells water twice a week, allowing the soil to dry out between watering. If soil is allowed to become too dry, its flowers may not open, and its leaves may become yellowed or wilted. It is important to not over-water, as this can lead to root rot."
+        },
+        {
+          "id": 6044,
+          "type": "sunlight",
+          "description": "Azure monkshood (Aconitum carmichaelii 'Arendsii') is a plant species that thrives in full sunlight and does best when given at least 6 hours of sun daily. It can tolerate some partial shade, but the amount of sunlight it receives will impact its growth and flowering potential. When grown in full sun, this plant typically flowers in late summer months with large, deep lavender-blue petals. "
+        },
+        {
+          "id": 6045,
+          "type": "pruning",
+          "description": "Azure Monkshood (Aconitum carmichaelii 'Arendsii') should be pruned in late spring, after its flowering period. This species blooms in summer, so it's best to prune it just after the blooming period is over. Prune the top of the plant to maintain its size, taking off just the uppermost parts and crossing/overly crowded branches. This will help to produce stronger, more upright stems, so the plant can be better appreciated in the garden. Also remove any dead or damaged stems and thin out the plant mildly, so air, sunlight, and water can better reach the inner portion of the plant. Avoid heavy pruning, which is likely to harm the health of your Azure Monkshood."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

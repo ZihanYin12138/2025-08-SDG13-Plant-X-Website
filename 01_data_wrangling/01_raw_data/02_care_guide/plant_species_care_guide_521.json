@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1960,
+      "species_id": 521,
+      "common_name": "bugbane",
+      "scientific_name": [
+        "Actaea 'Chocoholic'"
+      ],
+      "section": [
+        {
+          "id": 6085,
+          "type": "watering",
+          "description": "Bugbane is a hardy shrub and requires very little maintenance. It should be watered once per week during the growing season when there is no rainfall. During prolonged periods of hot weather, it may need to be watered twice a week to prevent the soil from becoming too dry. In the winter, water it only when the soil feels dry to the touch. Too much water can cause root rot, so make sure the soil drains well and that excess water can flow away. Over-watering is one of the most common reasons for poor growth."
+        },
+        {
+          "id": 6086,
+          "type": "sunlight",
+          "description": "Bugbane (Actaea 'Chocoholic') is a plant species that prefers to grow in partially shady conditions. In general, it should have filtered sunlight that lasts no longer than 4-5 hours each day. Direct sunlight should be avoided as it can cause the leaves to burn. The best time of day for the sunlight to reach the plant is during the early morning or late afternoon, when the light is direct but not necessarily strong."
+        },
+        {
+          "id": 6087,
+          "type": "pruning",
+          "description": "Bugbane (Actaea 'Chocoholic') does not require much pruning, but deadheading can promote repeat blooming. Deadheading is removing the flowers after they have faded to encourage new blooms. Generally, this should be done in the fall after the plant has finished flowering for the season. Pruning should occur in early spring before new growth begins to appear. The plant can be cut back to about 1/2 of its original height. It is not necessary to prune Bugbane ('Chocoholic'), but it can be done to maintain a desired shape or size."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

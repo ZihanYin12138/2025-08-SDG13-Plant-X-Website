@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 476,
+      "species_id": 502,
+      "common_name": "hot water plant",
+      "scientific_name": [
+        "Achimenes (group)"
+      ],
+      "section": [
+        {
+          "id": 1427,
+          "type": "watering",
+          "description": "Hot water plants, or Achimenes, should be watered regularly, but be careful not to overwater them. During the summer months when the plant is actively growing, water it once or twice a week, allowing the soil in between each watering to dry out. During the winter months, water the plant once every 3 weeks, allowing the soil to dry out more between waterings. During this dormant period, the plant will mainly rely on humidity in the air to provide moisture, so you should mist the plant periodically. If the soil begins to look dry and the leaves start to wilt, water the plant more frequently."
+        },
+        {
+          "id": 1432,
+          "type": "sunlight",
+          "description": "Achimenes (group) plants require between 4 to 6 hours of direct sunlight each day—ideally in the morning or late afternoon asor midday sun can be too strong for them—in order to thrive and grow. They benefit from some shadier spots, especially in summer when the sun is strongest, but they do need some sunlight in order to flower. Given this amount of sunlight, Achimenes plants should be in a spot that has access to direct sun during these hours, but with some shade nearby for hot days or periods of extended sun."
+        },
+        {
+          "id": 1433,
+          "type": "pruning",
+          "description": "Hot water plants (Achimenes) should be pruned after flowering. It is best to remove no more than 1/3 of the healthy growth each year in order to help the plant maintain vigor. Additionally, some minor pruning may be done periodically throughout the growing season if needed to promote fullness or control the size of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

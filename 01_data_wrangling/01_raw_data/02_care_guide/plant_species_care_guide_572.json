@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 215,
+      "species_id": 572,
+      "common_name": "African lily",
+      "scientific_name": [
+        "Agapanthus africanus"
+      ],
+      "section": [
+        {
+          "id": 773,
+          "type": "watering",
+          "description": "African lilies should be watered deeply, but only once a week. Water the soil thoroughly so that it is moist to a depth of at least 10 inches. Allow the soil to dry out slightly between watering but don’t let it dry out completely. African lilies will not tolerate dry, arid conditions; they prefer a consistently moist soil. During summer months, they may need to be watered twice a week in order to keep them hydrated and healthy."
+        },
+        {
+          "id": 774,
+          "type": "sunlight",
+          "description": "The African lily needs 8-10 hours of direct sunlight each day in order to flourish. They should be placed in a sunny area with indirect light for the remainder of the day. If the sunlight during the summer months exceeds 10 hours, the lily should be sheltered with either a canopy or shade cloth in order to avoid scorching. In the winter months when sunlight is not as prevalent, they should receive at least 6-7 hours of direct sunlight on a daily basis."
+        },
+        {
+          "id": 775,
+          "type": "pruning",
+          "description": "African lily is a low maintenance plant and does not require much pruning. It typically does not need pruning unless it's becoming overly large or out of shape. If you decide to prune your African lilies, the best time to do it is in the spring just before the plant begins to put on new growth. Cut the old growth back to the base or just above a few buds. Be sure to use a sharp and sterile pair of pruners to prevent disease. Remove any dead leaves or stems to help promote healthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

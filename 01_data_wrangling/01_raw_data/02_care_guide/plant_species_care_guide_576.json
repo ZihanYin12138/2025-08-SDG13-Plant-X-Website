@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1998,
+      "species_id": 576,
+      "common_name": "lily of the Nile",
+      "scientific_name": [
+        "Agapanthus 'Headbourne Hybrids'"
+      ],
+      "section": [
+        {
+          "id": 6199,
+          "type": "watering",
+          "description": "Water your Lily of the Nile consistently throughout the growing season. During the spring and summer months, water the plant deeply once or twice a week, allowing the soil to dry out slightly between waterings. Reduce the amount of water slightly in the cooler fall months, watering only when the top inch of soil is dry. Don't water if temperatures or wind chill are below freezing. Be careful not to overwater as this can cause root rot. In the winter, the plant will only need to be watered if we have periods with no rainfall and the soil becomes dry."
+        },
+        {
+          "id": 6200,
+          "type": "sunlight",
+          "description": "Lily of the Nile (Agapanthus 'Headbourne Hybrids') need full sunlight for 5 to 6 hours a day to thrive. They should ideally be planted in a spot that will receive direct sun exposure for the majority of the day. For best results, position the plant in an area that will get direct sunlight from mid-morning until late afternoon. Too little sunlight can cause the Agapanthus to get leggy and re-bloom poorly. "
+        },
+        {
+          "id": 6201,
+          "type": "pruning",
+          "description": "Lily of the Nile (Agapanthus 'Headbourne Hybrids') should be lightly pruned in the late winter or early spring, just as the new shoots begin to appear. pruning should be done to remove any dead or damaged branches, as well as any branches that are growing in a way that is undesirable. For taller varieties, also remove any lower branches to create a more graceful shape. After pruning, you may consider shaping the plant by gently pinching out the tips of each stem that has grown beyond a desirable length, to encourage further branching and a more compact form."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

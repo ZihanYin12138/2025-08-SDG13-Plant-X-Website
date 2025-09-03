@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1969,
+      "species_id": 533,
+      "common_name": "bugbane",
+      "scientific_name": [
+        "Actaea simplex (Atropurpurea Group) 'James Compton'"
+      ],
+      "section": [
+        {
+          "id": 6112,
+          "type": "watering",
+          "description": "Bugbane requires regular watering in order to stay healthy and thriving. Water your bugbane deeply and thoroughly every 4-5 days in the hot summer months and every 7-10 days during the winter months. It is important to avoid overwatering the plant as this will cause root rot, so be sure to check the soil for dryness prior to watering. If the soil around the roots feels dry, then it is time to water again. "
+        },
+        {
+          "id": 6113,
+          "type": "sunlight",
+          "description": "Bugbane (Actaea simplex var. atropurpurea 'James Compton') does best in part-sun or part-shade locations, with around 4-6 hours of direct sunshine each day.  In hotter regions, afternoon shade is recommended."
+        },
+        {
+          "id": 6114,
+          "type": "pruning",
+          "description": "Bugbane can be pruned twice annually. In the spring, prune the plants back by about 1-third, removing any dead or discoloured foliage. Then, a light shaping of tall stems can be performed at this time if desired. In the fall, it is best to prune only after frost when foliage has lost colour. Cut back remaining foliage to half or 2-thirds of its original height. This will encourage a more compact shape and better flowering the following season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1991,
+      "species_id": 565,
+      "common_name": "bottlebrush buckeye",
+      "scientific_name": [
+        "Aesculus parviflora var. serotina"
+      ],
+      "section": [
+        {
+          "id": 6178,
+          "type": "watering",
+          "description": "Bottlebrush buckeye requires a deep soaking once a week during the summer months and only needs to be watered twice a month during the fall, winter, and spring months. During periods of extended drought, water Bottlebrush buckeye every 2 to 3 weeks. It's important to keep the soil evenly moist, but not soggy, as the roots of this shrub prefer being on the drier side. If the soil is too wet, the roots can suffocate and the plant can suffer from root rot.\n\nIt's best to water Bottlebrush Buckeye in the morning, when the air is cooler and the sun is not blazing down on the moisture-filled leaves. Water the ground in a 5–6ft circle around the shrub and avoid wetting the foliage. This will help to prevent the spread of fungus and disease. \n\nWhen it's time to water your Bottlebrush buckeye, always use a good, deep soaking to ensure the root zone gets plenty of moisture. This will keep your shrub healthy and looking its best throughout the year."
+        },
+        {
+          "id": 6179,
+          "type": "sunlight",
+          "description": "Bottlebrush buckeye is a colorful variety of small shrub that thrives in part shade to full sun. It does best when planted in an area that receives filtered light, with the sun no closer than around 4 to 6 hours in the morning. This plant is likely to become too woody and lose some of its vibrant colors if it is exposed to too much hot, direct sunlight. It can withstand some light shade in the afternoon, but generally, the ideal situation for this species is morning sunlight only."
+        },
+        {
+          "id": 6180,
+          "type": "pruning",
+          "description": "Bottlebrush buckeye (Aesculus parviflora var. serotina) should be pruned late winter or early spring, immediately before the new growth begins. Prune off dead, broken, or diseased branches and cut back branches growing in unwanted directions. Prune about 1/3 of the total length of the oldest branches. Wipe the pruning shears after each cut with aClorox solution to reduce the spread of plant disease. Be careful not to overprune as this variety is a slow-grower and may not respond well to extreme pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

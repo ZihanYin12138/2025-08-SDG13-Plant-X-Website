@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1967,
+      "species_id": 531,
+      "common_name": "bugbane",
+      "scientific_name": [
+        "Actaea simplex (Atropurpurea Group) 'Brunette'"
+      ],
+      "section": [
+        {
+          "id": 6106,
+          "type": "watering",
+          "description": "Bugbane plants need to be regularly and consistently watered for optimum growth. Aim for providing 1 inch of water per week on a regular schedule. If your soil is particularly sandy, you may need to water more frequently than once per week. When watering, be sure to water directly at the soil rather than the foliage to avoid disease and fungus. As with all plants, it’s important to recognize when the soil is dry; allow the soil surface to dry before providing additional water. "
+        },
+        {
+          "id": 6107,
+          "type": "sunlight",
+          "description": "Bugbane (Actaea simplex (Atropurpurea Group) 'Brunette') prefers a location with bright dappled sunlight for at least part of the day. The plant should also get a few hours of direct sun during the growing season, but should be in a location with some morning shade as it is not tolerant of hot afternoon sun. Thus, the ideal growing location offers good air movement and bright, filtered light for 4 to 6 hours a day."
+        },
+        {
+          "id": 6108,
+          "type": "pruning",
+          "description": "Bugbane should be pruned each year in the spring, before new growth begins. Pruning back the old stems should be done after the last average frost date, but before growth begins in the spring. It is important not to prune too early in the season. If done correctly, bugbane can be pruned by cutting back approximately 1-third of the oldest stems, just above the crown. This keeps the plant looking rejuvenated and also encourages vigorous new growth. It also helps keep the size of the plant in check, as bugbane can become quite large if not pruned regularly."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

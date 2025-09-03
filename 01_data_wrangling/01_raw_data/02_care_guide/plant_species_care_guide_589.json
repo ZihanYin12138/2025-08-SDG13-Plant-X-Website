@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1545,
+      "species_id": 589,
+      "common_name": "anise hyssop",
+      "scientific_name": [
+        "Agastache foeniculum"
+      ],
+      "section": [
+        {
+          "id": 4714,
+          "type": "watering",
+          "description": "Anise hyssop (Agastache foeniculum) should be watered regularly and regularly to keep it healthy and thriving. The soil should be kept lightly moist at all times, but not soggy. Water in the morning or early evening, directly onto the soil. During warmer months, additional watering may be needed. Once a week during dry periods, allow the soil to dry out slightly before watering again. Be sure not to over water, as this can lead to root rot, which can quickly kill anise hyssop."
+        },
+        {
+          "id": 4715,
+          "type": "sunlight",
+          "description": "Anise hyssop (Agastache foeniculum) does best when grown in full sun, as it requires an average of 6 or 7 hours of direct sunlight per day in order to thrive. Anise hyssop should be placed in an area that receives morning sun and afternoon shade in order to prevent the intense heat from scorching its foliage. In Northern states, partial shade during the peak hours of the day may be beneficial. Plants grown in full sun will generally form more dense clumps and produce more flowers than those grown in partial shade. "
+        },
+        {
+          "id": 4716,
+          "type": "pruning",
+          "description": "Anise hyssop (Agastache foeniculum) should be pruned annually after flowering in order to promote the growth of new shoots. It is best to prune the plant once every spring while it is dormant, to ensure its healthy growth and size. It is best to prune the old stems back to 4 inches above the soil line and prune any branches that are leggy, dead, or diseased to ensure healthy growth. Pruning the plant will also encourage more branches and fuller growth. It is also important to remove any seed heads that develop, as this will attract unwanted pests to the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1982,
+      "species_id": 554,
+      "common_name": "red horse chestnut",
+      "scientific_name": [
+        "Aesculus carnea"
+      ],
+      "section": [
+        {
+          "id": 6151,
+          "type": "watering",
+          "description": "Red horse chestnut trees should be watered with 1 to 2 inches of water weekly during the growing season. Water deeply and slowly, until the soil is just moist but not saturated. Additionally, spread a 2-inch layer of organic mulch around the tree to help retain water in the soil. Avoid overwatering, which can cause root rot. During dry periods, provide supplemental watering when needed."
+        },
+        {
+          "id": 6152,
+          "type": "sunlight",
+          "description": "The red horse chestnut (Aesculus carnea) plant species prefers a bright, sunny location and plenty of direct sunlight. During the spring and summer months, it should get between 4-6 hours of direct sunlight every day in order to thrive and produce blossoms. It is also important for the plant to receive indirect light on the other hours of the day. During the colder winter months it can tolerate a little less direct sunlight and still do well."
+        },
+        {
+          "id": 6153,
+          "type": "pruning",
+          "description": "Red Horse Chestnut should be pruned in late winter before new spring growth appears. Pruning involves selectively removing branches at the nodes just above the buds to maintain a desired shape or size. Take care not to remove too much material from the shrub, as it can damage the plant and cause it to become sparse or unattractive. Generally, it's best to remove no more than about 1/3 of the total number of branches each year. Make sure to prune any dead, damaged, crossing or diseased branches first, followed by any overly long shoots that don't fit the desired shape of the shrub. Regular pruning helps Red Horse Chestnut maintain its shape and size over time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

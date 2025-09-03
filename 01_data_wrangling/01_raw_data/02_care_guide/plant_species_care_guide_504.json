@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1002,
+      "species_id": 504,
+      "common_name": "paurotis palm",
+      "scientific_name": [
+        "Acoelorrhaphe wrightii"
+      ],
+      "section": [
+        {
+          "id": 2999,
+          "type": "watering",
+          "description": "Paurotis palms should be given frequent, light waterings. The general recommendation is to water the palm twice a week when actively growing, and once a week during the colder months. Always check the top inch of soil before watering; if it's still moist, skip watering. The soil should be allowed to dry out between waterings. In addition, it is important to ensure that the roots of this species have adequate drainage. Paurotis palms do not thrive in standing water."
+        },
+        {
+          "id": 3007,
+          "type": "sunlight",
+          "description": "Paurotis palms prefer bright, indirect sunlight and should be exposed to the outdoor sun for at least 4-6 hours daily. It is best to place the paurotis palm in a location where it receives sun in the morning and some shade in the afternoon and early evening hours. For optimum growth, the paurotis palm also requires some form of bright, artificial lighting indoors, as it needs to make sure it's getting 8-10 hours of light per day. This light should be spread out evenly; if the plant is getting too much direct sunlight, some of the fronds may become sunburned or discolored."
+        },
+        {
+          "id": 3014,
+          "type": "pruning",
+          "description": "Paurotis palms should be pruned once a year in the early spring, before new growth begins. Pruning should focus on removing any dead or damaged fronds that detract from the overall look of the plant. If necessary, you can also lightly shape the palm tree by selective removal of fronds. It is important to be careful when pruning paurotis palms, as too much pruning can lead to weak new growth and a misshapen palm."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

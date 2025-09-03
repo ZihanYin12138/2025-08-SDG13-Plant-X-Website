@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1965,
+      "species_id": 529,
+      "common_name": "bugbane",
+      "scientific_name": [
+        "Actaea simplex (Atropurpurea Group)"
+      ],
+      "section": [
+        {
+          "id": 6100,
+          "type": "watering",
+          "description": "Bugbane should be watered weekly in the spring and early summer, and less frequently in the summer months. Soak the soil when you water, and allow it to dry out almost completely before watering again. Avoid overwatering, as this can cause root rot. In the autumn and winter, water only when the soil feels dry to the touch. Make sure that the soil has good drainage and does not become waterlogged."
+        },
+        {
+          "id": 6101,
+          "type": "sunlight",
+          "description": "Bugbane (Actaea simplex (Atropurpurea Group)) is an herbaceous perennial plant that grows best in partial sun to shade. For maximum blooming, it should be planted in a spot where it will receive at least 4 to 6 hours of sunlight per day. While bugbane can tolerate full sun, it will benefit from some light afternoon shade, especially in hot climates. In cooler climates, it will tolerate more sun, but its blooms may fade if the plant gets too much direct sun."
+        },
+        {
+          "id": 6102,
+          "type": "pruning",
+          "description": "Bugbane should be pruned just after blooming in late summer and/or early fall. Start by cutting the stems back by 1-third to 1-half of their height. This will help promote the plant's shape and keep it looking its best. If desired, further pruning can be done in early spring, cutting back the dead and/or dying foliage. However, if the plant is doing well and responding well to its current environment, then less pruning may be necessary. Pruning for bugbane should be done selectively and sparingly to keep the plant looking attractive."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

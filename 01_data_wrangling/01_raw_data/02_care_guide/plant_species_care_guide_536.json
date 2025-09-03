@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 24,
+      "species_id": 536,
+      "common_name": "kiwifruit",
+      "scientific_name": [
+        "Actinidia deliciosa"
+      ],
+      "section": [
+        {
+          "id": 69,
+          "type": "watering",
+          "description": "Kiwifruit (Actinidia deliciosa) should be watered regularly in order to keep the soil moist. Water the plant deeply at least once or twice per week. If the soil is dry to the touch, water the kiwifruit plant more frequently. During the warm summer months, you may need to water the kiwifruit plant every day or 2. However, it is important not to over-water the plant, so it is best to check the moisture of the soil before watering. In the winter months, reduce watering to once every 2 weeks. Decrease watering further if the plant is growing in a cool, dark place with reduced light."
+        },
+        {
+          "id": 70,
+          "type": "sunlight",
+          "description": "In order to ensure that the plant is receiving adequate sunlight, it should be planted in a sunny spot that receives at least 6 to 8 hours of direct sunlight each day. If planted in a shady area, it is important to provide the plant with supplemental lighting such as grow lights."
+        },
+        {
+          "id": 71,
+          "type": "pruning",
+          "description": "Kiwifruit is a commonly grown species of climbing vine, and as such requires regular pruning in order to promote thick, healthy growth. Proper timing can help with pest control and harvesting yields. Pruning should begin in the late winter, before bud break, and should continue through the flowering period in early summer. During these times, selectively remove dead, diseased, and crossed branches. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

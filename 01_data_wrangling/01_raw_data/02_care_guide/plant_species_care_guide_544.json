@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1977,
+      "species_id": 544,
+      "common_name": "rough maidenhair fern",
+      "scientific_name": [
+        "Adiantum hispidulum"
+      ],
+      "section": [
+        {
+          "id": 6136,
+          "type": "watering",
+          "description": "The rough maidenhair fern is a relatively easy-care plant, however, it does require regular watering. During the summer months, it should be watered 3-4 times a week and allowed to dry out slightly between waterings. During the winter, it should be watered once every 7-10 days. When watering the rough maidenhair fern, moisten the soil evenly to ensure even watering. It's important not to overwater the plant, as this can lead to root rot. To tell if your plant needs to be watered, feel the top inch of soil; if it’s dry, it’s time to water."
+        },
+        {
+          "id": 6137,
+          "type": "sunlight",
+          "description": "Rough maidenhair ferns should be grown in bright, indirect sunlight. It should receive at least 4 to 6 hours of indirect light per day; however, it can tolerate more. They prefer dappled light similar to that found in woodland settings. It can tolerate some exposure to direct sun during the morning hours and should be protected from the afternoon sun. It can also grow under fluorescent lights, but it prefers natural sunlight."
+        },
+        {
+          "id": 6138,
+          "type": "pruning",
+          "description": "Rough maidenhair fern (Adiantum hispidulum) should be pruned in late winter or early spring before new growth begins. It should be pruned back to a few inches above the crown of the plant. Pruning helps to promote healthy and vigorous new growth. It is also important to remove any dead, dying, or diseased foliage during pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

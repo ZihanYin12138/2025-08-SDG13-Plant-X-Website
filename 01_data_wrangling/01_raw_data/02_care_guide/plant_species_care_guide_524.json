@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 8,
+      "species_id": 524,
+      "common_name": "white baneberry",
+      "scientific_name": [
+        "Actaea pachypoda"
+      ],
+      "section": [
+        {
+          "id": 29,
+          "type": "watering",
+          "description": "Water white baneberry plants on a regular basis, aiming to keep the soil evenly moist. The best time to water is in the morning, when the foliage has had a chance to dry since the previous evening. Depending on your climate, you may need to water the plants every few days in the summer and every 1-2 weeks in the winter."
+        },
+        {
+          "id": 30,
+          "type": "sunlight",
+          "description": "The white baneberry plant needs direct sunlight for at least 6 hours each day for optimal growth and to maintain good health. Without enough sunlight, the plant will start to become unhealthy and droopy. The white baneberry prefers a spot that is partially shaded from the direct sunlight. The best sunlight exposure is one that will provide the plant with direct sunlight in the early mornings and late afternoons, while being more sheltered from the intense midday sun."
+        },
+        {
+          "id": 31,
+          "type": "pruning",
+          "description": "Regular pruning helps maintain a neat, tidy growth habit and encourages new stems and foliage. White baneberry should be pruned annually, in early spring, to remove dead or diseased wood and to control its size. When pruning white baneberry, the stems should be cut just above a bud. This will encourage new growth and help maintain a manageable size. Pruning late in the season can encourage new growth that will be killed by cold temperatures.\n\nBefore pruning, it’s important to take a good look at the plant to identify potential problem areas and potential hazards. White baneberry branches can snap easily if handled too harshly, so be careful when handling the stems. Prune away any dead or diseased wood, as well as any crossing branches that are competing for light and space. This will help keep the plant healthy and encourage strong new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

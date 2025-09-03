@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1958,
+      "species_id": 519,
+      "common_name": "grassy-leaved sweet flag",
+      "scientific_name": [
+        "Acorus gramineus 'Pusillus Minimus Aureus'"
+      ],
+      "section": [
+        {
+          "id": 6079,
+          "type": "watering",
+          "description": "This plant species does best when watered regularly and deeply. It is recommended to water it once to twice a week, depending on the season and any other environmental factors that may influence the amount of water needed. During the summer months, grassy-leaved sweet flag should be watered more often, and less during winter months. The amount of water should be enough to saturate the soil, but not so much that the area is completely flooded. Additionally, check to make sure the soil drains well to avoid overwatering. Monitor the soil moisture regularly to make sure the plant is getting just enough water."
+        },
+        {
+          "id": 6080,
+          "type": "sunlight",
+          "description": "Grassy-leaved sweet flag (Acorus gramineus 'Pusillus Minimus Aureus') prefers about 8 hours of direct sunlight each day. It can tolerate a range of light levels, but bright indirect light (such as dappled sun) is best if direct sunlight is not available. For best results, choose a location that receives morning sunlight and partial shade in the afternoon. When grown indoors, it is best to place in a south facing window as they will get the most sunlight during the day."
+        },
+        {
+          "id": 6081,
+          "type": "pruning",
+          "description": "Grassy-leaved sweet flag (Acorus gramineus 'Pusillus Minimus Aureus') should be pruned regularly to maintain a neat plant shape and control its size. It is best to prune annually in late winter or early spring before new growth begins. Remove any dead, damaged, or diseased stems, leaves and flower stalks, then carefully shape the plant by removing any stems and leaves that are overcrowding other stems or leaves. It is essential to leave some leaves or stems attached to the base of the plant to keep it healthy. If the plant has become too tall or too wide for its space, prune it heavily back to the desired size. Take care to smooth the cut edges with sharp pruners so that the plant has a clean appearance."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

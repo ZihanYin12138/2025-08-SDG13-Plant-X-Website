@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1955,
+      "species_id": 516,
+      "common_name": "grassy-leaved sweet flag",
+      "scientific_name": [
+        "Acorus gramineus 'Minimus Aureus'"
+      ],
+      "section": [
+        {
+          "id": 6070,
+          "type": "watering",
+          "description": "Grassy-leaved sweet flag likes moist but well-drained soil. During growing seasons, water the plant deeply and thoroughly once per week, or as soil begins to look slightly dry in between waterings. During hot weather, check the soil every few days to make sure it isn’t getting too dry. In the winter, water only when the soil is completely dry, as overt watering in winter can cause root rot."
+        },
+        {
+          "id": 6071,
+          "type": "sunlight",
+          "description": "Grassy-leaved sweet flag (Acorus gramineus 'Minimus Aureus') requires full to partial sun. It prefers bright, indirect sunlight but can tolerate partial shade. This species should receive at least 4 hours of direct sun each day. In regions with hot summers, some afternoon shade may be necessary to protect the plant from excessive heat. The plant does well in pots, and can be moved indoors or into a shaded area during the hottest part of the day."
+        },
+        {
+          "id": 6072,
+          "type": "pruning",
+          "description": "Grassy-leaved sweet flag (Acorus gramineus 'Minimus Aureus') requires pruning twice a year. This should be done in spring and autumn. During the pruning in spring, remove any yellowing or dead leaves as well as any shoots or stems that have become limp as this can promote better plant health. For the autumn pruning, you should remove the flower stalks and any stems that may have grown too long during the summer, to promote bushier growth. Pruning should be done only lightly and with sharp, clean pruning shears to ensure that the sweet flag retains its shape and is not over-pruned."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

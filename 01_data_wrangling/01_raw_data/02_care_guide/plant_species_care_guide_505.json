@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1945,
+      "species_id": 505,
+      "common_name": "monkshood",
+      "scientific_name": [
+        "Aconitum bulbuliferum 'Monk Gone Wild'"
+      ],
+      "section": [
+        {
+          "id": 6040,
+          "type": "watering",
+          "description": "Your monkshood plant should be watered every 1-2 weeks, depending on the soil moisture level. An easy way to check this is to stick your finger into the soil. If the top 1-2 inches are dry, it’s time to water. When you do water, give your monkshood plant a deep soak until the water runs out the bottom of the pot. Never let your plant stand in water, as this can cause root-rot."
+        },
+        {
+          "id": 6041,
+          "type": "sunlight",
+          "description": "Monkshood (Aconitum bulbuliferum 'Monk Gone Wild') prefers full to partial sun. As an alpine plant and member of the buttercup family, it needs 6 to 8 hours of direct sunlight per day for best flowering, but will tolerate partial sun or partial shade during the hottest part of the day. Because it is a perennial, it prefers consistent, moderate light throughout the entire growing season, from spring until fall. If grown in the most optimal conditions (i.e. in full sun and rich soil), Monkshood can bloom continuously from spring to late fall."
+        },
+        {
+          "id": 6042,
+          "type": "pruning",
+          "description": "Monkshood should be pruned late in the season, after flowering has ceased. This should ideally take place between December and March of the following year. Pruning should remove any dead, diseased or unsightly stems, as well as any stems that are crossing over or rubbing against each other. The plant should be reduced by 1/3 or 1/2 in size each year to keep it in a desirable habit. During pruning, be sure to wear protective clothing and gloves to prevent any contact with the plant's toxic foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1961,
+      "species_id": 522,
+      "common_name": "bugbane",
+      "scientific_name": [
+        "Actaea dahurica"
+      ],
+      "section": [
+        {
+          "id": 6088,
+          "type": "watering",
+          "description": "Water bugbane plants only once a week, and use only about 1 inch of water. Make sure the soil has good drainage; waterlogged soil can cause the plant’s roots to rot. During hot summer months, longer droughts can be tolerated, whereas during the cooler months bugbane should be watered more often. Discontinue watering in the fall, and resume when the threat of frost has passed."
+        },
+        {
+          "id": 6089,
+          "type": "sunlight",
+          "description": "Bugbane (Actaea dahurica) requires full sunlight for about 6 hours a day. During the warmer months, when the days are longer, they can tolerate up to 8 hours of direct sunlight, while during the winter months they need only 4 hours of direct sunlight. The sun should be strong and direct, and it should never be too hot for the bugbane, so make sure to provide shade during the hottest times of the day. "
+        },
+        {
+          "id": 6090,
+          "type": "pruning",
+          "description": "Bugbane (Actaea dahurica) has low pruning requirements and should generally only be pruned in the late spring or early summer months. This pruning should consist of removing dead, damaged, or diseased branches as well as those that are too large or overgrowing the desired shape. Pruning should be minimal to avoid stunting growth, as this species grows slowly. When pruning, make sure to use sharp, sterile tools and wear protective clothing. Additionally, it is beneficial to prune after flowering, as this will encourage new growth and maintain the desired shape of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1999,
+      "species_id": 577,
+      "common_name": "lily of the Nile",
+      "scientific_name": [
+        "Agapanthus 'Kingston Blue'"
+      ],
+      "section": [
+        {
+          "id": 6202,
+          "type": "watering",
+          "description": "Water Lily of the Nile deeply and slowly once per week during the summer season. Make sure to water only during the coolest part of the day, either in the morning or early evening. Water until it runs from the bottom of the pot. Allow the soil to dry slightly between waterings. Reduce watering during the winter season only when temperatures are consistently cool and rainfall is regular. Do not allow the soil to dry out completely."
+        },
+        {
+          "id": 6203,
+          "type": "sunlight",
+          "description": "Lily of the Nile is a sun-loving plant that requires at least 6 hours of sunlight per day. Full sun is optimal for best bloom and foliage growth. If you live in a hot climate, partial shade is ideal to keep the plants from getting too much intense sunlight that can cause sunburn. During the summer, direct sunlight for afternoon hours is recommended to ensure proper flowering. In cooler climates, this plant can still benefit from a few hours of morning direct sun, followed by afternoon shade."
+        },
+        {
+          "id": 6204,
+          "type": "pruning",
+          "description": "Lily of the Nile (Agapanthus 'Kingston Blue') should be pruned in early spring to early summer. Trim off any dead leaves and dead flower stalks, being careful to leave plenty of intact leaf clumps at the base of the plant. Trim the tips of the foliage to give the plant a “rounded” look, but don’t take off more than 1/3 of the length of the leaves. Remove any diseased or damaged leaves, as well. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

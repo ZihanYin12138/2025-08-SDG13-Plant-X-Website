@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2007,
+      "species_id": 588,
+      "common_name": "giant hyssop",
+      "scientific_name": [
+        "Agastache 'Firebird'"
+      ],
+      "section": [
+        {
+          "id": 6226,
+          "type": "watering",
+          "description": "Water giant hyssop (Agastache 'Firebird') deeply to ensure the roots get plenty of moisture. During their first growing season, giant hyssop should be watered 2-3 times a week if the soil is dry. Once they are established, only water them 1-2 times a week. Watering should be done slowly so that the soil can absorb the moisture, and avoid overwatering. In locations with high humidity, it is recommended that giant hyssop be watered every other day. In the winter months, giant hyssop should be watered once a month or when the soil is dry."
+        },
+        {
+          "id": 6227,
+          "type": "sunlight",
+          "description": "Giant hyssop, or Agastache 'Firebird', loves full sun! This plant will thrive when it has a minimum of 6 hours of direct sunlight per day in the growing season. Giant hyssop also prefers full sun in the spring, when growth is most active, and during early summer. It is able to tolerate partial shade during the hotter months of the year, as long as its sun exposure does not dip below 4 hours per day, especially for more northern regions where the sun is more intense in the heat of summer."
+        },
+        {
+          "id": 6228,
+          "type": "pruning",
+          "description": "Giant hyssop (Agastache 'Firebird') should be pruned in early spring before new growth appears. Pruning should only be done to remove dead or damaged stems and branches. In general, light pruning is recommended, and any vigorous pruning should be avoided. It is best not to prune more than 1/3 of the total foliage of the plant at any time. Pruning should also be done carefully to avoid causing any harm to the larger woody stems and should not be done excessively."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

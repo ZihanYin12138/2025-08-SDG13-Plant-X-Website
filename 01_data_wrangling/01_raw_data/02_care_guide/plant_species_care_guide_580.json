@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2001,
+      "species_id": 580,
+      "common_name": "giant hyssop",
+      "scientific_name": [
+        "Agastache 'Apricot Sunrise'"
+      ],
+      "section": [
+        {
+          "id": 6208,
+          "type": "watering",
+          "description": "Water giant hyssop (Agastache 'Apricot Sunrise') when the top inch of soil is dry. This plant needs consistent moisture throughout the growing season, so it is best to water deeply 1-2 times per week in the summer. It is sensitive to dry soils, so make sure not to leave the soil dry for too long. Water slowly and try to avoid wetting the leaves. Avoid over-watering and standing water which can cause root rot. In the winter months, water less often when the temperatures drop and the plant is less actively growing."
+        },
+        {
+          "id": 6209,
+          "type": "sunlight",
+          "description": "Giant hyssop (Agastache 'Apricot Sunrise') requires 6 to 8 hours of full sun per day for best growth. If possible, choose a spot in the garden that receives the morning sun, as this will reduce the chance of dehydration or wilting that may occur when the heat of the afternoon sun is present. Plant in a location that has well-drained soil and good air circulation to prevent any root rot or disease from occurring."
+        },
+        {
+          "id": 6210,
+          "type": "pruning",
+          "description": "Giant hyssop (Agastache 'Apricot Sunrise') should be lightly pruned in early spring to encourage new growth and a tidy appearance. Any dead wood or damaged stems should be removed first. To encourage bushy, vibrant growth, pruning can be done again in late spring, early summer, by trimming up to 1/3 of the plant. This should be done before the plant blooms, as this practice will curtail the flowering of the plant for that year, though it will encourage robust growth in future years."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

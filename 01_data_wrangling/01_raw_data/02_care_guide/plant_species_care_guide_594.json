@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2012,
+      "species_id": 594,
+      "common_name": "giant hyssop",
+      "scientific_name": [
+        "Agastache 'Purple Haze'"
+      ],
+      "section": [
+        {
+          "id": 6241,
+          "type": "watering",
+          "description": "Giant hyssop (Agastache 'Purple Haze') should be watered once a week in the warm summer months, and every other week during cooler months. When watering, the soil should be moistened to a depth of 6-8 inches. Be sure not to over-water, as the plant’s root system can become waterlogged and cause the plant to succumb to rot. If soil starts to dry out, water the plant more frequently. During periods of extreme heat and drought, an extra deep soaking of the root zone may be necessary."
+        },
+        {
+          "id": 6242,
+          "type": "sunlight",
+          "description": "Giant hyssop (Agastache 'Purple Haze') prefers full sun, meaning it should be planted in an area that gets about 6 hours of direct sunlight every day. If this species is grown in an area that does not receive the recommended amount of sunlight, the plant can become stunted and produce fewer flowers. Therefore, it is important to site this species in a location that receives at least 6 hours of direct sunlight daily."
+        },
+        {
+          "id": 6243,
+          "type": "pruning",
+          "description": "Giant hyssop (Agastache 'Purple Haze') should be pruned annually in late winter or early spring, before new growth starts, to encourage bushier growth. Pruning should be done by cutting the stems back by 1/3 of the previous year’s growth. Pruning in early spring will also help remove any dead or diseased foliage and promote the formation of new flushes of growth. If you’d like, you can also lightly prune the plant again in mid-summer or in the fall, but be careful not to prune too much, as this can cause the plant to be overly vigorous and may even result in a decrease in flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

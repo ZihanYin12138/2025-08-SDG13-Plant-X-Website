@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1942,
+      "species_id": 500,
+      "common_name": "woolly yarrow",
+      "scientific_name": [
+        "Achillea tomentosa 'Aurea'"
+      ],
+      "section": [
+        {
+          "id": 6031,
+          "type": "watering",
+          "description": "Wooly yarrow (Achillea tomentosa 'Aurea') is an drought tolerant plant, requiring minimal amounts of watering during its growing season. Once established, watering should take place when the top layer of soil is dry. During the hot, summer months water once per week. During the cool, winter months, water every 4 to 6 weeks, allowing the top layer of soil to completely dry in between. In order for the plant to produce blooms, water should be applied to keep the soil consistently moist but not soggy. Never let the soil become overly saturated, as this can cause root rot."
+        },
+        {
+          "id": 6032,
+          "type": "sunlight",
+          "description": "Woolly yarrow (Achillea tomentosa 'Aurea') thrives best when grown in an area with full sun for a minimum of 6 hours per day. Too little light can cause the foliage to become leggy and stretched. When provided the correct amount of sunlight, woolly yarrow will quickly establish itself and produces attractive foliage with dazzling yellow flowers in the Spring and Summer."
+        },
+        {
+          "id": 6033,
+          "type": "pruning",
+          "description": "Woolly yarrow is an evergreen perennial that thrives in full sun and well-drained soil. It can tolerate some shade but blooms best in full sun. Woolly yarrow should be pruned in late spring, after the blooms have faded, to keep it looking healthy and attractive. Pruning should be limited to the outer edges of the plants, cutting any stems that are crossing over or dead/dying. Also, pruning should be done to remove any dead flowers and spent foliage. This will promote healthier foliage and prevent the plant from becoming \"leggy\". If more severe pruning is desired, light pruning can also be done in early spring before new growth emerges. However, it is important to remember that woolly yarrow blooms on old wood and extreme pruning could remove much of the flowering potential for next season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

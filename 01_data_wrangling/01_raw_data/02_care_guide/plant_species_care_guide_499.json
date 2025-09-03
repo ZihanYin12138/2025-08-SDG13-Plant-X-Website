@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 565,
+      "species_id": 499,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea 'Terracotta'"
+      ],
+      "section": [
+        {
+          "id": 19494,
+          "type": "watering",
+          "description": "Yarrow (Achillea 'Terracotta') requires moderate watering, about 1-2 inches of water per week, either from rainfall or watering. Do not overwater to avoid root rot, as the plant tolerates some drought conditions. Water when the top inch of soil begins to feel dry. If rainfall is less than 1 inch per week, use a garden hose or watering can to supplement and provide additional water."
+        },
+        {
+          "id": 19495,
+          "type": "sunlight",
+          "description": "Yarrow (Achillea 'Terracotta') requires full sun for best growth, although it can tolerate some shade in the afternoon. It prefers 6 to 8 hours of direct sunlight each day in order to look and feel its best."
+        },
+        {
+          "id": 19496,
+          "type": "pruning",
+          "description": "Yarrow (Achillea 'Terracotta') should be pruned after its first bloom, usually in late spring or early summer. Pruning should involve removing spent flowers and thinning out the plant so that airflow and light can reach the inner parts of the plant. Trimming wayward branches will also improve the plant's overall structure. Yarrow can also be cut back by up to 1-third of its total height at this time for enhanced blooming. Pruning should be done with sharp, clean scissors to avoid tearing or breaking branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

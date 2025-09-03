@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1951,
+      "species_id": 512,
+      "common_name": "monkshood",
+      "scientific_name": [
+        "Aconitum volubile"
+      ],
+      "section": [
+        {
+          "id": 6058,
+          "type": "watering",
+          "description": "Monkshood (Aconitum volubile) should be watered well every 1-2 weeks during the growing season which is usually from spring to fall. During the hot summer months, water more frequently and try to find a cool location as this plant is not heat tolerant. Water until the soil is moist but not soggy. It’s best to water monkshood in the morning so that the water will have had time to evaporate before nightfall. During the winter, the plant does not need to be watered as often as during the warmer seasons. Water enough to just keep the soil from completely drying out."
+        },
+        {
+          "id": 6059,
+          "type": "sunlight",
+          "description": "Monkshood (Aconitum volubile) thrives in bright, full sunlight. This plant needs 4 to 6 hours of direct sun each day, preferably in the morning hours. It's best to avoid extreme heat or hot midday sun which may scorch the leaves. Overly shady locations are not recommended as the lack of sunlight can cause this species to become spindly and disease prone."
+        },
+        {
+          "id": 6060,
+          "type": "pruning",
+          "description": "Monkshood should be pruned in early to mid spring just before or after new growth begins to emerge. Pruning should be done carefully; remove spent stems and light thinning to promote a bushier habit and encourage more blooms. Monkshood is very tolerant of pruning and can grow back quickly even when clipped. Cutting the plant down to the base can be done to stimulate a more compact and blooming habit, however, this should be done carefully as too much pruning could cause the plant to become stressed and affect its overall health."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
