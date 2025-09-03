@@ -1,0 +1,8 @@
+{
+  "version": "2.0",
+  "routeKey": "GET /plants",
+  "rawPath": "/plants",
+  "rawQueryString": "general_plant_id=102",
+  "queryStringParameters": { "general_plant_id": "102" },
+  "requestContext": { "http": { "method": "GET", "path": "/plants" } }
+}
