@@ -2,12 +2,11 @@
   "version": "2.0",
   "routeKey": "GET /plants",
   "rawPath": "/plants",
-  "rawQueryString": "q=maple&if_edible=true&if_flowers=false&limit=5&offset=0",
+  "rawQueryString": "if_medicinal=true&if_poisonous=false&limit=10&offset=0",
   "queryStringParameters": {
-    "q": "maple",
-    "if_edible": "true",
-    "if_flowers": "false",
-    "limit": "5",
+    "if_medicinal": "true",
+    "if_poisonous": "false",
+    "limit": "10",
     "offset": "0"
   },
   "requestContext": { "http": { "method": "GET", "path": "/plants" } }

@@ -1,7 +1,7 @@
 # lambdas/plants/app.py
 from __future__ import annotations
 import os, json
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 
 from common import fetch_one, fetch_all
 
@@ -28,12 +28,7 @@ def _to_int(s: Optional[str], default: int) -> int:
 
 # -------- 关键适配：统一从事件中抽取 method/path/query ----------
 def _extract_req(event: Dict[str, Any]) -> tuple[str, str, Dict[str, str]]:
-    """
-    返回 (method, path, queryStringParameters)
-    - HTTP API v2: requestContext.http.method + rawPath
-    - REST API v1: httpMethod + path
-    """
-    # v2
+    """返回 (method, path, queryStringParameters)；兼容 HTTP API v2 / REST v1。"""
     rc = event.get("requestContext") or {}
     http_v2 = rc.get("http") or {}
     if http_v2.get("method") and event.get("rawPath"):
@@ -42,31 +37,77 @@ def _extract_req(event: Dict[str, Any]) -> tuple[str, str, Dict[str, str]]:
             event.get("rawPath", ""),
             event.get("queryStringParameters") or {},
         )
-    # v1
     return (
         event.get("httpMethod", "") or "",
         event.get("path", "") or "",
         event.get("queryStringParameters") or {},
     )
 
+# ---------- 工具：解析布尔参数 ----------
+_FILTER_KEYS = [
+    "if_threatened",
+    "if_edible",
+    "if_indoors",
+    "if_medicinal",
+    "if_poisonous",
+    "if_fruits",
+    "if_flowers",
+]
+
+def _to_bool(val: Optional[str]) -> Optional[bool]:
+    if val is None:
+        return None
+    s = str(val).strip().lower()
+    if s in {"1", "true", "t", "yes", "y"}:
+        return True
+    if s in {"0", "false", "f", "no", "n"}:
+        return False
+    return None
+
+def _bool_clause(col: str, desired: bool) -> str:
+    """
+    兼容 BOOLEAN/TEXT：把列转成字符串做 lower 判断；
+    True 匹配 {'true','1'}，False 匹配 {'false','0'}。
+    """
+    if desired:
+        return f"(LOWER(CAST({col} AS CHAR)) IN ('true','1'))"
+    else:
+        return f"(LOWER(CAST({col} AS CHAR)) IN ('false','0'))"
+
+def _build_where_and_params(q: Optional[str], filters: Dict[str, bool]) -> tuple[str, list]:
+    clauses: List[str] = []
+    params: List[Any] = []
+
+    if q:
+        like = f"%{q}%"
+        clauses.append("(m.common_name LIKE %s OR m.scientific_name LIKE %s)")
+        params += [like, like]
+
+    # 动态拼接布尔筛选
+    for k, v in filters.items():
+        clauses.append(_bool_clause(f"m.{k}", v))
+
+    where_sql = " AND ".join(clauses) if clauses else "1=1"
+    return where_sql, params
+
 # ---------- 搜索列表 ----------
-def search_plants(q: str, limit: int, offset: int) -> Dict[str, Any]:
-    like = f"%{q}%"
+def search_plants(q: Optional[str], limit: int, offset: int, filters: Dict[str, bool]) -> Dict[str, Any]:
+    where_sql, params = _build_where_and_params(q, filters)
 
     # 总数
     cnt_row = fetch_one(
-        """
+        f"""
         SELECT COUNT(*) AS cnt
         FROM Table01_PlantMainTable m
-        WHERE (m.common_name LIKE %s OR m.scientific_name LIKE %s)
+        WHERE {where_sql}
         """,
-        (like, like),
+        tuple(params),
     )
     total = int(cnt_row["cnt"]) if cnt_row else 0
 
     # 列表
     rows = fetch_all(
-        """
+        f"""
         SELECT
           m.general_plant_id,
           m.common_name,
@@ -75,12 +116,12 @@ def search_plants(q: str, limit: int, offset: int) -> Dict[str, Any]:
         FROM Table01_PlantMainTable m
         LEFT JOIN Table05_GeneralPlantImageTable img
                ON img.general_plant_id = m.general_plant_id
-        WHERE (m.common_name LIKE %s OR m.scientific_name LIKE %s)
+        WHERE {where_sql}
         GROUP BY m.general_plant_id, m.common_name, m.scientific_name
         ORDER BY MIN(m.plant_id) ASC
         LIMIT %s OFFSET %s
         """,
-        (like, like, limit, offset),
+        tuple(params + [limit, offset]),
     )
 
     items = [
@@ -198,11 +239,20 @@ def handler(event, context):
         if method != "GET" or not str(path).startswith("/plants"):
             return _resp(400, {"message": f"Unsupported route: {method} {path}"})
 
-        gid_param = (qs or {}).get("general_plant_id")
-        q = (qs or {}).get("q")
-        limit = _to_int((qs or {}).get("limit"), 20)
-        offset = _to_int((qs or {}).get("offset"), 0)
+        qs = qs or {}
+        gid_param = qs.get("general_plant_id")
+        q = qs.get("q")
+        limit = _to_int(qs.get("limit"), 20)
+        offset = _to_int(qs.get("offset"), 0)
 
+        # 收集布尔筛选（只把有传值且能解析为 bool 的项加入）
+        filters: Dict[str, bool] = {}
+        for k in _FILTER_KEYS:
+            b = _to_bool(qs.get(k))
+            if b is not None:
+                filters[k] = b
+
+        # 详情：按 ID
         if gid_param:
             try:
                 gid = int(gid_param)
@@ -213,10 +263,11 @@ def handler(event, context):
                 return _resp(404, {"message": "plant not found"})
             return _resp(200, data)
 
-        if q:
-            return _resp(200, search_plants(q=q, limit=limit, offset=offset))
+        # 列表：支持 关键词 + 多个布尔筛选；也支持只有布尔筛选（q 可为空）
+        if q or filters:
+            return _resp(200, search_plants(q=q, limit=limit, offset=offset, filters=filters))
 
-        return _resp(400, {"message": "Missing query. Use ?q=keyword or ?general_plant_id=ID"})
+        return _resp(400, {"message": "Missing query. Use ?q=keyword or ?general_plant_id=ID or boolean filters"})
 
     except Exception as e:
         return _resp(500, {"message": f"internal error: {str(e)}"})
