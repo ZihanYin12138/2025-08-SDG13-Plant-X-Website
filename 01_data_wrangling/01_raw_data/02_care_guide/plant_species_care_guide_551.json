@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 481,
+      "species_id": 551,
+      "common_name": "stalked aeonium",
+      "scientific_name": [
+        "Aeonium undulatum"
+      ],
+      "section": [
+        {
+          "id": 1446,
+          "type": "watering",
+          "description": "Stalked aeonium should be watered lightly once every 5-7 days in the summer and once every 10-14 days in the winter. Water just enough to moisten the top layer of soil, but make sure the soil is never soggy. The aeonium can also be sensitive to calcium build-up in the soil so if you experience a yellowish tint to the leaves of the plant, flush it with water once every couple of months."
+        },
+        {
+          "id": 1447,
+          "type": "sunlight",
+          "description": "Generally, it is recommended that stalked aeonium receive at least 5 hours of sunlight each day. However, if the plant is located in a hot environment, it will need less than 5 hours of direct sunlight per day and should be kept in partial shade. It is important to take into consideration the time of day when your plant is receiving direct sunlight. Morning sunlight is most beneficial, while afternoon sunlight is often too strong and can scorch the leaves and damage the plant."
+        },
+        {
+          "id": 1448,
+          "type": "pruning",
+          "description": "Stalked aeonium (Aeonium undulatum) should be pruned in the late winter months to early spring. You should prune this plant species by cutting off any dead or yellowing leaves. Also, removing the central stem of each plant every few years should be done to control size and encourage new growth. Prune lightly – you should never remove more than 1-third of the total plant growth at any 1 time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

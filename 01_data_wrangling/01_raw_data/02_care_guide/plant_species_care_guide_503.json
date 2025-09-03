@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1944,
+      "species_id": 503,
+      "common_name": "golden spaniard",
+      "scientific_name": [
+        "Aciphylla aurea"
+      ],
+      "section": [
+        {
+          "id": 6037,
+          "type": "watering",
+          "description": "Golden spaniard plants should be watered weekly, providing around 1.5 to 2 litres of water. Watering in the morning is ideal so the soil has time to dry out during the day. Soil should be kept moist but not soaked, and avoid over-watering as this can cause root rot, especially during cooler months. During summer the soil should be dampened with more frequent watering as the plant will require more water to keep it looking healthy."
+        },
+        {
+          "id": 6038,
+          "type": "sunlight",
+          "description": "Golden Spaniard plants thrive when exposed to direct sunlight for approximately 5-6 hours per day. As a hardy and durable plant species, they are able to tolerate a variety of environmental conditions but prefer full sun exposure. The ideal spot to place a Golden Spaniard is a place that gets at least 6 hours of direct sunlight each day, preferably in the morning."
+        },
+        {
+          "id": 6039,
+          "type": "pruning",
+          "description": "Golden Spaniard should be pruned twice a year, once in the spring and then again in the autumn. In the spring, lightly prune the plant to remove any dead or damaged foliage, and to help promote healthy, compact growth. In the autumn, prune back the plant by up to 1 third of its size, to help prevent the individual stalks from becoming overcrowded. As a general rule, try to only prune back each stalk by a few inches each time, rather than removing whole branches, as this will help to keep the overall form of the plant and encourage a healthy, bushy appearance."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

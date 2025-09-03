@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 522,
+      "species_id": 558,
+      "common_name": "yellow buckeye",
+      "scientific_name": [
+        "Aesculus flava"
+      ],
+      "section": [
+        {
+          "id": 1569,
+          "type": "watering",
+          "description": "Because yellow buckeyes are native to wet, wooded areas, they are very tolerant of moisture and will thrive with regular irrigation. Water your yellow buckeye deeply and thoroughly to saturate the soil to a depth of 12 inches when the soil feels slightly dry to the touch. The frequency of watering will depend on your local climate, but in general, aim to water your yellow buckeye once a week during the growing season and once every 2 to 3 weeks during the winter."
+        },
+        {
+          "id": 1571,
+          "type": "sunlight",
+          "description": "The Yellow Buckeye tree grows well in areas that have full sun or partial shade. It requires at least 6 to 8 hours of direct sunlight per day. It will also benefit from some afternoon shade to protect it from the hot summer sun. It is not necessary to keep this tree in total shade but too much sunlight will scorch and damage its foliage. It is best to provide the right amount of light in the morning and afternoon to keep this tree as healthy as possible."
+        },
+        {
+          "id": 1574,
+          "type": "pruning",
+          "description": "Pruning a yellow buckeye should occur once a year in the spring or early summer. It should be pruned to maintain size and shape, and also to remove any dead or diseased branches or growth. In general, yellow buckeyes should be pruned no more than 25-30% of their total volume. Make sure not to remove more than this as it can cause stress to the plant and could potentially kill it. If the desired size of the plant is reached, there is no need to prune the plant anymore, as long as the dead and diseased branches are removed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

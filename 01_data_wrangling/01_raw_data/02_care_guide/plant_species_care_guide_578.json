@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2000,
+      "species_id": 578,
+      "common_name": "lily of the Nile",
+      "scientific_name": [
+        "Agapanthus 'Rfdd' DOUBLE DIAMOND"
+      ],
+      "section": [
+        {
+          "id": 6205,
+          "type": "watering",
+          "description": "Lily of the Nile should be watered thoroughly once or twice a week during the growing season, from spring to autumn. Plants should be watered until water begins to flow from the bottom of the pot. During the winter months, water much less, usually about once every 2 to 3 weeks. Make sure that the soil is always slightly moist, but not soggy."
+        },
+        {
+          "id": 6206,
+          "type": "sunlight",
+          "description": "Lily of the Nile (Agapanthus 'Rfdd' DOUBLE DIAMOND) does best with at least 6 hours of direct sunlight per day. During the peak of summer, when the days are long and sunny, this species of lily can tolerate up to 8 hours of sunlight. During the shorter days of winter, it is advisable to allow 5 to 6 hours of full, direct sun for best results. It is important to note that the light must be direct and unfiltered by foliage or other objects."
+        },
+        {
+          "id": 6207,
+          "type": "pruning",
+          "description": "Lily of the Nile (Agapanthus 'Rfdd' DOUBLE DIAMOND) should be pruned in the late winter or early spring, after flowering has ended. Start by removing any dead, dying, diseased, broken or damaged stems and branches, as well as any buds that are not growing well. Cut the stems down to approximately 4-6 inches in height. \n\nThen, prune back any remaining stems to create a pleasing and compact shape, while maintaining a balanced look and avoiding cutting too low or too close to the ground. Lastly, cut back any wayward shoots that are growing away from the desired shape of the plant. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

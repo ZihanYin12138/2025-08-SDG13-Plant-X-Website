@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1996,
+      "species_id": 573,
+      "common_name": "lily of the Nile",
+      "scientific_name": [
+        "Agapanthus 'Blue Yonder'"
+      ],
+      "section": [
+        {
+          "id": 6193,
+          "type": "watering",
+          "description": "Lilies of the Nile should be watered weekly when the top 1 inch of soil feels dry to the touch. When the plants are actively growing during the growing season (between spring and fall), they should be watered until the soil is thoroughly moist. In the winter months, reduce watering to once every 2 to 4 weeks. Be sure to always check the soil moisture level first. In addition to regular watering, lilies of the Nile also benefit from a monthly deep soaking which helps to ensure the plant gets the water it needs for healthy growth and blooming."
+        },
+        {
+          "id": 6194,
+          "type": "sunlight",
+          "description": "Lily of the Nile (Agapanthus 'Blue Yonder') needs full sun to partial shade to thrive and bloom well. It should receive 4-6 hours of direct sunlight each day. For optimal growth and flowering, place the plant in a location that receives full sun in the morning and shade in the afternoon. Alternatively, some growers have had success with providing light shade all day long. In areas with hot summers, plants may benefit from a little extra shade during the afternoon."
+        },
+        {
+          "id": 6195,
+          "type": "pruning",
+          "description": "Lily of the Nile (Agapanthus 'Blue Yonder') should be pruned in late spring or early summer after the plants have finished flowering. This plant responds well to pruning and should be cut back to 1 to 2 inches above soil level for optimum health. Be sure to use sharp, sterilized pruning shears to prevent disease. It is also important to remove any dead, diseased, or damaged foliage to keep the plant healthy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

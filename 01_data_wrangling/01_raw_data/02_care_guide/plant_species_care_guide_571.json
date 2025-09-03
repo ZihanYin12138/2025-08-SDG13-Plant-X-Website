@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1995,
+      "species_id": 571,
+      "common_name": "slenderleaf false foxglove",
+      "scientific_name": [
+        "Agalinis tenuifolia"
+      ],
+      "section": [
+        {
+          "id": 6190,
+          "type": "watering",
+          "description": "Slenderleaf false foxglove requires moderate water. Water deeply and regularly to ensure healthy growth. During the spring and summer months, water every 7-10 days, making sure the soil has had a chance to dry out between waterings. During fall and winter months, water about every 3 weeks when the weather is dry or when the soil looks dry. In tropical climates or areas with high humidity, water about once every 10-14 days. Over-watering can lead to root and pest problems, so make sure the soil is not soggy."
+        },
+        {
+          "id": 6191,
+          "type": "sunlight",
+          "description": "The slenderleaf false foxglove (Agalinis tenuifolia) requires partial shade to full sun and is best grown in soil that is consistently moist. It performs best when planted in a site that receives 6-8 hours of direct sunlight per day and will sometimes reach for brighter pockets of light. Avoid sites that are too shaded or too wet as these can encourage fungal disease. "
+        },
+        {
+          "id": 6192,
+          "type": "pruning",
+          "description": "Slenderleaf false foxglove (Agalinis tenuifolia) should be pruned twice in a year, once in early spring and once in late summer. During early spring pruning, old and dead flower stalks should be removed and any dead foliage should be pruned back to allow for more growth. During late summer pruning, lightly remove about 1/3 of new growth to promote bushiness and flowering for the following season. Pruning slimmerleaf false foxglove too much or too aggressively can damage the plant, so pruning should be done with caution."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

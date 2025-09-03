@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1980,
+      "species_id": 550,
+      "common_name": "bishop's weed",
+      "scientific_name": [
+        "Aegopodium podagraria 'Variegatum'"
+      ],
+      "section": [
+        {
+          "id": 6145,
+          "type": "watering",
+          "description": "Bishop's Weed should be watered regularly, keeping the soil moist but not soggy. During the growing season, water Bishop's Weed twice a week, allowing the soil to dry somewhat in between waterings. During the winter months, reduce watering to once a month, as the plant is semi-dormant during this time. As the plant is quite susceptible to root rot, it is best to water the plant using the bottom-up approach instead of drenching the soil directly. To do this, place a tray filled with water beneath the plant and let the roots soak it up. This procedure should be repeated until the soil is saturated."
+        },
+        {
+          "id": 6146,
+          "type": "sunlight",
+          "description": "Bishop's weed (Aegopodium podagraria 'Variegatum') grows best in full sun but will tolerate some shade. In general, it does best in situations with at least 4 to 6 hours of direct sunlight per day but can survive with as little as 2 hours of sun. For best growth, this plant prefers more sun, especially in areas with mild summers and cool, short-season climates. It can also withstand some heat and reflected sunlight."
+        },
+        {
+          "id": 6147,
+          "type": "pruning",
+          "description": "Bishop's weed (Aegopodium podagraria 'Variegatum') should be pruned in spring or early summer, as soon as new growth begins to appear. This plant grows quickly and can overtake other plants, so it is important to prune it annually to keep it in check.\n\nYou should trim the top of the plant to keep it in a rounded mound shape. Do this by removing any vertical stems and thinning out the foliage. If the foliage gets too thick, the lower leaves may not receive enough sunlight and can die off. It is also important to remove any flower stalks, as these expend a lot of energy, leaving less for new growth. Remove any suckers (shoots that appear at the base of the plant) as these will compete with the main plant for nutrients.\n\nFinally, it is a good idea to trim any straggly stems near the base of the plant. This will help the plant to stay neat and compact, rather than sprawled out."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

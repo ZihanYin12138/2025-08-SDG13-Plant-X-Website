@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1981,
+      "species_id": 553,
+      "common_name": "California buckeye",
+      "scientific_name": [
+        "Aesculus californica"
+      ],
+      "section": [
+        {
+          "id": 6148,
+          "type": "watering",
+          "description": "California buckeyes prefer evenly moist soil. Water deeply, at least once per week until established, and then slow down to once every 2 weeks during the warmer parts of the year. Make sure to water the plant during dry spells and if the soil begins to dry out. In hotter areas, daily or near daily water may be necessary. During cool weather, water less often. Over-watering can cause root rot. If the leaves begin to yellow and/or drop, this is usually an indication of over-watering."
+        },
+        {
+          "id": 6149,
+          "type": "sunlight",
+          "description": "California buckeye thrives in full sun to partial shade, with at least 4 to 6 hours of direct sunlight per day. It can tolerate morning sun and afternoon shade, but it will grow healthier and more vigorously with more sunlight exposure. During the summer months, the California buckeye does best with morning sunlight and filtered, indirect light during the hot afternoon hours. In the winter, however, a full day of sun is optimal."
+        },
+        {
+          "id": 6150,
+          "type": "pruning",
+          "description": "California buckeye is typically hardy, but it will require occasional pruning to promote healthy growth. Pruning should be done in early spring before new growth has established. The best approach is to remove any dead, broken, or drooping branches, and any that cross and rub up against each other. Doing this will encourage the plant to establish a strong, healthy framework. If necessary, pruning can also be done to lightly shape the plant as well. Generally, only light pruning is needed – about 15-20% of the new growth can be cut back. Taking off too much at once will not only slow growth, but also reduce flowering potential. It is also beneficial to remove any spent flowers as soon as they have wilted, as this will improve future flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

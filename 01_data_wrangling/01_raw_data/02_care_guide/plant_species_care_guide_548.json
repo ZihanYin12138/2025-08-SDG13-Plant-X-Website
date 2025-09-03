@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1003,
+      "species_id": 548,
+      "common_name": "Manila palm",
+      "scientific_name": [
+        "Adonidia merrillii"
+      ],
+      "section": [
+        {
+          "id": 3000,
+          "type": "watering",
+          "description": "Water the Manila palm moderately, especially during the warm months. During the spring and summer months, water the Manila palm deeply once per week. During the colder months (autumn and winter), water the plant lightly - once every 2 weeks should be sufficient. If there is a period of extended dry spell, then water the plant more frequently. The soil should always be kept slightly moist, but never soggy."
+        },
+        {
+          "id": 3008,
+          "type": "sunlight",
+          "description": "Manila palms need at least 4 hours of direct sunlight each day. During peak summer months, providing the plant with up to 6-7 hours of sunlight is ideal. It is generally best to provide the plant with multiple shorter periods of direct sunlight throughout the day rather than having it exposed to full sun all day long. Manila palms handle partial shade but should be protected from strong or intense winds, which can injure their fronds."
+        },
+        {
+          "id": 3015,
+          "type": "pruning",
+          "description": "Manila palm should be pruned twice a year, once in the late Winter/Early Spring and again in the late summer/early Fall. It is best to prune only the dead leaves since these can take away energy from the plant and blossom. A light pruning of about 1-third of the foliage will encourage proper growth. Make sure to use a sharp pair of pruning shears and only remove brown or yellowing leaves. When pruning larger leaves, the shears should be angled parallel to the stem for the cleanest cut."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1993,
+      "species_id": 568,
+      "common_name": "painted buckeye",
+      "scientific_name": [
+        "Aesculus sylvatica"
+      ],
+      "section": [
+        {
+          "id": 6184,
+          "type": "watering",
+          "description": "When watering a Painted Buckeye, water deeply and infrequently. Aim to thoroughly moisten the soil to the depth of 12-18 inches every 2-3 weeks. If the plant is grown in heavy clay soil, water less often, but be sure to water more deeply. During prolonged drought, you may need to water once a week to avoid wilting. During the rainy season, less frequent watering is usually needed. As a rule, wait until the top inch of soil is dry before watering again. Watering in the morning is best, as it gives the plant time to dry off and reduce the risk of fungal diseases. Adding a layer of mulch will help retain moisture in the soil."
+        },
+        {
+          "id": 6185,
+          "type": "sunlight",
+          "description": "Painted buckeye (Aesculus sylvatica) prefers full sun to partial shade. It can tolerate shade, but will not thrive as well as it would in direct sunlight. This plant should receive at least 6-8 hours of direct sunlight a day and should be planted in an area that is relatively free of other trees or plants that may block the sun. For best growth and flowering of this species, it should be planted in an area that receives full sun during the humid months of summer."
+        },
+        {
+          "id": 6186,
+          "type": "pruning",
+          "description": "Pruning painted buckeye (Aesculus sylvatica) should be done in late winter or early spring before new growth begins. This species tends to have a vigorous growth habit and can become overly large and congested if not pruned regularly. When pruning, begin by removing all dead, diseased, or damaged branches. This will help to promote healthier, more vigorous growth in the future. Further pruning should be limited, and is best done to thin out the branches to reduce overcrowding and to maintain the desired shape of the plant. Do not prune more than 1-third of the plant’s overall canopy or structure at once, as this could lead to stress or other issues. Pruning should be done thoughtfully to avoid creating an imbalance in the landscape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

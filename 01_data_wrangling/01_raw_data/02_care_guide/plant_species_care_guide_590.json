@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2008,
+      "species_id": 590,
+      "common_name": "giant hyssop",
+      "scientific_name": [
+        "Agastache 'Garden Leader Blue'"
+      ],
+      "section": [
+        {
+          "id": 6229,
+          "type": "watering",
+          "description": "Giant hyssop (Agastache 'Garden Leader Blue') thrives on consistent watering and should be watered on a regular basis. This plant prefers moist soil, but will not tolerate wet soil. It should be watered thoroughly once a week: the soil should be damp to the touch but not soggy. If the weather is particularly dry, then it may require more frequent watering. Whenever possible, try to water in the morning, as this will give the plant time to absorb moisture before the heat of the day. Never let the soil dry out completely; this could lead to wilting and poor plant health."
+        },
+        {
+          "id": 6230,
+          "type": "sunlight",
+          "description": "Giant hyssop (Agastache 'Garden Leader Blue') is an easy to grow herbaceous perennial plant that loves plenty of sunlight. This species enjoys full sun; it needs at least 6 hours of direct sunlight a day for optimal growth. This plant can also tolerate some afternoon shade, particularly if growing in hot, sunny climates. In regions with cold winters, giant hyssop should receive full sun for the best performance. During the summer months, this plant should receive morning sun and some dappled shade in the afternoon to help prevent overheating and sunburn."
+        },
+        {
+          "id": 6231,
+          "type": "pruning",
+          "description": "Giant hyssop (Agastache 'Garden Leader Blue') plants should be pruned regularly for the best results. Pruning should be done in the spring, before the new growth begins. To keep the plant in a nice rounded form, the tips of the branches should be trimmed back by approximately 1/3. This light pruning will help keep the plant looking neat and encourage additional blooms. After spring pruning, deadheading of fading flower stalks should be done frequently to promote new blooms. As the plant matures, some of the base branches may require thinning out for good air circulation and healthier growth. This should also be done in the spring. Pruning giant hyssop every year will help keep the plant looking its best."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

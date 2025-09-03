@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1983,
+      "species_id": 555,
+      "common_name": "red horse chestnut",
+      "scientific_name": [
+        "Aesculus carnea 'Briotii'"
+      ],
+      "section": [
+        {
+          "id": 6154,
+          "type": "watering",
+          "description": "This plant species should be watered once to twice a week, depending on the season and soil conditions. During warmer months, you should water the Red Horse Chestnut deeply, allowing its roots to access at least 2 inches of water every week. During cooler months, water it less frequently, but keep an eye on the soil to ensure it does not become overly dry. Additionally, avoid over-watering, as this can cause the roots of the plant to rot and will damage the plant's health."
+        },
+        {
+          "id": 6155,
+          "type": "sunlight",
+          "description": "The red horse chestnut (Aesculus carnea 'Briotii') is a medium-sized tree that prefers full sun and well-drained soil to thrive. It prefers 6-8 hours of sunlight per day, with afternoon shade in hotter climates. During the winter months, the tree can tolerate some shade, but it is important to give it some direct sun to help it stay healthy. In summer months, when most of the country is in full swing of hot days, you can adjust the light accordingly by moving the tree to a shadier spot until the days become cooler. This will help the tree from getting burnt leaves."
+        },
+        {
+          "id": 6156,
+          "type": "pruning",
+          "description": "Red Horse Chestnut trees should be pruned in late winter when the plant is in a dormant state. Prune severely, removing up to 1/3 of the overall size. This will help to keep the tree at a manageable height and keep the canopy open. Make sure to remove any branches that are dead, diseased, or growing toward the interior of the canopy. Also remove any weak, competing, or narrow-angled branches. After the initial pruning, follow up with light pruning during the summer months, to encourage healthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

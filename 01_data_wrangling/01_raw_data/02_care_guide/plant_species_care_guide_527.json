@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 678,
+      "species_id": 527,
+      "common_name": "black cohosh",
+      "scientific_name": [
+        "Actaea racemosa"
+      ],
+      "section": [
+        {
+          "id": 2034,
+          "type": "watering",
+          "description": "Black cohosh (Actaea racemosa) should generally be watered about once per week. The soil around the plant should be kept evenly moist, but never soggy or overly wet. To do this, water your plant enough to thoroughly moisten the soil but not enough so that the water is running off. If the soil is particularly dry or the plant is in a container, then water it more often. During hotter months, you may need to water more often (up to twice a week) to keep the soil from drying out."
+        },
+        {
+          "id": 2035,
+          "type": "sunlight",
+          "description": "Black cohosh (Actaea racemosa) prefers a moderate amount of sunlight (3 to 6 hours of direct sun per day). If planted in a shaded area, the amount of sunlight should be reduced. The best time to get the optimal amount of sunshine for this species is from the early morning to the late afternoon when the sun is at its strongest. Avoid exposing your plant to direct sunlight during the hottest part of the day (noontime) as this could damage the foliage."
+        },
+        {
+          "id": 2036,
+          "type": "pruning",
+          "description": "Pruning black cohosh should be done in the early spring once the danger of any hard frosts have passed. Pruning should be done when the plant is actively growing to encourage new growth. The amount of pruning needed varies depending on the size and shape of the plant. Generally speaking, older, larger plants should be pruned more severely than younger, smaller plants. Dead branches should be pruned away, as well as any branches that are diseased or damaged. For maximum flowering, remove stems that have flowered. Pruning black cohosh will help the plant stay healthy and encouraged new vigorous growth in the upcoming season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

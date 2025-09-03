@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 478,
+      "species_id": 543,
+      "common_name": "maidenhair fern",
+      "scientific_name": [
+        "Adiantum capillus-veneris"
+      ],
+      "section": [
+        {
+          "id": 1435,
+          "type": "watering",
+          "description": "Maidenhair ferns prefer to grow in humid climates with regular misting. Ideally, they should be watered once or twice a week in the summer, and once a week in the winter. When you do water, it is important to water thoroughly, until water runs out of the bottom of the pot. Let the top inch or 2 of soil dry in between waterings. Too much water or frequent shallow waterings can cause root rot."
+        },
+        {
+          "id": 1437,
+          "type": "sunlight",
+          "description": "Maidenhair ferns prefer bright, indirect sunlight and the amount and timing of light will depend on the type of environment. Outdoors, they should be kept in partial shade, receiving several hours of bright morning sunlight and dappled sunlight during the afternoon. Indoors, they will thrive in a bright location that's away from the direct rays of sunlight. Maidenhair ferns may need additional light, either from a grow light or from filtered sunlight during the winter when the days are shorter. For optimal growth, about 4 to 6 hours of morning sun with dappled sun in the afternoon will be best for these plants."
+        },
+        {
+          "id": 1439,
+          "type": "pruning",
+          "description": "Maidenhair ferns should be pruned regularly to ensure they stay healthy and maintain their shape. Pruning should generally be done in early spring or late fall and can be carried out either by removing entire fronds or the individual leaves. If larger pruning is needed, it is best to wait until spring. When pruning, be sure to leave at least 3-4 fronds and prune only the parts that are dead or dying. Monitor the plant closely and remove any discolored or damaged parts as soon as they appear so the plant is not compromised."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

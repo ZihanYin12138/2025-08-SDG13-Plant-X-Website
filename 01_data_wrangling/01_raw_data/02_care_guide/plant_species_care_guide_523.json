@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1962,
+      "species_id": 523,
+      "common_name": "bugbane",
+      "scientific_name": [
+        "Actaea matsumurae 'White Pearl'"
+      ],
+      "section": [
+        {
+          "id": 6091,
+          "type": "watering",
+          "description": "Bugbane (Actaea matsumurae 'White Pearl') should be watered deeply but infrequently. It thrives in moist soil, so aim to water once or twice a week in the summertime, but be sure to check the soil moisture as the plant's needs may differ depending on the season and weather. In the winter, water less often, only when the soil is completely dry. Always use water at room temperature. "
+        },
+        {
+          "id": 6092,
+          "type": "sunlight",
+          "description": "Bugbane (Actaea matsumurae 'White Pearl') prefers bright, indirect sunlight for optimal health. When offered too much direct sunlight, its foliage may scorch. For this reason, it is best to provide morning sun and light shade during the afternoon when the sun is at its strongest. An area that receives 3 or 4 hours of morning sun and light, dappled shade the remainder of the day is optimal. In any season, the afternoon sun should be filtered by a tree or fence."
+        },
+        {
+          "id": 6093,
+          "type": "pruning",
+          "description": "Bugbane (Actaea matsumurae 'White Pearl') should be pruned in early spring, and only minimally so. Pruning can include the removal of dead, diseased, or damaged growth, but should only be done to shape the shrub or direct growth away from walkways or other areas on the landscape. Similarly, thinning can be done to remove excess overcrowded growth, but it's important to ensure that you have an equal balance between the tops and bottoms of the plant. Bugbane can be pruned as much as 1-third of its total height with only minimal effects."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

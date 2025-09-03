@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1984,
+      "species_id": 556,
+      "common_name": "red horse chestnut",
+      "scientific_name": [
+        "Aesculus carnea 'Marginata'"
+      ],
+      "section": [
+        {
+          "id": 6157,
+          "type": "watering",
+          "description": "Red Horse Chestnut should be watered regularly, especially during drier seasons. Water it in the morning so that the foliage will be dry by nightfall, minimizing the risk of disease. During the planting and establishment period, water your Red Horse Chestnut deeply but infrequently, once a week. Once planted, provide 1 inch of water per week, either from rainfall or irrigation. During the summer, check the soil moisture near the base of the tree. If the top 2 inches of soil are dry, it's time to water. Water until the soil is soaked, but avoid flooding the area."
+        },
+        {
+          "id": 6158,
+          "type": "sunlight",
+          "description": "Red Horse Chestnut (Aesculus carnea 'Marginata') will do best with a good balance of sun and shade. For optimal growth, plant this species in a location that receives at least 4 hours of direct sunlight each day, preferably in the early morning or late afternoon hours when the sun is not as intense. This species thrives in climates with hot summers and may need extra protection from midday sun during the summer months. Avoid fully shaded spots since this species requires some sunlight for optimal growth and blooming."
+        },
+        {
+          "id": 6159,
+          "type": "pruning",
+          "description": "Red horse chestnut (Aesculus carnea 'Marginata') should be pruned twice yearly: once in late winter and again in early summer. In late winter, prune back any errant branches, take out any dead growth, and remove any diseased or broken branches. Pruning during the winter also helps to stimulate new growth in the spring. In early summer, trim back the main branches to the desired shape, and remove any suckers (new growth) that emerge from the base of the plant. It is best to avoid excessive pruning, which may lead to loss of shape and weakened plant health."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

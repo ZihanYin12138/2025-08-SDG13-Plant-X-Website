@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1966,
+      "species_id": 530,
+      "common_name": "bugbane",
+      "scientific_name": [
+        "Actaea simplex (Atropurpurea Group) 'Black Negligee'"
+      ],
+      "section": [
+        {
+          "id": 6103,
+          "type": "watering",
+          "description": "Bugbane should be watered when the soil is just beginning to dry out. This is usually once every 7-10 days when temperatures are moderate. Over-watering is a common problem, so aim to keep the soil slightly moist rather than constantly wet. During summer months, water Bugbane more frequently as the soil will dry out faster due to the higher temperatures. Always check the soil prior to watering and adjust as necessary."
+        },
+        {
+          "id": 6104,
+          "type": "sunlight",
+          "description": "Bugbane (Actaea simplex (Atropurpurea Group) 'Black Negligee') prefers partial to full shade and thrives best in environments where it does not receive direct sunlight for more than 4-5 hours per day. An ideal location would be one that is partially shaded (such as beneath a deciduous tree) with dappled sunlight throughout the day. It should never be placed in full sunlight as it would scorch the foliage and may result in leaf-burn. The plant should never be overexposed to direct heat or sunlight as this may result in stunting of the growth of the plant."
+        },
+        {
+          "id": 6105,
+          "type": "pruning",
+          "description": "Bugbane should be pruned in late winter or early spring, just before the new growth appears. Cutting back the branches of this plant can encourage it to remain dense and bushy. The shrub can be cut back by roughly 1/3 the total height to achieve this effect. Dead or broken branches can be removed during this time as well. It is important not to prune too late in the season, however, as Bugbane buds early in the year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

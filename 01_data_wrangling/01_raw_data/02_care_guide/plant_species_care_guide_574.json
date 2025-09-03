@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 528,
+      "species_id": 574,
+      "common_name": "lily of the Nile",
+      "scientific_name": [
+        "Agapanthus 'Cold Hardy White'"
+      ],
+      "section": [
+        {
+          "id": 1583,
+          "type": "watering",
+          "description": "Lilies of the Nile prefer moist but well-draining soil conditions and should generally be watered on a regular deep soaking cycle. Water when the soil feels dry to the touch, approximately once a week, making sure to water until the top 4-6 inches of soil are moist. During the hottest periods of the year, some plants may benefit from being watered twice a week. Do not allow the soil to become soggy."
+        },
+        {
+          "id": 1584,
+          "type": "sunlight",
+          "description": "Lily of the Nile (Agapanthus 'Cold Hardy White') will need full sun in order to reach full flower potential. It does best when given 6-8 hours of direct sunlight per day, with morning being the preferred time. It can still grow in partial shade, but will have fewer blooms."
+        },
+        {
+          "id": 1592,
+          "type": "pruning",
+          "description": "Lily of the Nile should be pruned twice a year - once in the spring right before active growth, and then again in the fall after the last blooms. For spring pruning, remove any dead foliage and prune the plant back to just above the soil level. For fall pruning, cut back the stems by 1-third to 1-half of their original length. Always prune only the stems that have died or finished blooming, leaving enough stem length so the plant has the energy to bloom again the following year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 524,
+      "species_id": 566,
+      "common_name": "bottlebrush buckeye",
+      "scientific_name": [
+        "Aesculus parviflora var. serotina 'Rogers'"
+      ],
+      "section": [
+        {
+          "id": 1575,
+          "type": "watering",
+          "description": "The bottlebrush buckeye requires moderate amounts of water and should not be overly saturated. During the growing season (April-August) the soil should be kept moist, but not soggy. In hotter climates, water once per week, making sure to saturate the soil well. During the cooler months (September-March) water about every other week or when the soil feels dry about 1-2 inches down. Take care to not over water as this can cause the roots to rot."
+        },
+        {
+          "id": 1577,
+          "type": "sunlight",
+          "description": "Bottlebrush buckeye will need about 6-8 hours of full sunlight each day for it to thrive and produce flowers. This species does best when planted in morning sun with some afternoon shade. If planted in a location with too little shade, the flowers may become few and far between. While the Bottlebrush Buckeye can tolerate some shade, try to find a location that receives direct full sunlight for most of the day."
+        },
+        {
+          "id": 1579,
+          "type": "pruning",
+          "description": "Bottlebrush buckeye should be pruned lightly every few years to maintain shape and health. Pruning should be done in late winter/early spring (February to March), before new growth appears. If you need to prune more than light pruning, it is best to do this in mid-summer (June to July) after flowering but before seed set. Remove dead, weak, crossing, and diseased branches as well as branches that are competing with each other. Lightly prune back shoots that are growing away from the center of the shrub or are growing too vigorously. Leaving some of the old wood will help encourage flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

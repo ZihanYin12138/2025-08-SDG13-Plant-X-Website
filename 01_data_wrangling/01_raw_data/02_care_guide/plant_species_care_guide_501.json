@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1943,
+      "species_id": 501,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea 'Walther Funcke'"
+      ],
+      "section": [
+        {
+          "id": 6034,
+          "type": "watering",
+          "description": "Water yarrow (Achillea ‘Walther Funcke’) when the top inch of soil or potting mix starts to dry out. Pour enough water so that some drains out of the bottom of the pot. Do not water excessively as this could lead to root rot. During the growing season, water your yarrow once every 7-10 days. In late fall and winter, scale back your watering intervals to once every 3-4 weeks. In cold weather, any excess water can cause problems for this plant."
+        },
+        {
+          "id": 6035,
+          "type": "sunlight",
+          "description": "The yarrow plant species (Achillea 'Walther Funcke') prefers bright, full sunlight in order to thrive. It will also do well under partially shaded conditions, though it will not flower as abundantly. The ideal amount of sunlight which should be provided for yarrow plants should be around 6 hours of direct sunlight every day during the peak growing season. During colder months, the yarrow plants can do well with slightly less amount of sunlight, such as 4-5 hours a day."
+        },
+        {
+          "id": 6036,
+          "type": "pruning",
+          "description": "In general, pruning should be done at least once a year - typically in early to mid-spring before new growth begins. During this time, use sharp pruners to remove all the dead and or damaged stems, as well as any weak or spindly growth. It is important to avoid cutting live stems, as this will delay the plant's flowering stage and deplete the energy it needs to stay healthy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

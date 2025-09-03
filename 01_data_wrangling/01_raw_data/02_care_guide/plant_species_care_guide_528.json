@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1964,
+      "species_id": 528,
+      "common_name": "bugbane",
+      "scientific_name": [
+        "Actaea simplex"
+      ],
+      "section": [
+        {
+          "id": 6097,
+          "type": "watering",
+          "description": "Bugbane should be watered deeply and infrequently. Water the soil until it is damp but not soggy. Aim to water it once every 7-14 days, depending on the environmental conditions. Be sure to allow the soil to dry out between waterings and adjust your watering schedule accordingly. In hot, dry weather, you may need to water more often, but allow the soil to dry out just a bit before you water again. For container-planted Bugbanes, be sure to check the soil moisture before you water; if it’s still damp, wait a day or 2 before watering."
+        },
+        {
+          "id": 6098,
+          "type": "sunlight",
+          "description": "Bugbane (Actaea simplex) prefers partial sunlight. This means that the plant should receive direct sunlight for about 3-4 hours a day, preferably in the morning. It should be placed somewhere that it will get both some direct sunlight, and some light shade throughout the day. This will help it thrive and maintain its ideal form. "
+        },
+        {
+          "id": 6099,
+          "type": "pruning",
+          "description": "Bugbane should be pruned after it finishes blooming in late summer or early fall. To ensure healthy growth and increased flowering, prune back approximately 1/4 of the stems at ground level. This will encourage vigorous new growth and an abundance of blooms in summertime. To keep the plant attractive and manageable, remove any dead, diseased, or crossed stems. Deadheading the spent flowers in the early summer will also help to increase and maintain the continual flowering of the bugbane."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

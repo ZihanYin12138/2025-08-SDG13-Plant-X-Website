@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1948,
+      "species_id": 508,
+      "common_name": "monkshood",
+      "scientific_name": [
+        "Aconitum 'Eleonara'"
+      ],
+      "section": [
+        {
+          "id": 6049,
+          "type": "watering",
+          "description": "Water once per week providing about 2 inches of water. Watering should be done in the morning or early afternoon in order to give the foliage time to dry off before nightfall. Do not allow the foliage to sit wet overnight, as it can be vulnerable to disease and rotting. During especially hot and dry periods, water more frequently."
+        },
+        {
+          "id": 6050,
+          "type": "sunlight",
+          "description": "Monkshood (Aconitum 'Eleonara') is best grown in full sun to partial shade for optimal blooming. For this plant species, it is recommended to place it in a location that receives at least 4 hours of direct sunlight per day. Monkshood prefers to be in light shade during the hottest part of the day, especially during the summer months. To ensure it has enough sunlight, it should be placed in a location that receives sun during the morning and late afternoon hours. Monkshood can also tolerate light shade during the winter months, though it may not flower as well."
+        },
+        {
+          "id": 6051,
+          "type": "pruning",
+          "description": "Monkshood (Aconitum 'Eleonara') should be pruned lightly in late spring, after the flowering season is over. Use sharp, clean clippers to remove any dead, damaged, or diseased stems and flowering stalks, as well as any shoots that are growing in an unwanted direction. Prune back straggly growth and lightly shape the plant if desired. Avoid pruning too much and avoid pruning late in the season, as this encourages the plant to start producing new growth which is then vulnerable to frost damage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

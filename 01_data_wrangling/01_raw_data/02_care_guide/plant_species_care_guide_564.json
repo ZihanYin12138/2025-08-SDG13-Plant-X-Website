@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1990,
+      "species_id": 564,
+      "common_name": "bottlebrush buckeye",
+      "scientific_name": [
+        "Aesculus parviflora"
+      ],
+      "section": [
+        {
+          "id": 6175,
+          "type": "watering",
+          "description": "Bottlebrush buckeye plants should be watered thoroughly once a week during their growing season (April through October). During dry periods, the plants may require more frequent watering. When irrigating the soil, the goal is to keep the soil consistently moist, but not soggy or wet. Water the soil around the base of the plant until the soil is fully saturated. Once a month, plants should receive a deep soaking to help promote healthy root systems."
+        },
+        {
+          "id": 6176,
+          "type": "sunlight",
+          "description": "Bottlebrush buckeye (Aesculus parviflora) prefers full to partial sun exposure, though it will tolerate partial shade. A site that receives full morning sun and afternoon shade is best. In order for the plant to thrive, it should receive at least 4 hours of direct sunlight during the summer months. Early morning sun is preferable to afternoon sun. During the winter months, the plant will tolerate slightly less sunlight."
+        },
+        {
+          "id": 6177,
+          "type": "pruning",
+          "description": "Bottlebrush buckeye (Aesculus parviflora) is a shrub-like plant that should be pruned regularly. Pruning should be done in late winter or early spring for best results, before any new growth appears. When pruning, the goal is to maintain a shapely shrub with a clear central stem and evenly sized and spaced lateral branches. Start by removing any dead, damaged, or crossing branches and thin out any congested areas. Shrubs should be pruned to the desired size and shape, taking care to not remove more than 1/3 of the growth each year. Keep in mind that these plants have an arching habit and should be shaped accordingly. Lastly, remove any suckers at the base of the shrub that can reduce air and light flow."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

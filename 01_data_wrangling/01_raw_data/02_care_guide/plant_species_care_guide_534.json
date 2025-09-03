@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1970,
+      "species_id": 534,
+      "common_name": "hardy kiwi",
+      "scientific_name": [
+        "Actinidia arguta"
+      ],
+      "section": [
+        {
+          "id": 6115,
+          "type": "watering",
+          "description": "For Hardy Kiwi (Actinidia arguta), it is best to water regularly but avoid drowning or over-watering. Water at least twice weekly during the warmer months and weekly in the fall, adjusting the watering cycle depending on the weather. If the soil has dried out and looks wilted, it may need more water. Water at the base of the plant, never on the leaves or fruit."
+        },
+        {
+          "id": 6116,
+          "type": "sunlight",
+          "description": "Hardy kiwi, also known as “baby kiwi”, is an increasingly popular plant species known for its succulent fruit. This species does best in full sun (at least 6 hours each day), although some afternoon shade is beneficial in extremely hot climates. "
+        },
+        {
+          "id": 6117,
+          "type": "pruning",
+          "description": "When pruning hardy kiwi, the ideal time to prune is in late winter to early spring, before the plant begins to come out of dormancy. Depending on how much the plant has grown, it may be necessary to prune it each year for 3 to 5 years until it's established. Prune back up to 1-third of it annually, cutting back any shoots that are over 3 feet in length. Make sure to also provide some support for the main trunk, so that it doesn’t break due to the weight of the plant. Lastly, prune off any dead or infested stems."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

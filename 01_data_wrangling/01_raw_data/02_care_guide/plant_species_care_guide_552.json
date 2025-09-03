@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 77,
+      "species_id": 552,
+      "common_name": "lipstick plant",
+      "scientific_name": [
+        "Aeschynanthus radicans"
+      ],
+      "section": [
+        {
+          "id": 1295,
+          "type": "watering",
+          "description": "The lipstick plant (Aeschynanthus radicans) prefers a moderately moist, yet well-drained soil, so it should be watered once the top inch of soil has become dry, approximately every 7-10 days. The warmer the temperature and more light the plant receives, the quicker the soil will become dry, so the frequency of watering may need to be adjusted accordingly. During the spring and summer months, the plant may also benefit from an occasional misting. "
+        },
+        {
+          "id": 1296,
+          "type": "sunlight",
+          "description": "The lipstick plant (Aeschynanthus radicans) prefers to have bright, but not direct, sunlight for several hours a day. They should have some shade in the afternoon in parts of the country with more intense sunlight. Ideally, they should have 4-6 hours of bright, indirect light daily in order to maintain their shape and colouring. For locations that are colder, they can tolerate a few more hours of sunlight, up to 8 hours a day. In hotter spots, 4-5 hours of light is preferred."
+        },
+        {
+          "id": 1297,
+          "type": "pruning",
+          "description": "The best time to prune a Lipstick Plant (Aeschynanthus radicans) is usually in the early Spring, shortly after it has finished blooming. You should prune the stems back by up to 1-third of their length, and also remove any dead, damaged or diseased stems. Keep in mind that this is a vigorous grower, and you may need to prune more than 1-third of the stems every year to keep it in check."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

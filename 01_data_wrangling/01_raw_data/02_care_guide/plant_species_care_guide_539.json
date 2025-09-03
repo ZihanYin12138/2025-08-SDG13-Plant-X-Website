@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1974,
+      "species_id": 539,
+      "common_name": "baobab",
+      "scientific_name": [
+        "Adansonia digitata"
+      ],
+      "section": [
+        {
+          "id": 6127,
+          "type": "watering",
+          "description": "The Baobab (Adansonia digitata) is a drought tolerant, African native species. It usually doesn’t require much water, but it will benefit from occasional deep watering. It should be watered every 10 - 14 days, for about 10 - 15 minutes, when the soil begins to feel dry. During the winter or cold months, water less often. If you are doubtful about the watering needs of the Baobab, the best way to check it is to place your finger on the top 1-2 inches of the soil. If it feels dry, it’s time to water."
+        },
+        {
+          "id": 6128,
+          "type": "sunlight",
+          "description": "Baobab trees typically enjoy a great deal of sunlight, at least 8 hours per day, from the moment the sun rises until it sets. This species of plant can also tolerate direct exposure to sunshine."
+        },
+        {
+          "id": 6129,
+          "type": "pruning",
+          "description": "Baobab trees (Adansonia digitata) need minimal pruning and should only be pruned in late summer or early autumn, during the dormant season. Pruning should only be done judiciously, as it can reduce the tree’s ability to produce new healthy growth. Pruning should be limited to removal of dead branches and limbs and thinning of the canopy to open up light to its lower canopy. Major pruning should be avoided unless absolutely necessary, as doing so can hamper the health of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

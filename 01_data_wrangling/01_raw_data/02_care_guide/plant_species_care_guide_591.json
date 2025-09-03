@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2009,
+      "species_id": 591,
+      "common_name": "dwarf hybrid hyssop",
+      "scientific_name": [
+        "Agastache KUDOS RED"
+      ],
+      "section": [
+        {
+          "id": 6232,
+          "type": "watering",
+          "description": "Dwarf hybrid hyssop (Agastache KUDOS RED) needs to be watered moderately but consistently. During the active growing season, it should be watered thoroughly 1-2 times a week, allowing the soil to dry out partially between waterings. In winter, reduce watering to once a month or when the soil is completely dry. Make sure the soil is well-draining to avoid root and stem rot."
+        },
+        {
+          "id": 6233,
+          "type": "sunlight",
+          "description": "Dwarf hybrid hyssop (Agastache Kudos Red) grows best in full sun, with at least 6 to 8 hours of direct sunlight each day. In areas with intense sunshine, the plant should be provided with some afternoon shade to help protect it from the heat. Without enough sunlight, the plant will look stretched and leggy, with few blooms. During hot summer months, it is best to provide protection from the sun in the afternoon."
+        },
+        {
+          "id": 6234,
+          "type": "pruning",
+          "description": "Dwarf hybrid hyssop (Agastache KUDOS RED) should be pruned annually in late winter or very early spring, before new growth begins. Pruning this plant can help achieve bushiness, promote healthy growth, and encourage plenty of blooms. To prune, remove any dead, dying, or weak branches. Also take out any spindly or excessively long branches, as well as any branches that are crossing over one another. This will open up the interior of the shrub, promote more airflow, and encourage bushy growth. To finish, shape the plant as desired."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

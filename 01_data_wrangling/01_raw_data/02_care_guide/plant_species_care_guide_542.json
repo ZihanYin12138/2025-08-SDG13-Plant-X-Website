@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1976,
+      "species_id": 542,
+      "common_name": "ladybells",
+      "scientific_name": [
+        "Adenophora liliifolia"
+      ],
+      "section": [
+        {
+          "id": 6133,
+          "type": "watering",
+          "description": "Ladybells should be watered deeply every 7 to 10 days throughout the growing season. Water until the top 3-4 inches of soil are moist. Allow soils to dry out in between watering and water thoroughly after the soil is dry. During the warmer months, it’s best to water in the morning, so the foliage has time to dry off and the plant can conserve moisture. During the cooler months, water in the evening when weather and soil temperatures are warmer."
+        },
+        {
+          "id": 6134,
+          "type": "sunlight",
+          "description": "Ladybells prefer a full sunlight location. The plant should receive at least 5 to 6 hours of direct sunlight each day to keep it blooming and healthy. Some dappled shade is fine, but the plant should get at least 4 hours of direct and uninterrupted sunlight. Avoid placing your Ladybells too far away from sunnier areas in your garden. "
+        },
+        {
+          "id": 6135,
+          "type": "pruning",
+          "description": "Ladybells typically require minimal pruning and should only be pruned when necessary. Pruning should only be done in late summer or early autumn, after the plant has finished flowering. It is best to prune no more than 1/3 of the plant at a time. If flowering has been sparse, a more drastic pruning of up to 1-half can be done. Remove any dead, diseased, or damaged stems first, as well as crossing or overcrowded stems. When pruning, always cut just above a set of healthy buds."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1950,
+      "species_id": 511,
+      "common_name": "monkshood",
+      "scientific_name": [
+        "Aconitum 'Spark's Variety'"
+      ],
+      "section": [
+        {
+          "id": 6055,
+          "type": "watering",
+          "description": "Water about once a week, or when the soil dries out, but do not allow it to dry out completely. Be sure to water the plant thoroughly until the water runs out of the bottom of the pot. Avoid over-watering, as this plant does not like too wet conditions. If you are in a particularly hot climate, you may need to water every 3-4 days."
+        },
+        {
+          "id": 6056,
+          "type": "sunlight",
+          "description": "Monkshood (Aconitum 'Spark's Variety') grows best in full sun to partial shade and needs 6 to 8 hours of sunlight each day. The best time during the day to provide sunlight is between 10am and 4pm. If possible, providing morning sunlight and avoiding afternoon direct sunlight is ideal because it can help prevent the leaves from scorching in summer. Excessive sun exposure or too little sun can negatively affect its growth. "
+        },
+        {
+          "id": 6057,
+          "type": "pruning",
+          "description": "The optimal time for pruning monkshood (Aconitum 'Spark's Variety') is in spring, just when new growth begins to appear. Pruning monkshood should only be done when absolutely necessary, as it can damage the entire plant. If you decide to prune monkshood, the best time is early in the spring before flowering begins. You should only remove as much of the plant as necessary to encourage growth in the desired areas.\n\nWhen pruning monkshood, make sure to use sharp pruning shears and sterilize them between cuts. To prune, research the desired shape of the shrub, and then prune each stem in order to encourage the desired shape. Make sure to cut back each stem to just above a bud that is pointing in the direction you want the shrub to grow. This will help your monkshood look its best and support the desired shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

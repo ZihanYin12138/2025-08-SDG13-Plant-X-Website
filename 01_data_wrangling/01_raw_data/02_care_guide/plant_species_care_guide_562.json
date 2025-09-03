@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1988,
+      "species_id": 562,
+      "common_name": "horse chestnut",
+      "scientific_name": [
+        "Aesculus hippocastanum 'Baumannii'"
+      ],
+      "section": [
+        {
+          "id": 6169,
+          "type": "watering",
+          "description": "Water the Horse Chestnut once a week, ensuring the soil is moist but not saturated. Water at the base of the plant, avoiding wetting the foliage. During periods of hot weather, the soil may dry out more quickly, in which case, you may need to water more often. Check soil moisture weekly by putting your finger into the soil up to the first knuckle and if dry, it's time to water."
+        },
+        {
+          "id": 6170,
+          "type": "sunlight",
+          "description": "Horse chestnuts need at least 6 hours of direct sunlight daily, while 8 to 10 hours is ideal. It is best to plant them in an area that gets morning sun and afternoon shade. Morning sun will help the plant open its blossoms and will give it the energy it needs for the day. Afternoon shade will help protect the delicate leaves and blooms from the harsh summer sun."
+        },
+        {
+          "id": 6171,
+          "type": "pruning",
+          "description": "Horse chestnut (Aesculus hippocastanum 'Baumannii') should be pruned twice per year. The first pruning should be done in early spring before the buds have opened, in order to encourage a dense growth habit. This can be done by removing any dead, diseased, or damaged branches and thinning any overly dense areas gently.\n\nThe second pruning should be done after the tree has gone through the majority of its growing season. This after prune should be done to remove any dead, diseased, or damaged branches as well as removing any crossing or conflicting branches. It is also important to remove any suckers or water sprouts at this time to ensure the desired shape of the tree is maintained."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 480,
+      "species_id": 549,
+      "common_name": "urn plant",
+      "scientific_name": [
+        "Aechmea fasciata"
+      ],
+      "section": [
+        {
+          "id": 1441,
+          "type": "watering",
+          "description": "Urn plants need to be watered fairly regularly, about once a week in the warmer months and every 2 to 3 weeks in the cooler months. Make sure to thoroughly moisten the soil in order to encourage the roots to establish and grow. Water should be applied slowly and evenly, allowing excess water to drain away. Do not let the soil become overly dry or soggy. "
+        },
+        {
+          "id": 1443,
+          "type": "sunlight",
+          "description": "The urn plant (Aechmea fasciata) typically prefers bright, indirect sunlight. It should receive at least a few hours of indirect sunlight per day, and can tolerate more, up to 8 hours per day. Bright, indirect sunlight is best in the morning or late afternoon when the sun is not at its strongest. Avoid exposing the plant to extended periods of direct sunlight, as this could cause the leaves to become scorched."
+        },
+        {
+          "id": 1445,
+          "type": "pruning",
+          "description": "The urn plant (Aechmea fasciata) should be lightly trimmed once a year to remove dead leaves and to create a more compact, shapely form. The best time to prune is during the growing season, around late spring or early summer. You should only remove a third of the longest leaves and branches, leaving the urn plant with enough foliage to keep it healthy and full. Pruning shall start with the base of the plant, remove the old leaves to allow the new and younger leaves to spread out. Pruning should not be done in the winter months as this can disrupt the growth cycle. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

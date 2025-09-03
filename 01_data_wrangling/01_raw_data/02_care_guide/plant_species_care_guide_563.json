@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1989,
+      "species_id": 563,
+      "common_name": "Indian horse chustnut",
+      "scientific_name": [
+        "Aesculus indica 'Sydney Pearce'"
+      ],
+      "section": [
+        {
+          "id": 6172,
+          "type": "watering",
+          "description": "Indian horse chestnut (Aesculus indica 'Sydney Pearce') should be watered once every week during the growing season. During the cooler months, water the tree every other week, allowing the soil to dry out in between. When watering the tree, aim for a slow, deep soak around the base of the tree. Avoid spraying the foliage with water as this can cause the foliage to turn brown. For container-grown specimens, water when the top inch begins to feel dry."
+        },
+        {
+          "id": 6173,
+          "type": "sunlight",
+          "description": "Indian Horse Chestnut (Aesculus indica 'Sydney Pearce') thrives in full sun or partial shade, and requires at least 6 hours of direct sunlight, preferably in the morning, each day. Too much shade can cause stunted growth and decreased flower production while too much direct sunlight can cause leaf scorch. Additionally, in areas of heat and humidity, afternoon shade is recommended. This species can tolerate light frosts and is also able to survive short periods of drought."
+        },
+        {
+          "id": 6174,
+          "type": "pruning",
+          "description": "Indian horse Chestnut (Aesculus indica 'Sydney Pearce') should be pruned lightly as needed, typically in early spring (March/April). Pruning should be limited to the removal of any deadwood, disease, or damaged branches. Pruning should maintain the overall structure of the tree, but should keep in mind that pruning too much off at once can stress the tree and reduce flowering potential. Indian horse Chestnut can also benefit from some light shaping in fall (September/October), which can help shape the growth of new branches, creating a fuller canopy of leaves."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

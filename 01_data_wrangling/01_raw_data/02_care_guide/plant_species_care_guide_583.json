@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2003,
+      "species_id": 583,
+      "common_name": "giant hyssop",
+      "scientific_name": [
+        "Agastache 'Blue Boa'"
+      ],
+      "section": [
+        {
+          "id": 6214,
+          "type": "watering",
+          "description": "Water your giant hyssop (Agastache 'Blue Boa') plant regularly. During the growing season (spring to fall) water your plant once a week, soaking the soil deeply. During hot weather, it may need to be watered more frequently. During the winter months, reduce watering to once a month. When in doubt, it is better to underwater than overwater. Stick your finger in the soil to gauge the moisture - if the top inch of soil feels dry, it’s time to water."
+        },
+        {
+          "id": 6215,
+          "type": "sunlight",
+          "description": "Giant hyssop (Agastache 'Blue Boa') is best grown in an area that offers full sun meaning at least 6-8 hours of direct sunlight each day. Morning sunlight is best, especially during the summer. Plants grown in too much shade will produce fewer blooms and become spindly and leggy. During periods of intense summer heat and drought, this species will appreciate afternoon shade."
+        },
+        {
+          "id": 6216,
+          "type": "pruning",
+          "description": "Giant hyssop (Agastache 'Blue Boa') is a low-maintenance plant that requires occasional pruning. Pruning should generally take place in the spring when the temperatures are mild and the days are starting to get longer. Pruning should be done to remove any dead or diseased stems as well as to shape the plant and create a fuller, bushier form. To do this, cut back the stems to just above a set of healthy leaves. Take care not to cut too much at once, as doing so could damage the plant. Additionally, pinch off any dead flower heads to promote new growth throughout the season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
