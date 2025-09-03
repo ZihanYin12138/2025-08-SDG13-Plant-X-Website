@@ -161,6 +161,12 @@ onBeforeUnmount(() => ctrl?.abort())
     </div>
   </section>
 
+  <hr class="divider-red" aria-hidden="true" />
+
+  <section>
+   <RouterLink class="learnmore" to="/learnmore">Learn More</RouterLink>
+  </section>
+
 </template>
 
 

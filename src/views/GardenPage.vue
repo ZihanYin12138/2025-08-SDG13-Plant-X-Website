@@ -17,7 +17,8 @@
           class="searchbar__input"
           :placeholder="placeholder"
           v-model="query"
-          @keyup.enter="onSearch"/>
+          @keyup.enter="onSearch"
+        />
         
         <span class="searchbar__icon-left">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -47,9 +48,15 @@
             <input type="file" accept="image/*" hidden @change="onImageChange" />
           </label>
         </div>
+
+        <ul v-if="showSuggest" class="suggest-list">
+            <li v-for="s in suggestions" :key="s" @click="selectSuggestion(s)">
+            {{ s }}
+          </li>
+        </ul>
       </div>
 
-      <button class="btn" @click="open = true">Filter</button>
+      <button class="btn" @click="open = true" >Filter</button>
     </div>
 
     <!-- pre view -->
@@ -347,6 +354,47 @@ onMounted(() => {
 })
 const startVoice = () => recognizer && recognizer.start()
 
+/** ====搜索框提示 ===== */
+const suggestions = ref<string[]>([])
+const showSuggest = ref(false)
+let suggestTimer: number | null = null
+
+async function fetchSuggestions(q: string) {
+  if (!q.trim()) {
+    suggestions.value = []
+    showSuggest.value = false
+    return
+  }
+  try {
+    // 调用后端接口
+    const res = await apiGet<{ suggestions: string[] }>('/plants/suggest', { query: q })
+    suggestions.value = res.suggestions
+    showSuggest.value = res.suggestions.length > 0
+  } catch (e) {
+    console.error(e)
+    suggestions.value = []
+    showSuggest.value = false
+  }
+}
+
+// 输入时，防抖调用
+function onInput() {
+  if (suggestTimer) clearTimeout(suggestTimer)
+  suggestTimer = window.setTimeout(() => {
+    fetchSuggestions(query.value)
+  }, 300) // 300ms 防抖
+}
+
+// 用户选中某个建议
+function selectSuggestion(s: string) {
+  query.value = s
+  showSuggest.value = false
+  // 可以立刻搜索
+  onSearch()
+}
+
+
+
 /** ====== 图片预览（保持你原逻辑） ====== */
 const previewUrl = ref('')
 const previewName = ref('')
@@ -614,8 +662,9 @@ watch([watering, plant_cycle, growth_rate], () => { page.value = 1; load() })
 .btn {
   height: 48px; padding: 0 18px;
   border-radius: 10px; border: 1px solid transparent;
-  background: var(--c-primary); color: #fff; cursor: pointer;
+  background: var(--c-primary); color: #ffffff; cursor: pointer;
   box-shadow: var(--shadow-sm);
+  background-color: rgb(113, 226, 226);
 }
 .btn:disabled { opacity: .6; cursor: not-allowed; }
 
@@ -683,6 +732,8 @@ watch([watering, plant_cycle, growth_rate], () => { page.value = 1; load() })
 .plant .thumb{aspect-ratio:4/3;border-radius:10px;border:2px dashed color-mix(in oklab, var(--fg) 25%, transparent);margin-bottom:.5rem}
 .plant h4{margin:.25rem 0}
 .plant .latin{color:var(--muted);font-size:.9rem}
+
+
 /** 
 .container { display: grid; gap: 1rem; padding: 1rem 0; }
 .toolbar { display: grid; grid-template-columns: 1fr; gap: .5rem; align-items: center; }
