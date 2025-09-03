@@ -1,12 +1,9 @@
 # lambdas/plants/app.py
 from __future__ import annotations
 import os, json
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional
 
-from common import (
-    fetch_one,
-    fetch_all,
-)
+from common import fetch_one, fetch_all
 
 DEFAULT_HEADERS = {
     "Content-Type": "application/json; charset=utf-8",
@@ -28,6 +25,29 @@ def _to_int(s: Optional[str], default: int) -> int:
         return int(s) if s is not None else default
     except Exception:
         return default
+
+# -------- 关键适配：统一从事件中抽取 method/path/query ----------
+def _extract_req(event: Dict[str, Any]) -> tuple[str, str, Dict[str, str]]:
+    """
+    返回 (method, path, queryStringParameters)
+    - HTTP API v2: requestContext.http.method + rawPath
+    - REST API v1: httpMethod + path
+    """
+    # v2
+    rc = event.get("requestContext") or {}
+    http_v2 = rc.get("http") or {}
+    if http_v2.get("method") and event.get("rawPath"):
+        return (
+            http_v2.get("method", ""),
+            event.get("rawPath", ""),
+            event.get("queryStringParameters") or {},
+        )
+    # v1
+    return (
+        event.get("httpMethod", "") or "",
+        event.get("path", "") or "",
+        event.get("queryStringParameters") or {},
+    )
 
 # ---------- 搜索列表 ----------
 def search_plants(q: str, limit: int, offset: int) -> Dict[str, Any]:
@@ -168,20 +188,20 @@ def get_plant_detail(gid: int) -> Optional[Dict[str, Any]]:
 
 # ---------- Lambda handler ----------
 def handler(event, context):
-    method = (event.get("requestContext") or {}).get("http", {}).get("method", "")
+    method, path, qs = _extract_req(event)
+
+    # CORS 预检
     if method == "OPTIONS":
         return _resp(200, {"ok": True})
 
     try:
-        path = event.get("rawPath", "")
-        if method != "GET" or not path.startswith("/plants"):
+        if method != "GET" or not str(path).startswith("/plants"):
             return _resp(400, {"message": f"Unsupported route: {method} {path}"})
 
-        qs = event.get("queryStringParameters") or {}
-        gid_param = qs.get("general_plant_id")
-        q = qs.get("q")
-        limit = _to_int(qs.get("limit"), 20)
-        offset = _to_int(qs.get("offset"), 0)
+        gid_param = (qs or {}).get("general_plant_id")
+        q = (qs or {}).get("q")
+        limit = _to_int((qs or {}).get("limit"), 20)
+        offset = _to_int((qs or {}).get("offset"), 0)
 
         if gid_param:
             try:
