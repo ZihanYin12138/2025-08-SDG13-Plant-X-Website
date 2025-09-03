@@ -493,6 +493,105 @@ plant_id,general_plant_id,threatened_plant_id,common_name,scientific_name,other_
 492,492,,sneezewort,Achillea ptarmica (The Pearl Group),,False,False,False,True,False,False,True,"[""full sun"", ""part shade""]",Minimum,Herbaceous Perennial,Low
 493,493,,yarrow,Achillea 'Schwellenburg',,False,False,False,True,False,False,True,"[""full sun""]",Average,Herbaceous Perennial,Low
 494,494,,Siberian yarrow,Achillea sibirica,,False,False,False,True,False,False,True,"[""full sun""]",Average,Herbaceous Perennial,Low
+495,495,,yarrow,Achillea sibirica subsp. camschatica 'Love Parade',,False,False,False,True,False,False,True,"[""full sun""]",Average,Herbaceous Perennial,Low
+496,496,,yarrow,Achillea 'Snow Sport',,False,False,False,True,False,False,True,"[""full sun"", ""part sun/part shade""]",Average,Herbaceous Perennial,Low
+497,497,,yarrow,Achillea (Summer Pastels Group),,False,False,False,True,False,False,True,"[""full sun""]",Average,Herbaceous Perennial,Low
+498,498,,yarrow,Achillea 'Summerwine',,False,False,False,True,False,False,True,"[""full sun""]",Average,Herbaceous Perennial,High
+499,499,,yarrow,Achillea 'Terracotta',,False,False,False,True,False,False,True,"[""full sun"", ""part sun/part shade""]",Average,Herbaceous Perennial,Low
+500,500,,woolly yarrow,Achillea tomentosa 'Aurea',,False,False,False,True,False,False,True,"[""full sun""]",Average,Herbaceous Perennial,Low
+501,501,,yarrow,Achillea 'Walther Funcke',,False,False,False,True,False,False,True,"[""full sun""]",Average,Herbaceous Perennial,Low
+502,502,,hot water plant,Achimenes (group),,False,False,True,False,False,False,True,"[""part shade""]",Average,Herbaceous Perennial,Low
+503,503,,golden spaniard,Aciphylla aurea,,False,True,False,True,False,True,True,"[""full sun""]",Average,Every year,Low
+504,504,,paurotis palm,Acoelorrhaphe wrightii,,False,False,False,False,False,False,True,"[""full sun""]",Frequent,Every year,Low
+505,505,,monkshood,Aconitum bulbuliferum 'Monk Gone Wild',,False,False,False,False,True,False,True,"[""full sun"", ""part shade""]",Average,Every year,Low
+506,506,,azure monkshood,Aconitum carmichaelii 'Arendsii',,False,False,False,True,True,False,True,"[""full sun""]",Average,Herbaceous Perennial,Low
+507,507,,azure monkshood,Aconitum carmichaelii var. angustius,,False,False,False,True,True,False,True,"[""full sun"", ""part shade""]",Average,Herbaceous Perennial,Low
+508,508,,monkshood,Aconitum 'Eleonara',,False,False,False,True,True,False,True,"[""full sun"", ""part shade""]",Average,Herbaceous Perennial,Low
+509,509,,climbing monk's hood,Aconitum hemsleyanum,,False,False,False,True,True,False,True,"[""full sun"", ""part shade""]",Average,Every year,Low
+510,510,,monkshood,Aconitum napellus,,False,False,False,True,True,True,True,"[""part shade"", ""filtered shade""]",Average,Herbaceous Perennial,High
+511,511,,monkshood,Aconitum 'Spark's Variety',,False,False,False,True,True,False,True,"[""full sun"", ""part shade""]",Average,Herbaceous Perennial,Low
+512,512,,monkshood,Aconitum volubile,,False,False,False,True,True,False,True,"[""full sun"", ""part shade""]",Average,Every year,Low
+513,513,,sweet flag,Acorus calamus,Single Vein Sweet Flag,False,False,False,True,False,False,True,"[""full sun"", ""part shade""]",Frequent,Every year,Low
+514,514,,sweet flag,Acorus calamus 'Variegatus',,False,False,False,True,False,False,True,"[""full sun"", ""part shade""]",Average,Herbaceous Perennial,Low
+515,515,,grassy-leaved sweet flag,Acorus gramineus,,False,False,False,True,False,False,True,"[""full sun"", ""part shade""]",Frequent,Herbaceous Perennial,Low
+516,516,,grassy-leaved sweet flag,Acorus gramineus 'Minimus Aureus',,False,False,False,True,False,False,True,"[""full sun"", ""part shade""]",Average,Herbaceous Perennial,Low
+517,517,,grassy-leaved sweet flag,Acorus gramineus 'Oborozuki',,False,False,False,True,False,False,True,"[""part shade"", ""part sun/part shade""]",Average,Herbaceous Perennial,Low
+518,518,,grassy-leaved sweet flag,Acorus gramineus 'Ogon',,False,False,False,True,False,False,True,"[""full sun"", ""part shade""]",Average,Herbaceous Perennial,Low
+519,519,,grassy-leaved sweet flag,Acorus gramineus 'Pusillus Minimus Aureus',,False,False,False,True,False,False,True,"[""full sun"", ""part shade""]",Average,Herbaceous Perennial,Low
+520,520,,grassy-leaved sweet flag,Acorus gramineus 'Variegatus',variegated Japanese flag,False,False,False,True,False,True,True,"[""full sun"", ""part shade""]",Average,Herbaceous Perennial,Moderate
+521,521,,bugbane,Actaea 'Chocoholic',,False,False,False,False,False,False,True,"[""part shade"", ""full shade""]",Average,Herbaceous Perennial,Low
+522,522,,bugbane,Actaea dahurica,,False,False,False,True,False,False,True,"[""full sun"", ""part sun/part shade""]",Average,Herbaceous Perennial,Low
+523,523,,bugbane,Actaea matsumurae 'White Pearl',,False,False,False,False,False,False,True,"[""part shade"", ""part sun/part shade""]",Average,Herbaceous Perennial,Low
+524,524,,white baneberry,Actaea pachypoda,doll's eyes,False,False,False,True,True,True,True,"[""part sun/part shade""]",Frequent,Herbaceous Perennial,Moderate
+525,525,,bugbane,Actaea 'Pink Spire',,False,False,False,False,False,False,True,"[""part shade"", ""part sun/part shade"", ""full sun""]",Average,Herbaceous Perennial,Low
+526,526,,bugbane,Actaea podocarpa,,False,False,False,True,False,False,True,"[""part shade""]",Average,Herbaceous Perennial,Low
+527,527,,black cohosh,Actaea racemosa,Bugbane,False,False,False,True,False,True,True,"[""full sun"", ""part shade""]",Average,Herbaceous Perennial,Low
+528,528,,bugbane,Actaea simplex,,False,False,False,True,False,False,True,"[""part shade"", ""part sun/part shade""]",Average,Herbaceous Perennial,Low
+529,529,,bugbane,Actaea simplex (Atropurpurea Group),cimicifuga,False,False,False,True,False,True,True,"[""filtered shade"", ""part sun/part shade"", ""full sun""]",Average,Herbaceous Perennial,Moderate
+530,530,,bugbane,Actaea simplex (Atropurpurea Group) 'Black Negligee',cimicifuga,False,False,False,False,False,True,True,"[""deep shade"", ""filtered shade"", ""part sun/part shade""]",Average,Herbaceous Perennial,Moderate
+531,531,,bugbane,Actaea simplex (Atropurpurea Group) 'Brunette',cimicifuga,False,False,False,False,False,True,True,"[""deep shade"", ""filtered shade"", ""part sun/part shade""]",Average,Herbaceous Perennial,Moderate
+532,532,,bugbane,Actaea simplex (Atropurpurea Group) 'Hillside Black Beauty',cimicifuga,False,False,False,False,False,True,True,"[""filtered shade"", ""part sun/part shade"", ""full sun""]",Average,Herbaceous Perennial,Moderate
+533,533,,bugbane,Actaea simplex (Atropurpurea Group) 'James Compton',cimicifuga,False,False,False,True,False,True,True,"[""deep shade"", ""filtered shade"", ""part sun/part shade""]",Average,Herbaceous Perennial,Moderate
+534,534,,hardy kiwi,Actinidia arguta,,False,True,False,True,False,True,True,"[""full sun"", ""part shade""]",Frequent,Every year,High
+535,535,,hardy kiwi vine,Actinidia arguta 'Issai',,False,True,False,True,False,True,True,"[""full sun"", ""part shade""]",Average,Every year,High
+536,536,,kiwifruit,Actinidia deliciosa,,False,True,False,True,False,True,True,"[""Full sun""]",Average,Every year,High
+537,537,,variegated kiwi vine,Actinidia kolomikta,,False,True,False,True,False,True,True,"[""full sun"", ""part shade""]",Average,Every year,High
+538,538,,variegated kiwi vine,Actinidia kolomikta 'Arctic Beauty',,False,False,False,False,False,False,True,"[""full sun"", ""part shade""]",Average,Every year,Low
+539,539,,baobab,Adansonia digitata,,False,True,False,True,False,True,True,"[""full sun""]",Minimum,Every year,Low
+540,540,,desert rose,Adenium obesum,,False,False,True,True,False,False,True,"[""full sun""]",Minimum,Every year,Low
+541,541,,ladybells,Adenophora 'Amethyst',,False,False,False,False,False,False,True,"[""full sun"", ""part shade""]",Average,Herbaceous Perennial,Low
+542,542,,ladybells,Adenophora liliifolia,,False,False,False,False,False,False,True,"[""full sun""]",Average,Herbaceous Perennial,Low
+543,543,,maidenhair fern,Adiantum capillus-veneris,Southern Maidenhair,False,True,True,True,False,True,True,"[""part shade"", ""part sun/part shade""]",Average,Every year,
+544,544,,rough maidenhair fern,Adiantum hispidulum,,False,False,False,True,False,False,True,"[""part shade"", ""part sun/part shade""]",Average,Every year,Low
+545,545,,Northern maidenhair fern,Adiantum pedatum,Maidenhair Fern,False,False,False,True,False,True,True,"[""part sun/part shade"", ""part shade""]",Average,Every year,High
+546,546,,delta maidenhair fern,Adiantum raddianum,,False,False,True,True,False,False,True,"[""part shade""]",Average,Every year,Low
+547,547,,Chinese buttonbush,Adina rubella,,False,False,False,True,False,True,True,"[""full sun"", ""part shade""]",Average,Every year,Low
+548,548,,Manila palm,Adonidia merrillii,,False,True,False,True,False,True,True,"[""full sun""]",Average,Every year,Low
+549,549,,urn plant,Aechmea fasciata,silver vase,False,False,True,False,False,True,True,"[""part sun/part shade""]",Average,Every year,Low
+550,550,,bishop's weed,Aegopodium podagraria 'Variegatum',bishop's weed,False,False,False,False,True,True,True,"[""full sun""]",Frequent,Herbaceous Perennial,High
+551,551,,stalked aeonium,Aeonium undulatum,,False,False,True,False,False,False,True,"[""full sun"", ""part shade""]",Average,Herbaceous Perennial,Low
+552,552,,lipstick plant,Aeschynanthus radicans,,False,False,True,False,False,False,True,"[""part shade"", ""full sun""]",Average,Every year,Low
+553,553,,California buckeye,Aesculus californica,,False,False,False,True,True,True,True,"[""full sun"", ""part shade""]",Average,Every year,Low
+554,554,,red horse chestnut,Aesculus carnea,,False,False,False,True,True,True,True,"[""full sun"", ""part shade""]",Average,Every year,Low
+555,555,,red horse chestnut,Aesculus carnea 'Briotii',,False,False,False,True,True,False,True,"[""full sun"", ""part shade""]",Average,Every year,Low
+556,556,,red horse chestnut,Aesculus carnea 'Marginata',,False,False,False,False,True,False,True,"[""full sun"", ""part shade""]",Average,Every year,Low
+557,557,,Chinese horse chestnut,Aesculus chinensis,,False,False,False,True,True,True,True,"[""full sun"", ""part shade""]",Average,Every year,Moderate
+558,558,,yellow buckeye,Aesculus flava,,False,False,False,True,True,True,True,"[""full sun"", ""part shade""]",Average,Every year,Moderate
+559,559,,Ohio buckeye,Aesculus glabra,Fetid Buckeye,False,True,False,True,True,True,True,"[""full sun"", ""part shade""]",Average,Every year,Low
+560,560,,Ohio buckeye,Aesculus glabra 'Nana',,False,True,False,True,True,True,True,"[""full sun"", ""part shade""]",Average,Every year,Low
+561,561,,horse chestnut,Aesculus hippocastanum,,False,False,False,True,True,True,True,"[""full sun"", ""part sun/part shade""]",Minimum,Every year,Moderate
+562,562,,horse chestnut,Aesculus hippocastanum 'Baumannii',,False,False,False,True,True,True,True,"[""full sun"", ""part sun/part shade""]",Average,Every year,Moderate
+563,563,,Indian horse chustnut,Aesculus indica 'Sydney Pearce',,False,False,False,True,False,False,True,"[""full sun"", ""part shade""]",Average,Every year,Low
+564,564,,bottlebrush buckeye,Aesculus parviflora,,False,False,False,False,True,True,True,"[""part shade"", ""full sun""]",Average,Every year,Low
+565,565,,bottlebrush buckeye,Aesculus parviflora var. serotina,,False,False,False,False,True,True,True,"[""part shade"", ""full shade""]",Average,Every year,Low
+566,566,,bottlebrush buckeye,Aesculus parviflora var. serotina 'Rogers',,False,False,False,False,False,True,True,"[""part shade"", ""full shade""]",Average,Every year,Low
+567,567,,red buckeye,Aesculus pavia,,False,False,False,True,True,True,True,"[""full sun"", ""part shade""]",Average,Every year,Low
+568,568,,painted buckeye,Aesculus sylvatica,,False,False,False,False,True,False,True,"[""part shade"", ""full sun"", ""part sun/part shade""]",Minimum,Every year,Low
+569,569,,buckeye,Aesculus woerlitzensis,,False,True,False,True,False,True,True,"[""full sun"", ""part shade""]",Frequent,Every year,Low
+570,570,,African fern pine,Afrocarpus gracilior,,False,False,False,True,False,False,True,"[""full sun"", ""part sun/part shade""]",Average,Every year,Low
+571,571,,slenderleaf false foxglove,Agalinis tenuifolia,Slenderleaf False Foxglove,False,False,False,True,False,True,True,"[""full sun""]",Average,Once a year,Low
+572,572,,African lily,Agapanthus africanus,,False,False,False,False,False,False,True,"[""full sun""]",Average,Every year,Low
+573,573,,lily of the Nile,Agapanthus 'Blue Yonder',,False,False,False,False,False,False,True,"[""full sun"", ""part shade""]",Average,Every year,High
+574,574,,lily of the Nile,Agapanthus 'Cold Hardy White',,False,False,False,False,False,False,True,"[""part shade""]",Average,Every year,Low
+575,575,,lily of the Nile,Agapanthus (group),,False,False,False,False,False,False,True,"[""full sun"", ""part shade""]",Average,Every year,High
+576,576,,lily of the Nile,Agapanthus 'Headbourne Hybrids',,False,False,False,False,False,False,True,"[""full sun"", ""part shade""]",Average,Every year,High
+577,577,,lily of the Nile,Agapanthus 'Kingston Blue',,False,False,False,False,False,False,True,"[""full sun"", ""part shade""]",Average,Herbaceous Perennial,High
+578,578,,lily of the Nile,Agapanthus 'Rfdd' DOUBLE DIAMOND,,False,False,False,False,False,False,True,"[""full sun"", ""part shade""]",Average,Every year,High
+579,579,,lily of the Nile,Agapanthus 'Summer Skies',,False,False,False,False,False,False,True,"[""full sun"", ""part shade""]",Average,Every year,Low
+580,580,,giant hyssop,Agastache 'Apricot Sunrise',,False,False,False,False,False,False,True,"[""full sun"", ""part sun/part shade""]",Average,Herbaceous Perennial,High
+581,581,,giant hyssop,Agastache 'Ava',,False,False,False,True,False,False,True,"[""full sun""]",Average,Herbaceous Perennial,High
+582,582,,giant hyssop,Agastache 'Black Adder',,False,False,False,False,False,False,True,"[""full sun""]",Average,Herbaceous Perennial,High
+583,583,,giant hyssop,Agastache 'Blue Boa',,False,False,False,False,False,False,True,"[""full sun""]",Average,Herbaceous Perennial,High
+584,584,,giant hyssop,Agastache 'Blue Fortune',,False,False,False,True,False,False,True,"[""full sun"", ""part sun/part shade""]",Frequent,Herbaceous Perennial,High
+585,585,,giant hyssop,Agastache 'Bolero',,False,False,False,False,False,False,True,"[""full sun"", ""part sun/part shade""]",Average,Herbaceous Perennial,High
+586,586,,hummingbird's mint,Agastache cana,,False,False,False,True,False,False,True,"[""full sun"", ""part shade""]",Average,Herbaceous Perennial,Low
+587,587,,giant hyssop,Agastache cana 'Sinning' SONORAN SUNSET,,False,False,False,False,False,False,True,"[""full sun"", ""part shade""]",Average,Herbaceous Perennial,Low
+588,588,,giant hyssop,Agastache 'Firebird',,False,False,False,False,False,False,True,"[""full sun""]",Frequent,Herbaceous Perennial,High
+589,589,,anise hyssop,Agastache foeniculum,giant hyssop,False,True,False,True,False,True,True,"[""full sun"", ""part sun/part shade""]",Average,Herbaceous Perennial,Low
+590,590,,giant hyssop,Agastache 'Garden Leader Blue',,False,False,False,False,False,False,True,"[""full sun""]",Average,Herbaceous Perennial,High
+591,591,,dwarf hybrid hyssop,Agastache KUDOS RED,,False,False,False,True,False,False,True,"[""full sun""]",Average,Herbaceous Perennial,Low
+592,592,,yellow giant hyssop,Agastache nepetoides,,False,False,False,True,False,True,True,"[""full sun"", ""part sun/part shade""]",Average,Herbaceous Perennial,Low
+593,593,,giant hyssop,Agastache 'Pink Pop',,False,False,False,False,False,False,True,"[""full sun""]",Average,Herbaceous Perennial,High
 3001,,3001,Small Milkwort,Comesperma polygaloides,,True,False,False,False,False,False,False,"[""Full Sun""]",,Once a year,
 3002,,3002,Purple Eyebright,Euphrasia collina subsp. muelleri,,True,False,False,False,False,False,False,"[""Full Sun""]",,Once a year,
 3003,,3003,Lanky Buttons,Leptorhynchos elongatus,,True,False,False,False,False,False,False,"[""Full Sun""]",,Herbaceous Perennial,
