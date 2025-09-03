@@ -2,11 +2,14 @@
   "version": "2.0",
   "routeKey": "GET /plants",
   "rawPath": "/plants",
-  "rawQueryString": "q=maple&if_edible=true&if_flowers=false&limit=5&offset=0",
+  "rawQueryString": "q=maple&if_edible=true&if_flowers=false&watering=frequent&growth_rate=low&sun_expose=full sun,part shade&limit=5&offset=0",
   "queryStringParameters": {
     "q": "maple",
     "if_edible": "true",
     "if_flowers": "false",
+    "watering": "frequent",
+    "growth_rate": "low",
+    "sun_expose": "full sun,part shade",
     "limit": "5",
     "offset": "0"
   },

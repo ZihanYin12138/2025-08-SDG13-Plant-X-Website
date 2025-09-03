@@ -26,7 +26,7 @@ def _to_int(s: Optional[str], default: int) -> int:
     except Exception:
         return default
 
-# -------- 关键适配：统一从事件中抽取 method/path/query ----------
+# -------- 统一从事件中抽取 method/path/query ----------
 def _extract_req(event: Dict[str, Any]) -> tuple[str, str, Dict[str, str]]:
     """返回 (method, path, queryStringParameters)；兼容 HTTP API v2 / REST v1。"""
     rc = event.get("requestContext") or {}
@@ -43,7 +43,7 @@ def _extract_req(event: Dict[str, Any]) -> tuple[str, str, Dict[str, str]]:
         event.get("queryStringParameters") or {},
     )
 
-# ---------- 工具：解析布尔参数 ----------
+# ---------- 布尔筛选（7 个） ----------
 _FILTER_KEYS = [
     "if_threatened",
     "if_edible",
@@ -74,7 +74,52 @@ def _bool_clause(col: str, desired: bool) -> str:
     else:
         return f"(LOWER(CAST({col} AS CHAR)) IN ('false','0'))"
 
-def _build_where_and_params(q: Optional[str], filters: Dict[str, bool]) -> tuple[str, list]:
+# ---------- 新增 4 个枚举/列表筛选 ----------
+_WATERING_SET = {"frequent", "average", "minimal"}
+_GROWTH_SET = {"high", "moderate", "low"}
+
+def _norm_watering(v: Optional[str]) -> Optional[str]:
+    if not v: return None
+    s = v.strip().lower()
+    return s if s in _WATERING_SET else None
+
+def _norm_growth(v: Optional[str]) -> Optional[str]:
+    if not v: return None
+    s = v.strip().lower()
+    return s if s in _GROWTH_SET else None
+
+def _norm_cycle(v: Optional[str]) -> Optional[str]:
+    if not v: return None
+    s = v.strip().lower()
+    mapping = {
+        "every year": "Every year",
+        "once a year": "Once a year",
+        "every 2 years": "Every 2 years",
+        "every2years": "Every 2 years",
+        "every-2-years": "Every 2 years",
+    }
+    return mapping.get(s, None)
+
+_SUN_ALLOWED = {
+    "full shade",
+    "part shade",
+    "part sun/part shade",
+    "full sun",
+}
+def _norm_sun_list(v: Optional[str]) -> List[str]:
+    if not v: return []
+    parts = [p.strip().lower() for p in v.split(",") if p.strip()]
+    return [p for p in parts if p in _SUN_ALLOWED]
+
+# ---------- 组 WHERE（关键词 + 7 布尔 + 4 新筛选） ----------
+def _build_where_and_params(
+    q: Optional[str],
+    bool_filters: Dict[str, bool],
+    watering: Optional[str],
+    plant_cycle: Optional[str],
+    growth_rate: Optional[str],
+    sun_list: List[str],
+) -> Tuple[str, List[Any]]:
     clauses: List[str] = []
     params: List[Any] = []
 
@@ -83,16 +128,48 @@ def _build_where_and_params(q: Optional[str], filters: Dict[str, bool]) -> tuple
         clauses.append("(m.common_name LIKE %s OR m.scientific_name LIKE %s)")
         params += [like, like]
 
-    # 动态拼接布尔筛选
-    for k, v in filters.items():
+    # 7 个布尔筛选
+    for k, v in bool_filters.items():
         clauses.append(_bool_clause(f"m.{k}", v))
+
+    # 3 个枚举筛选
+    if watering:
+        clauses.append("LOWER(m.watering) = %s")
+        params.append(watering)  # 已小写
+    if plant_cycle:
+        clauses.append("LOWER(m.plant_cycle) = LOWER(%s)")
+        params.append(plant_cycle)  # 规范化后的原词
+    if growth_rate:
+        clauses.append("LOWER(m.growth_rate) = %s")
+        params.append(growth_rate)  # 已小写
+
+    # sun_expose：命中任一即可
+    if sun_list:
+        or_parts = []
+        for _ in sun_list:
+            or_parts.append(
+                "COALESCE(JSON_CONTAINS(CAST(m.sun_expose AS JSON), JSON_QUOTE(%s), '$'), 0) = 1"
+            )
+        clauses.append("(" + " OR ".join(or_parts) + ")")
+        params.extend(sun_list)
 
     where_sql = " AND ".join(clauses) if clauses else "1=1"
     return where_sql, params
 
 # ---------- 搜索列表 ----------
-def search_plants(q: Optional[str], limit: int, offset: int, filters: Dict[str, bool]) -> Dict[str, Any]:
-    where_sql, params = _build_where_and_params(q, filters)
+def search_plants(
+    q: Optional[str],
+    limit: int,
+    offset: int,
+    bool_filters: Dict[str, bool],
+    watering: Optional[str],
+    plant_cycle: Optional[str],
+    growth_rate: Optional[str],
+    sun_list: List[str],
+) -> Dict[str, Any]:
+    where_sql, params = _build_where_and_params(
+        q, bool_filters, watering, plant_cycle, growth_rate, sun_list
+    )
 
     # 总数
     cnt_row = fetch_one(
@@ -245,12 +322,18 @@ def handler(event, context):
         limit = _to_int(qs.get("limit"), 20)
         offset = _to_int(qs.get("offset"), 0)
 
-        # 收集布尔筛选（只把有传值且能解析为 bool 的项加入）
-        filters: Dict[str, bool] = {}
+        # 解析 7 个布尔筛选
+        bool_filters: Dict[str, bool] = {}
         for k in _FILTER_KEYS:
             b = _to_bool(qs.get(k))
             if b is not None:
-                filters[k] = b
+                bool_filters[k] = b
+
+        # 解析 4 个新增筛选
+        watering = _norm_watering(qs.get("watering"))
+        plant_cycle = _norm_cycle(qs.get("plant_cycle"))
+        growth_rate = _norm_growth(qs.get("growth_rate"))
+        sun_list = _norm_sun_list(qs.get("sun_expose"))
 
         # 详情：按 ID
         if gid_param:
@@ -263,11 +346,21 @@ def handler(event, context):
                 return _resp(404, {"message": "plant not found"})
             return _resp(200, data)
 
-        # 列表：支持 关键词 + 多个布尔筛选；也支持只有布尔筛选（q 可为空）
-        if q or filters:
-            return _resp(200, search_plants(q=q, limit=limit, offset=offset, filters=filters))
+        # 列表：支持 关键词 + 全部筛选；也支持只有筛选（q 可为空）
+        if q or bool_filters or watering or plant_cycle or growth_rate or sun_list:
+            data = search_plants(
+                q=q,
+                limit=limit,
+                offset=offset,
+                bool_filters=bool_filters,
+                watering=watering,
+                plant_cycle=plant_cycle,
+                growth_rate=growth_rate,
+                sun_list=sun_list,
+            )
+            return _resp(200, data)
 
-        return _resp(400, {"message": "Missing query. Use ?q=keyword or ?general_plant_id=ID or boolean filters"})
+        return _resp(400, {"message": "Missing query. Use ?q=keyword or ?general_plant_id=ID or filters"})
 
     except Exception as e:
         return _resp(500, {"message": f"internal error: {str(e)}"})
