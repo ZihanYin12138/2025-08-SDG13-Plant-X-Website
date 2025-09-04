@@ -27,12 +27,6 @@ const routes = [
     meta: { title: "Community · Plant'X" }
   },
   {
-    path: '/plantcard',
-    name: 'PlantCard',
-    component: () => import('../components/PlantCard.vue'),
-    meta: { title: "Plant Card · Plant'X" }
-  },
-  {
     path: '/learnmore',
     name: 'LearnMore',
     component: () => import('../views/LearnMore.vue'),
@@ -43,6 +37,13 @@ const routes = [
     name: 'AllPlants',
     component: () => import('../views/AllPlants.vue'),
     meta: { title: "All Plants · Plant'X" }
+  },
+  {
+    path: '/plants/:id',
+    name: 'PlantDetail',
+    component: () => import('@/views/PlantDetail.vue'),
+    props: true, // ← 这里一定要有前一行的逗号
+    meta: { title: "Plant Detail · Plant'X" },
   },
 ];
 
