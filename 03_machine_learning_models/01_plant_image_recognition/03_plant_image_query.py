@@ -1,3 +1,6 @@
+# .py version of 02_plant_image_query.ipynb
+# Name: Zihan Yin
+
 #!/usr/bin/env python3
 import argparse, json
 from pathlib import Path
@@ -10,7 +13,7 @@ from torchvision import transforms
 from transformers import CLIPModel, CLIPProcessor
 
 
-# ============ 工具函数 ============
+# ============ A lot of Helper Functions here ============
 
 def exif_correct(img: Image.Image) -> Image.Image:
     """纠正方向 & 转换为 RGB"""
@@ -52,14 +55,14 @@ def encode_query(img: Image.Image, model, processor, device, tta_num=8):
 
 
 def topk_cosine(query_emb, db_emb, plant_ids, k=10):
-    """计算 Top-K 相似度"""
+    """计算 Top-K cosine similarity"""
     sims = db_emb @ query_emb  # 余弦相似度
     idx = np.argpartition(-sims, kth=min(k, len(sims)-1))[:k]
     idx = idx[np.argsort(-sims[idx])]
     return [(int(plant_ids[i]), float(sims[i])) for i in idx]
 
 
-# ============ 主程序 ============
+# ============ Main Program ============
 
 def main():
     ap = argparse.ArgumentParser()
@@ -78,7 +81,7 @@ def main():
     db_emb = npz["embeddings"].astype(np.float32)  # (N, D)
     plant_ids = npz["plant_ids"]
 
-    # 加载模型（优先本地）
+    # 加载模型（优先使用在线模型）
     device = "cuda" if torch.cuda.is_available() else "cpu"
     try:    
         print("尝试在线下载模型")
