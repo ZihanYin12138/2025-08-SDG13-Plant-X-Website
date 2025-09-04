@@ -103,10 +103,5 @@
 </template>
 
 <style scoped>
-.card {
-    background: url("@/assest/bg dark.jpg");
-    min-height: 240px;
-  padding: 16px;
-  border-radius: 12px;
-}
+
 </style>
