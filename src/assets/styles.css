@@ -22,6 +22,63 @@
   --shadow: 0 10px 20px rgba(0,0,0,.35);
 }
 
+:root {
+  /* 边框/分割线强度（用 fg 与透明混合，随主题变化） */
+  --border: color-mix(in oklab, var(--fg) 14%, transparent);
+  --border-weak: color-mix(in oklab, var(--fg) 8%, transparent);
+
+  /* 兼容老样式里使用的变量名（别名） */
+  --c-border: var(--border);
+  --c-card: var(--card);
+  --c-text: var(--fg);
+  --c-muted: var(--muted);
+
+  /* 统一阴影层级（亮色更轻、暗色更重在 dark 覆盖里调） */
+  --shadow-sm: 0 1px 2px color-mix(in oklab, #000 10%, transparent);
+  --shadow-md: 0 6px 16px color-mix(in oklab, #000 14%, transparent);
+
+  /* 通用蒙层/悬浮背景（modal/hover/选中等都能复用） */
+  --backdrop: color-mix(in oklab, var(--fg) 6%, transparent);
+  --hover: color-mix(in oklab, var(--fg) 8%, transparent);
+}
+
+:root[data-theme="dark"] {
+  --border: color-mix(in oklab, var(--fg) 20%, transparent);
+  --border-weak: color-mix(in oklab, var(--fg) 12%, transparent);
+
+  /* 提升暗色阴影，对比更清晰 */
+  --shadow-sm: 0 1px 2px rgba(0,0,0,.45);
+  --shadow-md: 0 8px 20px rgba(0,0,0,.55);
+
+  --backdrop: color-mix(in oklab, var(--fg) 12%, transparent);
+  --hover: color-mix(in oklab, var(--fg) 10%, transparent);
+}
+
+/* 通用组件小样式（不侵入你的结构） */
+hr, .divider { border: none; border-top: 1px solid var(--border-weak); }
+.muted { color: var(--muted); }
+.surface { background: var(--surface); border: 1px solid var(--border-weak); }
+
+/* 输入与下拉：用主题色而不是硬编码 */
+input, select, textarea {
+  background: var(--card);
+  color: var(--fg);
+  border: 1px solid var(--border);
+}
+input::placeholder, textarea::placeholder { color: color-mix(in oklab, var(--fg) 45%, transparent); }
+
+/* 按钮“幽灵态”与悬停，跟随主题变量 */
+.btn-ghost { border-color: var(--border-weak); }
+.btn-ghost:hover { background: var(--hover); }
+
+/* Modal 遮罩建议用 backdrop 以适配深浅色 */
+.modal-mask { background: var(--backdrop); }
+
+/* 可选：滚动条也跟随主题 */
+* {
+  scrollbar-color: color-mix(in oklab, var(--fg) 35%, transparent) transparent;
+}
+
 * { box-sizing: border-box; }
 html, body, #app { height: auto; } 
 body {

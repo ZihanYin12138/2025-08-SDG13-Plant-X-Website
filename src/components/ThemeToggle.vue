@@ -13,24 +13,29 @@ const toggle = () => {
   apply(theme.value)
 }
 
-let mq
+let mq, onChange
 onMounted(() => {
   const cached = localStorage.getItem('theme')
-  const sysDark = window.matchMedia('(prefers-color-scheme: dark)')
-  mq = sysDark
-  const sys = sysDark.matches ? 'dark' : 'light'
+  mq = window.matchMedia('(prefers-color-scheme: dark)')
+  const sys = mq.matches ? 'dark' : 'light'
+
   theme.value = cached || sys
   apply(theme.value)
-  // 当用户在系统设置里切换深浅色时同步
-  mq.addEventListener('change', (e) => {
-    if (!localStorage.getItem('theme')) { // 用户未手动选择时，跟随系统
+
+  onChange = (e) => {
+    if (!localStorage.getItem('theme')) { // 仅当未手动指定时跟随系统
       theme.value = e.matches ? 'dark' : 'light'
       apply(theme.value)
     }
-  })
+  }
+  mq.addEventListener?.('change', onChange)
 })
-onBeforeUnmount(() => { mq && mq.removeEventListener?.('change', () => {}) })
+
+onBeforeUnmount(() => {
+  mq?.removeEventListener?.('change', onChange)
+})
 </script>
+
 
 <style scoped>
 .hide-on-mobile { display: none; }

@@ -1,17 +1,27 @@
 // src/api/plants.ts
 import { apiGet } from './http'
 
-/** ===== 类型定义（列表项） ===== */
-export type Plant = {
+/** ===== 列表项（联合类型） ===== */
+export type PlantGeneralCard = {
+  id_type: 'general'
   general_plant_id: number
   common_name: string
   scientific_name: string
-  other_name?: string[] | string
-  image_url: string
+  image_url: string | null
 }
 
+export type PlantThreatCard = {
+  id_type: 'threatened'
+  threatened_plant_id: number
+  common_name: string
+  scientific_name: string
+  image_url: string | null
+}
+
+export type PlantCardItem = PlantGeneralCard | PlantThreatCard
+
 export type PlantListResp = {
-  items: Plant[]
+  items: PlantCardItem[]
   total?: number
   limit?: number
   offset?: number
@@ -46,16 +56,15 @@ export type PlantDetail = {
     general_plant_id?: number
     watering?: string
     watering_general_benchmark?: string
-    sunlight?: string[]            // ["full sun","part shade"]
+    sunlight?: string[]
     soil?: string[]
     pruning_month?: string[]
     pruning_count?: string
     growth_rate?: string
-    care_level?: string            // "Moderate"
+    care_level?: string
     watering_guide?: string
     sunlight_guide?: string
     pruning_guide?: string
-    // …其余字段按需补
   }
   distribution_map?: {
     distribution_map_html?: string
@@ -71,9 +80,7 @@ export type PlantDetail = {
 const BASE_URL =
   'https://ky21h193r2.execute-api.us-east-1.amazonaws.com/plantx/plants'
 
-/** 
- * yes/no/all → boolean | undefined
- */
+/** yes/no/all → boolean | undefined */
 export function ynToBool(v?: string): boolean | undefined {
   if (v === 'yes') return true
   if (v === 'no') return false
@@ -82,6 +89,7 @@ export function ynToBool(v?: string): boolean | undefined {
 
 /**
  * 模糊搜索 + 11 个筛选参数
+ * 注意：UI 里如果没有某个字段（例如 rare），就不要传
  */
 export function searchPlants(params: {
   search?: string
@@ -93,7 +101,7 @@ export function searchPlants(params: {
     medicinal?: string
     fruits?: string
     indoors?: string
-    rare?: string
+    poisonous?: string
     flowers?: string
     sun?: string | string[]
     watering?: string
@@ -106,8 +114,8 @@ export function searchPlants(params: {
   const qs: Record<string, any> = {}
   qs.q = search && search.trim() ? search.trim() : 'a'
 
-  if (page !== undefined) qs.page = page
-  if (page_size !== undefined) qs.page_size = page_size
+  if (page_size !== undefined) qs.limit = page_size
+  if (page !== undefined && page_size !== undefined) qs.offset = Math.max(0, (page - 1) * page_size)
 
   if (filters) {
     const {
@@ -116,7 +124,7 @@ export function searchPlants(params: {
       medicinal,
       fruits,
       indoors,
-      rare,
+      poisonous,
       flowers,
       sun,
       watering,
@@ -130,11 +138,9 @@ export function searchPlants(params: {
       if_medicinal: ynToBool(medicinal),
       if_fruits: ynToBool(fruits),
       if_indoors: ynToBool(indoors),
-      if_rare: ynToBool(rare),
+      if_poisonous: ynToBool(poisonous),
       if_flowers: ynToBool(flowers),
-      sun_expose: Array.isArray(sun)
-        ? sun.filter(Boolean).join(',')
-        : sun || undefined,
+      sun_expose: Array.isArray(sun) ? sun.filter(Boolean).join(',') : sun || undefined,
       watering: watering || undefined,
       plant_cycle: cycle || undefined,
       growth_rate: growth || undefined,
@@ -150,16 +156,28 @@ export function searchPlants(params: {
   return apiGet<PlantListResp>(BASE_URL, qs)
 }
 
-/** ✅ 用 ?general_plant_id= 查询详情 */
+/** 详情：普通植物 */
 export function getPlantById(id: number) {
-  return apiGet<any>(BASE_URL, { general_plant_id: id })
+  return apiGet<PlantDetail>(BASE_URL, { general_plant_id: id })
 }
 
-export async function getPlantsForCardsByIds(ids: number[]): Promise<Plant[]> {
-  const uniq = Array.from(new Set(ids)).slice(0, 12) // 最多取前 12 个，避免过多并发
+/** 详情：濒危植物 */
+export function getThreatenedById(id: number) {
+  return apiGet<PlantDetail>(BASE_URL, { threatened_plant_id: id })
+}
+
+/** 用于卡片的简化类型（修复：原来引用了未定义的 Plant 类型） */
+export type PlantCardSimple = {
+  general_plant_id: number
+  common_name: string
+  scientific_name: string
+  image_url: string
+}
+
+export async function getPlantsForCardsByIds(ids: number[]): Promise<PlantCardSimple[]> {
+  const uniq = Array.from(new Set(ids)).slice(0, 12)
   const details = await Promise.all(uniq.map(id => getPlantById(id)))
   return details.map(d => {
-    // image_url 卡片封面：优先用详情 image_urls[0]，没有就空
     const cover = Array.isArray(d.image_urls) && d.image_urls.length ? d.image_urls[0] : ''
     return {
       general_plant_id: d.general_plant_id,

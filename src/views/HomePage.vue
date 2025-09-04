@@ -12,9 +12,8 @@ async function load() {
   loading.value = true
   error.value = ''
   try {
-    // 首页默认拉取 8 个推荐植物
-    const res = await searchPlants('') // ✅ 改 fetchPlants → searchPlants
-    plants.value = res.items
+    const res = await searchPlants('')
+    plants.value = res.items.slice(0,8)
   } catch (e: any) {
     error.value = e.message || String(e)
   } finally {
@@ -31,7 +30,8 @@ onMounted(load)
   <section class="section container hero-home">
     <div class="hero-grid">
       <div>
-        <h1 class="title">Keep your garden thriving under changing climate</h1>
+        <h1 class="display">Plant'X</h1>
+        <h2 class="title">Keep Your Garden Thriving Under Changing Climate</h2>
         <p class="lead">
           Caring for personal plants is more than just a hobby. With the right attention to sunlight, soil, watering,
           and composting, a home garden can thrive, bringing health and joy to daily life. From balconies and city parks
@@ -60,7 +60,7 @@ onMounted(load)
   <section class="section container">
     <div class="feature-grid">
       <div>
-        <h2 class="title">Supporting climate action</h2>
+        <h2 class="title">Supporting Climate Action</h2>
         <p class="lead">
           Based on our project objectives, we help users better understand and respond to the impact of climate change
           on plant growth by providing climate-adaptive planting solutions and environmental data. This platform
@@ -68,7 +68,7 @@ onMounted(load)
           goals.
         </p>
       </div>
-      <div class="img-col">
+      <div class="sdg">
         <img src="@/assets/SDG 13.png" />
       </div>
     </div>
@@ -113,7 +113,7 @@ onMounted(load)
 
   <!-- 首页推荐植物 -->
   <section id="plants" class="section container">
-    <h2 class="title">We have tons of plants data</h2>
+    <h2 class="title">We Have Tons Of Plants Data</h2>
     <div class="seeall">
       <RouterLink class="btn btn-ghost" to="/garden">See all</RouterLink>
     </div>
@@ -132,7 +132,9 @@ onMounted(load)
   <hr class="divider-red" aria-hidden="true" />
 
   <section>
-    <RouterLink class="learnmore" to="/learnmore">Learn More</RouterLink>
+    <div class="center">
+    <RouterLink class="btn btn-ghost" to="/learnmore">Learn More</RouterLink>
+    </div>
   </section>
 </template>
 
@@ -222,8 +224,20 @@ onMounted(load)
 .plants-grid {
   display: grid;
   gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  grid-template-columns: repeat(4, 1fr);
 }
+@media (max-width: 768px) {
+  .plants-grid {
+    grid-template-columns: repeat(2, 1fr); /* 平板及以下一行2个 */
+  }
+}
+
+@media (max-width: 480px) {
+  .plants-grid {
+    grid-template-columns: 1fr; /* 手机上一行1个 */
+  }
+}
+
 .plant {
   background: var(--card);
   box-shadow: var(--shadow);
@@ -250,4 +264,36 @@ onMounted(load)
   background: linear-gradient(90deg, #ff3b3b, #ff9a3b);
   margin: 0;
 }
+
+.center {
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  height: 90px;          
+}
+
+.sdg{
+  height: 300px;
+  width: 300px;
+  margin-left: auto;
+}
+
+.display{
+  font-weight: 900;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  margin: 0 0 .4rem;
+  font-size: clamp(2.6rem, 1.6rem + 5vw, 4.25rem); /* 手机~大屏逐级放大 */
+  color: var(--fg);
+}
+
+/* 仅在首页 hero 里，副标题稍小一些（不影响全局 .title 的其他用法） */
+.hero-home .title{
+  margin: 0 0 .6rem;
+  font-size: clamp(1.4rem, 1rem + 2.2vw, 2.1rem);
+}
+
+/* 可选：导语与按钮的间距微调，让层级更清晰 */
+.hero-home .lead{ margin-top: .25rem; color: var(--muted); }
+.hero-home .hero-cta{ margin-top: .75rem; }
 </style>

@@ -4,17 +4,17 @@ import ThemeToggle from './components/ThemeToggle.vue'
 </script>
 
 <template>
-  <header class="section" style="padding: .75rem 0; border-bottom: 1px solid color-mix(in oklab, var(--fg) 10%, transparent); position: sticky; top: 0; background: var(--bg); z-index: 50;">
-    <div class="container" style="display:flex; align-items:center; gap:.75rem;">
-      <img src="@/assets/logo.svg" />
+  <header class="section" style="padding: .75rem 0; border-bottom: 1px solid color-mix(in oklab, var(--fg) 10%, transparent); position: sticky; top: 0; background: var(--bg); z-index: 50;   ">
+    <div class="container" style="display:flex; align-items:center; gap:.75rem; margin:0 auto; max-width: 1300px; ">
+      <RouterLink><img src="@/assets/logo.svg" /></RouterLink>
       <RouterLink to="/" style="font-weight: 800;">Plant'X</RouterLink>
-      <nav style="margin-left:auto; display:flex; gap:.75rem;">
+      <nav style="margin-left:auto; display:flex; gap:.99rem; font-size: larger;">
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/garden">Garden</RouterLink>
         <RouterLink to="/urbanwild">Urban & Wild</RouterLink>
         <RouterLink to="/community">Community</RouterLink>
       </nav>
-      <ThemeToggle />
+        <ThemeToggle />
     </div>
   </header>
 
