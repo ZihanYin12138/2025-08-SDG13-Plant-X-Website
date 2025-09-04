@@ -136,4 +136,16 @@ img { max-width: 100%; height: auto; }
   .page-enter-active, .page-leave-active { transition: none; }
 }
 
+.theme-toggle{
+  color: var(--brand);                                 /* 文字颜色用品牌色 */
+  border-color: color-mix(in oklab, var(--brand) 45%, transparent);
+}
+.theme-toggle:hover{
+  background: color-mix(in oklab, var(--brand) 12%, transparent);
+}
+.theme-toggle:focus-visible{
+  outline: var(--ring);
+  outline-offset: 2px;
+  border-radius: 999px;
+}
 

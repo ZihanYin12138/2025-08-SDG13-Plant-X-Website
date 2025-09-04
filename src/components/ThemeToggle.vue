@@ -43,11 +43,16 @@ onBeforeUnmount(() => {
 </style>
 
 <template>
-  <button class="btn btn-ghost" @click="toggle" :title="`Switch to ${nextLabel} mode`" :aria-label="`Switch to ${nextLabel} mode`">
-    <span v-if="theme==='dark'" aria-hidden="true">🌙</span>
-    <span v-else aria-hidden="true">☀️</span>
-    <span class="hide-on-mobile">{{ theme==='dark' ? 'Dark' : 'Light' }}</span>
-  </button>
+  <button
+  class="btn btn-ghost theme-toggle"
+  @click="toggle"
+  :title="`Switch to ${nextLabel} mode`"
+  :aria-label="`Switch to ${nextLabel} mode`"
+>
+  <span v-if="theme==='dark'" aria-hidden="true">🌙</span>
+  <span v-else aria-hidden="true">☀️</span>
+  <span class="hide-on-mobile">{{ theme==='dark' ? 'Dark' : 'Light' }}</span>
+</button>
 </template>
 
     
