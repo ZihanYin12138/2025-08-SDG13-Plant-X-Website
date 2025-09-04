@@ -156,7 +156,7 @@ def _build_where_and_params(
     where_sql = " AND ".join(clauses) if clauses else "1=1"
     return where_sql, params
 
-# ---------- 搜索列表（根据 if_threatened 选择图片关联字段） ----------
+# ---------- 搜索列表 ----------
 def search_plants(
     q: Optional[str],
     limit: int,
@@ -171,10 +171,7 @@ def search_plants(
         q, bool_filters, watering, plant_cycle, growth_rate, sun_list
     )
 
-    # 是否使用濒危图表（if_threatened=true）
-    use_threat_img = bool_filters.get("if_threatened") is True
-
-    # 统计总数
+    # 总数
     cnt_row = fetch_one(
         f"""
         SELECT COUNT(*) AS cnt
@@ -185,20 +182,7 @@ def search_plants(
     )
     total = int(cnt_row["cnt"]) if cnt_row else 0
 
-    # 选择图片表与关联键
-    if use_threat_img:
-        # ★ 濒危筛选时：从 Table08_ThreatenedPlantImageTable 取图
-        join_sql = """
-            LEFT JOIN Table08_ThreatenedPlantImageTable img
-                   ON img.threatened_plant_id = m.threatened_plant_id
-        """
-    else:
-        # 默认：从普通图片表按 general_plant_id 取图
-        join_sql = """
-            LEFT JOIN Table05_GeneralPlantImageTable img
-                   ON img.general_plant_id = m.general_plant_id
-        """
-
+    # 列表
     rows = fetch_all(
         f"""
         SELECT
@@ -207,7 +191,8 @@ def search_plants(
           m.scientific_name,
           COALESCE(MIN(img.thumbnail_image), MIN(img.regular_url_image)) AS image_url
         FROM Table01_PlantMainTable m
-        {join_sql}
+        LEFT JOIN Table05_GeneralPlantImageTable img
+               ON img.general_plant_id = m.general_plant_id
         WHERE {where_sql}
         GROUP BY m.general_plant_id, m.common_name, m.scientific_name
         ORDER BY MIN(m.plant_id) ASC
@@ -226,7 +211,6 @@ def search_plants(
         for r in rows
     ]
     return {"items": items, "total": total, "limit": limit, "offset": offset}
-
 
 # ---------- 详情 ----------
 def get_plant_detail(gid: int) -> Optional[Dict[str, Any]]:
