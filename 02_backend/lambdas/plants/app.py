@@ -5,6 +5,23 @@ from typing import Any, Dict, List, Optional, Tuple
 
 from common import fetch_one, fetch_all
 
+# ===== 在 import 后面，新增这段：表名与存在性检查 =====
+THREAT_IMG_TABLE = os.environ.get("THREAT_IMG_TABLE", "Table08_ThreatenedPlantImageTable")
+_TABLE_EXISTS_CACHE: Dict[str, bool] = {}
+
+def _table_exists(table_name: str) -> bool:
+    if table_name in _TABLE_EXISTS_CACHE:
+        return _TABLE_EXISTS_CACHE[table_name]
+    row = fetch_one(
+        "SELECT 1 AS ok FROM information_schema.tables "
+        "WHERE table_schema = DATABASE() AND table_name = %s",
+        (table_name,),
+    )
+    ok = bool(row)
+    _TABLE_EXISTS_CACHE[table_name] = ok
+    return ok
+
+
 DEFAULT_HEADERS = {
     "Content-Type": "application/json; charset=utf-8",
     "Access-Control-Allow-Origin": "*",
@@ -157,6 +174,7 @@ def _build_where_and_params(
     return where_sql, params
 
 # ---------- 搜索列表 ----------
+# ---------- 搜索列表（替换整个函数） ----------
 def search_plants(
     q: Optional[str],
     limit: int,
@@ -171,46 +189,69 @@ def search_plants(
         q, bool_filters, watering, plant_cycle, growth_rate, sun_list
     )
 
-    # 总数
+    # 是否按濒危筛选
+    use_threat = bool_filters.get("if_threatened") is True
+    threat_img_ok = _table_exists(THREAT_IMG_TABLE)
+
+    # 统计总数
     cnt_row = fetch_one(
-        f"""
-        SELECT COUNT(*) AS cnt
-        FROM Table01_PlantMainTable m
-        WHERE {where_sql}
-        """,
+        f"SELECT COUNT(*) AS cnt FROM Table01_PlantMainTable m WHERE {where_sql}",
         tuple(params),
     )
     total = int(cnt_row["cnt"]) if cnt_row else 0
 
-    # 列表
+    # 选择图片联表
+    if use_threat and threat_img_ok:
+        join_sql = f"""
+            LEFT JOIN `{THREAT_IMG_TABLE}` img
+                   ON img.threatened_plant_id = m.threatened_plant_id
+        """
+    else:
+        join_sql = """
+            LEFT JOIN Table05_GeneralPlantImageTable img
+                   ON img.general_plant_id = m.general_plant_id
+        """
+
+    # 注意：当 use_threat=true 时，把 threatened_plant_id 也查出来
     rows = fetch_all(
         f"""
         SELECT
           m.general_plant_id,
+          m.threatened_plant_id,
           m.common_name,
           m.scientific_name,
           COALESCE(MIN(img.thumbnail_image), MIN(img.regular_url_image)) AS image_url
         FROM Table01_PlantMainTable m
-        LEFT JOIN Table05_GeneralPlantImageTable img
-               ON img.general_plant_id = m.general_plant_id
+        {join_sql}
         WHERE {where_sql}
-        GROUP BY m.general_plant_id, m.common_name, m.scientific_name
+        GROUP BY m.general_plant_id, m.threatened_plant_id, m.common_name, m.scientific_name
         ORDER BY MIN(m.plant_id) ASC
         LIMIT %s OFFSET %s
         """,
         tuple(params + [limit, offset]),
     )
 
-    items = [
-        {
-            "general_plant_id": r["general_plant_id"],
-            "common_name": r.get("common_name"),
-            "scientific_name": r.get("scientific_name"),
-            "image_url": r.get("image_url"),
-        }
-        for r in rows
-    ]
+    items: List[Dict[str, Any]] = []
+    for r in rows:
+        if use_threat:
+            items.append({
+                "id_type": "threatened",
+                "threatened_plant_id": r.get("threatened_plant_id"),
+                "common_name": r.get("common_name"),
+                "scientific_name": r.get("scientific_name"),
+                "image_url": r.get("image_url"),
+            })
+        else:
+            items.append({
+                "id_type": "general",
+                "general_plant_id": r["general_plant_id"],
+                "common_name": r.get("common_name"),
+                "scientific_name": r.get("scientific_name"),
+                "image_url": r.get("image_url"),
+            })
+
     return {"items": items, "total": total, "limit": limit, "offset": offset}
+
 
 # ---------- 详情 ----------
 def get_plant_detail(gid: int) -> Optional[Dict[str, Any]]:
@@ -304,11 +345,79 @@ def get_plant_detail(gid: int) -> Optional[Dict[str, Any]]:
         detail["threatened"] = threatened
     return detail
 
+# ---------- 新增：濒危详情 ----------
+def get_threatened_detail(tid: int) -> Optional[Dict[str, Any]]:
+    """根据 threatened_plant_id 返回详情：主表基础信息 + 表06/07 + 表08图片"""
+    # 先从主表找一条挂这个 threatened_plant_id 的植物，拿名字等公共字段
+    base = fetch_one(
+        """
+        SELECT
+            m.plant_id, m.general_plant_id, m.threatened_plant_id,
+            m.common_name, m.scientific_name, m.other_name,
+            m.if_threatened, m.if_edible, m.if_indoors, m.if_medicinal,
+            m.if_poisonous, m.if_fruits, m.if_flowers,
+            m.sun_expose, m.watering, m.plant_cycle, m.growth_rate
+        FROM Table01_PlantMainTable m
+        WHERE m.threatened_plant_id = %s
+        LIMIT 1
+        """,
+        (tid,),
+    )
+    if not base:
+        # 没有主表映射，也可以只返回威胁表数据；这里选择直接 404
+        return None
+
+    # 表06：描述
+    t_desc = fetch_one(
+        """
+        SELECT *
+        FROM Table06_ThreatenedPlantDescriptionTable
+        WHERE threatened_plant_id = %s
+        """,
+        (tid,),
+    )
+    # 表07：护理
+    t_care = fetch_one(
+        """
+        SELECT *
+        FROM Table07_ThreatenedPlantCareGuideTable
+        WHERE threatened_plant_id = %s
+        """,
+        (tid,),
+    )
+    # 表08：图片（如果表存在）
+    image_urls: List[str] = []
+    if _table_exists(THREAT_IMG_TABLE):
+        t_imgs = fetch_all(
+            f"""
+            SELECT threatened_plant_id, thumbnail_image, regular_url_image
+            FROM `{THREAT_IMG_TABLE}`
+            WHERE threatened_plant_id = %s
+            """,
+            (tid,),
+        )
+        for r in t_imgs:
+            for url in (r.get("thumbnail_image"), r.get("regular_url_image")):
+                if url and url not in image_urls:
+                    image_urls.append(url)
+
+    detail = {
+        **base,
+        "id_type": "threatened",
+        "threatened": {
+            "description": t_desc,
+            "care_guide": t_care,
+        },
+        "image_urls": image_urls,
+    }
+    return detail
+
+
 # ---------- Lambda handler ----------
+# ---------- handler（只改“参数解析 & 分流”这几行） ----------
 def handler(event, context):
     method, path, qs = _extract_req(event)
 
-    # CORS 预检
     if method == "OPTIONS":
         return _resp(200, {"ok": True})
 
@@ -318,24 +427,39 @@ def handler(event, context):
 
         qs = qs or {}
         gid_param = qs.get("general_plant_id")
+        tid_param = qs.get("threatened_plant_id")  # 如果你支持 threatened 详情的话
         q = qs.get("q")
         limit = _to_int(qs.get("limit"), 20)
         offset = _to_int(qs.get("offset"), 0)
 
-        # 解析 7 个布尔筛选
+        # ✅ 一定要先初始化这些，再进入任何 if 分支
         bool_filters: Dict[str, bool] = {}
         for k in _FILTER_KEYS:
             b = _to_bool(qs.get(k))
             if b is not None:
                 bool_filters[k] = b
 
-        # 解析 4 个新增筛选
         watering = _norm_watering(qs.get("watering"))
         plant_cycle = _norm_cycle(qs.get("plant_cycle"))
         growth_rate = _norm_growth(qs.get("growth_rate"))
         sun_list = _norm_sun_list(qs.get("sun_expose"))
 
-        # 详情：按 ID
+        # （后面再写详情和列表逻辑...）
+
+        # ……（布尔筛选与新增筛选解析保持不变）……
+
+        # 详情 1：按 threatened_plant_id
+        if tid_param:
+            try:
+                tid = int(tid_param)
+            except ValueError:
+                return _resp(400, {"message": "threatened_plant_id must be an integer"})
+            data = get_threatened_detail(tid)
+            if not data:
+                return _resp(404, {"message": "threatened plant not found"})
+            return _resp(200, data)
+
+        # 详情 2：按 general_plant_id
         if gid_param:
             try:
                 gid = int(gid_param)
@@ -346,7 +470,7 @@ def handler(event, context):
                 return _resp(404, {"message": "plant not found"})
             return _resp(200, data)
 
-        # 列表：支持 关键词 + 全部筛选；也支持只有筛选（q 可为空）
+        # 列表：支持关键词/筛选
         if q or bool_filters or watering or plant_cycle or growth_rate or sun_list:
             data = search_plants(
                 q=q,
@@ -360,7 +484,7 @@ def handler(event, context):
             )
             return _resp(200, data)
 
-        return _resp(400, {"message": "Missing query. Use ?q=keyword or ?general_plant_id=ID or filters"})
-
+        return _resp(400, {"message": "Missing query. Use ?q=keyword or ?general_plant_id=ID or ?threatened_plant_id=ID or filters"})
     except Exception as e:
         return _resp(500, {"message": f"internal error: {str(e)}"})
+

@@ -1,0 +1,10 @@
+{
+  "version": "2.0",
+  "routeKey": "GET /plants",
+  "rawPath": "/plants",
+  "rawQueryString": "threatened_plant_id=3001",
+  "queryStringParameters": {
+    "threatened_plant_id": "3001"
+  },
+  "requestContext": { "http": { "method": "GET", "path": "/plants" } }
+}
