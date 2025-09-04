@@ -1,0 +1,14 @@
+{
+  "version": "2.0",
+  "routeKey": "GET /plants",
+  "rawPath": "/plants",
+  "rawQueryString": "if_medicinal=true&if_poisonous=false&plant_cycle=Every year&watering=average&sun_expose=part shade",
+  "queryStringParameters": {
+    "if_medicinal": "true",
+    "if_poisonous": "false",
+    "plant_cycle": "Every year",
+    "watering": "average",
+    "sun_expose": "part shade"
+  },
+  "requestContext": { "http": { "method": "GET", "path": "/plants" } }
+}

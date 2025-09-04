@@ -1,0 +1,15 @@
+{
+  "model_id": "openai/clip-vit-base-patch32",
+  "model_local_dir": "clip-vit-b32",
+  "embedding_dim": 512,
+  "num_classes": 541,
+  "num_augs_per_class": 20,
+  "built_at": "2025-09-03 16:20:00",
+  "device_used": "cuda",
+  "seed": 42,
+  "preprocess": {
+    "center_crop": true,
+    "note": "与 CLIPProcessor 默认预处理保持一致；在线查询需完全一致"
+  },
+  "similarity": "cosine (via dot on L2-normalized vectors)"
+}
