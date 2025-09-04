@@ -1,0 +1,12 @@
+{
+  "version": "2.0",
+  "routeKey": "GET /plants",
+  "rawPath": "/plants",
+  "rawQueryString": "if_threatened=true&limit=5&offset=0",
+  "queryStringParameters": {
+    "if_threatened": "true",
+    "limit": "5",
+    "offset": "0"
+  },
+  "requestContext": { "http": { "method": "GET", "path": "/plants" } }
+}
