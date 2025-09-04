@@ -27,22 +27,39 @@ export type PlantDetail = {
   scientific_name: string
   other_name?: string[] | string
 
-  if_threatened?: boolean
-  if_edible?: boolean
-  if_indoors?: boolean
-  if_medicinal?: boolean
-  if_poisonous?: boolean
-  if_fruits?: boolean
-  if_flowers?: boolean
+  if_threatened?: boolean | string
+  if_edible?: boolean | string
+  if_indoors?: boolean | string
+  if_medicinal?: boolean | string
+  if_poisonous?: boolean | string
+  if_fruits?: boolean | string
+  if_flowers?: boolean | string
 
-  sun_expose?: string | string[]
+  sun_expose?: string[] | string
   watering?: string
   plant_cycle?: string
   growth_rate?: string
 
   description?: any
-  care_guide?: any
-  distribution_map?: any
+
+  care_guide?: {
+    general_plant_id?: number
+    watering?: string
+    watering_general_benchmark?: string
+    sunlight?: string[]            // ["full sun","part shade"]
+    soil?: string[]
+    pruning_month?: string[]
+    pruning_count?: string
+    growth_rate?: string
+    care_level?: string            // "Moderate"
+    watering_guide?: string
+    sunlight_guide?: string
+    pruning_guide?: string
+    // …其余字段按需补
+  }
+  distribution_map?: {
+    distribution_map_html?: string
+  }
   image_urls?: string[]
   threatened?: {
     description?: any
@@ -135,5 +152,20 @@ export function searchPlants(params: {
 
 /** ✅ 用 ?general_plant_id= 查询详情 */
 export function getPlantById(id: number) {
-  return apiGet<PlantDetail>(BASE_URL, { general_plant_id: id })
+  return apiGet<any>(BASE_URL, { general_plant_id: id })
+}
+
+export async function getPlantsForCardsByIds(ids: number[]): Promise<Plant[]> {
+  const uniq = Array.from(new Set(ids)).slice(0, 12) // 最多取前 12 个，避免过多并发
+  const details = await Promise.all(uniq.map(id => getPlantById(id)))
+  return details.map(d => {
+    // image_url 卡片封面：优先用详情 image_urls[0]，没有就空
+    const cover = Array.isArray(d.image_urls) && d.image_urls.length ? d.image_urls[0] : ''
+    return {
+      general_plant_id: d.general_plant_id,
+      common_name: d.common_name,
+      scientific_name: d.scientific_name,
+      image_url: cover,
+    }
+  })
 }

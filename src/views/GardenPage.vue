@@ -181,28 +181,28 @@
 
         <!-- 植物卡 -->
         <div class="plants-grid" style="margin-top: 12px;">
-  <template v-if="loading">
-    <PlantCardSkeleton v-for="n in 8" :key="'s' + n" />
-  </template>
+          <template v-if="loading">
+            <PlantCardSkeleton v-for="n in 8" :key="'s' + n" />
+          </template>
 
-  <p v-else-if="error" class="error">加载失败：{{ error }}</p>
+          <p v-else-if="error" class="error">加载失败：{{ error }}</p>
 
-  <!-- ✅ v-else 放在 template，内部再 v-for -->
-  <template v-else>
-    <RouterLink
-      v-for="p in plants"
-      :key="p.general_plant_id"
-      :to="{ 
-        name: 'PlantDetail', 
-        params: { id: p.general_plant_id }, 
-        state: { preload: p }   // 传给详情页做兜底
-      }"
-      style="text-decoration: none;"
-    >
-      <PlantCard :plant="p" />
-    </RouterLink>
-  </template>
-</div>
+          <!-- ✅ v-else 在 template 内部再 v-for -->
+          <template v-else>
+            <RouterLink
+              v-for="p in plants"
+              :key="p.general_plant_id"
+              :to="{
+                name: 'PlantDetail',
+                params: { id: p.general_plant_id },
+                state: { preload: p }
+              }"
+              style="text-decoration: none;"
+            >
+              <PlantCard :plant="p" />
+            </RouterLink>
+          </template>
+        </div>
       </div>
     </div>
   </section>
@@ -210,11 +210,10 @@
 
 <script setup lang="ts">
 import { ref, reactive, onMounted } from 'vue'
-import { searchPlants, type Plant } from '@/api/plants'
+import { searchPlants, getPlantById, type Plant, type PlantDetail } from '@/api/plants'
 import PlantCard from '@/components/PlantCard.vue'
 import PlantCardSkeleton from '@/components/PlantCardSkeleton.vue'
-import { presignUpload } from '@/api/uploads'
-import { apiPost } from '@/api/http'
+import { uploadImage, predictByS3Key } from '@/api/uploads'
 
 const placeholder = 'Search For A Plant'
 const query = ref('')
@@ -244,7 +243,7 @@ async function load() {
   error.value = ''
   try {
     const res = await searchPlants({
-      search: query.value,       // 允许为空；内部会把空变成 'a' 兜底，避免 400
+      search: query.value,
       page: 1,
       page_size: 8,
       filters: { ...filters }
@@ -281,7 +280,7 @@ onMounted(() => {
 })
 const startVoice = () => recognizer && recognizer.start()
 
-/** 图片上传 & 识别 → 用识别名再触发一次 load() */
+/** 图片上传 & 识别 → 用识别结果刷新列表 */
 const previewUrl = ref('')
 const previewName = ref('')
 const clearPreview = () => {
@@ -289,33 +288,54 @@ const clearPreview = () => {
   previewUrl.value = ''
   previewName.value = ''
 }
+
 const onImageChange = async (ev: Event) => {
   const input = ev.target as HTMLInputElement
   const file = input.files?.[0]
   if (!file) return
 
+  // 预览
   previewName.value = file.name
   if (previewUrl.value) URL.revokeObjectURL(previewUrl.value)
   previewUrl.value = URL.createObjectURL(file)
 
   loading.value = true
   error.value = ''
-  try {
-    const { putUrl, key } = await presignUpload({ filename: file.name, contentType: file.type })
-    const up = await fetch(putUrl, { method: 'PUT', headers: { 'Content-Type': file.type }, body: file })
-    if (!up.ok) throw new Error(`S3 upload failed: ${up.status}`)
 
-    const { candidates } = await apiPost<{ candidates: { name: string; score: number }[] }>('/analyze', { key })
-    if (!candidates?.length) {
+  try {
+    // 1) 上传（multipart/form-data，不手动设 Content-Type）
+    const up = await uploadImage(file) // { key, bucket, ... }
+    const key = up.key
+
+    // 2) 预测得到若干 plant_id
+    const pred = await predictByS3Key(key, 8)
+    const ids = (pred.results || [])
+      .filter(r => r && typeof r.plant_id === 'number')
+      .map(r => r.plant_id)
+
+    if (!ids.length) {
       plants.value = []
-      error.value = '未识别到可用名称'
+      error.value = '未识别到可用候选'
       return
     }
 
-    const picked = candidates.filter(c => c.score >= 0.75).map(c => c.name)
-    const terms = picked.length ? picked : [candidates[0].name]
-    query.value = terms.join(', ')
-    await load()
+    // 3) 按 id 拉详情，再压扁成卡片字段
+    const details = await Promise.all(
+      ids.slice(0, 8).map(id => getPlantById(id).catch(() => null))
+    ) as (PlantDetail | null)[]
+
+    const cards: Plant[] = details
+      .filter((d): d is PlantDetail => !!d)
+      .map(d => ({
+        general_plant_id: d.general_plant_id,
+        common_name: d.common_name,
+        scientific_name: d.scientific_name,
+        image_url: (d.image_urls && d.image_urls[0]) || ''
+      }))
+
+    plants.value = cards
+    // 可选：把识别出的 id 放进搜索框提示
+    query.value = `#${ids.join(',')}`
   } catch (e: any) {
     error.value = e.message || String(e)
   } finally {
@@ -323,12 +343,9 @@ const onImageChange = async (ev: Event) => {
   }
 }
 
-/** 首次进入：展示 8 条（内部会把空搜索兜底成 'a'） */
+/** 首次进入：展示 8 条（searchPlants 内部会对空搜索兜底处理） */
 onMounted(load)
 </script>
-
-
-
 
 <style scoped>
 /* ====== 基础 ====== */
@@ -363,7 +380,7 @@ onMounted(load)
   box-sizing: border-box;
   border-radius: 999px;
   border: 1px solid var(--c-border);
-  padding: 0 112px 0 44px; 
+  padding: 0 112px 0 44px;
   outline: none;
   box-shadow: var(--shadow-sm);
 }
