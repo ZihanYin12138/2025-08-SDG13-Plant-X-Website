@@ -1,0 +1,146 @@
+{
+  "id": 662,
+  "common_name": "bush allamanda",
+  "scientific_name": [
+    "Allamanda schottii"
+  ],
+  "other_name": [],
+  "family": "Apocynaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "schottii",
+  "genus": "Allamanda",
+  "origin": [
+    "Northeastern Argentina",
+    "southern Brazil"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Air Layering Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "10",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=662&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=662&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stem",
+      "color": [
+        "brown",
+        "green",
+        "green-red"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green",
+        "dark-green",
+        "glossy-green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "yellow",
+        "bright-yellow"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green",
+        "light-green"
+      ]
+    },
+    {
+      "part": "flower",
+      "color": [
+        "golden-yellow"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=662&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": true,
+  "invasive": false,
+  "tropical": true,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Bush allamanda is an incredibly beautiful and easy to cultivate plant. The large, glossy, dark green leaves are a delightful contrast to its fragrant yellow flowers which bloom from summer to autumn. Growing in tight clumps, it provides a refreshing and vibrant presence in the garden. It's a great pick for gardeners looking for a trouble-free and low maintenance plant, as it only needs occasional pruning and minimal watering. Not to mention, its blooms are a great addition to any floral arrangement. With its easy upkeep, stunning flowers and bright foliage, bush allamanda is an amazing addition to any garden.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/662_allamanda_schottii/og/46903965462_bb70dc339e_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/662_allamanda_schottii/regular/46903965462_bb70dc339e_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/662_allamanda_schottii/medium/46903965462_bb70dc339e_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/662_allamanda_schottii/small/46903965462_bb70dc339e_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/662_allamanda_schottii/thumbnail/46903965462_bb70dc339e_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

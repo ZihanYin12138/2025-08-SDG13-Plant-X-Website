@@ -1,0 +1,127 @@
+{
+  "id": 639,
+  "common_name": "bugleweed",
+  "scientific_name": [
+    "Ajuga reptans 'Burgundy Glow'"
+  ],
+  "other_name": [
+    "carpet bugleweed",
+    "Bugleweed"
+  ],
+  "family": "Lamiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Burgundy Glow",
+  "variety": null,
+  "species_epithet": "reptans",
+  "genus": "Ajuga",
+  "origin": [
+    "Europe",
+    "northern Africa",
+    "southwestern Asia"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 0.75,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Bees"
+  ],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Layering Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=639&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=639&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "part sun/part shade",
+    "full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=639&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Rocky ",
+    " gravelly ",
+    " dry"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [
+    "Deer resistant",
+    " Rabbit resistant",
+    " Drought resistant"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Bugleweed (Ajuga reptans 'Burgundy Glow') is an amazing groundcover that adds texture and color to any landscape. It grows quickly, blooms in late spring or early summer with gorgeous deep pink flowers, and provides year-round interest with maroon- and bronze-tinged foliage. Very hardy, it does well in sun or partial shade and tolerates a wide range of soils. As an added bonus, it is also deer-resistant and requires little maintenance once established. Perfect for planting in large areas, it is both drought- and heat-tolerant and a great choice for outdoor gardens and residential settings.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/639_ajuga_reptans_burgundy_glow/og/Ajuga_27Burgundy_Glow27_01.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/639_ajuga_reptans_burgundy_glow/regular/Ajuga_27Burgundy_Glow27_01.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/639_ajuga_reptans_burgundy_glow/medium/Ajuga_27Burgundy_Glow27_01.jpg",
+    "small_url": "https://perenual.com/storage/species_image/639_ajuga_reptans_burgundy_glow/small/Ajuga_27Burgundy_Glow27_01.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/639_ajuga_reptans_burgundy_glow/thumbnail/Ajuga_27Burgundy_Glow27_01.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

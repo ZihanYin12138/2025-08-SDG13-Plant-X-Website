@@ -1,0 +1,109 @@
+{
+  "id": 626,
+  "common_name": "Chinese evegreen",
+  "scientific_name": [
+    "Aglaonema 'Cutlass'"
+  ],
+  "other_name": [],
+  "family": "Araceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Cutlass",
+  "variety": null,
+  "species_epithet": "'Cutlass'",
+  "genus": "Aglaonema",
+  "origin": [
+    "China"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Air Layering Propagation",
+    "Stem Propagation",
+    "Leaf Cutting"
+  ],
+  "hardiness": {
+    "min": "10",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=626&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=626&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=626&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": true,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Chinese evergreen (Aglaonema 'Cutlass') is an amazing plant that is sure to bring joy and beauty to any home. It’s low-maintenance and requires minimal care, making it perfect for novice gardeners. It’s easy to propagate and comes in vibrant colors featuring streaks of white, cream, and pink. This stunning foliage reduces stress and can help improve air quality by naturally filtering toxins from the air. Chinese evergreen is a great way to add a touch of luxury to any home décor.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/626_aglaonema_cutlass/og/2560px-Chinese_Evergreen_28Aglaonema_nitidum_27Silver_Queen2729_1.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/626_aglaonema_cutlass/regular/2560px-Chinese_Evergreen_28Aglaonema_nitidum_27Silver_Queen2729_1.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/626_aglaonema_cutlass/medium/2560px-Chinese_Evergreen_28Aglaonema_nitidum_27Silver_Queen2729_1.jpg",
+    "small_url": "https://perenual.com/storage/species_image/626_aglaonema_cutlass/small/2560px-Chinese_Evergreen_28Aglaonema_nitidum_27Silver_Queen2729_1.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/626_aglaonema_cutlass/thumbnail/2560px-Chinese_Evergreen_28Aglaonema_nitidum_27Silver_Queen2729_1.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
