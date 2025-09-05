@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 216,
+      "species_id": 634,
+      "common_name": "common bugle",
+      "scientific_name": [
+        "Ajuga reptans"
+      ],
+      "section": [
+        {
+          "id": 776,
+          "type": "watering",
+          "description": "Common bugle (Ajuga reptans) should be watered regularly and evenly. It is best to water these plants deeply and thoroughly once a week, providing about 1 to 1.5 inches of water at a time. The frequency of watering may need to be increased, especially during times of hot summer heat or excessive wind. If the soil feels dry, give the plant a deeper soak. Watering in the early morning or evening hours is recommended to limit evaporation."
+        },
+        {
+          "id": 777,
+          "type": "sunlight",
+          "description": "Common bugle (Ajuga reptans) is an evergreen groundcover plant that prefers partial shade to full sun. It grows best in an environment that offers 3 to 5 hours of sunlight a day, usually during the morning or late afternoon hours. It is important to note that too much sun exposure may result in wilting or scorching of the foliage. When planting common bugle, it is important to find an area of the garden that receives the right amount of sunlight and shade to give it its best chance at thriving."
+        },
+        {
+          "id": 778,
+          "type": "pruning",
+          "description": "Common bugle (Ajuga reptans) should be pruned back once a year in early spring, around late March or April. Most of the plant’s stems can be cut back by up to ½ their height or roughly 3-4 inches above the soil level. This will encourage new growth and keep the plant looking its best. Dead or damaged stems should also be removed as needed throughout the growing season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

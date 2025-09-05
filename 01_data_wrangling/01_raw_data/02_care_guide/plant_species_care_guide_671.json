@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2075,
+      "species_id": 671,
+      "common_name": "scallion",
+      "scientific_name": [
+        "Allium fistulosum"
+      ],
+      "section": [
+        {
+          "id": 6430,
+          "type": "watering",
+          "description": "Water scallion plants every 2 to 3 days to keep soil moist but not overly saturated. Water the soil around the plants in the morning, applying about 1/2 to 1 inch of water. Allow the soil to dry out slightly between waterings. If the soil is drying out too quickly, consider adding mulch around the plants to help retain moisture. Avoid getting the plant leaves wet when watering, as this can lead to fungal diseases."
+        },
+        {
+          "id": 6431,
+          "type": "sunlight",
+          "description": "Scallions (Allium fistulosum) need 8 to 10 hours of sunlight each day to reach full maturity. They should be placed in an area that offers direct sunlight, such as a south-facing window that receives morning sun or a sunny patio. Insufficient sunlight will make the plant slender and weak and reduce bulb size. Too much heat will also reduce bulb size."
+        },
+        {
+          "id": 6432,
+          "type": "pruning",
+          "description": "Scallions should be pruned regularly as part of their maintenance. Prune them twice a year, once in late winter and again in early summer. Late winter pruning helps to ensure a good crop of tender young shoots in early spring. In early summer, the second pruning encourages strong growth and helps produce extended harvest period into the fall. Make sure to cut the shoots just above the soil surface. Use small, sharp pruning shears or scissors for a quick, clean cut. Prune away any weakened or dead shoots throughout the growing season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

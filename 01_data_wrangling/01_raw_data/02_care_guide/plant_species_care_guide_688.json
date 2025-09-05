@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2090,
+      "species_id": 688,
+      "common_name": "German garlic",
+      "scientific_name": [
+        "Allium senescens"
+      ],
+      "section": [
+        {
+          "id": 6475,
+          "type": "watering",
+          "description": "German garlic (Allium senescens) should be watered regularly throughout the growing season. The soil should be kept moist, but not soggy, so it’s best to water deeply and less frequently. In general, plan on applying 1 to 2 inches of water per week. In the hottest months of summer, water a bit more. Let the soil dry out slightly between waterings, but make sure to water during any extended dry periods."
+        },
+        {
+          "id": 6476,
+          "type": "sunlight",
+          "description": "German garlic requires a minimum of 6-8 hours of sunlight a day, ideally during the middle of the day when the sun is strongest. It does best in full sun but can tolerate some partial shade. It should also be planted in a spot that has good air circulation which will help keep the leaves dry and prevent disease."
+        },
+        {
+          "id": 6477,
+          "type": "pruning",
+          "description": "German garlic is a small, hardy plant that is exceptionally easy to care for. Pruning German garlic is essential for its health and productivity. As a deciduous, cool-season perennial, German garlic should be pruned in the spring and early summer when it begins to show new growth. Pruning should be done lightly and judiciously. Cut away dead leaves and stems and thin out any overcrowding. Pruning will help keep the plants compact and generate new growth. In the fall, after harvest, it should be pruned again to reduce the foliage and encourage dormancy. Additionally, fertilizing the German garlic plants when they are actively growing will yield better and more reliable harvests."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

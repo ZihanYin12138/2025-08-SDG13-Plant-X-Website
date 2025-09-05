@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2055,
+      "species_id": 644,
+      "common_name": "bugleweed",
+      "scientific_name": [
+        "Ajuga reptans 'Purple Torch'"
+      ],
+      "section": [
+        {
+          "id": 6370,
+          "type": "watering",
+          "description": "Bugleweed prefers moist, but well-drained soil. It should be watered once or twice a week to keep the soil moist. Increase watering frequency during the warmer months, ensuring the soil never completely dries out. During the winter months, reduce watering frequency to once every 2 to 3 weeks."
+        },
+        {
+          "id": 6371,
+          "type": "sunlight",
+          "description": "Bugleweed (Ajuga reptans 'Purple Torch') prefers full sun to partial shade. The plant needs at least 5 hours of direct sunlight each day to thrive. Morning sun is best, as the intensity of the afternoon sun may be too strong. When planted in areas that get too much direct sun, bugleweed may become stunted or may not flower. Bugleweed can only tolerate full sun conditions when the soil is kept moist."
+        },
+        {
+          "id": 6372,
+          "type": "pruning",
+          "description": "Bugleweed (Ajuga reptans 'Purple Torch') should be pruned yearly. Pruning should be done in late winter or early spring, before new growth begins. Depending on your climate, this can range between February and April. Keep the height of the plant at 4-6 inches by removing any dead, diseased or damaged shoots, as well as any shoots that grow more than 2 inches above the desired height. This will also help encourage a dense growth habit. If you accidentally over-prune the plant, new growth should be visible shortly after."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2019,
+      "species_id": 601,
+      "common_name": "giant hyssop",
+      "scientific_name": [
+        "Agastache SUMMER GLOW"
+      ],
+      "section": [
+        {
+          "id": 6262,
+          "type": "watering",
+          "description": "Giant hyssop (Agastache SUMMER GLOW) should be watered once a week at minimum, letting the soil dry out somewhat between waterings. During the summer, water generously and more often. During the growing season, especially in warmer climates, ensure the soil is consistently moist but be careful not to overwater, as this can lead to root rot. It is important to water the soil and not the leaves to limit potential disease problems.  You can tell if your plant needs watering by sticking your finger 2-3 inches into the soil. If it feels dry, it's probably time for watering."
+        },
+        {
+          "id": 6263,
+          "type": "sunlight",
+          "description": "Giant hyssop (Agastache SUMMER GLOW) grows best in full sunlight, with 6-8 hours a day in the summer and 4-5 hours a day in winter. For best flowering and growth, the plant should get direct sunlight during the morning hours. The more light it gets early in the day, the more its colourful flowers will last throughout the summer."
+        },
+        {
+          "id": 6264,
+          "type": "pruning",
+          "description": "Giant Hyssop, also known as Agastache Summer Glow, should be pruned regularly to ensure a well-kept, healthy shrub. Pruning should take place in early spring, before the plant begins to bloom. Cut all old, dead stems at the base, close to the ground. Prune back branches that have grown too long by cutting them back to the desired length. Prune off damaged branches and any branches that are growing inwards to maintain proper air circulation. Prune off any flower heads that have already bloomed in order to encourage new flowers to grow. Prune lightly, as to not damage the stems."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

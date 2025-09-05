@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2064,
+      "species_id": 655,
+      "common_name": "hollyhock",
+      "scientific_name": [
+        "Alcea rosea (single)"
+      ],
+      "section": [
+        {
+          "id": 6397,
+          "type": "watering",
+          "description": "Hollyhock (Alcea rosea (single)) should be watered deeply once a week, providing at least 1 inch of water per week. Water should be applied directly to the soil and ensure that it is able to penetrate down to the roots. During dry periods, you may need to increase watering frequency to twice a week. Avoid overwatering, as it can lead to root rot. Avoid getting the foliage wet, as this can lead to fungal diseases."
+        },
+        {
+          "id": 6398,
+          "type": "sunlight",
+          "description": "Hollyhocks (Alcea rosea (single)) should be planted in a location that receives full sun, meaning at least 6-8 hours of direct sunlight a day. For maximum flowering and health, hollyhocks should receive as much sunlight as possible. When planted in partially shaded areas, hollyhocks will produce fewer flowers and are more prone to disease."
+        },
+        {
+          "id": 6399,
+          "type": "pruning",
+          "description": "Hollyhock (Alcea rosea (single)) should be pruned twice a year - once in mid-summer after the first flowering period and again in late fall after all blooms have faded. In early summer, when the plant has finished flowering, cut down the stalks to a few inches above the soil level. This will allow the plant to go into dormancy so it can regenerate and start producing new blooms for the following season. \n\nCutting the stalks down to about 1/2 their length in late fall will also help improve air circulation and promote overall health in the plant. For any stems that are looking dead or damaged from pests or disease, they should be pruned further down to the base. This will help minimize the chances of any new diseases or insects attacking the plant in the future."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

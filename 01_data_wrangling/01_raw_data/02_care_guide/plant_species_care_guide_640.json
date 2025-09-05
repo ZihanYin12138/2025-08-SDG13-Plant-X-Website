@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2051,
+      "species_id": 640,
+      "common_name": "bugleweed",
+      "scientific_name": [
+        "Ajuga reptans 'Catlin's Giant'"
+      ],
+      "section": [
+        {
+          "id": 6358,
+          "type": "watering",
+          "description": "Bugleweed is a very easy plant to care for and, fortunately, requires very little watering. The plant should be watered only when necessary, which is usually around once per week during dry spells. Keep in mind that while the plant prefers moist soil, it does not like to stay overly wet, so avoid overwatering. During hot weather, it is best to water bugleweed in the morning or late evening to help reduce water loss due to evaporation."
+        },
+        {
+          "id": 6359,
+          "type": "sunlight",
+          "description": "Bugleweed (Ajuga reptans 'Catlin's Giant') prefers full sun to light shade, although in the hottest climates they may do better with a few hours of mid-day shade. Place plants in full sun when the sun is strongest, generally between 10 am and 2 pm. During these hours, the Bugleweed will receive at least 6 hours of sun for optimal growth."
+        },
+        {
+          "id": 6360,
+          "type": "pruning",
+          "description": "Bugleweed (Ajuga reptans 'Catlin's Giant') should be lightly pruned in the spring to remove any winter damage, and it may also need to be deadheaded if flowers die off. Pruning can also help to control and shape the overall size and shape of the plant. For this particular plant species, it should only need minimal pruning - around 10 to 15 cm from the top of the plant - and should occur around April or early May, after the risk of frost has passed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

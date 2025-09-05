@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2015,
+      "species_id": 597,
+      "common_name": "giant hyssop",
+      "scientific_name": [
+        "Agastache rugosa 'Honey Bee Blue'"
+      ],
+      "section": [
+        {
+          "id": 6250,
+          "type": "watering",
+          "description": "Water giant hyssop (Agastache rugosa 'Honey Bee Blue') once every 1-2 weeks when the soil begins to dry out. This species likes to be kept in moist conditions, so feel the soil–it should remain damp but not soggy. When watering, slowly and evenly moisten the entire rootball. Soak the soil until water runs out of the drainage hole at the bottom of the pot."
+        },
+        {
+          "id": 6251,
+          "type": "sunlight",
+          "description": "Giant hyssop is a plant species that requires full sun to thrive. During the spring, summer, and early fall months, it should receive at least 6 to 8 hours of direct sunlight per day. Ideally in the late spring and summer this should be full sun all day. During late fall and winter days, the plant should receive 4 to 6 hours of indirect sun such as filtered light through a window or light shade. Make sure the plant receives plenty of sunlight so it can grow full and healthy."
+        },
+        {
+          "id": 6252,
+          "type": "pruning",
+          "description": "Giant hyssop (Agastache rugosa 'Honey Bee Blue') should be pruned twice a year, once in late winter or early spring, before the new growth begins, and again in late summer after the plant has bloomed.In late winter or early spring, cutting back all of the stems to 6–12 inches will encourage the most new growth. In late summer, lightly prune the plant to shape it, and cut back the longest stems by half their original length. It is important to not prune excessively in late summer, as it can reduce blooming and cause the plant to become lanky."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

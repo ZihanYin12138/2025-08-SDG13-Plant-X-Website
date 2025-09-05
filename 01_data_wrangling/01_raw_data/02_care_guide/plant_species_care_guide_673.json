@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2077,
+      "species_id": 673,
+      "common_name": "ornamental onion",
+      "scientific_name": [
+        "Allium 'Globemaster'"
+      ],
+      "section": [
+        {
+          "id": 6436,
+          "type": "watering",
+          "description": "Water your ornamental onion deeply, about every 5 to 7 days in the hotter months of the year, and allow the soil to dry out slightly between waterings. In cold months, they may need less water, about once every 10-14 days. When watering, make sure you fully saturate the ground around the plant with water. Don't just splash a little water against the stem or leaves. It's also important to monitor the soil's moisture level to ensure your ornamental onion is getting enough water. If the soil is too dry, the leaves may start to wilt."
+        },
+        {
+          "id": 6437,
+          "type": "sunlight",
+          "description": "Ornamental onion (Allium 'Globemaster') plants prefer full sun, which means they need 6 to 8 hours of full sun per day. The best time of day for plants to get sunlight is in the morning or early afternoon. This allows the plants to benefit from the light of the day without the added heat of the sun. Ornamental onions should receive full sun for best growth and flowering."
+        },
+        {
+          "id": 6438,
+          "type": "pruning",
+          "description": "Ornamental onion (Allium 'Globemaster') should be pruned at the end of the winter season, or in early spring before the flowers begin to bloom. Pruning should be done in order to get rid of any dead, damaged, or diseased stems or foliage. To prune, use clean, sharp pruning shears and cut back the foliage and stems down to a few inches above the ground. Additionally, any dried flower heads should be removed once the blooming period finishes."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

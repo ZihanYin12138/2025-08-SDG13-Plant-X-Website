@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 537,
+      "species_id": 652,
+      "common_name": "rain tree",
+      "scientific_name": [
+        "Albizia saman"
+      ],
+      "section": [
+        {
+          "id": 1612,
+          "type": "watering",
+          "description": "Rain trees should be watered every 7-10 days during the spring and summer months. Water them deep enough so that the moisture reaches the entire root system. Watering should be done early in the morning or late in the evening to reduce evaporation. During the winter, watering can be reduced to every 2-3 weeks. When in doubt, the soil should be checked with a finger or soil moisture meter so that it is not overwatered."
+        },
+        {
+          "id": 1613,
+          "type": "sunlight",
+          "description": "Rain tree (Albizia saman) can tolerate direct sunlight but prefers partial shade. In hot climates, direct sunlight will intensify heat and quickly dry out the soil, so during these times it’s best to provide shade for the tree by planting it in an area with dappled or filtered sunlight throughout the day. In cooler climates, a rain tree will benefit from full sun for the majority of the day (approximately 6 to 8 hours)."
+        },
+        {
+          "id": 1615,
+          "type": "pruning",
+          "description": "Pruning of rain trees (Albizia saman) should be done at least once a year. In general, pruning should take place during late winter or early spring before growth begins, though pruning can be done at any time if necessary. Pruning should remove dead, weakened, or unhealthy branches as well as branches that are rubbing against each other or crossing over 1 another. The amount of pruning should depend on the size and health of the tree as well as the desired shape, though no more than 1-third of the tree's branches or foliage should be removed at any 1 time. Proper pruning techniques will ensure the health and aesthetic appeal of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

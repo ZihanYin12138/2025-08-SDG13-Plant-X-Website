@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2094,
+      "species_id": 692,
+      "common_name": "ornamental onion",
+      "scientific_name": [
+        "Allium 'Serendipity'"
+      ],
+      "section": [
+        {
+          "id": 6487,
+          "type": "watering",
+          "description": "Ornamental Onion (Allium 'Serendipity') is a drought tolerant plant that requires very little water. It should be watered deeply and infrequently. Water the plant thoroughly once every 2 to 3 weeks, allowing the soil to dry out between waterings. For best results, water the plant at the soil level, avoiding wetting the foliage. Avoid overwatering, as this can lead to root rot. "
+        },
+        {
+          "id": 6488,
+          "type": "sunlight",
+          "description": "For optimal growth and flowering production, ornamental onion (Allium 'Serendipity') needs to receive full sun, which is at least 6 hours of direct sunlight per day. It does well in areas that receive morning sun, with some shade in the afternoon. For these plants to thrive, it is best to provide them with ample sunlight, though they can tolerate partial shade."
+        },
+        {
+          "id": 6489,
+          "type": "pruning",
+          "description": "Ornamental onion, or Allium 'Serendipity', should be pruned in late spring after flowers have faded. The flower heads and stalks should be snipped off at the base of the stems. For optimal health, the clumps should be divided every 3 to 5 years, preferably in early spring. In areas with warm winters, the plants can be divided at any time from late fall to early spring. Dead and hazardous shoots, shoots that prevent airflow or open pathways between plants, and any that take away from the desired shape and size should be pruned out during late winter."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

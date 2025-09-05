@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2061,
+      "species_id": 651,
+      "common_name": "alangium",
+      "scientific_name": [
+        "Alangium platanifolium var. macrophyllum"
+      ],
+      "section": [
+        {
+          "id": 6388,
+          "type": "watering",
+          "description": "Alangium platanifolium var. macrophyllum is a fast-growing plant that is very tolerant of dry conditions and does not require frequent watering. To maintain a healthy growth rate and keep the soil moist, the plant should be watered once every 3 weeks, but only with enough water to moisten the soil without allowing it to become soggy. In hotter climates, watering may be increased to every 2 weeks. During periods of extreme heat, you may need to water the plant more often. During the dormant period, the plant may only need to be watered once every 2 months. Other than that, general upkeep includes trimming the plant regularly to keep its shape."
+        },
+        {
+          "id": 6389,
+          "type": "sunlight",
+          "description": "Alangium platanifolium var. macrophyllum is a plant species that prefers bright, indirect sunlight. During the spring and summer months, this plant should receive between 5-6 hours of direct sunlight each day in order to thrive. During the winter months, it needs to be kept in a brighter, indirect light setting and should receive about 3-4 hours of sunlight daily. While this plant prefers sunlight, it is important to note that it must be kept in a well-ventilated space, as too much direct sunlight can cause the leaves to scorch."
+        },
+        {
+          "id": 6390,
+          "type": "pruning",
+          "description": "Pruning for Alangium works best when done during the early spring season during the budding phase of the plant. It is important to remove any broken or diseased branches as soon as they are noticed. Prune the desired parts of the tree to reduce its height, spread or shape of the crown. Trimming the stems can also be done to remove weak or leggy growth, encourage vigorous new growth and promote flowering. Generally, the stem of an Alangium should be kept to a length of 2 to 3 feet but pruning can sometimes have to be done to a shorter height depending on the state of the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

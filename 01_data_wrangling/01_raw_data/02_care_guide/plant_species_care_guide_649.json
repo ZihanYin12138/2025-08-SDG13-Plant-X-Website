@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2060,
+      "species_id": 649,
+      "common_name": "chocolate vine",
+      "scientific_name": [
+        "Akebia quinata"
+      ],
+      "section": [
+        {
+          "id": 6385,
+          "type": "watering",
+          "description": "Chocolate vine should be watered regularly, about 2 to 3 times a week, depending on the season and climate conditions. During the summer months, when the plant is actively growing, plenty of water should be provided to keep the soil evenly moist. In the winter, when the plant is dormant, the frequency of watering should be reduced, but the root system should still be kept consistently moist. Additionally, during the fall, when the plant is preparing for dormancy, watering should be slightly increased to encourage healthy growth before the winter dormancy."
+        },
+        {
+          "id": 6386,
+          "type": "sunlight",
+          "description": "Chocolate vine is a shade-tolerant species that does best in partial shade but can tolerate up to several hours of direct sunlight each day. This plant should receive 2-4 hours of direct sunlight a day during the growing season, with bright light for the rest of the day. It can tolerate full sun during the cooler months of spring and fall."
+        },
+        {
+          "id": 6387,
+          "type": "pruning",
+          "description": "Chocolate vine (Akebia quinata) should be pruned in the early spring before new growth appears. This plant grows quickly so it should be pruned hard to maintain a desired shape and size. Cut the stems back to about a foot above the ground and thin out any overgrown or tangled stems. This will encourage for new growth and not let the vine smother any other plants. Remove any dead or diseased stems anytime during the growing season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2054,
+      "species_id": 643,
+      "common_name": "bugleweed",
+      "scientific_name": [
+        "Ajuga reptans 'Purple Brocade'"
+      ],
+      "section": [
+        {
+          "id": 6367,
+          "type": "watering",
+          "description": "Bugleweed should be watered whenever the top 1 inch of the soil becomes dry. Aim to water this plant deeply, preferably once or twice a week to keep the soil moist but not soaking wet. During the heat of summer, more frequent watering may be necessary. If grown in a container, check the soil moisture more often. Generally speaking, bugleweed should be given an appropriate amount of water to keep the soil evenly moist, but not soggy."
+        },
+        {
+          "id": 6368,
+          "type": "sunlight",
+          "description": "Bugleweed (Ajuga reptans 'Purple Brocade') enjoys partial shade to full sun depending on the season and region. In summer, the plant prefers partial shade and should be protected from direct sunlight during the hottest times of the day. In cooler regions, the plant can tolerate full sun. In spring and fall, bugleweed can also enjoy some direct sunlight. It is best to give the plant at least 4-6 hours of direct sunlight each day."
+        },
+        {
+          "id": 6369,
+          "type": "pruning",
+          "description": "Bugleweed (Ajuga reptans 'Purple Brocade') should be pruned twice a year, as soon as the first flush of spring growth appears in the spring and again in mid-summer. The first pruning should be done to remove any dead or damaged foliage and to shape the plant. The second pruning should be done to keep the plant bushy and to remove any leggy growth. Pruning should not be too severe – only remove about 1/3 of the growth at each pruning session."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

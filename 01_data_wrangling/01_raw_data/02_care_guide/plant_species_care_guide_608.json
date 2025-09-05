@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2025,
+      "species_id": 608,
+      "common_name": "century plant",
+      "scientific_name": [
+        "Agave 'Blue Glow'"
+      ],
+      "section": [
+        {
+          "id": 6280,
+          "type": "watering",
+          "description": "Century plant (Agave 'Blue Glow') should be watered about once a week, during the growing season (spring and summer). Water the plant until it is evenly moist, but not soggy. In the winter months, reduce watering to every 2 to 4 weeks, depending on the plant’s environment. To help the soil drain freely, add sand or small pebbles to the soil twenty minutes before watering. Be sure to empty any saucers beneath the pot so the plant will not sit in water."
+        },
+        {
+          "id": 6281,
+          "type": "sunlight",
+          "description": "Century plant (Agave 'Blue Glow') thrives on direct sunlight for a minimum of 6 to 8 hours each day. This plant should be placed in areas where it will get plenty of natural, full-sun exposure from morning to mid-afternoon. Direct sunlight is required for strong growth and flowering. The Century Plant should not be placed in heavily shaded areas."
+        },
+        {
+          "id": 6282,
+          "type": "pruning",
+          "description": "Century plant (Agave 'Blue Glow') is a popular, hardy succulent that requires minimal care and maintenance. Pruning for this species should take place during the spring and summer months, when the plant is actively growing. Pruning should be done after the plant has finished flowering and the flower shoot has been removed. Prune off any dead leaves or flower shoots to keep the plant healthy. If the plant is getting too big for its space, or if you want to encourage branching, you can prune back the leaves and flower shoots, making sure to leave some of the main stem intact. This plant should not be pruned heavily; it is best to just snip off a few of the top leaves and flower shoots and remove any dead or damaged ones."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

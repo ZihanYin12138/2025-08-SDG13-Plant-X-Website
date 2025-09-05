@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2079,
+      "species_id": 675,
+      "common_name": "ornamental onion",
+      "scientific_name": [
+        "Allium karataviense"
+      ],
+      "section": [
+        {
+          "id": 6442,
+          "type": "watering",
+          "description": "Ornamental onions (Allium karataviense) generally need to be watered on a weekly or bi-weekly basis, depending on the weather and soil conditions. During hot, dry weather, the soil can dry out quickly, so the onion plants should be checked often to determine if they need to be watered. In cooler weather, it may be necessary to water every 2 weeks.\n\nWhen watering, it is important to provide enough water to thoroughly moisten the soil, but not so much that it is excessively soggy. The amount of water needed will depend on the size of the onion plants and the size of the pot they are in, with larger plants and bigger pots needing more water."
+        },
+        {
+          "id": 6443,
+          "type": "sunlight",
+          "description": "Ornamental onion (Allium karataviense) thrives best in sunny areas that get full sun for 8 hours or more per day. This plant typically blooms in mid to late spring. Sunlight during the blooming season encourages the ornamental onion to produce more flowers. In winter, the ornamental onion is dormant, so dimmer winter sunlight won't cause any harm. If possible, an east- or south-facing spot that will catch the morning sun is ideal for the ornamental onion."
+        },
+        {
+          "id": 6444,
+          "type": "pruning",
+          "description": "Ornamental onion (Allium karataviense) plants should be pruned once a year, preferably in late spring or early summer. Pruning should be done by cutting back the foliage and flower stalks to within 2 to 3 inches from the ground. Be sure to leave any basal leaves that may be present at the base of the plant. This will help promote the next season of growth. Deadheading can also be done to promote more blooming. This is simply the removal of spent flower heads, as well as faded leaves, from the plant. This will help the ornamental onion look its best."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

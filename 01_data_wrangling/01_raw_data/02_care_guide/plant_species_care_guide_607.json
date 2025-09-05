@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2024,
+      "species_id": 607,
+      "common_name": "century plant",
+      "scientific_name": [
+        "Agave attenuata"
+      ],
+      "section": [
+        {
+          "id": 6277,
+          "type": "watering",
+          "description": "For the Century plant (Agave attenuata), watering should take place every 2-4 weeks during summer months and every 4-6 weeks during the winter. During summer, approximately 1-2 inches (2.5-5 cm) of water should be applied to the soil of the century plant during each watering session. During the winter months, water should be applied less frequently and in lesser amounts - about 0.5-1 inch (1.2-2.5 cm). Watering should be done early in the day so that the century plant has time to dry out before night time. Make sure that the soil is dry before adding any water, to avoid overwatering and root rot."
+        },
+        {
+          "id": 6278,
+          "type": "sunlight",
+          "description": "Century plants need 8-10 hours of full sun each day to thrive. The best sun exposure for the plant is direct sunlight early in the morning until afternoon. "
+        },
+        {
+          "id": 6279,
+          "type": "pruning",
+          "description": "Century plants should be pruned twice a year, once in spring and again in late fall. In spring, remove up to the third or fourth basal leaves from the stem and any flower or seed stalks. In late fall, remove up to 1/2 of the plant's foliage from the lower portions of the plant. It is important to wear gloves when pruning a century plant because the leaves have spines that can irritate skin. When pruning, use clean, sharp gardening tools to ensure that the cuts are clean and will not damage the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

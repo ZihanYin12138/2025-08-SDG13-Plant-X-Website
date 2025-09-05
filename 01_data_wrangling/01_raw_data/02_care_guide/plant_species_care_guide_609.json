@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2026,
+      "species_id": 609,
+      "common_name": "spineless jade agave",
+      "scientific_name": [
+        "Agave desmetiana"
+      ],
+      "section": [
+        {
+          "id": 6283,
+          "type": "watering",
+          "description": "Spineless jade agave should be watered just enough so that the soil is slightly moist, about once a week in the summer months, and bi-weekly in winter months. When it's time for watering, water deeply until there is draining from the bottom of the container. As a succulent, it is more tolerant of a dry environment so it is important not to overwater."
+        },
+        {
+          "id": 6284,
+          "type": "sunlight",
+          "description": "The spineless jade agave (Agave desmetiana) needs full, direct sunlight to thrive and grow. During the summer months, the plant should be exposed to at least 6 hours of daylight each day, with periods of bright, direct sunlight that can last up to 8 hours, depending on the climate. During the winter months, the spineless jade agave should be exposed to at least 4 hours of sunlight."
+        },
+        {
+          "id": 6285,
+          "type": "pruning",
+          "description": "Spineless jade agave should be pruned at the end of winter or early spring when new growth begins. The agave should be trimmed so that the center is kept open and airy; remove any outer leaves that are yellowing or look unhealthy. Cutting off the flowering stalk is essential for proper plant maintenance; however, the entire plant may also need to be removed after it blooms. Generally, removing 1-third of the lower portion of the plant each year is recommended, but be careful not to prune too severely, as this can weaken the plant and reduce growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

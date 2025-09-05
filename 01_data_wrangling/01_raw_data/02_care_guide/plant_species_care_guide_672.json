@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2076,
+      "species_id": 672,
+      "common_name": "ornamental onion",
+      "scientific_name": [
+        "Allium 'Forelock'"
+      ],
+      "section": [
+        {
+          "id": 6433,
+          "type": "watering",
+          "description": "Ornamental onion (Allium 'Forelock') should be watered deeply 1-2 times per week or when the soil is dry 1-2 inches below the surface. The soil should be well-draining as this plant does not tolerate soggy soil. Watering deeply helps to encourage healthy root growth. During summer months, the plant may require more frequent watering. In winter, the watering should be decreased, but the soil should never be allowed to dry completely."
+        },
+        {
+          "id": 6434,
+          "type": "sunlight",
+          "description": "Ornamental onion (Allium 'Forelock') is a perennial herb that grows best in full sun, though it will tolerate some light shade. Ornamental onion prefers long hours of sunlight, especially during the summer months when it is actively growing. For optimal growth, the plant should receive 6-10 hours of sunlight each day. During the winter, the plant should still receive some sunlight, even if it is reduced, as this will help it remain healthy."
+        },
+        {
+          "id": 6435,
+          "type": "pruning",
+          "description": "Ornamental onion (Allium 'Forelock') should be pruned once a year in late summer, just after it finishes blooming. Pruning should be done by cutting the foliage to the ground, and the flower stems to a few inches above the soil line. This will help keep the plant neat and tidy and promote new growth for the next season. Removing matured flowers throughout the season can also help keep the plant looking its best."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

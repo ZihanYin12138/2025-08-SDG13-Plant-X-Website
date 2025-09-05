@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2067,
+      "species_id": 660,
+      "common_name": "tung-oil tree",
+      "scientific_name": [
+        "Aleurites fordii"
+      ],
+      "section": [
+        {
+          "id": 6406,
+          "type": "watering",
+          "description": "Tung-oil trees should be watered regularly to keep the soil evenly moist, but not soggy. Water the tree whenever the top 3 inches (7.62 cm) begin to feel dry. Depending on the soil type and temperature, this may happen every 5 to 10 days. Be sure to check the soil before watering to avoid overwatering. Water the tree slowly and deeply, so the roots can soak up the moisture. Pay close attention to the soil around the base of the tree, and water more if the soil is dry."
+        },
+        {
+          "id": 6407,
+          "type": "sunlight",
+          "description": "he Tung-oil tree needs an abundance of full sunlight when planted outdoors. When growing in a container indoors, the tree needs at least 6-8 hours of bright, indirect light each day. The ideal location to plant the Tung-oil tree outdoors is a spot that has full, direct sunlight for at least 8 hours per day. "
+        },
+        {
+          "id": 6408,
+          "type": "pruning",
+          "description": "Tung-oil trees (Aleurites fordii) should be pruned annually. Pruning should be done during the late winter months when the tree is dormant. Start by removing dead, diseased, or damaged branches. Next, remove branches that compete for sunlight or those that are growing too close together. Thinning also helps to reduce the overall size of the tree and can help it look more attractive. Finally, prune back branches that are blocking walkways or other important structures. After all of the above steps have been completed, the tung-oil tree should look more attractive and its risk of diseases and pests should be lowered."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2022,
+      "species_id": 604,
+      "common_name": "giant hyssop",
+      "scientific_name": [
+        "Agastache 'Tutti-frutti'"
+      ],
+      "section": [
+        {
+          "id": 6271,
+          "type": "watering",
+          "description": "Giant hyssop (Agastache 'Tutti-frutti') should be watered regularly to keep the soil consistently moist, but not soggy. During the summer months, it's best to water this plant daily or every other day, and during the winter it should be watered about once a week. To ensure it receives enough water, check the soil every few days for moisture and water as necessary, or as directed by a soil moisture gauge. Additionally, it's important to water the giant hyssop plant at the base and not on the leaves, as this can cause leaf problems."
+        },
+        {
+          "id": 6272,
+          "type": "sunlight",
+          "description": "Giant hyssop (Agastache 'Tutti-frutti') thrives in full sun, which means it should receive 6 to 8 hours of direct sunlight per day. This is especially important during the summer months. To ensure the best results, position your plant in an area that receives direct sunlight from sunrise to mid-afternoon. If you can provide some dappled shade in the late afternoon hours, that’s even better. Prolonged exposure to intense direct sunlight, especially during mid-day hours, should be avoided."
+        },
+        {
+          "id": 6273,
+          "type": "pruning",
+          "description": "Giant hyssop (Agastache 'Tutti-frutti') is a low-maintenance perennial shrub that is a good choice for many gardens. Pruning is an important part of keeping this plant healthy and it should be done regularly. The best time for pruning is when the plant is actively growing in the spring, typically beginning in late March or early April.\n\nWhen pruning giant hyssop, remove only the stems that have died or are damaged first. The next step is to prune off any unproductive flowering stems and deadhead any spent flowers from the previous season. Then, selectively trim off some of the thicker, older flowering stems to promote new growth, as well as to maintain the shape of the shrub. When finished, the plant should be shaped well, without looking overly manicured.\n\nIt is best to not prune too much off of the the giant hyssop, as it can cause the plant to become unhealthy. Generally, only remove 10-20% of the total foliage. Additionally, refrain from pruning any new growth or buds that have just formed, as this can stunt the flowering of the shrub."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

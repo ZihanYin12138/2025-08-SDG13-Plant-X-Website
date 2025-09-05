@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2030,
+      "species_id": 613,
+      "common_name": "Parry's agave",
+      "scientific_name": [
+        "Agave parryi"
+      ],
+      "section": [
+        {
+          "id": 6295,
+          "type": "watering",
+          "description": "Parry's agave (Agave parryi) requires only minimal watering, as it is native to an area of Mexico that receives only about 5 inches (13 cm) of rain per year. Water the plant only when the soil is dry to the touch, which should happen every 6-8 weeks. During winter months, especially in regions with colder climates, water should be given only once every 2 to 3 months"
+        },
+        {
+          "id": 6296,
+          "type": "sunlight",
+          "description": "Parry's agave (Agave parryi) is native to the southwestern United States, and tends to thrive in full sun. It prefers direct sunlight for at least 6-8 hours a day, although it can tolerate less sun exposure if necessary. It also does well in extremely dry conditions. During the summer months, the plant should definitely be exposed to the most direct sun possible. During the winter months, slightly less direct sunlight is ok, as long as it still gets 6-8 hours of direct light each day. "
+        },
+        {
+          "id": 6297,
+          "type": "pruning",
+          "description": "Parry's agave (Agave parryi) should be lightly pruned in late spring or early summer. Pruning should be limited to removing offshoots or damaged, yellowed, or dried leaves, as well as flower stalks. Excessive pruning should be avoided, as it can cause harm to the plant or inhibit flowering. When pruning, make sure to use sterilized pruning shears in order to prevent disease or infection."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

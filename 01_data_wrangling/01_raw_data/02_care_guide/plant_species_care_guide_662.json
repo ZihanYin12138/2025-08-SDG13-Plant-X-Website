@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1005,
+      "species_id": 662,
+      "common_name": "bush allamanda",
+      "scientific_name": [
+        "Allamanda schottii"
+      ],
+      "section": [
+        {
+          "id": 3002,
+          "type": "watering",
+          "description": "Bush allamanda should be watered thoroughly and regularly. Water so that the soil feels moist, but not soggy. During the summer, it is best to water bush allamanda every 2 to 3 days, but during the winter season, you can scale this back to once a week. Make sure to monitor the soil frequently to determine when it's time to water."
+        },
+        {
+          "id": 3010,
+          "type": "sunlight",
+          "description": "Bush allamanda plants prefer full morning sun for around 6 hours per day followed by partial afternoon shade. Ideally, the sun should be bright and direct but diffuse, so as not to scorch the leaves during the hottest hours of the day. If possible, try to avoid direct sunlight in the late afternoon to protect the plant from heat and sunburn. In coastal climates, full afternoon sun is allowed in cooler months. In hotter months, protect the bush allamanda from the heat of the afternoon sun by providing some shade."
+        },
+        {
+          "id": 3017,
+          "type": "pruning",
+          "description": "Bush allamanda (Allamanda schottii) should be pruned in the late winter or early spring before the plant begins to actively grow. When shaping and pruning bush allamanda, remove up to 1-third of the oldest and longest branches, cutting them back to the desired height to promote healthy, vigorous growth. If the plant is too large, it can be reduced in size by cutting the leaves to just above a pair of side shoots, which will encourage new growth and a denser canopy of foliage. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

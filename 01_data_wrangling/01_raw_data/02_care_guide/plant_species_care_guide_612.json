@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2029,
+      "species_id": 612,
+      "common_name": "whale's tongue agave",
+      "scientific_name": [
+        "Agave ovatifolia"
+      ],
+      "section": [
+        {
+          "id": 6292,
+          "type": "watering",
+          "description": "Whale's tongue agave (Agave ovatifolia) should be watered every 1-2 weeks during the summer months and every 3-4 weeks during the winter months; be sure to adjust these times accordingly if you live in an area that has more extreme temperatures than normal. During the summer, the soil should be allowed to dry out completely in between waterings. During the winter months the soil should be slightly damp but not too wet; the agave should never be kept in soggy soil. After repotting, water the plant deeply but allow the surface of the soil to dry out between waterings. It is also important to check the drainage holes of the pot to make sure that any excess water can escape."
+        },
+        {
+          "id": 6293,
+          "type": "sunlight",
+          "description": "Whale's tongue agave (Agave ovatifolia) requires full sun to partial sun to thrive. It prefers 6-8 hours of direct sunlight per day in the spring, summer and fall months, and 4-6 hours of direct sunlight during the winter months."
+        },
+        {
+          "id": 6294,
+          "type": "pruning",
+          "description": "Whale's tongue agave (Agave ovatifolia) is a magnificent plant that does not need to be pruned often. Pruning should only be done when needed to remove damaged, dead, and diseased foliage or to control growth. The plant should be pruned in late spring or early summer, usually around June or July. Be sure to use sharp, sterilized pruning shears to avoid causing damage to the plant. The plant's thick leaves can be pruned by cutting them at the base of the plant where they meet the stem. Regular pruning will also help the plant keep a more compact size. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

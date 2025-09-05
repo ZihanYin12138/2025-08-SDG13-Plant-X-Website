@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2092,
+      "species_id": 690,
+      "common_name": "German garlic",
+      "scientific_name": [
+        "Allium senescens 'Blue Twister'"
+      ],
+      "section": [
+        {
+          "id": 6481,
+          "type": "watering",
+          "description": "For best results, German garlic (Allium senescens 'Blue Twister') should be watered thoroughly and deeply once per week. During very hot or dry periods, it may need more frequent watering, up to twice a week. To determine when watering is needed, insert your finger into the top 2 inches of soil. If the soil feels dry, it's time to give it a thorough drink. Never let the soil become bone dry. Water until you see some moisture leaking from the bottom of the pot."
+        },
+        {
+          "id": 6482,
+          "type": "sunlight",
+          "description": "German garlic (Allium senescens 'Blue Twister') requires full sun in order to perform its best. This plant is a hardy perennial, so it should be planted in a location that will receive at least 6-8 hours of direct sunlight each day. In shadier locations, growth may be slower and yields may be reduced. The best time of day for the sun to hit Blue Twister is from mid-morning to mid-afternoon. Avoid planting it in a location that gets low light during the late afternoon, as this may cause the leaves to bleach and turn yellow."
+        },
+        {
+          "id": 6483,
+          "type": "pruning",
+          "description": "German garlic (Allium senescens 'Blue Twister') should be pruned twice each year. The first pruning should take place in early spring before the new growth emerges, when the old flowers can be removed and any dead foliage should be cut back. The second pruning should take place in late autumn, when any remaining dead or damaged foliage should be removed. Pruning German garlic will promote bushier and more compact growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

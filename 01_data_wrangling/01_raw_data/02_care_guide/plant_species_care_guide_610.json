@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2027,
+      "species_id": 610,
+      "common_name": "agave",
+      "scientific_name": [
+        "Agave geminiflora RASTA MAN"
+      ],
+      "section": [
+        {
+          "id": 6286,
+          "type": "watering",
+          "description": "Agave geminiflora RASTA MAN requires very little water and should be watered very sparingly. It's best to wait until the soil has almost completely dried out before watering. This typically means watering once or twice per month during the warmer months and as little as every 6-8 weeks during the cooler months. When you do water, make sure the soil is thoroughly saturated to a depth of about 6 inches (15 cm). Be sure to avoid overwatering, which can lead to root rot."
+        },
+        {
+          "id": 6287,
+          "type": "sunlight",
+          "description": "Agave geminiflora RASTA MAN prefers full sunlight and needs at least 6 hours of direct sunlight each day. When exposed to the right amount of sunlight, the plant will stay healthy and robust. Keep it in a location that receives bright light but isn't exposed to mid-day sun. To achieve this, place it in an area with morning rays and afternoon shade."
+        },
+        {
+          "id": 6288,
+          "type": "pruning",
+          "description": "Agave geminiflora RASTA MAN should be pruned a minimum of once a year during late winter to early spring when the plant is dormant. This should be done at a time when freezing temperatures are unlikely and the plant is least likely to be stressed. Additionally, it may be helpful to allow the lower foliage of the plant to be sufficiently removed to encourage better air circulation, reduce the chance of disease, and improve the health of the plant. It is important to remove any dead, damaged, or diseased leaves/branches and canes throughout all growing season for the best health and vigor of the species."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

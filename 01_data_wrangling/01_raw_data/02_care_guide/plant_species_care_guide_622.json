@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2039,
+      "species_id": 622,
+      "common_name": "floss flower",
+      "scientific_name": [
+        "Ageratum houstonianum 'Blue Horizon'"
+      ],
+      "section": [
+        {
+          "id": 6322,
+          "type": "watering",
+          "description": "This floss flower species should be watered lightly and infrequently, with the soil remaining slightly moist throughout the growing season. In general, it is best to water the floss flower at least once a week, or when the top 1-2 inches of soil feels dry to the touch. During especially warm or hot weather, more frequent watering may be needed. Always check the soil moisture before you water the plant, as overwatering can cause numerous issues, such as root rot or other disease."
+        },
+        {
+          "id": 6323,
+          "type": "sunlight",
+          "description": "Ageratum houstonianum 'Blue Horizon' flourishes in full to part sun with at least 4-5 hours of sun each day. It does best in morning sun and afternoon shade, or if grown in a container, it can take up to 8 hours sunshine each day. This plant, native to Mexico and Central America, does not tolerate very hot and dry conditions, so it is recommended to keep this plant out of direct sunlight during the peak heat of the day. For optimal blooms, grow this plant in an area that receives dappled light throughout the day."
+        },
+        {
+          "id": 6324,
+          "type": "pruning",
+          "description": "Floss Flower (Ageratum houstonianum ‘Blue Horizon’) should be pruned once a year in early spring before new growth emerges. Pruning helps the plant produce more branches and blooms, and it encourages a more mounded shape. To prune, cut back the stems to about 4 inches above the soil level. Remove any dead, damaged, or weak stems, and clean up any faded flowers."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

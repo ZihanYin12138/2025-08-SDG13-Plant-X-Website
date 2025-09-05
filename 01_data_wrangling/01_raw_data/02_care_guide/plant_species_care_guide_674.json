@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2078,
+      "species_id": 674,
+      "common_name": "Hooker's onion",
+      "scientific_name": [
+        "Allium hookeri var. muliense"
+      ],
+      "section": [
+        {
+          "id": 6439,
+          "type": "watering",
+          "description": "Hooker's onion should be watered once per week, with about 1 inch of water. It is a drought tolerant plant so you should not over-water it; too much water can cause the bulb to rot. Depending on how sunny the climate is, you may need to adjust the amount of water that the plant requires. The soil should be allowed to dry out between waterings and a good source of drainage is essential. If the roots become water logged, the bulbs will rot. During the growing season, you can increase watering frequency to 2 or 3 times per week. During the dormant season (i.e. winter), water the plant once per month."
+        },
+        {
+          "id": 6440,
+          "type": "sunlight",
+          "description": "Hooker's onion (Allium hookeri var. muliense) is native to California's Central Valley. It is adapted to full sun and does best when exposed to several hours of sunshine each day. In the spring, Hooker’s onion prefers full sun all day long. For summer and autumn, 4 to 6 hours of direct morning sun, plus 2 to 3 hours of late-afternoon sun, is ideal. As winter approaches, Hooker's onion should be exposed to an increasing amount of full sun. This will give it the warmth and light it needs to properly grow and bloom."
+        },
+        {
+          "id": 6441,
+          "type": "pruning",
+          "description": "Hooker's onion (Allium hookeri var. muliense) should be lightly pruned in the spring and more heavily in the fall. In the spring, remove any spent foliage and stems that have died back, as well as any foliage or stems that have become too tall or overgrown. Late summer to early fall is the optimal time for heavy pruning. Cut back the foliage, stems, and any flower stalks that have gone out of bloom to encourage new growth. Make sure to leave at least a few stems and any flower buds for winter interest."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

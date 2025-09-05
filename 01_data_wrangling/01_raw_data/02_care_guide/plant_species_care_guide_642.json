@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2053,
+      "species_id": 642,
+      "common_name": "bugleweed",
+      "scientific_name": [
+        "Ajuga reptans 'Mahogany'"
+      ],
+      "section": [
+        {
+          "id": 6364,
+          "type": "watering",
+          "description": "Bugleweed thrives in moist, well-drained soils and does best if watered consistently. It should be watered deeply and evenly every 7-10 days when grown in direct sunlight, and every 10-14 days when grown in semi-shade. To ensure this plant species gets adequate moisture, add a 2–3 inch layer of mulch around your plants. This helps to retain moisture as well as moderate soil temperature so that the roots can remain properly hydrated. Avoid watering the foliage, and instead focus on directly irrigating the ground around the base of the plant."
+        },
+        {
+          "id": 6365,
+          "type": "sunlight",
+          "description": "Bugleweed (Ajuga reptans 'Mahogany') should be planted in full sun to part shade and should receive at least 4 hours of direct sunlight a day for optimal growth. The more light Bugleweed receives, the more upright the foliage will grow and the more vibrant its colors will be."
+        },
+        {
+          "id": 6366,
+          "type": "pruning",
+          "description": "Bugleweed (Ajuga reptans 'Mahogany') is typically a low-maintenance plant that does not need much pruning. However, it can be beneficial to give the plant a light trim each spring to help promote a bushy shape and prevent it from becoming straggly. To do this, wait until the new growth emerges in the spring and use garden shears to cut the stems back to their desired length. By pruning in the spring, the plant will be encouraged to produce more vigorous, healthy foliage as well as additional blooms. Be sure to avoid pruning too much at a time, as this could be too harsh for the plant and lead to poor growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

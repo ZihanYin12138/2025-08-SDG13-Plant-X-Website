@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 217,
+      "species_id": 680,
+      "common_name": "golden garlic",
+      "scientific_name": [
+        "Allium moly"
+      ],
+      "section": [
+        {
+          "id": 779,
+          "type": "watering",
+          "description": "Water golden garlic (Allium moly) during the spring and summer. During this time, water deeply, once a week at most. Make sure you allow the soil to dry out between watering, as this plant does not cope well in wet or damp soil. Water only when the top 2 inches of soil is dry. During the fall and winter, water only enough to keep the soil slightly damp."
+        },
+        {
+          "id": 780,
+          "type": "sunlight",
+          "description": "Golden garlic is a full sun loving plant, meaning it needs at least 6-8 hours of direct sunlight in order to thrive. Ideally, the plant should receive morning sunlight, and then some partial afternoon shade in order to protect it from the harsher rays of the sun. When growing this species of garlic outdoors, it should be located in an area that receives ample direct sunlight throughout the day. If you are growing golden garlic indoors, it should be placed in a south-facing window that receives a good amount of sunlight."
+        },
+        {
+          "id": 781,
+          "type": "pruning",
+          "description": "Golden garlic (Allium moly) should be pruned in late autumn or early spring, when the garlic is dormant. Pruning amount should be limited to dead and damaged foliage, as well as any weak or thin stems in order to keep the plant healthy and promote new growth. To encourage bushiness, trimmed stems should generally be no shorter than 1/3 of the height of the original clump of foliage. Too much pruning can disrupt the plant’s natural shape, so it is important to prune with discretion."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

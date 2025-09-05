@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2066,
+      "species_id": 658,
+      "common_name": "lady's mantle",
+      "scientific_name": [
+        "Alchemilla mollis 'Thriller'"
+      ],
+      "section": [
+        {
+          "id": 6403,
+          "type": "watering",
+          "description": "Lady's mantle (Alchemilla mollis 'Thriller') should be watered deeply and infrequently. During the summer months, water the plants every 7-10 days when the soil begins to feel dry. During the winter, reduce watering frequency to every 3-4 weeks. When watering, ensure that the soil is completely saturated but never waterlogged. Keep the foliage dry while watering as this will help to prevent fungal diseases."
+        },
+        {
+          "id": 6404,
+          "type": "sunlight",
+          "description": "Lady's mantle (Alchemilla mollis 'Thriller') prefers medium to high light levels, so it should be placed in an area of the garden that receives at least 3 to 6 hours of direct sunlight each day. Early morning sunlight is also beneficial as it allows the plant to dry out any dew accumulated overnight, which can help prevent rot. Avoid placing the plant in a location that is too hot or too sunny as this can lead it to become dehydrated. Instead, look for an area where the plant can receive some morning and afternoon sun but be shielded from the intense heat of the midday sun."
+        },
+        {
+          "id": 6405,
+          "type": "pruning",
+          "description": "Pruning Lady's Mantle (Alchemilla mollis 'Thriller') is essential for maintaining its bushy growth habit and promoting new leaf growth. Pruning should take place in late winter or early spring before new growth begins. To prune, use sharp pruning shears to cut back the plant to about 6 inches in height, removing any dead or damaged stems. Avoid cutting into old woody stems as they may not regrow. To prevent over pruning, only remove about 1-third of the plant during each pruning session."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

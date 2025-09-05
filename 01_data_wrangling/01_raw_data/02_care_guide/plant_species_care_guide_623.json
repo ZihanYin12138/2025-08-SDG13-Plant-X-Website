@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2040,
+      "species_id": 623,
+      "common_name": "chu-lan tree",
+      "scientific_name": [
+        "Aglaia edulis"
+      ],
+      "section": [
+        {
+          "id": 6325,
+          "type": "watering",
+          "description": "Chu-lan trees (Aglaia edulis) should be watered slightly and regularly. Water the tree if the soil feels dry. When the soil starts to become slightly damp, reduce the amount of water given or stop altogether. In general, the tree should receive about 1-2 inches of water per week in the warmer months; however, if the soil is sandy, increase the amount of water to 2-3 inches per week. Water your plant only when the top 2-3 inches of soil are dry - avoid overwatering. During the winter months, Chu-lan trees need much less water, as the temperatures are cooler and the soil is typically moist."
+        },
+        {
+          "id": 6326,
+          "type": "sunlight",
+          "description": "Chu-lan trees (Aglaia edulis) need 6-8 hours of direct sunlight each day to survive and thrive. For optimal growth, the tree needs the longest hours of sunlight available. Full sunlight in early morning hours is best for Chu-lan trees."
+        },
+        {
+          "id": 6327,
+          "type": "pruning",
+          "description": "Chu-lan trees (Aglaia edulis) should be pruned in late winter or early spring. Pruning should be minimal, focusing on removing dead or diseased branches, and shaping the canopy to encourage a more attractive form. Have a professional arborist check your tree annually to ensure any thinning or maintenance pruning is done with care. In addition to pruning, be sure to fertilize your Chu-lan tree in late winter or early spring, as well as mulch around the base of the tree to help promote healthy root growth and development."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

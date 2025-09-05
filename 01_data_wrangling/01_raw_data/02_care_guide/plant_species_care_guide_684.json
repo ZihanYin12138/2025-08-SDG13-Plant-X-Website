@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2086,
+      "species_id": 684,
+      "common_name": "garlic",
+      "scientific_name": [
+        "Allium sativum 'Spanish Roja'"
+      ],
+      "section": [
+        {
+          "id": 6463,
+          "type": "watering",
+          "description": "Garlic (Allium sativum 'Spanish Roja') is a drought tolerant plant, meaning it does not require a lot of water, so water it only when the soil is dry. According to the University of California, in most cases garlic should be watered 1-2 times per week during the growing season and only when the soil is dry 1.5-2 inches below the surface. During the dormant season irrigation should be designed to keep the bulb dry, with watering either suspended or greatly reduced. It is important to note that frequent shallow watering is not recommended for garlic as this can cause shallow root growth and root rot."
+        },
+        {
+          "id": 6464,
+          "type": "sunlight",
+          "description": "Garlic (Allium Sativum 'Spanish Roja') needs around 6-8 hours of direct sunlight on a daily basis to be healthy. It is best to place the plant in full sun during the warmest hours of each day, which is usually early morning and late afternoon, depending on where you are located. During the winter months, garlic can benefit from a few hours of direct sunlight each day to help promote flowering and bulb formation."
+        },
+        {
+          "id": 6465,
+          "type": "pruning",
+          "description": "Garlic (Allium sativum 'Spanish Roja') can be pruned in late spring, typically from April to June. Pruning should be done to remove dead leaves and spent flower stalks. To do this, simply cut back or pinch off the stalks close to the soil line with a pair of sharp pruners or your fingers. Pruning will help to regulate the size and shape of your garlic plants as well as promote increased air circulation. If needed, you can also trim away excess foliage to help prevent overcrowding or to reduce the risk of disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

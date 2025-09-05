@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2059,
+      "species_id": 648,
+      "common_name": "bugleweed",
+      "scientific_name": [
+        "Ajuga 'Sparkler'"
+      ],
+      "section": [
+        {
+          "id": 6382,
+          "type": "watering",
+          "description": "Bugleweed prefers moist soil and should be watered thoroughly every 5-7 days during the hot months and every 10-14 days during the cooler months. During periods of extreme heat and drought, it may need to be watered more frequently. To ensure that your Bugleweed is getting enough water, check your soil with your finger to see if it is still damp. Water deeply and slowly until water runs through the bottom of the pot. Be careful not to overwater, as this can cause root rot."
+        },
+        {
+          "id": 6383,
+          "type": "sunlight",
+          "description": "Bugleweed (Ajuga 'Sparkler') thrive best in partial sun to full shade. While direct sunlight can scorch the delicate foliage, bugleweed can still benefit from exposure to morning light, with the protection of indirect light during the heat of the day. Consistent exposure to 2 to 4 hours of sunlight can help promote denser growth, but too much light can cause it to sprawl and produce fewer flowers. Plant your bugleweed in a spot that receives a few hours of morning sun, and filtered shade during the hottest part of the day, for optimal growth."
+        },
+        {
+          "id": 6384,
+          "type": "pruning",
+          "description": "Bugleweed (Ajuga 'Sparkler') should be pruned in late winter to early spring, shortly before new growth begins. Pruning should be limited to cutting back any overcrowded or excessively tall stems. To keep the plants compact and full, they can be pruned back by up to 1/3 of their overall height. Removing faded flower stalks is also beneficial, especially for perennial varieties. The pruning of Ajuga 'Sparkler' should be done with pruning shears to ensure a clean cut."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

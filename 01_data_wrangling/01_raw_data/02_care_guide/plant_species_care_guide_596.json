@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2014,
+      "species_id": 596,
+      "common_name": "purple giant hyssop",
+      "scientific_name": [
+        "Agastache rugosa 'Golden Jubilee'"
+      ],
+      "section": [
+        {
+          "id": 6247,
+          "type": "watering",
+          "description": "Purple Giant Hyssop requires moderate watering, ensuring soil is kept moist but not soggy. Water with a drip or trickle system, or wateringshortly after planting and then thoroughly once a week during the hottest part of the summer. During cooler months, it will need less frequent watering. Overwatering can cause root rot, while underwatering can lead to weak or stressed plants. Check soil regularly for moisture and water when the top inch of soil is dry. Always water the entire root system, not just the topsoil."
+        },
+        {
+          "id": 6248,
+          "type": "sunlight",
+          "description": "Purple giant hyssop (Agastache rugosa 'Golden Jubilee') needs plenty of sunlight in order to thrive. This plant will grow best if it receives at least 6 hours of direct sunlight each day, and preferably more in the summer months. When placed in a sunny location, it can thrive and bloom in both summer and winter. Avoid planting in an area that receives more than 8 hours of direct sunlight in summer, as this may scorch or damage the plant. If planted in a shady location it will not grow as well and may suffer from lack of blooms."
+        },
+        {
+          "id": 6249,
+          "type": "pruning",
+          "description": "Purple Giant Hyssop (Agastache rugosa 'Golden Jubilee') should be pruned once a year, in late winter or early spring, just before new growth begins. This will promote healthier plants with an abundance of new foliage and flowers. Start by cutting away any dead or damaged stems at the base. Trim back the tallest and longest stems to about 1/3 their previous length. This will help encourage bushier growth and promote fuller plants with abundant blooms. If desired, you can also prune to shape the plant or to contain it to a certain size. Re-prune overgrown plants in early spring to keep them healthy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

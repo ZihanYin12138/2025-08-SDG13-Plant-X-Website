@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2085,
+      "species_id": 683,
+      "common_name": "garlic",
+      "scientific_name": [
+        "Allium sativum 'Music'"
+      ],
+      "section": [
+        {
+          "id": 6460,
+          "type": "watering",
+          "description": "Water garlic (Allium sativum 'Music') regularly but do not overwater. Keep the soil evenly moist, but not soggy. Water when the soil feels dry about 1 inch (2.54 cm) below the surface. Avoid watering during the hotter hours of the day to help reduce the chances of mildew and rot. During summer months, provide garlic with 1 to 1.5 inches (2.54-3.81 cm) of water per week. In the cooler months, reduce watering to every 10-14 days."
+        },
+        {
+          "id": 6461,
+          "type": "sunlight",
+          "description": "Garlic (Allium sativum 'Music') grows best when exposed to full sunlight for 6 to 8 hours a day. It should be grown in a spot with good air circulation and should be placed in a location that receives at least a moderate amount of sunlight all day. Morning sun is best for garlic, and it can tolerate some afternoon shade. In warm climates, put garlic in a location that will receive a bit of shade during the hottest part of the day."
+        },
+        {
+          "id": 6462,
+          "type": "pruning",
+          "description": "Garlic (Allium sativum 'Music') should be pruned before the bulbs begin to form, usually late summer or early fall. Prior to pruning, remove any dead, diseased, or overgrown leaves. Then use pruning shears to and make sure all stems are cut off at ground level. Additionally, inspect and remove any all diseased and damaged bulbs. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

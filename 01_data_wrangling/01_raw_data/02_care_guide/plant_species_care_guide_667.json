@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 486,
+      "species_id": 667,
+      "common_name": "onion",
+      "scientific_name": [
+        "Allium cepa"
+      ],
+      "section": [
+        {
+          "id": 1459,
+          "type": "watering",
+          "description": "Onions should be watered regularly and thoroughly. It is best to give them 1-2 inches of water per week, applied at the base of the plant. According to the Purdue University Extension, watering should be done early in the morning and done in cycles of a few days of regular watering followed by a few days of no watering. While the onion plants are actively growing, it is important to water regularly but not to let them become waterlogged or soggy."
+        },
+        {
+          "id": 1461,
+          "type": "sunlight",
+          "description": "Onions prefer full sun exposure for optimal growth and development. Onions need at least 6 to 8 hours of direct sunlight each day. In areas with mild climates, onions can benefit from up to 12 hours of sunlight per day. "
+        },
+        {
+          "id": 1462,
+          "type": "pruning",
+          "description": "Onion (Allium cepa) does not require much pruning, as it does not need to be shaped in any particular way. If the onion plant becomes too large or dense, then it may be beneficial to lightly trim and thin out some of the foliage. To ensure healthy growth and development, prune onion plants in the early part of the summer, after flowering has ceased and before bulb formation."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

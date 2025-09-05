@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2046,
+      "species_id": 635,
+      "common_name": "bugleweed",
+      "scientific_name": [
+        "Ajuga reptans 'Arctic Fox'"
+      ],
+      "section": [
+        {
+          "id": 6343,
+          "type": "watering",
+          "description": "Bugleweed is a low-maintenance perennial that requires approximately 1 to 1.5 inches of water a week, either through rainfall or manual irrigation. Water the plant deeply—enough to penetrate 8 to 10 inches of soil—every few weeks during periods of drought or extended dry spells, or whenever the soil feels dry and cracked. As long as it is not overwatered, Bugleweed will thrive in almost any soil type, though clay soils may require more frequent watering."
+        },
+        {
+          "id": 6344,
+          "type": "sunlight",
+          "description": "Bugleweed (Ajuga reptans 'Arctic Fox') is a hardy perennial plant that prefers partial to full sun and can tolerate some shade. It will grow best in full sun for 6 hours a day but will tolerate 4. During the hottest part of the summer, afternoon shade is recommended. It should not receive full sun after 14:00 as intense light can damage the tender leaves. During winter months, this plant will benefit from 6 hours of sunshine per day as light requirement is lower in cool weather."
+        },
+        {
+          "id": 6345,
+          "type": "pruning",
+          "description": "Bugleweed (Ajuga reptans 'Arctic Fox') should be pruned once a year in late winter or early spring before new growth begins. Pruning helps to shape the plant, promote dense, outward growth, and control its size. To prune, use sharp, sterilized shears and remove any dead, damaged, or straggly stems back to the base of the plant. As you prune, avoid removing too many of the new stems arising from base of the plant as this helps provide vigor for the plant. You may also prune away some of the spent flower stalks as well. Rejuvenation pruning should also be performed about every 3 years–all stems should be cut back to the base of the plant. This will produce more compact, dense growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

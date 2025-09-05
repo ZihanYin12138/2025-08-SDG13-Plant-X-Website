@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2023,
+      "species_id": 605,
+      "common_name": "hummingbird's mint",
+      "scientific_name": [
+        "Agastache 'Violet Vision'"
+      ],
+      "section": [
+        {
+          "id": 6274,
+          "type": "watering",
+          "description": "Water Hummingbird's Mint (Agastache 'Violet Vision') regularly and deeply. In the warm summer months, the plants will need to be watered up to 3 times a week, if there is no rain. Water the ground around the plant until it is very wet but not saturated. In cooler months, they will require less water and about 1 - 2 times a week should suffice. Allowing the surface soil to become a bit dry between waterings will help promote blooming. Check the soil before watering to see if it is dry."
+        },
+        {
+          "id": 6275,
+          "type": "sunlight",
+          "description": "Hummingbird's mint (Agastache 'Violet Vision') enjoys several hours of direct sunlight daily for the best growth and flowering. To promote strong, healthy growth and lots of blooms, Hummingbird’s mint should receive at least 6 hours of direct sunlight every day. Morning sun is the best, as it will still be cool and the plant can warm up to reach its optimum growth temperature."
+        },
+        {
+          "id": 6276,
+          "type": "pruning",
+          "description": "Hummingbird's Mint (Agastache 'Violet Vision') should be lightly trimmed back after the initial blooms of the season have faded. This encourages a second flush of blooms and keeps the plant looking tidy. Pruning should occur in early summer and again in late summer. Lightly prune the tips of branches to remove any dead or diseased tissue and encourage branching. Pruning should always be done with clean, sharp shears to reduce the risk of spreading any diseases to the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

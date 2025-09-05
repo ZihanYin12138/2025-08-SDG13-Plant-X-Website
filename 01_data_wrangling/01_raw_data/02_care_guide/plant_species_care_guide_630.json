@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2043,
+      "species_id": 630,
+      "common_name": "cloud grass",
+      "scientific_name": [
+        "Agrostis palustris 'Pennlinks'"
+      ],
+      "section": [
+        {
+          "id": 6334,
+          "type": "watering",
+          "description": "Cloud grass (Agrostis palustris ‘Pennlinks’) prefers a consistently moist soil, so be sure to water regularly. This plant should receive an inch of water per week, either through rainfall or landscaping irrigation. If you are using a sprinkler, ensure that the entire area is adequately saturated. This species of grass can withstand drought, however it may become more susceptible to diseases and pests. If the weather is particularly hot and dry, increase watering to twice a week."
+        },
+        {
+          "id": 6335,
+          "type": "sunlight",
+          "description": "Cloud grass (Agrostis palustris 'Pennlinks') needs at least 6 hours of direct sunlight per day to thrive. Ideally, the plant should receive the bright sunlight in short bursts, such as morning and late afternoon sunlight. During full sun exposure, the plant should remain lightly shaded from noon to 2 pm. As far as seasonality is concerned, cloud grass needs plenty of sun during the summer months and less intense sunlight during the cooler months of autumn and winter."
+        },
+        {
+          "id": 6336,
+          "type": "pruning",
+          "description": "Cloud grass (Agrostis palustris 'Pennlinks') is an upright, cool-season turfgrass that is tolerant of both heat and cold. Pruning should be done on a regular basis to maintain a healthy and vigorous plant. Pruning should take place in the early spring, just as new growth begins showing. The goal is to remove any dead or diseased foliage and to thin out the grass in order to encourage lateral growth and uniformity. Prune the grass by removing up to 1 third of the grass blades in a single cut. Be sure to use sharp shears in order to make a clean cut. Removing the cuttings can help reduce the possibility of disease, as well as making the lawn look neater. Re-pruning should take place every few weeks throughout the growing season. Cloud grass does not require much pruning, so it is important to not over-prune. Looking for signs of decline or discoloration and only pruning the affected areas."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

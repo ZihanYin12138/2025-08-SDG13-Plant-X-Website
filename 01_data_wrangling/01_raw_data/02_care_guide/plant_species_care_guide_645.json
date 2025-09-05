@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2056,
+      "species_id": 645,
+      "common_name": "bugleweed",
+      "scientific_name": [
+        "Ajuga reptans 'Silver Beauty'"
+      ],
+      "section": [
+        {
+          "id": 6373,
+          "type": "watering",
+          "description": "Bugleweed (Ajuga reptans 'Silver Beauty') should be watered deeply but not too frequently, as it thrives better when the soil is allowed to dry out slightly between waterings. Water bugleweed thoroughly when the soil surface feels dry to the touch, and then allow the top 1-2 inches of soil to dry out before watering again. In general, bugleweed should be watered around once a week during the growing season and every 10-14 days during the winter months. Furthermore, be sure to check if the container your bugleweed is planted in has proper drainage, as this will directly affect the plant’s optimal watering needs."
+        },
+        {
+          "id": 6374,
+          "type": "sunlight",
+          "description": "Bugleweed (Ajuga reptans 'Silver Beauty') can thrive in full sun or partial shade. When grown in partial shade, it requires 4-6 hours of direct sunlight per day. In full sun, it needs about 8-10 hours of direct sunlight daily. While bugleweed tolerates most soil types, it will grow best south or west facing locations, where it will receive more consistent sunlight. If planted in a sunny spot, make sure to provide some partial shade during the peak hours of the day, as direct sun can scorch the foliage of the plant."
+        },
+        {
+          "id": 6375,
+          "type": "pruning",
+          "description": "Bugleweed (Ajuga reptans 'Silver Beauty') should be pruned once a year in the early spring before new growth begins. Pruning should be minimal to encourage dense growth and keep the height manageable. Start by removing any discolored or damaged leaves or stems. You should also trim off any stems that are weak or crossing over each other, as this can cause overcrowding. Cut back the entire plant by about 1-third to 1-half its height. This will encourage more full growth and maintain the shape of the plant. After pruning, be sure to remove any clippings to prevent disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

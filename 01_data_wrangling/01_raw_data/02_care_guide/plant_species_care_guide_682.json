@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2084,
+      "species_id": 682,
+      "common_name": "garlic",
+      "scientific_name": [
+        "Allium sativum 'Inchelium Red'"
+      ],
+      "section": [
+        {
+          "id": 6457,
+          "type": "watering",
+          "description": "Garlic (Allium sativum 'Inchelium Red') needs to be watered about once a week to 2 weeks. When watering, make sure to provide a deep soaking, ensuring the roots absorb adequate amounts of water. It's best to water in the morning so the foliage can dry before nightfall and reduce the chances for disease. After the initial step, cut back to watering every other week. During the winter months, water sparingly. Adding a layer of organic mulch around the base of the garlic will help it retain water and keep weeds in check."
+        },
+        {
+          "id": 6458,
+          "type": "sunlight",
+          "description": "Garlic (Allium sativum 'Inchelium Red') needs around 6 hours of direct sunlight a day in order to grow well. For areas with intense sunlight, the garlic plant should receive no more than 4 hours of direct sunlight a day. During the summer months, more direct sunlight is beneficial. During the winter, the garlic plant should receive no more than 6 hours of direct sunlight a day."
+        },
+        {
+          "id": 6459,
+          "type": "pruning",
+          "description": "Garlic (Allium sativum 'Inchelium Red') should be pruned during its main growing season, which lasts until mid-summer. Pruning should be done to remove dead leaves and flowering stalks, as well as to shape the plant if desired. Depending on the plant size, pruning should happen every few weeks starting in late spring. The pruning should not be too aggressive - simply trim off dead leaves or stalks that detract from the plant's appearance. Also, it is important to not prune so much that only a few leaves or stalks remain, as this can harm the plant's growth and vigour. Pruning should be done in a way that does not damage the main bulb and its smaller offshoot bulbs."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

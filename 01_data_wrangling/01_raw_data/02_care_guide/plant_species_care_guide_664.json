@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2069,
+      "species_id": 664,
+      "common_name": "ornamental onion",
+      "scientific_name": [
+        "Allium 'Ambassador'"
+      ],
+      "section": [
+        {
+          "id": 6412,
+          "type": "watering",
+          "description": "Ornamental onion (Allium 'Ambassador') requires consistently moist soil at all times, so it’s important to water it regularly. Depending on environmental conditions, this plant may need to be watered every 4-7 days. Make sure to water it deeply so that water reaches the roots. To determine if your plant needs water, stick your finger into the soil up to your first knuckle—if the soil is dry, go ahead and give the plant a thorough watering. During hot summer months, you may need to increase the frequency of watering to keep the soil moist."
+        },
+        {
+          "id": 6413,
+          "type": "sunlight",
+          "description": "Ornamental onion (Allium 'Ambassador') grows best in full sun, meaning that it should receive 6 to 8 hours of sunlight per day. In areas with hot summers, providing partial shade to shade the plant in the hottest parts of the day is advised. "
+        },
+        {
+          "id": 6414,
+          "type": "pruning",
+          "description": "Ornamental Onion (Allium 'Ambassador') is best pruned in the late fall to early winter, when the foliage has died back. Pruning should be done by removing the old foliage back to the ground. Pruning in this manner helps to keep the plant from becoming too woody. It also helps to keep it looking tidy. Pruning should also be done every 2 to 3 months, as this will also help to keep the plant looking its best."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
