@@ -11,8 +11,8 @@ import ThemeToggle from './components/ThemeToggle.vue'
       <nav style="margin-left:auto; display:flex; gap:.99rem; font-size: larger;">
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/garden">Garden</RouterLink>
-        <RouterLink to="/urbanwild">Urban & Wild</RouterLink>
-        <RouterLink to="/community">Community</RouterLink>
+        <!-- <RouterLink to="/urbanwild">Urban & Wild</RouterLink> -->
+        <!-- <RouterLink to="/community">Community</RouterLink> -->
       </nav>
         <ThemeToggle />
     </div>

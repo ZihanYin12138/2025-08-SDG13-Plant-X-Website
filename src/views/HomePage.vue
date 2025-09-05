@@ -95,7 +95,7 @@ onMounted(load)
           The "Explore Urban & Wild Forest feature helps users discover native plant species and their ecological roles
           in urban and forest environments, aiding in better garden plant choices.
         </p>
-        <RouterLink class="btn btn-ghost" to="/urbanwild">Learn more →</RouterLink>
+        <!-- <RouterLink class="btn btn-ghost" to="/urbanwild">Learn more →</RouterLink> -->
       </article>
       <article class="card">
         <img src="@/assets/h jc.png" />
@@ -104,7 +104,7 @@ onMounted(load)
           The "Join Community Activity feature connects gardening enthusiasts to share experiences, collaborate, and
           gain inspiration and support from a broader community.
         </p>
-        <RouterLink class="btn btn-ghost" to="/community">Learn more →</RouterLink>
+        <!-- <RouterLink class="btn btn-ghost" to="/community">Learn more →</RouterLink> -->
       </article>
     </div>
   </section>
