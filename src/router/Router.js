@@ -33,6 +33,24 @@ const routes = [
     meta: { title: "Learn More · Plant'X" }
   },
   {
+    path: '/learnmore',
+    name: 'LmOne',
+    component: () => import('../views/LmOne.vue'),
+    meta: { title: "Lm One · Plant'X" }
+  },
+  {
+    path: '/lmtwo',
+    name: 'LmTwo',
+    component: () => import('../views/LmTwo.vue'),
+    meta: { title: "Lm Two · Plant'X" }
+  },
+  {
+    path: '/lmthree',
+    name: 'LmThree',
+    component: () => import('../views/LmThree.vue'),
+    meta: { title: "Lm Three · Plant'X" }
+  },
+  {
     path: '/allplants',
     name: 'AllPlants',
     component: () => import('../views/AllPlants.vue'),

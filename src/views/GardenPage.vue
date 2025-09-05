@@ -5,7 +5,11 @@
     <p class="lead">
       Tools and tips for climate-adaptive home gardening — sunlight, soil, watering, composting, and more.
     </p>
+    <p>
+      Plant recognization though + button at right side of search Box. Size of Image upload can not larger than 3MB.
+    </p>
   </section>
+
 
   <section class="container">
     <!-- 搜索栏 -->
@@ -190,7 +194,7 @@
       <PlantCardSkeleton v-for="n in 8" :key="'s' + n" />
     </template>
 
-    <p v-else-if="error" class="error">加载失败：{{ error }}</p>
+    <p v-else-if="error" class="error">fail to load：{{ error }}</p>
 
     <template v-else>
       <RouterLink
