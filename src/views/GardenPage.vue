@@ -62,7 +62,7 @@
     <div v-if="previewUrl" class="preview">
       <img :src="previewUrl" alt="preview" />
       <span class="preview__name">{{ previewName }}</span>
-      <button class="link" @click="clearPreview">移除</button>
+      <button class="link" @click="clearPreview">Remove</button>
     </div>
 
     <!-- 弹窗 Filter -->

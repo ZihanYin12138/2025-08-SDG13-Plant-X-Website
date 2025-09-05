@@ -1,13 +1,17 @@
 <script>
+import { RouterLink } from 'vue-router';
+
 </script>
 <template>
     <p>Learn More page</p>
     <section class="container">
         <article class="card">
+        <RouterLink >
         <h3 class="card__title">
           How Climate change threatens on Australian Plants
           <small></small>
         </h3>
+        </RouterLink>
         <h1><a href="https://www.sbs.com.au/news/article/nearly-half-of-australias-native-plants-are-under-threat-from-climate-change/eotnh8c3f ">(i) Plants are suffering from excessive heat</a></h1>
         <p>
             47% of Australia's native plant species may face challenges by 2070 as temperatures rise. 
