@@ -33,7 +33,7 @@ const routes = [
     meta: { title: "Learn More · Plant'X" }
   },
   {
-    path: '/learnmore',
+    path: '/lmone',
     name: 'LmOne',
     component: () => import('../views/LmOne.vue'),
     meta: { title: "Lm One · Plant'X" }
@@ -60,7 +60,7 @@ const routes = [
     path: '/plants/:id',
     name: 'PlantDetail',
     component: () => import('@/views/PlantDetail.vue'),
-    props: true, // ← 这里一定要有前一行的逗号
+    props: true, 
     meta: { title: "Plant Detail · Plant'X" },
   },
 ];
@@ -68,6 +68,13 @@ const routes = [
 const router = createRouter({
   history: createWebHistory(),
   routes,
+  scrollBehavior(to, from, savedPosition) {
+    if (savedPosition) {
+      return savedPosition
+    } else {
+      return { left: 0, top: 0 }
+    }
+  }
 })
 
 router.afterEach((to)=>{ 

@@ -115,7 +115,7 @@
 import { ref, computed, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import { getPlantById, getThreatenedById, type PlantDetail } from '@/api/plants'
-import threatenedImg from '@/assets/placeholder.jpg'   // ★ threatened 固定使用本地占位图
+import threatenedImg from '@/assets/placeholder.jpg'
 
 /** 轻量 preload 类型（列表卡片传来的可能只有这些字段） */
 type PreloadCard = {

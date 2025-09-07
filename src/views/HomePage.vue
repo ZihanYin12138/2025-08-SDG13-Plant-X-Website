@@ -95,7 +95,7 @@ onMounted(load)
           The "Explore Urban & Wild Forest feature helps users discover native plant species and their ecological roles
           in urban and forest environments, aiding in better garden plant choices.
         </p>
-        <!-- <RouterLink class="btn btn-ghost" to="/urbanwild">Learn more →</RouterLink> -->
+        <RouterLink class="btn btn-ghost" to="/urbanwild">Learn more →</RouterLink>
       </article>
       <article class="card">
         <img src="@/assets/h jc.png" />
@@ -104,7 +104,7 @@ onMounted(load)
           The "Join Community Activity feature connects gardening enthusiasts to share experiences, collaborate, and
           gain inspiration and support from a broader community.
         </p>
-        <!-- <RouterLink class="btn btn-ghost" to="/community">Learn more →</RouterLink> -->
+        <RouterLink class="btn btn-ghost" to="/community">Learn more →</RouterLink>
       </article>
     </div>
   </section>
@@ -123,7 +123,7 @@ onMounted(load)
         <PlantCardSkeleton v-for="n in 8" :key="'s' + n" />
       </template>
 
-      <p v-else-if="error" class="error">加载失败：{{ error }}</p>
+      <p v-else-if="error" class="error">Load Failed：{{ error }}</p>
 
       <PlantCard v-else v-for="p in plants" :key="p.general_plant_id" :plant="p" />
     </div>
@@ -133,7 +133,7 @@ onMounted(load)
 
   <section>
     <div class="center">
-    <RouterLink class="btn btn-ghost" to="/learnmore">Learn More</RouterLink>
+    <RouterLink class="btn btn-ghost" to="/learnmore">Learn More About Our Goal and Vision</RouterLink>
     </div>
   </section>
 </template>
@@ -226,9 +226,10 @@ onMounted(load)
   gap: 1rem;
   grid-template-columns: repeat(4, 1fr);
 }
+
 @media (max-width: 768px) {
   .plants-grid {
-    grid-template-columns: repeat(2, 1fr); /* 平板及以下一行2个 */
+    grid-template-columns: repeat(2, 1fr); 
   }
 }
 
@@ -283,17 +284,28 @@ onMounted(load)
   line-height: 1.1;
   letter-spacing: -0.02em;
   margin: 0 0 .4rem;
-  font-size: clamp(2.6rem, 1.6rem + 5vw, 4.25rem); /* 手机~大屏逐级放大 */
+  font-size: clamp(2.6rem, 1.6rem + 5vw, 4.25rem); 
   color: var(--fg);
 }
 
-/* 仅在首页 hero 里，副标题稍小一些（不影响全局 .title 的其他用法） */
+
 .hero-home .title{
   margin: 0 0 .6rem;
   font-size: clamp(1.4rem, 1rem + 2.2vw, 2.1rem);
 }
 
-/* 可选：导语与按钮的间距微调，让层级更清晰 */
+
 .hero-home .lead{ margin-top: .25rem; color: var(--muted); }
 .hero-home .hero-cta{ margin-top: .75rem; }
+
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.card:hover {
+  transform: translateY(-8px) scale(1.03);
+  box-shadow: 0 12px 24px rgba(0,0,0,0.2);
+}
+
 </style>

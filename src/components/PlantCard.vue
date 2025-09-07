@@ -1,5 +1,4 @@
 <template>
-  <!-- 仅展示，不包含 RouterLink（外层由父级包） -->
   <div class="plant" role="article">
     <div class="thumb" :style="thumbStyle()"></div>
     <h4 class="title">{{ plant.common_name || 'Unknown' }}</h4>
@@ -9,7 +8,7 @@
 
 <script setup lang="ts">
 import { computed } from 'vue'
-import threatenedImg from '@/assets/placeholder.jpg'   // ← 与详情页同一张
+import threatenedImg from '@/assets/placeholder.jpg' 
 
 type GeneralCard = {
   id_type?: 'general'
@@ -33,7 +32,7 @@ const coverUrl = computed(() => {
   const isThreatened = (props.plant as any)?.id_type === 'threatened'
   if (isThreatened) return threatenedImg
   const u = (props.plant as any)?.image_url
-  return (u && String(u).trim()) || threatenedImg    // general：正常用后端图
+  return (u && String(u).trim()) || threatenedImg
 })
 
 function thumbStyle() {
@@ -60,8 +59,37 @@ function thumbStyle() {
   color:inherit;
   text-decoration:none;
   height: 300px;
+  transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, background-color .18s ease;
 }
+
+.plant:hover{
+  transform: translateY(-4px);
+  box-shadow: 0 14px 28px rgba(2,6,23,.14); 
+  border-color: color-mix(in oklab, var(--brand) 45%, transparent); 
+}
+
+.plant:focus-within{
+  outline: var(--ring);
+  outline-offset: 2px;
+}
+
+.thumb{ 
+  margin-bottom:.5rem; 
+  border-radius: 10px;
+  overflow: hidden;                     
+  transition: filter .25s ease, transform .25s ease;
+}
+
+.plant:hover .thumb{
+  filter: saturate(1.05) brightness(1.02);
+  transform: translateY(-1px);
+}
+
+
 .title{ margin:.25rem 0; font-size: 1rem; line-height: 1.2; }
 .latin{ color:var(--muted); font-size:.9rem; }
-.thumb{ margin-bottom:.5rem; }
+
+@media (prefers-reduced-motion: reduce){
+  .plant, .thumb { transition: none; }
+}
 </style>
