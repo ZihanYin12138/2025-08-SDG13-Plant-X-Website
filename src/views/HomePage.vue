@@ -79,33 +79,43 @@ onMounted(load)
   <!-- Garden / Urban & Wild / Community -->
   <section class="section container">
     <div class="grid cards">
+      <RouterLink class="infocard" to="/garden">
       <article class="card">
         <img src="@/assets/h gps.png" />
         <h3>Garden Plant Support</h3>
+        <div>
         <p>
           Our Garden Plant Support feature offers personalized care guidance to help you easily monitor and maintain the
           health of your plants, tailored to the specific types and environmental conditions in your garden.
         </p>
-        <RouterLink class="btn btn-ghost" to="/garden">Learn more →</RouterLink>
+        </div>
       </article>
+      </RouterLink>
+
+      <RouterLink class="infocard" to="/urbanwild">
       <article class="card">
         <img src="@/assets/h U&W.png" />
         <h3>Explore Urban & Wild Forest</h3>
+        <div>
         <p>
-          The "Explore Urban & Wild Forest feature helps users discover native plant species and their ecological roles
-          in urban and forest environments, aiding in better garden plant choices.
+          The Explore feature of "Urban & Wild Forest" helps users discover native plants and species,
+          along with their ecological roles in both urban and forest environments, supporting better garden plant choices.
         </p>
-        <RouterLink class="btn btn-ghost" to="/urbanwild">Learn more →</RouterLink>
+        </div>
       </article>
+      </RouterLink>
+      <RouterLink class="infocard" to="/community">
       <article class="card">
         <img src="@/assets/h jc.png" />
+        <div>
         <h3>Join Community Activity</h3>
         <p>
-          The "Join Community Activity feature connects gardening enthusiasts to share experiences, collaborate, and
-          gain inspiration and support from a broader community.
+          With the Join Community Activity feature, gardening enthusiasts can connect, share their experiences,
+          collaborate on projects, and find inspiration and support from a vibrant community.
         </p>
-        <RouterLink class="btn btn-ghost" to="/community">Learn more →</RouterLink>
+        </div>
       </article>
+      </RouterLink>
     </div>
   </section>
 
@@ -237,6 +247,10 @@ onMounted(load)
   .plants-grid {
     grid-template-columns: 1fr; /* 手机上一行1个 */
   }
+}
+
+.infocard{
+  height: 580px;
 }
 
 .plant {

@@ -11,9 +11,6 @@
             <RouterLink to="/LmOne">
             <h2 class="card__title">
             How Climate change threatens on Australian Plants
-            <div>
-            <small>Read Mores</small>
-            </div>
             </h2>
             </RouterLink>
         </div>
@@ -24,9 +21,6 @@
             <RouterLink to="/LmTwo">
             <h2 class="card__title">
             How Your Garden Support Nature In a Changing Climate
-            <div>
-            <small>Read Mores</small>
-            </div>
             </h2>
             </RouterLink>
         </div>
@@ -37,9 +31,6 @@
             <RouterLink to="/LmThree">
             <h2 class="card__title">
             Grow to protect: native plants you can save in your garden
-            <div>
-            <small>Read Mores</small>
-            </div>
             </h2>
             </RouterLink>
     </div>

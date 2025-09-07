@@ -737,7 +737,6 @@ onMounted(() => { goToPage(1); load() })
 :root:not([data-theme="dark"]) .modal .radios input[type="radio"]{
   -webkit-appearance: none;
   appearance: none;
-
   width: 16px;
   height: 16px;
   border-radius: 50%;
