@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2042,
+      "species_id": 629,
+      "common_name": "creeping bent grass",
+      "scientific_name": [
+        "Agrostis palustris NO MOW"
+      ],
+      "section": [
+        {
+          "id": 6331,
+          "type": "watering",
+          "description": "Creeping bent grass (Agrostis palustris NO MOW) should be watered deeply and infrequently. Watering should be done in the morning and should be done every 5-7 days, as needed. If there has been less than 1 inch of rainfall during the week, supplemental watering should take place. Do not water more than 1/2 inch of water per application. Ensure that all the water is soaked in by the soil before watering again. Do not allow the soil to dry out completely, as this will damage the grass."
+        },
+        {
+          "id": 6332,
+          "type": "sunlight",
+          "description": "Creeping bent grass (Agrostis palustris NO MOW) is a shade-tolerant species which thrives in areas with moderate temperatures and light. It requires 4 to 6 hours of direct sunlight per day, ideally during the morning hours. Sunlight during the afternoon and evening can cause the grass to become damaged from high heat and intensity. This species is sensitive to light so paying attention to the amount and timing of the sun is essential for its growth and maintenance. In areas with harsh summers or intense heat, it’s best to provide the grass with only 4 hours of morning sunlight and the rest of the day in partial shade. "
+        },
+        {
+          "id": 6333,
+          "type": "pruning",
+          "description": "Creeping bent grass (Agrostis palustris NO MOW) requires very little pruning. In mild climates, it can stay green year-round without regular pruning. In areas with cold winters, the grass will go dormant in the winter and perks back up with the warm seasons. Very minimal pruning is necessary in this situation, and can be done any time during the season. As long as the grass is kept mowed short, unwanted grasses or weeds will have difficulty growing and competiting with it. Creeping bent grass can be pruned back to approximately 1-2 inches in early fall to help improve its color and density heading into winter."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

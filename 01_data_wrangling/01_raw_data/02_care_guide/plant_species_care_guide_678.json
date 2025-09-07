@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 997,
+      "species_id": 678,
+      "common_name": "German garlic",
+      "scientific_name": [
+        "Allium lusitanicum"
+      ],
+      "section": [
+        {
+          "id": 2992,
+          "type": "watering",
+          "description": "German garlic (Allium lusitanicum) should be watered about once a week. Depending on the temperature and humidity, you may need to water more frequently. During hot and humid months, you should water more frequently to ensure the soil stays moist. During cooler, drier months, you may need to water less frequently. When watering, do so deeply to ensure water can easily reach the roots. Always check the soil and water only when it is dry to the touch. Avoid over-watering the plant as this can lead to rotting of the roots or disease."
+        },
+        {
+          "id": 2993,
+          "type": "sunlight",
+          "description": "German garlic (Allium lusitanicum) is a hardy plant species that prefers full sun exposure. It will grow in partial shade, but will not reach its full potential without adequate sunlight. In ideal growing conditions, this plant species should receive between 6-8 hours of direct sunlight each day. The hours of sunlight may be reduced during the winter months, but in the summer, German garlic needs ample sunlight to thrive."
+        },
+        {
+          "id": 2994,
+          "type": "pruning",
+          "description": "German garlic is a flowering perennial that should be pruned in fall or early winter for a neat and tidy appearance the following season. Pruning should be done after flowering has finished and the foliage has died back. Cut back the stems to about 2/3 of their current height and shape the plant if desired. Remove any dead foliage from the stems as you prune. German garlic does not require heavy pruning; lightly shaping the plant throughout the season is the preferred method of maintenance."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

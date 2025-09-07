@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2031,
+      "species_id": 614,
+      "common_name": "century plant",
+      "scientific_name": [
+        "Agave schidigera"
+      ],
+      "section": [
+        {
+          "id": 6298,
+          "type": "watering",
+          "description": "Century plants should be watered once a week, about an inch or so (2.5-3 cm) each time, either in the morning or late afternoon. When the soil is dry to a depth of 1 inch (3 cm), it indicates that it is time for watering. It is best to water plants at their base rather than on their leaves to prevent conditions like leaf rot. In hotter climates, the plant may require more frequent watering, especially during the warmer months. However, it is important to be mindful of overwatering, as it can cause root rot. To avoid this issue, ensure that soil drains properly."
+        },
+        {
+          "id": 6299,
+          "type": "sunlight",
+          "description": "Century plant (Agave schidigera) prefers full sun, which means they will do best when exposed to direct sunlight for at least 8 hours a day. It is recommended that these plants should be given as much direct sunlight as possible. During the cooler months, it's best to keep them in bright, indirect sunlight."
+        },
+        {
+          "id": 6300,
+          "type": "pruning",
+          "description": "Century plants should be pruned in late winter or early spring, just before they start growing in the warm season. Some Agave schidigera varieties (depending on size and placement) can benefit from hard pruning, in which about 2-thirds of the large rosette is cut off at the base. This allows new growth to be stronger and more compact. All dead, damaged, or diseased leaves should also be pruned during this time. It is important to wear gloves and protective eye gear when pruning as the leaves can be sharp and cause injury."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

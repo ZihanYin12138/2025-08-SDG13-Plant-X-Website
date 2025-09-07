@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 484,
+      "species_id": 627,
+      "common_name": "Chinese evergreen",
+      "scientific_name": [
+        "Aglaonema 'Red Gold'"
+      ],
+      "section": [
+        {
+          "id": 1452,
+          "type": "watering",
+          "description": "Chinese evergreens require frequent watering during growing seasons, meaning spring through fall. During these months should be watered consistently and thoroughly, about once every 1 or 2 weeks, until the excess drains from the drainage holes. In winter, significantly reduce the amount of water, allowing the soil to almost dry between waterings."
+        },
+        {
+          "id": 1454,
+          "type": "sunlight",
+          "description": "Chinese evergreen plants prefer bright, indirect light and should receive around 3 to 6 hours of sunlight a day. They like to be kept out of direct sunlight, as too much direct sunlight can cause their leaves to fade and become dry and crispy. In the morning, you should give them a few hours of direct sunlight. However, direct sunlight during the afternoon hours should be avoided, as this will cause the plant to become stressed. "
+        },
+        {
+          "id": 1455,
+          "type": "pruning",
+          "description": "Chinese evergreen (Aglaonema 'Red Gold') plants should be pruned minimally, with only dead or damaged plant parts removed. Pruning should take place in early spring, before the plant begins to actively grow. Pruning should focus on removing any dead sections of the foliage and choosing leaves to help shape the overall form of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2035,
+      "species_id": 618,
+      "common_name": "century plant",
+      "scientific_name": [
+        "Agave victoriae-reginae"
+      ],
+      "section": [
+        {
+          "id": 6310,
+          "type": "watering",
+          "description": "The century plant (Agave victoriae-reginae) should be watered about once a month, in the early morning or late evening hours. The soil should be allowed to dry out for a few weeks between waterings. To water, use a soaker hose or a watering can, and give the plant a good soaking until water runs out the bottom of the pot. During the hotter summer months, you may need to water more frequently, but never leave the plant standing in water or allow the soil to become saturated."
+        },
+        {
+          "id": 6311,
+          "type": "sunlight",
+          "description": "Century plant (Agave victoriae-reginae) requires direct sunlight for at least 6 to 8 hours daily. The plant should be placed in a location where it receives the most light throughout the day. While it does not require a particular type of light, full sun exposure is recommended, especially in its juvenile stage. Direct sunlight will allow for optimal growth and development. In general, the more direct sunlight the plant receives, the better it can properly photosynthesize for growth and development.\n\n"
+        },
+        {
+          "id": 6312,
+          "type": "pruning",
+          "description": "Century Plant (Agave victoriae-reginae) should be pruned every 3 to 4 years. Pruning is best done in late spring to early summer after flowering has stopped. Cut away shoots and leaves that have died off or are overly large. Pruning can help keep the plant healthier and also keep the plant from looking too bushy. Removing spent flower heads will also help manage size and encourage better flowering over time. If damaged or infected foliage is identified, it should be removed immediately to maintain clean healthy plant material. When pruning it is important not to remove more than 1-third of the foliage as it could stress the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2073,
+      "species_id": 669,
+      "common_name": "chives",
+      "scientific_name": [
+        "Allium 'Chivette'"
+      ],
+      "section": [
+        {
+          "id": 6424,
+          "type": "watering",
+          "description": "Chives (Allium 'Chivette') require regular watering in order to stay healthy and grow. Aim to water the chives about once a week, providing enough water until the top inch or so of soil is moist. Allow the soil to dry out slightly between waterings as overwatering can cause the roots to rot. During hotter months, chives may need to be watered more often. Make sure to check the soil moisture level at least 2 to 3 inches below the surface of the soil to determine if the soil is drying out."
+        },
+        {
+          "id": 6425,
+          "type": "sunlight",
+          "description": "Chives (Allium 'Chivette') thrive in full sun, meaning at least 6 hours of direct sunlight every day. To ensure that the chives stay healthy and vigorous, they should also have some protection from the intense afternoon rays. "
+        },
+        {
+          "id": 6426,
+          "type": "pruning",
+          "description": "Chives (Allium 'Chivette') should be pruned twice a year. The first pruning should occur in late winter before new growth appears, and the second pruning should take place in summer once the flowers have bloomed and set seed. When pruning, only the flower heads and seed heads should be removed, while leaving the foliage and leafy stems intact. Depending on the size of the plant, you may need to use pruning shears or a hedge trimmer to get to the hard-to-reach areas. Prune chives occasionally to help keep them in a healthy, compact shape and to ensure new growth year after year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

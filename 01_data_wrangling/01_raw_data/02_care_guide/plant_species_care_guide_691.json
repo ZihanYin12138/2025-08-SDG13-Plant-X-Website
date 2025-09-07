@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2093,
+      "species_id": 691,
+      "common_name": "German garlic",
+      "scientific_name": [
+        "Allium senescens subsp. glaucum"
+      ],
+      "section": [
+        {
+          "id": 6484,
+          "type": "watering",
+          "description": "German garlic should be watered sparingly, with about 1 inch of water per plant per week. During warmer weather, they may need more water, up to 2 inches per week if the soil is particularly dry. During cooler temperatures, it is best to reduce the amount of water, especially if the plants have become dormant. For established German garlic plants, wait until the soil is dry before watering. Be sure not to overwater the plant, as this can cause root rot and other fungal diseases."
+        },
+        {
+          "id": 6485,
+          "type": "sunlight",
+          "description": "German garlic, or Allium senescens subsp. glaucum, typically grows best in full sun or partial shade, with at least 6 hours of direct sunlight each day. During the morning and late afternoon, indirect sunlight should be available. During the peak of summer, if the plants have begun to look wilted during the day, then light shielding may be necessary to help protect them from the excessive heat and light. "
+        },
+        {
+          "id": 6486,
+          "type": "pruning",
+          "description": "German garlic should be pruned when the plants reach 8-10 inches in height. To do so, remove any stalks that grow taller than 10 inches, cutting back to 8 inches above the soil line. The best time of year to prune German garlic is in the fall—just after the leaves and stems begin to wither and right before the first frost. Pruning German garlic encourages optimal growth and reduces the risk of disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

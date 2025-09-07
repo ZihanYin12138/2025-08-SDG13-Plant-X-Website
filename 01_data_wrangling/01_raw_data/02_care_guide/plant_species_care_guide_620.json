@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2037,
+      "species_id": 620,
+      "common_name": "white snakeroot",
+      "scientific_name": [
+        "Ageratina altissima 'Chocolate'"
+      ],
+      "section": [
+        {
+          "id": 6316,
+          "type": "watering",
+          "description": "Water the plant when the soil feels dry to the touch, usually every 2 to 3 days. During the summer months, water more frequently as temperatures increase and the plant may require water every day or every other day. If the soil is light and sandy, it may need to be watered more often. In the winter, water less, approximately every 5 to 7 days, since the plant won't need as much moisture. When watering, be sure not to saturate the soil as too much water can be damaging."
+        },
+        {
+          "id": 6317,
+          "type": "sunlight",
+          "description": "White snakeroot (Ageratina altissima 'Chocolate') grows best in full sun, meaning it needs 8-10 hours of direct sun per day for optimal growth. Keep in mind that the sun intensity is stronger in the summer months, so try to position the plant in an area that will receive shade when the sun is at its peak. Moreover, if you're located in a particularly hot area, the plant may benefit from some light afternoon shade as well."
+        },
+        {
+          "id": 6318,
+          "type": "pruning",
+          "description": "White snakeroot likes to be pruned in mid-summer, but avoid pruning in late summer and right up to the first frost. Remove up to 1/3 of the stems, leaving 2/3 on each side of the plant. New stems should be pruned just above the second pair of leaf nodes. This will encourage the plant to branch out. Dead and weak stems should be removed to avoid the risk of disease. It’s also a good idea to pinch out any new growth in order to promote bushier growth and larger flower clusters."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

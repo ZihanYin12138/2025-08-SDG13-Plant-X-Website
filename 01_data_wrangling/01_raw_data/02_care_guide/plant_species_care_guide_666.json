@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2071,
+      "species_id": 666,
+      "common_name": "wild leek",
+      "scientific_name": [
+        "Allium babingtonii"
+      ],
+      "section": [
+        {
+          "id": 6418,
+          "type": "watering",
+          "description": "Wild leek prefers moist soils, so it is important to keep the soil slightly damp at all times. However, overwatering can cause root rot, so it is important to practice good watering technique. Water once per week, taking care to avoid wetting the foliage. When watering, saturate the soil to a depth of 4–5 inches and let it drain freely before adding more. During the hot summer months, water more frequently, but keep the soil on the dry side."
+        },
+        {
+          "id": 6419,
+          "type": "sunlight",
+          "description": "Wild leek (Allium babingtonii) benefits from direct sunlight and should be grown in a location that receives 6 to 8 hours of full sunlight per day in order to thrive. Direct sunlight will also prevent the leaves of the plant from becoming pale and weak. If possible, the desired location should also provide some midday protection for the plant from too much heat or intense sunlight. "
+        },
+        {
+          "id": 6420,
+          "type": "pruning",
+          "description": "Wild leek (Allium babingtonii) is best pruned in mid to late spring when it is starting to produce new growth. Pruning should be light and selective, removing any dead, diseased or damaged foliage and thinning out any overcrowded foliage. As wild leek is a herbaceous perennial, the pruning should be done just above the root base to avoid damaging the underground crown. The remaining foliage should be thinned out to encourage air circulation and to improve the overall shape of the plant. A light pruning will help to remove old foliage and help to maintain the vigour of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

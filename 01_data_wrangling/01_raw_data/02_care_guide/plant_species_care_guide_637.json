@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2048,
+      "species_id": 637,
+      "common_name": "bugleweed",
+      "scientific_name": [
+        "Ajuga reptans 'Binblasca' BLACK SCALLOP"
+      ],
+      "section": [
+        {
+          "id": 6349,
+          "type": "watering",
+          "description": "Water Bugleweed (Ajuga reptans 'Binblasca' BLACK SCALLOP) once per week in spring and summer and once every 2 weeks in fall and winter. Water deeply so that the soil is evenly moist. In the summer, soil should be kept moist but not drenched, and in the winter plants should be allowed to almost dry out between waterings. Do not allow the roots to sit in soggy soil."
+        },
+        {
+          "id": 6350,
+          "type": "sunlight",
+          "description": "Bugleweed (Ajuga reptans 'Binblasca' BLACK SCALLOP) is a shade tolerant plant that can thrive in partial or full shade. The amount of sunlight this plant will receive should also take into account the season and time of the day. When Bugleweed is planted in the summer months, it should receive 4 to 6 hours of sunlight each day. In the spring and fall months, this could be reduced to just 2 to 4 hours of sunlight daily. In winter, the amount of sunlight should be reduced to 1 to 3 hours a day."
+        },
+        {
+          "id": 6351,
+          "type": "pruning",
+          "description": "Bugleweed (Ajuga reptans 'Binblasca' BLACK SCALLOP) should be pruned back in late winter to early spring before new growth begins. Pruning can help to control spreading, encourage a fuller look, and reduce plant diseases. However, bugleweed has a low tolerance for pruning, so it’s important to only prune dead or overwintering foliage. Remove dead or faded foliage close to the ground with pruning shears. Do not prune or shear the plant excessively as it has a low tolerance for hard pruning. If necessary, lightly shape the plant by selectively pruning back the ends of stems. This should be done sparingly and with minimal trimming."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

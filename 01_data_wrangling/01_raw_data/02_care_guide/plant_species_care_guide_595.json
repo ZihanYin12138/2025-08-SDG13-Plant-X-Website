@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2013,
+      "species_id": 595,
+      "common_name": "giant hyssop",
+      "scientific_name": [
+        "Agastache 'Raspberry Summer'"
+      ],
+      "section": [
+        {
+          "id": 6244,
+          "type": "watering",
+          "description": "Giant hyssop (Agastache 'Raspberry Summer') prefer a moist, but not soggy, soil. Water them heavily every other day during the summer months when temperatures are higher. During cooler temperatures, water them once a week. Let the soil surface dry slightly between watering. This will help prevent fungal diseasese from becoming a problem. If the plants are grown in containers, make sure they are checked daily for moisture. If the top 2 inches of soil are dry, it’s time to water."
+        },
+        {
+          "id": 6245,
+          "type": "sunlight",
+          "description": "Giant hyssop (Agastache 'Raspberry Summer') favors a spot in the landscape that receives full sun. It usually requires 6-8 hours of direct sunlight every day to perform at its best. With too little sun, the plant can become weak and spindly or fail to thrive. If the plant does not receive enough sun, it can become susceptible to fungal diseases or fail to flower. When grown in the right environment, giant hyssop will provide beautiful foliage and lasting blooms from summer into fall."
+        },
+        {
+          "id": 6246,
+          "type": "pruning",
+          "description": "Giant hyssop (Agastache 'Raspberry Summer') should only be pruned twice a year, once in late spring after most of the flowering has finished, and then again in early fall after the plant has gone dormant. Pruning in late spring should consist of deadheading the faded flowers and shaping the plant to maintain its size and form. In early fall, the stems can be trimmed back to about 1-third of their original size. This should not remove the new growth made in the growing season, as this could cause the plant to become leggy and sparse."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

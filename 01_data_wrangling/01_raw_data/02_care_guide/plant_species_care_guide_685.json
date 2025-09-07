@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2087,
+      "species_id": 685,
+      "common_name": "chives",
+      "scientific_name": [
+        "Allium schoenoprasum"
+      ],
+      "section": [
+        {
+          "id": 6466,
+          "type": "watering",
+          "description": "Chives, or Allium schoenoprasum, need regular watering to keep them healthy and lush. They should be watered lightly but frequently, about every 3-4 days during the summer, and every 5-7 days in the winter. When you water, make sure the soil is damp but not flooded. Give the plants enough water so that it reaches the crown of the plants, and ensure that any puddles that form on the surface of the soil are not allowed to sit. It's important to keep an eye out for any signs of dehydration in chives. If the leaves begin to wilt or discolor, increase the amount of watering to every 2-3 days. It's also important to note that chives need a well-drained soil, as they can suffer from root rot in wet, boggy environments."
+        },
+        {
+          "id": 6467,
+          "type": "sunlight",
+          "description": "Chives (Allium schoenoprasum) thrive with plenty of direct sunlight. They should receive at least 6 hours of direct sunlight a day during the spring and summer. During the fall and winter, when hours of daylight are shorter, 4 to 5 hours of direct sunlight is ideal. To ensure that the plant's foliage does not become scorched from too much sun, the plant can be moved to a partially shaded area during the hottest part of the day in areas with high temperatures and intense summer sunlight."
+        },
+        {
+          "id": 6468,
+          "type": "pruning",
+          "description": "Chives (Allium schoenoprasum) should be pruned annually in early spring before new growth begins. Using sharp shears, cut the plant back about 1/3 of its current height. Pruning is necessary to promote vigorous growth and prevent chives from becoming crowded and disheveled. Be sure to remove any dead or damaged growth in order to ensure healthy new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

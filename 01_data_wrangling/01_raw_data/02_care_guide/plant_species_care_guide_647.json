@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2058,
+      "species_id": 647,
+      "common_name": "bugleweed",
+      "scientific_name": [
+        "Ajuga reptans 'Valfredda' CHOCOLATE CHIP"
+      ],
+      "section": [
+        {
+          "id": 6379,
+          "type": "watering",
+          "description": "Bugleweed (Ajuga reptans 'Valfredda' CHOCOLATE CHIP) should be watered when the soil feels dry to the touch after a finger is inserted into the soil. Water the plant thoroughly and then allow the soil to dry out before watering again. This plant likes to remain evenly moist and will need to be watered 2–3 times per week in hot, dry conditions. In cooler, wetter weather, you may only need to water once a week."
+        },
+        {
+          "id": 6380,
+          "type": "sunlight",
+          "description": "Bugleweed (Ajuga reptans 'Valfredda' CHOCOLATE CHIP) enjoys full to part sun for optimal growth. This sun exposure should include up to 6 hours of sunlight daily in the morning or midday, rather than late afternoon. During the hottest months of summer, bugleweed can benefit from a light shade over the hottest part of the day."
+        },
+        {
+          "id": 6381,
+          "type": "pruning",
+          "description": "Bugleweed (Ajuga reptans 'Valfredda' CHOCOLATE CHIP) should be pruned in late spring to early summer, when the flowering season is finished. Prune the stems back to around 4 to 6 inches from the base of the plant. Remove dead or damaged stems and branches and cut back any leggy growth to encourage fuller, bushier growth. Make sure to wear gloves when pruning to protect against the plant's sharp-toothed foliage and other potential irritants. Leave some of the foliage intact for aesthetic purposes and to support the plant's natural growth cycle. Doing an annual pruning of the plant will help keep it looking healthy and encourage strong, healthy regrowth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

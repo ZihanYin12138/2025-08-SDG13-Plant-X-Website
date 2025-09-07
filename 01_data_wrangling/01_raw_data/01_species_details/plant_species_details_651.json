@@ -1,0 +1,106 @@
+{
+  "id": 651,
+  "common_name": "alangium",
+  "scientific_name": [
+    "Alangium platanifolium var. macrophyllum"
+  ],
+  "other_name": [],
+  "family": "Cornaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": "var. macrophyllum",
+  "species_epithet": "platanifolium",
+  "genus": "Alangium",
+  "origin": [
+    "Japan",
+    "Korea"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 12,
+      "max_value": 15,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "7",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=651&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=651&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=651&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Summer",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Alangium platanifolium var. macrophyllum, commonly called Alangium, is an amazing plant. Its large, leathery leaves reach up to five feet long, while its vibrant yellow-green flowers with deep red stamens make it a showstopper in any landscape. Alangium is drought tolerant, making it an ideal choice for dry environments. It also does well in partial shade, making it perfect for urban and suburban gardens. It resists heavy foot traffic, making it incredibly durable for patios, sidewalks and other areas receiving significant foot traffic. What’s more, it’s incredibly low maintenance, requiring little more than occasional watering. Truly, Alangium is a conversation starter and an ideal addition to any yard or garden.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/651_alangium_platanifolium_var_macrophyllum/og/Alangium_chinensis_floraison2.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/651_alangium_platanifolium_var_macrophyllum/regular/Alangium_chinensis_floraison2.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/651_alangium_platanifolium_var_macrophyllum/medium/Alangium_chinensis_floraison2.jpg",
+    "small_url": "https://perenual.com/storage/species_image/651_alangium_platanifolium_var_macrophyllum/small/Alangium_chinensis_floraison2.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/651_alangium_platanifolium_var_macrophyllum/thumbnail/Alangium_chinensis_floraison2.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

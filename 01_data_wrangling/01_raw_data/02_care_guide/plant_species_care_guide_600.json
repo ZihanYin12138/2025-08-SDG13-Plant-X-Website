@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2018,
+      "species_id": 600,
+      "common_name": "giant hyssop",
+      "scientific_name": [
+        "Agastache 'Summer Breeze'"
+      ],
+      "section": [
+        {
+          "id": 6259,
+          "type": "watering",
+          "description": "Water your giant hyssop (Agastache 'Summer Breeze') every 2-3 days once the soil starts to feel dry. Give the plant the equivalent of about 1 inch of water each time, adjusting for weather conditions. To avoid overwatering, feel the soil to look for moisture rather than a schedule. Also check to see if the pot has good drainage holes as this can make sure that the plant does not become overwatered. Finally, water early in the day, as this gives the plant time to soak up the moisture and avoid getting scorched in the hot midday sun."
+        },
+        {
+          "id": 6260,
+          "type": "sunlight",
+          "description": "Giant hyssop (Agastache 'Summer Breeze') should be grown in an area receiving full sun for at least 6-8 hours per day. This plant does best in well-drained soil in a sunny, protected location. It can tolerate some partial shade, but prefers full sun to ensure vigorous growth and blooms. It does not tolerate too much moisture or too little soil moisture, so make sure the soil is well-drained and watch it for signs of stress on hotter or drier days. When planting, avoid early morning sun, as this can cause crispy leaves."
+        },
+        {
+          "id": 6261,
+          "type": "pruning",
+          "description": "Giant Hyssop (Agastache 'Summer Breeze') should be pruned back once a year, in late winter or early spring. Prune back stems to about 12 inches (30 cm) tall to keep the plant healthy and encourage a more compact growth habit. This will also promote the plant’s nutrient cycling. Remove any dead or damaged stems and any straggly or overcrowded sections. Releasing the crown will create a more attractive appearance and will open the interior of the plant to light and increased air circulation. This plant can also be lightly pruned throughout the summer, which helps to encourage its blooming."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

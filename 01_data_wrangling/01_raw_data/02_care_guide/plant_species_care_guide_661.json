@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2068,
+      "species_id": 661,
+      "common_name": "northern water plantain",
+      "scientific_name": [
+        "Alisma triviale"
+      ],
+      "section": [
+        {
+          "id": 6409,
+          "type": "watering",
+          "description": "Northern water plantain (Alisma triviale) grows best in moist soil and enjoys frequent watering. During the active growing season, water the plant every 1-2 days or as necessary to keep the soil consistently moist. In the early spring and late fall, water once every 4-6 days when rainfall is minimal. In the winter, water sparingly, only when the soil begins to dry out. When watering, use lukewarm or room temperature water for better absorption."
+        },
+        {
+          "id": 6410,
+          "type": "sunlight",
+          "description": "Northern water plantain (Alisma triviale) typically prefers full sun and moist soils. In more northern locations, where temperatures are cooler, northern water plantain can tolerate light shade, however it will generally flower and set seed better when given full sun. Plantains grown in full shade will have fewer and much smaller flowers.\n\nNorthern water plantain should receive 4 to 6 hours of direct sunlight a day in order to produce the best growth and flowering. If grown in cooler climates with short periods of sunlight, northern water plantain will benefit from receiving a supplemental lighting system of 8 to 10 hours per day."
+        },
+        {
+          "id": 6411,
+          "type": "pruning",
+          "description": "Pruning of northern water plantain (Alisma triviale) should be done when the plant begins to look overgrown or disheveled. Pruning should be done in early summer or late spring, as this will help stimulate new growth and encourage blooming. Prune lightly, only removing any dead stems or faded flowers. Keep stems that are still vibrant, such as those with buds or flowers, and cut them down to the desired height. Overall, keep pruning to a minimum, as too aggressive of pruning can lead to shock and the plant may not recover."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

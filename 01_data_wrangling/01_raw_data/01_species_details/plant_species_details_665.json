@@ -1,0 +1,123 @@
+{
+  "id": 665,
+  "common_name": "leek",
+  "scientific_name": [
+    "Allium ampeloprasum"
+  ],
+  "other_name": [],
+  "family": "Amaryllidaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "ampeloprasum",
+  "genus": "Allium",
+  "origin": [
+    "Northern Africa",
+    "Asia",
+    "Australia",
+    "Europe",
+    "southern North America",
+    "Caribbean",
+    "South America"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 2.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Division",
+    "Offsets",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=665&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=665&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "August",
+    "December",
+    "January",
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=665&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [
+    "Fungal leaf spot",
+    " Mildew",
+    " Root rot",
+    " Rust",
+    " Slugs",
+    "snails",
+    "  Pest resistant",
+    " Deer resistant",
+    " Rabbit resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Summer",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "A leek is a member of the Allium ampeloprasum family, and is a vegetable prized for its strong and distinct flavor. It is a versatile plant that has a culinary use in many cuisines around the world, in both raw and cooked forms. Its strong flavor profile makes it popular for soups, salads, mashed potatoes, and other dishes. Its exceptional nutritional value sets it apart from other vegetables, as it is high in various vitamins and minerals such as Vitamin K, Vitamin C and iron. Additionally, leeks contain antioxidants which are beneficial in reducing inflammation and improving overall health. With its amazing flavor and nutritional profile, leeks make an excellent ingredient in a number of dishes; a truly incredible plant.",
+  "default_image": {
+    "license": 10,
+    "license_name": "Public Domain Mark",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/665_allium_ampeloprasum/og/49970438148_ca26f3b176_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/665_allium_ampeloprasum/regular/49970438148_ca26f3b176_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/665_allium_ampeloprasum/medium/49970438148_ca26f3b176_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/665_allium_ampeloprasum/small/49970438148_ca26f3b176_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/665_allium_ampeloprasum/thumbnail/49970438148_ca26f3b176_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

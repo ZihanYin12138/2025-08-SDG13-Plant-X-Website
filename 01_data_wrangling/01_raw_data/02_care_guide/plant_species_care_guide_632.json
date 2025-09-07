@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2044,
+      "species_id": 632,
+      "common_name": "ajania",
+      "scientific_name": [
+        "Ajania pacifica"
+      ],
+      "section": [
+        {
+          "id": 6337,
+          "type": "watering",
+          "description": "Ajania pacifica should be watered once every 5-7 days, depending on the conditions. During hotter months, the soil should be tested for moisture levels every few days. When watering, be sure to use tepid water and water until the soil is evenly moist but not saturated. "
+        },
+        {
+          "id": 6338,
+          "type": "sunlight",
+          "description": "Ajania pacifica, also known as silver and gold chrysanthemum, can tolerate a range of light conditions including full sun or partial shade. In areas with warm climates, Ajania pacifica should receive full sunlight for at least 6 to 8 hours each day in order to thrive. In cooler climates, partial shade with a minimum of 4 to 6 hours of sun per day should be provided. When planting Ajania pacifica, choose a location that will provide ample light throughout the day."
+        },
+        {
+          "id": 6339,
+          "type": "pruning",
+          "description": "Ajania pacifica should be pruned twice a year, once in the spring and once in the late summer. Spring pruning should be done just after the last frost, when new growth appears. During this time, remove any dead or broken branches and any suckers that may have grown at the base of the plant. Cut off any stems that have grown too long, cutting them back to the desired size. Late summer pruning should occur once the flowering period is over. Remove any spent flower heads and stem tips, and prune to shape the plant. Pruning should be kept to a minimum; Ajania pacifica should not be pruned too drastically or too often."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

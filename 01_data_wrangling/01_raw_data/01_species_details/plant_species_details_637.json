@@ -1,0 +1,147 @@
+{
+  "id": 637,
+  "common_name": "bugleweed",
+  "scientific_name": [
+    "Ajuga reptans 'Binblasca' BLACK SCALLOP"
+  ],
+  "other_name": [
+    "carpet bugleweed",
+    "Bugleweed"
+  ],
+  "family": "Lamiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Binblasca",
+  "variety": null,
+  "species_epithet": "reptans",
+  "genus": "Ajuga",
+  "origin": [
+    "Europe",
+    "northern Africa",
+    "southwestern Asia"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 0.75,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Bees"
+  ],
+  "propagation": [
+    "Division",
+    "Layering Propagation",
+    "Cutting",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=637&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=637&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green",
+        "brown-green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "blue-violet"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "flower",
+      "color": [
+        "blue-violet"
+      ]
+    }
+  ],
+  "sunlight": [
+    "part sun/part shade",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=637&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Rocky ",
+    " gravelly ",
+    " dry"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Deer resistant",
+    " Rabbit resistant",
+    " Drought resistant"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Bugleweed (Ajuga reptans \"Black Scallop\") is an amazing ground cover plant that blooms beautiful purple blossoms in early summer. It is easy to grow, drought tolerant and its semi-evergreen foliage looks spectacular year round. The foliage has an eye-catching scalloped edge which is appreciated in any garden. Its dense habit allows it to be used as an edging plant, but it can also be used as a container or rock garden option. Its blooms attract pollinators such as hummingbirds and butterflies while its strong, pleasant aroma adds interest. It is a versatile plant that can be used in different settings and will show its beauty all season long.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/637_ajuga_reptans_binblasca_black_scallop/og/52105985298_bef92726b8_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/637_ajuga_reptans_binblasca_black_scallop/regular/52105985298_bef92726b8_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/637_ajuga_reptans_binblasca_black_scallop/medium/52105985298_bef92726b8_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/637_ajuga_reptans_binblasca_black_scallop/small/52105985298_bef92726b8_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/637_ajuga_reptans_binblasca_black_scallop/thumbnail/52105985298_bef92726b8_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

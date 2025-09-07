@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2050,
+      "species_id": 639,
+      "common_name": "bugleweed",
+      "scientific_name": [
+        "Ajuga reptans 'Burgundy Glow'"
+      ],
+      "section": [
+        {
+          "id": 6355,
+          "type": "watering",
+          "description": "Bugleweed is a low maintenance ground cover native to Europe and commonly found in gardens in the United States. The specific plant species 'Burgundy Glow' requires moist, well-drained soil and benefits from regular waterings. It is best to water the plant deeply, 1-2 times per week during the summer months, allowing the soil to dry out slightly between waterings. It is important to avoid over-saturating the soil and standing water, as this could lead to root rot. In the winter months, the plant should receive only enough water to keep the soil from drying out completely, usually 1-2 times a month."
+        },
+        {
+          "id": 6356,
+          "type": "sunlight",
+          "description": "Bugleweed (Ajuga reptans 'Burgundy Glow') grows best in part shade, receiving morning sun and an afternoon break from direct sunlight. In general, this plant does best in areas with morning sun exposure for about 4-5 hours, followed by partial shade to protect it from the intense heat during the afternoon. Too much direct sunlight can burn the plant's leaves and diminish the intensity of its color. Similarly, too much shade can reduce the amount of flowers it produces and cause it to become leggy.  Although it prefers some shade, Bugleweed can tolerate more than 5 hours of full sun, but in areas with particularly hot climates it is best to err on the side of caution and provide it with some afternoon shade."
+        },
+        {
+          "id": 6357,
+          "type": "pruning",
+          "description": "Bugleweed (Ajuga reptans 'Burgundy Glow') should be pruned in early spring when new growth begins to appear. Pruning should involve removing significant growth that has occurred over the previous growing season, such as dead or damaged stems as well as stems that have grown too tall. Take care to only trim away the most extreme growth and leave at least 1/3 of the overall height so that the plant can remain full and lush. Pruning the Bugleweed too severely or too often can cause it to become spindly and weak."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2034,
+      "species_id": 617,
+      "common_name": "century plant",
+      "scientific_name": [
+        "Agave univittata 'Splendida'"
+      ],
+      "section": [
+        {
+          "id": 6307,
+          "type": "watering",
+          "description": "Century Plants prefer to be watered once every 3-4 weeks during the summer season; this includes light misting of the soil as well as a thorough soaking of the water. During the winter season, Century Plants require much less water and can usually be watered once a month. When watering, be sure to thoroughly saturate the soil while trying to avoid the leaves as much as possible to avoid any damage to the plant. Always wait for the soil to completely dry before watering again. "
+        },
+        {
+          "id": 6308,
+          "type": "sunlight",
+          "description": "Century plants thrive in full sunlight, so it’s ideal to place them in a sunny spot in your garden or on your patio. Provide your plant with 8 - 10 hours of direct sunlight in early morning to late afternoon.  Additionally, if possible, try to rotate your century plant to ensure it gets even sunlight coverage all around."
+        },
+        {
+          "id": 6309,
+          "type": "pruning",
+          "description": "Century Plant (Agave univittata 'Splendida') should be pruned during the growing season if needed. Pruning helps to keep the plant looking its best and reduces its size. However, some caution should be taken when pruning these plants as they can easily be damaged. Before pruning, it is important to remove any dead or damaged leaves and stems. The number of leaves and stems that need to be pruned depends on the size of the plant and the desired outcome. Generally, the rule of thumb is to prune no more than 25% of the plant at any time. To prevent stress to the plant, it is best to perform several pruning sessions over a series of weeks. In addition, make sure to use clean scissors or pruners for each pruning session. Pruning at the wrong time can damage the plant, so prune during the growing season rather than in winter or late fall."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

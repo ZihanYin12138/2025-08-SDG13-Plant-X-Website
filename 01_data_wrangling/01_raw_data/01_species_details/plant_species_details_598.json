@@ -1,0 +1,109 @@
+{
+  "id": 598,
+  "common_name": "threadleaf giant hyssop",
+  "scientific_name": [
+    "Agastache rupestris"
+  ],
+  "other_name": [],
+  "family": "Lamiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "rupestris",
+  "genus": "Agastache",
+  "origin": [
+    "Southwestern United States"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1.5,
+      "max_value": 2,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Division",
+    "Root Cutting",
+    "Seed Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=598&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=598&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February"
+  ],
+  "pruning_count": {
+    "amount": 3,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=598&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Threadleaf Giant Hyssop is an amazing plant with so much to offer. Its unique foliage and tall, spindly stalks make it an eye-catching addition to any garden. It is a wonderful source of nectar and pollen for pollinators, and its strong and sweet scent adds a pleasant aroma to the air. The small, purple-blue flowers attract a variety of bees, hummingbirds, moths, and butterflies. Its drought tolerant nature makes it ideal for xeriscaping and it can even handle extended periods of drought. Threadleaf Giant Hyssop is an excellent choice for any garden; it is low maintenance, aesthetically pleasing, and beneficial for wildlife.",
+  "default_image": {
+    "license": 44,
+    "license_name": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "original_url": "https://perenual.com/storage/species_image/598_agastache_rupestris/og/3da7f780caf2716e45e285679faadd78cb13a902.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/598_agastache_rupestris/regular/3da7f780caf2716e45e285679faadd78cb13a902.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/598_agastache_rupestris/medium/3da7f780caf2716e45e285679faadd78cb13a902.jpg",
+    "small_url": "https://perenual.com/storage/species_image/598_agastache_rupestris/small/3da7f780caf2716e45e285679faadd78cb13a902.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/598_agastache_rupestris/thumbnail/3da7f780caf2716e45e285679faadd78cb13a902.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 538,
+      "species_id": 657,
+      "common_name": "lady's mantle",
+      "scientific_name": [
+        "Alchemilla mollis"
+      ],
+      "section": [
+        {
+          "id": 1614,
+          "type": "watering",
+          "description": "Lady's Mantle (Alchemilla mollis) does best in moist soil. Water the plants carefully when the soil is dry to the touch. This can vary depending on your local climate, but generally watering every 1-2 weeks should be sufficient. In hotter, dryer climates, you may need to water more often. During the hottest months of the summer, water your Lady's Mantle plants daily or every other day. Be sure to avoid over-watering, as this can lead to root rot."
+        },
+        {
+          "id": 1616,
+          "type": "sunlight",
+          "description": "Lady's mantle prefers partial or dappled sunlight. It requires around 4 hours of direct sunlight per day, ideally morning or late afternoon sunlight. Too small an amount of sun will result in lax and gangly growth. Too much sun, especially in hotter climates, will scorch and dry the leaves. If grown in full sun, then it should be given shadier place during the hottest part of the day, such as late afternoon."
+        },
+        {
+          "id": 1617,
+          "type": "pruning",
+          "description": "Pruning for Lady's Mantle (Alchemilla mollis) should begin in late spring (May or June) after the plant has finished blooming. When pruning, trim off any dead foliage or wispy stems that detract from the plant's aesthetic. Additionally, cutting off any long flowering stems will encourage a bushier growth habit and more blooms the next season. Be mindful not to cut too close to the ground as removing too much foliage may damage the plant.\n\nFor best results, repeat this process every few years or as needed; generally the plant should remain tidy and more compact with minimal effort."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

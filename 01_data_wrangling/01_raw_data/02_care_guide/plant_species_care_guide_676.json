@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2080,
+      "species_id": 676,
+      "common_name": "allium",
+      "scientific_name": [
+        "Allium kunthianum"
+      ],
+      "section": [
+        {
+          "id": 6445,
+          "type": "watering",
+          "description": "Allium kunthianum requires weekly watering during the active growing season. It should be watered after the top inch of the soil has dried out. During hotter periods, Allium kunthianum may need to be watered once every 2 to 3 days. Reduce watering frequency in cooler seasons when the plant is not actively growing. In the winter, this plant is dormant and does not need to be watered."
+        },
+        {
+          "id": 6446,
+          "type": "sunlight",
+          "description": "Allium kunthianum thrives in bright, indirect sunlight. It can tolerate up to 4 to 6 hours of direct sunlight, but more than that can be too intense for the plant. It’s best to provide direct sunlight for only part of the day, in the morning or evening. During the hottest part of the day, provide some shade or place it near an east- or west-facing window to avoid intense sun exposure. "
+        },
+        {
+          "id": 6447,
+          "type": "pruning",
+          "description": "Allium kunthianum should be pruned in the fall when the flowers start to lose their petals. The bulbs and flower stalks can be cut down to about an inch (2.5 cm) above the soil line. All the foliage should be removed as it dies back. It is important not to remove the leaves before they naturally turn yellow and die back as this provides energy for the bulb. Be careful not to damage the rhizomes (the horizontal underground stems from which the bulb grows) when removing the foliage. Pruning should be done in order to stimulate new growth for the next season. Once the bulbs and flower stalks have been pruned it is a good idea to apply a layer of mulch around the plants to protect the bulbs from frost and to keep the soil moist."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

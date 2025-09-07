@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 485,
+      "species_id": 628,
+      "common_name": "Chinese evergreen",
+      "scientific_name": [
+        "Aglaonema 'Silver Queen'"
+      ],
+      "section": [
+        {
+          "id": 1458,
+          "type": "watering",
+          "description": "It is important to water Chinese evergreen plants (Aglaonema 'Silver Queen') regularly enough to keep the soil evenly moist but not saturated. Water when the top 1-2 inches of soil feel dry, typically about once a week. When watering, thoroughly soak the soil until water begins to run out of the pot's drainage holes. It is best to avoid allowing the soil to become completely dry between waterings."
+        },
+        {
+          "id": 1460,
+          "type": "sunlight",
+          "description": "Chinese evergreen is a low-maintenance plant that prefers bright, indirect sunlight. Generally, the plant should receive about 4 hours of bright, indirect sunlight each day. However, it is important to protect the plant from direct sunlight, as prolonged direct exposure may cause the leaves to become scorched. The plant will also tolerate low light conditions, but it may cause the leaves to become significantly darker in color."
+        },
+        {
+          "id": 1463,
+          "type": "pruning",
+          "description": "Chinese evergreen should be pruned sparingly and only when necessary. The ideal time to prune is in spring and summer. It is best to prune away any yellowing or dead foliage. Pruning should be kept very light as Chinese evergreen is a slow-growing and delicate plant. When pruning remove leaves from the base of the plant to allow space for new leaf growth. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

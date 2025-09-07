@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 709,
+      "species_id": 663,
+      "common_name": "onion",
+      "scientific_name": [
+        "Allium altaicum"
+      ],
+      "section": [
+        {
+          "id": 2122,
+          "type": "watering",
+          "description": "Onion (Allium altaicum) requires regular watering to flourish. Aim to water the plant deeply about once or twice a week. During hot, dry weather, water the onion more often to ensure that the soil does not become too dry. During the cooler months, decrease the frequency of watering - only provide as much as the onion needs. Soil should remain moist but not soggy. Make sure to check the soil every few days to ensure it has not dried out more quickly than expected."
+        },
+        {
+          "id": 2136,
+          "type": "sunlight",
+          "description": "Onion (Allium altaicum) plants prefer full sunlight, receiving 6-8 hours per day as part of their optimal growing conditions. During the spring and summer months, when the sun shines the longest and the sun is at its highest point in the sky, this is the ideal period for providing Onions with the most sunlight."
+        },
+        {
+          "id": 2142,
+          "type": "pruning",
+          "description": "Onion (Allium altaicum) should be pruned once a year in late summer or early fall. Pruning should be done carefully, as onion plants can be sensitive to pruning. Cut off the leaves that are yellowing or dead and thin out any crossed or overlapping branches. This will help encourage new growth and promote a healthier plant. Additionally, thinning-out overgrown plants will help keep the harvesting manageable. Although onion plants are hardy, they don't require heavy pruning. So, it's best to limit each pruning event to a few branches and leaves to avoid over-pruning and damaging the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

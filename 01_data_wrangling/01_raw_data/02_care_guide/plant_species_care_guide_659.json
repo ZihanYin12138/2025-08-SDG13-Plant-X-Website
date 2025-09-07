@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 529,
+      "species_id": 659,
+      "common_name": "silky lady's mantle",
+      "scientific_name": [
+        "Alchemilla sericata 'Gold Strike'"
+      ],
+      "section": [
+        {
+          "id": 1586,
+          "type": "watering",
+          "description": "Silky Lady's Mantle should be watered thoroughly as soon as the top 2-3 inches of soil feels dry to the touch, or about once every 7-10 days. During particularly hot months, they may need more frequent watering. Be sure to check the soil before watering, and never let the plant sit in standing water. After applying water, allow the excess to drain away from the plant. Overwatering can cause root rot, which is why it is important to ensure the soil is dry before watering."
+        },
+        {
+          "id": 1589,
+          "type": "sunlight",
+          "description": "Silky Lady's Mantle (Alchemilla sericata 'Gold Strike') requires 4 to 6 hours of direct sunlight each day to remain healthy. This species prefers full sun during the morning and late afternoon, with some shade during the hottest part of the day. It does best in a spot that gets at least 4 hours of direct sunlight per day. However, it can also tolerate some light shade, but it should be protected from extreme heat."
+        },
+        {
+          "id": 1591,
+          "type": "pruning",
+          "description": "Silky Lady's mantle is a low-maintenance, drought resistant plant that is typically not bothered by pests or diseases. Pruning for Silky Lady's mantle should take place during the spring season, when the new growth has emerged. Prune lightly, only removing dead or damaged foliage and branches to prevent a \"leggy\" appearance. You should remove no more than 1/3 of the foliage in any 1 season to allow your Silky Lady's mantle adequate time to regrow."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

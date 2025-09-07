@@ -1,0 +1,121 @@
+{
+  "id": 638,
+  "common_name": "bugleweed",
+  "scientific_name": [
+    "Ajuga reptans 'Braunherz'"
+  ],
+  "other_name": [
+    "carpet bugleweed",
+    "Bugleweed"
+  ],
+  "family": "Lamiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Braunherz",
+  "variety": null,
+  "species_epithet": "reptans",
+  "genus": "Ajuga",
+  "origin": [
+    "Europe",
+    "northern Africa",
+    "southwestern Asia"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 0.75,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Bees"
+  ],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=638&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=638&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=638&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Rocky ",
+    " gravelly ",
+    " dry"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [
+    "Deer resistant",
+    " Rabbit resistant",
+    " Drought resistant"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Bugleweed (Ajuga reptans 'Braunherz') is an amazing plant species for small spaces. It grows as a low, dense carpet about 6 to 8 inches tall, forming colorful clumps of small brillant leaves that range in color from pinkish-red to deep mahogany. In the summer it produces spikes of small, electric-blue flowers that attract pollinators and provide lasting color in the garden. It's highly tolerant of foot traffic and grows in a range of soil types from sandy to clay. It's also extremely easy to care for and will handle both drought and wet conditions. For gardeners seeking color, texture, and character in small places, bugleweed is an ideal choice.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/638_ajuga_reptans_braunherz/og/Ajuga_reptans_27Chocolate_Chip27_kz04.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/638_ajuga_reptans_braunherz/regular/Ajuga_reptans_27Chocolate_Chip27_kz04.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/638_ajuga_reptans_braunherz/medium/Ajuga_reptans_27Chocolate_Chip27_kz04.jpg",
+    "small_url": "https://perenual.com/storage/species_image/638_ajuga_reptans_braunherz/small/Ajuga_reptans_27Chocolate_Chip27_kz04.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/638_ajuga_reptans_braunherz/thumbnail/Ajuga_reptans_27Chocolate_Chip27_kz04.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

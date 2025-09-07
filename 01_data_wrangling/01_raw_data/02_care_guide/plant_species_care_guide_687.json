@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2089,
+      "species_id": 687,
+      "common_name": "ornamental onion",
+      "scientific_name": [
+        "Allium schubertii"
+      ],
+      "section": [
+        {
+          "id": 6472,
+          "type": "watering",
+          "description": "Ornamental onion should be watered regularly in order to keep its soil evenly moist. Water the plant deeply and allow it to drain thoroughly, about once per week during the growing season and gradually reduce watering to every other week as fall approaches and temperatures cool. Do not allow the soil to dry out completely, as this can cause the onion's bulbs to split. During winter months, water the plant only occasionally – no more than once per month or when the soil feels dry to the touch."
+        },
+        {
+          "id": 6473,
+          "type": "sunlight",
+          "description": "The ornamental onion plant (Allium schubertii) does best when grown in full sun to partial shade. This plant species thrives when exposed to 6-8 hours of direct sunlight per day. If it receives more than 8 hours each day, it should be grown in partial shade to avoid any sun-scorching that may occur. The ideal situation would be to have the plant in full sun for the morning hours (8-10am) and partial shade during the hottest part of the day (2-4pm). This will provide the plant with an optimal balance of direct sunlight and protection from the heat of the day."
+        },
+        {
+          "id": 6474,
+          "type": "pruning",
+          "description": "Ornamental onions should be pruned at the end of the flowering season, around late summer or early autumn. This should involve cutting back the foliage of the plant, removing any dead, diseased or damaged foliage and then cutting off around half of the stem height once the flowering has stopped. Pruning in this way will help to maintain a neat and healthy appearance over the winter months."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

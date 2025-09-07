@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2028,
+      "species_id": 611,
+      "common_name": "century plant",
+      "scientific_name": [
+        "Agave havardiana"
+      ],
+      "section": [
+        {
+          "id": 6289,
+          "type": "watering",
+          "description": "Century plant (Agave havardiana) should be watered once every 4-5 weeks in the summer; less in cooler months. A rule of thumb is to wait until the soil is completely dry before watering. The plant should be thoroughly soaked until you see water escaping through the drainage holes in the bottom of the container. After watering, always allow any excess water to drain out completely. Never let the plant sit in water."
+        },
+        {
+          "id": 6290,
+          "type": "sunlight",
+          "description": "Century plants, also known as Agave havardiana, prefer full sun, with the amount of sunlight depending on its growing environment. In general, a century plant needs around 4 to 6 hours of full sun each day, ideally spread out throughout the day. The plant's best performance will be seen if the majority of those direct sunlight hours come in the morning until the afternoon."
+        },
+        {
+          "id": 6291,
+          "type": "pruning",
+          "description": "Pruning of the century plant, Agave havardiana, should be done sparingly, since it can be slow to re-foliate. Pruning is usually only done to remove dead or damaged leaves and stems, which can be done at any time of the year. Pruning for shaping or size control purposes should be done in the fall, as this is when this species is actively growing. To keep your Agave havardiana looking its best, make sure to selectively remove dead leaves, sprouts and spent flower stalks as needed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2032,
+      "species_id": 615,
+      "common_name": "century plant",
+      "scientific_name": [
+        "Agave schidigera 'Shira-ito-no-ohi'"
+      ],
+      "section": [
+        {
+          "id": 6301,
+          "type": "watering",
+          "description": "Century plants should be watered once a week in the optimal environment. They prefer the soil to remain moderately moist, so aim to water about 4–6 inches deep each time. Be careful not to over-water the century plant to avoid root rot or other damage. In hotter weather, more frequent, light watering may be needed to keep the soil consistently moist. Alternatively, in cooler temperatures, they can go a bit longer between waterings. To ensure the best watering results, always check the soil prior to watering. If the top inch of the soil is still wet, it does not need additional water. Water less frequently in the winter when the growth of the plant slows down."
+        },
+        {
+          "id": 6302,
+          "type": "sunlight",
+          "description": "Century plants (Agave schidigera 'Shira-ito-no-ohi') thrive best in full sun, which should consist of at least 6 to 8 hours of direct sunlight each day. During the spring and summer months, if the temperatures become too hot, they may require some partial shade to protect them from burning. When given the right conditions, these plants do best in areas that receive bright, full, direct sun from late morning to late afternoon."
+        },
+        {
+          "id": 6303,
+          "type": "pruning",
+          "description": "The Century Plant (Agave schidigera 'Shira-ito-no-ohi') should be pruned in late spring or early summer, as the new leaves are beginning to appear. Pruning should involve cutting away any dead or damaged leaves and spent flower stalks. It is also beneficial to neaten the plant to improve air circulation and light exposure. Prune away any lower leaves as necessary, however, be careful not to remove more than 1/3 of the leaves. If you need to reduce the size of the plant, try cutting away the central leaf rosette, however, this will curtail flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

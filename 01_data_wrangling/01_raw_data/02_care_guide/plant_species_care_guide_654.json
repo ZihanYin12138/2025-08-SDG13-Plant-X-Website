@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2063,
+      "species_id": 654,
+      "common_name": "hollyhock",
+      "scientific_name": [
+        "Alcea rosea 'Nigra'"
+      ],
+      "section": [
+        {
+          "id": 6394,
+          "type": "watering",
+          "description": "When watering hollyhocks, wait to water until the top inch of soil is dry. This could mean watering only once a week or even less, depending on the climate. As hollyhocks are a shallow-rooted perennial, water deeply and evenly 1 or 2 times a week. If the plant is in full sun, water more frequently than if it is in shade. Aim to keep the soil slightly moist, but do not saturate it. As a general guide, provide 1 to 3 inches of water per week."
+        },
+        {
+          "id": 6395,
+          "type": "sunlight",
+          "description": "Hollyhock (Alcea rosea 'Nigra') needs full sun for the best growth and flowering. During the hottest part of the day the plant should be in a spot that is sheltered from the direct sun to prevent scorching. At least 6 hours of direct sunlight each day is needed to promote healthy flowering. The ideal time for growth is in the morning and late afternoon, when the sun’s rays are more gentle. During the hottest part of the day, light shade for Hollyhock is beneficial."
+        },
+        {
+          "id": 6396,
+          "type": "pruning",
+          "description": "When pruning hollyhocks, it's best to remove the oldest and tallest stems first. This encourages lateral branches, which results in a more full and bushy plant. Once the older stems are removed, you can then lightly prune the lateral branches and flower stalks to improve the overall shape of the plant.\n\nFor plants growing in containers, prune more selectively, leaving at least 2 sets of leaves on each stem; this helps encourage flower production. Also, remove any dead, diseased or damaged branches.\n\nIn general, it's best to only prune hollyhocks if needed to improve their overall shape and to remove any dead or damaged branches. Heavy pruning should be avoided as this may reduce the numbers of flowers produced."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2081,
+      "species_id": 677,
+      "common_name": "ornamental onion",
+      "scientific_name": [
+        "Allium 'Lavender Bubbles'"
+      ],
+      "section": [
+        {
+          "id": 6448,
+          "type": "watering",
+          "description": "For an ornamental onion (Allium 'Lavender Bubbles'), water 1-2 inches per week either in the morning or the afternoon. Make sure to water deeply so that the soil is completely saturated, then wait for the soil to dry out before watering again. Since this type of onion prefers dryer soil, it is important to avoid overwatering. Feel the soil to make sure it is dry a few inches down the soil before giving it a good soak. During very hot or dry periods, you can increase the amount of water to about 2 inches per week."
+        },
+        {
+          "id": 6449,
+          "type": "sunlight",
+          "description": "Ornamental Onion (Allium 'Lavender Bubbles') will do best in a sunny spot. It should receive full sun for at least 6 hours a day to keep it flowering and continuously producing attractive foliage. If the plant does not get enough sunlight, the foliage will become leggy and the plant may become stunted in its growth. It is important to keep in mind that this plant will need protection from the hot afternoon sun in hotter climates. "
+        },
+        {
+          "id": 6450,
+          "type": "pruning",
+          "description": "Ornamental onion (Allium 'Lavender Bubbles') should be pruned to keep its appearance attractive. The best time to prune is in early- to mid-spring whenever new growth appears, before the onion blooms. Use a pair of sharp, sterile clippers or scissors to remove dead or diseased foliage. Additionally, cut off any flower stalks that have finished flowering, and then cut the foliage back to about half its normal size. This will help prevent the plant from becoming overly crowded and encourage more blooms."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

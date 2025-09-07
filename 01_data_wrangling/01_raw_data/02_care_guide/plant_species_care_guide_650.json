@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 308,
+      "species_id": 650,
+      "common_name": "alangium",
+      "scientific_name": [
+        "Alangium platanifolium"
+      ],
+      "section": [
+        {
+          "id": 473,
+          "type": "watering",
+          "description": "Alangium platanifolium is an evergreen shrub that prefers moist soil, but can tolerate more dry conditions. It will require regular watering in order to stay healthy and thrive. Water the plants once a week, providing approximately 1 inch (2.5 cm) of water, or enough to keep the soil consistently moist. During the summer months, it will likely require more frequent waterings. You may need to water up to 2 or 3 times a week during this period, depending on the temperature, humidity and light levels."
+        },
+        {
+          "id": 474,
+          "type": "sunlight",
+          "description": "Alangium (Alangium platanifolium) plants require a minimum of 6 to 8 hours of full sunlight per day for optimal growth. They are best grown in areas where there is full sun for most of the day throughout the fruit-bearing season, from late spring through early summer. In regions with higher latitudes and increased cloud cover, these plants may need supplemental light to ensure they get their full daily hours of direct sunlight. Areas with higher temperatures and humid climates may also require more sunlight than others."
+        },
+        {
+          "id": 475,
+          "type": "pruning",
+          "description": "Alangium (Alangium platanifolium) is a relatively slow-growing evergreen shrub and should only be pruned lightly, if necessary, unless rapid growth and/or a specific pruning goal is desired. Prune plants in late spring or early summer before new growth appears. Cut off dead or damaged stems to the ground and prune branch ends flush with the trunk. Avoid removing more than 30% of the existing stems. If a more formal look is desired, prune the plant down to the desired size and shape yearly. When pruning for renovation, remove weak, dead, diseased, or less desirable stems by cutting them off flush with the ground. Prune any remaining stems back 1/3 of their current length. Re-pruning may be necessary throughout the growing season as desired."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

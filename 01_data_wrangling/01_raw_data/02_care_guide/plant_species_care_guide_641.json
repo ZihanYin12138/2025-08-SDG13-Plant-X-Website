@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2052,
+      "species_id": 641,
+      "common_name": "bugleweed",
+      "scientific_name": [
+        "Ajuga reptans 'Dixie Chip'"
+      ],
+      "section": [
+        {
+          "id": 6361,
+          "type": "watering",
+          "description": "Bugleweed (Ajuga reptans 'Dixie Chip') should be watered twice a week, allowing about 1'' of water to soak the soil each time. It is best to water in the morning. If the soil is dry all the way through or the leaves have begun to wilt, water the bugleweed more often. Make sure not to water too much, as this can cause root rot. The topsoil should dry out before watering again. During the summer months, you may need to water more often, and during the winter months you may need to water less."
+        },
+        {
+          "id": 6362,
+          "type": "sunlight",
+          "description": "Bugleweed (Ajuga reptans 'Dixie Chip') prefers full sun to partial shade, but can tolerate some shade. It will grow best when it is exposed to 5-6 hours of direct sunlight each day. For optimal growth, bugleweed should be planted in areas that receive morning sun and afternoon shade, or where trees will provide dappled shade during the hottest times of the day."
+        },
+        {
+          "id": 6363,
+          "type": "pruning",
+          "description": "Bugleweed (Ajuga reptans 'Dixie Chip') should be pruned in late winter or early spring, when new growth has begun. Prune off any dead or damaged branches, and shape the plant as desired. Make sure not to prune too much, as this will hamper its growth and flowering. As it blooms in the early spring, it is best to avoid pruning after that. In addition, try not to remove more than 1/3 of the plant's total growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

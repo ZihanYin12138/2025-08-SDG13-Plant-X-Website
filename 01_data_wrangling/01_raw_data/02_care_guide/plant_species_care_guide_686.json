@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2088,
+      "species_id": 686,
+      "common_name": "chives",
+      "scientific_name": [
+        "Allium schoenoprasum 'Snowcap'"
+      ],
+      "section": [
+        {
+          "id": 6469,
+          "type": "watering",
+          "description": "Chives should be watered about every 5-7 days, or when the top of the soil feels dry to the touch.To water chives, provide an even amount of water to moisten the soil, but be sure to not overwater, as this can cause root rot. Once the soil has been evenly moistened, allow the surface of the soil to dry before watering again. Chives prefer moist conditions but should not be left with soggy soil for extended periods of time."
+        },
+        {
+          "id": 6470,
+          "type": "sunlight",
+          "description": "Chives (Allium schoenoprasum 'Snowcap') should receive full sun (at least 6 hours of direct sunlight per day) to thrive. Morning sun is best but light shade in the afternoon is tolerated. Too much shade can cause the leaves to become pale and weak. During the hottest parts of the day, midday sun is too strong and will cause the flowers to burn. "
+        },
+        {
+          "id": 6471,
+          "type": "pruning",
+          "description": "Chives should be pruned throughout the growing season, usually 2 or 3 times. The first pruning should take place before the plant starts to flower and can involve cutting off some of the leaves and flower stalks. The second pruning should take place just before the plant goes dormant in late autumn or early winter. This should involve cutting all the foliage back to the ground. The last pruning should take place at the start of a new growing season, in early spring, and should involve simply trimming the new growth to the desired height."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

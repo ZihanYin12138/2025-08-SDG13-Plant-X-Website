@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2083,
+      "species_id": 681,
+      "common_name": "ornamental onion",
+      "scientific_name": [
+        "Allium 'Purple Sensation'"
+      ],
+      "section": [
+        {
+          "id": 6454,
+          "type": "watering",
+          "description": "Water ornamental onions once a week during spring and summer. Ensure that the soil is kept moist, but not soggy. During fall and winter, reduce the water amount to once every 2 weeks. Make sure that the soil is always slightly damp but never dry. It is important to note that ornamental onions may need more water during times of extreme heat. "
+        },
+        {
+          "id": 6455,
+          "type": "sunlight",
+          "description": "Ornamental onion (Allium 'Purple Sensation') prefers full sun for best growth and flowering, meaning 6 to 8 hours of direct sunlight each day. If possible, place the plants in a location that gets morning sun and late-afternoon shade, as this will help the plant's foliage stay cooler and reduce the chance of scorching during the hottest part of the day. "
+        },
+        {
+          "id": 6456,
+          "type": "pruning",
+          "description": "Ornamental onion (Allium 'Purple Sensation') should be pruned in late winter or early spring. Remove any dead or damaged foliage, and any weak or spindly stems. Also prune off any old flower spikes that have already bloomed, to ensure better flowering the following season. If the foliage is looking tired or tatty, consider tidying it up by cutting it all back by half the height. After flowering, you can prune off old flower heads to keep the plant looking neat."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

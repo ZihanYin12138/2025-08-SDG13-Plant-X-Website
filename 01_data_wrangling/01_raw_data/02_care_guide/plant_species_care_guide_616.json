@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2033,
+      "species_id": 616,
+      "common_name": "coastal agave",
+      "scientific_name": [
+        "Agave shawii"
+      ],
+      "section": [
+        {
+          "id": 6304,
+          "type": "watering",
+          "description": "Coastal agave should be watered approximately once a week. Water until the soil is evenly moist and allow the top inch or so of soil to dry out before watering again. If the soil is still moist, wait an extra day to water the plant. In the winter months, reduce the frequency of watering and let the soil dry out almost completely between watering."
+        },
+        {
+          "id": 6305,
+          "type": "sunlight",
+          "description": "Coastal agave (Agave shawii) can thrive in tropical and sub-tropical climates, and enjoys direct sunlight for a minimum of 4-6 hours per day. Coastal agave is best grown in full sun, in an area that is well-drained and receives sunlight from mid-morning until mid-afternoon."
+        },
+        {
+          "id": 6306,
+          "type": "pruning",
+          "description": "Coastal Agave should be pruned sparingly, with no more than 1/4 of the plant removed at any 1 time. Depending on the size and severity of the pruning, this should be done in spring or summer. Pruning in spring will help encourage new growth, while pruning in summer will help keep the plant from becoming too large for its space. When pruning Coastal Agave, be sure to remove no more than a quarter of the plant at a time, and be sure to prune back only the bulkiest and least attractive parts of the plant. This will help keep the remaining parts of the plant in good health and looking attractive."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

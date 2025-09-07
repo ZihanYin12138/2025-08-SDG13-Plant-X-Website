@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 307,
+      "species_id": 631,
+      "common_name": "tree of Heaven",
+      "scientific_name": [
+        "Ailanthus altissima"
+      ],
+      "section": [
+        {
+          "id": 470,
+          "type": "watering",
+          "description": "For optimal growth, Tree of Heaven should be watered deeply 1 to 2 times a week, or around 6-14 inches per week. The water should be spread evenly across the root zone, and the tree should not be allowed to dry out between waterings. In especially dry periods, it can benefit from additional watering. During these times, the tree should receive at least 1-2 liters of water once or twice a week, and more water may be necessary if drought conditions persist."
+        },
+        {
+          "id": 471,
+          "type": "sunlight",
+          "description": "Tree of Heaven (Ailanthus altissima) is a species of plant that prefers full sun exposure, ideally 8-10 hours per day. Direct sunlight is best for this species in order to ensure the best possible development, growth, and flowering. However, it is tolerant to some dappled sun and partial shade, so during the hottest parts of the day it can be beneficial to give the Tree of Heaven some light shade. However, during the winter months and cooler evenings, light exposure should be increased as much as possible in order to encourage growth and flowering during the following growing season."
+        },
+        {
+          "id": 472,
+          "type": "pruning",
+          "description": "Tree of Heaven should be pruned in the late winter or early spring, before new leaf growth begins. Prune out dead, diseased, and damaged branches, as well as any low hanging and conflicting branches. Limit pruning to no more than 1/3 of the canopy each year and limit pruning of branches to about 24 inches in length. This will help promote a strong, healthy growth habit. Pruning should generally focus on the outer portions of the tree to keep it from becoming top-heavy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

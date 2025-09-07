@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2049,
+      "species_id": 638,
+      "common_name": "bugleweed",
+      "scientific_name": [
+        "Ajuga reptans 'Braunherz'"
+      ],
+      "section": [
+        {
+          "id": 6352,
+          "type": "watering",
+          "description": "Bugleweed (Ajuga reptans 'Braunherz') is a low-growing, spreading perennial plant that prefers moist soils and shady or partially sunny locations. As such, this species does not need a large amount of water, and overdoing it may cause root rot. Instead, it should be watered only when the soil begins to feel dry to the touch. This should be done once or twice a week, as necessary, being sure not to water all the way to the base of the plant. Be sure to remove any water that pools beneath the leaves, as this can lead to fungal infections."
+        },
+        {
+          "id": 6353,
+          "type": "sunlight",
+          "description": "Bugleweed (Ajuga reptans 'Braunherz') should be planted in an area that receives full sun to partial shade, meaning that it should receive at least 4-6 hours of direct sunlight each day. In addition, the plant should also receive afternoon shade in areas that experience very hot summers. This will help to ensure the bugleweed receives the optimal balance of light throughout the day and will ensure that the plant does not become stressed and prone to disease."
+        },
+        {
+          "id": 6354,
+          "type": "pruning",
+          "description": "Bugleweed (Ajuga reptans 'Braunherz'-) should be pruned in late winter or early spring, before new growth appears. Prune just before flowering, cutting away up to 1/3 of the stems. Be sure to remove any dead, brown, or wilted stems. If the plant is getting too large for its space, prune it back severely and reduce the size of the entire plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

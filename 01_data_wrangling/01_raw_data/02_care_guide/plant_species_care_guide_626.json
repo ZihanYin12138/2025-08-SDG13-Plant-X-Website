@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 483,
+      "species_id": 626,
+      "common_name": "Chinese evegreen",
+      "scientific_name": [
+        "Aglaonema 'Cutlass'"
+      ],
+      "section": [
+        {
+          "id": 1451,
+          "type": "watering",
+          "description": "Chinese evergreen (Aglaonema 'Cutlass') should be watered about once a week, allowing the top several inches of soil to dry out between waterings. It is best to give the plant a thorough watering to the point of light runoff and then let the excess water drain from the pot. Moisture-sensitive Chinese evergreens do not tolerate standing in water, so be sure to water only when necessary."
+        },
+        {
+          "id": 1456,
+          "type": "sunlight",
+          "description": "Aglaonema 'Cutlass' is a plant species that requires a medium level of light for optimal growth and health. It prefers indirect sunlight for most of the day, with some direct sunlight in the morning to help its growth. The ideal sunlight conditions for this species of plant would be an east-facing window with 1-2 hours of direct sunlight each morning, and then 6-8 hours of indirect sunlight per day. It can also tolerate lower light levels, making it an ideal houseplant for shady areas."
+        },
+        {
+          "id": 1457,
+          "type": "pruning",
+          "description": "It is recommended to prune Chinese evergreen (Aglaonema Cutlass) twice a year. Pruning should be done in early spring and late summer. Only remove about 1 third of the plant. Remove any yellow or withered leaves immediately. This will help maintain the shape of the plant and help keep the foliage free from disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

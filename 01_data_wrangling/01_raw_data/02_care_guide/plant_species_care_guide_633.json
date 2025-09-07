@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2045,
+      "species_id": 633,
+      "common_name": "ajania",
+      "scientific_name": [
+        "Ajania pacifica 'Pink Ice'"
+      ],
+      "section": [
+        {
+          "id": 6340,
+          "type": "watering",
+          "description": "Ajania pacifica 'Pink Ice' should be watered about once a week, with enough water to thoroughly moisten the soil. You can help keep the soil moist by adding a layer of mulch to the soil to help it retain moisture. During the summer months, it's important to make sure that the soil remains moist and does not dry out. Though it prefers regular watering, it is important not to overwater it, as this can cause root rot and fungal issues. In winter, Ajania Pacifica 'Pink Ice' can tolerate a bit of drought, but it's still important to check the soil moisture and water when necessary."
+        },
+        {
+          "id": 6341,
+          "type": "sunlight",
+          "description": "Ajania pacifica 'Pink Ice' is a fast-growing, low-maintenance plant that is well-adapted to grow in a wide range of climates. It can tolerate both full sun and partial shade and performs best with at least 4 to 5 hours of direct sunlight each day. The ideal time of day for Ajania to receive its sunlight is between 8:00am and 5:00pm. Ajania can tolerate long days, and thrive in conditions of more than 10 hours of direct sunlight. However, too much intense sunlight can damage its delicate foliage and cause it to become wilted and dry."
+        },
+        {
+          "id": 6342,
+          "type": "pruning",
+          "description": "Ajania pacifica 'Pink Ice' should be lightly pruned twice a year in late winter and early summer. Pruning should be limited to just removing spent flower heads and some of the older foliage to encourage new growth. If the plant becomes overgrown, it may be necessary to prune more aggressively by cutting back some of the branches. Make sure to sterilize pruning tools before and after use to avoid damaging the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

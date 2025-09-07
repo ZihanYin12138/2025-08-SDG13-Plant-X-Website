@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1004,
+      "species_id": 606,
+      "common_name": "American century plant",
+      "scientific_name": [
+        "Agave americana"
+      ],
+      "section": [
+        {
+          "id": 3001,
+          "type": "watering",
+          "description": "American Century Plant should be watered deeply 1-2 times per month during the growing season and about once every 1-2 months in the winter. How much water depends on the size of your individual plant, as well as the size and type of pot it is in. You should water the plant until water runs out of the drainage holes, but never leave the plant sitting in water. For established plants, you can water more sparingly during times of extreme heat. For younger and more delicate plants, you can increase the watering frequency to every week or 2."
+        },
+        {
+          "id": 3009,
+          "type": "sunlight",
+          "description": "American century plant requires full sun, which means it should receive 6-8 hours of direct sunlight per day for optimal growth. The sun is most intense between the hours of 10am and 6pm, so midday and especially afternoon sun is best for this species. Because of this, it is best to place the American century plant in the sunniest point of the yard or garden so it can receive the fullest and most direct amount of sunlight possible."
+        },
+        {
+          "id": 3016,
+          "type": "pruning",
+          "description": "Prune American century plant in the late winter or early spring. Pruning helps to keep it a manageable size. Remove any dead leaves, damaged or misshapen leaves, and any leaves that look unhealthy. Cut off flower stalks to prevent self-seeding. In general, cut them off at the base of the plant or as close to the heart of the plant as possible. Prune as much as desired, but keep in mind that it is possible to cut too much and affect the aesthetic or health of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,103 @@
+{
+  "id": 691,
+  "common_name": "German garlic",
+  "scientific_name": [
+    "Allium senescens subsp. glaucum"
+  ],
+  "other_name": [],
+  "family": "Amaryllidaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "senescens",
+  "genus": "Allium",
+  "origin": [
+    "Europe",
+    "northern Asia"
+  ],
+  "type": "Bulb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 1,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Division",
+    "Bulbils",
+    "Offsets"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=691&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=691&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=691&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "German garlic, or Allium senescens subsp. glaucum, is an amazing plant species with a mild and slightly sweet taste that makes it great to use in a variety of recipes! It's also a great choice for gardens because it's hardy and drought tolerant. German garlic has long shelf life, meaning it can be stored for months without spoiling. It's also rich in health benefits, packed with vitamins, minerals, and antioxidants. The German variety of garlic is also known for its strong aroma, which can be enjoyed as a true culinary delight. With its unique taste and health benefits, German garlic is definitely an invaluable addition to any home garden!",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/691_allium_senescens_subsp_glaucum/og/2560px-Allium_senescens_subsp._glaucum_Czosnek_sinawy_2018-10-06_01.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/691_allium_senescens_subsp_glaucum/regular/2560px-Allium_senescens_subsp._glaucum_Czosnek_sinawy_2018-10-06_01.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/691_allium_senescens_subsp_glaucum/medium/2560px-Allium_senescens_subsp._glaucum_Czosnek_sinawy_2018-10-06_01.jpg",
+    "small_url": "https://perenual.com/storage/species_image/691_allium_senescens_subsp_glaucum/small/2560px-Allium_senescens_subsp._glaucum_Czosnek_sinawy_2018-10-06_01.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/691_allium_senescens_subsp_glaucum/thumbnail/2560px-Allium_senescens_subsp._glaucum_Czosnek_sinawy_2018-10-06_01.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

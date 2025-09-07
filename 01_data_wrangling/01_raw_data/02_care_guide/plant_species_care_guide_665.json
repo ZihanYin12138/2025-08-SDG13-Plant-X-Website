@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2070,
+      "species_id": 665,
+      "common_name": "leek",
+      "scientific_name": [
+        "Allium ampeloprasum"
+      ],
+      "section": [
+        {
+          "id": 6415,
+          "type": "watering",
+          "description": "Leeks (Allium ampeloprasum) should be kept uniformly moist throughout the growing season for optimal health and vigor. Water deeply and regularly, about 1-2 inches per week, during the growing season if there is inadequate rainfall. Drip irrigation is ideal. Avoid wetting the foliage, as this can increase susceptibility to disease. Water less frequently during winter dormancy. Let the soil become slightly dry between watering and never water to the point of standing water."
+        },
+        {
+          "id": 6416,
+          "type": "sunlight",
+          "description": "Leek (Allium ampeloprasum) prefers full sun or partial shade and needs around 6 to 8 hours of direct sunlight each day to thrive. Ideal full sun exposure should be a minimum of 6 hours during the growing season and 4 hours during the winter. Leeks will still benefit from indirect sunlight, so do not worry if direct sunlight is limited. When the temperatures start to drop in the fall, it's best to move any leeks that are growing in full sun to a more shaded area with less direct sunlight."
+        },
+        {
+          "id": 6417,
+          "type": "pruning",
+          "description": "Leek (Allium ampeloprasum) should be pruned when they begin to form flower stalks. Pruning should focus on removing the flowering stalks and seedpods, as well as any spent foliage. Cut back the flower stalk at its base with clean, sharp shears or scissors. Dead leaves should also be trimmed away. The amount of pruning is not as important as the timing, as leeks flower in the late summer months and can become more vulnerable to diseases if left unpruned until winter. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

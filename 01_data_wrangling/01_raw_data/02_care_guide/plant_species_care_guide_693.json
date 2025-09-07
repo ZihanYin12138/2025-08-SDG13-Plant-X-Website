@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2095,
+      "species_id": 693,
+      "common_name": "round-headed leek",
+      "scientific_name": [
+        "Allium sphaerocephalon"
+      ],
+      "section": [
+        {
+          "id": 6490,
+          "type": "watering",
+          "description": "Round-headed leek (Allium sphaerocephalon) is a warm-season perennial plant that requires about 1 inch of water per week, especially during hot, dry weather. Water the plants deeply. This not only helps keep the soil moist but also helps promote root growth. When watering, avoid wetting the foliage, as this can cause the leaves to rot. Generally, water the plants early in the morning, so the foliage has a chance to dry off before nightfall. During the winter, the plants will require less water. Allow the soil to partially dry out before watering again during the colder months."
+        },
+        {
+          "id": 6491,
+          "type": "sunlight",
+          "description": "Round-headed leek (Allium sphaerocephalon) is a hardy plant that prefers areas of full sun. It grows best when receiving 6 to 8 hours of direct sunlight per day. Early morning sun is best for this species, and keeping it in an area where it receives the most sunlight throughout the day will promote good growth and flowering. Additionally, the plant will benefit from indirect winter sunlight, so try to keep it near a south-facing window. Shade is tolerable but can decrease the flowering potential."
+        },
+        {
+          "id": 6492,
+          "type": "pruning",
+          "description": "You should prune Round-headed leek (Allium sphaerocephalon) in early spring, just as the plant is beginning to send up its first shoots. Pruning should be minimal; lightly pinch off the flower bud heads at the top of each plant and remove any damaged or diseased leaves or stems. Avoid cutting back too much or pruning into old or woody stems as this can limit the plant’s ability to flower and can also attract pests. If necessary, dead-head faded flowers at the end of the flowering season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

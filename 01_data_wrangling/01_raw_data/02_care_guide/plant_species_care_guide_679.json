@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2082,
+      "species_id": 679,
+      "common_name": "ornamental onion",
+      "scientific_name": [
+        "Allium 'Millenium'"
+      ],
+      "section": [
+        {
+          "id": 6451,
+          "type": "watering",
+          "description": "Ornamental onion (Allium 'Millenium') should be grown in full sun and needs regular watering to ensure healthy growth and flower production. It should be watered deeply and slowly, allowing the soil to become completely soaked. During the spring and summer, you should water it every 7-10 days, giving it enough water to keep the soil moist but not saturated. During the fall and winter, you should back off on the amount of water given, only watering it every 2 weeks. Make sure to check the soil moisture often and adjust the frequency of watering as needed."
+        },
+        {
+          "id": 6452,
+          "type": "sunlight",
+          "description": "The ornamental onion (Allium 'Millenium') requires direct sunlight for the majority of the day in order to thrive. This plant should be placed in an area that receives full sun which is around 6-8 hours per day. Since the ornamental onion thrives in full sunlight, if it is placed in an area with only partial shade it will likely not perform as well and may not flower. It is recommended to place this plant in a spot that receives plenty of morning sun, ideally an east-facing location. In hotter climates, afternoon sun is best for this plant as the intense light and heat of the afternoon sun can cause leaf burn and wilting. Be sure to monitor the plant's condition throughout the seasons to ensure the amount of light it receives is sufficient."
+        },
+        {
+          "id": 6453,
+          "type": "pruning",
+          "description": "Ornamental onions (Allium 'Millenium') should be pruned once per year in late fall. Pruning should be done after flowering, removing the entire flower stem. This will help to ensure that energy is spent on the bulb growth and not on flowers and seed production. As with most plants, deadheading should also be done to keep the plant looking tidy. When removing stems, try to cut as close to the base of the plant as possible. Pruning ornamental onions in this way encourages a better bulb size."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
