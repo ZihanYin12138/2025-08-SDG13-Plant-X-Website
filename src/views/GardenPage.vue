@@ -731,4 +731,47 @@ onMounted(() => { goToPage(1); load() })
 
 /* 错误信息 */
 .error{ color:#c00; margin-top:8px }
+
+/* 模式：filter按钮调整  */
+:root[data-theme="light"] .modal .radios input[type="radio"],
+:root:not([data-theme="dark"]) .modal .radios input[type="radio"]{
+  -webkit-appearance: none;
+  appearance: none;
+
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  margin-right: .5rem;
+  cursor: pointer;
+
+  background: #e9e9e9;
+  border: 2px solid color-mix(in oklab, var(--fg) 35%, var(--bg) 65%);
+  transition: background-color .15s ease, border-color .15s ease, box-shadow .15s ease;
+}
+
+:root[data-theme="light"] .modal .radios input[type="radio"]:checked,
+:root:not([data-theme="dark"]) .modal .radios input[type="radio"]:checked{
+  background: rgb(144, 190, 247);
+  border-color: var(--fg);
+}
+
+:root[data-theme="light"] .modal .radios input[type="radio"]:hover,
+:root:not([data-theme="dark"]) .modal .radios input[type="radio"]:hover{
+  border-color: color-mix(in oklab, var(--fg) 55%, var(--bg) 45%);
+}
+
+:root[data-theme="light"] .modal .radios input[type="radio"]:focus-visible,
+:root:not([data-theme="dark"]) .modal .radios input[type="radio"]:focus-visible{
+  outline: var(--ring);
+  outline-offset: 2px;
+  border-radius: 999px;
+}
+
+:root[data-theme="light"] .modal .radios input[type="radio"][disabled],
+:root:not([data-theme="dark"]) .modal .radios input[type="radio"][disabled]{
+  opacity: .6;
+  cursor: not-allowed;
+  border-color: color-mix(in oklab, var(--fg) 20%, var(--bg) 80%);
+}
+
 </style>
