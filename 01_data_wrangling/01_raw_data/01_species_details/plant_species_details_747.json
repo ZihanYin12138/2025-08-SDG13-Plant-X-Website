@@ -1,0 +1,134 @@
+{
+  "id": 747,
+  "common_name": "Joseph's coat",
+  "scientific_name": [
+    "Alternanthera ficoidea"
+  ],
+  "other_name": [],
+  "family": "Amaranthaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "ficoidea",
+  "genus": "Alternanthera",
+  "origin": [
+    "Caribbean",
+    "Central and South America"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 1,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Stem Propagation",
+    "Division",
+    "Layering Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "10",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=747&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=747&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green-pink-red",
+        "green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "pink",
+        "red-pink"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "blooms",
+      "color": [
+        "white"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=747&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": true,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Joseph's coat (Alternanthera ficoidea) is an amazing plant that stands out from other species because of its vibrant, multi-colored foliage. Its leaves display shades of red, yellow, white, and purple, making it a dynamic addition to any landscape or container garden. It is extremely simple to maintain and can thrive in a variety of soil conditions. Joseph's coat can withstand extremes in temperature, drought and semi-shade without compromising its color. It also blooms small flowers that last until late fall adding to the vibrant display. It is a great choice for any gardener looking to add stunning color and texture to any space.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/747_alternanthera_ficoidea/og/48756446498_fc5901c40d_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/747_alternanthera_ficoidea/regular/48756446498_fc5901c40d_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/747_alternanthera_ficoidea/medium/48756446498_fc5901c40d_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/747_alternanthera_ficoidea/small/48756446498_fc5901c40d_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/747_alternanthera_ficoidea/thumbnail/48756446498_fc5901c40d_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

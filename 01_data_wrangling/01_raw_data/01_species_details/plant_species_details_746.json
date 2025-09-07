@@ -1,0 +1,137 @@
+{
+  "id": 746,
+  "common_name": "Joseph's coat",
+  "scientific_name": [
+    "Alternanthera dentata"
+  ],
+  "other_name": [],
+  "family": "Amaranthaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "dentata",
+  "genus": "Alternanthera",
+  "origin": [
+    "West Indies"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Stem Propagation",
+    "Division",
+    "Layering Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "10",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=746&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=746&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "maroon",
+        "pink-red"
+      ]
+    },
+    {
+      "part": "blooms",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "yellow",
+        "pink-red"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "August",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=746&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": true,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Joseph's coat (Alternanthera dentata) is an amazing plant species for its brilliant show of colour. Its burgundy-bronze foliage can change the look of your garden and can even be used as an edging or container plant. In the summer, it offers up cheerful pink and white flowers. Hardy and easy to grow even in hot, humid climates, Joseph's coat grows well in many soil conditions without too much fuss. Its beautiful colour can be used to create eye-catching combinations and ornamentals, while its heat and drought-tolerance add to its popularity as a garden mainstay.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/746_alternanthera_dentata/og/46631152982_619a105c5b_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/746_alternanthera_dentata/regular/46631152982_619a105c5b_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/746_alternanthera_dentata/medium/46631152982_619a105c5b_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/746_alternanthera_dentata/small/46631152982_619a105c5b_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/746_alternanthera_dentata/thumbnail/46631152982_619a105c5b_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

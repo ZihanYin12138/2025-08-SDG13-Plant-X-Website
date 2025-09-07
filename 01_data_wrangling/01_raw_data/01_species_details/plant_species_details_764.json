@@ -1,0 +1,134 @@
+{
+  "id": 764,
+  "common_name": "juneberry",
+  "scientific_name": [
+    "Amelanchier lamarckii"
+  ],
+  "other_name": [],
+  "family": "Rosaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "lamarckii",
+  "genus": "Amelanchier",
+  "origin": [
+    "North America"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 15,
+      "max_value": 25,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Seed Propagation",
+    "Tissue Culture"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=764&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=764&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "white",
+        "white-green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green",
+        "maroon"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "brown",
+        "green"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=764&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The Juneberry (Amelanchier lamarckii) is a remarkable, hardy shrub that is a stunning addition to any garden. Its snowy white blossoms, abundant clusters of edible berries, and lush green foliage create an eye-catching effect of beauty throughout the season. Its short stature and wide canopy make it an ideal choice for borders and landscape edging, while its wildlife-attracting qualities make it a great choice for wildlife gardens. Not only is it great to look at, but the delicious berries are often used in jams, jellies and drinks for a sweet treat. Highly adaptable, this shrub thrives in sunny or partially shady settings, making it as easy to care for as it is pleasing to the eye.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/764_amelanchier_lamarckii/og/33791583306_f594902691_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/764_amelanchier_lamarckii/regular/33791583306_f594902691_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/764_amelanchier_lamarckii/medium/33791583306_f594902691_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/764_amelanchier_lamarckii/small/33791583306_f594902691_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/764_amelanchier_lamarckii/thumbnail/33791583306_f594902691_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

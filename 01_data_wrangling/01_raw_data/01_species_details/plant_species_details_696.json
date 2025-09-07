@@ -1,0 +1,121 @@
+{
+  "id": 696,
+  "common_name": "ornamental onion",
+  "scientific_name": [
+    "Allium thunbergii 'Ozawa'"
+  ],
+  "other_name": [],
+  "family": "Amaryllidaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Ozawa",
+  "variety": null,
+  "species_epithet": "thunbergii",
+  "genus": "Allium",
+  "origin": [
+    "Japan"
+  ],
+  "type": null,
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.75,
+      "max_value": 1,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Seed Propagation",
+    "Bulbils",
+    "Offsets"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=696&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=696&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "purple"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "April",
+    "May"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=696&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Ornamental Onions are an amazing plant for the garden! Planted in either sunny or partly shaded areas, the lovely 'Ozawa' variety is a great choice for flower beds and borders, with its clump-forming habit and outstanding late-season display of deep purple blooms. The delicate petals and attractive fragrance add to the overall appeal of this ornamental ornamental onion. Plus, it's hardy and drought-tolerant, making it a great choice for gardeners who want a low-maintenance plant. Perfect for adding texture and colour all season.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/696_allium_thunbergii_ozawa/og/52262233497_d45f5eaca1_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/696_allium_thunbergii_ozawa/regular/52262233497_d45f5eaca1_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/696_allium_thunbergii_ozawa/medium/52262233497_d45f5eaca1_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/696_allium_thunbergii_ozawa/small/52262233497_d45f5eaca1_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/696_allium_thunbergii_ozawa/thumbnail/52262233497_d45f5eaca1_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

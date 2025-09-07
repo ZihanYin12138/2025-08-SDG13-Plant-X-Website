@@ -1,0 +1,153 @@
+{
+  "id": 703,
+  "common_name": "grey alder",
+  "scientific_name": [
+    "Alnus incana"
+  ],
+  "other_name": [
+    "Tag Alder",
+    "Grey Alder",
+    "Hoary Alder",
+    "Mountain Alder",
+    "White Alder",
+    "Grey Alder",
+    "Hoary Alder",
+    "Mountain Alder",
+    "White Alder"
+  ],
+  "family": "Betulaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "incana",
+  "genus": "Alnus",
+  "origin": [
+    "Europe",
+    "Caucasus"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 40,
+      "max_value": 60,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Layering Propagation",
+    "Cutting",
+    "Grafting Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "2",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=703&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=703&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "branch",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "brown",
+        "green",
+        "gray-brown",
+        "gray"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "trunk",
+      "color": [
+        "gray"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Sun",
+    " Partial Shade"
+  ],
+  "pruning_month": [
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=703&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Loamy Clay Humus"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Low",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": true,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Grey Alder (Alnus incana) is an amazing species of plant due to its hardy nature. It is native to much of Europe, Asia and North America, and can tolerate a variety of soil and climate conditions. Grey Alder is often planted as an ornamental tree due to its distinctive grey-green foliage and spreading habit. It is also a valuable wildlife species, providing food and shelter to a variety of birds and animals. Grey Alder is also often chosen for improving soil fertility and helping to protect watersheds from pollutants. This resilient species is great for urban and rural landscaping and is definitely worth consideration!",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/703_alnus_incana/og/52399973491_ccfed31074_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/703_alnus_incana/regular/52399973491_ccfed31074_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/703_alnus_incana/medium/52399973491_ccfed31074_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/703_alnus_incana/small/52399973491_ccfed31074_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/703_alnus_incana/thumbnail/52399973491_ccfed31074_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

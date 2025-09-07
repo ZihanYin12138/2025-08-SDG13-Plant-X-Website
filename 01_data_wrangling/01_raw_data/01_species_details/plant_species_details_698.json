@@ -1,0 +1,126 @@
+{
+  "id": 698,
+  "common_name": "wild garlic",
+  "scientific_name": [
+    "Allium ursinum"
+  ],
+  "other_name": [],
+  "family": "Amaryllidaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "ursinum",
+  "genus": "Allium",
+  "origin": [
+    "Europe",
+    "Russia"
+  ],
+  "type": "Bulb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 1,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Bulbils",
+    "Scaling"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=698&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=698&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=698&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Wild garlic (Allium ursinum) is an amazing plant species with a variety of benefits. It has anti-inflammatory properties and is packed with vitamins and minerals, making it a great source of nutrition. Its strong garlic won't overpower your dishes but add a subtle smell and flavour. Not only is wild garlic rich in flavour, but it can be used in pest control for its ability to repel garden pests. Its showy white flowers mean it also has an ornamental appeal. Whether it's planted as part of a wild garden or as a companion plant, wild garlic is an amazing plant species!",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/698_allium_ursinum/og/52156804216_7dd5683e59_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/698_allium_ursinum/regular/52156804216_7dd5683e59_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/698_allium_ursinum/medium/52156804216_7dd5683e59_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/698_allium_ursinum/small/52156804216_7dd5683e59_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/698_allium_ursinum/thumbnail/52156804216_7dd5683e59_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

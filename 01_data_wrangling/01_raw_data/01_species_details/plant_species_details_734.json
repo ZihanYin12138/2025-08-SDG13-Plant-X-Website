@@ -1,0 +1,135 @@
+{
+  "id": 734,
+  "common_name": "shell ginger",
+  "scientific_name": [
+    "Alpinia zerumbet 'Variegata'"
+  ],
+  "other_name": [],
+  "family": "Zingiberaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Variegata",
+  "variety": null,
+  "species_epithet": "zerumbet",
+  "genus": "Alpinia",
+  "origin": [
+    "Japan",
+    "Taiwan",
+    "India",
+    "China",
+    "Southeast Asia"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Stem Propagation",
+    "Air Layering Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "8",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=734&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=734&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green-yellow",
+        "green-white"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "pink-white-yellow"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "brown-grey"
+      ]
+    },
+    {
+      "part": "trunk",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "part shade",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=734&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": true,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Shell ginger (Alpinia zerumbet 'Variegata') is an amazing plant! This striking tropical perennial is prized for its bright red, yellow, and green variegated foliage, giving it a vivid, eye-catching appearance. The foliage is also fragrant and edible, with a slight gingery flavor. In summer, it blooms with white and pink cone-shaped flowers which attract pollinators. This low-maintenance plant grows best in part-shade, making it perfect for gardens with limited sunlight. It's also very tolerant of soil moisture and makes a great landscape plant due to its long-lasting foliage. With its beauty and ease of care, shell ginger is sure to be a hit in any garden!",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/734_alpinia_zerumbet_variegata/og/2463223337_25c98419a3_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/734_alpinia_zerumbet_variegata/regular/2463223337_25c98419a3_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/734_alpinia_zerumbet_variegata/medium/2463223337_25c98419a3_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/734_alpinia_zerumbet_variegata/small/2463223337_25c98419a3_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/734_alpinia_zerumbet_variegata/thumbnail/2463223337_25c98419a3_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

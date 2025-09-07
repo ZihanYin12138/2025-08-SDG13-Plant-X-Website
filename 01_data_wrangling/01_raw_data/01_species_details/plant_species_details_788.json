@@ -1,0 +1,109 @@
+{
+  "id": 788,
+  "common_name": "blue star",
+  "scientific_name": [
+    "Amsonia tabernaemontana 'Storm Cloud'"
+  ],
+  "other_name": [],
+  "family": "Apocynaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Storm Cloud",
+  "variety": null,
+  "species_epithet": "tabernaemontana",
+  "genus": "Amsonia",
+  "origin": [
+    "United States"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=788&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=788&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=788&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Easy",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Blue star (Amsonia tabernaemontana ‘Storm Cloud’) has an amazing beauty that stands out in any garden. Its striking blue star shaped flowers bloom in mid-spring, adding a burst of vibrant color to your landscape. The lance-shaped leaves are perfectly arranged in attractive clusters, and change to a beautiful yellow in the fall, creating a stunning seasonal show. The delicate foliage provides an airy backdrop for other more showy plants, while its drought and pest resistance, as well as its tough nature, make it a great addition to any garden. Blue star is truly an amazing plant.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/788_amsonia_tabernaemontana_storm_cloud/og/Amsonia_tabernaemontana_Blue_Ice_2zz.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/788_amsonia_tabernaemontana_storm_cloud/regular/Amsonia_tabernaemontana_Blue_Ice_2zz.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/788_amsonia_tabernaemontana_storm_cloud/medium/Amsonia_tabernaemontana_Blue_Ice_2zz.jpg",
+    "small_url": "https://perenual.com/storage/species_image/788_amsonia_tabernaemontana_storm_cloud/small/Amsonia_tabernaemontana_Blue_Ice_2zz.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/788_amsonia_tabernaemontana_storm_cloud/thumbnail/Amsonia_tabernaemontana_Blue_Ice_2zz.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,113 @@
+{
+  "id": 711,
+  "common_name": "Amazonian elephant's ear",
+  "scientific_name": [
+    "Alocasia amazonica 'Polly'"
+  ],
+  "other_name": [],
+  "family": "Araceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Polly",
+  "variety": null,
+  "species_epithet": "amazonica",
+  "genus": "Alocasia",
+  "origin": [
+    "Colombia",
+    "Ecuador",
+    "Peru",
+    "Bolivia",
+    "Brazil"
+  ],
+  "type": "Bulb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 2,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Air Layering Propagation",
+    "Stem Propagation",
+    "Offsets",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "10",
+    "max": "12"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=711&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=711&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=711&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": true,
+  "indoor": true,
+  "care_level": "High",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": true,
+  "poisonous_to_pets": true,
+  "description": "The Amazonian elephant’s ear (Alocasia amazonica 'Polly') is a unique and stunning plant that demands attention! Its lush, velvety leaves are an eye-catching bright green, with prominent ivory undersides. The deep purple veins running through the foliage lend a striking contrast. With large and distinctive heart-shaped leaves resembling an elephant’s ear, it establishes a striking presence in any room or garden. Its tall, glossy stems create a strikingly elegant look. No wonder it’s the preferred choice of gardeners! Its easy to care for and its exotic beauty will never go out of style.",
+  "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/711_alocasia_amazonica_polly/og/pexels-photo-12419491.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/711_alocasia_amazonica_polly/regular/pexels-photo-12419491.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/711_alocasia_amazonica_polly/medium/pexels-photo-12419491.jpg",
+    "small_url": "https://perenual.com/storage/species_image/711_alocasia_amazonica_polly/small/pexels-photo-12419491.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/711_alocasia_amazonica_polly/thumbnail/pexels-photo-12419491.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

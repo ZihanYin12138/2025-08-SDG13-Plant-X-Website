@@ -1,0 +1,142 @@
+{
+  "id": 697,
+  "common_name": "garlic chives",
+  "scientific_name": [
+    "Allium tuberosum"
+  ],
+  "other_name": [
+    "Chinese chives"
+  ],
+  "family": "Amaryllidaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "tuberosum",
+  "genus": "Allium",
+  "origin": [
+    "Southeastern Asia"
+  ],
+  "type": "Bulb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=697&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=697&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "March",
+    "April",
+    "May",
+    "May",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=697&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Pest resistant",
+    " Disease resistant",
+    " Deer resistant",
+    " Rabbit resistant"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Garlic chives (Allium tuberosum) are an edible, low-maintenance herb loved for their mild garlic flavor and attractive, bright-green, feathery foliage. While relatively small in size, these undeniably amazing plants offer an abundance of flavor, as well as plenty of visual interest in the garden. They are easy to grow and can be planted indoors or outdoors, making them a great option for naturalizing and planting in borders or flower beds. They are vigorous with a high resistance to pests and diseases, and require very little maintenance. Their tasty, garlicky leaves can be used in salads, soups and sauces, adding a unique flavor to many dishes. With so many benefits, it's no surprise that garlic chives are an increasingly popular herb!",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/697_allium_tuberosum/og/51949630538_39d542591d_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/697_allium_tuberosum/regular/51949630538_39d542591d_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/697_allium_tuberosum/medium/51949630538_39d542591d_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/697_allium_tuberosum/small/51949630538_39d542591d_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/697_allium_tuberosum/thumbnail/51949630538_39d542591d_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,158 @@
+{
+  "id": 720,
+  "common_name": "Cape aloe",
+  "scientific_name": [
+    "Aloe ferox"
+  ],
+  "other_name": [],
+  "family": "Asphodelaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "ferox",
+  "genus": "Aloe",
+  "origin": [
+    "South Africa",
+    "Lesotho"
+  ],
+  "type": null,
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 6.5,
+      "max_value": 12,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Hummingbirds"
+  ],
+  "propagation": [
+    "Cutting",
+    "Division",
+    "Seed Propagation",
+    "Offsets"
+  ],
+  "hardiness": {
+    "min": "9",
+    "max": "12"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=720&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=720&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green",
+        "yellow-green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "red",
+        "orange"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green",
+        "brown"
+      ]
+    },
+    {
+      "part": "trunk",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "thorns",
+      "color": [
+        "orange"
+      ]
+    },
+    {
+      "part": "flower",
+      "color": [
+        "orange"
+      ]
+    },
+    {
+      "part": "blooms",
+      "color": [
+        "orange"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=720&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Cape aloe (Aloe ferox) is an amazing plant species. It is a succulent that is native to South Africa, and it has many incredible attributes. Its leaves are large and spiky and a rich, deep green color. It is also known for its anti-inflammatory properties, being a great solution to skin ailments and burns. In addition to its protective properties, Cape aloe produces an incredibly beautiful flower when in bloom, producing bright, red/yellow clusters that last all summer long. With such a beautiful and beneficial plant, it’s no surprise why Cape aloe is so popular!",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/720_aloe_ferox/og/52617385752_7902a3eda2_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/720_aloe_ferox/regular/52617385752_7902a3eda2_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/720_aloe_ferox/medium/52617385752_7902a3eda2_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/720_aloe_ferox/small/52617385752_7902a3eda2_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/720_aloe_ferox/thumbnail/52617385752_7902a3eda2_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

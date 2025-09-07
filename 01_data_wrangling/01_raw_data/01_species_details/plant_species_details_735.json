@@ -1,0 +1,129 @@
+{
+  "id": 735,
+  "common_name": "lily of the Incas",
+  "scientific_name": [
+    "Alstroemeria aurea"
+  ],
+  "other_name": [],
+  "family": "Alstroemeriaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "aurea",
+  "genus": "Alstroemeria",
+  "origin": [
+    "Argentina",
+    "Chile"
+  ],
+  "type": "Bulb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Tissue Culture"
+  ],
+  "hardiness": {
+    "min": "7",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=735&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=735&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=735&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Lily of the Incas, also known as Alstroemeria aurea, is a stunning herbaceous perennial flower known for its beauty and amazing durability. Featuring bright yellow and orange petals, the lily of the Incas makes an eye-catching addition to any garden. Its long-lasting blooms also make it an ideal choice for cut flower arrangements. The plant is also easy to care for and makes a great option for both experienced and novice gardeners alike. Its evergreen foliage provides additional interest and makes it a great choice for flower borders and flower beds. Lily of the Incas’ amazing durability, colorful blooms, and ease of care make it an ideal choice for anyone looking for a beautiful and reliable flower.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/735_alstroemeria_aurea/og/9065256170_72118879aa_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/735_alstroemeria_aurea/regular/9065256170_72118879aa_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/735_alstroemeria_aurea/medium/9065256170_72118879aa_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/735_alstroemeria_aurea/small/9065256170_72118879aa_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/735_alstroemeria_aurea/thumbnail/9065256170_72118879aa_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

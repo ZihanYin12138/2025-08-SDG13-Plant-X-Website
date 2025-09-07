@@ -1,0 +1,129 @@
+{
+  "id": 791,
+  "common_name": "pineapple",
+  "scientific_name": [
+    "Ananas comosus"
+  ],
+  "other_name": [],
+  "family": "Bromeliaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "comosus",
+  "genus": "Ananas",
+  "origin": [
+    "Brazil"
+  ],
+  "type": "Fruit",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Air Layering Propagation",
+    "Tissue Culture",
+    "Grafting Propagation",
+    "Offsets",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "11",
+    "max": "12"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=791&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=791&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green",
+        "green-pink",
+        "green-yellow"
+      ]
+    },
+    {
+      "part": "fruit",
+      "color": [
+        "yellow-green",
+        "yellow-pink"
+      ]
+    },
+    {
+      "part": "fruits",
+      "color": [
+        "green-yellow"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "December",
+    "January",
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "High",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=791&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": true,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Pineapple (Ananas comosus) is one of the most amazing fruits. It has a delicious sweet flavour with a hint of tanginess. It also boasts numerous incredible health benefits due to its high content of vitamins and minerals such as beta-carotene, potassium and magnesium. Plus, it is an excellent source of dietary fibre which helps regulate your digestive system. Pineapple is also known to boost your immunity, improve energy levels and fight off respiratory illnesses. On top of that, pineapple is incredibly low in calories making it a great snack for calorie-conscious individuals. All of these features combined make pineapple one of the most amazing fruits out there.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/791_ananas_comosus/og/34419208613_3b3d2ae347_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/791_ananas_comosus/regular/34419208613_3b3d2ae347_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/791_ananas_comosus/medium/34419208613_3b3d2ae347_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/791_ananas_comosus/small/34419208613_3b3d2ae347_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/791_ananas_comosus/thumbnail/34419208613_3b3d2ae347_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

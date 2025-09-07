@@ -1,0 +1,120 @@
+{
+  "id": 724,
+  "common_name": "aloe",
+  "scientific_name": [
+    "Aloe rauhii"
+  ],
+  "other_name": [],
+  "family": "Asphodelaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "rauhii",
+  "genus": "Aloe",
+  "origin": [
+    "Southern Madagascar"
+  ],
+  "type": "Cactus",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.25,
+      "max_value": 0.25,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Offsets",
+    "Leaf Cutting",
+    "Seed Propagation",
+    "Division"
+  ],
+  "hardiness": {
+    "min": "10",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=724&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=724&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"10-14\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green-white",
+        "burgundy-orange"
+      ]
+    },
+    {
+      "part": "thorns",
+      "color": [
+        "white"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=724&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Aloe rauhii is an amazing plant species, loved by many for its medicinal and cosmetic purposes. Its leaves contain a variety of compounds, including polysaccharides, aloin, and anthraquinone glycosides, that can be used to treat minor burns, cuts, and skin irritations. It is also known to purify the air and reduce stress and anxiety. This low-maintenance plant requires very little water and can survive in moderate temperatures year-round. Its gorgeous light green leaves produce yellow or red flowers, adding an eye-catching touch to any garden or windowsill. Whether you’re looking for a remedy or a beautiful decoration, Aloe rauhii is a perfect choice.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/724_aloe_rauhii/og/49632877987_c3e54f1a2f_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/724_aloe_rauhii/regular/49632877987_c3e54f1a2f_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/724_aloe_rauhii/medium/49632877987_c3e54f1a2f_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/724_aloe_rauhii/small/49632877987_c3e54f1a2f_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/724_aloe_rauhii/thumbnail/49632877987_c3e54f1a2f_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

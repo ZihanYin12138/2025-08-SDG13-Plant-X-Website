@@ -1,0 +1,135 @@
+{
+  "id": 700,
+  "common_name": "alluaudia",
+  "scientific_name": [
+    "Alluaudia humbertii"
+  ],
+  "other_name": [],
+  "family": "Didiereaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "humbertii",
+  "genus": "Alluaudia",
+  "origin": [
+    "Southern Madagascar"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 16,
+      "max_value": 20,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Air Layering Propagation",
+    "Cutting",
+    "Grafting Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "9",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=700&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=700&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "branches",
+      "color": [
+        "gray-green"
+      ]
+    },
+    {
+      "part": "thorns",
+      "color": [
+        "gray"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "May",
+    "August",
+    "February",
+    "February",
+    "March",
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=700&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": false,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Alluaudia humbertii, a plant native to Madagascar, is truly amazing. It stands out for its unique pear-shaped leaves, each with a black tip, which create an amazing display of color and texture on its branches. Its flowers are equally impressive, ranging from pale yellow to deep purple. It can survive in tough environments, such as temperatures of up to 45°C, and requires minimal water and maintenance, making it a great choice for dry climates. It is also resistant to fire and disease, providing a resilient and hardy choice to any garden. Add Alluaudia humbertii to your garden today, and be amazed by its stunning beauty and robustness.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/700_alluaudia_humbertii/og/25143368735_88b820549a_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/700_alluaudia_humbertii/regular/25143368735_88b820549a_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/700_alluaudia_humbertii/medium/25143368735_88b820549a_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/700_alluaudia_humbertii/small/25143368735_88b820549a_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/700_alluaudia_humbertii/thumbnail/25143368735_88b820549a_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

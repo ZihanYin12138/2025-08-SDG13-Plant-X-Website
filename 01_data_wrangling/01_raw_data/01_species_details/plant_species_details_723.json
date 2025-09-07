@@ -1,0 +1,119 @@
+{
+  "id": 723,
+  "common_name": "large Chimanimani aloe",
+  "scientific_name": [
+    "Aloe munchii"
+  ],
+  "other_name": [],
+  "family": "Asphodelaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "munchii",
+  "genus": "Aloe",
+  "origin": [
+    "Mozambique",
+    "Zimbabe"
+  ],
+  "type": "Cactus",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 9,
+      "max_value": 15,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Offsets",
+    "Leaf Cutting",
+    "Stem Propagation"
+  ],
+  "hardiness": {
+    "min": "9",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=723&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=723&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "trunk",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green",
+        "green-orange"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "August"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=723&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Large Chimanimani aloe (Aloe munchii) is an amazing plant species native to southern parts of Africa. This sturdy, fast-growing plant species has incredible hardiness features and is beloved for its gorgeous displays of variegated foliage. Its impressive evergreen leaves have a bright pattern that almost looks painted on, with thick spines running down their length. This species is drought-tolerant, requiring very little maintenance, and is great for adding color to borders, rock gardens, or large containers. Its stunning feather-like foliage will give your landscape an exotic, tropical feel. When in bloom, it produces large yellow-orange flowers that attract a variety of beneficial pollinators. Plus, it's a low-maintenance choice for gardeners who want show-stopping succulents that thrive for years!",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/723_aloe_munchii/og/4329678019_9e37d1442d_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/723_aloe_munchii/regular/4329678019_9e37d1442d_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/723_aloe_munchii/medium/4329678019_9e37d1442d_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/723_aloe_munchii/small/4329678019_9e37d1442d_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/723_aloe_munchii/thumbnail/4329678019_9e37d1442d_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
