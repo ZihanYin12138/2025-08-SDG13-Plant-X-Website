@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2179,
+      "species_id": 808,
+      "common_name": "windflower",
+      "scientific_name": [
+        "Anemone blanda 'Blue Star'"
+      ],
+      "section": [
+        {
+          "id": 6742,
+          "type": "watering",
+          "description": "Water your windflower (Anemone blanda ‘Blue Star’) 2 to 3 times per week. Check the soil moisture level before watering and water only when the soil is dry. Make sure the soil is damp but not overly soggy. During the active growing season in spring and early summer, water deeply to keep the soil moist. In the autumn months, reduce watering as the plant will not be actively growing at this time. During the winter, suspend watering altogether to give the plant time to go dormant."
+        },
+        {
+          "id": 6743,
+          "type": "sunlight",
+          "description": "Windflower (Anemone blanda 'Blue Star') prefers to grow in areas that receive full sunlight for at least part of the day. These plants are most successful when they receive full sun for a minimum of 6 hours a day, although they do well with up to 12 hours of direct sunlight each day. It is important to note that these plants may show signs of stress when exposed to too much direct sun, so it is recommended that they receive partial shade, especially during the hottest parts of the day. "
+        },
+        {
+          "id": 6744,
+          "type": "pruning",
+          "description": "Windflower (Anemone blanda 'Blue Star') should be pruned twice over the course of the season to keep the plants healthy and promote strong new growth. Pruning should be done once in early spring, just before the growth begins, and then again after flowering in the summer. When pruning in early spring, trim the foliage back to 1-2 inches above the ground. This helps remove any damaged leaves and keep the plant looking neat and tidy.\n\nWhen pruning after flowering, remove any dead or diseased stems, any old flower heads and any spindly branches. Leave the foliage intact, as this helps promote the growth of new flowers for the next season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

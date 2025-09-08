@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2167,
+      "species_id": 794,
+      "common_name": "pearly everlasting",
+      "scientific_name": [
+        "Anaphalis margaritacea"
+      ],
+      "section": [
+        {
+          "id": 6706,
+          "type": "watering",
+          "description": "Generally, pearly everlasting requires consistently moist soil, but it can tolerate occasional dry spells. Water pearly everlasting when the top inch of soil is dry. Water the soil thoroughly, making sure to drench the root zone, and let the soil dry out before watering again. During the summer months, water pearly everlasting 2 to 3 times a week depending on how hot and dry it is. In the cooler months, it is best to reduce the frequency of watering. In regions with high rainfall, pearly everlasting may not require additional watering."
+        },
+        {
+          "id": 6707,
+          "type": "sunlight",
+          "description": "Pearly everlasting (Anaphalis margaritacea) does best in full sun. It prefers long days and 6 to 8 hours of direct sunlight per day. However, it should be protected from the hot afternoon sun in warmer climates, to prevent it from wilting or burning. Additionally, this plant does well in the dappled sunlight found under trees or large shrubs. If growing in a shady spot, look for an area that still receives some direct sun for a few hours during the day."
+        },
+        {
+          "id": 6708,
+          "type": "pruning",
+          "description": "Pearly everlasting (Anaphalis margaritacea) does not require regular pruning. Pruning is only necessary if the plant becomes unsightly, or exceeds the desired height. Prune in late winter or early spring, when the plant is completely dormant. To prune, cut the plant back to 6-8 inches from the ground, aiming for an even height and shape. Be sure to use sharp pruning shears to avoid damaging the branches. After pruning, remove dead or diseased branches and apply mulch around the base of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

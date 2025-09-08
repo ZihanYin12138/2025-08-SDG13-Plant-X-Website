@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2232,
+      "species_id": 876,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia 'Dove'"
+      ],
+      "section": [
+        {
+          "id": 6901,
+          "type": "watering",
+          "description": "Columbine (Aquilegia 'Dove') is an easy-to-care-for perennial with delicate blooms that will add a splash of color to any garden. This plant prefers well-draining soil and a bright location with part to full shade. To keep these plants thriving, they require regular watering.\n\nWater columbine deeply and consistently to keep the soil moist but not soggy or wet. During the spring and summer months, the plants will need to be watered once to twice a week, depending on the temperature and the amount of rainfall. During the cooler months, when the plants are in a dormant stage, water once every 2 weeks. In periods of extreme heat or drought, providing an additional watering may be beneficial to ensure adequate moisture levels."
+        },
+        {
+          "id": 6902,
+          "type": "sunlight",
+          "description": "The Columbine (Aquilegia 'Dove') grows best in full sun to partial shade. It prefers at least 6 hours of sunlight per day but can tolerate as much as 8 hours of direct direct sunlight. It can also tolerate partial shade conditions with enough indirect light. It should not be planted in areas that get less than 4 hours of sunlight a day. The plant should be watered regularly and deeply, allowing the soil to dry out between watering."
+        },
+        {
+          "id": 6903,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia 'Dove') should be pruned once a year in late winter or early spring before new growth appears. Begin by removing any dead or damaged stems or leaves. If the plant is suffering from overcrowding, remove some of the older stems at the base to encourage healthier stem growth from the root. If the plant is overgrown, prune up to 1-third of the stems back leaving 1-2 inches of stem above the soil. After completing the pruning, apply a light layer of mulch and water the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

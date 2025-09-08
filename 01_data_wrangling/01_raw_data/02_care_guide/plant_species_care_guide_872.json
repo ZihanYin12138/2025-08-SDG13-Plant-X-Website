@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2228,
+      "species_id": 872,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia canadensis 'Corbett'"
+      ],
+      "section": [
+        {
+          "id": 6889,
+          "type": "watering",
+          "description": "Columbine (Aquilegia canadensis 'Corbett') is a beautiful perennial that thrives in semi-shady areas. When planted in the garden, it requires plenty of moisture, but not overly wet soil. You should water columbine plants deeply and thoroughly every 5-7 days during the summer months, making sure to saturate the ground deeply. In the cooler months, extending the time between waterings to 10-15 days is fine. Always water in the morning or early afternoon and avoid wetting the foliage, as this can promote disease. In areas that experience a dry winter, an occasional watering may be necessary to help keep the plants healthy."
+        },
+        {
+          "id": 6890,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia canadensis 'Corbett') prefers full sun to partial shade and requires 4-6 hours of direct sunshine per day. This species thrives in areas that experience bright morning light and filtered afternoon light. During the summer months, Columbine should receive morning sun and afternoon shade, and during the winter it should get more direct sun, especially if it is growing in a cooler on northern climates. Columbine should be placed in an area where it will receive indirect sunlight for the best growth and blooms. It is best to avoid direct sunlight in the middle of the day when it is the hottest."
+        },
+        {
+          "id": 6891,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia canadensis 'Corbett') should typically be pruned lightly each year in late winter or early spring before new growth begins. Cut back any dead flower stalks to the base, cut any overgrown stems back by a third to a half, and remove any twiggy or crossed branches. Columbine does not require heavy pruning and should only have minimum amounts taken each year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

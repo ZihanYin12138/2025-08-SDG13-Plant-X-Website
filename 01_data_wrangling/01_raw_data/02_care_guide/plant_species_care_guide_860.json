@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2218,
+      "species_id": 860,
+      "common_name": "snapdragon",
+      "scientific_name": [
+        "Antirrhinum majus SNAPTASTIC ORANGE FLAME"
+      ],
+      "section": [
+        {
+          "id": 6859,
+          "type": "watering",
+          "description": "Water Snapdragons weekly, allowing the soil to dry out slightly between waterings. On average, you should water your Snapdragons a total of 1-2 inches per week. This can be achieved by about 10 minutes of irrigation every other day, or up to 20 minutes of irrigation 2 to 3 times a week. Keep an eye and feel the moisture of the soil. If the soil feels dry up to your second knuckle, it is time to water. Avoid over or under-watering because this can cause problems with nutrients and tissue damage."
+        },
+        {
+          "id": 6860,
+          "type": "sunlight",
+          "description": "Snapdragon (Antirrhinum majus SNPTASTIC ORANGE FLAME) thrives best with full sunlight at least 6 to 8 hours a day. This plant prefers direct sunlight for most of its growth period to ensure beautiful blooms. If you live in a hot, sunny climate, this snapdragon may tolerate slightly less sun, but will still need to receive at least 4 to 6 hours of sunlight daily. If growing the plant indoors, it will need to be placed in a bright south or east facing window and may need to be supplemented with artificial lighting for additional hours of light. In colder climates, where the sun may not be as intense, the snapdragon will still benefit from an hour or 2 of direct sunlight a day and also from bright, indirect light for a few hours each day."
+        },
+        {
+          "id": 6861,
+          "type": "pruning",
+          "description": "For the Snapdragon (Antirrhinum majus Snaptastic Orange Flame) species pruning should be done 2 times per year. In the spring, as soon as you see new growth, pinch off the top 3 inches of each stem with your thumb and index finger. This encourages a bushy shape and encourages lots of flower production. In late midsummer after flowering has begun to decline, cut the stems back to 6 inches. This will encourage branching and lead to an even better showing of flowers in the late summer and fall."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

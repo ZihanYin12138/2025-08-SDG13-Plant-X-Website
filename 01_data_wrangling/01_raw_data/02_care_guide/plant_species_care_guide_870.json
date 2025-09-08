@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2226,
+      "species_id": 870,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia caerulea 'Rotstern'"
+      ],
+      "section": [
+        {
+          "id": 6883,
+          "type": "watering",
+          "description": "Columbine should be watered regularly but not over-saturated. Keep the soil slightly moist by watering deeply once every 7 to 10 days during the plant's growing season (spring and summer). During the autumn and winter periods, when the plant is dormant, watering should only take place in periods of extended dryness. Water deeply enough to saturate the soil but avoid overwatering, as this could damage the roots."
+        },
+        {
+          "id": 6884,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia caerulea 'Rotstern') should receive at least 6 hours of direct sunlight each day in order to grow and thrive. They are not particularly picky when it comes to the timing of this sunlight—it can be morning, afternoon, or a combination of the 2. However, try to avoid giving columbine direct midday sun, as it can be intense and cause damage to the plants. When the temperature rises in the warmer months, ensure columbine is being provided with afternoon shade to provide relief from the heat."
+        },
+        {
+          "id": 6885,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia caerulea 'Rotstern') should be pruned in late winter or early spring. The plant should be pruned back by approximately 1-half, removing any dead, spindly, or damaged portions of the plant. Take care to not cut healthy foliage. If an overall shape of the plant is desired, thin-out individual branches to reduce the overall size and improve air circulation to reduce fungal problems. To keep the plant orderly, remove dead flower stems as they appear. Additionally, removing the flower heads before they go to seed will help to prevent spreading."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2212,
+      "species_id": 851,
+      "common_name": "golden chamomile",
+      "scientific_name": [
+        "Anthemis tinctoria 'Charme'"
+      ],
+      "section": [
+        {
+          "id": 6841,
+          "type": "watering",
+          "description": "Golden chamomile requires well-drained soil and prefers full sun or lightly filtered shade. Water this plant regularly but do not overwater. Water deeply when the top 1-2 inches of soil is dry, about once a week to every other week. In very hot climates, water more often. It is best to water in the morning so that the leaves will be dry by the evening when temperatures tend to dip. Avoid overhead watering which can encourage disease."
+        },
+        {
+          "id": 6842,
+          "type": "sunlight",
+          "description": "Golden chamomile (Anthemis tinctoria 'Charme') needs 6-8 hours of direct sunlight each day, during the peak of the summer season. It’s best to give these plants full sun in the early morning and late afternoon hours, while providing partial or filtered sun during the hotter afternoon hours and on particularly hot days. If you live in a region with cooler temperatures, your golden chamomile can also receive some shade or less direct sunshine."
+        },
+        {
+          "id": 6843,
+          "type": "pruning",
+          "description": "Golden chamomile should be pruned in the spring, before it produces flowers. When pruning, remove any dead or damaged stems, and trim the remaining stems by 1-third. This will help promote dense, bushy growth and ensure that the plant will produce the maximum amount of flowers. After the initial pruning, it may be necessary to do a light pruning in the summer to prevent the plant from becoming too leggy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

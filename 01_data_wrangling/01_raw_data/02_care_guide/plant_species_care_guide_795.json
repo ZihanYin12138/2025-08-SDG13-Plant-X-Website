@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2168,
+      "species_id": 795,
+      "common_name": "pearly everlasting",
+      "scientific_name": [
+        "Anaphalis triplinervis"
+      ],
+      "section": [
+        {
+          "id": 6709,
+          "type": "watering",
+          "description": "Pearly everlasting (Anaphalis triplinervis) should be watered regularly to keep the soil moist but not waterlogged. During the first few weeks after planting, water daily until the plant is well-established. As the plant matures, you can reduce watering to every 1-2 days. During drier periods, you may need to water more often. You can check the soil with your finger to determine if the soil is dry or moist; if the soil is dry 2 cm (0.8 inches) below the surface, it is time to water. Make sure to water thoroughly until excess water runs out of the drainage holes. Pearly everlasting prefers light, regular watering rather than heavy, deep watering."
+        },
+        {
+          "id": 6710,
+          "type": "sunlight",
+          "description": "Pearly everlasting requires full sun to thrive and bloom best. Depending on where it is planted, the sun can provide 6 to 8 hours of direct sunlight each day. Morning sun is particularly important for this plant species due to its large flower heads that can be easily burned by intense afternoon sun."
+        },
+        {
+          "id": 6711,
+          "type": "pruning",
+          "description": "Pearly everlasting (Anaphalis triplinervis) should be pruned each season in the late winter or early spring before new growth appears. Pruning should involve the removal of any dead, damaged or diseased sections of the plant. If necessary, the plant can also be lightly thinned in order to promote air circulation and increase sun penetration throughout the canopy. Generally, no more than 1/3 of a plant's stems should be removed during pruning. Additionally, pruning the flowering stems just after they have finished blooming will help to encourage repeat flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

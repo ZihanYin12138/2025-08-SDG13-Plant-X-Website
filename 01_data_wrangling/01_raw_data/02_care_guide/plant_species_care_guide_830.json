@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2198,
+      "species_id": 830,
+      "common_name": "Japanese anemone",
+      "scientific_name": [
+        "Anemone 'Red Riding Hood'"
+      ],
+      "section": [
+        {
+          "id": 6799,
+          "type": "watering",
+          "description": "Water Japanese anemone (Anemone 'Red Riding Hood') generously during the growing season, once weekly or more if there are extended periods of hot, dry weather. Make sure the top 2 inches of the soil is moist but avoid over-watering as this can cause root rot. Reduce watering slightly in the winter, and allow the soil to dry out a bit between waterings."
+        },
+        {
+          "id": 6800,
+          "type": "sunlight",
+          "description": "Japanese anemones (Anemone 'Red Riding Hood') thrive in full sunlight for at least 6 hours per day. However, direct sun for too long can lead to wilting or even burning of the foliage. It’s best to allow a few hours of direct sun in the morning, then give the plant shade or filtered sunlight in the afternoon. If possible, it's ideal to find an area where the plant can receive some late afternoon shade or cover it with cheesecloth or another breathable shade cloth in the afternoon. Provide plenty of ventilation to reduce the chances for disease that thrives in damp hot conditions."
+        },
+        {
+          "id": 6801,
+          "type": "pruning",
+          "description": "It is best to prune Japanese anemone (Anemone 'Red Riding Hood') in early spring, before new growth appears. This can help to keep the plant from getting too large and promote strong and healthy growth. Pruning should be done sparingly, removing only spent flowers and any dead or damaged stems. Removing too much foliage can harm the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

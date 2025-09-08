@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2204,
+      "species_id": 838,
+      "common_name": "angelonia",
+      "scientific_name": [
+        "Angelonia angustifolia SERENA MIXTURE"
+      ],
+      "section": [
+        {
+          "id": 6817,
+          "type": "watering",
+          "description": "Angelonia angustifolia should be watered deeply and regularly. Water once a week in the summer, and every 2 weeks in the winter. When there is a hot spell or a lot of rain in the summer months, water more frequently. The soil should be kept moist but not wet. Make sure to check the soil regularly to make sure that it is not too dry and not too wet. Apply water at the base of the plant to avoid splashing the leaves and help prevent disease. Angelonia angustifolia are quite drought tolerant once they become established, but regular watering is needed for best growth and flowering."
+        },
+        {
+          "id": 6818,
+          "type": "sunlight",
+          "description": "Angelonia angustifolia Serena Mixture benefits from full-sun exposure for best flowering and growth. This plant species requires at least 6 hours of direct sunlight daily in order to thrive, although it can tolerate a few hours of partial shade during the hottest parts of the day. It should be placed in an area that receives direct sunshine between the hours of around 8am-5pm. However, during the warmer months, it is important to provide Angelonia angustifolia Serena Mixture with some afternoon shade when possible, as full sun exposure in midday can be too intense and place undue stress on the plant."
+        },
+        {
+          "id": 6819,
+          "type": "pruning",
+          "description": "Angelonia (Angelonia angustifolia SERENA MIXTURE) should be pruned in the late winter or early spring before new growth begins. Pruning should be done moderately, as it can help keep the plant bushy and promote bloom. Deadhead spent flowering stems for a new flush of blooms. Prune back up to 1-third of the overall height of the plant to promote bushier growth. Don't prune too severely, as this can damage the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2221,
+      "species_id": 865,
+      "common_name": "Indian hemp",
+      "scientific_name": [
+        "Apocynum cannabinum"
+      ],
+      "section": [
+        {
+          "id": 6868,
+          "type": "watering",
+          "description": "Indian hemp should be watered once every 7-10 days, depending on the temperature and humidity conditions. A good rule of thumb is to water only when the top 1-2 inches of soil dry out. Be sure not to overwater the plant, as this can lead to root rot. Start by giving it a good soaking, then wait for the soil to dry out between waterings. Too little water can make the leaves droop and slow down the growth of the plant."
+        },
+        {
+          "id": 6869,
+          "type": "sunlight",
+          "description": "Indian hemp does best in full sun and requires at least 6-8 hours of direct sunlight each day to thrive. It is also tolerant to partial shade and can thrive with as little as 4-5 hours of sunlight each day. For optimal growth, it should be planted in a location with direct sunlight for most of the day, with some light shade in the afternoon. Indian hemp also tends to do well in areas with high humidity, such as near a lake or pond."
+        },
+        {
+          "id": 6870,
+          "type": "pruning",
+          "description": "It is recommended to prune Indian hemp (Apocynum cannabinum) plants in late spring or early summer. To prune, cut or pinch off the lateral shoots from the stem and leaves in order to reduce the plant size and stimulate bushier production. Pruning also helps to remove dead or old growth, which can promote new, healthy growth. To prevent over-pruning, it is important to leave at least 2 or 3 leaves on each shoot. In general, pruning should only be done when necessary and should not exceed 30% of a plant’s growth at any given time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

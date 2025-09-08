@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2223,
+      "species_id": 867,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia (Biedermeier Group)"
+      ],
+      "section": [
+        {
+          "id": 6874,
+          "type": "watering",
+          "description": "Columbine (Aquilegia (Biedermeier Group)) should be watered when the top couple of inches of soil have dried out. Generally, this will mean watering it every few days in spring and fall, and every day during the summer, although the exact frequency may depend on factors such as temperatures and humidity. To determine how much to water for each session, use the “finger test”. Stick your index finger into the soil up to the first knuckle; if it feels damp, the plant has enough water. If not, water until the soil is slightly damp but not soggy. When watering, make sure to saturate the potting mix, then allow it to slowly drain away."
+        },
+        {
+          "id": 6875,
+          "type": "sunlight",
+          "description": "Columbine plants need approximately 4- 5 hours of direct sunlight per day. They prefer bright sunlight in the morning and a shady spot to grow during the hottest hours of the day, usually in the afternoon. Columbine plants need to be protected from direct midday or evening sun in order to prevent leaf burn. In regions with long winters and cool summers, Columbines should be planted in a spot where they will receive a steady supply of bright sunlight throughout the day."
+        },
+        {
+          "id": 6876,
+          "type": "pruning",
+          "description": "Columbine should be pruned lightly in late winter or early spring before new growth begins. This encourages bolder flowering. You should cut back overgrown plants to about 18 inches to 3 feet tall. Remove any dead, dying or diseased stems. Cut off any shoots that appear lower than the desired height or that are growing away from the clump. Prune spent flowers to the base after blooming. Do not prune flowering stems too hard as this will reduce the number of flowers. Always sterilise pruning tools between cuts, and wear garden gloves when pruning to avoid spreading diseases."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2169,
+      "species_id": 796,
+      "common_name": "blue bugloss",
+      "scientific_name": [
+        "Anchusa azurea"
+      ],
+      "section": [
+        {
+          "id": 6712,
+          "type": "watering",
+          "description": "For healthy growth and flowering of blue bugloss, it needs to be watered regularly. Water the plant deeply twice a week (every 3-4 days), during the growing season, making sure the soil is completely saturated. In hotter conditions water more frequently. Reduce the amount of water in cool to mild temperatures to avoid root rot. During winter reduce watering to once a month, allowing the soil to become almost dry between each watering."
+        },
+        {
+          "id": 6713,
+          "type": "sunlight",
+          "description": "Blue bugloss is an herbaceous perennial plant that needs full sun to part shade in order to thrive. The plant prefers 6-8 hours of bright sunlight every day and can tolerate some light afternoon shade. However, during the hottest parts of the day, the plant should be provided with some shade to prevent sun damage. When grown in hotter climates, blue bugloss should be provided with some afternoon shade to ensure the plant thrives."
+        },
+        {
+          "id": 6714,
+          "type": "pruning",
+          "description": "Blue bugloss should be pruned annually in the late summer or early autumn. To maintain a neat and attractive shape, lightly trim the plant to reduce the overall size once flowering is done. Deadheading the flowers (removing the flowers as they fade) is important to ensure that the plant maintains its energy for bloom. If needed, trim each stem down to the source, as it will help to promote thick, bushy growth. Avoid cutting into the woody area of the stems as this may kill the plant. Renewal pruning (removing the oldest stems) may be done every 3-4 years to keep the plant vigorous and to stimulate blooms."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

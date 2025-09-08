@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2220,
+      "species_id": 864,
+      "common_name": "celeriac",
+      "scientific_name": [
+        "Apium graveolens var. rapaceum 'Diamant'"
+      ],
+      "section": [
+        {
+          "id": 6865,
+          "type": "watering",
+          "description": "Celeriac (Apium graveolens var. rapaceum 'Diamant') is a plant that needs plenty of water during the growing season. The best time to water celeriac is when the soil is dry to a depth of about 2 inches (5 cm). Water the plant slowly and deeply and let the soil dry out slightly before watering again. This will help the plant produce better roots and stronger plants. Celeriac should be watered about twice per week when the weather is hot and dry, and less frequently in cooler months. In areas with heavy rainfall, generally water every 5 to 10 days."
+        },
+        {
+          "id": 6866,
+          "type": "sunlight",
+          "description": "Celeriac (Apium graveolens var. rapaceum 'Diamant') does best with 6-8 hours of direct sunlight during the growing season. This amount of light is necessary for the plant to produce the best quality of celeriac, and should generally be in the form of full, direct sunlight. During the summer, it's best to provide the plant with the full 6-8 hours of direct sun. For spring and fall, a few hours of indirect sunlight can help the plant to stay healthy and produce a nice crop. If the plant does not receive enough sun, it may not reach its full potential in terms of flavor and size."
+        },
+        {
+          "id": 6867,
+          "type": "pruning",
+          "description": "Celeriac should be pruned in the spring or fall, depending on the region. Pruning should be limited to removing any crossing or dead branches. As celeriac grows, remove any branches that are growing between the main stems. If the stem is longer than desired, it can be shortened. Cut back any side shoots from the growing points to encourage the formation of thick stems. To control the size, cut the center stem back to the desired height. This will also encourage side shoots to form, keeping the plant full and thick. Prune the top of stems to encourage lateral growth. If the center of the plant becomes too crowded, remove some of the interior stems."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

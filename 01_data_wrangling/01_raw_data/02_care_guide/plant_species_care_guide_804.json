@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1413,
+      "species_id": 804,
+      "common_name": "bushy bluestem",
+      "scientific_name": [
+        "Andropogon glomeratus"
+      ],
+      "section": [
+        {
+          "id": 4264,
+          "type": "watering",
+          "description": "Bushy bluestem should be watered deeply every 2 weeks during the growing season (spring, summer, and fall). Allow the soil to slightly dry out before watering again. During the dryer and warmer summer months, you should increase the amount and frequency of water, keeping the soil slightly moist but not waterlogged. When watering, soak the ground for around 10 minutes or until the water has penetrated the full root area, this will help the bluestem develop a deep root system. In late fall and winter, you should reduce the amount of water as necessary, taking into account the temperature and rainfall in your area."
+        },
+        {
+          "id": 4265,
+          "type": "sunlight",
+          "description": "Bushy bluestem (Andropogon glomeratus) grows best in full sun, with at least 6 hours of direct sunlight daily. In areas with hot summers, dappled or partial shade is preferable in the afternoon. Too much shade can result in floppy stems, making the plant look untidy. Some morning sun is still beneficial, since this species doesn't tolerate full shade. As long as the plant receives plenty of light throughout the day, it should thrive with bushier forms and more abundant flowering."
+        },
+        {
+          "id": 4266,
+          "type": "pruning",
+          "description": "Pruning for bushy bluestem should be done each spring, shortly after its active growth period begins. Generally, it should be pruned back between 1/3 to 1/2 of its normal size, keeping the clump of plants at a manageable size and allowing for adequate air flow. Pruning can also help create a thick, lush mature stand. Be careful to not cut back any foliage that has lines going through it as this is typically new growth, and be sure to remove any dead flower heads from the previous season’s growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

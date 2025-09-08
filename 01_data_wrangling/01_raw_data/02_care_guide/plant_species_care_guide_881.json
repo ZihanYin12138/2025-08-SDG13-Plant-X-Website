@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2236,
+      "species_id": 881,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia flabellata var. pumila 'Rosea'"
+      ],
+      "section": [
+        {
+          "id": 6913,
+          "type": "watering",
+          "description": "Columbine (Aquilegia flabellata var. Pumila 'Rosea') should be watered once every 7-10 days in Spring and Summer, and once every 10-14 days in late Summer and Autumn. The soil should be kept slightly moist but not soggy; use the tip of your finger to check soil moisture. If the top inch of soil feels very dry, then it is time to water. During the winter months, water the plant no more than once every month as it goes dormant. Too much water can lead to root rot, so use care when watering and always check the soil before doing so."
+        },
+        {
+          "id": 6914,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia flabellata var. pumila 'Rosea') is best grown in sunny, well-drained soil. It does best with at least 6 to 8 hours of direct sunlight each day. During colder months, when temperatures fall below 0, the plant should be protected from frost or hard freeze. In the warmer months, part shade can be beneficial, to help preserve moisture and reduce the risk of sunburn. Columbine does well with consistent watering, but should never be kept exceedingly moist. During the active growth period, it should receive regular watering. Once the plant enters dormancy in the winter months, it needs very little water, and can even survive short dry spells. Columbine will grow in both partial shade and full sun, but tends to adapt better and bloom more profusely when planted in full sun locations."
+        },
+        {
+          "id": 6915,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia flabellata var. pumila 'Rosea') should be pruned at the end of summer or early fall after flowering is complete but before the first frost. Prune any dead, diseased or damaged stems and faded flowers to the base of the plant. To maintain the shape and size of the plant, remove 1-third to 1-half of the old stems at the base of the plant. This will give the plant ample space to produce flowers the following year and encourage healthy, bushy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

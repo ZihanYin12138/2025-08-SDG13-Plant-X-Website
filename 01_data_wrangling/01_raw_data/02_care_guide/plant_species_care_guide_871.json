@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2227,
+      "species_id": 871,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia canadensis"
+      ],
+      "section": [
+        {
+          "id": 6886,
+          "type": "watering",
+          "description": "Columbine (Aquilegia canadensis) requires regular watering to ensure optimal health and flowering. When it’s actively growing, during the spring and summer, the plant should be watered deeply, about once a week. Allow the soil to dry out between waterings; overwatering can cause root rot or cause the foliage to become susceptible to disease. During the winter, don’t water at all, as the plant is dormant. When watering, use lukewarm water as cold water may shock the plant and lead to poor growth. To check if your columbine needs watering, simply insert your finger into the soil. If the top few inches of soil are dry, it’s likely time to water."
+        },
+        {
+          "id": 6887,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia canadensis) requires 6 to 8 hours of direct sunlight a day. The best time for providing optimal light is during the morning (between 7am and 10am) when the sun is less intense. Columbines prefer part shade or filtered light during the afternoon hours when the sun is more intense. The plant should be placed in a south or east facing window where it will not be exposed to the full intensity of the sun each afternoon. In the winter months, columbines will need more direct sunlight than during summer months. During the winter, they should be placed in a window that receives full sun with no obstructions."
+        },
+        {
+          "id": 6888,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia canadensis) should be pruned after flowering. Remove spent flower stems and any stems that are too weak or dead. Start by cutting back the stems with the dead flowers immediately after the blooms have wilted. Cut them back to within 2-3 inches of the main stem. After a week or so you may want to cut back the remaining stems to a height of between 12 and 18 inches. This will help to promote healthy new growth. It is best to avoid heavy pruning of Columbine, as it can reduce the plant’s growth and flowering potential."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

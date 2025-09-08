@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2206,
+      "species_id": 844,
+      "common_name": "anomatheca",
+      "scientific_name": [
+        "Anomatheca laxa"
+      ],
+      "section": [
+        {
+          "id": 6823,
+          "type": "watering",
+          "description": "Anomatheca (Anomatheca laxa) should be watered frequently but lightly. During the growing season (spring to fall), water the plant deeply every week or 2 as needed. The soil should be moist but not soggy. In the winter, water only when the soil is dry, about once a month if necessary. Do not forget to water the plant near its base instead of overhead, as this can cause fungal diseases."
+        },
+        {
+          "id": 6824,
+          "type": "sunlight",
+          "description": "Anomatheca (Anomatheca laxa) is a plant species that thrives in sunny conditions. As such, this plant needs a minimum of 6-8 hours of direct sunlight each day in order to grow and prosper. When it comes to the amount of sunlight that this plant needs, the recommended amount should fall between full sun and partial shade—full sun is ideal, but some shade may be necessary during peak summer days. Additionally, anomatheca plants need several weeks with direct sun exposure in order to flower throughout the growing season. While this plant will tolerate shade, its growth will be stunted with not enough sunlight."
+        },
+        {
+          "id": 6825,
+          "type": "pruning",
+          "description": "Anomatheca laxa should be pruned after the plant has finished blooming. It is generally recommended that pruning be done by cutting back long stems to half their current length. To keep the plant looking nice, remove any faded flowers and any thin, long stems. This will encourage new blooms to come in over time. For best results, prune Anomatheca laxa on an annual basis during the spring or summer months."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

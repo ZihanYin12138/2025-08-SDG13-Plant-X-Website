@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2184,
+      "species_id": 815,
+      "common_name": "Japanese anemone",
+      "scientific_name": [
+        "Anemone hupehensis var. japonica 'Bodnant Burgundy'"
+      ],
+      "section": [
+        {
+          "id": 6757,
+          "type": "watering",
+          "description": "Japanese anemone should be watered every 7–14 days, depending on the weather and the type of soil they are planted in. They should be watered deeply so that the soil is soaked through. During dry periods, more frequent watering will be required. To prevent over-watering, allow the top 1–2 inches of soil to dry out before watering again, and also make sure the soil has good drainage. Ideally, water should be applied to the soil near the base of the plant, rather than on the leaves."
+        },
+        {
+          "id": 6758,
+          "type": "sunlight",
+          "description": "Japanese anemone (Anemone hupehensis var. japonica `Bodnant Burgundy’) is a shade-loving plant and does best with indirect light or open dappled shade on most of the day. During summer, a few hours of direct sunlight in the morning or late afternoon is beneficial for the growth of the plant. During winter, it should receive at least 4 hours of morning sun and 7 hours of twilight. If the plants are kept in an area that receives too much direct sun, the foliage may burn and the plant may become leggy and thin."
+        },
+        {
+          "id": 6759,
+          "type": "pruning",
+          "description": "Japanese anemone (Anemone hupehensis var. japonica 'Bodnant Burgundy') should be pruned in Spring after the flowering season is over and all the dead foliage is removed. Pruning should involve removing any weak, damaged and crossing branches. The desired amount of pruning is up to half of the plant’s height. Pruning should also be done to ensure good air circulation within the plant, as well as to encourage the development of a strong central leader. Pruning should be done gradually and with care to avoid causing damage, and any pruned shoots should be discarded. It is best to wear protective gloves and use a sharp pair of pruners during the pruning activity."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

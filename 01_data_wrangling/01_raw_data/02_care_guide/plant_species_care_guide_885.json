@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2239,
+      "species_id": 885,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia (McKana Group)"
+      ],
+      "section": [
+        {
+          "id": 6922,
+          "type": "watering",
+          "description": "Columbine (Aquilegia (McKana Group)) should be watered generously, every 5-7 days, depending on the weather. If your Columbine is growing in a container, water it when the top 2 inches of soil are dry. If you're growing it in the ground, water it when the soil is dry 1-2 inches deep. During extreme heat or draughts, you may need to water your Columbine more often. Avoid over-watering, Columbine does not like wet feet. Make sure it doesn't sit in soggy soil or standing water, as this will cause root rot."
+        },
+        {
+          "id": 6923,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia McKana Group) plants prefer partial to full sun and should be grown in well-draining soil. The soil should have a pH between 5.8–8.0. Depending on the cultivar, Columbine can reach heights of 24–36 inches.\n\nColumbine plants do best in 6-8 hours of direct sunlight per day. Generally, it's best to provide early morning sun with some afternoon shade, especially in hotter climates. This will help protect the plants from scorching in the heat of the day.\n\nColumbine plants can also benefit from filtered or indirect sunlight, such as partial shade that is provided by large trees or buildings. This type of light is usually enough for the plants to thrive and flower profusely.\n\nIn winter, Columbine should receive less light, as the plants need a break from its longer summer growing cycle. During this time, it's best to provide 3 to 4 hours of indirect sunlight per day, and more in the cooler climates of the northern regions."
+        },
+        {
+          "id": 6924,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia (McKana Group)) should be lightly pruned in the early spring, just before active growth begins. This pruning should focus on removing any dead or diseased stems, as well as any shoots that have grown too large or are competing with other stems within the same clump. Additionally, if the columbine has been in the same spot for a few years, it is a good idea to prune it back by a third or more to encourage a flush of new growth. Pruning too hard in any given season can shock the plant, so it is best to prune gradually over multiple seasons."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

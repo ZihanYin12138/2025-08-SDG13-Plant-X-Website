@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 532,
+      "species_id": 827,
+      "common_name": "wood anemone",
+      "scientific_name": [
+        "Anemone nemorosa 'Blue Eyes'"
+      ],
+      "section": [
+        {
+          "id": 1595,
+          "type": "watering",
+          "description": "Wood anemone should be watered on a regular basis. During the spring and summer, water the plant approximately once every 7-10 days, depending on the soil and environmental conditions in your yard. During the winter, water the plant once every 4-6 weeks to prevent the soil from drying out too much. When watering wood anemone, be sure to keep the soil moist, but not saturated. Overwatering can quickly lead to root rot and other plant problems."
+        },
+        {
+          "id": 1598,
+          "type": "sunlight",
+          "description": "Wood anemone is a species of plant that loves sun and will thrive in a location where it has access to 3-6 hours of direct sunlight each day. Where possible, the plant should get the most amount of sunlight in the morning and less in the later afternoon. If the plant is grown indoors, choosing the sunniest aspect of the house is essential."
+        },
+        {
+          "id": 1600,
+          "type": "pruning",
+          "description": "When pruning wood anemone, it is important to do so in the late spring following the blooms. This should be done by removing any dead or diseased stems and cutting back the foliage to no more than a couple of inches above the ground. The amount that you should prune will depend on the health of the plant. If your wood anemone is healthy, you may be able to skip pruning altogether."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

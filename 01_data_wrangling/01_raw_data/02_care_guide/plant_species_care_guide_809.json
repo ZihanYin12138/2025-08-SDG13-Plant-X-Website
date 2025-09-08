@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 423,
+      "species_id": 809,
+      "common_name": "windflower",
+      "scientific_name": [
+        "Anemone blanda 'White Splendour'"
+      ],
+      "section": [
+        {
+          "id": 329,
+          "type": "watering",
+          "description": "Windflower is a drought tolerant plant that can benefit from occasional summer watering when the soil is dry. In general, they should be watered every 7-10 days in the summer or when the top inch of soil is dry.\n\nIn the winter, when the plant is dormant, you can reduce the frequency of watering to approximately once a month. You should water deeply and slowly at the base of the plant using a watering can, making sure to moisten the soil all the way to the bottom of the pot. Allow the soil to dry out in between waterings and avoid making the soil soggy."
+        },
+        {
+          "id": 330,
+          "type": "sunlight",
+          "description": "Light and sunlight requirements for windflower (Anemone blanda 'White Splendour') are that it prefers full sun, but will grow and bloom in partial shade. It's ideal exposure is 4 to 6 hours of direct sunlight per day. For best flower production and overall plant health, it’s important to ensure that the plant receives adequate direct sunlight for most of the day. When exposed to direct sunlight for more than 6 hours continuously, the leaves may scorch and curl. Therefore, it is essential to provide proper filtered shade to prevent this."
+        },
+        {
+          "id": 331,
+          "type": "pruning",
+          "description": "Windflower should be pruned in late spring or early summer after blooming has ended. The amount of pruning should be minimal and limited to removing old leaves and flower stalks. Start by removing any wilted, yellowed, or discolored leaves and then prune off any flower stalks that have gone past their prime. Trim off any dead buds or twigs to prevent them from returning in the Southern Hemisphere’s autumn or winter. When done, the windflower should look neat and tidy, but still retaining its natural shape and size. Be sure to use a sharp pair of garden scissors and cut at a 45-degree angle for a neat look."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

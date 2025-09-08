@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2215,
+      "species_id": 854,
+      "common_name": "St. Bernard's lily",
+      "scientific_name": [
+        "Anthericum liliago"
+      ],
+      "section": [
+        {
+          "id": 6850,
+          "type": "watering",
+          "description": "St. Bernard's Lily requires regular watering to keep the soil consistently moist, especially during the hot summer months. During the spring and summer, water the plant every 1-2 weeks, allowing the top 2 inches of soil to dry out before watering again. In the winter, water should be decreased to once a month or less. In addition to regular watering, the plant provides best growth in a warm and humid environment."
+        },
+        {
+          "id": 6851,
+          "type": "sunlight",
+          "description": "St. Bernard's lily requires full sun or partial sun for optimal growth. It should be planted in an area that receives at least 6 to 8 hours of direct sunlight each day. This plant species grows best in areas with USDA hardiness zones 8 to 10. In cooler zones, it should be planted in a sheltered spot where it will receive protection from cold weather. During the hottest part of the summer, the lily may benefit from afternoon shade or filtered light to protect it from too much heat."
+        },
+        {
+          "id": 6852,
+          "type": "pruning",
+          "description": "Prune St. Bernard's lily (Anthericum liliago) in late winter before new growth emerges. Cut the stems down to the base of the plant to promote dense, bushy growth. Remove any damaged, unhealthy, or weak leaves and stems as well. Prune lightly, removing no more than 1 third of the plant, as this will keep the plant vigorous and productive."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

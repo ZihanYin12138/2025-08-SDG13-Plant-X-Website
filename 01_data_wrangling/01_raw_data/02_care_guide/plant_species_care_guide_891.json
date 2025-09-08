@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2244,
+      "species_id": 891,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia (Songbird Series) 'Cardinal'"
+      ],
+      "section": [
+        {
+          "id": 6937,
+          "type": "watering",
+          "description": "Columbine (Aquilegia (Songbird Series) 'Cardinal') should be watered about 1 inch of water per week, which can be done either by giving it a thorough soaking when you water it or by setting up a drip irrigation system on regular days. Columbine plants prefer evenly moist soil, but not waterlogged soil. Make sure to check the moisture level before watering. If the soil is still damp at the depth of your finger, then there is no need for additional water. Columbine plants should be watered more often during periods of extended hot and dry weather. Withholding water during droughts can cause wilting. In the winter, columbine plants only need occasional watering."
+        },
+        {
+          "id": 6938,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia (Songbird Series) 'Cardinal') plants prefer full or part sun, depending on the climate in which they are grown. In cooler climates, it is best for them to receive at least 6 hours of direct sunlight every day; while in warmer areas, providing some afternoon shade (at least a few hours) can prevent the plants from becoming scorched in the intense heat. Water the Columbine plants in the morning to allow the foliage to dry out before nightfall, preventing fungal diseases that can occur when the moist foliage remains wet for long periods of time."
+        },
+        {
+          "id": 6939,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia (Songbird Series) 'Cardinal') should be pruned in the spring, just after the blooms fade. Begin by removing any dead, damaged, or diseased foliage, or any stems that are crossing over 1 another. To encourage repeat blooming, prune back the spent flower stalks, leaving the healthier looking leaves and stems. Additionally, if the plant is getting too leggy, the plant can be cut down by about a third."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

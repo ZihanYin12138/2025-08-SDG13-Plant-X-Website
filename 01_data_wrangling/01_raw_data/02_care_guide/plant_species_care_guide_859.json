@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2217,
+      "species_id": 859,
+      "common_name": "snapdragon",
+      "scientific_name": [
+        "Antirrhinum majus"
+      ],
+      "section": [
+        {
+          "id": 6856,
+          "type": "watering",
+          "description": "Water snapdragons regularly: water deeply (soak the soil entirely) early in the morning when temperatures are cooler. During the growing season, water snapdragons approximately every 7-10 days, or whenever the top inch of soil becomes dry. Avoid wetting leaves or flowers to minimize the risk of leaf diseases. In the hottest and driest weather, water twice a week. During winter, reduce watering as they will need much less."
+        },
+        {
+          "id": 6857,
+          "type": "sunlight",
+          "description": "Snapdragon plants thrive in full sunlight for at least 6 hours per day. The best time to provide sunlight is direct in the morning or late afternoon, avoiding the heat of the day in the summer. In winter when more hours of daylight are available, they still require 6 hours of direct sunlight or 8 hours of filtered sunlight throughout the day. Snapdragon plants need at least 6 hours of sunlight to be able to photosynthesize properly. While some varieties of snapdragons can still get by with 4 hours of full sunlight, they won’t be as strong as their counterparts that get 6 or more hours."
+        },
+        {
+          "id": 6858,
+          "type": "pruning",
+          "description": "Snapdragons should be lightly pruned when they flower to prevent the plant from getting too top-heavy. Pruning can be done during the growing season, however, the best time to do this pruning is late winter or early spring before the new growth starts. When pruning snapdragons, the majority of the dead flower heads, as well as any wilted and decaying leaves, should be removed. It is also important to prune any stems that have thinned out or become damaged, as these are not producing any beneficial blooms. Prune back healthy stems to a height of 3-4 inches from the ground. This will promote new growth and lead to more blossoms for the following season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

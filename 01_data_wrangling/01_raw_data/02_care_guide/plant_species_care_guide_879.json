@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2234,
+      "species_id": 879,
+      "common_name": "fan columbine",
+      "scientific_name": [
+        "Aquilegia flabellata var. pumila"
+      ],
+      "section": [
+        {
+          "id": 6907,
+          "type": "watering",
+          "description": "This humidity-loving plant needs to be watered regularly, but not too often. Fans of columbine can water once a week and ensure the soil is moist – not soggy – throughout the growing season. During the hot summer months, water a bit more often if needed to keep the leaves from wilting or drying out. During the winter months, water your fan columbine less, approximately once every 2 weeks. When you do water, be sure to saturate the soil with plenty of water, ensuring that excess liquid can drain away to prevent issues with root-rot."
+        },
+        {
+          "id": 6908,
+          "type": "sunlight",
+          "description": "Fan columbine prefers full or partial sun. Sunrise is a good time for plants to receive direct sunlight, and the best time for fan columbine is between 7 a.m. and 10 a.m. In partially sunny conditions, fan columbine should receive direct sunlight for at least 6 hours per day to reach its full beauty and growth potential. Areas that receive direct sunlight for most of the day may require less direct sunlight for the fan columbine to thrive. Although the plant appreciates as much sunlight as it can get, the foliage can become scorched if exposed to too much direct sunlight during the hottest part of the day. Avoid exposing fan columbines to direct sunlight after 11 a.m. or before 4 p.m. to prevent foliage damage."
+        },
+        {
+          "id": 6909,
+          "type": "pruning",
+          "description": "Fan columbine (Aquilegia flabellata var. pumila) should be pruned right after flowering in late spring or early summer. The best times to prune fan columbine are when the flowers have just died off, but the foliage is still healthy and green. Pruning should involve removing the old flower stalks, dead or diseased leaves, and any weak or crossing stems. Generally, fan columbine should not be pruned more than 1-third of its total growth in order to keep the shrub healthy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

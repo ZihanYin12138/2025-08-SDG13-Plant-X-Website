@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2222,
+      "species_id": 866,
+      "common_name": "Cape pondweed",
+      "scientific_name": [
+        "Aponogeton distachyos"
+      ],
+      "section": [
+        {
+          "id": 6871,
+          "type": "watering",
+          "description": "Cape pondweed (Aponogeton distachyos) should be watered every 2 to 3 days, depending on the climate and potting mix. The water should be fresh and cold, and may be applied using a watering can, spray bottle, or other method. During summer months, it is best to avoid watering the plant in the evening as this can lead to fungal issues. In the winter months, the amount of water should be reduced to once a week. It is important not to over-water the plant, and so the soil should be allowed to dry out between watering. Soil should never be soggy when watering this plant species. Additionally, water at the base of the plant rather than from the top to avoid wetting the leaves."
+        },
+        {
+          "id": 6872,
+          "type": "sunlight",
+          "description": "Cape pondweed (Aponogeton distachyos) prefers bright, indirect sunlight for at least 4-6 hours of sunlight per day. However, they should be kept out of direct sunlight as long periods of direct sun can cause leaf burn and wilting. The best time to provide sunlight to Cape pondweed is in the morning or late afternoon when rays are not as strong. During the summer in particular, it is best to place the plant in an area with some shade, as full sun can cause the plant’s leaves to become bleached."
+        },
+        {
+          "id": 6873,
+          "type": "pruning",
+          "description": "Cape pondweed (Aponogeton distachyos) should be pruned regularly throughout the growing season. It is best to prune when the foliage growth has gone beyond the desired size or is no longer looking its best. To keep the Cape pondweed attractive and healthy, it is recommended to prune in late spring and the trim the foliage back by about 1 third. Some extra pruning is usually necessary over the course of the summer as the plant grows and produces new leaves. As the warm weather approaches, an occasional pruning in late summer may be necessary. Pruning will help to encourage bushy, healthy growth and larger flower heads."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

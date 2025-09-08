@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2194,
+      "species_id": 825,
+      "common_name": "windflower",
+      "scientific_name": [
+        "Anemone narcissiflora"
+      ],
+      "section": [
+        {
+          "id": 6787,
+          "type": "watering",
+          "description": "In general, Anemone narcissiflora requires regular watering to keep its soil lightly moist. Water once a week or as needed in order to keep the soil slightly damp and not soggy. During periods of extended heat or drought, water may need to be applied more frequently. Windflowers typically do not need too much water, however, as it can lead to root rot in some cases. Try to water around the base of the plant, letting the water soak into the soil rather than splashing onto the foliage. Too much water on the leaves can result in fungal issues."
+        },
+        {
+          "id": 6788,
+          "type": "sunlight",
+          "description": "Windflower (Anemone narcissiflora) should be exposed to sunlight for 4-6 hours of direct sunlight per day for optimal growth and health. It should be placed in full sun, in a location with unobstructed access to the sun. Morning sun is best and afternoon shade is preferred as midday sun can cause the plants leaves to sunburn. Windflower can handle partial shade but it may become more susceptible to disease and pests, and may flower less without enough sun."
+        },
+        {
+          "id": 6789,
+          "type": "pruning",
+          "description": "Windflower should be pruned in late winter to early spring. Pruning should be limited to removing the dead flower stalks and no more than 1 third of the foliage. To prevent plants from becoming leggy, lightly prune the plant at a diameter of 30cm. Thin out any tall, weak or dead growth. It is not recommended to prune dead miniature cultivars."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

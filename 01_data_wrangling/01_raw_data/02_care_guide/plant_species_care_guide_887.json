@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2241,
+      "species_id": 887,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia olympica"
+      ],
+      "section": [
+        {
+          "id": 6928,
+          "type": "watering",
+          "description": "Columbine should be watered moderately and consistently for optimal growth and health. It is best to water the plant deeply but infrequently- only when the top inch of soil has become dry. On average, it should be watered about once a week during the growing season and monthly when the plant is dormant in winter. It is important to make sure soil isn’t soggy or overly wet, as this can lead to root rot or other issues. When watering, soak the soil completely and then make sure the excess water has drained away."
+        },
+        {
+          "id": 6929,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia olympica) is a flowering plant that thrives best in full sun to partial shade. In the spring it will need direct sunlight for about 4 hours each day and in the summer it will need at least 6 to 8 hours of direct sunlight each day. In the autumn and winter months, it should receive around 4 hours of indirect sunlight per day. It is important to remember that sunlight intensifies with the altitude, meaning that Columbia will need less time in direct sunlight the higher up you place it."
+        },
+        {
+          "id": 6930,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia olympica) should be pruned in late winter or early spring when new growth has just started to appear. Pruning should involve selectively removing the oldest, longest and/or most damaged stems, down to the base of the plant. This helps to encourage new growth and avoids overcrowding. Additionally, pinch off faded flowers after they have bloomed to promote further flowering. To ensure healthy regrowth, it is important to trim away any dead or diseased stems and leaves as soon as possible."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

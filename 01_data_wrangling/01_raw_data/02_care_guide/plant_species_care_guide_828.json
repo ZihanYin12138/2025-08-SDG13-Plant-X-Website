@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2196,
+      "species_id": 828,
+      "common_name": "wood anemone",
+      "scientific_name": [
+        "Anemone nemorosa 'Lychette'"
+      ],
+      "section": [
+        {
+          "id": 6793,
+          "type": "watering",
+          "description": "The wood anemone (Anemone nemorosa 'Lychette') prefers moist, yet well-drained soil. Water only when the top 2 inches of soil are dry. It is best to water thoroughly and allow the soil to dry between watering. Avoid overwatering as this can cause root rot. Water your wood anemone in the morning and avoid watering in midday or late afternoon."
+        },
+        {
+          "id": 6794,
+          "type": "sunlight",
+          "description": "Wood anemone (Anemone nemorosa 'Lychette') grows best in part or dappled shade, meaning that it should receive between 2 to 4 hours of direct sunlight each day. The optimal time of day to provide direct sunlight for this species is in the morning, between 10am and midday, as the afternoon can often be too hot for the plant. It is important to adjust this amount and timing depending on the climate in which the plant is growing, as direct sunlight in hotter climates may be too stressful for the plant, even in the morning."
+        },
+        {
+          "id": 6795,
+          "type": "pruning",
+          "description": "When it comes to pruning a wood anemone, timing is key. Prune your wood anemone in early spring, just as new growth begins to emerge. This helps to ensure that the anemone looks its best for the rest of the growing season. Cut off any dead or dying stems at their base, and thin out the crowded clumps of stems to open up the center of the plant. To encourage bushiness, prune the remaining stems down to a bud or leaf node. Do not prune the perennials when they are in bloom, as flowers will be lost as a result. Instead, prune your wood anemone only after the flowers have completely faded away."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

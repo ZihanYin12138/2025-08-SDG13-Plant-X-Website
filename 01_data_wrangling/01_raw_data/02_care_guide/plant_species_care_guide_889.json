@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2243,
+      "species_id": 889,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia 'Red Hobbit'"
+      ],
+      "section": [
+        {
+          "id": 6934,
+          "type": "watering",
+          "description": "Columbine 'Red Hobbit' should be watered regularly to ensure healthy growth. It is best to water deeply and slowly, saturating the soil to a depth of 6 inches. During the growing season (April to September), the columbine should be watered 2 to 3 times per week to keep the soil consistently moist. Make sure not to over-water as the plant is prone to bubbleroot of excessive moisture. During the winter months, water the columbine only when the soil is dry - approximately every 10 to 14 days. This can vary slightly depending on your region and the amount of rainfall."
+        },
+        {
+          "id": 6935,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia 'Red Hobbit') prefers light shade for optimal growth, thriving in areas that receive partial sunlight throughout the day. This plant will do best in areas that receive 4 or more hours of direct sunlight each day, preferably in the morning hours. During the summer, it is important to provide the plant with some afternoon shelter from the full heat of the sun, as this can cause sunburn. Avoid full sun exposure when temperatures reach above 80°F (27°C). When temperatures are at their warmest for extended periods, you may need to supplement natural sunlight with artificial grow lights to prevent stunted growth."
+        },
+        {
+          "id": 6936,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia 'Red Hobbit') should be pruned after flowering. Cut back dead flower stems to encourage more blooms. Pruning should be minimal, however, as the plant grows best with minimal intervention. To tidy up the plant, remove any dead, diseased or misshapen stems. Trim any overly long or straggly stems. Prune moderately for shape and to thin out overcrowded stems to improve air circulation within the plant. Light pruning of healthy stems as needed may also help to encourage fuller growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

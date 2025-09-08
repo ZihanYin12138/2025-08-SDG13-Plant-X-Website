@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2185,
+      "species_id": 816,
+      "common_name": "Japanese anemone",
+      "scientific_name": [
+        "Anemone hupehensis var. japonica 'Pamina'"
+      ],
+      "section": [
+        {
+          "id": 6760,
+          "type": "watering",
+          "description": "Water your Japanese anemone (Anemone hupehensis var. japonica 'Pamina') twice a week during the growing season, which is normally from late spring to early fall. When watering, make sure to provide a deep soaking so that the soil is thoroughly moist. During periods of extreme heat, water may be needed more often. During winter, reduce the water frequency as the plant goes dormant."
+        },
+        {
+          "id": 6761,
+          "type": "sunlight",
+          "description": "Japanese Anemone (Anemone hupehensis var. japonica 'Pamina') thrives best in locations that receive at least 4 to 6 hours of direct, unfiltered sunlight each day. This amount of sun exposure is most appropriate during the warmest part of the day, typically from late morning until mid-afternoon, when the sun is at its brightest and hottest. In more shaded areas, the plant will still produce blooms, but the bloom size and quantity may be impacted."
+        },
+        {
+          "id": 6762,
+          "type": "pruning",
+          "description": "Japanese anemone (Anemone hupehensis var. japonica 'Pamina') should be pruned in early spring. Pruning should be done to remove winter-killed stems and any old, woody, or unruly growth. The spent flower stalks can also be cut back to the ground at this time. Pruning should be limited to an overall light trim, as the plant responds to full pruning better when done as several light prunings throughout the season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1012,
+      "species_id": 857,
+      "common_name": "coral vine",
+      "scientific_name": [
+        "Antigonon leptopus"
+      ],
+      "section": [
+        {
+          "id": 3025,
+          "type": "watering",
+          "description": "Coral vine prefers moist but well-drained soil, so it should be watered regularly. The amount and frequency will vary depending on the season and climate, but on average it should be watered when the soil is beginning to feel dry to the touch, which is usually once or twice per week. During the summer, when temperatures are warmer and the plant is more actively growing, it may require more frequent watering."
+        },
+        {
+          "id": 3035,
+          "type": "sunlight",
+          "description": "Coral vine is a tropical and subtropical plant species that does best in bright, indirect light. It grows quickly and prefers full sun, so it is important to provide the plant with enough sunlight each day. In temperate regions, coral vine should receive 6 to 8 hours of direct sunlight per day in order to thrive. In tropical climates, it can be grown in direct full sun all day. This plant should not be placed in an area with complete shade, as this can affect its growth. It is best to keep coral vine in a spot where it will receive partial sun for some of the day."
+        },
+        {
+          "id": 3042,
+          "type": "pruning",
+          "description": "Coral vine should be pruned at the end of winter and at the beginning of spring. Generally only light pruning is necessary to discourage any excessive leggy growth. Keeping the vine at a reasonably low height (4-6 feet) and a maximal spread (8-10 feet) will not only increase the visual appeal of this type of plant, but it can also help to avoid any damage being done to surrounding structures. Pruning back the stems to no less than 2 leaves can promote bushy growth and vigorous blooming. To ensure a healthy and attractive plant, occasional light pruning as the vine grows can help to promote air circulation and more abundant flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

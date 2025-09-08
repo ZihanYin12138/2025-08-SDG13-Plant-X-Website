@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2229,
+      "species_id": 873,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia canadensis 'Little Lanterns'"
+      ],
+      "section": [
+        {
+          "id": 6892,
+          "type": "watering",
+          "description": "Columbine (Aquilegia canadensis 'Little Lanterns') should be watered once a week, providing about 1 inch of water each time. When watering, take care not to overwater, as too much can lead to root rot. Water potted plants when the top inch of soil is dry, or when the leaves have started to droop. If planted outside, provide near-daily waterings during periods of extreme heat or drought. It is important to allow the soil to dry out between waterings."
+        },
+        {
+          "id": 6893,
+          "type": "sunlight",
+          "description": "Columbine requires partial to full sun for best performance. This species does best when planted in a location that receives 4-6 hours of direct sun per day. Morning sun and afternoon shade is ideal, as too much afternoon sun may lead to leaf burn. The plant will also do well in a partially shaded location."
+        },
+        {
+          "id": 6894,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia canadensis 'Little Lanterns') should generally only be pruned in late winter, before new growth begins in the spring. Prune off any branches that appear leggy or to have died back. You should also remove any spent flowers to encourage more blooms. If your plant is in need of more shape, you can also prune lower branches, taking care to make sure the remaining stems are evenly distributed around the plant. You should not prune more than 1/3 of the branches or stems as this could be damaging to the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

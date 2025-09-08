@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 143,
+      "species_id": 831,
+      "common_name": "snowdrop windflower",
+      "scientific_name": [
+        "Anemone sylvestris"
+      ],
+      "section": [
+        {
+          "id": 19497,
+          "type": "watering",
+          "description": "Snowdrop windflower (Anemone sylvestris) is a hardy, perennial plant that requires minimal care once planted and established. The best way to water a snowdrop windflower is to moisten the ground around the stem area after planting, and then continue with regular deep waterings from there. Water your snowdrop windflower regularly and deeply, saturating the soil down to 8 inches. Once a week is usually enough in most climates, but when the weather is hot or dry, twice a week may be necessary. Provide an inch of water every week, either from rainfall or from a garden hose. If the climate is particularly dry, an extra watering every 3 to 4 weeks may be beneficial."
+        },
+        {
+          "id": 19498,
+          "type": "sunlight",
+          "description": "Snowdrop windflower (Anemone sylvestris) prefers full sun to partial shade and requires a minimum of 4 to 6 hours of direct unfiltered sunlight per day to thrive. In addition, during the hottest months of the summer, partial shade during the hottest part of the day (10am–4pm) is necessary to keep the plant from wilting. "
+        },
+        {
+          "id": 19499,
+          "type": "pruning",
+          "description": "Snowdrop windflower should be pruned to help encourage dense and beautiful foliage. The best time for pruning this particular plant species is in late spring, after flowering is completed. Pruning should involve removing any dead, damaged or diseased stems or leaves, and any stems that are growing taller than the recommended height for the plant. This will ensure the plant remains compact and healthy. Pruning should also involve cutting back newly emerging flowering stems by 1-third, allowing the remaining foliage to produce more flowers."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2201,
+      "species_id": 835,
+      "common_name": "garden angelica",
+      "scientific_name": [
+        "Angelica archangelica"
+      ],
+      "section": [
+        {
+          "id": 6808,
+          "type": "watering",
+          "description": "Garden angelica should be watered deeply and slowly about once a week. Depending on the weather conditions, more frequent watering or less frequent may be necessary. If the soil is soggy or wet, skip a day and wait until the soil is dry to the touch before watering. Garden angelica prefers consistently moist soil so it is important to keep an eye on the soil to make sure it does not dry out completely. Make sure to water the soil and not the leaves, as this can cause unnecessary strain on the plant."
+        },
+        {
+          "id": 6809,
+          "type": "sunlight",
+          "description": "Garden angelica (Angelica archangelica) needs full sun to partial shade for optimum health and growth. The plant works best when it gets at least 6-8 hours of full sunlight each day. It will also tolerate some shade, especially during the hottest parts of the day, as long as it gets some consistent and direct sunlight. In areas where the sun is intense, it benefits from some afternoon shade to reduce the risk of damage from sunburn."
+        },
+        {
+          "id": 6810,
+          "type": "pruning",
+          "description": "Garden angelica (Angelica archangelica) should be pruned in late spring or early summer once it has reached its full height. Pruning should be done with sharp pruning shears, avoiding crushing the stems and leaves. Remove any dead or cracked wood, as well as any stems that are growing in an awkward directions. Be careful not to damage any healthy wood when pruning. The goal should be to keep the plant fairly open and airy. Light pruning to encourage bushiness and help promote more flower production should also be done at this time. If desired, top-dressing with a light layer of compost can be done after pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

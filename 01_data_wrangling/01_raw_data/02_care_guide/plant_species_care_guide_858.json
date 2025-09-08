@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2216,
+      "species_id": 858,
+      "common_name": "snapdragon",
+      "scientific_name": [
+        "Antirrhinum 'Dulcinea's Heart'"
+      ],
+      "section": [
+        {
+          "id": 6853,
+          "type": "watering",
+          "description": "Snapdragons (Antirrhinum 'Dulcinea's Heart') need to be kept moist but not soggy, particularly during the warmer months. Water deeply and thoroughly whenever the top of the soil becomes dry. For container plants, check the soil every day or 2 and water when the top inch or 2 of soil is dry. To save water, you can also group several plants together and water them at the same time. In cooler months, water less often, allowing the top inch or 2 of soil to dry out between waterings. Be sure to empty any saucers after watering as snapdragons are prone to root rot if overwatered."
+        },
+        {
+          "id": 6854,
+          "type": "sunlight",
+          "description": "Snapdragon (Antirrhinum 'Dulcinea's Heart') plants prefer full sun, which means 6 to 8 hours of direct sunlight each day. When given direct sunlight, Snapdragons will display vibrant colors, produce more flowers, and grow fuller. During the spring and summer months, your Snapdragon should receive its full dose of sunlight each day. However, during the cooler months, you can move your Snapdragon to a sunny window and that should be enough to keep it happy."
+        },
+        {
+          "id": 6855,
+          "type": "pruning",
+          "description": "Snapdragons (Antirrhinum 'Dulcinea's Heart') should be pruned in late winter or early spring, when the plant is still relatively dormant. To prune, cut any dead or damaged stems off at the base. Additionally, prune any weak or spindly stems that detract from the plants structure and overall fullness. When pruning, always make sure to use a clean, sharp pair of pruning shears to ensure a clean, even cut. Pruning should be done only moderately in order to prevent over-stimulating the plant. Too much pruning can reduce flowering and may even compromise the plant's health. A light trimming every year should be enough to maintain the plant and encourage healthy flower growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

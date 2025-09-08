@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2208,
+      "species_id": 846,
+      "common_name": "pussytoes",
+      "scientific_name": [
+        "Antennaria dioica"
+      ],
+      "section": [
+        {
+          "id": 6829,
+          "type": "watering",
+          "description": "Pussytoes (Antennaria dioica) should be watered about every 7-10 days in temperatures below 70°F (21°C). In higher temperatures, it is best to water every 5-7 days. For the best results, wait until the surface of the soil is visibly dry before watering. Make sure when watering, soak the ground completely, not just lightly sprinkle the surface. Additionally, water should ideally be collected in a tray or container placed underneath the plant to reduce the amount of water lost to evaporation."
+        },
+        {
+          "id": 6830,
+          "type": "sunlight",
+          "description": "Pussytoes (Antennaria dioica) plants grow best in well-drained, sandy soils. They perform best when given full sun and at least 8 hours of direct sunlight each day. If given all day sun, they will flower abundantly and remain evergreen in many areas. If grown in partial shade, they may remain evergreen in some areas but will not flower as heavily."
+        },
+        {
+          "id": 6831,
+          "type": "pruning",
+          "description": "Pussytoes should be pruned in early to mid-spring, shortly before new growth appears. Prune off dead foliage and overgrown growth to 2-3 inches from the ground, using pruning shears or a sharp knife. This will encourage a dense, compact growth habit and promote new foliage. For an overgrown plant, prune about 1-third of its foliage down to the ground. Doing this annually will help to maintain its size and shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
