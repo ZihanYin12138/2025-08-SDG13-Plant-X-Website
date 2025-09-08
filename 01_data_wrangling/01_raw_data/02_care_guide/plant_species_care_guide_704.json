@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2105,
+      "species_id": 704,
+      "common_name": "hazel alder",
+      "scientific_name": [
+        "Alnus incana subsp. rugosa"
+      ],
+      "section": [
+        {
+          "id": 6520,
+          "type": "watering",
+          "description": "Hazel alder (Alnus incana subsp. rugosa) should be watered 2 to 3 times per week, depending on temperature and soil type. The soils should be kept slightly moist while the temperature is mild. During periods of hot temperatures, the plants should be watered more frequently, potentially up to 5 times a week. In cold temperatures, water less frequently, only when the soil is dry to the touch about 1 inch below the surface. Ensure that the soil is well-draining and not waterlogged because this can cause root rot."
+        },
+        {
+          "id": 6521,
+          "type": "sunlight",
+          "description": "Hazel alder (Alnus incana subsp. rugosa) grows best in full sunlight. To meet its sun requirements, Hazel alder should receive 8 to 10 hours of direct sunlight each day during the growing season (April through September). During the winter months, Hazel alder can tolerate partial shade, but should still receive at least 6 hours of high-quality sunlight each day."
+        },
+        {
+          "id": 6522,
+          "type": "pruning",
+          "description": "Hazel alder should be pruned in late winter or early spring before new growth begins. Wait until the plant is dormant and remove dead, diseased, or damaged branches, and any overcrowding. Young trees can also be pruned to encourage a desired shape. It is important not to prune too much as too much pruning can reduce the number of flowers and fruit the plant will produce."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

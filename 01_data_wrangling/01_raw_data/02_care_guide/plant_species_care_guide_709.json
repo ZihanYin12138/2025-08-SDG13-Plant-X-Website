@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2110,
+      "species_id": 709,
+      "common_name": "hazel alder",
+      "scientific_name": [
+        "Alnus serrulata"
+      ],
+      "section": [
+        {
+          "id": 6535,
+          "type": "watering",
+          "description": "Hazel alder (Alnus serrulata) should be watered weekly to insure healthy growth and development. Water when the top 1-2 inches of soil feel dry and water until the soil is slightly saturated. Aim to keep the soil moist, but not overly wet or soggy. During the summer months, you should water the plant twice a week. During the winter months, water Hazel alder less frequently and only water when the soil is dry."
+        },
+        {
+          "id": 6536,
+          "type": "sunlight",
+          "description": "Hazel alder is a species of deciduous shrub or small tree that thrives best in full sun to partial shade. It can tolerate direct sunlight for most of the day with some midday shade during the hottest summer months. For best growth and health, it should receive at least 6-8 hours of direct sunlight each day. The recommended sunlight levels for this plant species are similar to the common sun exposure of plants found in temperate regions. In extreme heat and other unfavorable conditions, it may need more shade or a break from direct sunlight in order to avoid damage to the plant."
+        },
+        {
+          "id": 6537,
+          "type": "pruning",
+          "description": "Hazel alder should be pruned in the late winter or early spring before new growth begins. To maintain the desired shape, remove dead and broken branches at any time. Remove crossed branches, branches that rub against 1 another, and branches that grow inward. Make sure to leave 3 to 5 leader branches which will form the outline of the overall shape of the tree. To open up the canopy for light and air, selectively remove overlapping branches. Be sure to keep the overall shape of the tree in mind while pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

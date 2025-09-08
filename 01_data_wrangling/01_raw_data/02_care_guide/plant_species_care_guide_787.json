@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2163,
+      "species_id": 787,
+      "common_name": "dwarf blue star",
+      "scientific_name": [
+        "Amsonia tabernaemontana 'Short Stack'"
+      ],
+      "section": [
+        {
+          "id": 6694,
+          "type": "watering",
+          "description": "This plant species requires frequent watering during its growing season – about once a week or when the top 1-2 inches of soil is dry. When temperatures are warmer (usually during the summer months), the soil should be checked even more frequently and watered when dry. To avoid overwatering, the soil should be allowed to dry moderately between waterings."
+        },
+        {
+          "id": 6695,
+          "type": "sunlight",
+          "description": "This Dwarf Blue Star (Amsonia tabernaemontana 'Short Stack') is best grown in full sun. It is recommended that the plant receive at least 6 hours of direct sunlight each day. Morning sunlight, or sun before 10:00, is optimal as the plant may experience stress from too much afternoon sun."
+        },
+        {
+          "id": 6696,
+          "type": "pruning",
+          "description": "The best time to prune this plant is immediately after the plant has finished blooming, typically late spring or early summer. When pruning, it is best to cut back the stems to just above the next pair of leaves, removing any dead branches or stems. This will help to promote new growth and a bushier plant. Avoid pruning too severely, as this can cause damage to the plant and result in fewer flowers overall.\n\nIt is important to note that while pruning is beneficial for dwarf blue star, it should be done sparingly. Pruning too often can strip away leaves and reduce the number of flowers produced. Dwarf blue star should only be pruned once or twice a season for optimal results."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

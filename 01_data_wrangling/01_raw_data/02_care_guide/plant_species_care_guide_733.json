@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 218,
+      "species_id": 733,
+      "common_name": "shellplant",
+      "scientific_name": [
+        "Alpinia zerumbet"
+      ],
+      "section": [
+        {
+          "id": 782,
+          "type": "watering",
+          "description": "For shellplant, water regularly, keeping the soil slightly moist but not soggy. Watering frequency may depend on how much light the plant gets and the temperature of the environment. In cooler conditions, it may be necessary to water once a week; in warmer conditions and with increased light, twice a week may be necessary. During warmer months, shellplant may benefit from watering every few days. Be careful not to overwater as this can cause root rot."
+        },
+        {
+          "id": 783,
+          "type": "sunlight",
+          "description": "Sunlight requirements for shellplant (Alpinia zerumbet) is bright, indirect sunlight for most of the day. During the warmer months, this plant can benefit from at least 6-8 hours of sunlight a day. However, during the cooler months, shellplant prefers a little less sun—only 4-6 hours a day. Additionally, shellplant can benefit from morning light and avoid the more intense afternoon light. Place the plant in a spot that receives light from an east or north-facing window, depending on its location."
+        },
+        {
+          "id": 784,
+          "type": "pruning",
+          "description": "Shellplant (Alpinia Zerumbet) can be pruned in late winter or early spring. Pruning should be moderate and should include removing any dead, diseased, or damaged foliage, as well as any stems or branches that are growing too far away from or too close to the main plant structure. Pruning should focus on maintaining the overall shape of the plant and can be done as soon as the new growth appears. The amount of pruning should never exceed 1-third of the plant's foliage, and should be done carefully in order to retain the original form and structure of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

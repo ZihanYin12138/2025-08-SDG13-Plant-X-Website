@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1010,
+      "species_id": 792,
+      "common_name": "pineapple",
+      "scientific_name": [
+        "Ananas comosus 'Sugarloaf'"
+      ],
+      "section": [
+        {
+          "id": 3023,
+          "type": "watering",
+          "description": "Water your pineapple 'Sugarloaf' every 2 to 3 days during the growing season and every 4 to 5 days during the winter. The amount of water you give your plant will depend on the type of soil and amount of sunlight it receives, but it should be enough to keep the soil lightly moist but not soggy."
+        },
+        {
+          "id": 3032,
+          "type": "sunlight",
+          "description": "Pineapple (Ananas comosus 'Sugarloaf') plants require full sun, meaning at least 8 hours of direct sunlight per day for optimal growth. More sunlight, up to 12 or more hours a day, can be beneficial for pineapple growth and fruiting. If the plants receive less than 8 hours of full sun each day, yields may be reduced, and plants may become more susceptible to disease."
+        },
+        {
+          "id": 3045,
+          "type": "pruning",
+          "description": "Pineapple (Ananas comosus 'Sugarloaf') needs to be pruned 1-2 times throughout the growing season, typically in spring or early summer. Pruning should consist of trimming off any brown and dying leaves and removing any suckers or pups that are growing on the base of the plant. When pruning be sure to leave roughly 1 third of the foliage to ensure the pineapple plant stays healthy and vibrant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

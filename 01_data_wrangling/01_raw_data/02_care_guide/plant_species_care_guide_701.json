@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2103,
+      "species_id": 701,
+      "common_name": "Italian alder",
+      "scientific_name": [
+        "Alnus cordata"
+      ],
+      "section": [
+        {
+          "id": 6514,
+          "type": "watering",
+          "description": "Italian alder should be watered every 2 to 3 weeks, or when the soil is dry to the touch. This species of tree prefers evenly moist soil, so monitor the soil regularly and add water when necessary. Approximately 2 - 3 inches (5 - 7 cm) of water per session is sufficient. Avoid overwatering, which can lead to root rot."
+        },
+        {
+          "id": 6515,
+          "type": "sunlight",
+          "description": "Italian alder prefers bright, indirect sunlight. During the summer months, it should receive 4 or more hours of sunlight per day. During the winter, direct sunlight is not necessary and 2-3 hours of sunlight is enough. It can also tolerate partial shade. Italian alder should not be exposed to direct sunlight for more than 6 hours per day in order to prevent sunburn and leaf scorch."
+        },
+        {
+          "id": 6516,
+          "type": "pruning",
+          "description": "Pruning of Italian alder should preferably take place in the summer (July or August). Pruning should be done with an eye towards improving the structure of the plant and maintaining an aesthetically pleasing shape. General pruning should be done by removal of crossing branches, suckers and all dead or damaged branches. Thinning should also be done to reduce overcrowding and promote air circulation. When thinning, be sure to leave any larger branches that will become the main structure of the Italian alder. Use pruning cuts that do not leave unsightly large gaps that will ruin the attractiveness of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

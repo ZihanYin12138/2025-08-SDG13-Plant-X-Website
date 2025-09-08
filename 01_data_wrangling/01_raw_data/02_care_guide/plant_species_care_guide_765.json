@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2143,
+      "species_id": 765,
+      "common_name": "Nantucket serviceberry",
+      "scientific_name": [
+        "Amelanchier nantucketensis"
+      ],
+      "section": [
+        {
+          "id": 6634,
+          "type": "watering",
+          "description": "The Nantucket serviceberry prefers moist soil, and should be watered well during dry spells to maintain a consistent level of moisture. This plant species should receive 1 - 1.5 inches of water once or twice a week until the bush is established, and then 1 - 2 inches of water every 2 to 3 weeks during the growing season. Watering should be done early in the morning to reduce the risk of disease. During the winter months, watering should be decreased to once a month. If the weather is especially dry or hot, additional watering may be necessary. Make sure to water the plant until you see water running from the bottom of the container."
+        },
+        {
+          "id": 6635,
+          "type": "sunlight",
+          "description": "Nantucket serviceberry (Amelanchier nantucketensis) requires full sun to partial shade and prefers moist, slightly acidic, well-drained soil. In the wild, it grows in full sun but can also tolerate partial shade. It needs at least 6 hours of direct sun each day in order to flower and set fruit. Plant it in an area with a southeast to southwest exposure for maximum sunlight throughout the day. "
+        },
+        {
+          "id": 6636,
+          "type": "pruning",
+          "description": "Nantucket serviceberry can be pruned to shape or to reduce size in the late winter or early spring. If a shrub is pruned too late in the year, it may not flower or produce fruit. Prune out any broken or crossed branches, and any old twiggy growth. Prune off 1/3 to 1/2 of the longest, oldest stems at ground level to encourage new growth and flowering. It is also possible to prune Nantucket serviceberry into a small tree form with one central trunk if desired."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

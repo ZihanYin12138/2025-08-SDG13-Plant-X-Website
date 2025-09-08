@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2104,
+      "species_id": 702,
+      "common_name": "European alder",
+      "scientific_name": [
+        "Alnus glutinosa"
+      ],
+      "section": [
+        {
+          "id": 6517,
+          "type": "watering",
+          "description": "European alder should be watered regularly throughout the growing season. Water deeply and evenly once a week, timing your watering so that the soil dries out some between waterings. This plant prefers on the drier side, so it is better to underwater than over watering. Generally, European alder needs between 2 and 3 inches of water per week during the growing season. In hotter, drier climates, this amount may need to be increased."
+        },
+        {
+          "id": 6518,
+          "type": "sunlight",
+          "description": "European alder prefers full sun but can tolerate some partial shade. Ideally, it should get at least 6 hours of direct sunlight each day, divided into morning and afternoon sunshine sessions. In climates with hot and dry seasons, the afternoon sunlight should be reduced or avoided completely to protect the tree from extreme temperatures."
+        },
+        {
+          "id": 6519,
+          "type": "pruning",
+          "description": "For European alder, pruning should occur in late winter to early spring. For this species of tree, light pruning is generally recommended as they tend to respond well to shaping in order to help them maintain their natural form. Before pruning, inspect the tree for broken branches, dead wood, or branches that have grown too close together. When pruning, focus on selectively removing 1 or 2 branches from each side of the tree to maintain shape. It is important to ensure that no more than 1-third of the crown is removed. The branches should be cut as close to the trunk as possible without damaging the trunk, and the cuts should be made at a slight angle."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

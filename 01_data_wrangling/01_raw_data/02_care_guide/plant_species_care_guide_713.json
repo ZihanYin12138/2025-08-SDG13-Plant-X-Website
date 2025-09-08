@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 489,
+      "species_id": 713,
+      "common_name": "elephant's ear",
+      "scientific_name": [
+        "Alocasia (group)"
+      ],
+      "section": [
+        {
+          "id": 1470,
+          "type": "watering",
+          "description": "Elephant's Ear (Alocasia (group)) should be well watered throughout the year, in particular during the summer months and active growth season when the plant is producing new foliage. Water should be applied deeply and slowly until it begins to seep from the bottom of the pot, usually once every 7-10 days. Ensure that the soil remains moist but not soggy between waterings and only water when the top soil feels dry to the touch."
+        },
+        {
+          "id": 1472,
+          "type": "sunlight",
+          "description": "Elephant's ear (Alocasia (group)) require full to partial sun exposure with at least 2 to 4 hours of direct sunlight per day. If you are growing them indoors make sure to move them next to a south or east facing window where they can get good natural sunlight. In hotter climates, afternoon shade is recommended, as too much sun can scorch the leaves.  In cooler climates, you can increase the amount of direct sun they get, but avoid the hottest midday hours."
+        },
+        {
+          "id": 1474,
+          "type": "pruning",
+          "description": "Elephant's ear (Alocasia(group)) should generally be pruned once a year in early to mid-spring. This will help maintain the desired shape of the plant, while also encouraging the growth of healthy new leaves. Dead leaves should be removed all year round in order to keep the plant looking healthy. Depending on the size of the plant, some of the largest leaves may need to be pruned back to encourage growth of smaller, new leaves. Begin with pruning back only a few leaves up to the base of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2121,
+      "species_id": 738,
+      "common_name": "lily of the Incas",
+      "scientific_name": [
+        "Alstroemeria isabellana"
+      ],
+      "section": [
+        {
+          "id": 6568,
+          "type": "watering",
+          "description": "Alstroemeria isabellana, commonly known as the Lily of the Incas, requires regular but infrequent watering. Due to their native desert and mountain-side climate, these plants thrive with dry soil and are thus quite drought hardy. During an average week, only 1 to 2 waterings are necessary. \n\nTo water this plant, thoroughly soak the soil until it is saturated. Allow the soil to dry out completely before watering again. To ensure that the soil is truly dry, you can check it by sticking in a finger up to the first knuckle. If the soil is still damp, you should wait a few days before watering again. To avoid root rot, do not leave the soil consistently wet."
+        },
+        {
+          "id": 6569,
+          "type": "sunlight",
+          "description": "The Lily of the Incas (Alstroemeria isabellana) is a deciduous perennial that prefers full sun. While it grows best in full sun, it does well in partial shade, especially in areas with hot summers. For optimal growth, the plant should receive 6 to 8 hours of direct sunlight each day. Morning sunlight is the most beneficial, whereas evening sunlight can be too strong and cause the plant to become scorched. In cooler climates, the plant should be provided with shade during the hottest parts of the day to ensure it does not become stressed from too much heat."
+        },
+        {
+          "id": 6570,
+          "type": "pruning",
+          "description": "Lily of the Incas should be pruned in early spring, after new leaf growth has emerged but before the plant flowers. When pruning, it’s important to take care to remove only dead or damaged branches. Pruning should be done lightly, leaving as much of the plant’s foliage intact as possible. No more than 1/3 of the overall branching or stems should be removed at any 1 time. This will help promote strong new growth and a compact, attractive form."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

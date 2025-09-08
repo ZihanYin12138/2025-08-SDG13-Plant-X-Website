@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1008,
+      "species_id": 746,
+      "common_name": "Joseph's coat",
+      "scientific_name": [
+        "Alternanthera dentata"
+      ],
+      "section": [
+        {
+          "id": 3021,
+          "type": "watering",
+          "description": "Joseph's coat is a drought-tolerant plant that can survive short periods of dry conditions. However, it does require regular watering to look its best. It should be watered at least once per week, providing enough water to soak the soil to a depth of 6 inches. During the hottest times of the year, more frequent watering may be needed. Always check the soil before watering to make sure it is dry, as overwatering can lead to root rot."
+        },
+        {
+          "id": 3030,
+          "type": "sunlight",
+          "description": "Joseph's coat plants need at least 6 hours of direct sunlight each day. They prefer full sun, or bright, direct sunlight for most of the day, but may be able to do well in part shade for some of the day. Joseph's coats can also grow in full shade, but the foliage color will pale in comparison to when grown in brighter light. If possible, it is best to start the plants off in the brighter light and then gradually transition them to more shade as the season progresses."
+        },
+        {
+          "id": 3040,
+          "type": "pruning",
+          "description": "Pruning should be done twice per year for best results: once in early spring, right after the last frost, and again in late summer. Light pruning can also be done throughout the growing season if needed. When pruning, make sure to remove dead or damaged leaves, stems and flowers. Make sure to keep the shape of the plant neat and prune back stems that are too long or unruly. You should leave 2 to 3 inches of stems when pruning. Also, Joseph's coat produces a wonderful bloom from its branches, so do not prune too severely, as this will affect the amount of flowers produced."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

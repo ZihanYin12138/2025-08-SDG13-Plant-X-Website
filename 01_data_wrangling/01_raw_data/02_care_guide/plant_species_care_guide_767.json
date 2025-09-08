@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1412,
+      "species_id": 767,
+      "common_name": "running serviceberry",
+      "scientific_name": [
+        "Amelanchier stolonifera"
+      ],
+      "section": [
+        {
+          "id": 4261,
+          "type": "watering",
+          "description": "Running serviceberry (Amelanchier stolonifera) should be watered once per week, providing the plant with 1-2 inches (2.5-5 cm) of water. It is best to water in the morning, when the air is cooler to avoid evaporative losses. If the soil moisture levels are low, water a little more frequently, such as every 3-4 days. If the soil remains dry, consider adding a layer of mulch to help retain moisture. During periods of excessive heat or drought, the plant may require additional watering, so check the soil regularly and if it feels dry, provide additional water."
+        },
+        {
+          "id": 4262,
+          "type": "sunlight",
+          "description": "Running serviceberry typically needs 6-8 hours of sunlight per day, with partial shade in the afternoon. This plant species grows best in places where the sun is bright and warm. It’s important to ensure that the soil in which it is planted is well-drained. It can handle a range of light conditions, from full sun to partial shade, but may not do well in full shade. Plant running serviceberry in a spot where it will receive 4 to 6 hours of direct sunlight each day and slightly more in the summer months. Avoid planting it in areas with too much shade, since the plant won't flower or fruit as well."
+        },
+        {
+          "id": 4263,
+          "type": "pruning",
+          "description": "Running serviceberry (Amelanchier stolonifera) should be pruned in early to late spring, before the new growth begins. Generally, pruning should aim to thin the tree or shrub, removing dead, diseased, and broken branches while also selectively removing or shaping some of the live branches. This will not only improve the overall look of the plant, but also help to direct the growth in more desirable directions. Pruning of runners and replacement of old or weak or diseased plants is recommended every few years to maintain a desired shape and size."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

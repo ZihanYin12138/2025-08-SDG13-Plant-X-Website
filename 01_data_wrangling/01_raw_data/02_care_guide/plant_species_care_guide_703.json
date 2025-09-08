@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 309,
+      "species_id": 703,
+      "common_name": "grey alder",
+      "scientific_name": [
+        "Alnus incana"
+      ],
+      "section": [
+        {
+          "id": 476,
+          "type": "watering",
+          "description": "Grey alder prefers moist soil and does best when watered regularly. During the growing season, it should be watered at least twice a week, allowing the top 2-3 inches of soil to become slightly dry between waterings. In the winter, water less often but keep the soil from drying out completely. Watering should occur approximately every 2 weeks in the winter months, unless there is no rain or snow to keep the soil moist."
+        },
+        {
+          "id": 477,
+          "type": "sunlight",
+          "description": "Grey alder (Alnus incana) is a deciduous shrub that prefers to grow in moist, fertile, full-sun sites. The plant will typically thrive when it gets direct sun for at least 6-8 hours a day in the spring and summer months, with the best exposure being morning sunlight. In cooler climates, grey alder can tolerate partial shade, but it’s always best to select a site with full-sun exposure when possible."
+        },
+        {
+          "id": 478,
+          "type": "pruning",
+          "description": "For Grey alder plants, pruning should be done in late winter throughout the plant's lifetime when it is dormant. Pruning should be done at a moderate level. Remove no more than 1/3 of the stems to keep the plant full, tidy, and healthy. Branches that are dead, dying, or crossed over should be removed. Generally, the plants should be pruned to keep them below 8 feet in height and 4 feet in width."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

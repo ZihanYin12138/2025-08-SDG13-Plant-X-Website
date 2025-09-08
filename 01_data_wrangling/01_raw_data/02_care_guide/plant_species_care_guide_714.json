@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 490,
+      "species_id": 714,
+      "common_name": "elephant's ear",
+      "scientific_name": [
+        "Alocasia LOW RIDER"
+      ],
+      "section": [
+        {
+          "id": 1471,
+          "type": "watering",
+          "description": "Water Elephant's Ear (Alocasia Low Rider) well and then let the topsoil of the pot dry out slightly before watering again. A good watering routine for this plant species would be to water it deeply once a week. During periods of hotter and drier weather, you may want to water it more frequently, such as every 4-5 days. As Alocasia likes a humid environment, misting the plant may also be beneficial. Allow the top 2-3 inches of the soil to dry out between waterings. Over-watering can cause root rot so try not to water too frequently."
+        },
+        {
+          "id": 1473,
+          "type": "sunlight",
+          "description": "Elephant's ear (Alocasia Low Rider) is a plant species that typically needs bright, indirect sunlight. It should be kept in bright, indirect sunlight for about 8 to 10 hours each day. The light coming from a south-facing window is usually ideal for this species of plant."
+        },
+        {
+          "id": 1475,
+          "type": "pruning",
+          "description": "Elephant's ear should be lightly pruned in early spring, just before new growth begins. Removing dead or diseased leaves helps improve air circulation and prevent disease. It is not necessary to prune the plant severely; however, feel free to remove leaves that appear to be significantly damaged. For a more dramatic pruning, remove some of the larger, older leaves and encourage more of the small, new growth. If pruning is done in late spring or summer, cut back by no more than 1 third, as too much or too drastic pruning can damage the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

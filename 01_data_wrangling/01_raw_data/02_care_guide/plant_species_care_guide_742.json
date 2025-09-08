@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2125,
+      "species_id": 742,
+      "common_name": "lily of the Incas",
+      "scientific_name": [
+        "Alstroemeria 'Pacific Sunset Dark Pink'"
+      ],
+      "section": [
+        {
+          "id": 6580,
+          "type": "watering",
+          "description": "Lilies of the Incas (Alstroemeria 'Pacific Sunset Dark Pink') need moist, well-drained soil and regular watering in order to thrive. The best way to water this plant is to water deeply and thoroughly, allowing the top inch or 2 of soil to become completely saturated and then allowing it to dry out slightly before watering again. This plant should be watered once a week, or every 2 to 3 days in extremely hot and dry conditions. If the soil becomes too dry, it will take a generous amount of water in order to rehydrate. However, you should avoid overwatering, as it can lead to root rot or other problems."
+        },
+        {
+          "id": 6581,
+          "type": "sunlight",
+          "description": "The pink lily of the Incas, known botanically as Alstroemeria 'Pacific Sunset Dark Pink', prefers full, direct sunlight for at least 6 to 8 hours a day. It should be placed in a warm, sunny spot and protected from strong afternoon sunlight and wind. When exposed to these conditions, the lily of the Incas will flower from June until the first frost."
+        },
+        {
+          "id": 6582,
+          "type": "pruning",
+          "description": "The Lily of the Incas (Alstroemeria 'Pacific Sunset Dark Pink') should be pruned annually in late winter or early spring just before the plant’s new growth emerges. Pruning should involve removing all the dead, damaged, or diseased foliage as well as any shoots that have gone beyond the desired size or shape of the plant. It is best to cut the stems back to the base or ground level since larger pruning may otherwise reduce flower or foliage production."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

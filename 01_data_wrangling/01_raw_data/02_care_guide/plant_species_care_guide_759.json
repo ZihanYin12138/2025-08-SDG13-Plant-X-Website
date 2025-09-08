@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2138,
+      "species_id": 759,
+      "common_name": "serviceberry",
+      "scientific_name": [
+        "Amelanchier canadensis"
+      ],
+      "section": [
+        {
+          "id": 6619,
+          "type": "watering",
+          "description": "Serviceberry plants should be watered deeply once a week during the growing season. In hot, dry weather, water may need to be given more frequently. When watering, it is best to soak the soil until it is saturated. Avoid getting the foliage and flowers wet, as this can lead to fungal diseases. In the winter months, water very sparingly, if at all. Serviceberries do not like wet feet in cold temperatures."
+        },
+        {
+          "id": 6620,
+          "type": "sunlight",
+          "description": "Serviceberry (Amelanchier canadensis) prefers to grow in full sun to part shade, meaning it needs at least 4 to 6 hours of direct sunlight each day to thrive. The best time of the day for the plant to get sunlight is in the morning or early afternoon, when the sun is at its brightest and hottest. Plants should be given enough space to ensure that they receive adequate sunlight throughout the day and don't become shaded by other plants or structures. When exposed to ample sunlight, serviceberry plants typically bloom from April to May and produce edible reddish-purple fruits in summer."
+        },
+        {
+          "id": 6621,
+          "type": "pruning",
+          "description": "Serviceberry plants can be pruned in the early spring, just before new growth emerges. It is best to prune before any new growth has started. Pruning too late in the year may delay flowering or fruit production. Serviceberry plants respond well to light pruning. The goal of pruning is to achieve a shape or size that is desired. It is best to remove only a few branches at a time, so as not to shock the plant. Avoid pruning more than a third of the plant's branches at a time, and remove crossing, dead, or damaged branches when possible. The most common areas to prune are the main branches growing away from the main trunk and those that are crossing."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

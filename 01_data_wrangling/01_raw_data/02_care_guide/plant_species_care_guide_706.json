@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2107,
+      "species_id": 706,
+      "common_name": "seaside alder",
+      "scientific_name": [
+        "Alnus maritima"
+      ],
+      "section": [
+        {
+          "id": 6526,
+          "type": "watering",
+          "description": "The seaside alder requires regular watering throughout its growing season—from spring to late summer. During the summer, water the seaside alder deeply twice a week and check the soil to ensure that it is continuously moist. Do not allow it to dry out completely, as this will cause damage to the plant. During milder weather, water only once a week. In periods of extreme heat, increase the frequency of watering to 3 times a week. In the winter, water only when there is no rain for a prolonged period of time."
+        },
+        {
+          "id": 6527,
+          "type": "sunlight",
+          "description": "Seaside alder (Alnus maritima) requires a minimum of 6 hours of direct sunlight per day to thrive, though the healthiest plants will receive at least 8 hours. If the plant is unable to receive an adequate amount of sunlight, supplemental lighting can be provided to mimic natural sunlight. It is best to avoid direct afternoon sunlight, as this has a tendency to be too harsh and can lead to leaf scorch. Morning and late afternoon sunlight are ideal, as the sun is not as intense during these times of day. Additionally, seaside alder should not be planted anywhere that receives intense, reflected sunlight as this can undermine its growth potential."
+        },
+        {
+          "id": 6528,
+          "type": "pruning",
+          "description": "Seaside Alder (Alnus maritima) is best pruned in late winter or early spring while the plant is still dormant. Pruning in late winter to early spring will help maintain the desired mature size and shape of the plant. Minor pruning can be done at any time of the year to keep the plant looking tidy. Avoid pruning before or during bud break as this may remove the potential for new growth and blooms. Generally, it is best to remove only about 1/3 of the plant’s growth each year to maintain shape and health. Severe pruning should be avoided as it will weaken the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

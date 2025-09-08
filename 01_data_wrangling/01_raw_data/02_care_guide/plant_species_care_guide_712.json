@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 487,
+      "species_id": 712,
+      "common_name": "elephant's ear",
+      "scientific_name": [
+        "Alocasia 'Frydek'"
+      ],
+      "section": [
+        {
+          "id": 1464,
+          "type": "watering",
+          "description": "For the best results, water Elephant's Ear (Alocasia 'Frydek') when the soil is dry to the touch, approximately once every 7-10 days. Allow the soil to drain completely after each watering. Avoid overwatering, as this can lead to root rot and yellow foliage. During the warm summer months, you may need to water Elephant's Ear more frequently."
+        },
+        {
+          "id": 1466,
+          "type": "sunlight",
+          "description": "Elephant's ear (Alocasia 'Frydek') needs bright, indirect light for ideal growth. Direct sunlight should be avoided since it can cause leaf scorching. A spot with bright, indirect sunlight or 2-3 hours of direct sunlight in the morning or late afternoon is ideal. It is best to keep the plant in the sunniest spot you have, as long as the direct midday sunlight is avoided."
+        },
+        {
+          "id": 1467,
+          "type": "pruning",
+          "description": "Elephant's ear (Alocasia 'Frydek') should be pruned in early spring after growth begins, removing any dead or damaged leaves and stems. Prune lightly by cutting back the main stems to about 1-2 inches of the soil line. This is to promote new growth and to shape the plant. Avoid excessive pruning as this can stunt its growth. If the plant starts to become too tall or overgrown, it can be lightly pruned back again in late spring or early summer."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

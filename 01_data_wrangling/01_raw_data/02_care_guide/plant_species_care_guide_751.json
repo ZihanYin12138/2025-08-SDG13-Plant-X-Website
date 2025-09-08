@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2131,
+      "species_id": 751,
+      "common_name": "alyssum",
+      "scientific_name": [
+        "Alyssum propinquum"
+      ],
+      "section": [
+        {
+          "id": 6598,
+          "type": "watering",
+          "description": "Alyssum (Alyssum propinquum) needs to be watered regularly, every 2-3 days. Water the Alyssum deeply to ensure the roots get plenty of water. Make sure to avoid letting the soil become soggy as this can lead to root rot. The amount of water needed will depend on the size of the plant, the climate, and the time of the year. During hot and humid summers, the Alyssum will need more water than during cooler, drier times of the year. On average, water the Alyssum until the top layer of the soil is damp. For an indoor Alyssum, you may need to water daily, especially if it's in a warm and dry place."
+        },
+        {
+          "id": 6599,
+          "type": "sunlight",
+          "description": "Alyssum propinquum, also known as sweet alyssum, needs full sunlight for 8 to 10 hours a day—ideally from early morning through mid-afternoon. This will help it produce its full range of colors, from whites, pinks, and purples to yellows. "
+        },
+        {
+          "id": 6600,
+          "type": "pruning",
+          "description": "Alyssum propinquum can generally be pruned during the spring and mid to late summer. Pruning should be kept to a minimum, as this species is low-growing and can become straggly if heavily pruned. Generally, cut back about 1/3 of the overall size of the plant in late spring and a further 1/3 of the growth in late summer. During winter a light pruning can be done to remove any dead or damaged stems and to keep the shape and general appearance of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

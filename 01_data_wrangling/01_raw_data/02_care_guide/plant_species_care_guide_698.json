@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2100,
+      "species_id": 698,
+      "common_name": "wild garlic",
+      "scientific_name": [
+        "Allium ursinum"
+      ],
+      "section": [
+        {
+          "id": 6505,
+          "type": "watering",
+          "description": "Wild garlic should be watered once a week in the spring and summer months, and slightly less in winter. The soil should remain slightly moist, never too dry or water-logged, and water should only be added when the top inch of soil is dry. Water generously and evenly from the base of the plant to give the roots a thorough soaking. It is best to water in the morning so the foliage has time to dry before evening."
+        },
+        {
+          "id": 6506,
+          "type": "sunlight",
+          "description": "Wild garlic (Allium ursinum) thrives best in sunny to partially shaded sites with 4 to 6 hours of direct sunlight per day. It is important to avoid extremely sunny or shaded sites as this can limit the plant's growth and flowering potential. "
+        },
+        {
+          "id": 6507,
+          "type": "pruning",
+          "description": "Wild Garlic (Allium ursinum) can generally be pruned from late April to late May depending on local climate. Begin by cutting back the growth of the plant to the desired height of around 25 cm. This should be done with pruners or shears and care should be taken to not over prune the plant. After the initial prune, dead or damaged leaves can be removed and the plant can then be trimmed around the edges. To maintain a tidy look, foliage can be gently combed and excess foliage can be trimmed. Dead or yellow foliage should also be removed, as this can reduce the plant's ability to produce new growth. Pruning should also be done to encourage bushier growth and to promote flowering, if desired. It is important to ensure that adequate ventilation is maintained around the plant and that it is not over pruned."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

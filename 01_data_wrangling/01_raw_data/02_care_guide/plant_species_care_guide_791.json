@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1009,
+      "species_id": 791,
+      "common_name": "pineapple",
+      "scientific_name": [
+        "Ananas comosus"
+      ],
+      "section": [
+        {
+          "id": 3022,
+          "type": "watering",
+          "description": "Pineapple plants (Ananas comosus) should be watered consistently and deeply to promote healthy growth. Water 1-2 times a week, allowing the soil to dry out slightly between waterings. In hot weather, water more often, about 3-4 times a week. Avoid over-watering, since this can lead to root rot and other issues. It is also important to use a soil that drains well and to ensure that the soil does not become too soggy. Make sure to watch the soil around the pineapple plant to determine if it needs more or less water."
+        },
+        {
+          "id": 3031,
+          "type": "sunlight",
+          "description": "Pineapple plants (Ananas comosus) require full sun for at least 6 to 8 hours of direct sunlight each day, preferably in the morning or middle of the day. During extreme heat or cold, they may need extra protection from the sun in the form of shade cloth or large umbrellas. As long as the pineapple is protected from these extreme temperatures or strong winds, they will require consistently bright, direct sunlight."
+        },
+        {
+          "id": 3033,
+          "type": "pruning",
+          "description": "Pineapple plants (Ananas comosus) should be pruned during their dormant season which is usually during the winter months. Pruning should be limited to removing dead/diseased leaves and branches to keep the plant healthy and robust. In general, it is not recommended to prune away more than 10% of the growth at a time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

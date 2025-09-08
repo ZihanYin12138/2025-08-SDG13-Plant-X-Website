@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2148,
+      "species_id": 771,
+      "common_name": "Devil's tongue",
+      "scientific_name": [
+        "Amorphophallus konjac"
+      ],
+      "section": [
+        {
+          "id": 6649,
+          "type": "watering",
+          "description": "Devil's tongue should be watered approximately once every 2-3 weeks, depending on the soil and temperature. If the soil is very dry, it's best to water more frequently. Generally speaking, when you water Devil's tongue, it's best to wait until the soil has begun to dry out before providing more water, as over-watering can lead to root rot. When watering, apply enough to thoroughly moisten the soil, but not so much that it pools in the bottom of the pot. It's also important to make sure that the soil is fully drained after each watering."
+        },
+        {
+          "id": 6650,
+          "type": "sunlight",
+          "description": "Devil's Tongue (Amorphophallus konjac) is a semi-tropical perennial plant species that requires indirect sunlight for best growth. It needs about 8-12 hours of bright but indirect sunlight each day in order to maintain the lush foliage and promote blooming. The best time to provide sunlight is during the morning when the sun is at its lowest and the temperatures are still fairly cool. Avoid providing full sun and expose the plant to direct sunlight, as too much light can burn its foliage."
+        },
+        {
+          "id": 6651,
+          "type": "pruning",
+          "description": "Devil's tongue (Amorphophallus konjac) should be pruned annually in the late winter or early spring. Pruning should be done preemptively, before the plant begins to grow and extend its flowering stalks. Pruning should be done by cutting off the top layer of the corm along with any overgrowth and dead foliage. Doing this will allow for new, fresh foliage to emerge in the spring and help to maintain the plant's shape and size. Additionally, pruning in the late winter and early spring will also encourage the growth of new flowers."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

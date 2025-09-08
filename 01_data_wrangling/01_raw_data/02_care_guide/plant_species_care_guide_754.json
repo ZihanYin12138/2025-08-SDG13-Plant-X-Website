@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2134,
+      "species_id": 754,
+      "common_name": "Joseph's coat",
+      "scientific_name": [
+        "Amaranthus tricolor"
+      ],
+      "section": [
+        {
+          "id": 6607,
+          "type": "watering",
+          "description": "Joseph's coat should be watered regularly, about once a week or so, using enough water so that the soil is moist throughout the entire pot. It is best to water in the morning or early afternoon to allow the leaves and stems to dry off before nightfall. Too much or too little water can cause the plant to become stressed or stressed out, so it is important to keep an eye on the moisture levels of the soil. Aim to keep the soil moist, but not waterlogged. If the top few inches of soil begin to dry out, it's time to water again."
+        },
+        {
+          "id": 6608,
+          "type": "sunlight",
+          "description": "Joseph's coat, also known as Amaranthus tricolor, is a plant species that requires several hours of direct sunshine each day. It requires at least 6 to 8 hours of direct sunlight per day in order to grow and flower properly. The best time to receive this sunlight is in the late morning to early afternoon. When necessary, Joseph's coat can tolerate partial shade, but it will not grow as large, its colors may be less lively, and it may have less vibrant blooms. "
+        },
+        {
+          "id": 6609,
+          "type": "pruning",
+          "description": "Joseph's coat should be pruned regularly to keep it in its best shape. Pruning should be done at the beginning of the growing season in late winter to early spring, when new shoots appear. The stems that have grown too long should be cut back to encourage bushier growth. Also, any dead or damaged branches should be cut away. Lastly, some people like to trim the plant and shape it into an interesting shape. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

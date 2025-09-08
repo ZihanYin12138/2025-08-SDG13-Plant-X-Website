@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 492,
+      "species_id": 716,
+      "common_name": "elephant's ear",
+      "scientific_name": [
+        "Alocasia 'Metalhead'"
+      ],
+      "section": [
+        {
+          "id": 1478,
+          "type": "watering",
+          "description": "Watering for an elephant's ear plant should be done as often as possible, but not so much that the roots are sitting in water. Water should be given more frequently in warmer months. Generally, it is recommended to water this plant at least once a week, and more often in the summer months. Allow the soil to become nearly dry between waterings, but do not let it dry out completely. If possible, misting the leaves of the plant with water can also help to increase the humidity in its surrounding area."
+        },
+        {
+          "id": 1480,
+          "type": "sunlight",
+          "description": "Elephant's ear (Alocasia 'Metalhead') will do best when grown in bright, indirect sunlight. An ideal spot for this plant species is that it receives indirect or filtered sunlight for at least 4-5 hours per day. Placing the plant near a brighter, south-facing window should give it the optimal level of sunlight while protecting it from the more direct, intense sunlight that can cause damage. If you want to provide supplemental light, consider using a fluorescent light that is kept on for at least 6 hours per day."
+        },
+        {
+          "id": 1481,
+          "type": "pruning",
+          "description": "The elephant's ear (Alocasia 'Metalhead') should be pruned during the early spring season. Pruning should be done lightly and done mainly to encourage bushiness and to keep the shape of the plant neat. Some stems may need to be cut back to an inch or 2 from the soil to ensure maximum growth. A good rule of thumb, for pruning, is to try to take off no more than 1-third of the plant with each pruning session."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

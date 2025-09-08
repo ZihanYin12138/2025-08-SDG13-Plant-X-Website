@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2166,
+      "species_id": 790,
+      "common_name": "blue pimpernel",
+      "scientific_name": [
+        "Anagallis monelli"
+      ],
+      "section": [
+        {
+          "id": 6703,
+          "type": "watering",
+          "description": "Water blue pimpernel (Anagallis monelli) moderately, allowing the soil to become slightly dry between watering. Water thoroughly but avoid soggy soil to prevent root rot. Water the plant weekly or biweekly during the spring and summer, when the plant is actively growing. Reduce watering in the fall and winter, when growth slows. Water only when the soil feels dry to the touch."
+        },
+        {
+          "id": 6704,
+          "type": "sunlight",
+          "description": "Blue pimpernel (Anagallis monelli) does best in full sun or partial shade, meaning a minimum of 6 hours of sunlight daily. For optimal growth, blue pimpernel should have 6 to 8 hours of direct sunlight throughout the day, ideally in the morning and late afternoon, with some shade during the hottest part of the day. Blue pimpernel can tolerate some shade, but will not flower as well and will be less hardy. Generally, during the summer the sun should be slightly less intense in the afternoon for optimal flowering and foliage growth."
+        },
+        {
+          "id": 6705,
+          "type": "pruning",
+          "description": "Blue Pimpernel (Anagallis monelli) should be pruned during the summer months when the flowering period is coming to an end. Prune lightly and selectively, removing dead or damaged stems and thinning out any excessive growth. Cut back stems that have finished flowering to a few centimeters above the foliage and deadhead to promote further flowering. Pruning may also be done to reshape the plant if necessary and to make room for new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

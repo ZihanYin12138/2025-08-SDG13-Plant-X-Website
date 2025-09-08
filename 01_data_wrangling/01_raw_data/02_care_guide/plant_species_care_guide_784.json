@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2160,
+      "species_id": 784,
+      "common_name": "blue star",
+      "scientific_name": [
+        "Amsonia 'Starstruck'"
+      ],
+      "section": [
+        {
+          "id": 6685,
+          "type": "watering",
+          "description": "Water deeply for blue star about once a week, to a depth of 6-8 inches. Avoid over-watering as this will lead to root rot. Water at the soil level near the base of the plant and avoid getting foliage wet. During periods of intense summer heat, you may need to water more frequently. Avoid watering in the middle of the day when temperatures are highest, and opt for mornings or evenings instead."
+        },
+        {
+          "id": 6686,
+          "type": "sunlight",
+          "description": "Blue Star (Amsonia 'Starstruck') thrives in full sun to partial shade and does best in bright, indirect light. It prefers a minimum of 4-6 hours of bright sunlight each day. When grown in too much shade, or in cooler climates, the amount of sunlight should be reduced to prevent flower bud drop and leaf yellowing. In areas with very hot summers, the plant will benefit from afternoon shade or morning sun with filtered afternoon shade, to help prevent flower bud drop and leaf yellowing."
+        },
+        {
+          "id": 6687,
+          "type": "pruning",
+          "description": "Blue Star (Amsonia 'Starstruck') should be pruned once a year in late fall or early spring. Pruning should be light and remove only dead or diseased branches. This plant should not be radically pruned, as it may remove the flower buds and cause the plant to lose its shape. Pruning should focus on removing any crossing branches and some selective thinning to keep the overall shape of the shrub attractive. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 531,
+      "species_id": 782,
+      "common_name": "blue star",
+      "scientific_name": [
+        "Amsonia 'Midway to Montana'"
+      ],
+      "section": [
+        {
+          "id": 1594,
+          "type": "watering",
+          "description": "Blue Star needs to be watered consistently, but only when the soil starts to dry out. Check the soil weekly after the plant is established and water until it just begins to come out of the bottom of the pot. During the growing season, water more often (every 3-4 days) because this species tends to perform better with regular waterings. During winter, reduce waterings to every 5-7 days. "
+        },
+        {
+          "id": 1597,
+          "type": "sunlight",
+          "description": "Blue star (Amsonia 'Midway to Montana') should be provided with at least 6 hours of direct sunlight each day for optimal growth. If possible, the plant should be kept in a sunny area with at least 8 hours of direct sunlight per day, but not more than 12 hours. Too much sun may result in scorched leaves and can impede growth."
+        },
+        {
+          "id": 1602,
+          "type": "pruning",
+          "description": "Pruning should be kept to a minimum to retain the attractive mound shape. Pruning should only remove 1/3 of the plant each year cutting just above the node. It is important to remember that new growth may need to be trimmed back in late spring or early summer in order to maintain the desired shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

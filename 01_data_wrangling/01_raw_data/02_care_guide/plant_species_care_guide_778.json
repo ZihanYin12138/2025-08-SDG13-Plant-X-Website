@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2155,
+      "species_id": 778,
+      "common_name": "blue star",
+      "scientific_name": [
+        "Amsonia ciliata var. filifolia"
+      ],
+      "section": [
+        {
+          "id": 6670,
+          "type": "watering",
+          "description": "Blue Star plants should be watered at least twice a week. The soil should be moistened to a depth of 4-6 inches. Water very early in the morning or late in the evening so that the plant has time to absorb the moisture before the heat of the day dries it away. In the summer, they may need to be watered more frequently if conditions are hot and dry. As the weather transitions to cooler fall temperatures, you may decrease watering to once every week, or even less if it is a rainy season."
+        },
+        {
+          "id": 6671,
+          "type": "sunlight",
+          "description": "Blue star (Amsonia ciliata var. filifolia) is a perennial plant species that thrives in sunny settings. It should be placed in a location where it receives full sun for at least 6 to 8 hours per day, ideally in the morning. This plant enjoys sun all day, but the afternoon sun is the most important as it helps the plant to focus its energy on flowering. Additionally, during summer months, afternoon shade is beneficial, as this will help the plant to prevent dehydration or sunburn."
+        },
+        {
+          "id": 6672,
+          "type": "pruning",
+          "description": "Blue Star (Amsonia ciliata var. filifolia) should be pruned in the early spring, just before renewed growth begins. Cut back the entire shrub about 1/3 or slightly more of the previous year's growth. This will help control the size of the shrub and the promote bushier new growth. Additional light pruning can be done throughout the season if the shrub is getting too tall or out of bounds."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

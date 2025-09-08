@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2119,
+      "species_id": 736,
+      "common_name": "lily of the Incas",
+      "scientific_name": [
+        "Alstroemeria 'Casablanca'"
+      ],
+      "section": [
+        {
+          "id": 6562,
+          "type": "watering",
+          "description": "Lily of the Incas (Alstroemeria 'Casablanca') should be watered when the top 3 inches of soil feel dry to the touch. During the growing season, they should be watered thoroughly and deeply once per week. During periods of drought, additional watering may be needed to ensure the soil remains evenly moist. For best results, during dry weather irrigate the plants every 2-3 days. In winter, reduce watering to once a month. Make sure to water at the base of the plant and avoid getting the leaves wet as they may develop fungal diseases."
+        },
+        {
+          "id": 6563,
+          "type": "sunlight",
+          "description": "Lilies of the Incas (Alstroemeria 'Casablanca') need at least 6 hours of direct sunlight per day for optimal growth. To ensure blooming, they require full sun all day long. Depending on where you live, this could include anything from early morning sunrays to intense afternoon heat. If your lily of the Incas is in full sun, it may need some protection from scorching heat in the late afternoon to prevent sunburn."
+        },
+        {
+          "id": 6564,
+          "type": "pruning",
+          "description": "Lily of the Incas (Alstroemeria 'Casablanca') should be pruned once a year in early spring, just before new growth begins. Pruning will encourage plants to bush out and become fuller. Cut back up to a third of the stems of the Lily of the Incas back to a pair of healthy buds. Remove any dead or damaged stems, and any that show signs of disease. Pruning will help the plant to produce more buds and blooms during the growing season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

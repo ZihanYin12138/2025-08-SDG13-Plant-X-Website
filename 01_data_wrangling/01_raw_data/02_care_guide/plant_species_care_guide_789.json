@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2165,
+      "species_id": 789,
+      "common_name": "blue star",
+      "scientific_name": [
+        "Amsonia tabernaemontana var. salicifolia"
+      ],
+      "section": [
+        {
+          "id": 6700,
+          "type": "watering",
+          "description": "The best way to water Blue Stars is to give them a good soaking every 7-10 days, allowing the soil to dry out completely in between sessions. Depending on the container and soil being used, you may need to water more or less frequently. A good rule of thumb is to check the soil for dryness 1-2 inches down before you water again. If the soil isn’t dry, wait a few more days before watering.\n\nIt’s important to note that Blue Stars can suffer from overwatering so it’s important to be mindful of your watering. Furthermore, be sure to always water at the base of the plant to avoid water loss from evaporation."
+        },
+        {
+          "id": 6701,
+          "type": "sunlight",
+          "description": "Blue Star requires full sun to partial shade for best performance. It should be planted in a location that gets about 6 to 8 hours of direct sun during peak growing season, and should be protected from the hot afternoon sun during the hottest months. Partial shade during mid-day and early afternoon is best for this species to protect it from too much direct sun."
+        },
+        {
+          "id": 6702,
+          "type": "pruning",
+          "description": "Blue Star should be pruned immediately after flowering in late spring. This species generally doesn’t respond well to pruning and should be kept to a minimum. The main pruning that should be done is removing any dead or damaged stems or branches, and occasionally cutting them back to a lateral bud at the base of the plant. This will help promote increased lateral branching and overall bushier growth. This species also benefits from a light shaping and thinning once a year in early spring, before the new shoots emerge. This will also help to control the size of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

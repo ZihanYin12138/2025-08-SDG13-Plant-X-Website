@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2116,
+      "species_id": 725,
+      "common_name": "Yemen tree aloe",
+      "scientific_name": [
+        "Aloe sabaea"
+      ],
+      "section": [
+        {
+          "id": 6553,
+          "type": "watering",
+          "description": "Water sparingly, every 4-6 weeks during the growing season, and very little during winter. With the onset of the growing season (December-February), increase the frequency of watering until the plant is established and growing well. Water with a gentle spray, and avoid hose pressure, which can cause root damage. Avoid over-watering: soil should be allowed to dry out between waterings. In dry areas, the roots may require watering as often as every 2-3 weeks during summer. During winter, only water if the leaves appear to be wilting, and reduce the duration of watering sessions."
+        },
+        {
+          "id": 6554,
+          "type": "sunlight",
+          "description": "Yemen tree aloe (Aloe sabaea) needs about 6 to 8 hours of direct sunlight for optimal growth. During the summer, it prefers full sun exposure, while in the winter, it can withstand partial shade."
+        },
+        {
+          "id": 6555,
+          "type": "pruning",
+          "description": "Yemen tree aloe (Aloe sabaea) is best pruned immediately after flowering in late spring to early summer. Prune off up to half of the flowering stems at the base, taking care to avoid cutting off any foliage rosettes. This will help encourage the plant to form a more attractive bushier shape and also promote further flowering. Pruning at this time will also help to control the size and shape of the plant. Be careful not to over-prune, as this could cause stress to the plant and reduce flowering performance in later years."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

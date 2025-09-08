@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2101,
+      "species_id": 699,
+      "common_name": "alluaudia",
+      "scientific_name": [
+        "Alluaudia dumosa"
+      ],
+      "section": [
+        {
+          "id": 6508,
+          "type": "watering",
+          "description": "When it comes to Alluaudia dumosa's watering needs, it should be watered regularly. Watering frequency should be based on soil texture—for light or sandy soils it should be watered once every 2 to 3 days, whereas for heavier soils, water every 4 to 5 days. During the summer months, watering needs may increase and you may want to increase watering frequency to once every 1 to 2 days."
+        },
+        {
+          "id": 6509,
+          "type": "sunlight",
+          "description": "Alluaudia dumosa requires an annual average of about 10-12 hours per day of direct sunlight in order to thrive. This species does best with a balance of diffuse light during the morning and late afternoon, and direct sunlight around midday when the sun is highest in the sky.  Alluaudia dumosa may need more hours of direct sunlight during the dry, summer months, making up the difference with more diffuse light during the cool, winter months."
+        },
+        {
+          "id": 6510,
+          "type": "pruning",
+          "description": "Alluaudia dumosa should be pruned regularly to maintain its size and shape. It can be pruned at any time throughout the year, but the best times to prune this species are in early spring (before new growth begins) or in late autumn when its growth has slowed. For regular pruning, remove dead and damaged branches as needed. For general maintenance and shaping, select branches that are crossing, growing at odd angles, or overcrowding the plant. Prune back about 25% of its new growth. \n\nIt can also be pruned quite severely if it becomes overgrown or congested. Be sure to remove any sucker shoots that appear in the crown of the plant. This species should not be pruned immediately after planting, as it needs to become established first."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

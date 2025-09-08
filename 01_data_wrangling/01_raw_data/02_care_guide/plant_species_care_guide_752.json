@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2132,
+      "species_id": 752,
+      "common_name": "madwort",
+      "scientific_name": [
+        "Alyssum wulfenianum 'Golden Spring'"
+      ],
+      "section": [
+        {
+          "id": 6601,
+          "type": "watering",
+          "description": "During spring and summer months, madwort (Alyssum wulfenianum 'Golden Spring') should be watered every 5-7 days. The soil should be kept moist but not wet. When watering the plant, water it thoroughly and evenly, and make sure that the entire root system is reached. During the fall and winter months, the watering should be reduced. Watering should happen about once a month or when the soil begins to feel dry. Do not overwater."
+        },
+        {
+          "id": 6602,
+          "type": "sunlight",
+          "description": "Madwort (Alyssum wulfenianum 'Golden Spring') does best in full sun. It prefers 8-10 hours of sunlight each day and should be planted in a location that receives direct sun during the morning and late afternoon hours, such as a south or west exposure. It is particularly important to provide ample sun to encourage spring blooms. When grown in partial shade, madwort is likely to bloom later in the season and will be less vigorous. "
+        },
+        {
+          "id": 6603,
+          "type": "pruning",
+          "description": "Madwort (Alyssum wulfenianum 'Golden Spring') generally needs minimal pruning. This perennial plant does not require a lot of regular trimming to maintain its attractiveness and health. Minor annual pruning can be done in early spring before the start of flowering. \n\nAdditionally, new growth that is appearing can be cut in order to encourage bushier growth as the plant matures. Overly long stems and branches can also be pruned at this time in order to maintain the desired shape of the plant. Finally, any damaged or diseased parts may need to be removed for the overall health of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2109,
+      "species_id": 708,
+      "common_name": "alder",
+      "scientific_name": [
+        "Alnus mayrii"
+      ],
+      "section": [
+        {
+          "id": 6532,
+          "type": "watering",
+          "description": "Alder (Alnus mayrii) should be watered once a week with approximately 1 inch (2.5 cm) of water. Make sure to check the soil to see if it is dry before watering it. The soil should be kept moist but not waterlogged. Alder is not drought tolerant, so it is important to keep it properly watered. During the warmer months, more frequent watering may be needed."
+        },
+        {
+          "id": 6533,
+          "type": "sunlight",
+          "description": "Alder (Alnus marrii) plants can thrive in a variety of conditions, from full sun to light shade and a range of soils. To maintain healthy foliage with vibrant color and vigorous growth, plants need at least 4 to 6 hours of direct sunlight daily. Sunlight should be direct and intense during the cooler hours of the day; midday and afternoon sun is too strong and can scorch the foliage. With the right light exposure, alder trees can produce beautiful yellow and purplish-black blooms in the springtime."
+        },
+        {
+          "id": 6534,
+          "type": "pruning",
+          "description": "Alder (Alnus mayrii) is a very hardy plant species and can generally require minimal pruning. Pruning should be done when the branches become too dense, for the purpose of removing dead wood or crossing branches that are competing for resources or blocked sunlight. Pruning can be carried out in spring or late summer, and should only be done sparingly. If done correctly it can actually make the plant healthier and more aesthetically pleasing."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

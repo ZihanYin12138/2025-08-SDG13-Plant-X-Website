@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 616,
+      "species_id": 748,
+      "common_name": "Joseph's coat",
+      "scientific_name": [
+        "Alternanthera ficoidea (yellow form)"
+      ],
+      "section": [
+        {
+          "id": 1847,
+          "type": "watering",
+          "description": "Joseph’s Coat is a tropical plant that prefers warm, moist conditions and will not tolerate drought. To ensure optimal growth and long-lasting vibrant colors, water whenever the soil feels dry to the touch, about once every 5-7 days. During warmer months, water more frequently as the soil will dry out faster. Avoid overwatering as this can lead to root rot and cause leaves to become limp and yellow. In colder months, reduce the amount of water and frequency of watering. You should also wait until the soil dries out completely before adding additional water."
+        },
+        {
+          "id": 1851,
+          "type": "sunlight",
+          "description": "Joseph's coat is an evergreen perennial plant native to tropical regions of the Americas, Africa and Asia. It can tolerate moderate amounts of sunlight and does best when it is partially shaded. It should receive at least 4 hours of direct sunlight each day, but no more than 6 hours of direct sunlight. When grown indoors, it should be placed in a spot that receives bright, indirect light for most of the day. In moderate climates, Joseph's coat can be placed outdoors in a location that receives some morning sunlight and some afternoon shade."
+        },
+        {
+          "id": 1854,
+          "type": "pruning",
+          "description": "Joseph's coat (Alternanthera ficoidea (yellow form)) should be pruned each year in late winter or early spring. Pruning should reduce the length of the stems back to 45 cm (18 in). The side branches can be cut back to reduce the size and shape of the bush, but care should be taken to not remove more than 1/3 of the foliage at 1 time. Pruning in late winter or early spring allows the plant to focus its energy on growing new stems and foliage, instead of creating flowers."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

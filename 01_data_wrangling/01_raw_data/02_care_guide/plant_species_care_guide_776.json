@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2153,
+      "species_id": 776,
+      "common_name": "blue star",
+      "scientific_name": [
+        "Amsonia ciliata"
+      ],
+      "section": [
+        {
+          "id": 6664,
+          "type": "watering",
+          "description": "Blue Stars like to stay evenly moist, but not too wet or dry. Water the soil when it's just started to dry out, typically every week or 2. The best way to determine how often the soil should be watered is to stick your finger into it. If it's dry up to your second knuckle, it's time to water. During the active growth period of the plant in the spring, summer, and early autumn, increase watering if you do not experience regular rainfall. Avoid overwatering in the winter as this can cause the plants to rot."
+        },
+        {
+          "id": 6665,
+          "type": "sunlight",
+          "description": "Blue star (Amsonia ciliata) plants should be planted in a location which receives full sun for most of the day. It prefers 8-10 hours of sunlight a day, which is best during the morning or early afternoon.  If the sunlight is too intense during the middle of the day, it can be beneficial to provide some natural shade such as by a deciduous or evergreen tree."
+        },
+        {
+          "id": 6666,
+          "type": "pruning",
+          "description": "Blue star (Amsonia ciliata) should be pruned after flowering in the summer months. Pruning should be done in moderation to prevent damage to the shrub. Cut back any stems that have grown too long or appear spindly by about 1/3. In addition, dead or damaged stems should be removed. To maintain a compact form, prune any non-flowering stems as needed. Pruning after flowering is the best time to do so because it will encourage new growth and promote repeat flowering for next season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

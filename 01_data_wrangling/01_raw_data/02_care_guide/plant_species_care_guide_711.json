@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 488,
+      "species_id": 711,
+      "common_name": "Amazonian elephant's ear",
+      "scientific_name": [
+        "Alocasia amazonica 'Polly'"
+      ],
+      "section": [
+        {
+          "id": 1465,
+          "type": "watering",
+          "description": "The Amazonian elephant's ear (Alocasia amazonica 'Polly') should be kept in a pot with well-draining soil, and should be watered every 2-3 days. During hot summer months, it can even need to be watered daily if the soil dries out quickly. When watering, it's best to give it a thorough amount of water until it comes out of the bottom of the pot, and then allow it to drain. Don't let the soil dry out completely in between waterings."
+        },
+        {
+          "id": 1468,
+          "type": "sunlight",
+          "description": "Amazonian elephant's ear plants require bright, indirect sunlight. During the spring and summer months, they need at least 4-6 hours of sunlight per day, but preferably 6-8. During the fall and winter seasons the amount of sunlight should be slightly reduced. Too much direct sunlight can burn the leaves, while not enough sunlight can cause them to become pale and dull in color. It's best to provide filtered sunlight by placing them by a south or west-facing window or door."
+        },
+        {
+          "id": 1469,
+          "type": "pruning",
+          "description": "Pruning can be done in the spring and summer months when the plant is actively growing. Prune away any dead or damaged leaves and stems prior to trimming. When pruning, carefully cut away any branches that are too long or that are growing in an undesired direction. To keep the plant from becoming lanky and spindly, cut back the main stem and leaves by about 1-third each year. Lastly, keep the base of the plant free of excess leaves and debris to promote air circulation and reduce the chances of fungus or other disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

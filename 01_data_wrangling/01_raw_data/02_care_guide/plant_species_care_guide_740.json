@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2123,
+      "species_id": 740,
+      "common_name": "lily of the Incas",
+      "scientific_name": [
+        "Alstroemeria 'Koice' INCA ICE"
+      ],
+      "section": [
+        {
+          "id": 6574,
+          "type": "watering",
+          "description": "Lilies of the Incas, or Alstroemeria 'Koice' INCA ICE, prefer moist but well drained soil, so water your plants regularly but not excessively. Generally, water your lilies of the Incas once every 7-14 days, allowing the soil to become dry between each watering. During periods of extreme heat or drought, you may need to water them more frequently. When watering, make sure to saturate the soil thoroughly, making sure the water reaches deep into the root system."
+        },
+        {
+          "id": 6575,
+          "type": "sunlight",
+          "description": "Lily of the Incas (Alstroemeria 'Koice' INCA ICE) needs full sun to partial shade for optimal growth and flowering. It is best planted in an area that receives between 6-8 hours of sunlight per day. The plant should be kept in direct sunlight during the morning and filtered sun or part shade during the afternoon to help protect the delicate blooms from sunburn. It is important to remember to rotate the plant every few weeks to prevent it from becoming stunted, overexposed to sunlight, or leaning too much in one direction."
+        },
+        {
+          "id": 6576,
+          "type": "pruning",
+          "description": "For best performance, Lily of the Incas (Alstroemeria 'Koice' INCA ICE) should be pruned in late winter or early spring, reducing each stem length by 1/3 or up to 1/2. Pruning encourages the production of dense foliage at the center of the plant, while removing faded blooms and dead foliage will help to promote healthier, prolonged blooming. Occasionally, pruning the entire plant to the ground after flowering will help to rejuvenate the lily of the Incas in the second year or season of growth, leading to more abundant blooms and healthier foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

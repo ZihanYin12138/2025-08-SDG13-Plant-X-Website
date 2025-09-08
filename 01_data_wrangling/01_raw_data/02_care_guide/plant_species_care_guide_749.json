@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2129,
+      "species_id": 749,
+      "common_name": "marsh mallow",
+      "scientific_name": [
+        "Althaea officinalis"
+      ],
+      "section": [
+        {
+          "id": 6592,
+          "type": "watering",
+          "description": "Marsh mallow needs moderate amounts of water and should be watered twice per week. It is important to use lukewarm water and not cold water when watering marsh mallow. During the warm months of summer the plant should be watered more frequently to ensure it receives adequate water to grow well, ideally 3 times per week. During the cooler months of winter, reduce watering to just once per week. Soil should be allowed to partially dry out before watering again. Be careful not to overwater, which can cause root rot. \n"
+        },
+        {
+          "id": 6593,
+          "type": "sunlight",
+          "description": "Marsh mallow plants typically require at least 8 hours of direct sunlight per day in order to thrive. This direct sunlight should occur between 8 a.m. and 4 p.m. when the UV rays are at their strongest. For best results, try to ensure that at least 6 hours of direct sunlight are available during this time. If direct sunlight is not available, then make sure that some bright, indirect sunlight is available during the day. "
+        },
+        {
+          "id": 6594,
+          "type": "pruning",
+          "description": "Pruning for marsh mallow is best done in early to late spring. First, remove any dead or damaged branches or stems. Then, thin out any overcrowded branches by cutting them at the node. You can also lightly trim the tips of longer branches to encourage bushier, fuller growth. It’s important to note that marsh mallow grows best in moist soils, so avoid over pruning and leave the plant with plenty of foliage to produce new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

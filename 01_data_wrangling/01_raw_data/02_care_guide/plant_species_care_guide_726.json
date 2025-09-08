@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2117,
+      "species_id": 726,
+      "common_name": "coral aloe",
+      "scientific_name": [
+        "Aloe striata"
+      ],
+      "section": [
+        {
+          "id": 6556,
+          "type": "watering",
+          "description": "Water once every 10-14 days during the growing season to provide Coral Aloe with adequate moisture. During the cooler winter months, reduce the frequency of watering to once every 2-4 weeks, allowing the soil to dry out between watering. Avoid over-watering, as this can be harmful to the plant."
+        },
+        {
+          "id": 6557,
+          "type": "sunlight",
+          "description": "Coral aloe (Aloe striata) prefers full sun and soil that is well draining. It will tolerate partial shade but will not flower as well in these conditions. The ideal amount of sunlight for this plant species is 6 to 8 hours of direct sunlight each day. For best results, place the Coral aloe in a south- or west-facing window or if grown outdoors, in a sunny, sheltered place. This will ensure that the plant receives ample direct sunlight during the spring and summer months, with a few hours of indirect sunlight during the cooler months of autumn and winter. If the plant is exposed to too much direct sunlight, the leaves may scorch or become dry and brittle."
+        },
+        {
+          "id": 6558,
+          "type": "pruning",
+          "description": "Coral aloe (Aloe striata) is a tender, drought-tolerant succulent that should be pruned in order to promote healthy growth. Typically, coral aloes appreciate pruning once or twice a year, between spring and autumn. It is best to prune when the plant is actively growing, and the best time to do this is in the early spring, when the weather is warm and the days are longer.\n\nWhen pruning, it is important to remove any dead or dying leaves, as well as any overcrowded or spindly stems. This will help to encourage healthier growth and promote bushier, more attractive plants. Always use a sharp, clean pair of scissors or pruning shears to prevent any damage to the plant. The pruned material can be removed from the site or repurposed for propagating new plants. Finally, it is important to only prune the growth points in order to maintain the overall structure of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

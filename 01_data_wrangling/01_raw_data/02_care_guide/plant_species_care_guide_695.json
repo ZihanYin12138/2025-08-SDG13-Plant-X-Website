@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2097,
+      "species_id": 695,
+      "common_name": "ornamental onion",
+      "scientific_name": [
+        "Allium 'Sugar Melt'"
+      ],
+      "section": [
+        {
+          "id": 6496,
+          "type": "watering",
+          "description": "Ornamental Onion (Allium 'Sugar Melt') needs to be watered deeply once a week, and allow the soil to dry out slightly between waterings. During summer months, when conditions are hot and dry, you may need to water 2 to 3 times per week. In hotter climates, more frequent waterings may be required. In the winter, when the plant is dormant, water less. Water when the soil begins to feel dry, approximately every 10 to 14 days. Avoid overwatering, as this can lead to root rot."
+        },
+        {
+          "id": 6497,
+          "type": "sunlight",
+          "description": "Ornamental onion (Allium 'Sugar Melt') does best in full sun. It will also tolerate partial shade, but will require at least 4 to 5 hours of direct sunlight every day for optimum flowering."
+        },
+        {
+          "id": 6498,
+          "type": "pruning",
+          "description": "Ornamental onion (Allium 'Sugar Melt') needs to be pruned in order to keep it looking its best. Pruning should take place after the plant has finished flowering - usually in autumn or early spring. The flowerheads of ornamental onion can be cut down to just above the foliage, and any dead foliage can be removed at the same time. If the plant gets too large, it can be cut back hard to reduce its size and encourage new growth. Pruning ornamental onion helps to encourage tidier, denser growth and more flowers, and is an important part of keeping it looking its best."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

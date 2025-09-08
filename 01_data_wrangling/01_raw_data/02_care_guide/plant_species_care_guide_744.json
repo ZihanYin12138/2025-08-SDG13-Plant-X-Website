@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2127,
+      "species_id": 744,
+      "common_name": "lily of the Incas",
+      "scientific_name": [
+        "Alstroemeria 'The Third Harmonic'"
+      ],
+      "section": [
+        {
+          "id": 6586,
+          "type": "watering",
+          "description": "Lilies of the Incas (Alstroemeria 'The Third Harmonic') should be watered when the top inch of soil starts to dry out. Depending on the temperature and humidity, this can be anywhere from once a week to twice a week. Make sure to always check the soil with your finger or a small stick before adding water. If the soil feels damp at the top, wait a day or 2 before watering. Overwatering can cause the plant to rot, so it's best to err on the side of caution."
+        },
+        {
+          "id": 6587,
+          "type": "sunlight",
+          "description": "Alstroemeria 'The Third Harmonic' (Lily of the Incas) should receive at least 6 hours of direct sunlight each day. For optimal health, it should be placed in a spot where it receives full sun in the morning through late afternoon, with some shade during the hottest parts of the day. When first planted, it should be acclimated to the sunlight by gradually increasing the amount of sun it receives over the course of a few weeks."
+        },
+        {
+          "id": 6588,
+          "type": "pruning",
+          "description": "Lily of the Incas (Alstroemeria 'The Third Harmonic') requires a light prune in the spring after flowering has concluded. This pruning should dispose of any dead, damaged or weak branches and should be kept minimal. If the plant has become too large or unruly it may be necessary to perform more substantial pruning, however this should be done selectively and lightly to avoid damage to the lily. Pruning should generally only occur in early spring, after the flowering season has finished and well before the plant develops buds."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

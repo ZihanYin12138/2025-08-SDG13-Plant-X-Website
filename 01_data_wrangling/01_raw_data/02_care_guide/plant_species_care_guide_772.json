@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2149,
+      "species_id": 772,
+      "common_name": "monkshood vine",
+      "scientific_name": [
+        "Ampelopsis aconitifolia var. glabra"
+      ],
+      "section": [
+        {
+          "id": 6652,
+          "type": "watering",
+          "description": "Monkshood vine (Ampelopsis aconitifolia var. glabra) should be watered regularly, on average twice a week during the growing season, spring through fall. Water the soil until it is evenly moist and the top 2 to 3 inches of soil are slightly wet. In summer, water more frequently if necessary to keep the soil moist. In winter, reduce waterings to once every 2 weeks or so, and water only enough to keep the soil barely moist. In areas of high heat and low humidity, the plant may require additional water during the growing season. Avoid overwatering as this can lead to root rot."
+        },
+        {
+          "id": 6653,
+          "type": "sunlight",
+          "description": "Monkshood vine requires sunlight from early morning to late afternoon for optimal growth and production of flowers. Generally, it should receive 4 to 6 hours of direct sun, though shade during the hottest part of the day will help to protect it from scorching or burning. While monkshood vine can tolerate full sun for extended periods of time, it is best grown in locations where it will be shaded during the midday and early afternoon hours in order to maintain an optimal balance of sun and shade."
+        },
+        {
+          "id": 6654,
+          "type": "pruning",
+          "description": "Monkshood vine should be pruned in late winter or early spring just before new growth begins. Start by removing any dead or diseased canes. Prune any canes that are crossing or rub together so that air can properly circulate. Then take out any old, weak canes that have grown too long. Cut the remaining healthy canes back to 1 or 2 buds, making sure to leave at least 3-4 nodes on the canes to encourage further growth. It is important to prune young plants lightly to prevent them from becoming leggy and unbalanced. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

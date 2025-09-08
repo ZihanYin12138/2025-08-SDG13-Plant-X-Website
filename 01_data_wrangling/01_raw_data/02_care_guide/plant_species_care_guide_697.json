@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2099,
+      "species_id": 697,
+      "common_name": "garlic chives",
+      "scientific_name": [
+        "Allium tuberosum"
+      ],
+      "section": [
+        {
+          "id": 6502,
+          "type": "watering",
+          "description": "Garlic chives should be watered thoroughly but not too often. Aim to water about once a week, depending on the conditions in your environment. Test the soil before watering; If the soil is dry to a depth of 1-2 inches, it's time to water. Don't overwater the plant as it can cause root rot and fungus if the soil is too wet. Additionally, avoid wetting the leaves of the garlic chive plant."
+        },
+        {
+          "id": 6503,
+          "type": "sunlight",
+          "description": "Garlic chives (Allium tuberosum) thrive in full sun, but can tolerate light shade. They prefer long days with 8-12 hours of direct sunlight. However, they should not be placed in direct, intense sunlight during the hottest part of the day, as this may damage the foliage and reduce yield. In climates with strong afternoon sun, it is a good practice to provide garlic chives with some light shade, such as a shade ."
+        },
+        {
+          "id": 6504,
+          "type": "pruning",
+          "description": "Garlic chives (Allium tuberosum) should be pruned throughout the growing season, beginning in the spring when new shoots begin to appear. In the fall, the plants should be cut down to just above the soil line. Pruning should also be done when dead or browning foliage is visible, as it may indicate the plant is becoming too large and may be at risk of outgrowing its location. Prune the plants to encourage full, healthy growth, but be careful not to trim too much too quickly as this could damage the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

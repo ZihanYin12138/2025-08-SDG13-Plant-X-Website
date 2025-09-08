@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2133,
+      "species_id": 753,
+      "common_name": "love-lies-bleeding",
+      "scientific_name": [
+        "Amaranthus caudatus"
+      ],
+      "section": [
+        {
+          "id": 6604,
+          "type": "watering",
+          "description": "Love-lies-bleeding plants prefer moist soil and should be watered deeply and consistently. Water when the top 1-2 inches of soil is dry. During periods of extreme heat, they should be watered twice a week or more. Always make sure to avoid over-watering, as this can lead to root rot. In cooler climates, these plants may need less water. If you're unsure when to water, feel the soil—if it's dry and you can't feel any moisture a few inches down, it's time to water."
+        },
+        {
+          "id": 6605,
+          "type": "sunlight",
+          "description": "Love-lies-bleeding (Amaranthus caudatus) does well in full sun and prefers 6 to 8 hours of direct sunlight per day. It is also tolerant to partial shade, hence receiving 4 to 6 hours of sunlight a day should also suffice. It is important to note that during the hottest part of the day, providing some shade to the plant is beneficial."
+        },
+        {
+          "id": 6606,
+          "type": "pruning",
+          "description": "Love-lies-bleeding (Amaranthus caudatus) should be pruned twice a season. During the spring, when the plant is 2 to 3 weeks old, remove any dead or brittle stems or leaves. This helps to ensure that the plant gets a good start in the season. In the late summer, prune the plant back to 12-18 inches to prevent it from becoming leggy and promote new growth and flower production. Make sure to use clean and sharp pruning shears to ensure a clean cut. To promote a bushier, fuller look, pinch stem tips back just before the plants bloom. Clear away dead or diseased stems or foliage as needed during the season to maintain a healthy and attractive plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

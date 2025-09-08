@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1024,
+      "species_id": 729,
+      "common_name": "lemon verbena",
+      "scientific_name": [
+        "Aloysia citriodora"
+      ],
+      "section": [
+        {
+          "id": 3073,
+          "type": "watering",
+          "description": "Lemon verbena (Aloysia citriodora) should be watered deeply but infrequently. This means that it should be watered enough to saturate the root system and then allowed to dry out slightly before watering again. In general, water this plant species deeply once a week, allowing the top inch or 2 of soil to dry out first. In hotter months, it may need to be watered more frequently (every 3-5 days), and in cooler months you may only need to water every 10-14 days. During periods of excessive heat and dry weather, it may need to be watered even more frequently."
+        },
+        {
+          "id": 3074,
+          "type": "sunlight",
+          "description": "Lemon verbena (Aloysia citriodora) is a subtropical shrub or small tree that needs lots of sun to thrive. It should be planted where it will receive 6 to 8 hours of direct sunlight every day. In the winter, the plant will need some indirect light and prefer cooler temperatures. If the lemon verbena is grown in a planter, it should be moved to a warmer, sunnier spot then moved back indoors when temperatures drop."
+        },
+        {
+          "id": 3075,
+          "type": "pruning",
+          "description": "Lemon verbena (Aloysia citriodora) does not need heavy pruning, but should be given some light pruning at least once a year. Pruning should be done in the spring after the plant has finished flowering, as this is when the plant produces the most growth. When pruning, only lightly trim back any stems that have grown too long or thin, and remove any dead, damaged, or diseased stems. If the lemon verbena plant has grown too tall, it can be trimmed back to a moderate height. Avoid pruning too drastically, as it can shock the plant and damage new growth. Be sure to use sharp, clean pruning tools to avoid damaging the stems, and sanitize the tools between pruning different plants to prevent the spread of disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

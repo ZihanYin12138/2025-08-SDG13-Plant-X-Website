@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2118,
+      "species_id": 735,
+      "common_name": "lily of the Incas",
+      "scientific_name": [
+        "Alstroemeria aurea"
+      ],
+      "section": [
+        {
+          "id": 6559,
+          "type": "watering",
+          "description": "The optimal amount of water for the Lily of the Incas is approximately 1 - 2 inches per week. This should be applied evenly over the soil, ensuring the soil has consistent moisture. It is best to water the soil directly, not spraying the foliage. Watering should take place at least once a week. For hotter climates, more watering may be required up to 3-4 times a week. Take care to ensure the soil has drained and does not become soggy or overly wet. Overwatering will cause the plant to suffer. If the plant shows signs of wilting or drying out, increase the frequency of watering."
+        },
+        {
+          "id": 6560,
+          "type": "sunlight",
+          "description": "Lily of the Incas (Alstroemeria aurea) will thrive when given 6 to 8 hours of direct sunlight per day. For best blooming, place them in a spot that receives morning sun with some afternoon shade. This will help avoid scorched foliage. Avoid full midday sun during the hottest months. In extreme temperatures, midday sun can cause the leaves to become sun burned. Also be aware of plants that are in containers as they may need more (or less) sun than those planted directly in the ground."
+        },
+        {
+          "id": 6561,
+          "type": "pruning",
+          "description": "Lily of the Incas (Alstroemeria aurea) should be pruned once a year in late winter to early spring. During this pruning, remove old or dead stems and any diseased or damage foliage. Cut the stems down to a point just above where 2 new shoots are emerging. If the plant has spread too densely, remove a portion of the older growth to encourage new, healthy shoots."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

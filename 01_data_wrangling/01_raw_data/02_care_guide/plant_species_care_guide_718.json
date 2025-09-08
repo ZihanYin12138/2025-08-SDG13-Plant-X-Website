@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 94,
+      "species_id": 718,
+      "common_name": "elephant's ear",
+      "scientific_name": [
+        "Alocasia 'Sarian'"
+      ],
+      "section": [
+        {
+          "id": 1070,
+          "type": "watering",
+          "description": "Elephant's ear needs to be watered regularly and evenly in order to thrive. During the spring and summer months, water should be applied every 7-10 days or as needed when the top inch of soil has become dry. During the cooler months of fall and winter, reduce waterings to every 2-3 weeks or as needed. Make sure to give enough water at each session to evenly moisten the soil. Over-watering or inconsistent waterings can cause root rot or fungal diseases."
+        },
+        {
+          "id": 1071,
+          "type": "sunlight",
+          "description": "Elephant's ear (Alocasia 'Sarian') needs a moderate to bright, indirect light to thrive. This means that the best location for it is near a bright, east- or west-facing window. It should receive at least 4 to 5 hours of direct sunshine per day for optimal growth and health but should be kept away from direct hot sunlight which will burn the leaves."
+        },
+        {
+          "id": 1072,
+          "type": "pruning",
+          "description": "Elephant's ear (Alocasia 'Sarian') should be pruned in the early spring season (March & April). Prune back any dead, diseased and damaged foliage, as well as any old growth. This will help encourage fresh, new growth and compensate for any loss of leaves due to frost damage. Prune off any tall, gangly stalks back to 1-2 feet (30-60 cm), being sure to cut back to the point of origin. Additionally, you may trim and shape the plant to your liking, removing leaves as desired to promote a more compact form."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

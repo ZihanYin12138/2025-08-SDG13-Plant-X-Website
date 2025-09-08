@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2108,
+      "species_id": 707,
+      "common_name": "seaside alder",
+      "scientific_name": [
+        "Alnus maritima subsp. oklahomensis 'September Sun'"
+      ],
+      "section": [
+        {
+          "id": 6529,
+          "type": "watering",
+          "description": "Seaside Alder prefers moist, well-drained soil and typically does not require any supplemental irrigation during the summer months. During the early spring, water deeply and slowly, once a week, allowing the soil to dry before applying water again. Once the summer heat hits in late June, reduce watering to every other week, only providing water when the soil has dried significantly. To keep the plant healthy, it is best to avoid over-watering, as this can lead to root rot. Additionally, water during the morning or early afternoon to reduce the chances of mold, fungus, and mildew."
+        },
+        {
+          "id": 6530,
+          "type": "sunlight",
+          "description": "Seaside Alder (Alnus maritima subsp. oklahomensis 'September Sun') is a type of shrub that flourishes in full sun. This species prefers to grow in areas with 4 to 6 hours of direct sunlight per day. During the summer months, the plant should receive at least 6 hours of indirect light on a daily basis in order to keep its foliage healthy and vigorous. During the winter months, the plant should receive at least 2 to 3 hours of direct sunlight for photosynthesis to occur. In order to ensure optimal health, the plant should be located in a spot that receives direct sunlight for most of the day during the summer and in an area with indirect sunlight during the winter."
+        },
+        {
+          "id": 6531,
+          "type": "pruning",
+          "description": "Seaside alder (Alnus maritima subsp. oklahomensis 'September Sun') should be pruned in late winter, typically late February or early March. This should be done before new growth begins. Pruning should be done to remove dead or broken branches, and to thin the canopy slightly. This will help to give the plant a more even shape and will increase air flow and light penetration. Pruning should be done with clean, sharp blades and tools, and pruned branches should be promptly removed to minimize disease. Pruning should not be overly aggressive, often times a light pruning is best to preserve the shape and health of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2158,
+      "species_id": 781,
+      "common_name": "shining blue star",
+      "scientific_name": [
+        "Amsonia illustris"
+      ],
+      "section": [
+        {
+          "id": 6679,
+          "type": "watering",
+          "description": "Shining blue star (Amsonia illustris) should be watered once every 10-14 days. This should be done if the soil has dried out significantly, and not more often than necessary. During the summer, when the temperatures are hotter and the sun is out more often, a slight increase in frequency may be necessary. A general guideline to follow is to water when the top inch of soil is dry to the touch. \n"
+        },
+        {
+          "id": 6680,
+          "type": "sunlight",
+          "description": "Shining blue star (Amsonia illustris) typically prefers full sun to partial shade. The best time for sunlight should be 6 to 8 hours a day, ideally in the early morning before 10:00 am and in the afternoon from 2:00 pm to 6:00 pm. If this species is growing in full sun, it will benefit from a couple hours of shade in the middle of the day during the hottest parts of the summer. Avoid planting in an area that receives too much shade as this can impact the flowering."
+        },
+        {
+          "id": 6681,
+          "type": "pruning",
+          "description": "Shining Blue Star  (Amsonia illustris) is best pruned in early spring or late fall, after it has just finished flowering. When pruning, it is best to remove some of the oldest stems from the base of the plant. This encourages new sprouts to grow from the center of the plant. Also, prune out any dead or diseased stems, as well as any stems that are growing out of place or in the wrong direction. Pruning the shrub to better its shape and size may also be done, but be careful to not remove more than 1/3 of live stems in a year. Too much pruning can be damaging to the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

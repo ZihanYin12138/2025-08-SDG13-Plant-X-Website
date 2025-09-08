@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2140,
+      "species_id": 762,
+      "common_name": "apple serviceberry",
+      "scientific_name": [
+        "Amelanchier grandiflora 'Princess Diana'"
+      ],
+      "section": [
+        {
+          "id": 6625,
+          "type": "watering",
+          "description": "Apple serviceberry (Amelanchier grandiflora 'Princess Diana') should be watered deeply once a week during the hot, dry summer months or when the soil appears dry. Water the soil around the plant, avoiding wetting the foliage if possible. Once the soil is wet to a depth of 8-10 inches, there is no need to water again until it is dry to the same depth. Reduce watering in the late summer and autumn to allow plants to harden off for winter. Water only during longer periods of drought in winter."
+        },
+        {
+          "id": 6626,
+          "type": "sunlight",
+          "description": "Apple serviceberry (Amelanchier grandiflora 'Princess Diana') is an ornamental deciduous shrub that thrives in conditions of full sunlight and partial shade. In areas with long summer days it does best if exposed to 8-10 hours of sunlight per day. While the shrub is highly tolerant of exposure to direct sunlight, afternoon shade is advised during the hottest summer months to help the plant retain moisture and reduce leaf scorching. In areas of more temperate climates, such as the Pacific Northwest, exposure to full sun is preferred for optimal growth and flowering of this plant species."
+        },
+        {
+          "id": 6627,
+          "type": "pruning",
+          "description": "Apple serviceberry (Amelanchier grandiflora 'Princess Diana') should be pruned very lightly each year, right after flowering, to maintain its natural shape and size. This should involve pruning back long, crossing branches to avoid crowding; removing any dead, diseased, or damaged branches; and thinning out any weak or overly crowded branches. If the plant is growing too large in your landscape, it can be pruned more heavily in late winter or very early spring, before leaves start to appear. Prune back the main branches to reduce the overall height and width of the shrub by 1/3 or more. Be sure to make clean cuts as close to the main branch as possible, using sharpened pruning shears."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

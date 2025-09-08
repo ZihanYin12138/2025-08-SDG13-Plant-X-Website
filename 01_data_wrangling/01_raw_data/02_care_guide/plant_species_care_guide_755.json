@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2135,
+      "species_id": 755,
+      "common_name": "Joseph's coat",
+      "scientific_name": [
+        "Amaranthus tricolor (vegetable group)"
+      ],
+      "section": [
+        {
+          "id": 6610,
+          "type": "watering",
+          "description": "Joseph's coat should be watered regularly and deeply, providing enough water so that it reaches the entire root system. During the growing season, it needs about an inch of water per week. Water when the top few inches of soil feel dry to the touch. Water in the morning to allow the moisture to reach the roots before the heat of the day. In hot, dry weather, Joseph's coat may need more frequent watering."
+        },
+        {
+          "id": 6611,
+          "type": "sunlight",
+          "description": "Joseph's coat (Amaranthus tricolor) is a hardy vegetable that grows best in full sun. It requires a minimum of 6-7 hours of direct sunlight to thrive. If you are growing the plant outdoors, choose a spot that gets direct light in the morning and afternoon while avoiding midday sun, as too much intense heat can damage the plant. Additionally, Joseph's coat is a warm-weather plant, and does not tolerate the cold, so be sure to bring it indoors or protect it with a covering during the winter months."
+        },
+        {
+          "id": 6612,
+          "type": "pruning",
+          "description": "Joseph's coat (Amaranthus tricolor) should be pruned regularly to ensure the plant remains healthy and attractive. Pruning should be done during the spring season, after the last frost of the season. This will help to shape the plant and allow new growth to take place. Pruning should be done lightly, taking only a few branches or leaves at a time, as too much pruning can damage the plant. Additionally, dead or dying branches should be cut off in order to encourage new growth. Overall, pruning should be done selectively and carefully to avoid damaging the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

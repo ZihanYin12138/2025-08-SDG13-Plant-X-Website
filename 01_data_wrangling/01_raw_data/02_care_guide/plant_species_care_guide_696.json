@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2098,
+      "species_id": 696,
+      "common_name": "ornamental onion",
+      "scientific_name": [
+        "Allium thunbergii 'Ozawa'"
+      ],
+      "section": [
+        {
+          "id": 6499,
+          "type": "watering",
+          "description": "When watering ornamental onion (Allium thunbergii 'Ozawa'), it is important to remember that the soil should be kept moist but not saturated. When first planting the onion, the soil should be thoroughly watered. After that, depending on the weather conditions, water the onion once or twice a week for best results. During warmer months, the onion may need to be watered more frequently, as the soil can dry out quickly. During the cooler months, the onion will need less water. Always make sure to avoid overwatering, as this can harm the onion."
+        },
+        {
+          "id": 6500,
+          "type": "sunlight",
+          "description": "Ornamental onion (Allium thunbergii 'Ozawa') thrives best in full sun and should receive at least 6-8 hours of direct, unfiltered sunlight per day. Morning sun is usually better for it because it will provide warmth early in the day which will encourage the plant to flower and make sure it doesn't become too dry. "
+        },
+        {
+          "id": 6501,
+          "type": "pruning",
+          "description": "Ornamental onion (Allium thunbergii 'Ozawa') should be pruned in early to mid spring, once the plant has finished blooming. Pruning should be moderate, removing only the dead flower heads and some of the foliage around them, while avoiding cutting into the fleshy green leaves of the plant. This thinning will promote more flowering growth, and should be done just enough to keep the plant looking balanced. Ornamental onion is a slow growing plant, so trimming too aggressively can cause it to become over-trimmed and may even stop flowering altogether."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

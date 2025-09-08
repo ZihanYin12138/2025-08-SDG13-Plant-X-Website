@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2145,
+      "species_id": 768,
+      "common_name": "lead plant",
+      "scientific_name": [
+        "Amorpha canescens"
+      ],
+      "section": [
+        {
+          "id": 6640,
+          "type": "watering",
+          "description": "The lead plant requires frequent watering during the warmer months, approximately once per week. The best way to gauge when to water is to check 2–3 inches (5–7.5 cm) down into the soil with a finger; when the soil feels dry, then it is time to water. During the colder months (fall and winter), it is advised to reduce watering to every 2 to 3 weeks, allowing the soil to dry out slightly in between watering sessions. When watering, the lead plant should be watered deeply so that the water seeps into the soil and the roots. It is important to not over-water the lead plant; too much water can cause root rot."
+        },
+        {
+          "id": 6641,
+          "type": "sunlight",
+          "description": "Lead plant (Amorpha canescens) is a deciduous plant native to North America, which requires full sun for optimal growth. This species prefers at least 6-8 hours of direct sunlight each day to thrive. During the winter season, when the days are shorter, some shade may be preferable. Generally, when spring arrives, the plant can begin receiving more direct sunlight. "
+        },
+        {
+          "id": 6642,
+          "type": "pruning",
+          "description": "Lead Plant should be pruned early in the spring season, before new growth begins. Remove any dead or diseased sections of the shrub. Cut some of the oldest branches back close to the ground to encourage new growth and shape the shrub. Remove branches that are growing in unwanted places, such as toward the center of the shrub. Remove any sucker growth from the base of the plant.\n\nPrune lightly but regularly, as improvements can be made quickly with annual pruning rather than making drastic changes every few years. Lead Plant responds well to pruning and can even be shaped by it. Pruning will also help minimize the size of the shrub, if desired."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

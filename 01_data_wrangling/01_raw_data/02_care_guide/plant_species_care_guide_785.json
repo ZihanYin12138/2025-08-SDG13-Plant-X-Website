@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2161,
+      "species_id": 785,
+      "common_name": "blue star",
+      "scientific_name": [
+        "Amsonia tabernaemontana"
+      ],
+      "section": [
+        {
+          "id": 6688,
+          "type": "watering",
+          "description": "Blue Star plants should be watered deeply every 5 to 7 days during the growing season, and every 2 weeks during the dormant season. It is best to water thoroughly and then allow the soil to dry a bit between applications. The amount of water that you should use each time will depend on the soil type, plant size, and climate. Soil should remain consistently moist during the first growing season, so do not allow it to become overly dry. During the established growing season, it will need less water, but it still may require an occasional deep watering in the heat of summer."
+        },
+        {
+          "id": 6689,
+          "type": "sunlight",
+          "description": "Blue star plants (Amsonia tabenemontana) prefer full-sun to light shade conditions. These plants should be placed in areas with at least 6–8 hours of sunlight per day, or in spaces with dappled shade with several hours of sun exposure daily. Blue star plants will tolerate partial shade, but they will grow more compactly and bloom less in lower light situations. In full sun and moist soils, they can reach heights of up to 3 feet. In partial shade, they may reach only 1–2 feet in height."
+        },
+        {
+          "id": 6690,
+          "type": "pruning",
+          "description": "Blue star plants should be pruned annually, in the late winter or early spring, before new growth appears. Blue star's long stems can be trimmed to a height of 6 to 12 inches, which will result in a fuller, bushier plant. When pruning, make sure to cut just above the node, this will force the plant to grow laterally, increasing density. Removed stems may be composted or discarded. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

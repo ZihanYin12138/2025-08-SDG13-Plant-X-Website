@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2164,
+      "species_id": 788,
+      "common_name": "blue star",
+      "scientific_name": [
+        "Amsonia tabernaemontana 'Storm Cloud'"
+      ],
+      "section": [
+        {
+          "id": 6697,
+          "type": "watering",
+          "description": "This species of plant should be watered frequently, but not too much. During the summer months, you should water it twice a week to ensure that it has enough moisture. However, during the colder winter months, reduce your watering to once every 2 weeks. "
+        },
+        {
+          "id": 6698,
+          "type": "sunlight",
+          "description": "Blue star (Amsonia tabernaemontana 'Storm Cloud') is a popular variety of ornamental plant, due to its light airy blue-green foliage and its compact habit. This plant species prefers full sun to part-shade, and should receive at least 6 hours of direct sunlight daily in order to thrive. If planted in a spot that receives more sun than the recommended amount, supplemental watering will be necessary to prevent wilting and sunburn. Planting this species in shade may cause the leaves to turn a darker green and the plants may not reach their full mature height."
+        },
+        {
+          "id": 6699,
+          "type": "pruning",
+          "description": "Blue Star (Amsonia tabernaemontana 'Storm Cloud') should be pruned once a year in late spring or early summer, after blooming has stopped. Pruning should involve removing dead, diseased, or overgrown branches/stems. When possible, cutting the stems back to the base of the plant results in a bushier form with increased flowering. This pruning should also help to keep the plant within its desired size and shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 491,
+      "species_id": 715,
+      "common_name": "giant elephant's ear",
+      "scientific_name": [
+        "Alocasia macrorrhizos"
+      ],
+      "section": [
+        {
+          "id": 1476,
+          "type": "watering",
+          "description": "Water your giant elephant’s ear deeply and infrequently—once a week is recommended. During periods of extreme heat, you may need to up that to twice a week. You’ll know your plant needs water when the leaves begin to droop. It’s best to water your plant slowly and thoroughly. In the winter, water less frequently—once every few weeks should be more than enough."
+        },
+        {
+          "id": 1477,
+          "type": "sunlight",
+          "description": "Giant elephant's ear plants prefer bright, indirect sunlight with 3-4 hours of direct sun each day. When grown indoors, they should be placed in an area with ample indirect sunlight, such as near a south-facing window. In especially sunny regions, they can be placed in shadier areas of the garden with a few hours of morning or evening sun to help reduce the risk of sunburn."
+        },
+        {
+          "id": 1479,
+          "type": "pruning",
+          "description": "Giant elephant's ear (Alocasia macrorrhizos) should be pruned about twice a year in early spring and late summer before the start of new growth. Pruning should be done to remove any dead, damaged leaves and old leaves on the outer portions of the plant. When pruning, it's important to make sure that the plant still has a balanced, attractive shape. Care should be taken not to remove too much of the foliage, as a large portion of the new growth will take place at the center of the plant rather than the base. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

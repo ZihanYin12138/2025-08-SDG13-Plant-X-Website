@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2137,
+      "species_id": 757,
+      "common_name": "dwarf serviceberry",
+      "scientific_name": [
+        "Amelanchier alnifolia var. pumila"
+      ],
+      "section": [
+        {
+          "id": 6616,
+          "type": "watering",
+          "description": "The dwarf serviceberry (Amelanchier alnifolia var. pumila) is a small, shrubby plant that thrives in moist, well-drained soils. It requires regular watering to keep its roots moist, but should not be over-watered. Water the dwarf serviceberry weekly, about 1-2 inches of water per week. Water more often during periods of extreme heat or drought, and less frequently in cool or wet conditions. During the summer, it may be necessary to provide extra water during particularly hot and dry periods. Provide adequate drainage to prevent root rot, and avoid getting the leaves wet when possible."
+        },
+        {
+          "id": 6617,
+          "type": "sunlight",
+          "description": "Dwarf serviceberry (Amelanchier alnifolia var. pumila) thrives best when planted in full sun, receiving at least 6-8 hours of direct sunlight each day. During the summer months, this plant will benefit from the extra hours of sunshine available. It's important to note that the plant should be protected from strong afternoon sun to prevent scorching of the leaves in the hot season. In the cooler months, the plant will do just fine with a minimum of 4 hours of direct sunlight each day."
+        },
+        {
+          "id": 6618,
+          "type": "pruning",
+          "description": "Dwarf serviceberry (Amelanchier alnifolia var. pumila) should be pruned in late winter/early spring, usually between late February to mid-March. Pruning should only be done to keep the shape of the shrub desirable, and should never remove more than 1/3 of the plant's total growth. Removing too many branches or leaves can have a negative effect on the overall health of the plant. The best practice is to identify and remove any dead, damaged, or diseased branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

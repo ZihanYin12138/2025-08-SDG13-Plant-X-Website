@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 530,
+      "species_id": 761,
+      "common_name": "apple serviceberry",
+      "scientific_name": [
+        "Amelanchier grandiflora 'Autumn Brilliance'"
+      ],
+      "section": [
+        {
+          "id": 1593,
+          "type": "watering",
+          "description": "Apple serviceberry (Amelanchier grandiflora 'Autumn Brilliance') should be watered deeply multiple times a week during its establishment period and during periods of drought. Needed watering volume shall be based on its pot, soak it until you see the water draining. Once the plant is established, water it deeply twice a week. During periods of higher temperatures and prolonged drought, however, you may need to water your apple serviceberry up to 3 times a week."
+        },
+        {
+          "id": 1596,
+          "type": "sunlight",
+          "description": "Apple serviceberry plants should receive at least 6 hours of direct sunlight each day for optimum bloom. However, as a versatile species, it is tolerant of a variety of light conditions. Morning sunlight is ideal, to limit damage from intense afternoon sun. For most of the growing season, it should receive full sun from mid-morning to late afternoon. During the hottest summer months, some afternoon shade may be beneficial."
+        },
+        {
+          "id": 1603,
+          "type": "pruning",
+          "description": "Apple serviceberry (Amelanchier grandiflora 'Autumn Brilliance') should generally be pruned at least once a year during early to mid-summer during the dormant season. Pruning should be minimal to moderate, removing any broken, dead, or diseased branches/stems, as well as thinning and shaping the canopy of the tree. No more than 1-third of the plant's branches should be pruned at 1 time so as to not stress the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

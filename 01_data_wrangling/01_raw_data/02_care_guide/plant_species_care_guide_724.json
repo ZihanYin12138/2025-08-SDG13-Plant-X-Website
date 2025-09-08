@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2115,
+      "species_id": 724,
+      "common_name": "aloe",
+      "scientific_name": [
+        "Aloe rauhii"
+      ],
+      "section": [
+        {
+          "id": 6550,
+          "type": "watering",
+          "description": "Aloe rauhii should ideally be watered once per week, but no more than twice per week. If growing in a pot, soak the soil until the water drains out of the bottom drainage holes. Allow the soil to dry out completely between waterings. Avoid over-watering, as this can damage the plant's roots and lead to decay. Aloe rauhii should not be left in standing water. In areas where the air is dry and sunny, mist the leaves lightly with water every few days to discourage dehydration."
+        },
+        {
+          "id": 6551,
+          "type": "sunlight",
+          "description": "The amount and timing of sunlight for Aloe rauhii (a species of aloe plant) depends on its growth environment. For optimal growth, the plant needs a minimum of 4 to 6 hours of direct sunlight each day, either in the morning or late afternoon. In hotter climates and at higher elevations, its ideal to provide protection from the sun during midday, since intense temperatures can burn the leaves. On the other hand, Aloe rauhii will need more sunlight in cooler or shadier environments."
+        },
+        {
+          "id": 6552,
+          "type": "pruning",
+          "description": "Aloe rauhii (Aloe) should be pruned lightly every 2 to 3 years, generally in late winter or early spring before new growth begins. Pruning helps to maintain a healthy and structured shape, eliminates dead or dying foliage, and promotes compact growth. When pruning Aloe rauhii, remove any dead, decaying, or damaged leaves, cutting at the base of each leaf close to the main stem. Remove any yellowing or browning tips of leaves, or any flower stems after the blooming season has passed. Prune off any stems that are growing outside of the desired size and shape of the aloe plant. Be careful when pruning as aloe plants are easily damaged. A light pruning that is no more than 1/3 of the total growth is recommended, but vary depending on the need for maintenance."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

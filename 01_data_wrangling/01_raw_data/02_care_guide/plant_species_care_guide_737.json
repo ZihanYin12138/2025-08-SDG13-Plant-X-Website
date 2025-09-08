@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2120,
+      "species_id": 737,
+      "common_name": "lily of the Incas",
+      "scientific_name": [
+        "Alstroemeria 'Glory of the Andes'"
+      ],
+      "section": [
+        {
+          "id": 6565,
+          "type": "watering",
+          "description": "Lily of the Incas (Alstroemeria 'Glory of the Andes') plants should be watered when the soil feels dry to the touch. Water deeply, at least once a week, and increase frequency if the weather is hot and dry.  Avoid splashing water on the leaves, and water at the base of the plant. If the plant starts to wilt, water immediately."
+        },
+        {
+          "id": 6566,
+          "type": "sunlight",
+          "description": "Lily of the Incas (Alstroemeria 'Glory of the Andes') requires full sun in order to thrive. They should be planted in an area of the garden that receives at least 6-8 hours of direct sunlight each day. Ideally, they should get direct sun during the morning (until mid-afternoon) and bright, indirect sunlight for the remainder of the day. Too much direct sunlight during the hottest part of the day can cause the flowers to burn and fade."
+        },
+        {
+          "id": 6567,
+          "type": "pruning",
+          "description": "Lilies of the Incas (Alstroemeria 'Glory of the Andes') should be pruned as soon as the flowers fade. Pruning should be done in late summer or early fall only when the plant is completely dormant. Cut back the old stems to about 6 inches in length, removing as much dead wood as possible. This will help to encourage new growth and flowering for the following year. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

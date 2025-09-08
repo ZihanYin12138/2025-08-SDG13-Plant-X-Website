@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2111,
+      "species_id": 719,
+      "common_name": "torch plant",
+      "scientific_name": [
+        "Aloe aristata"
+      ],
+      "section": [
+        {
+          "id": 6538,
+          "type": "watering",
+          "description": "Torch plants prefer lightly moist soil, so they should be watered about once every 7 to 10 days. They can tolerate some drying out, so allow the soil to dry slightly between waterings. When watering, always water thoroughly so that the soil is evenly moist but not soggy. Be especially careful not to overwater as this can cause root and stem rot. During winter months, when the plant is dormant, reduce your watering to about once a month or less."
+        },
+        {
+          "id": 6539,
+          "type": "sunlight",
+          "description": "Torch plants require approximately 6 hours of direct sunlight per day. During the peak of summer, reducing the amount of direct sun exposure may be necessary to prevent the plant from becoming sun-stressed."
+        },
+        {
+          "id": 6540,
+          "type": "pruning",
+          "description": "Torch plant, or Aloe aristata, should be pruned 2 to 3 times per year. These should be done in April, June, and September in order to maintain the appeal and health of the plant. Pruning involves cutting off any offshoots, leaves, or other growth that protrudes beyond the desired size of the shrub. This should be done with sharp scissors or sterile pruning shears and can be done as necessary to keep the desired shape. Removing dead leaves or flowers helps to keep the plant looking healthy and reduce the risk of disease. Regular pruning helps to ensure the plant remains healthy and vigorous."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

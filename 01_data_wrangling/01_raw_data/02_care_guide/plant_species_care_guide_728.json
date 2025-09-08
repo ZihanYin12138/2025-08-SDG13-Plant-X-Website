@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 614,
+      "species_id": 728,
+      "common_name": "aloe",
+      "scientific_name": [
+        "Aloe vera"
+      ],
+      "section": [
+        {
+          "id": 1845,
+          "type": "watering",
+          "description": "Aloe plants require little water and have very low water needs. Water once every 2 weeks in the spring and summer, and once a month in the wintertime. Make sure to water your aloe deeply, once it is wet, the soil should be completely saturated with moisture. Be sure to allow the soil to dry out completely before watering again to avoid root rot. It's a good idea to mist the plant every few days with purified water or tap water that has sat for 24 hours in an open container to dechlorinate it."
+        },
+        {
+          "id": 1849,
+          "type": "sunlight",
+          "description": "Aloe vera, a succulent plant species, needs a few hours of direct sunlight to remain healthy. It is best to provide 4 to 6 hours of direct sunlight a day for optimal growth and health. For mature aloe vera plants, morning sun is best because the intense afternoon rays can scald the leaves. If the aloe vera plants are receiving too much sunlight, their leaves will become brown or brittle and scorched. It is important to provide some shade during peak hours of the afternoon sun, especially in hotter climates. \n\nAloe vera plants can also tolerate partial shade, but direct sunlight helps promote growth and blooming. When keeping your aloe vera indoors, make sure it is placed near a south-facing window for maximum sunlight. Additionally, it is important to move the plant regularly to ensure all parts of the plant receive sunlight."
+        },
+        {
+          "id": 1852,
+          "type": "pruning",
+          "description": "Pruning for the aloe plant should generally take place in early spring, after any danger of frost. Depending on the size and health of the plant, some pruning is necessary to promote new growth and remove unproductive foliage. You can prune away any dead or dried leaves as well as any flowers or any branches that have been damaged by excessive sunlight or wind. To achieve a symmetrical look, try removing any centers of the growth points that look overcrowded. For best results, try and only remove around 1/3 of the plant in each pruning session."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

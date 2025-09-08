@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 142,
+      "species_id": 730,
+      "common_name": "sweet almond bush",
+      "scientific_name": [
+        "Aloysia virgata"
+      ],
+      "section": [
+        {
+          "id": 1004,
+          "type": "watering",
+          "description": "Sweet almond bushes require regular watering, especially during the hotter summer months when they are actively growing. Aim to water your sweet almond bush at least once a week in the summer and at least once every 2 weeks in the spring and autumn. During winter, when your sweet almond bush is in its dormant period, adjust your watering schedule and water once every month. Be sure to water your almond bush until the soil is moist, but not soggy, about 2 inches deep. If your soil dries out quickly in hot weather, you may need to water more often."
+        },
+        {
+          "id": 1005,
+          "type": "sunlight",
+          "description": "Generally, sweet almond bushes prefer full sun to ensure their best growth. The bush should receive at least 6 to 8 hours of direct sunlight every day during its growing season. Plants grown in partial shade may not bloom as heavily or have as lush foliage as those grown in full sun. During the summer months, the sweet almond bush should receive at least 8 hours of direct sunlight a day. It should also be placed in a location that receives filtered or indirect sunlight the remaining hours of the day."
+        },
+        {
+          "id": 1006,
+          "type": "pruning",
+          "description": "Sweet almond bush (Aloysia virgata) should be pruned in the spring right after the last frost of the season. Pruning should be light and should focus primarily on removing any dead or dying branches. This will help encourage new growth, keeping your plant full and healthy. You should also remove any crowded, crossing, or diseased branches to prevent any problems from spreading throughout the bush. Pruning will also help shape the shrub, allowing for a desirable visual effect. For optimal health and appearance, pruning should be done once or twice a year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 495,
+      "species_id": 717,
+      "common_name": "elephant's ear",
+      "scientific_name": [
+        "Alocasia 'Portora'"
+      ],
+      "section": [
+        {
+          "id": 1484,
+          "type": "watering",
+          "description": "Elephant's ear (Alocasia 'Portora') plants require moderate amounts of water and should be watered at least once a week during the summer months and every 10-14 days during the winter. The soil should be kept moist but not wet, and dry out slightly between watering. Elephant's ear plants should be watered until the excess moisture runs out from the drainage holes in the bottom of the pot. Avoid overwatering, as this can cause root rot and other plant diseases."
+        },
+        {
+          "id": 1487,
+          "type": "sunlight",
+          "description": "Elephant's ear plants (Alocasia 'Portora') require bright, indirect light for at least 4 hours a day--ideally 8 hours. When in bloom, they do best in direct sunlight for several hours a day, but during the summer months it is important not to leave them in direct sunlight for the entire day as this may lead to scorching and leaf burn. To maintain the vibrancy of the elephant's ears, they should always have partial shade throughout the day."
+        },
+        {
+          "id": 1490,
+          "type": "pruning",
+          "description": "Pruning for the elephant's ear (Alocasia 'Portora') should be done regularly throughout the growing season. Pruning should begin as soon as the plant starts to grow in the spring, and can be done up to 3 times throughout the summer months, keeping in mind that hard pruning should be avoided during the hottest months. The amount of pruning will depend on the preferred size of the plant. Always remove any dead or damaged leaves and trim back the stems as needed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

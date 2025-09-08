@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 526,
+      "species_id": 758,
+      "common_name": "serviceberry",
+      "scientific_name": [
+        "Amelanchier arborea"
+      ],
+      "section": [
+        {
+          "id": 1581,
+          "type": "watering",
+          "description": "Serviceberry should be watered twice a week during active growth, with each session providing around 1 inch of water. The soil should never be allowed to dry out completely in between waterings. During the hot summer months, increase the frequency and amount of watering to make sure the plant does not wilter or drop leaves. In the fall, when the berries ripen, reduce the frequency and amount of watering, but do not stop watering completely. In winter, when the plant is dormant, reduce watering even further, only providing supplemental water when the soil is dry or beginning to dry.  Even though Serviceberry are drought tolerant, they will perform best with consistent moisture."
+        },
+        {
+          "id": 1587,
+          "type": "sunlight",
+          "description": "Serviceberry (Amelanchier arborea) is a native shrub that thrives best in full sun, meaning that it needs at least 6 hours of direct sunlight each day. It can tolerate partial shade, but this will limit flowering and fruit production. Sunlight at any time of the day is fine for these shrubs, so they will do equally well in the morning or afternoon light. "
+        },
+        {
+          "id": 1588,
+          "type": "pruning",
+          "description": "The best time to prune serviceberry (Amelanchier arborea) is in late winter or early spring, before the new growth begins. Pruning should be done lightly, as serviceberry plants are relatively slow-growing. To encourage bushier growth and more vibrant bloom production, remove up to 1/3 of stems each year. Reduce the height of the oldest, tallest stems by pruning back to a younger side shoot. Prune out dead, weak, or crossing branches to improve air circulation and light exposure, and to promote a healthy frame structure."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

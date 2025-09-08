@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2150,
+      "species_id": 773,
+      "common_name": "amur peppervine",
+      "scientific_name": [
+        "Ampelopsis brevipedunculata"
+      ],
+      "section": [
+        {
+          "id": 6655,
+          "type": "watering",
+          "description": "The Amur peppervine should be watered when the soil begins to feel dry to the touch, at least once every 1-2 weeks. Care should be taken to ensure that the plant does not sit in water for too long, as this can lead to root rot. Water deeply and evenly to ensure that the soil is moistened all the way through. Aim to give the Amur peppervine approximately 1 inch of water per week, which is equivalent to about 2-3 gallons of water."
+        },
+        {
+          "id": 6656,
+          "type": "sunlight",
+          "description": "Amur peppervine (Ampelopsis brevipedunculata) is a fast growing, deciduous, trailing vine that thrives in full sunlight. It needs at least 6 to 8 hours of direct sunlight per day to grow and flower properly. This plant is also adapted to partial sunlight and can tolerate full shade. When planting in the ground in an area with full sun, the vines should be planted on the east or southeast side of the house, or near a south-facing wall, in order to provide the necessary shade during the hotter afternoon hours. The vines will need more sunlight during the cooler winter months."
+        },
+        {
+          "id": 6657,
+          "type": "pruning",
+          "description": "Amur peppervine should be pruned once a year in late winter or early spring just before the new growth starts to emerge. Pruning should be light, removing 1/3 of the previous year’s growth. This will encourage a bushy, dense growth habit, and encourage flowers and fruit. Remove any dead or diseased stems first, and trim off any stray shoots growing out of the main canopy. Pruning is especially important for Amur peppervine to keep it in bounds, as it has a tendency to vigorously spread and overtake trees and other plants."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

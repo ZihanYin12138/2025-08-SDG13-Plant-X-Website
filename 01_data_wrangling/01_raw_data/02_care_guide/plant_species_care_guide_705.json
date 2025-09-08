@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2106,
+      "species_id": 705,
+      "common_name": "Japanese alder",
+      "scientific_name": [
+        "Alnus japonica"
+      ],
+      "section": [
+        {
+          "id": 6523,
+          "type": "watering",
+          "description": "Japanese alder (Alnus japonica) should be watered twice a week in the summer and once a week in the winter. Amount of water will depend upon the amount of sunlight the plant is receiving. When watering, water deeply so that the water reaches the roots. Water should slowly soak into the soil, rather than run off the top. The soil should be allowing to dry out slightly between waterings."
+        },
+        {
+          "id": 6524,
+          "type": "sunlight",
+          "description": "Japanese alder (Alnus japonica) prefers full sunlight and does best with 6-8 hours of direct sunlight every day. In shadier locations, Japanese alder will flower, but will not keep as much crimson-red foliage as it does when grown in direct sunlight. If given too much shade or too much water, Japanese alder will suffer because it prefers dry soil and well-drained locations. To ensure that your Japanese alder gets enough sun, locate it in a south-facing plot or carefully prune to allow additional sun exposure."
+        },
+        {
+          "id": 6525,
+          "type": "pruning",
+          "description": "Japanese alder can be pruned in early spring, just as it starts to sprout new growth. The amount of pruning will depend on the size and shape you want to create. Hedges, feature trees and clumps all have a slightly different amount of pruning needed. You should prune any dead, diseased, damaged or crossing branches back to healthy tissue at this time. If you are looking to reduce the size of your Japanese alder then prune and lightly shape in the same style as for the other types. Once per year should be ample for most situations."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1006,
+      "species_id": 731,
+      "common_name": "siamese ginger",
+      "scientific_name": [
+        "Alpinia galanga"
+      ],
+      "section": [
+        {
+          "id": 3019,
+          "type": "watering",
+          "description": "For optimal growing conditions, Siamese ginger plants should be watered once a week with approximately 1 inch (2.54 cm) of water. The soil should remain slightly moist between waterings, so if the soil appears dry, an additional 1/4 inch (0.6 cm) of water can be applied. It is important to avoid over-watering Siamese ginger, so drainage should be monitored. In addition, adding a moisture-retentive layer such as mulch can help to retain moisture without causing root rot."
+        },
+        {
+          "id": 3028,
+          "type": "sunlight",
+          "description": "The siamese ginger plant, also known as Alpinia galanga, prefers bright indirect sunlight throughout the day and can be grown both indoors and outdoors. It benefits from as much direct sunlight as possible for 6 to 8 hours per day, preferably in the morning and late afternoon. If grown indoors, the plant should be placed near a sunny window where it can receive bright, indirect light. In shade, the plant slows down growth and produces smaller flower spikes."
+        },
+        {
+          "id": 3038,
+          "type": "pruning",
+          "description": "Siamese ginger should be pruned lightly throughout its growing season, preferably between the months of April and June. Pruning should be done to manage the plant's size and shape; aim to cut about 1-third of the oldest branches each time, and avoid cutting off too much of the growing tips of the plant. Pruning back dead, damaged, or overgrown stems can also help to improve air circulation and allow in more sunlight for the foliage. Additionally, any flower stalks that are in excess should be removed to encourage new growth and to prevent the plant from becoming leggy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

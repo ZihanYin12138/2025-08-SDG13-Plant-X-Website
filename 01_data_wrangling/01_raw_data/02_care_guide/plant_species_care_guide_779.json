@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2156,
+      "species_id": 779,
+      "common_name": "blue star",
+      "scientific_name": [
+        "Amsonia ciliata var. filifolia 'Georgia Pancake'"
+      ],
+      "section": [
+        {
+          "id": 6673,
+          "type": "watering",
+          "description": "Blue Star (Amsonia ciliata var. filifolia 'Georgia Pancake') require moderately moist soil. Water the plant deeply, but infrequently, to keep the soil moist. Water about every 2-3 weeks in warmer months and once per month during the winter, or when the soil begins to feel dry. If the plant receives too much water, the foliage may wilt or yellow. If this happens, reduce watering until the plant responds."
+        },
+        {
+          "id": 6674,
+          "type": "sunlight",
+          "description": "Blue Star (Amsonia ciliata var. filifolia 'Georgia Pancake') prefers full sun but can tolerate light to moderate shade. The best performance can be achieved when it receives at least 4 - 6 hours of direct sunlight per day, preferably during the morning hours. This plant blooms in the late spring and early summer months, and it requires plenty of light for the blooms to form. Too much shade may prevent the plant from flowering, or cause the blooms to be sparse."
+        },
+        {
+          "id": 6675,
+          "type": "pruning",
+          "description": "It is best to prune Blue Star (Amsonia ciliata var. filifolia 'Georgia Pancake') after it blooms in early summer. Pruning should be done every other year to encourage dense, bushy growth; more frequent pruning may result in decreased flowering. When pruning, use sharp, clean pruning tools to remove old, woody stems at the base - buds on these stems will rarely form viable flowers. If desired, fresh new stems can be pruned back to a few inches above soil level. Be sure to deadhead spent flowers to encourage new growth and flower production."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

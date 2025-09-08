@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 494,
+      "species_id": 727,
+      "common_name": "aloe",
+      "scientific_name": [
+        "Aloe suzannae"
+      ],
+      "section": [
+        {
+          "id": 1483,
+          "type": "watering",
+          "description": "Water Aloe suzannae no more than once every 2 weeks, using approximately 1/2 gallon of water per plant. This should be done in the morning before the sun comes out, to avoid root rot due to over-watering. During the hottest summer months, water approximately once a month, but increase the amount of water slightly. Additionally, always make sure that the soil is barely moist. If you water more often, only give a very small amount of water each time. Over-watering is the most common cause for Aloe Suzannae dying, so watch carefully for signs of overwatering, such as stunted growth and wilting."
+        },
+        {
+          "id": 1485,
+          "type": "sunlight",
+          "description": "Aloe suzannae needs direct sunlight for about 5-6 hours per day. It should receive the sun's light in the morning and then again in the afternoon. The best location for an aloe suzannae plant is a spot that gets full sun in the morning and partial shade in the afternoon. Be aware that this plant should not be placed in direct, intense midday sunlight. Too much sunlight can cause the leaves to become scorched and discolored."
+        },
+        {
+          "id": 1488,
+          "type": "pruning",
+          "description": "Pruning for aloe (Aloe suzannae) should be done at least once a year in early summer. Pruning should involve removal of dead leaves and flowers as well as pinching off any suckers that sprout off of the base of the plant. The aloe should only be pruned as much as necessary to keep the plant looking healthy and to maintain its shape. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

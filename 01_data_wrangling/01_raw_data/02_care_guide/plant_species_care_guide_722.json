@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2113,
+      "species_id": 722,
+      "common_name": "Karoo aloe",
+      "scientific_name": [
+        "Aloe longistyla"
+      ],
+      "section": [
+        {
+          "id": 6544,
+          "type": "watering",
+          "description": "Karoo aloe should be watered about once a week. The amount of water required will vary depending on the size of the plant. For smaller plants, pour enough water into the soil to wet the area around the base of the plant but avoid overwatering. For larger plants, give the base of the plant a deep soaking, allowing the water to penetrate the soil to a depth of about 4 inches. If the Karoo aloe is in a container, water until the excess runs from the bottom of the pot. During the summer months, Karoo aloe may need to be watered more often."
+        },
+        {
+          "id": 6545,
+          "type": "sunlight",
+          "description": "Karoo aloe (Aloe longistyla) prefers full sun but can handle partial shade. The optimal amount of daily sunlight for this species of plant is a minimum of 6-10 hours of direct sunlight a day. It's best to give the plant exposure to the sun early in the day and avoid the intense midday sun. In the colder winter months, the Karoo aloe can handle medium to light direct sunlight for as few as 2-4 hours."
+        },
+        {
+          "id": 6546,
+          "type": "pruning",
+          "description": "Karoo aloe (Aloe longistyla) should be pruned a few times a year, usually between late spring and early summer. Pruning should be done gently to minimize damage to the plant and should only remove damaged or diseased leaves. Dead or dying flower stalks can also be removed. Stems that are no longer necessary can be pruned back to the crown of the plant, and the top of the plant can be trimmed back to help maintain the desired size and shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

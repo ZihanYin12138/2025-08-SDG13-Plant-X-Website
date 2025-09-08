@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2102,
+      "species_id": 700,
+      "common_name": "alluaudia",
+      "scientific_name": [
+        "Alluaudia humbertii"
+      ],
+      "section": [
+        {
+          "id": 6511,
+          "type": "watering",
+          "description": "For an Alluaudia humbertii plant, it is best to keep the soil slightly moistened at all times. Water it every 4-5 days, allowing the top few inches of soil to become dry between waterings. Do not let the soil become overly dry, as the plant's leaves may become crispy. During the dry season, water the plant more frequently but keep in mind that it does not like to have wet feet, so don’t let the soil stay too saturated."
+        },
+        {
+          "id": 6512,
+          "type": "sunlight",
+          "description": "Alluaudia humbertii thrives in full sun and for optimal growth, it should receive at least 6 to 8 hours of direct sunlight each day. It does, however, tolerate light dappled shade, and will also not suffer from too much direct sunlight in its natural habitat. When grown as a houseplant, keep it in an area with indirect sunlight, such as near a south-facing window. \n\nDirect sunlight can be too intense for houseplants, so it's best to limit the amount of time the plant is exposed to direct sunlight to 4 or 5 hours per day, depending on the amount of shade in the room."
+        },
+        {
+          "id": 6513,
+          "type": "pruning",
+          "description": "Alluaudia humbertii should be pruned during either the growing or dormant season. Pruning during the growing season should be done when the plant is actively growing from late spring to midsummer, or from late summer to midfall. During these times, it is best to cut back individual branches to create a fuller appearance, as well as remove any dead or diseased branches. Pruning during the dormant season should be done in the late winter, preferably in February or March, to remove any dead, diseased, or overcrowded branches. Late winter pruning can help keep the plant's shape and reduce the overall size."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2154,
+      "species_id": 777,
+      "common_name": "blue star",
+      "scientific_name": [
+        "Amsonia ciliata 'Halfway to Arkansas'"
+      ],
+      "section": [
+        {
+          "id": 6667,
+          "type": "watering",
+          "description": "Blue Star (Amsonia ciliata 'Halfway to Arkansas') should be watered weekly when soil is dry, and 1-2 inches of water should be applied each time. During the summer months, these plants may require additional watering. The best way to determine if a plant needs to be watered is to feel the soil around it; if the top few inches are dry, then it is time to water. Water thoroughly and slowly, and always ensure the soil is draining well. Too much water can cause root rot."
+        },
+        {
+          "id": 6668,
+          "type": "sunlight",
+          "description": "Blue Star (Amsonia ciliata 'Halfway to Arkansas') grows best in full sun, meaning 6-8 hours a day. The best time of the year for this plant species to receive full sun is during the spring and summer when the days are longest and the sun is highest in the sky. During the winter months, Blue Star can tolerate partial shade but will still grow best in full sun."
+        },
+        {
+          "id": 6669,
+          "type": "pruning",
+          "description": "Blue Star (Amsonia ciliata 'Halfway to Arkansas') should be pruned in late winter or early spring, just before the new growth begins. Pruning should be limited to removing dead or damaged branches and thinning out any overcrowded branches. It is not necessary to trim the plant into a specific shape, as the natural appearance is quite attractive. To promote bushier growth, prune just above a leaf node a few inches above a set of leaves on the branches. This will encourage the plant to branch out. Pruning lightly every other year is generally sufficient for Blue Star."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

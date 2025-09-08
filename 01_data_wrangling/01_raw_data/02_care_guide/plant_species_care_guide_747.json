@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 615,
+      "species_id": 747,
+      "common_name": "Joseph's coat",
+      "scientific_name": [
+        "Alternanthera ficoidea"
+      ],
+      "section": [
+        {
+          "id": 1846,
+          "type": "watering",
+          "description": "Joseph's Coat should be watered when the top inch of soil feels dry. Depending on what type of container the plant is in, how much sunlight it is getting, and the humidity in the area, this can be anywhere from once or twice a week to every 2 or 3 days. When watering, make sure you give the plant enough water so that it begins to sink into the drainage holes in the bottom of the pot. Allow the excess to drain away before returning the pot to its saucer."
+        },
+        {
+          "id": 1850,
+          "type": "sunlight",
+          "description": "Joseph's coat prefers bright, indirect sunlight for at least 4-6 hours per day. When the weather is hot, the plant should be protected from direct sunlight, as direct sunlight may cause sunburn. However, even a few hours of direct sunlight in the morning or late afternoon can still benefit the plant. Joseph’s coat can also tolerate some shade, but will not thrive without sufficient sunlight."
+        },
+        {
+          "id": 1853,
+          "type": "pruning",
+          "description": "Joseph's Coat can be heavily pruned in late spring or early summer. Prune the plant to just above the desired shape and size you want it to be. While you can prune heavily, avoid cutting more than 1/3 of the plant at a time to avoid stressing the plant. Start by trimming off dead or yellowing leaves and branches. Spend time looking at the plant from different angles to identify where it needs pruning. \n"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

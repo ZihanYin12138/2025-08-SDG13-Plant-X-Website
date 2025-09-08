@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 566,
+      "species_id": 732,
+      "common_name": "ginger lily",
+      "scientific_name": [
+        "Alpinia japonica"
+      ],
+      "section": [
+        {
+          "id": 1699,
+          "type": "watering",
+          "description": "Ginger lilies require regular watering to remain healthy and produce their beautiful, fragrant flowering stalks. During dry periods, water ginger lilies every 7-10 days. Water the plant deeply, providing enough water to wet the entire root system. Avoid over-watering the plants, as this can lead to root rot or other diseases. Be sure to check the soil around the plant to make sure it is not overly wet before watering. During the growing season (spring through fall), provide your ginger lily with an even moisture, keeping the soil moist but not wet. In the wintertime, it is best to reduce watering for ginger lily plants. Water only when the top of the soil begins to feel dry."
+        },
+        {
+          "id": 1700,
+          "type": "sunlight",
+          "description": "Ginger lilies (Alpinia japonica) prefer full sunlight to partial shade in order to remain healthy and bloom. It's best to give the plant 4 to 6 hours of direct sunlight every day, preferably in the morning or late afternoon when the light is not as intense. If you live in a cloudier region or warmer climate, ginger lilies will still do well as long as they are exposed to more intense sunlight for at least 2 to 3 hours each day. Keep in mind that the intensity of the sunlight is key and careful attention should be paid to the number of hours of sunlight that your ginger lily is exposed to each day."
+        },
+        {
+          "id": 1701,
+          "type": "pruning",
+          "description": "Ginger lily (Alpinia japonica) should be pruned at the end of winter or the beginning of spring, when new growth is beginning to appear. Pruning should be minimal and only the dead or weak stems should be removed. It is important to leave some of the older stems and foliage to provide protection for the new growth. Pruning should also only be done to maintain the desired shape of the plant. Uneven snipping or pruning can impair the health of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2141,
+      "species_id": 763,
+      "common_name": "Allegheny serviceberry",
+      "scientific_name": [
+        "Amelanchier laevis"
+      ],
+      "section": [
+        {
+          "id": 6628,
+          "type": "watering",
+          "description": "The Allegheny serviceberry requires moist soil, particularly during the growing season. Water the Allegheny serviceberry once a week with 1 to 2 inches of water each time. It is important to keep the soil evenly moist throughout the growing season, and avoid over-watering or allowing the soil to dry out completely. During the winter months reduce the watering frequency to once a month, as this species is prone to winter injury. Avoid splashing water on the foliage of the shrub during watering as this can cause damage."
+        },
+        {
+          "id": 6629,
+          "type": "sunlight",
+          "description": "The Allegheny serviceberry (Amelanchier laevis) needs at least 4 hours of direct sunlight a day and does best when it receives 6 to 8 hours of direct sun. It can tolerate partial shade, and does not need full sun all day. However, it will not do well if it is in very dense shade for much of the day. It is best planted in a location that receives morning sun and afternoon shade. In the northern parts of its growing range, it can tolerate full sun all day, but in the hotter areas it needs some afternoon shade."
+        },
+        {
+          "id": 6630,
+          "type": "pruning",
+          "description": "Allegheny serviceberry should be pruned in late winter or early spring, before the new growth begins. When pruning, you should remove any dead, damaged or diseased branches and thin out any overcrowded areas, making sure to leave at least 4 to 5 healthy buds on each branch. This will help to create a more open structure and allow air and sunlight to penetrate the plant. If Allegheny serviceberry is left unchecked and uncared for, it can quickly become too thick and choked with too many branches, and will require more severe pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

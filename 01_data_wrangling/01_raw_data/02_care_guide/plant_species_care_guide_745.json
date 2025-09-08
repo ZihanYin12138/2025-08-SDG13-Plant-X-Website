@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2128,
+      "species_id": 745,
+      "common_name": "brazilian joyweed",
+      "scientific_name": [
+        "Alternanthera brasiliana 'Purple Prince'"
+      ],
+      "section": [
+        {
+          "id": 6589,
+          "type": "watering",
+          "description": "Brazilian joyweed (Alternanthera brasiliana 'Purple Prince') is an easy to care for annual plant that thrives in warm temperatures. As with most plants, it requires regular watering to remain healthy and flowering. Generally, water Brazilian joyweed every 2-3 days during the growing season, making sure the soil remains moist but not waterlogged. During the winter months, reduce watering to once every 7–10 days. Too little water can cause the leaves to look wilted and eventually die, while too much water can stunt the growth of the plant. Additionally, make sure the soil drains well and that any excess water from irrigation is quickly evaporated."
+        },
+        {
+          "id": 6590,
+          "type": "sunlight",
+          "description": "Brazilian joyweed (Alternanthera brasiliana 'Purple Prince') requires full sun to partial shade for optimum growth and flowering. The plant should be grown in an area that receives at least 6-8 hours of direct sunlight per day. Sunlight intensity should also be monitored. Brazilian joyweed can tolerate the heat of the long, intense summer days but it needs some shade if the intensity of the sunlight is too high. During the fall and winter months, the plant needs direct sun for only 4-5 hours per day as the intensity of sunlight is lower and the days are shorter."
+        },
+        {
+          "id": 6591,
+          "type": "pruning",
+          "description": "Brazilian joyweed (Alternanthera brasiliana 'Purple Prince') should be pruned by the end of winter or early spring. Pruning should be minimal, focusing mainly on removing any dead, diseased or damaged stems. This will encourage the plant to put energy into new growth and maintain its shape. Additionally, pruning away any crossed or overcrowded stems will help to promote air circulation necessary for a healthy plant and will help Brazilian joyweed produce new flowers faster. Avoid pruning too much away as this will reduce flowering potential for the following season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

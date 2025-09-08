@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1007,
+      "species_id": 734,
+      "common_name": "shell ginger",
+      "scientific_name": [
+        "Alpinia zerumbet 'Variegata'"
+      ],
+      "section": [
+        {
+          "id": 3020,
+          "type": "watering",
+          "description": "Shell ginger should be watered moderately and consistently, allowing the soil to dry slightly between waterings. During the growing season (spring through fall), water the plants thoroughly and deeply every 7-10 days, or more often in extreme heat or drought. During the winter months, water less frequently when the plant is not actively growing. The best way to check if your shell ginger is due for water is to feel the soil for moisture prior to applying more water."
+        },
+        {
+          "id": 3029,
+          "type": "sunlight",
+          "description": "Shell ginger is best suited for partial shade or in an area that receives indirect sunlight—ideally, about 4 to 6 hours of sunlight per day. Direct sunlight may cause the leaves to burn during hotter periods of the day. It is recommended to provide Shell Ginger with morning sunlight and some shade throughout the afternoon during the hottest hours of the day. try to keep it away from drafts, intense heat, and direct afternoon sun during the summer. "
+        },
+        {
+          "id": 3039,
+          "type": "pruning",
+          "description": "For shell ginger (Alpinia zerumbet 'Variegata'), pruning should be done sometime between early spring and midsummer. It is best to prune the plant when it is mostly dormant or when new growth is just starting. Prune the tips of the leaves to maintain a healthy shape but also consider removing some of the old stems in order to encourage new growth. Do not remove more than 1/3 of the plant's overall growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
