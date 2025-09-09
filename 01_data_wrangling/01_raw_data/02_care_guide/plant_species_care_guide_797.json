@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2170,
+      "species_id": 797,
+      "common_name": "blue bugloss",
+      "scientific_name": [
+        "Anchusa azurea 'Dropmore'"
+      ],
+      "section": [
+        {
+          "id": 6715,
+          "type": "watering",
+          "description": "Blue bugloss (Anchusa azurea 'Dropmore) should be watered regularly, but allow the soil to dry out somewhat between waterings. Water the plants deeply with about 1 inch (2.5 cm) of water weekly during the growing season but reduce watering to once every 2 weeks in fall and winter. If grown in containers, water until water flows through the drainage hole at the bottom of the container. "
+        },
+        {
+          "id": 6716,
+          "type": "sunlight",
+          "description": "Blue bugloss is a hardy plant that can grow in a wide range of light conditions, from full sun to partial shade. For optimum growth, it should receive at least 6 hours of direct sunlight daily during the summer months. In the spring and fall, 4-5 hours of direct sun per day is beneficial, but the plant can survive with only 2-3 hours. It will tolerate some shade, but may become leggy and less bushy if given too much shade."
+        },
+        {
+          "id": 6717,
+          "type": "pruning",
+          "description": "Blue bugloss (Anchusa azurea 'Dropmore') should be pruned lightly in early spring, once any frosts have passed. This pruning should include removing any dead or damaged stems, and light trimming of flowering stems. Heavier pruning should be done in late winter or early spring, with stems cut back to the desired height. Pruning back the stems to encourage new growth will help promote a fuller and healthier plant. When pruning, be sure to maintain the natural shape of the plant, and avoid cutting back too harshly, as this can cause harm to the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

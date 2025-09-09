@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1011,
+      "species_id": 843,
+      "common_name": "custard apple",
+      "scientific_name": [
+        "Annona reticulata"
+      ],
+      "section": [
+        {
+          "id": 3024,
+          "type": "watering",
+          "description": "Custard apples require regular watering during the growing season. They should be watered on a weekly basis and receive approximately 1-2 inches of water each time. If temperatures are hot and dry, they may need to be watered more frequently. In the winter months, it’s best to reduce watering to once every 2 to 3 weeks."
+        },
+        {
+          "id": 3034,
+          "type": "sunlight",
+          "description": "Custard apple (Annona reticulata) plants require lots of sunlight and should receive 6-8 hours of direct sunlight per day. This should be provided evenly throughout the day as the plant may burn if it receives too much sunlight all at once. It is best to place the plant in an area that receives the most sunshine possible, especially during the hottest part of the day. Generally, this means having the plant in a south-facing or west-facing window or, if outdoors, in a location where the sun is in full view. During very hot days, it is advisable to provide some shade for the custard apple plant."
+        },
+        {
+          "id": 3041,
+          "type": "pruning",
+          "description": "Custard apples (Annona reticulata) should be pruned twice throughout the year: in late spring to encourage new growth and in late summer to restrict growth and ensure that the plant maintains its optimal size. When pruning, start by removing any broken, diseased, or dead branches first. Then selectively cut out any crossing or competing branches and shape the crown by removing the ends of any long branches. If the plant is severely overgrown, don't be afraid to cut it back drastically. Be sure to make your cuts straight across at a 45-degree angle, just above a bud. Finally, remove any suckers that appear around the base of the plant and thin out any overcrowded areas."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

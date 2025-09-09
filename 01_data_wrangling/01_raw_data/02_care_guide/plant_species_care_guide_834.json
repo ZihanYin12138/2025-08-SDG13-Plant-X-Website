@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2200,
+      "species_id": 834,
+      "common_name": "dill",
+      "scientific_name": [
+        "Anethum graveolens"
+      ],
+      "section": [
+        {
+          "id": 6805,
+          "type": "watering",
+          "description": "Dill should be watered regularly, as it is a fairly thirsty plant. The best way to do this is to water it thoroughly and deeply, approximately once a week when it's actively growing during the warmer months. During dry periods, however, it should be watered more frequently. Make sure to check the soil before you water, as it may not need any extra irrigation if it's still moist. If the soil appears dry, water it until it's saturated and the water has travelled to the bottom of the pot. Be careful not to overwater the plant, as this may cause root rot."
+        },
+        {
+          "id": 6806,
+          "type": "sunlight",
+          "description": "Dill (Anethum graveolens) is a sun loving plant that benefits from 6 to 8 hours of direct sunlight a day. The amount of sunlight needed to maximize growth and flavour of this herb depends greatly on the climate in which it is grown. In areas with intense sunshine, dill may thrive with as little as 5 hours of sunlight per day, however in cooler climates, more exposure to sunlight may be needed. A daily dose of 6 to 8 hours of direct sunlight ensures that dill stays healthy and does not become leggy or yellow."
+        },
+        {
+          "id": 6807,
+          "type": "pruning",
+          "description": "Dill (Anethum graveolens) should be pruned regularly for healthy growth. Generally, dill should be pruned every few weeks during the active growth period. Pruning should be done just before the plant blossoms. During each pruning session, remove a few of the longest stems that are longer than 4-6 inches and cut them back to the desired height. After blooming, cut out all of the flower heads to promote a final growth spurt before winter. Additionally, prune out stems that look dead, sick, or diseased. This helps to encourage a stronger, healthier plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

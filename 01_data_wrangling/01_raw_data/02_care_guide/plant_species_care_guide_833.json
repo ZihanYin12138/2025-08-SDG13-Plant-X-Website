@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2199,
+      "species_id": 833,
+      "common_name": "thimbleweed",
+      "scientific_name": [
+        "Anemone virginiana"
+      ],
+      "section": [
+        {
+          "id": 6802,
+          "type": "watering",
+          "description": "Thimbleweed (Anemone virginiana) should be watered 2-3 times a week, allowing the topsoil to dry before the next watering. During warmer months, when the plant is actively growing, water it more frequently. During the cold season, water the plant less often, but not infrequently. Always be sure to avoid overwatering, as this can quickly lead to rot or mold. Also be mindful of the amount of humidity in the air, as this can influence how often it needs to be watered."
+        },
+        {
+          "id": 6803,
+          "type": "sunlight",
+          "description": "Thimbleweed (Anemone virginiana) is a herbaceous, perennial plant species that prefers full sun to light shade. It can tolerate some shade, but growth and bloom performance will be reduced. It will need to receive at least 6-8 hours of sunlight per day during the blooming season (usually April-May) and 4-5 hours during the summer months (June-August). During the winter months, the plant will need less sunlight, approximately 3-4 hours per day should be enough."
+        },
+        {
+          "id": 6804,
+          "type": "pruning",
+          "description": "Thimbleweed (Anemone virginiana) generally requires very little pruning, and any pruning should be kept to a minimum as it can reduce the plant's flower output the following year. Prune off any dead, damaged, or diseased stems any time, and trim back the plant once in the late winter or early spring to promote fresh growth. Do not remove more than 1/4 of the total stem and leaf area when pruning. If you want to keep the plant at a smaller size, you may selectively snip off the end of a branch to encourage fresh growth to fill out the shape of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

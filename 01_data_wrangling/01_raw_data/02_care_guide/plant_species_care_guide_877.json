@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2233,
+      "species_id": 877,
+      "common_name": "fan columbine",
+      "scientific_name": [
+        "Aquilegia flabellata"
+      ],
+      "section": [
+        {
+          "id": 6904,
+          "type": "watering",
+          "description": "Fan Columbine should be watered moderately and consistently. During summer months, water the plant once a week, providing 1-2 inches of water each time. During winter months, water every other week, making sure the soil is never too wet. Allow the soil to dry out between waterings. To check if the soil is dry, stick your finger into the top inch or 2 of soil - if it is dry, it is time to water."
+        },
+        {
+          "id": 6905,
+          "type": "sunlight",
+          "description": "Fan columbine (Aquilegia flabellata) grows best in USDA hardiness zones 4-7. It prefers partial sunlight and requires at least 4-5 hours of direct sun each day. However, it can also tolerate some shade when afternoon sun is especially strong. Full sun can cause the foliage to become scorched, so it is best to keep it away from extremely hot or direct sun at peak times. In terms of timing, morning sunlight is the most beneficial for fan columbine, as it helps the plant dry out from the overnight dew and prevents the risk of fungal diseases."
+        },
+        {
+          "id": 6906,
+          "type": "pruning",
+          "description": "Fan columbine should be pruned at least twice a year for optimal growth and health. The first pruning should be done in late winter (February or March) just when the plant is beginning to reawaken and sprout new growth. For this first pruning, remove any dead or wilted foliage, cut out any damage caused by winter weather, and thin out any overly thick or crowded branches. If the plant is tall and leggy, you can also trim it back to encourage bushier growth. \n\nThe second pruning should come in the late summer (August or September) right before the plant goes into dormancy. For this pruning, deadhead any faded flowers and cut back the stems of any spent blooms to about a third of their length. Doing this will ensure a more profuse bloom the following spring as well as reduce the risk of the plant self-seeding in your garden."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2213,
+      "species_id": 852,
+      "common_name": "Dyer's chamomile",
+      "scientific_name": [
+        "Anthemis tinctoria 'Kelwayi'"
+      ],
+      "section": [
+        {
+          "id": 6844,
+          "type": "watering",
+          "description": "Dyer's chamomiles should be watered when the top 1 or 2 inches of soil are dry. In areas of regular rainfall, it may only need to be watered once a week or so. When watering, it is important to give it a good, deep soaking. too much light and inconsistent watering can cause the plants to become spindly and weak. In drier climates, they may need to be watered more frequently. They are quite drought tolerant, however, and too much water can cause root rot."
+        },
+        {
+          "id": 6845,
+          "type": "sunlight",
+          "description": "Dyer's Chamomile (Anthemis tinctoria 'Kelwayi') requires full sun for optimal growth. It should be placed in a sunny location that receives at least 6 hours of direct sunlight a day. The best time of day for sunlight is from late morning to late afternoon, when the sun is at its highest and brightest. If your location does not receive enough sunlight for the plant, you may need to supplement with grow lights."
+        },
+        {
+          "id": 6846,
+          "type": "pruning",
+          "description": "Dyer's chamomile (Anthemis tinctoria 'Kelwayi') should be pruned in late winter or early spring before new growth emerges. It is a low-maintenance plant that only requires light pruning each year. Prune off any dead or brown stems, and trim particularly long or bushy stems to maintain an even shape. A gentle pruning is all that is required; however, if the plant has become overgrown, more drastic pruning may be needed. Avoid pruning too much, as this can limit the flowering potential. With proper pruning, Dyer's chamomile can remain as a low-growing, mounding, perennial clump for many years."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2237,
+      "species_id": 882,
+      "common_name": "fan columbine",
+      "scientific_name": [
+        "Aquilegia flabellata var. pumila 'Silver Edge'"
+      ],
+      "section": [
+        {
+          "id": 6916,
+          "type": "watering",
+          "description": "Fan columbine (Aquilegia flabellata var. pumila 'Silver Edge') needs to be watered regularly to ensure its growth. Newly planted specimens should be watered every 7-10 days if the soil is dry, while well established plants should be watered once or twice a week depending on the soil’s moisture content. During hot, dry summer months, fan columbine will appreciate additional water, like a deep soak once or twice a week. Be sure not to over water, as this can lead to root rot and other issues. Check the soil for moisture before watering, and let the top layer of soil dry out slightly between waterings."
+        },
+        {
+          "id": 6917,
+          "type": "sunlight",
+          "description": "Fan columbine (Aquilegia flabellata var. pumila 'Silver Edge') requires at least 4-5 hours of direct sunlight each day. Place in a location with bright indirect light or partial shade throughout the rest of the day to avoid burning the leaves. Be sure to monitor the plant's health carefully, especially during the hottest months, as too much direct sunlight can damage it. Additionally, avoid placing the plant in areas with intense reflected light, such as windows facing south, as this can also cause damage over time."
+        },
+        {
+          "id": 6918,
+          "type": "pruning",
+          "description": "Fan Columbine should be pruned in late winter or early spring. Prune back any dead or damaged foliage to promote healthy growth. To maintain size and encourage more blooms, lightly prune the plant if it has become too large or unruly. Cut back the stalks in late spring or early summer, leaving a few short stems with leafy growth at the base. Remove spent flowers and weak or spindly center stems to encourage bushy growth and more flowers. If the plant is overgrown, cut back by up to a third."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

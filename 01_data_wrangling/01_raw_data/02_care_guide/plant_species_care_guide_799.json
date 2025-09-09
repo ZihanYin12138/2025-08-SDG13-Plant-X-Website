@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2171,
+      "species_id": 799,
+      "common_name": "bluestem",
+      "scientific_name": [
+        "Andropogon capillipes 'Valdosta Blue'"
+      ],
+      "section": [
+        {
+          "id": 6718,
+          "type": "watering",
+          "description": "Bluestem (Andropogon capillipes 'Valdosta Blue') prefers moist soil and should be watered about once or twice a week, depending on the temperature. To keep the soil damp, it's best to water thoroughly, allowing the top inch of soil to become dry before watering again. During the warmer months, especially during periods of intense heat, you may need to water more frequently. If the soil feels dry to the touch, it is time to water. In colder months, water less often. Avoid overwatering, as this can cause root rot and kill the plant."
+        },
+        {
+          "id": 6719,
+          "type": "sunlight",
+          "description": "Bluestem (Andropogon capillipes 'Valdosta Blue') is a type of grass that thrives in sunny, hot weather. It should typically receive full sun, or about 8 hours of direct sunlight each day. If it does not receive enough sunlight, the grass may not thrive as desired. Bluestem can tolerate some shade, especially during the hottest summers, however, inadequate sunlight will reduce the amount of foliage and flowering of the grass."
+        },
+        {
+          "id": 6720,
+          "type": "pruning",
+          "description": "Bluestem should be pruned once or twice a year, preferably in early spring and late summer. This should be done just after the vegetation has completed its flowering period, prior to the development of new basal sprouts. Pruning should be done selectively, to remove any deadwood, weak or damaged stems, and the basal sprouts that grow at the base of parent plants. Pruning should be done with clean, sharp shears, cutting the stems at a 45-degree angle, close to the base, about 1-third of the way up the stem. When pruning for shape and size, use caution as to not disturb the plant's natural growth pattern. Remove only the necessary stems to create the desired form and size. Typically no more than 1/3 of the plant should be pruned."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

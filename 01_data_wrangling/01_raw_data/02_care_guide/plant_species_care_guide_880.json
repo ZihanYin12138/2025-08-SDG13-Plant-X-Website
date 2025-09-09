@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2235,
+      "species_id": 880,
+      "common_name": "fan columbine",
+      "scientific_name": [
+        "Aquilegia flabellata var. pumila 'Alba'"
+      ],
+      "section": [
+        {
+          "id": 6910,
+          "type": "watering",
+          "description": "Fan columbine should be watered deeply every 7 to 10 days with approximately 1 inch of water. It is important to water the plant evenly and to ensure that the soil is lightly saturated so that the water can reach the roots. Make sure the soil is well-draining, and water at the base of the plant. Do not water from above as it may lead to disease. In the summer months, water more frequently. During the winter months when the plant is dormant, watering should be decreased."
+        },
+        {
+          "id": 6911,
+          "type": "sunlight",
+          "description": "Fan columbine plants need full sun or partial shade. They do best in full sun and partial shade, so they should be planted in an area that receives around 4 to 6 hours of direct sunlight each day. They prefer soil that is on the dry side, so they should not be planted in areas that are overly wet or waterlogged. They should be watered frequently throughout the hot summer months, but it is important not to over water them. In the winter months, their water needs can be reduced dramatically."
+        },
+        {
+          "id": 6912,
+          "type": "pruning",
+          "description": "Fan columbine should be pruned in early spring, before new growth starts, to help maintain its compact, mounded shape. Start by removing any dead and damaged branches, down to the point where healthy wood remains. To encourage fullness, lightly prune the tips of the remaining branches. Take care not to overprune as this may cause the plant to become leggy and have too few flowers. If needed, remove up to a third of the foliage for shape and size control. After pruning, top dress the area with compost and mulch to help maintain moisture in the soil."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

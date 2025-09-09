@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2183,
+      "species_id": 814,
+      "common_name": "Japanese anemone",
+      "scientific_name": [
+        "Anemone hupehensis 'Hadspen Abundance'"
+      ],
+      "section": [
+        {
+          "id": 6754,
+          "type": "watering",
+          "description": "Japanese anemone (Anemone hupehensis 'Hadspen Abundance') should be watered every 7 to 10 days during the spring, summer, and fall growing season, and only when the top 2-3 inches of soil is dry. Water thoroughly to ensure the root system is evenly moist, and water at the base of the plant to minimize leaves being wet. During the fall and winter, water only when the soil is completely dry. It is important to water the anemone only as needed to reduce the risk of disease and fungus."
+        },
+        {
+          "id": 6755,
+          "type": "sunlight",
+          "description": "Japanese anemone (Anemone hupehensis 'Hadspen Abundance') prefers full sun to partial shade. They will benefit from receiving about 6-8 hours of direct sunlight each day, preferably in the morning or early afternoon. Plants should be protected from the strongest midday and afternoon sun to prevent heat stress and leaf scalding. Avoid placing them in full shade, as this may prevent flowering and inhibit growth."
+        },
+        {
+          "id": 6756,
+          "type": "pruning",
+          "description": "Japanese anemone (Anemone hupehensis 'Hadspen Abundance') should be pruned in late winter after it has finished blooming. To encourage more flowering next season, you should trim back the stems to 6-8 inches above the soil. This also helps reduce the chances of the plant becoming overgrown and congested. Removing some old stems may also open the plant up, allowing more light and air to circulate through the foliage. Pruning in this way also helps promote healthier growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

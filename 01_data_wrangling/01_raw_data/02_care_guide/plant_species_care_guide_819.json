@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2188,
+      "species_id": 819,
+      "common_name": "windflower",
+      "scientific_name": [
+        "Anemone hybrida 'Honorine Jobert'"
+      ],
+      "section": [
+        {
+          "id": 6769,
+          "type": "watering",
+          "description": "Windflowers require moderate watering, about once a week, unless it is a particularly hot day when they may need to be watered twice a week. The soil should be moist but not soggy. It is important not to overwater, so be sure to check the soil for dryness before waterings. During the summer months they may need to be watered 1-2 times per week if they are in direct sunlight. Water in the early morning hours to give the plant enough time to absorb the moisture before the heat of the day sets in."
+        },
+        {
+          "id": 6770,
+          "type": "sunlight",
+          "description": "Windflowers prefer full to partial sun, with 4 to 6 hours of sunlight a day being ideal. Morning sun is also desirable, and helps to dry the dew on the foliage, helping to avoid fungal diseases. Light shade in warmer climates may be required in order for the windflower to thrive."
+        },
+        {
+          "id": 6771,
+          "type": "pruning",
+          "description": "Windflower (Anemone hybrida 'Honorine Jobert') typically does not require much pruning. However, you can do some light maintenance pruning after flowering to keep the plant looking its best. If the windflower becomes overgrown and out of shape, you can prune it back to its desired size and shape in late spring. You can also prune off any dead or faded flowers at the same time.\n\nBe careful not to prune too severely, as Anemone hybrida is slow to regrow and will take some time to recover from severe pruning. If you do decide to do more involved pruning, you may want to wait until early Fall, when the plant is closest to dormancy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

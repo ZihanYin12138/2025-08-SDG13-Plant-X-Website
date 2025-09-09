@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2195,
+      "species_id": 826,
+      "common_name": "wood anemone",
+      "scientific_name": [
+        "Anemone nemorosa"
+      ],
+      "section": [
+        {
+          "id": 6790,
+          "type": "watering",
+          "description": "Wood anemone (Anemone nemorosa) typically needs light watering, with an inch of water applied every 2 weeks.\n\nWhen it has newly been planted in the ground, water it daily until the roots are established. Immediately after planting, give the wood anemone a good soaking.\n\nIn dry conditions, increase watering to 1-2 inches of water per week. The amount of water needed depends on the size of the plant, the weather and the soil type, but overall, keep the soil evenly moist but not soggy or oversaturated.\n\nTo ensure adequate water supply, mulch the soil with a 2-3 inch layer of organic mulch. This will help keep moisture in the soil for a longer period. During the summer months, consider using soaker hoses which can be used to deliver an even amount of water to the soil."
+        },
+        {
+          "id": 6791,
+          "type": "sunlight",
+          "description": "Wood Anemone (Anemone nemorosa) requires an average of 4-6 hours of sunlight per day. It should be placed in an area where it will get full sun exposure in the morning and afternoon, while avoiding noon sunlight, especially in summer. When in autumn and winter, Wood Anemone will still benefit from several hours of sunlight (preferably direct sun in mild climates) to help it survive and remain healthy. During periods of strong sunlight, it is recommended to provide some shade to protect Wood Anemone from becoming scorched."
+        },
+        {
+          "id": 6792,
+          "type": "pruning",
+          "description": "Wood Anemone (Anemone nemorosa) should be pruned in late winter or early spring, when it is dormant. Pruning should be light and should focus on cutting back any damaged or diseased stems. It is best to prune no more than a third or a quarter of the stems, so the plant will retain its natural shape. Pay attention to the location of the buds, which are located at the leaf nodes along the stems. Pruning too much at once can shock the plant and it may not flower as profusely or as early in the season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

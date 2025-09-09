@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 706,
+      "species_id": 811,
+      "common_name": "windflower",
+      "scientific_name": [
+        "Anemone coronaria"
+      ],
+      "section": [
+        {
+          "id": 2112,
+          "type": "watering",
+          "description": "Windflower plants are best watered when the soil is slightly dry to the touch. You should water your windflower plants about once a week, adding enough water to soak the soil up to 3-4 inches deep. You should not allow your windflower plants to sit in overly wet soil, as this can cause the roots to rot. Allow the top inch of soil to dry before you water again."
+        },
+        {
+          "id": 2114,
+          "type": "sunlight",
+          "description": "Windflower plants need at least 5-6 hours of direct sunlight each day in order to thrive. Too much direct sunlight can cause the leaves to wilt and become sickly. Morning sun is best for windflowers, so it's best to position them somewhere they can get at least a few hours of sunlight before the afternoon hours. Windflowers do not like the intense afternoon heat, so it's important to give them at least partial shade during the hottest part of the day."
+        },
+        {
+          "id": 2120,
+          "type": "pruning",
+          "description": "Windflower should generally be pruned at the end of its flowering season. The ideal time would be late autumn or early winter when the flowering period is over. Pruning should be minimal, as the windflower is a slow-growing species. Depending on the size of the plant, only up to 1-third or 1-quarter of the old plant tissue should be removed. Pruning should also focus on dead and dying stems and those that look weak and unhealthy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

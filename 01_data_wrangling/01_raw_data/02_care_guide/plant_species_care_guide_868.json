@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2224,
+      "species_id": 868,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia 'Bunting'"
+      ],
+      "section": [
+        {
+          "id": 6877,
+          "type": "watering",
+          "description": "Columbine (Aquilegia 'Bunting') requires moist soil, so water it regularly during the growing season (generally from early spring to late summer). However, be careful not to keep the soil constantly wet as this can result in root rot. Aim to water around once a week, making sure the soil is moist but not soggy. During particularly hot summer days, you may need to water more frequently. Reduce watering in the winter when the plant is dormant, only giving it enough to keep the soil from becoming bone dry."
+        },
+        {
+          "id": 6878,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia 'Bunting') is a flowering perennial that blooms best in full sun or partial shade. It prefers 6 or more hours of sunlight daily, though it can tolerate partial shade. When grown in full sun, columbine 'Bunting' will produce an abundant display of flowers. When planted in partial shade, its flowering will be reduced. The periods of sun and shade are important for this species, as it can become too hot for the plant to survive with extended periods of direct sunlight. In most climates, the plant prefers sunlight from morning to early afternoon, with some shade during the middle and late part of the day."
+        },
+        {
+          "id": 6879,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia 'Bunting') should be pruned in late winter or early spring, when the plant is still dormant. Pruning should be kept to a minimum, removing dead, diseased, or damaged stems and any branches that are overcrowded or rubbing against each other. Before pruning, ensure that all stems are completely dead. Annual pruning is not required but it can be beneficial to remove any unsightly or dead branches each year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

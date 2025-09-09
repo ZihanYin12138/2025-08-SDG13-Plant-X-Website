@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2178,
+      "species_id": 807,
+      "common_name": "windflower",
+      "scientific_name": [
+        "Anemone blanda 'Blue Shades'"
+      ],
+      "section": [
+        {
+          "id": 6739,
+          "type": "watering",
+          "description": "Water your windflower (Anemone blanda ‘Blue Shades') regularly to ensure it gets enough moisture for healthy growth. During the active growth period, water your windflower about once a week with enough water to keep the soil evenly moist. Water until the excess moisture drains away. Make sure to water the soil, not the foliage. During periods of hot, dry weather, your windflower may need to be watered more often. Once established, your windflower should be able to survive some degree of drought, but it will do better with regular water."
+        },
+        {
+          "id": 6740,
+          "type": "sunlight",
+          "description": "Windflower (Anemone blanda 'Blue Shades') enjoys full sunlight and does best in a location that receives at least 6 hours of direct sunlight per day. This can be either in the morning or afternoon, so long as the plant receives a full 6 hours of light each day. Because windflowers resemble small daisies, they may need additional shade during the hottest times of the day in order to protect their delicate petals from wilting or sunburn. During the summer months when temperatures may be higher, try providing windflowers with some relief from the sun during the longest and hottest hours of the day."
+        },
+        {
+          "id": 6741,
+          "type": "pruning",
+          "description": "Windflower (Anemone blanda 'Blue Shades') should be pruned once a year in late spring or early summer, just after flowering has finished. Pruning should involve removing any dead or dying foliage and cutting back the stems to the base. Pruning windflower helps to encourage new foliage and flower growth. For best results, pruning should only remove stems that are dead, dying or damaged in some way; otherwise, the plant should be left alone to maintain its vigor. It's not necessary to prune heavily every year as too much pruning can make the plant grow lanky and weak."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2210,
+      "species_id": 848,
+      "common_name": "pussy toes",
+      "scientific_name": [
+        "Antennaria parlinii"
+      ],
+      "section": [
+        {
+          "id": 6835,
+          "type": "watering",
+          "description": "Pussy toes (Antennaria parlinii) should be watered little and often. During the summer months, water every 2-3 days, allowing the soil to dry out slightly between each watering. During winter, water less frequently, about once or twice a month. It is always important to check the soil before watering as plants in gravel or rock gardens may not require watering at all due to the added drainage capability. Pussy toes are drought tolerant, so it's better to underwater than to over water."
+        },
+        {
+          "id": 6836,
+          "type": "sunlight",
+          "description": "Pussy toes (Antennaria parlinii) need full sun in order to thrive. This means 6 hours of direct sunlight per day. However, staying in full sun all day may lead to the plant becoming stressed from high temperatures. If this is the case, it's best to provide it with a few hours of afternoon shade. Ultimately, the amount of sun a pussy toe needs can depend on the local climate. Plants in warmer climates may need some afternoon shade, whereas cooler climates may allow the plant to receive the full 6 hours of sunlight."
+        },
+        {
+          "id": 6837,
+          "type": "pruning",
+          "description": "Pussy toes, or Antennaria parlinii, should be pruned in late spring or early summer. Generally, the best way to prune these plants is to remove the longest stems, down to an inch taller than other stems. This helps to maintain the clumping habit of the plant’s growth. If some stems are dead or unhealthy, they should also be removed. Generally, only light pruning is necessary. Too much pruning can shock the plant, so it is best to prune only when necessary."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

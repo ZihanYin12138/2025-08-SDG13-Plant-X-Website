@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2189,
+      "species_id": 820,
+      "common_name": "windflower",
+      "scientific_name": [
+        "Anemone hybrida 'Königin Charlotte' QUEEN CHARLOTTE"
+      ],
+      "section": [
+        {
+          "id": 6772,
+          "type": "watering",
+          "description": "Windflowers should be watered weekly, but depending on the conditions they should be monitored to determine exactly when to water. During the active growth period of spring and summer, water the Windflower whenever the top of the soil feels dry. In hot weather, Windflower may need to be watered twice a week. During the dormant period of fall and winter, water only when the soil feels completely dry. To reduce the risk of fungal diseases, water the plant early in the day, and at the base of the plant to avoid wetting the foliage."
+        },
+        {
+          "id": 6773,
+          "type": "sunlight",
+          "description": "For optimal growth, Anemone hybrida 'Königin Charlotte' (Queen Charlotte) should receive partial to full sun, or 4 to 6 hours of direct sunlight a day. The amount of shade during the hottest part of the day is beneficial for this plant, as it can be easily scorched by too much direct sun during this time. Sun during the cooler part of the day, along with adequate water and soil nutrients, will help promote healthy windflower growth."
+        },
+        {
+          "id": 6774,
+          "type": "pruning",
+          "description": "Windflower (Anemone hybrida 'Königin Charlotte' QUEEN CHARLOTTE) should be pruned in early to late fall. You should cut off all the remaining flower heads and yellowing or dead foliage. Take care not to damage the stems while pruning as well. It is best to prune out no more than 1/3 of the growth at a time to encourage strong, healthy growth in the spring."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

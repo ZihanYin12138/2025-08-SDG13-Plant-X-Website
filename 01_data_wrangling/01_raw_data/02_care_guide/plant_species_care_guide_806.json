@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2177,
+      "species_id": 806,
+      "common_name": "windflower",
+      "scientific_name": [
+        "Anemone blanda"
+      ],
+      "section": [
+        {
+          "id": 6736,
+          "type": "watering",
+          "description": "Water the Windflower once a week, in the amount of 1/2 to 1 inch, depending on conditions. Make sure the soil is damp but not soaked. If the soil dries out, water the Windflower deeply so the water can reach the roots. If the plant shows any signs of stress, let the soil dry out slightly before watering again."
+        },
+        {
+          "id": 6737,
+          "type": "sunlight",
+          "description": "Windflower (Anemone blanda) is a plant species that thrives best in full sunlight, but can handle some light shade. It needs at least 6 hours of direct sunlight per day during its growing season, which is typically in the spring and summer months. During the winter, it should be exposed to as much natural light as possible, even in cooler climates where the sun may not be as strong. "
+        },
+        {
+          "id": 6738,
+          "type": "pruning",
+          "description": "Windflower (Anemone blanda) should be pruned after blooming, generally from May to July. Pruning should be done to remove old flower stalks and any dead or damaged foliage. Cut the foliage and flower stalks back to the soil level. This encourages strong new growth, and a new round of blooms. Pruning can also be done in the fall, to cut back any overgrown foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

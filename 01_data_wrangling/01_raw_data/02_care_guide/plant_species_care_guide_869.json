@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2225,
+      "species_id": 869,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia caerulea"
+      ],
+      "section": [
+        {
+          "id": 6880,
+          "type": "watering",
+          "description": "Columbine (Aquilegia caerulea) should be watered on a regular basis to keep the soil evenly moist and not allow any standing water. Water when the top layer of the soil (1 to 2 inches down) feels dry to the touch. Potted plants should be watered more often than those in the garden. During warmer and drier months, water plants about 2 times per week. During cooler or wetter months, water plants about once a week. Make sure to water the soil surrounding the plant and not just the foliage as this can cause fungal diseases."
+        },
+        {
+          "id": 6881,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia caerulea) thrives in partial shade to full sun exposure. The best location for this plant species is an area that receives 4 to 6 hours of direct sunlight per day. Columbines should avoid exposure to extreme midday or afternoon sun, as it can cause the plant to wilt. If planted in direct sunlight for more than 6 hours, the plant should be shaded or screened to maximize its growth potential. Columbines prefer the cooler morning and evening light."
+        },
+        {
+          "id": 6882,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia caerulea) should be pruned once a year in late winter or early spring. Prune off all dead and diseased stems and any spent flower stalks down to just above the foliage. This will promote healthier new growth and encourage more flowers. For more established plants that are overcrowded, more significant pruning may be necessary. Reduce the stems to encourage more bushiness and prune back the outer stems by 1-third to a half of their length. This type of pruning should be done in late spring after the first flush of blooms, or in mid-summer when new growth appears."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

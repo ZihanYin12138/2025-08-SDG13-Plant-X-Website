@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2181,
+      "species_id": 812,
+      "common_name": "windflower",
+      "scientific_name": [
+        "Anemone cylindrica"
+      ],
+      "section": [
+        {
+          "id": 6748,
+          "type": "watering",
+          "description": "Windflowers should be watered about 1-2 times a week. Make sure to water the soil until it is damp, but not soaking wet. It is important to avoid overwatering, as this species is prone to root rot. During the summer months when temperatures are higher, you may need to water your windflower more frequently. During the cooler months, you can reduce waterings to once a week."
+        },
+        {
+          "id": 6749,
+          "type": "sunlight",
+          "description": "Windflower needs at least 5 hours of direct sunlight per day to thrive. Ideally, the sun’s rays should strike its blooms directly in the early morning and early evening before setting in the west, as this will produce the most vibrant flowers. If the plant gets too much or too little sun, the blooms may become faded or wilted. \n\nToo much sun exposure may also cause leaf scorch. To protect windflower from the sun’s strong rays, avoid planting it in areas exposed to noon sun. Instead, find a spot with dappled shade or afternoon sun to ensure the plants get the bright morning sunshine but are shaded from the intense rays at midday."
+        },
+        {
+          "id": 6750,
+          "type": "pruning",
+          "description": "Windflower (Anemone cylindrica) does best when it receives an annual pruning. It should be pruned back each spring, just before it begins to bud. Start pruning when the stems reach 10-12 inches in height. Pruning should be done by removing the top 1/3 of the stems and by trimming off any dead or dying foliage. This will also help to encourage new, healthy growth and will also keep the plant in a more compact form. Pruning will also help keep the plant from becoming overgrown. If your Windflower becomes overgrown or untidy, prune it back more severely in early spring to rejuvenate it."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

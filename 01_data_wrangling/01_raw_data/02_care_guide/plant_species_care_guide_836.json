@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2202,
+      "species_id": 836,
+      "common_name": "masterwort",
+      "scientific_name": [
+        "Angelica atropurpurea"
+      ],
+      "section": [
+        {
+          "id": 6811,
+          "type": "watering",
+          "description": "Masterwort should be watered frequently during the growing season. A deep, thorough watering once or twice a week is ideal. Water thoroughly until the soil is moist and then allow the top inch or 2 of soil to dry out before watering again. Reduce watering frequency to once a month during the winter when the plant is dormant."
+        },
+        {
+          "id": 6812,
+          "type": "sunlight",
+          "description": "The amount of sunlight that masterwort needs depends on its location, as some plants may need more than others. For example, those growing in a sunny location will need more sunlight than those growing in a shady spot. Generally, masterwort can tolerate extended periods of partial shade but will bloom best in full sun. This species should get at least 6 hours of direct sunlight each day, ideally during the time of the day when light is at its strongest (usually morning or late afternoon). It is important to avoid exposing masterwort to direct sunlight during the hottest part of the day, particularly during summer. If this happens, it can cause scorching of the leaves."
+        },
+        {
+          "id": 6813,
+          "type": "pruning",
+          "description": "Masterwort should be pruned at the end of the blooming season, usually in late summer or early fall. This will help shape the plant and promote a bushier and more compact form. The size of the pruning cuts should depend on the height of the plant. Smaller plants should have lighter pruning while larger plants can endure a heftier trim. In general, about 1-third of the growing tips should be pruned to encourage plant growth. If the plant becomes too large and overgrown, heavy pruning can be considered."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

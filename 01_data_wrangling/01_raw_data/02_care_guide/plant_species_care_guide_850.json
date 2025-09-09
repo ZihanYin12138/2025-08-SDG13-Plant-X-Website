@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 587,
+      "species_id": 850,
+      "common_name": "golden chamomile",
+      "scientific_name": [
+        "Anthemis tinctoria"
+      ],
+      "section": [
+        {
+          "id": 1762,
+          "type": "watering",
+          "description": "Water your golden chamomile regularly, using enough water to moisten the entire soil. Water the plant in the morning, twice a week, or as it becomes dry. During the warmer months, more frequent watering may be necessary. Soil should be checked and allowed to nearly dry out between thorough watering to prevent root rot. Reduce watering in winter and generally avoid watering once temperatures drop below freezing."
+        },
+        {
+          "id": 1763,
+          "type": "sunlight",
+          "description": "Golden chamomile (Anthemis tinctoria) requires direct sunlight during 6 to 8 hours of the day. During the spring and summer, the plant should be placed in full sun, while during the fall and winter, it should be placed in a spot that receives at least 6 hours of bright, indirect sunlight. In cooler climates, partial shade may be necessary to prevent the plant from becoming too dry and stressed. During the hottest times of the day, it is best to give the plant some shade to protect it from scorching."
+        },
+        {
+          "id": 1764,
+          "type": "pruning",
+          "description": "Golden chamomile should be pruned during the early spring, before new growth begins. This will help keep the plant bushy and promote healthy growth. The amount of pruning needed for golden chamomile depends on the desired size and shape of the plant. If the plant is only going to grow 1 to 2 feet tall, it should be lightly pruned after the first new growth has emerged in the spring, removing any old or dead stems. If the plant is going to grow taller, it should be cut back to about 1-third of the desired size at this time. In the summer months, light pruning can be done to remove any dead or diseased stems. In the fall, the plant should be pruned back to about 1-third of its original size again to encourage new growth for the spring."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

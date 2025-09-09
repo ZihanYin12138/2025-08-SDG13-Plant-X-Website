@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 618,
+      "species_id": 861,
+      "common_name": "zebra plant",
+      "scientific_name": [
+        "Aphelandra squarrosa"
+      ],
+      "section": [
+        {
+          "id": 1857,
+          "type": "watering",
+          "description": "The zebra plant (Aphelandra squarrosa) should be watered regularly, but not too much. It prefers evenly moist soil with good drainage. Water the plant when the top inch (2.5 cm) of the soil is dry to the touch. Usually, this means watering the plant every 7–10 days during its growing season (spring and summer). Reduce the frequency of watering during the winter months so that the soil remains a bit drier than usual. Too much water can cause root rot, so allow plenty of time for the soil to dry out between waterings."
+        },
+        {
+          "id": 1861,
+          "type": "sunlight",
+          "description": "Zebra plants, or Aphelandra squarrosa, should receive bright, indirect sunlight for most of the day. These plants prefer exposure to full sunlight for 4 to 6 hours during the morning and early afternoon. During the remainder of the day, they should be kept in medium light levels. Additionally, the intensity of the light should be adjusted according to the season and the plant's location. For example, if the zebra plant is located in a cooler climate, the amount of direct sunlight should be reduced to avoid burning the leaves."
+        },
+        {
+          "id": 1865,
+          "type": "pruning",
+          "description": "Zebra Plant (Aphelandra squarrosa) should be pruned regularly to promote a healthy, robust growth. Pruning should take place in the late winter or early spring, before the plant starts new growth. Use sharp snips or pruning shears to trim off any dead, yellowing or overgrown stems and leaves. Prune back stems to leave 2 or 3 sets of healthy leaves. If there are branches growing too close together, cut them away. Zebra Plant responds well to moderate pruning and can be cut back to about 1-third of its original size if necessary."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

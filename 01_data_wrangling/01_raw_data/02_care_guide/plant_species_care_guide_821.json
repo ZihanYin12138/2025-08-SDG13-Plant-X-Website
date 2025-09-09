@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2190,
+      "species_id": 821,
+      "common_name": "windflower",
+      "scientific_name": [
+        "Anemone hybrida 'Lady Gilmour'"
+      ],
+      "section": [
+        {
+          "id": 6775,
+          "type": "watering",
+          "description": "Windflowers require medium levels of water to thrive. Water them deeply when the soil is dry to the touch 1-2 inches below the surface. Aim to water once a week if the soil has become completely dry, or water 2 to 3 times per week with a light watering if the soil is still slightly damp after the end of each week. In hotter months, they may need more frequent watering. Observe the plant and check the soil frequently to gauge when it’s time to water and modify accordingly."
+        },
+        {
+          "id": 6776,
+          "type": "sunlight",
+          "description": "Windflower (Anemone hybrida 'Lady Gilmour') should be planted in an area that receives full sun to partial shade throughout the day. It will thrive when exposed to at least 6 hours of direct sunlight, preferably from mid-morning to late afternoon. For optimal flowering, windflower should receive at least 8 hours of direct sunlight all year round. It also prefers cooler temperatures and should not be exposed to extreme heat or frost conditions."
+        },
+        {
+          "id": 6777,
+          "type": "pruning",
+          "description": "Windflowers (Anemone hybrida 'Lady Gilmour') should be pruned heavily in the late winter or early spring, before new leaf growth begins. Pruning should remove all of the dead foliage and stems, and should cut back any too-tall flower stalks by 1/3 or more. This will help to keep the plant from becoming too tall and lanky. Pruning during the spring also helps the windflower produce a full, luscious display of blooms later in the season. If a windflower becomes too overgrown, it can be cut back by a third to a half in early summer, as well. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2176,
+      "species_id": 805,
+      "common_name": "Roundleaf Liverleaf",
+      "scientific_name": [
+        "Anemone americana"
+      ],
+      "section": [
+        {
+          "id": 6733,
+          "type": "watering",
+          "description": "Roundleaf Liverleaf should be watered regularly to keep the soil moist but not soggy. It is best to water in the morning or evening to prevent evaporation. During the summer, Roundleaf Liverleaf should be watered 2 to 3 times a week—about 1-2 inches of water each time. During spring and fall, water them once a week, and in the winter, water them once every few weeks. Allow the soil to dry out slightly between waterings."
+        },
+        {
+          "id": 6734,
+          "type": "sunlight",
+          "description": "Roundleaf Liverleaf (Anemone americana) grows best in partial shade, with 4 to 6 hours of direct sunlight per day. During mid-spring and summer, these plants thrive when given bright, indirect light for most of the day, and partial shade during the hottest hours of the day. For best results, sunlight should be filtered or it may cause the foliage to scorch. In the late afternoon, the amount of sunlight should be decreased even further to avoid sunburn. During the winter, Roundleaf Liverleaf will do best in full sun for at least 4 hours per day."
+        },
+        {
+          "id": 6735,
+          "type": "pruning",
+          "description": "Roundleaf Liverleaf should be pruned after blooming in late spring or early summer. To prevent spread, it is important to prune the plant properly. First, use sharp pruning shears to cut away any dead leaves or flowers. This should be done without cutting into the stem or root system. After this, prune the foliage in small increments while monitoring the size of the plant. If the foliage grows too large, trim more of the stem and foliage back. Take care to leave 1-third of the foliage in place to ensure good health and adequate energy for the plant to produce new buds and flowers."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

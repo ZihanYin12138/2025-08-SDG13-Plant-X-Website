@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 547,
+      "species_id": 884,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia glandulosa"
+      ],
+      "section": [
+        {
+          "id": 19500,
+          "type": "watering",
+          "description": "Columbine requires moderate watering, about 1 inch or 25 millimeters of water per week. Water early in the morning, so the leaves dry quickly and the soil can cool off. Avoid watering in the evenings as this can lead to fungal diseases. Make sure to water deeply, saturating the soil around the root zone. When temperatures are higher, you may need to increase watering slightly, providing up to 1.5 inches (38 millimeters) of water. Columbine prefers slightly moist soil but can tolerate periods of dryness. Avoid overwatering, which can cause crown, root, or stem rot."
+        },
+        {
+          "id": 19501,
+          "type": "sunlight",
+          "description": "Columbine plants prefer full sun to partial shade, preferably in the morning. The species Aquilegia glandulosa does best in an area that gets at least 4 hours of direct sunlight per day. The sun should be on the upper canopy of the plant and should be at the most intense during the morning hours. If possible, planting in an area that has eastern-facing exposure is ideal for columbine, as it will provide lots of morning light and some afternoon shade."
+        },
+        {
+          "id": 19502,
+          "type": "pruning",
+          "description": "Columbine should be pruned in the early spring, just as the new foliage is emerging but before any flowers have bloomed. Depending on the size of the plant, it can be pruned back by up to 1-third or by as little as 1-sixth. Removing straggly and overcrowded stems will help to promote air circulation, reduce disease, and promote fuller growth. Larger clumps should also be divided every 3 to 4 years to improve overall health and blooming."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

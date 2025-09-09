@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2182,
+      "species_id": 813,
+      "common_name": "Japanese thimbleweed",
+      "scientific_name": [
+        "Anemone hupehensis"
+      ],
+      "section": [
+        {
+          "id": 6751,
+          "type": "watering",
+          "description": "Japanese thimbleweed should be watered once or twice a week, depending on the size of the plant and the time of year. In the summer, when days are longer and temperatures are hotter, the plant may need to be watered more often. In the winter, the plant may need less water. When watering, you should aim for the roots just below the surface and try not to get the foliage wet. The soil should be moist but not overly wet. After watering, try to wait until the top 2-3 inches of soil have dried out before watering again. This will help to prevent root rot and the growth of fungi."
+        },
+        {
+          "id": 6752,
+          "type": "sunlight",
+          "description": "Japanese thimbleweed requires full sun for optimal growth. It should receive around 6-8 hours of direct sunlight each day, although some protection from strong afternoon sunlight is beneficial. It can tolerate partial shade for a few hours, but tends to need more direct sunlight in order to thrive and produce the most vibrant flowers. During the peak growing season, it is recommended to place the plant in a spot that receives full sun for much of the day."
+        },
+        {
+          "id": 6753,
+          "type": "pruning",
+          "description": "Japanese thimbleweed should be pruned twice a year, in the late spring and late fall. Pruning during the late spring should involve light pruning, removing weak and spindly growth, crossing branches, and any dead or damaged stems. In the late fall, prune the plant back to where you prefer the overall size to be. This will also help to promote healthy new spring growth the next year. Cut the stems back to the desired height, about 10-15 cm from the ground, removing any dead or damaged stems. Avoid pruning more than 1/3 of each stem."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

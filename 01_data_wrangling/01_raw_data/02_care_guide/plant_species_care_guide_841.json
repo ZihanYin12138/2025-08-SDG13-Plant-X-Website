@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 651,
+      "species_id": 841,
+      "common_name": "Texas firecracker",
+      "scientific_name": [
+        "Anisacanthus quadrifidus var. wrightii"
+      ],
+      "section": [
+        {
+          "id": 1955,
+          "type": "watering",
+          "description": "Texas firecracker should be watered every 5-7 days during actively growing months (usually late spring through early fall). Water thoroughly and allow the soil to dry between waterings. During the winter months, reduce watering frequency to once a month. Make sure the soil does not become soggy, as this can cause root rot."
+        },
+        {
+          "id": 1956,
+          "type": "sunlight",
+          "description": "Texas firecracker plants thrive best when grown in full sun, meaning they should be in direct sunlight for at least 6 hours a day. Plants should receive the majority of their sunlight in the morning, as they are more productive and blooming in the morning sunlight than in the evening. When growing in regions with a hot summer climate, Texas firecracker plants should receive shelter from direct sunlight during the hottest parts of the day, usually between 10 am to 4 pm."
+        },
+        {
+          "id": 1957,
+          "type": "pruning",
+          "description": "Texas firecracker should be pruned in late winter to early spring, right before the plant begins to grow for the new season. It can be pruned back by up to 1/3 of its total size for an additional bloom and to promote vigorous growth. Pruning also helps control the overall size of the plant and encourages bushier growth. Prune off any dead, damaged, or crossing branches for the optimal health and shape of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2172,
+      "species_id": 800,
+      "common_name": "big blue stem",
+      "scientific_name": [
+        "Andropogon gerardii"
+      ],
+      "section": [
+        {
+          "id": 6721,
+          "type": "watering",
+          "description": "Big blue stem should be watered once per week, with about an inch of water each time. The frequency of watering can vary slightly depending on factors such as the season or amount of sun/shade the plant is receiving. In hot, dry conditions, slightly more frequent watering may be beneficial, however make sure not to overwater. During cooler weather or if the plant is receiving less sunlight, the frequency of watering may be reduced. Make sure the soil stays evenly moist, but not soggy. Checking the top 1-2 inches of the soil can give a good indication of when to water the plant."
+        },
+        {
+          "id": 6722,
+          "type": "sunlight",
+          "description": "Big Blue Stem (Andropogon gerardii) is a warm-season prairie grass native to North America that prefers full sun to partial shade. The best growing conditions for Big Blue Stem are in direct sunlight throughout the day, with exposure to roughly 6 to 8 hours of sunlight per day. This amount of sun can also vary a bit depending on the season, with a few extra hours in the summer and slightly less light during the winter. "
+        },
+        {
+          "id": 6723,
+          "type": "pruning",
+          "description": "Big Blue Stem (Andropogon gerardii) should be pruned in late winter or early spring, when the new shoots are just beginning to emerge. Pruning should involve cutting back the stems to an appropriate height, usually leaving about 18-24 inches of stem remaining above ground. Stems should also be thinned out by removing any stems that are smaller or thinner than the remaining stems. This will help to ensure the plant is kept to a manageable size and helps to promote air circulation. Pruning should be done carefully to avoid damaging remaining stems or the roots of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 533,
+      "species_id": 840,
+      "common_name": "kangaroo paw",
+      "scientific_name": [
+        "Anigozanthos 'Joe Joe Red'"
+      ],
+      "section": [
+        {
+          "id": 1599,
+          "type": "watering",
+          "description": "Kangaroo paw should be watered once every week. Water the plant deeply but avoid overwatering. The soil should be kept lightly moist, never soggy or bone dry. Water less frequently in wintertime as the plant goes dormant. If the soil dries out completely, do a thorough soaking and wait until the soil is almost dry before watering again."
+        },
+        {
+          "id": 1601,
+          "type": "sunlight",
+          "description": "Kangaroo paw (Anigozanthos 'Joe Joe Red') plants thrive in areas where they receive full sun for the majority of the day. This particular species requires 8-10 hours of direct sunlight each day during its peak growing season. It can survive in less than full sun, but it won't blossom as vibrantly. During autumn and winter months, the plant should receive a minimum of 6 hours of direct sunlight, and in spring and summer, the sunlight requirement is increased to 8 to 10 hours."
+        },
+        {
+          "id": 1604,
+          "type": "pruning",
+          "description": "Pruning kangaroo paw (Anigozanthos 'Joe Joe Red') is best done in late winter or early spring before new growth appears. Since kangaroo paw plants grow in clumps, pruned stems should be cut back to within 1 or 2 inches of the base. Pruning every few years is recommended to encourage healthy and full growth, as this will keep the plant from becoming overly bush and prevent overcrowding of the stems. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

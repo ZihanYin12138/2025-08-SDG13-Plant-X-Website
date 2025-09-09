@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 311,
+      "species_id": 878,
+      "common_name": "fan columbine",
+      "scientific_name": [
+        "Aquilegia flabellata 'Ministar'"
+      ],
+      "section": [
+        {
+          "id": 482,
+          "type": "watering",
+          "description": "Fan columbine is a moderately drought tolerant plant, however for optimal health and performance, watering should take place 1-2 times each week. During the warmer months, it may be beneficial to water more often, especially when temperatures climb above 75F. The soil should be kept lightly moist but not soggy, and is best done with a slow, deep watering. This will help prevent root rot. Water during the morning hours, allowing it to dry up slightly before evening."
+        },
+        {
+          "id": 483,
+          "type": "sunlight",
+          "description": "Fan columbine (Aquilegia flabellata 'Ministar') prefers bright, indirect sunlight or shade part of the day. This plant should be exposed to an average of 4 to 6 hours of direct sunlight a day, and should be kept away from direct intense afternoon sun. To optimize the plant's growth, it should be placed in a location that receives morning sun and afternoon shade. Even during the winter season, this plant needs 6 hours of sunlight a day."
+        },
+        {
+          "id": 484,
+          "type": "pruning",
+          "description": "Fan columbine should be pruned during late winter or early spring, after it has finished flowering. To keep the plant manageable, lightly prune back stems by 1/3. Be sure to take into account the plant's final size and shape when pruning. Regular and careful pruning keeps fan columbine healthy and attractive."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2219,
+      "species_id": 863,
+      "common_name": "celeriac",
+      "scientific_name": [
+        "Apium graveolens var. rapaceum"
+      ],
+      "section": [
+        {
+          "id": 6862,
+          "type": "watering",
+          "description": "Celeriac should be watered when the top inch of the soil is dry. This typically happens once a week for most celeriac plants. In periods of hot or especially dry weather, watering may need to be increased to twice a week. Make sure to water the soil thoroughly so the moisture penetrates several inches deep. It is important to water evenly and to avoid wetting the foliage of the plant. Over-watering should be avoided, as this can lead to root rot and other diseases. If water is allowed to gather around the base of the plant, it can easily encourage disease. Make sure to water your celeriac early in the day which will give it plenty of time to absorb the water before the temperature drops at night."
+        },
+        {
+          "id": 6863,
+          "type": "sunlight",
+          "description": "Celeriac thrives in full sunlight, receiving at least 6 to 8 hours of direct sunlight daily. Ideally, this sun exposure should take place between the early morning hours and mid-afternoon, when the sun is at its brightest and strongest. This will ensure that the plant receives enough energy from the sunlight to develop its root system and grow healthy stems and foliage."
+        },
+        {
+          "id": 6864,
+          "type": "pruning",
+          "description": "Celeriac should be pruned at least once a year for best results. Pruning should be done around late March or early April. Start by cutting away any dead or diseased parts of the plant with sharp, clean shears. Then prune away any extra growth—such as flowers and leaves that have reached the end of their life—to encourage new growth. Pruning the top of the plant will also encourage the plant to become more full and bushy. Finally, remove any lateral branches, or branches between the main stem and the base of the plant, to reduce competition for nutrients and light. After each pruning session, loosen the soil around the base of the plant to allow for better aeration and drainage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1546,
+      "species_id": 832,
+      "common_name": "windflower",
+      "scientific_name": [
+        "Anemone tomentosa"
+      ],
+      "section": [
+        {
+          "id": 4717,
+          "type": "watering",
+          "description": "Water windflowers regularly during the growing season, which extends from late spring to early fall. Before watering, check to make sure the soil is dry. Water until it is well-saturated and then allow the soil to dry out between waterings. As a general rule, you should water windflowers about once a week, and adjust the frequency as needed based on the soil moisture or climate in your area."
+        },
+        {
+          "id": 4718,
+          "type": "sunlight",
+          "description": "Windflowers prefer full sun but will tolerate partial shade, so if you’re planting this plant species, make sure it will get around 6 hours of direct sunlight each day. If you live in an area with intense, hot sunlight, it’s best to plant Windflowers in areas that get some shade during the hottest time of day. This will help the plant survive the intense heat and will give it a chance to grow and thrive."
+        },
+        {
+          "id": 4719,
+          "type": "pruning",
+          "description": "For best results, prune your Windflower in early spring before the new growth begins. Start by removing any dead or diseased stems and thin out overcrowded areas. Deadheading (removing spent flower petals) is also recommended to stimulate new blooms. After blooming, you can also prune back the stems by a third of their original length after the flowers fade for a fuller plant. Keep in mind that Windflower does not require heavy pruning, so trimming too much can reduce blooming potential in the upcoming season, so be sure to trim only the necessary branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2191,
+      "species_id": 822,
+      "common_name": "windflower",
+      "scientific_name": [
+        "Anemone hybrida 'Pretty Lady Diana'"
+      ],
+      "section": [
+        {
+          "id": 6778,
+          "type": "watering",
+          "description": "Windflowers should be watered roughly once per week in the summer and once every 2 weeks in the winter. The amount of water needed will depend on the size of the pot, as well as the climate and temperature. Windflower plants tend to do best with soil that is wet, but not soggy or waterlogged. To avoid over-watering, check the soil’s moisture before watering. If the top 2 inches of soil feel dry, it’s time to water. Generally, water until the excess begins to drain from the pot, then allow the soil to dry out before watering again."
+        },
+        {
+          "id": 6779,
+          "type": "sunlight",
+          "description": "Windflower (Anemone hybrida 'Pretty Lady Diana') should be planted in an area that receives full sun during the morning hours and partial shade during the afternoon to protect it from too much intense sun. The plant will need 6 to 8 hours of direct sunlight per day, especially in the spring and summer, to thrive and bloom. It’s important to avoid any type of reflected sunlight, to ensure that the roots do not become too hot. Too much heat can put it in a stressed state, or even kill the plant."
+        },
+        {
+          "id": 6780,
+          "type": "pruning",
+          "description": "Windflowers (Anemone hybrida 'Pretty Lady Diana') should be pruned lightly during the winter while the plant is dormant. You can prune away any dead or damaged stems, as well as any old flower clusters and spent flower heads. This will also help to encourage new growth and flowering the following season. Prune lightly so as to avoid cutting back more than 1-third of the stems. If your windflower is particularly overgrown or needs a more severe pruning due to lack of flowering, it may be advisable to prune more aggressively in late spring or early summer by cutting back more than 1/3 of the stems. Take care to avoid pruning back more than 2-thirds of the stems, as this could be detrimental to the plant’s health. Do not prune beyond mid-summer as this could affect the following season’s flower production."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

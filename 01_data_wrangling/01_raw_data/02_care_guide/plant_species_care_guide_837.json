@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2203,
+      "species_id": 837,
+      "common_name": "angelonia",
+      "scientific_name": [
+        "Angelonia angustifolia"
+      ],
+      "section": [
+        {
+          "id": 6814,
+          "type": "watering",
+          "description": "For optimal growth of an angelonia (Angelonia angustifolia) plant, water at least once or twice per week. Water the soil thoroughly until moisture is visibly seen in the pot, and ensure the soil does not puddle, allowing it to drain; this will help reduce the risk of root rot. The soil should be kept slightly moist throughout the growing season. During periods of drought, increase watering frequency to ensure the soil does not dry out. Do not allow the soil to become soggy, as this can inhibit oxygen and lead to root rot."
+        },
+        {
+          "id": 6815,
+          "type": "sunlight",
+          "description": "Angelonia angustifolia, commonly known as angelonia, thrives on at least 6 hours of direct sunshine per day. Angelonia will continue to be healthy and produce lots of flowers when exposed to full sun the majority of the day. However, if it is exposed to too much sunlight and temperatures exceed 95 degrees Fahrenheit, the plants may suffer from leaf scorching and wilting. To ensure your plants don’t suffer from too much sun, it’s best to keep them in places that receive only morning and early afternoon sun. This will help them stay vigorous, promote flowering, and prevent yellowing and drying of leaves. In general, the best time for your angelonia to get sun is between 8 am and 4 pm."
+        },
+        {
+          "id": 6816,
+          "type": "pruning",
+          "description": "Angelonia (Angelonia Angustifolia) requires regular pruning to stay healthy. It is best to prune Angelonia in late winter or early spring, before they start actively growing. Lightly pruning can help encourage more branching, which will increase flower production. Start by removing any dead, diseased, or broken branches. After that, prune any branches that are crossing each other or rubbing against another branch. Remove half of the length of any stems with weak flower production. Lastly, lightly tip prune the remaining stems by about 1-third of their length. Prune Angelonia to maintain a compact habit and remove spent flowers to encourage more blooming."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

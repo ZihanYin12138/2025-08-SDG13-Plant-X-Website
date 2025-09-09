@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2238,
+      "species_id": 883,
+      "common_name": "sweet-scented columbine",
+      "scientific_name": [
+        "Aquilegia fragrans"
+      ],
+      "section": [
+        {
+          "id": 6919,
+          "type": "watering",
+          "description": "Sweet-scented columbine should be kept evenly moist. The soil should be allowed to dry out slightly between watering, but the plant should not be allowed to become completely dry. Water thoroughly when the soil feels dry about 1 inch below the surface, usually every 7-10 days during the growing season and every 10-14 days during winter."
+        },
+        {
+          "id": 6920,
+          "type": "sunlight",
+          "description": "Sweet-scented columbine prefers full or partial sun. When grown in full sun, the plant should be given at least 6 hours of direct sunlight each day, with the greatest intensity of light during the morning. When grown in partial shade, 4-5 hours of direct sun per day works best, with shade mainly during the hottest part of the day. Both too little and too much sunlight can cause the blossoms to fade prematurely."
+        },
+        {
+          "id": 6921,
+          "type": "pruning",
+          "description": "Pruning sweet-scented columbine (Aquilegia fragrans) is best done the last week of April, and then again in the first week of August. The best time to prune is before the plant begins to get crowded. Pruning is important to keep the plant tidy, as well as to encourage new growth and flowering. When pruning, it's best to use sharp pruning shears or kitchen scissors and clip the stem just below the flower head. By doing this the stem will not produce new leaves or flowers. Pruning should be done sparingly, only removing the oldest, tallest stems, those with dead flowers and those that are protruding outside of the planting area."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

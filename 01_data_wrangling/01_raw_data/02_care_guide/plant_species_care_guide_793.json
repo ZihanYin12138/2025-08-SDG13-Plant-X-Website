@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 567,
+      "species_id": 793,
+      "common_name": "variegated pineapple",
+      "scientific_name": [
+        "Ananas comosus var. variegatus"
+      ],
+      "section": [
+        {
+          "id": 1702,
+          "type": "watering",
+          "description": "Variegated pineapple requires moist and well-draining soil to thrive. The soil should be watered consistently but not overly. Water it enough to keep the soil damp but not so much as it displaces oxygen from the soil. For best results, water the plant about once or twice a week. Also, water the pineapple deeply to ensure that it is getting an adequate amount for its needs. In warmer weather, it may need to be watered more frequently. Make sure that the soil doesn’t become soggy or stay wet for too long, as this can lead to root rot."
+        },
+        {
+          "id": 1703,
+          "type": "sunlight",
+          "description": "Variegated pineapple prefers bright, indirect sunlight for at least 6 hours per day. Direct sunlight should be avoided as it can cause scorching or drying of the foliage. An ideal location would be a south facing window. Although being tolerant of some shade, you should never place the plant in an area with prolonged shade or darkness."
+        },
+        {
+          "id": 1704,
+          "type": "pruning",
+          "description": "Variegated pineapple should be pruned regularly and all dead, diseased and damaged plant parts removed. It can be pruned as needed throughout the year but it is best to wait until the plant has had a period of active growth. Late spring to early summer is the best time to trim back the plant to encourage strong, lush new growth. When pruning, be sure to remove only 1/3 of the foliage to encourage fuller growth in the future."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

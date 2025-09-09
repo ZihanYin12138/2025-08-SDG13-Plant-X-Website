@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2242,
+      "species_id": 888,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia 'Pagoda Blue and White'"
+      ],
+      "section": [
+        {
+          "id": 6931,
+          "type": "watering",
+          "description": "Columbine should be watered frequently to ensure consistent soil moisture. Water when the surface of the soil feels dry to the touch, and every 7 to 10 days when it is not raining. Too much or too little water can cause plant stress, so make sure to monitor the plant consistently. Soak the soil thoroughly, ensuring that the water has reached the root zone. Allow the soil to dry slightly between waterings to prevent root rot and other health issues. During the hottest days of the summer, this plant may need more frequent watering, so keep an eye on it during those times."
+        },
+        {
+          "id": 6932,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia 'Pagoda Blue and White') should do best in medium to bright light, such as in an east-facing window. Sunlight should be filtered through a sheer curtain or a UV-absorbing glass. Avoid direct, harsh sunlight, as this can burn the leaves. For best results, provide 4 to 6 hours of bright, indirect sunlight per day."
+        },
+        {
+          "id": 6933,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia 'Pagoda Blue and White') should be pruned back to the rosette of basal leaves in the spring when new growth starts. Pruning is usually not necessary, but you can trim away spent flower stalks and any stems that appear leggy or scraggly. To keep the plants compact and bushy, cut plants back to encourage new basal shoots and remove any spent flowers. If the flowers have already set seed, these can be collected and sown for next season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

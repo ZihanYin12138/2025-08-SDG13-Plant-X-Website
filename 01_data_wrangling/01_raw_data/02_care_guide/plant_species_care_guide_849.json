@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2211,
+      "species_id": 849,
+      "common_name": "pussytoes",
+      "scientific_name": [
+        "Antennaria plantaginifolia"
+      ],
+      "section": [
+        {
+          "id": 6838,
+          "type": "watering",
+          "description": "Pussytoes (Antennaria plantaginifolia) should be watered throughout the growing season, but avoid overwatering. In general, water the plant deeply and then wait until the top 2 inches of soil have become dry before watering again. Pussytoes is a drought-tolerant plant, so you want to water only when the soil is dry to prevent the plant from becoming waterlogged. If the soil gets too dry, the plant may wilt. If this happens, simply water the plant deeply to revive it.  During hot summer months, water once a week; during cooler seasons, once every 2 weeks should provide enough water."
+        },
+        {
+          "id": 6839,
+          "type": "sunlight",
+          "description": "Pussytoes, also known as Antennaria plantaginifolia, thrive best in full sunlight. They do best when they receive 6 to 8 hours of direct sunlight each day, which gives the plant the energy it needs to stay healthy and vibrant. During the hottest part of the day, around midday, it’s best to provide the plant with light shade to help protect it from direct sunlight, as the intense rays can be damaging. The plant should still receive filtered sunlight throughout the day, however, as this will help it in its growth and blooming periods. Also, during the colder months of winter, it’s important to protect the plant from direct, cold winds."
+        },
+        {
+          "id": 6840,
+          "type": "pruning",
+          "description": "Pussytoes (Antennaria plantaginifolia) should be pruned in early spring before new growth begins. This will help to encourage new, bushier growth and to prevent legginess. To prune, cut off any dead or dying stems to just above the ground. When shaping, remove no more than a third of the plant’s height to keep its natural shape. This plant does not tolerate heavy pruning, so it’s best to do light, regular pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

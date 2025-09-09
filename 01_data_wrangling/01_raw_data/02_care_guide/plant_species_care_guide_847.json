@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2209,
+      "species_id": 847,
+      "common_name": "field pussytoes",
+      "scientific_name": [
+        "Antennaria neglecta"
+      ],
+      "section": [
+        {
+          "id": 6832,
+          "type": "watering",
+          "description": "Field pussytoes should be watered with about 1 inch of water once a week. Water deeply and avoid frequent shallow watering which may lead to root damage. Soak the soil deeply and ensure that water slowly drains out. Make sure not to over water as this could lead to root rot. Allow the soil to dry out slightly before watering again. During hotter months, water the plant more frequently if the soil begins to dry out or wilts."
+        },
+        {
+          "id": 6833,
+          "type": "sunlight",
+          "description": "Field pussytoes requires about 6 hours of direct sunlight per day. This sunlight should be evenly distributed throughout the day and should mainly occur in the morning and mid-afternoon when the sun is less intense. Field pussytoes can tolerate some shade, but it should provide no more than half a day of shade to ensure the best possible flowering performance. The best times for this species to get the most sunlight are between 10 am and 2 pm."
+        },
+        {
+          "id": 6834,
+          "type": "pruning",
+          "description": "Field pussytoes should be pruned twice a year. In the early spring, trim off the old foliage and flower stems from the previous season. Additionally, tidy up crowds of dead leaves that have accrued during the winter months. In late summer, snip off any errant flower stems that may have appeared during the season. When pruning, be sure to make clean cuts and avoid leaving any jagged edges on the stems. If you are pruning in late summer, remember to avoid trimming back more than half of the plant’s growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2192,
+      "species_id": 823,
+      "common_name": "Japanese anemone",
+      "scientific_name": [
+        "Anemone hybrida 'September Charm'"
+      ],
+      "section": [
+        {
+          "id": 6781,
+          "type": "watering",
+          "description": "Japanese anemone (Anemone hybrida 'September Charm') thrives in moist, well-drained soil and benefits from regular watering. Water deeply and thoroughly, until water is running out of the drainage holes. During warm summers, it may need weekly watering; less frequently during cooler and wet times. If the soil dries out between waterings, apply enough to moisten the soil and encourage deep rooting. Generally, it should not be allowed to dry out completely. When water restrictions are in effect, ensure plants are watered no less than once a week."
+        },
+        {
+          "id": 6782,
+          "type": "sunlight",
+          "description": "Japanese anemone (Anemone hybrida 'September Charm') thrives in full sun to partial shade. It prefers 6-8 hours of sun per day. If grown in full sun, provide some afternoon shade in areas of the country with high summer temperatures."
+        },
+        {
+          "id": 6783,
+          "type": "pruning",
+          "description": "For the Japanese anemone (Anemone hybrida 'September Charm'), the best time for pruning is early spring, shortly after blooms have faded. During this time of year, you can easily spot any dead foliage or areas that need to be trimmed. Pruning should be thorough, removing any dead or notably damaged foliage from the base up. If needed, you can also lightly trim the whole plant back by 1-quarter of its height. Doing this will help promote denser, healthier growth for the upcoming growing season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

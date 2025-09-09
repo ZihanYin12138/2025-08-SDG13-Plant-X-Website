@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2230,
+      "species_id": 874,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia chrysantha var. hinckleyana"
+      ],
+      "section": [
+        {
+          "id": 6895,
+          "type": "watering",
+          "description": "Columbine enjoys regular watering. During the summer, water every other day or so; water more often during hot or dry weather. During the winter, water once every 2 weeks. Make sure the soil is moist, but not waterlogged or saturated. Test the soil periodically for moisture to ensure the plant is receiving the right amount of water."
+        },
+        {
+          "id": 6896,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia chrysantha var. hinckleyana) plants prefer full sun or partial shade in well-drained soil. They require at least 5 hours of direct sunlight per day to grow and bloom optimally. If planted in a partially shaded area, it should receive morning sunlight, since afternoon shade will reduce blooming. It's best to avoid periods of peak sun, especially during the hottest months, as the plants may scorch in direct sunlight. When grown in a full sun location, the blooming period will be extended."
+        },
+        {
+          "id": 6897,
+          "type": "pruning",
+          "description": "Columbine should be pruned in spring, after the plant has finished flowering. You should only prune off the spent flower stems, taking care to leave any healthy stems and foliage intact. Pruning should be done sparingly and only the portion of the stem directly below the flower should be removed. Avoid pruning away the foliage, as that will reduce the plant’s ability to photosynthesize and store energy for subsequent flowering. If the entire stem needs to be pruned away, take care to do it in such a way that only healthy, non-flowering stems are cut back."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

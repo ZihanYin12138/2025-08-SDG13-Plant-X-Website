@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2174,
+      "species_id": 802,
+      "common_name": "big blue stem",
+      "scientific_name": [
+        "Andropogon gerardii 'Dancing Wind'"
+      ],
+      "section": [
+        {
+          "id": 6727,
+          "type": "watering",
+          "description": "Big Blue Stem, or Andropogon gerardii 'Dancing Wind', should be watered regularly but with less frequency than other plants. Allow the soil to become dry to the touch before watering. A good rule of thumb is to water deeply approximately every 10-14 days during the growing season, April through October. During the cooler months, water sparingly, if at all. Avoid wetting the foliage when watering; always water the soil directly at the base of the plant."
+        },
+        {
+          "id": 6728,
+          "type": "sunlight",
+          "description": "Big blue stem (Andropogon gerardii 'Dancing Wind') is a plant species that prefers full sun exposure. During the summer months, the plant should receive at least 6-8 hours of direct sunlight daily. It's important to note that this plant species can tolerate some light shade, particularly in the afternoon hours. During the winter months, the plant can get by with a few hours of direct sunlight each day, as the sunlight will be more intense and brighter in the winter."
+        },
+        {
+          "id": 6729,
+          "type": "pruning",
+          "description": "Big Blue Stem (Andropogon gerardii 'Dancing Wind') should be pruned in late winter or early spring. When pruning, aim to remove only about 1/3 of the stems at a time. Avoid pruning too much, as this could disrupt plant growth and slow down flowering. Take care to prune in the correct locations, cutting down the stems that are the tallest or most out of shape. This will help keep the compact, architectural form of Big Blue Stem."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
