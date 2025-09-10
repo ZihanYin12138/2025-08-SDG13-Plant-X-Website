@@ -1,0 +1,113 @@
+{
+  "id": 961,
+  "common_name": "black chokeberry",
+  "scientific_name": [
+    "Aronia melanocarpa 'Estland'"
+  ],
+  "other_name": [
+    "Chokeberry"
+  ],
+  "family": "Rosaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Estland",
+  "variety": null,
+  "species_epithet": "melanocarpa",
+  "genus": "Aronia",
+  "origin": [
+    "Eastern North America"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Greenwood Cuttings",
+    "Greenwood Cuttings"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=961&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=961&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Sun",
+    " Partial Shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=961&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Clay Rocky"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [
+    "Fungal leaf spot",
+    " Rust"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Black Chokeberry (Aronia melanocarpa 'Estland') is an amazing plant species with many attributes worth noting. Its glossy foliage and sweet-tart berries are great for cooked fruit recipes and preserves. The berries are highly nutritious and rich in vitamins and minerals such as iron, potassium, magnesium and phosphorus. This versatile shrub is highly attractive to birds and bees, and will provide endless hours of enjoyment for both. It can also be used as a screening specimen, as its pH requirements make it great for acidic soil types. When it blooms in spring, the blossoms can attract pollinators in droves, and the birds will enjoy its fruit in autumn.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/961_aronia_melanocarpa_estland/og/Aronia_melanocarpa_fruit.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/961_aronia_melanocarpa_estland/regular/Aronia_melanocarpa_fruit.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/961_aronia_melanocarpa_estland/medium/Aronia_melanocarpa_fruit.jpg",
+    "small_url": "https://perenual.com/storage/species_image/961_aronia_melanocarpa_estland/small/Aronia_melanocarpa_fruit.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/961_aronia_melanocarpa_estland/thumbnail/Aronia_melanocarpa_fruit.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

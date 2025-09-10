@@ -1,0 +1,152 @@
+{
+  "id": 957,
+  "common_name": "chokeberry",
+  "scientific_name": [
+    "Aronia arbutifolia"
+  ],
+  "other_name": [],
+  "family": "Rosaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "arbutifolia",
+  "genus": "Aronia",
+  "origin": [
+    "Eastern North America"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 6,
+      "max_value": 10,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=957&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=957&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "berries",
+      "color": [
+        "red",
+        "dark-red"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "red-gray"
+      ]
+    },
+    {
+      "part": "branch",
+      "color": [
+        "brown-gray"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "maroon-green"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "February",
+    "June",
+    "July",
+    "February",
+    "June",
+    "July"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=957&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": true,
+  "description": "The amazing chokeberry (Aronia arbutifolia) is a deciduous shrub that is native to the eastern regions of the United States and Canada. A member of the Rosaceae family, this plant enjoys the bright sun and moist soil. Dark, glossy green leaves offer year-round interest and form the backdrop for the clusters of white or pinkish flowers that bloom in spring and summer. The edible berries that follow may be enjoyed fresh or cooked, as they are a big source of antioxidants. This deliciously tart fruit also offers anti-inflammatory benefits, making it an excellent addition to smoothies and other recipes.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/957_aronia_arbutifolia/og/24298367308_97698a9858_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/957_aronia_arbutifolia/regular/24298367308_97698a9858_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/957_aronia_arbutifolia/medium/24298367308_97698a9858_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/957_aronia_arbutifolia/small/24298367308_97698a9858_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/957_aronia_arbutifolia/thumbnail/24298367308_97698a9858_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

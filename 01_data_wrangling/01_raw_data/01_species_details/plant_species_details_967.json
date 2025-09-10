@@ -1,0 +1,138 @@
+{
+  "id": 967,
+  "common_name": "black chokeberry",
+  "scientific_name": [
+    "Aronia melanocarpa 'Viking'"
+  ],
+  "other_name": [
+    "Chokeberry"
+  ],
+  "family": "Rosaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Viking",
+  "variety": null,
+  "species_epithet": "melanocarpa",
+  "genus": "Aronia",
+  "origin": [
+    "Eastern North America"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Greenwood Cuttings",
+    "Greenwood Cuttings"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=967&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=967&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stem",
+      "color": [
+        "brown-gray"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "buds",
+      "color": [
+        "pink-white"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=967&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Clay Rocky"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": true,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Fungal leaf spot",
+    " Rust"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Black chokeberry (Aronia melanocarpa 'Viking') is an amazing plant species for landscaping. With its beautiful show of color and its ornamental shape, it is sure to captivate the eye. Its evergreen foliage provides enough color to liven up a garden by itself in spring, summer, and fall months, while its white flowers bloom in the spring to create a stunningly elegant atmosphere. This plant is amazingly hardy, and can even handle cold temperatures and tough soil conditions. As an added bonus, it's incredibly drought-tolerant and once it's established, it needs minimal maintenance. With all these features, it's no wonder why 'Viking' black chokeberries have become a popular plant for gardens.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/967_aronia_melanocarpa_viking/og/48546939526_701befe243_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/967_aronia_melanocarpa_viking/regular/48546939526_701befe243_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/967_aronia_melanocarpa_viking/medium/48546939526_701befe243_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/967_aronia_melanocarpa_viking/small/48546939526_701befe243_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/967_aronia_melanocarpa_viking/thumbnail/48546939526_701befe243_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,129 @@
+{
+  "id": 982,
+  "common_name": "wormwood",
+  "scientific_name": [
+    "Artemisia 'Powis Castle'"
+  ],
+  "other_name": [],
+  "family": "Asteraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Powis Castle",
+  "variety": null,
+  "species_epithet": "'Powis",
+  "genus": "Artemisia",
+  "origin": [
+    "Garden origin (A. absinthium x A. arborescens)"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=982&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=982&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "foliage",
+      "color": [
+        "silver-gray"
+      ]
+    },
+    {
+      "part": "twig",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=982&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Rocky ",
+    " gravelly ",
+    " dry",
+    " Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Pest resistant",
+    " Disease resistant",
+    " Deer resistant",
+    " Rabbit resistant",
+    " Drought resistant"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": true,
+  "poisonous_to_pets": true,
+  "description": "Wormwood (Artemisia 'Powis Castle') is an amazing plant with a profusion of silvery foliage and vibrant yellow flowers. Not only is it beautiful to look at, but it is also extremely resilient and hardy, resisting drought and surviving in various types of conditions - it can even be used as a groundcover or an edging plant! Additionally, its medicinal properties make it a wonderfully versatile addition to the garden. Wormwood is known for its use in treating digestive problems, reducing inflammation, and relieving pain. Truly, Artemisia ‘Powis Castle’ is a magnificent plant!",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/982_artemisia_powis_castle/og/9109145122_fd5931bd3e_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/982_artemisia_powis_castle/regular/9109145122_fd5931bd3e_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/982_artemisia_powis_castle/medium/9109145122_fd5931bd3e_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/982_artemisia_powis_castle/small/9109145122_fd5931bd3e_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/982_artemisia_powis_castle/thumbnail/9109145122_fd5931bd3e_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

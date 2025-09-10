@@ -1,0 +1,107 @@
+{
+  "id": 936,
+  "common_name": "arisaema",
+  "scientific_name": [
+    "Arisaema thunbergii subsp. urashima"
+  ],
+  "other_name": [],
+  "family": "Araceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "thunbergii",
+  "genus": "Arisaema",
+  "origin": [
+    "Japan"
+  ],
+  "type": "Cactus",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 2,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cormlet Propagation",
+    "Seed Propagation",
+    "Tissue Culture"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=936&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=936&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "November"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=936&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Arisaema thunbergii subsp. urashima is an incredible plant species with an array of fascinating features. Its unique, often-unexpected inflorescence will turn heads in any garden, as each flower resembles a maroon-colored cobra with a bright yellow center. It grows in two different distinct forms, one with 3-6 leaflets and the other with 9-12 leaflets, so you never quite know what you're going to get. Additionally, it is hardy, tolerating sun and shade with ease, and only needs minimal care. Perfect for a patio or small garden, it's an exceptional choice for anyone fascinated by the beauty of nature.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/936_arisaema_thunbergii_subsp_urashima/og/Arisaema_thunbergii_subsp._urashima_4.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/936_arisaema_thunbergii_subsp_urashima/regular/Arisaema_thunbergii_subsp._urashima_4.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/936_arisaema_thunbergii_subsp_urashima/medium/Arisaema_thunbergii_subsp._urashima_4.jpg",
+    "small_url": "https://perenual.com/storage/species_image/936_arisaema_thunbergii_subsp_urashima/small/Arisaema_thunbergii_subsp._urashima_4.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/936_arisaema_thunbergii_subsp_urashima/thumbnail/Arisaema_thunbergii_subsp._urashima_4.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

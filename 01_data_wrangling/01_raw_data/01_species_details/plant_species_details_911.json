@@ -1,0 +1,112 @@
+{
+  "id": 911,
+  "common_name": "Chinese angelica tree",
+  "scientific_name": [
+    "Aralia chinensis"
+  ],
+  "other_name": [],
+  "family": "Araliaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "chinensis",
+  "genus": "Aralia",
+  "origin": [
+    "China",
+    "Vietnam",
+    "Malaysia"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 12,
+      "max_value": 20,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds",
+    " Butterflies"
+  ],
+  "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "7",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=911&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=911&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=911&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": true,
+  "description": "The Chinese Angelica Tree (Aralia chinensis) is an amazing species due to its adaptability and fast growth rate. It's easy to care for, with glossy, bright green leaves and fragrant yellowish-white flowers in the summer. It grows tall and can reach heights up to 8 feet in ideal conditions. It's a species that is known for its resilience and will even tolerate shady conditions. It is a great species for helping to create a wind break, to help form a beautiful screen, or to create a great canopy to help create a comfortable atmosphere for any garden.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/911_aralia_chinensis/og/2560px-Cornus_kousa_var_chinensis_in_La_Jaysinia_28129.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/911_aralia_chinensis/regular/2560px-Cornus_kousa_var_chinensis_in_La_Jaysinia_28129.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/911_aralia_chinensis/medium/2560px-Cornus_kousa_var_chinensis_in_La_Jaysinia_28129.jpg",
+    "small_url": "https://perenual.com/storage/species_image/911_aralia_chinensis/small/2560px-Cornus_kousa_var_chinensis_in_La_Jaysinia_28129.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/911_aralia_chinensis/thumbnail/2560px-Cornus_kousa_var_chinensis_in_La_Jaysinia_28129.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

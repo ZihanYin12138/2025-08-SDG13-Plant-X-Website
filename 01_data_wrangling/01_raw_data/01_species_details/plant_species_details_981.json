@@ -1,0 +1,115 @@
+{
+  "id": 981,
+  "common_name": "western mugwort",
+  "scientific_name": [
+    "Artemisia ludoviciana 'Valerie Finnis'"
+  ],
+  "other_name": [],
+  "family": "Asteraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Valerie Finnis",
+  "variety": null,
+  "species_epithet": "ludoviciana",
+  "genus": "Artemisia",
+  "origin": [
+    "Mexico"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1.5,
+      "max_value": 2,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=981&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=981&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=981&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Rocky ",
+    " gravelly ",
+    " dry",
+    " Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [
+    "Aphids",
+    "adelgids",
+    " Root rot",
+    " Rust",
+    " Whitefly",
+    "psyllids",
+    "  Deer resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Western Mugwort (Artemisia ludoviciana 'Valerie Finnis') is an amazing plant species that produces densly-branched, fragrant, feather-like foliage. Its bright green leaves create an attractive bushy arrangement and its wonderful pungent aroma can draw a variety of pollinators. In the summer, this species develops many small, yellow-green flowers that are a welcome sight to any garden. What's more, this species is naturally resistant to both deer and rabbit browsing providing long-term protection for gardeners. Western mugwort is a great addition to every garden and its sheer beauty and delightful aroma make it an absolute must-have.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/981_artemisia_ludoviciana_valerie_finnis/og/28697040062_905f00bd9e_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/981_artemisia_ludoviciana_valerie_finnis/regular/28697040062_905f00bd9e_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/981_artemisia_ludoviciana_valerie_finnis/medium/28697040062_905f00bd9e_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/981_artemisia_ludoviciana_valerie_finnis/small/28697040062_905f00bd9e_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/981_artemisia_ludoviciana_valerie_finnis/thumbnail/28697040062_905f00bd9e_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

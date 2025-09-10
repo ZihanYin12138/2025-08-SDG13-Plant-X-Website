@@ -1,0 +1,126 @@
+{
+  "id": 937,
+  "common_name": "jack-in-the-pulpit",
+  "scientific_name": [
+    "Arisaema triphyllum"
+  ],
+  "other_name": [],
+  "family": "Araceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "triphyllum",
+  "genus": "Arisaema",
+  "origin": [
+    "Eastern North America"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 2,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Division",
+    "Seed Propagation",
+    "Offsets",
+    "Cutting"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=937&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=937&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stalk",
+      "color": [
+        "lime-green"
+      ]
+    },
+    {
+      "part": "spathe",
+      "color": [
+        "green-purple"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Deciduous Shade (Spring Sun)"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=937&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Loamy Humus"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": true,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": true,
+  "poisonous_to_pets": true,
+  "description": "Jack-in-the-pulpit (Arisaema triphyllum) is truly an amazing plant. It produces unusual, skittle-like flowers, which are accompanied by hooded leaflets. These lovely leaflets, when combined with its pitcher-shaped spathe, give this plant its bright and captivating appearance. Its root system is also noteworthy; a single plant can produce a vast underground root system, up to an impressive 5 metres across. Jack-in-the-pulpit enjoys wet, shaded areas and can be found in woodlands throughout much of North America. A truly majestic and stunning species, it deserves all the attention it can get!",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/937_arisaema_triphyllum/og/52073665971_07d62b3600_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/937_arisaema_triphyllum/regular/52073665971_07d62b3600_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/937_arisaema_triphyllum/medium/52073665971_07d62b3600_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/937_arisaema_triphyllum/small/52073665971_07d62b3600_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/937_arisaema_triphyllum/thumbnail/52073665971_07d62b3600_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

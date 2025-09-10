@@ -1,0 +1,110 @@
+{
+  "id": 985,
+  "common_name": "wormwood",
+  "scientific_name": [
+    "Artemisia vulgaris 'Cragg-Barber Eye'"
+  ],
+  "other_name": [],
+  "family": "Asteraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Cragg-Barber Eye",
+  "variety": null,
+  "species_epithet": "vulgaris",
+  "genus": "Artemisia",
+  "origin": [
+    "Europe",
+    "Iran and Siberia"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Cutting",
+    "Division",
+    "Layering Propagation",
+    "Seed Propagation",
+    "Stem Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=985&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=985&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=985&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": true,
+  "poisonous_to_pets": true,
+  "description": "Wormwood (Artemisia vulgaris 'Cragg-Barber Eye') is an amazing plant species for its versatility and unique features. A relative of the daisy and ragweed family, this hardy perennial has large dark green leaves that turn a reddish-brown in the fall. The 'Cragg-Barber Eye' variety produces beautiful yellow bushy flowers that attract pollinators like butterflies, bees and birds. Wormwood can also be used in cooking and makes a great medicinal tea. It's also known for its antiseptic, antifungal and diuretic properties. Wormwood is a great plant to have in any garden, whether you want to enjoy its good looks or reap its many benefits.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/985_artemisia_vulgaris_cragg-barber_eye/og/Common_Mugwort_28Artemisia_vulgaris29_-_Oslo2C_Norway_2020-08-15.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/985_artemisia_vulgaris_cragg-barber_eye/regular/Common_Mugwort_28Artemisia_vulgaris29_-_Oslo2C_Norway_2020-08-15.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/985_artemisia_vulgaris_cragg-barber_eye/medium/Common_Mugwort_28Artemisia_vulgaris29_-_Oslo2C_Norway_2020-08-15.jpg",
+    "small_url": "https://perenual.com/storage/species_image/985_artemisia_vulgaris_cragg-barber_eye/small/Common_Mugwort_28Artemisia_vulgaris29_-_Oslo2C_Norway_2020-08-15.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/985_artemisia_vulgaris_cragg-barber_eye/thumbnail/Common_Mugwort_28Artemisia_vulgaris29_-_Oslo2C_Norway_2020-08-15.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

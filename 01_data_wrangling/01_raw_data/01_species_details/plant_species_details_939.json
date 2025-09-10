@@ -1,0 +1,140 @@
+{
+  "id": 939,
+  "common_name": "birthwort",
+  "scientific_name": [
+    "Aristolochia clematitis"
+  ],
+  "other_name": [],
+  "family": "Aristolochiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "clematitis",
+  "genus": "Aristolochia",
+  "origin": [
+    "Europe"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Division",
+    "Seed Propagation",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=939&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=939&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stalk",
+      "color": [
+        "green",
+        "lime-green",
+        "yellow-green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "yellow-white",
+        "yellow-green",
+        "yellow"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=939&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": true,
+  "poisonous_to_pets": true,
+  "description": "Birthwort is an amazing plant species that has many uses. It has traditionally been used to help stimulate labor during childbirth and to treat other health issues such as digestive disorders, bladder problems, and arthritis. The properties of this plant are also known to possess antibacterial, antifungal, and antiviral qualities. Birthwort is an attractive garden plant, with its distinctive yellow, bell-shaped flowers. It is easy to grow, with a long flowering period that allows it to add a unique beauty to any garden. And due to its hardiness and drought resistance, birthwort is also well suited for a variety of habitats, from woodland to meadow. It is truly an amazing plant species with many uses, perfect for any garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/939_aristolochia_clematitis/og/52149309863_1e7d80c1a7_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/939_aristolochia_clematitis/regular/52149309863_1e7d80c1a7_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/939_aristolochia_clematitis/medium/52149309863_1e7d80c1a7_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/939_aristolochia_clematitis/small/52149309863_1e7d80c1a7_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/939_aristolochia_clematitis/thumbnail/52149309863_1e7d80c1a7_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

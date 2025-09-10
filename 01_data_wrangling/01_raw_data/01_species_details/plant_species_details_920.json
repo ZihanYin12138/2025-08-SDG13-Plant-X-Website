@@ -1,0 +1,148 @@
+{
+  "id": 920,
+  "common_name": "common bearberry",
+  "scientific_name": [
+    "Arctostaphylos uva-ursi"
+  ],
+  "other_name": [
+    "kinnikinnick"
+  ],
+  "family": "Ericaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "uva-ursi",
+  "genus": "Arctostaphylos",
+  "origin": [
+    "Temperate northern Hemisphere"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 1,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Greenwood Cuttings",
+    "Hardwood Cuttings"
+  ],
+  "hardiness": {
+    "min": "2",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=920&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=920&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stalks",
+      "color": [
+        "red-brown"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green-red-yellow",
+        "green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "red-brown"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "pink-white"
+      ]
+    },
+    {
+      "part": "berries",
+      "color": [
+        "red"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun Partial sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=920&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Loamy Rocky"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": true,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [
+    "Fungal leaf spot",
+    " Galls",
+    " Root rot",
+    " Rust",
+    "  Deer resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Common bearberry (Arctostaphylos uva-ursi) is a stunning plant species with many amazing qualities. Hardy and evergreen, it can tolerate many harsh environmental conditions, making it an ideal choice for manicured landscapes, as well as natural areas. It bears white, pink and occasionally rose-colored flowers and small, red berries which are edible.Not only is bearberry attractive and edible, but it also offers medicinal advantages. It is used as a diuretic, exerting an inhibitory effect on bacteria and viruses, making it an ideal preventative for urinary tract infections. Additionally, its leaves are an outstanding source for tanning. For the gardener who has it all, common bearberry is the perfect addition.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/920_arctostaphylos_uva-ursi/og/48737727506_a4d2d95f99_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/920_arctostaphylos_uva-ursi/regular/48737727506_a4d2d95f99_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/920_arctostaphylos_uva-ursi/medium/48737727506_a4d2d95f99_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/920_arctostaphylos_uva-ursi/small/48737727506_a4d2d95f99_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/920_arctostaphylos_uva-ursi/thumbnail/48737727506_a4d2d95f99_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

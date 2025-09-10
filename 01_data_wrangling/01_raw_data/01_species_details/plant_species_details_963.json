@@ -1,0 +1,118 @@
+{
+  "id": 963,
+  "common_name": "black chokeberry",
+  "scientific_name": [
+    "Aronia melanocarpa 'Professor Ed'"
+  ],
+  "other_name": [
+    "Chokeberry"
+  ],
+  "family": "Rosaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Professor Ed",
+  "variety": null,
+  "species_epithet": "melanocarpa",
+  "genus": "Aronia",
+  "origin": [
+    "Eastern North America"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Greenwood Cuttings",
+    "Greenwood Cuttings"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=963&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=963&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Sun",
+    " Partial Shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "February",
+    "May"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=963&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Clay Rocky"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": true,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Fungal leaf spot",
+    " Rust"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Aronia melanocarpa 'Professor Ed' is an amazing plant species due to its versatility and ease of care. Its dense, upright habit makes it suitable for use as a shrub border or hedge. The deep black fruits are tart when raw, but make a delicious jelly or jam when cooked. It also features attractive, small white flowers in the spring and yellow-orange leaves in the fall. This plant does best in wet soils, but is tolerant of a range of soil conditions and can even tolerate some drought. Given its hardy nature and attractive fruits, it's no wonder why Aronia melanocarpa 'Professor Ed' is such an outstanding choice for landscaping!",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/963_aronia_melanocarpa_professor_ed/og/Aronia_melanocarpa_6329.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/963_aronia_melanocarpa_professor_ed/regular/Aronia_melanocarpa_6329.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/963_aronia_melanocarpa_professor_ed/medium/Aronia_melanocarpa_6329.jpg",
+    "small_url": "https://perenual.com/storage/species_image/963_aronia_melanocarpa_professor_ed/small/Aronia_melanocarpa_6329.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/963_aronia_melanocarpa_professor_ed/thumbnail/Aronia_melanocarpa_6329.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

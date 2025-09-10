@@ -1,0 +1,116 @@
+{
+  "id": 965,
+  "common_name": "black chokeberry",
+  "scientific_name": [
+    "Aronia melanocarpa 'UCONNAM165' LOW SCAPE MOUND"
+  ],
+  "other_name": [
+    "Chokeberry"
+  ],
+  "family": "Rosaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "UCONNAM165",
+  "variety": null,
+  "species_epithet": "melanocarpa",
+  "genus": "Aronia",
+  "origin": [
+    "Eastern North America"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Greenwood Cuttings",
+    "Greenwood Cuttings"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=965&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=965&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Sun",
+    " Partial Shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=965&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Clay Rocky"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": true,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Fungal leaf spot",
+    " Rust"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Low Scape Mound is an amazing black chokeberry variety due to its low-growing, mounding form and excellent disease resistance. This perennial shrub produces glossy, dark-green foliage that is followed by fragrant white flowers in late spring. The fruit that appears in early summer is edible, and can be used to make delicious jams, jellies and juices. The dark-purple, low-growing growth habit of this black chokeberry is ideal for landscapes that don't have time for trimming and pruning, since it requires only minimal maintenance. It is also extremely hardy and is resistant to most diseases. With its beautiful foliage, vibrant flowers and tasty fruits, Low Scape Mound is an attractive and productive addition to any garden.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/965_aronia_melanocarpa_uconnam165_low_scape_mound/og/Aronia_melanocarpa_cv_Rubina_P1020524.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/965_aronia_melanocarpa_uconnam165_low_scape_mound/regular/Aronia_melanocarpa_cv_Rubina_P1020524.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/965_aronia_melanocarpa_uconnam165_low_scape_mound/medium/Aronia_melanocarpa_cv_Rubina_P1020524.jpg",
+    "small_url": "https://perenual.com/storage/species_image/965_aronia_melanocarpa_uconnam165_low_scape_mound/small/Aronia_melanocarpa_cv_Rubina_P1020524.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/965_aronia_melanocarpa_uconnam165_low_scape_mound/thumbnail/Aronia_melanocarpa_cv_Rubina_P1020524.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

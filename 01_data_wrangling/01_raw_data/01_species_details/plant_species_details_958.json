@@ -1,0 +1,156 @@
+{
+  "id": 958,
+  "common_name": "chokeberry",
+  "scientific_name": [
+    "Aronia arbutifolia 'Brilliantissima'"
+  ],
+  "other_name": [],
+  "family": "Rosaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Brilliantissima",
+  "variety": null,
+  "species_epithet": "arbutifolia",
+  "genus": "Aronia",
+  "origin": [
+    "Eastern North America"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 6,
+      "max_value": 10,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=958&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=958&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stems",
+      "color": [
+        "red-gray",
+        "brown-gray"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "white-red",
+        "white"
+      ]
+    },
+    {
+      "part": "stamens",
+      "color": [
+        "pink-white"
+      ]
+    },
+    {
+      "part": "berries",
+      "color": [
+        "red"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "pale-red-green",
+        "green"
+      ]
+    },
+    {
+      "part": "buds",
+      "color": [
+        "white-pink"
+      ]
+    },
+    {
+      "part": "anthers",
+      "color": [
+        "pink-purple"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=958&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": true,
+  "description": "The Chokeberry (Aronia Arbutifolia 'Brilliantissima') is an amazing plant species due to its unique beauty. It is renowned for its stunning foliage and bold colors. It features deeply hued red-maroon foliage in the Spring and gorgeous brilliant white flowers in the late Spring to early Summer. In the Fall, brilliant red to yellow-orange berries provide an eye-catching contrast against the green foliage. The brilliant colors of this plant make it a standout in any garden. Plus, it is fast-growing, easy-care, and easy to propagate, making it an ideal choice for the beginner gardener. Plus, the berries of this stunning plant are edible and packed with beneficial antioxidants. With its stunning foliage, unique colors, and edible berries, this plant is a must-have for any garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/958_aronia_arbutifolia_brilliantissima/og/5594457378_7d7d1237d6_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/958_aronia_arbutifolia_brilliantissima/regular/5594457378_7d7d1237d6_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/958_aronia_arbutifolia_brilliantissima/medium/5594457378_7d7d1237d6_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/958_aronia_arbutifolia_brilliantissima/small/5594457378_7d7d1237d6_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/958_aronia_arbutifolia_brilliantissima/thumbnail/5594457378_7d7d1237d6_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

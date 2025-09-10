@@ -1,0 +1,122 @@
+{
+  "id": 972,
+  "common_name": "California sagebrush",
+  "scientific_name": [
+    "Artemisia californica 'Canyon Gray'"
+  ],
+  "other_name": [],
+  "family": "Asteraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Canyon Gray",
+  "variety": null,
+  "species_epithet": "californica",
+  "genus": "Artemisia",
+  "origin": [
+    "United States",
+    "California"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 2,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Division",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "7",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=972&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=972&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "foliage",
+      "color": [
+        "gray-green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "yellow"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=972&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": true,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "California sagebrush (Artemisia californica 'Canyon Gray') is an amazing native species of California. It is drought tolerant and this makes it the ideal for the hot and dry climates of California. This plant has a stunning silver-grey foliage which is ideal for use as a groundcover in rock gardens, dry riverbeds and other sparse landscapes. It can also be used as an accent plant in the garden. The foliage has an aromatic scent which deer and rabbits do not seem to like, which makes it great for use in areas with high wildlife activity. The Canyon Gray variety has vibrant yellow flower heads and is slightly more tolerant of wetter conditions than its other varieties. California sagebrush is an amazing native species of California that is tough and beautiful.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/972_artemisia_californica_canyon_gray/og/51175626765_a033a0855c_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/972_artemisia_californica_canyon_gray/regular/51175626765_a033a0855c_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/972_artemisia_californica_canyon_gray/medium/51175626765_a033a0855c_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/972_artemisia_californica_canyon_gray/small/51175626765_a033a0855c_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/972_artemisia_californica_canyon_gray/thumbnail/51175626765_a033a0855c_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

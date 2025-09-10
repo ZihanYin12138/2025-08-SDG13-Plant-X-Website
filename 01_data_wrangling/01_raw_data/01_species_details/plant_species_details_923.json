@@ -1,0 +1,119 @@
+{
+  "id": 923,
+  "common_name": "bearberry",
+  "scientific_name": [
+    "Arctostaphylos uva-ursi 'Wood's Red'"
+  ],
+  "other_name": [
+    "kinnikinnick"
+  ],
+  "family": "Ericaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Wood",
+  "variety": null,
+  "species_epithet": "uva-ursi",
+  "genus": "Arctostaphylos",
+  "origin": [
+    "Temperate northern Hemisphere"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 1,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Greenwood Cuttings",
+    "Hardwood Cuttings"
+  ],
+  "hardiness": {
+    "min": "2",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=923&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=923&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun Partial sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=923&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Loamy Rocky"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [
+    "Fungal leaf spot",
+    " Galls",
+    " Root rot",
+    " Rust",
+    "  Deer resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Bearberry (Arctostaphylos uva-ursi 'Wood's Red') is an amazing plant species. This evergreen shrub is a low-growing, hardy plant that features shiny red-brown bark, and small, round foliage which turns a deep red color in the fall and winter. Its small white flowers bloom in the spring, giving way to an abundance of edible deep red-orange berries. The leaves have been used for centuries in traditional medicinal treatments for urinary tract and bladder health. Its exceptional drought tolerance, along with its stunning display of foliage and fruit, makes it an excellent choice for gardens in many climates.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/923_arctostaphylos_uva-ursi_woods_red/og/5188484321_5cf1761bf4_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/923_arctostaphylos_uva-ursi_woods_red/regular/5188484321_5cf1761bf4_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/923_arctostaphylos_uva-ursi_woods_red/medium/5188484321_5cf1761bf4_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/923_arctostaphylos_uva-ursi_woods_red/small/5188484321_5cf1761bf4_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/923_arctostaphylos_uva-ursi_woods_red/thumbnail/5188484321_5cf1761bf4_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

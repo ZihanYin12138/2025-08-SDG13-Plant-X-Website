@@ -1,0 +1,145 @@
+{
+  "id": 969,
+  "common_name": "southernwood",
+  "scientific_name": [
+    "Artemisia abrotanum"
+  ],
+  "other_name": [
+    "Sagebrush"
+  ],
+  "family": "Asteraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "abrotanum",
+  "genus": "Artemisia",
+  "origin": [
+    "Eastern"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Birds",
+    " Butterflies",
+    " Bees"
+  ],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Division",
+    "Seed Propagation",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=969&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=969&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "gray-green"
+      ]
+    },
+    {
+      "part": "stalk",
+      "color": [
+        "brown-green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "July",
+    "August",
+    "December",
+    "January",
+    "February",
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 3,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=969&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": true,
+  "description": "Southernwood (Artemisia abrotanum) is an amazing plant species with a long history of medicinal uses and a pleasant scent. It can add a touch of rustic charm to any garden. Also known as Old Man, Lad's Love, and Maiden's Ruin, this bushy evergreen shrub has an array of benefits. Its finely cut leaves release an appealing scent when crushed, and they can be used in teas, soaps, and perfumes. Because of its pungent aroma, it can ward off pests in nearby gardens. Additionally, it's high in essential oils and has many medicinal properties, such as being a diuretic, improving heart health, and stimulating circulation. All-in-all, Southernwood isa unique and useful plant, with endless possibilities for home use.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/969_artemisia_abrotanum/og/3825719144_9de775e7a5_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/969_artemisia_abrotanum/regular/3825719144_9de775e7a5_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/969_artemisia_abrotanum/medium/3825719144_9de775e7a5_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/969_artemisia_abrotanum/small/3825719144_9de775e7a5_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/969_artemisia_abrotanum/thumbnail/3825719144_9de775e7a5_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

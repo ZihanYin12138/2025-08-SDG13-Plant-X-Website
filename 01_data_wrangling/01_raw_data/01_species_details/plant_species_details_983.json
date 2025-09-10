@@ -1,0 +1,108 @@
+{
+  "id": 983,
+  "common_name": "wormwood",
+  "scientific_name": [
+    "Artemisia 'Tiny Green'"
+  ],
+  "other_name": [],
+  "family": "Asteraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Tiny Green",
+  "variety": null,
+  "species_epithet": "'Tiny",
+  "genus": "Artemisia",
+  "origin": [
+    "China",
+    "Japan",
+    "Korea",
+    "Mongolia"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0,
+      "max_value": 0.25,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Layering Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=983&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=983&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=983&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": true,
+  "poisonous_to_pets": true,
+  "description": "Wormwood (Artemisia 'Tiny Green') is an amazing ornamental plant with plenty of visual appeal. It is low maintenance and drought tolerant, yet also creates a stunning and lush touch to any garden. Its impressive lacy foliage displays yellow-green blooms in late fall and into early spring. Its silvery colored and fragrant leaves are an excellent addition to any Mediterranean or coastal garden. Not only is the Wormwood 'Tiny Green' an eye-catching plant, it is also known for its medicinal benefits. It is a popular traditional remedy for many of ailments such as stomach aches, asthma, intestinal dysfunctions, and many more.",
+  "default_image": {
+    "license": 44,
+    "license_name": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "original_url": "https://perenual.com/storage/species_image/983_artemisia_tiny_green/og/44db18d7eab59195c18975ed013f74ec839b921a.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/983_artemisia_tiny_green/regular/44db18d7eab59195c18975ed013f74ec839b921a.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/983_artemisia_tiny_green/medium/44db18d7eab59195c18975ed013f74ec839b921a.jpg",
+    "small_url": "https://perenual.com/storage/species_image/983_artemisia_tiny_green/small/44db18d7eab59195c18975ed013f74ec839b921a.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/983_artemisia_tiny_green/thumbnail/44db18d7eab59195c18975ed013f74ec839b921a.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,140 @@
+{
+  "id": 892,
+  "common_name": "columbine",
+  "scientific_name": [
+    "Aquilegia 'Spezialrasse'"
+  ],
+  "other_name": [],
+  "family": "Ranunculaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Spezialrasse",
+  "variety": null,
+  "species_epithet": "'Spezialrasse'",
+  "genus": "Aquilegia",
+  "origin": [
+    "Germany"
+  ],
+  "type": "Flower",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1.5,
+      "max_value": 2.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Hummingbirds"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Division",
+    "Cutting"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=892&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=892&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "red-white",
+        "pink-red"
+      ]
+    },
+    {
+      "part": "stamens",
+      "color": [
+        "yellow",
+        "yellow-white"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=892&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Columbine (Aquilegia 'Spezialrasse') is a truly spectacular plant. Its elegant, bell-shaped blooms in bright shades of red, purple and yellow make a gorgeous floral display that is sure to draw attention. The lush, green foliage and long-lasting blooms add color and texture to the garden while providing excellent cut flowers. This unique species is also very hardy and can tolerate shade, sun and even poor soil conditions. With regular watering and fertilization, columbine will remain a stunning addition to your garden for many seasons.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/892_aquilegia_spezialrasse/og/52178317178_05de321273_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/892_aquilegia_spezialrasse/regular/52178317178_05de321273_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/892_aquilegia_spezialrasse/medium/52178317178_05de321273_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/892_aquilegia_spezialrasse/small/52178317178_05de321273_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/892_aquilegia_spezialrasse/thumbnail/52178317178_05de321273_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

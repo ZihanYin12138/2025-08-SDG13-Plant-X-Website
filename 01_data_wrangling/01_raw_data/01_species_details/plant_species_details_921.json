@@ -1,0 +1,145 @@
+{
+  "id": 921,
+  "common_name": "common bearberry",
+  "scientific_name": [
+    "Arctostaphylos uva-ursi 'Big Bear'"
+  ],
+  "other_name": [
+    "kinnikinnick"
+  ],
+  "family": "Ericaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Big Bear",
+  "variety": null,
+  "species_epithet": "uva-ursi",
+  "genus": "Arctostaphylos",
+  "origin": [
+    "Temperate northern Hemisphere"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 1,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Greenwood Cuttings",
+    "Hardwood Cuttings"
+  ],
+  "hardiness": {
+    "min": "2",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=921&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=921&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stem",
+      "color": [
+        "red-brown"
+      ]
+    },
+    {
+      "part": "stalks",
+      "color": [
+        "red-brown"
+      ]
+    },
+    {
+      "part": "berries",
+      "color": [
+        "bright-red"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "March",
+    "April",
+    "August",
+    "September"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=921&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Loamy Rocky"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Fungal leaf spot",
+    " Galls",
+    " Root rot",
+    " Rust",
+    "  Deer resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Common Bearberry (Arctostaphylos uva-ursi 'Big Bear') is a versatile and beautiful shrub native to North America. It provides a wealth of benefits, from its medicinal uses to its visual appeal. Its evergreen foliage and white spring flowers make for a great landscape addition year-round, while its edible berries provide a great source of food and the perfect habitat for wildlife. Perhaps most importantly, Common Bearberry is highly medicinal and is used to treat bladder and urinary tract infections due to its high content of a powerful antibiotic. Furthermore, it's highly tolerant of drought and can endure in soils of almost any type, making it an attractive and reliable choice. All of these features make Common Bearberry truly amazing!",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/921_arctostaphylos_uva-ursi_big_bear/og/17998226283_5c86cf5c5e_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/921_arctostaphylos_uva-ursi_big_bear/regular/17998226283_5c86cf5c5e_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/921_arctostaphylos_uva-ursi_big_bear/medium/17998226283_5c86cf5c5e_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/921_arctostaphylos_uva-ursi_big_bear/small/17998226283_5c86cf5c5e_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/921_arctostaphylos_uva-ursi_big_bear/thumbnail/17998226283_5c86cf5c5e_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

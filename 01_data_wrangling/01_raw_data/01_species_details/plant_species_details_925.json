@@ -1,0 +1,132 @@
+{
+  "id": 925,
+  "common_name": "hen's eyes",
+  "scientific_name": [
+    "Ardisia crenata"
+  ],
+  "other_name": [],
+  "family": "Primulaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "crenata",
+  "genus": "Ardisia",
+  "origin": [
+    "Japan",
+    "Northern India"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 4,
+      "max_value": 5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "8",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=925&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=925&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stem",
+      "color": [
+        "red-brown"
+      ]
+    },
+    {
+      "part": "stalk",
+      "color": [
+        "red-brown"
+      ]
+    },
+    {
+      "part": "berries",
+      "color": [
+        "bright-red"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "yellow-green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "part shade",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=925&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": true,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Hen's Eyes (Ardisia crenata) is an amazing plant species. It is a tropical, evergreen shrub with glossy, dark green foliage. This tropical beauty blooms with a plethora of delicate, white flowers. The petals of the flowers curve upwards, resembling the appearance of a hen’s eyes. Throughout the year, it produces berries, which start off green before maturing to a glossy, deep purple hue. Its berries are popular among birds and other wildlife. Hen's Eyes is a great addition to any garden or landscaping due to its stunning foliage and bright-colored berries.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/925_ardisia_crenata/og/50950278062_f6dbb4e8ba_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/925_ardisia_crenata/regular/50950278062_f6dbb4e8ba_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/925_ardisia_crenata/medium/50950278062_f6dbb4e8ba_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/925_ardisia_crenata/small/50950278062_f6dbb4e8ba_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/925_ardisia_crenata/thumbnail/50950278062_f6dbb4e8ba_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,150 @@
+{
+  "id": 988,
+  "common_name": "breadfruit",
+  "scientific_name": [
+    "Artocarpus altilis"
+  ],
+  "other_name": [],
+  "family": "Moraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "altilis",
+  "genus": "Artocarpus",
+  "origin": [
+    "Malaysia"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 30,
+      "max_value": 50,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "10",
+    "max": "12"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=988&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=988&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "fruit",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "midrib",
+      "color": [
+        "yellow-green"
+      ]
+    },
+    {
+      "part": "vein",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "brown-green"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "brown-green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "February",
+    "March",
+    "August",
+    "August",
+    "September"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=988&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": true,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Breadfruit (Artocarpus altilis) is an amazing edible fruit tree species. It is native to Pacific islands and Southeast Asia, but is now grown throughout the tropics. Breadfruit has many pieces of unique anatomy which makes it unique. It has a large, round, dimpled, light green fruit which can be eaten either cooked or raw. Its single large seed contains an edible oil that's been used in cooking for centuries. Additionally, breadfruit has an extensive network of root systems which help to prevent soil erosion and stabilise beach sands. This makes it an incredibly useful tree for coastal ecosystems. Furthermore, in many parts of the world, it has become an important food source due to its high levels of nutrition. This is why breadfruit is an amazing species and should be celebrated.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/988_artocarpus_altilis/og/27300926886_1fe42029eb_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/988_artocarpus_altilis/regular/27300926886_1fe42029eb_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/988_artocarpus_altilis/medium/27300926886_1fe42029eb_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/988_artocarpus_altilis/small/27300926886_1fe42029eb_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/988_artocarpus_altilis/thumbnail/27300926886_1fe42029eb_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

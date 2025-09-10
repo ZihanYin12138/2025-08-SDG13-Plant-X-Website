@@ -1,0 +1,117 @@
+{
+  "id": 914,
+  "common_name": "American spikenard",
+  "scientific_name": [
+    "Aralia racemosa"
+  ],
+  "other_name": [
+    "Life Of Man"
+  ],
+  "family": "Araliaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "racemosa",
+  "genus": "Aralia",
+  "origin": [
+    "North America"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=914&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=914&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Partial sun Shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "August",
+    "August",
+    "September",
+    "December",
+    "January",
+    "February"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=914&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Loamy Humus"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "American spikenard (Aralia racemosa) is an amazing plant species for many reasons. It is native to eastern North America and is found throughout the mid-Atlantic and Southeast regions. Its deep green foliage and clusters of white-tinted flowers make it an eye-catching ornamental. Additionally, it is a perennial, evergreen plant; meaning it adds beauty to your garden year-round. Furthermore, it has soothing, medicinal properties used to treat both physical ailments and emotional stress. Plus, its sweet and spicy aroma is known to attract butterflies and other pollinators, which help to keep the plant healthy and vibrant. With its many benefits, it's no wonder Americans spikenard is a beloved plant species!",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/914_aralia_racemosa/og/36841734182_4b347a5055_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/914_aralia_racemosa/regular/36841734182_4b347a5055_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/914_aralia_racemosa/medium/36841734182_4b347a5055_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/914_aralia_racemosa/small/36841734182_4b347a5055_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/914_aralia_racemosa/thumbnail/36841734182_4b347a5055_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

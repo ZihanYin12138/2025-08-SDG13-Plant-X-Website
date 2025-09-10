@@ -1,0 +1,149 @@
+{
+  "id": 968,
+  "common_name": "purple-fruited chokeberry",
+  "scientific_name": [
+    "Aronia prunifolia"
+  ],
+  "other_name": [],
+  "family": "Rosaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "prunifolia",
+  "genus": "Aronia",
+  "origin": [
+    "Eastern North America"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 8,
+      "max_value": 12,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Tissue Culture",
+    "Air Layering Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=968&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=968&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stem",
+      "color": [
+        "gray"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "gray"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "red-orange-green",
+        "green-brown"
+      ]
+    },
+    {
+      "part": "fruit",
+      "color": [
+        "dark-purple"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "pink-white"
+      ]
+    },
+    {
+      "part": "stamens",
+      "color": [
+        "pink"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=968&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": true,
+  "poisonous_to_pets": true,
+  "description": "The purple-fruited chokeberry (Aronia prunifolia) is an amazing plant species to behold. It has stunning dark purple-flecked foliage that turns magnificent shades of orange and red in the autumn and unique white to pale pink flowers that bloom in the spring. Both the fruits and leaves are completely edible and can be eaten raw, cooked, or dried and enjoyed in teas, jams, and syrups. As if that’s not enough, this plant - native to North America - is also highly adaptable and resilient to pests and disease, making it a gardeners dream. Growing up to five feet tall, the purple-fruited chokeberry is truly a beautiful and productive addition to the garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/968_aronia_prunifolia/og/50352225938_fcc00078d3_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/968_aronia_prunifolia/regular/50352225938_fcc00078d3_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/968_aronia_prunifolia/medium/50352225938_fcc00078d3_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/968_aronia_prunifolia/small/50352225938_fcc00078d3_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/968_aronia_prunifolia/thumbnail/50352225938_fcc00078d3_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
