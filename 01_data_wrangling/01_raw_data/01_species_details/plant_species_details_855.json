@@ -1,0 +1,172 @@
+{
+  "id": 855,
+  "common_name": "anthurium",
+  "scientific_name": [
+    "Anthurium andraeanum"
+  ],
+  "other_name": [],
+  "family": "Araceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "andraeanum",
+  "genus": "Anthurium",
+  "origin": [
+    "Colombia",
+    "Ecuador",
+    "Venezuelan Antilles",
+    "Windward Islands"
+  ],
+  "type": "Flower",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Air Layering Propagation",
+    "Stem Propagation",
+    "Leaf Cutting",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "11",
+    "max": "12"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=855&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=855&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stalk",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "red",
+        "red-pink"
+      ]
+    },
+    {
+      "part": "spadix",
+      "color": [
+        "yellow-white-orange",
+        "pink-white",
+        "white-red",
+        "yellow-white"
+      ]
+    },
+    {
+      "part": "center",
+      "color": [
+        "orange",
+        "white-red",
+        "yellow-white"
+      ]
+    },
+    {
+      "part": "spathe",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "flower",
+      "color": [
+        "pink-red",
+        "red-pink"
+      ]
+    },
+    {
+      "part": "leaf",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "yellow-green",
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=855&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": true,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Anthurium andraeanum is an amazing plant species for many reasons. It has a brightly coloured spathe, which can be orange, white and yellow, as well as long-lasting flowering. It is a long-lived species, and its blooms can remain intact for several months. This attractive plant is also easy to care for and can thrive in indirect light and humid environments. Its flowers bloom regularly and even if the plant is not fertilised, it can still keep thriving. Furthermore, the Anthurium andraeanum is perfect for those looking for a unique, eye-catching houseplant to add to their home. In conclusion, Anthurium andraeanum is a stunning and resilient species with distinctively vibrant flowers.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/855_anthurium_andraeanum/og/49388458462_0ef650db39_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/855_anthurium_andraeanum/regular/49388458462_0ef650db39_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/855_anthurium_andraeanum/medium/49388458462_0ef650db39_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/855_anthurium_andraeanum/small/49388458462_0ef650db39_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/855_anthurium_andraeanum/thumbnail/49388458462_0ef650db39_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

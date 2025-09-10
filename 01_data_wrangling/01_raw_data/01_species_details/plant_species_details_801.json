@@ -1,0 +1,141 @@
+{
+  "id": 801,
+  "common_name": "big blue stem",
+  "scientific_name": [
+    "Andropogon gerardii 'Blackhawks'"
+  ],
+  "other_name": [],
+  "family": "Poaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Blackhawks",
+  "variety": null,
+  "species_epithet": "gerardii",
+  "genus": "Andropogon",
+  "origin": [
+    "Canada",
+    "Mexico"
+  ],
+  "type": "Ornamental grass",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 4,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Root Suckering",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=801&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=801&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stems",
+      "color": [
+        "green-red"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "purple",
+        "green-maroon"
+      ]
+    },
+    {
+      "part": "seed",
+      "color": [
+        "purple"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "green-maroon"
+      ]
+    }
+  ],
+  "sunlight": [
+    "part sun/part shade",
+    "full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "August"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=801&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Loamy Clay Rocky"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [
+    "Pest resistant",
+    " Disease resistant",
+    " Deer resistant",
+    " Drought resistant"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Big Blue Stem, or Andropogon gerardii 'Blackhawks', is a remarkable native grass with a captivating appearance. Its stunning black leaves give a bold contrast to the light tassel-like flower stems that appear in late summer. Its drought- and fire-resistant ability make it a great hardy choice for gardens with low maintenance needs. The majestic grass is attractive to both birds and butterflies that visit the garden. Its ornamental character and deep roots help fight soil erosion and absorb excess moisture. The big blue stem is truly a wonderful addition to any garden and an amazing sight to behold.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/801_andropogon_gerardii_blackhawks/og/48861101783_1a37768f23_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/801_andropogon_gerardii_blackhawks/regular/48861101783_1a37768f23_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/801_andropogon_gerardii_blackhawks/medium/48861101783_1a37768f23_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/801_andropogon_gerardii_blackhawks/small/48861101783_1a37768f23_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/801_andropogon_gerardii_blackhawks/thumbnail/48861101783_1a37768f23_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

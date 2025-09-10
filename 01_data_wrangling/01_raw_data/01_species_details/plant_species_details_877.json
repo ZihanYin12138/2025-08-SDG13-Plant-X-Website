@@ -1,0 +1,121 @@
+{
+  "id": 877,
+  "common_name": "fan columbine",
+  "scientific_name": [
+    "Aquilegia flabellata"
+  ],
+  "other_name": [],
+  "family": "Ranunculaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "flabellata",
+  "genus": "Aquilegia",
+  "origin": [
+    "Japan",
+    "eastern Asia"
+  ],
+  "type": "Flower",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Division",
+    "Cutting",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=877&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=877&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "February",
+    "March",
+    "December",
+    "January",
+    "February",
+    "August",
+    "August",
+    "September",
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=877&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The fan columbine (Aquilegia flabellata) is nothing short of amazing. Its delicate flower that resembles a fan, and its bright and vibrant colors, make it a captivating sight when in bloom. The fan columbine is native to mountainous areas between Japan and India and has adapted to cold climates. It blooms each spring and can attract a wide variety of pollinators, both wild and domestic. The fan columbine is easy to care for and can be grown in almost any kind of soil. It also makes a great addition to a rockery or alpine garden. Fan columbine's beauty and versatility make it a wonderful and worthwhile addition to any garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/877_aquilegia_flabellata/og/14017669737_5e92c2ea46_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/877_aquilegia_flabellata/regular/14017669737_5e92c2ea46_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/877_aquilegia_flabellata/medium/14017669737_5e92c2ea46_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/877_aquilegia_flabellata/small/14017669737_5e92c2ea46_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/877_aquilegia_flabellata/thumbnail/14017669737_5e92c2ea46_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

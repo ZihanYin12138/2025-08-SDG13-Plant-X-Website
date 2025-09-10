@@ -1,0 +1,133 @@
+{
+  "id": 817,
+  "common_name": "Japanese anemone",
+  "scientific_name": [
+    "Anemone hupehensis var. japonica 'Prinz Heinrich'"
+  ],
+  "other_name": [],
+  "family": "Ranunculaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Prinz Heinrich",
+  "variety": "var. japonica ",
+  "species_epithet": "hupehensis",
+  "genus": "Anemone",
+  "origin": [
+    "Japan"
+  ],
+  "type": "Flower",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Root Cutting",
+    "Seed Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=817&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=817&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flower",
+      "color": [
+        "pink"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "maroon"
+      ]
+    },
+    {
+      "part": "pistils",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "December",
+    "January",
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=817&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Japanese anemone (Anemone hupehensis var. japonica 'Prinz Heinrich') is a stunning and unique flower beloved for its beauty. It stands out in any garden due to its bold pink flowers and long-lasting blooms which start in mid-summer and last through autumn. The ample flower petals are deeply lobed and the clusters of furry stamens add to its charm. Its foliage is also attractive, with delicate, deeply lobed leaves in dark green. This perennial plant will brighten up any garden with its beauty and comes in other varieties with white and red blooms as well. Japanese anemone is easy to look after and soil conditions don't have to be perfect for it to thrive, making it a great choice for any flower enthusiast.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/817_anemone_hupehensis_var_japonica_prinz_heinrich/og/52319889353_607924bbf8_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/817_anemone_hupehensis_var_japonica_prinz_heinrich/regular/52319889353_607924bbf8_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/817_anemone_hupehensis_var_japonica_prinz_heinrich/medium/52319889353_607924bbf8_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/817_anemone_hupehensis_var_japonica_prinz_heinrich/small/52319889353_607924bbf8_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/817_anemone_hupehensis_var_japonica_prinz_heinrich/thumbnail/52319889353_607924bbf8_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

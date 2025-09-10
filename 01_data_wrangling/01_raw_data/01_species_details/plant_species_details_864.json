@@ -1,0 +1,106 @@
+{
+  "id": 864,
+  "common_name": "celeriac",
+  "scientific_name": [
+    "Apium graveolens var. rapaceum 'Diamant'"
+  ],
+  "other_name": [],
+  "family": "Apiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Diamant",
+  "variety": "var. rapaceum ",
+  "species_epithet": "graveolens",
+  "genus": "Apium",
+  "origin": [
+    "Europe"
+  ],
+  "type": "Vegetable",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2,
+      "max_value": 2.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Division",
+    "Grafting Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=864&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=864&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"1-2\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=864&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": false,
+  "edible_leaf": false,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Celeriac (Apium graveolens var. rapaceum 'Diamant') is an amazing plant that is packed with flavor and nutrition. It has a sweet, earthy taste that works well in soups, stews, risottos and salads. The stalks of the plant are high in vitamin C, magnesium, calcium and potassium. Additionally, it has a high fiber content. Its unusual appearance makes it a great addition to any garden or home as its beautiful edible bulbs are easily accessible. Celeriac is also very easy to cultivate making it ideal for beginner vegetable growers. The flavor and nutrition that it provides make celeriac a must-have in any herb or vegetable garden.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/864_apium_graveolens_var_rapaceum_diamant/og/MiC599C3ADk_celer_-_Apium_graveolens.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/864_apium_graveolens_var_rapaceum_diamant/regular/MiC599C3ADk_celer_-_Apium_graveolens.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/864_apium_graveolens_var_rapaceum_diamant/medium/MiC599C3ADk_celer_-_Apium_graveolens.jpg",
+    "small_url": "https://perenual.com/storage/species_image/864_apium_graveolens_var_rapaceum_diamant/small/MiC599C3ADk_celer_-_Apium_graveolens.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/864_apium_graveolens_var_rapaceum_diamant/thumbnail/MiC599C3ADk_celer_-_Apium_graveolens.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

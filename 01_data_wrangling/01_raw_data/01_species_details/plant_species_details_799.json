@@ -1,0 +1,111 @@
+{
+  "id": 799,
+  "common_name": "bluestem",
+  "scientific_name": [
+    "Andropogon capillipes 'Valdosta Blue'"
+  ],
+  "other_name": [],
+  "family": "Poaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Valdosta Blue",
+  "variety": null,
+  "species_epithet": "capillipes",
+  "genus": "Andropogon",
+  "origin": [
+    "United States"
+  ],
+  "type": "Ornamental grass",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Layering Propagation",
+    "Stolon",
+    "Rhizome Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=799&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=799&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=799&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Bluestem (Andropogon capillipes 'Valdosta Blue') is an amazing plant species. Its unique stem and foliage are a striking combination of blue-green. It is a warm season grass that provides lots of visual interest, especially in the fall. Its foliage turns an attractive shade of purple as the temperature drops. It is hardy and drought tolerant and does well in full sun areas with little to no irrigation. An excellent selection for native plantings and large areas, this grass will provide low maintenance beauty for years to come. Its adaptability makes it a great choice for those looking for an easy-to-care-for yet beautiful landscape option.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/799_andropogon_capillipes_valdosta_blue/og/48666137008_7f8da5fb3a_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/799_andropogon_capillipes_valdosta_blue/regular/48666137008_7f8da5fb3a_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/799_andropogon_capillipes_valdosta_blue/medium/48666137008_7f8da5fb3a_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/799_andropogon_capillipes_valdosta_blue/small/48666137008_7f8da5fb3a_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/799_andropogon_capillipes_valdosta_blue/thumbnail/48666137008_7f8da5fb3a_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

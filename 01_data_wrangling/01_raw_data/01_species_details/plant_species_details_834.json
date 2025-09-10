@@ -1,0 +1,142 @@
+{
+  "id": 834,
+  "common_name": "dill",
+  "scientific_name": [
+    "Anethum graveolens"
+  ],
+  "other_name": [],
+  "family": "Apiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "graveolens",
+  "genus": "Anethum",
+  "origin": [
+    "Northern Africa",
+    "Arabian Peninsula"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Annual",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "2",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=834&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=834&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stalks",
+      "color": [
+        "yellow-green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "foliage",
+      "color": [
+        "mint-green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "mint-green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "December",
+    "January",
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=834&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Humus rich",
+    " Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [
+    "Fungal leaf spot",
+    " Root rot",
+    "  Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Dill (Anethum graveolens) is an amazing herb. Its fern-like leaves are pleasant to look at and its flavour adds a delicious hint of aniseed to dishes. It is incredibly versatile and can be used in any savoury recipe, like soups, stews, salad dressings and sauces. The smell of dill is also amazing, due to its fragrant compounds, making it an ideal herb for aromatherapy. Furthermore, dill has many health benefits, as it is high in vitamin A, C, and K, minerals, and fiber. Dill has revealed to be an effective remedy against inflammations and cancer cells growth, making it an essential ingredient to have in the kitchen or garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/834_anethum_graveolens/og/52142605681_267b587549_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/834_anethum_graveolens/regular/52142605681_267b587549_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/834_anethum_graveolens/medium/52142605681_267b587549_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/834_anethum_graveolens/small/52142605681_267b587549_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/834_anethum_graveolens/thumbnail/52142605681_267b587549_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

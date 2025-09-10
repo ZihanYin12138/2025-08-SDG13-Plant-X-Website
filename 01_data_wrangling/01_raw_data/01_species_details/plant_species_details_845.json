@@ -1,0 +1,152 @@
+{
+  "id": 845,
+  "common_name": "heartleaf madeiravine",
+  "scientific_name": [
+    "Anredera cordifolia"
+  ],
+  "other_name": [],
+  "family": "Basellaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "cordifolia",
+  "genus": "Anredera",
+  "origin": [
+    "Southern Brazil",
+    "northern Argentina"
+  ],
+  "type": "Vine",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 12,
+      "max_value": 100,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Stem Propagation",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Division",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "9",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=845&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=845&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stems",
+      "color": [
+        "grey-brown"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "branch",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "vine",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=845&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Heartleaf Madeiravine (Axredera Cordifolia) is an amazing species of fast-growing, semi-erect, flowering vine. It has heart-shaped leaves and stems that can reach up to 10 feet long. Its flowers produce white, small, edible fruits. It's a rust-resistant plant that can make an ideal ground cover in sunny, moist areas. It's also used as an ornamental plant in gardens, planted in-ground or hanging baskets. It can tolerate a range of temperatures and most soil types. It's an amazing choice for landscaping since it's easy to propagate and maintain. Plus, it can bring a bit of cheer to any garden with its showy white flowers that appear almost year-round.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/845_anredera_cordifolia/og/48757222371_bb7fe8e0f1_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/845_anredera_cordifolia/regular/48757222371_bb7fe8e0f1_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/845_anredera_cordifolia/medium/48757222371_bb7fe8e0f1_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/845_anredera_cordifolia/small/48757222371_bb7fe8e0f1_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/845_anredera_cordifolia/thumbnail/48757222371_bb7fe8e0f1_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

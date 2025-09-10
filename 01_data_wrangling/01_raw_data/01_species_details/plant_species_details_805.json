@@ -1,0 +1,151 @@
+{
+  "id": 805,
+  "common_name": "Roundleaf Liverleaf",
+  "scientific_name": [
+    "Anemone americana"
+  ],
+  "other_name": [],
+  "family": "Ranunculaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "americana",
+  "genus": "Anemone",
+  "origin": [
+    "Eastern North America"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 0.75,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Layering Propagation",
+    "Tissue Culture"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=805&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=805&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "center",
+      "color": [
+        "yellow-green",
+        "yellow"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green",
+        "maroon-green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "flower",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "thorns",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=805&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Roundleaf Liverleaf (Anemone americana) is an amazing plant that offers an array of delightful characteristics. Its glossy, nearly evergreen foliage emerges early in the spring, and its dainty, blue-white to pale pink flowers bloom through late spring and summer. The leaves form a low mound and have a distinctive rounder shape than most liverleaf species. Its tough, drought-tolerant nature make it both low-maintenance and long-lasting. They are deer and rabbit resistant, and can provide much-needed ground cover in hard to mow areas. With its gorgeous foliage and charming flowers, Roundleaf Liverleaf is a fantastic choice for any garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/805_anemone_americana/og/26956083207_fbdd787ef8_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/805_anemone_americana/regular/26956083207_fbdd787ef8_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/805_anemone_americana/medium/26956083207_fbdd787ef8_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/805_anemone_americana/small/26956083207_fbdd787ef8_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/805_anemone_americana/thumbnail/26956083207_fbdd787ef8_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

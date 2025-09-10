@@ -1,0 +1,106 @@
+{
+  "id": 793,
+  "common_name": "variegated pineapple",
+  "scientific_name": [
+    "Ananas comosus var. variegatus"
+  ],
+  "other_name": [],
+  "family": "Bromeliaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": "var. variegatus",
+  "species_epithet": "comosus",
+  "genus": "Ananas",
+  "origin": [
+    "Tropical America"
+  ],
+  "type": "Fruit",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Air Layering Propagation",
+    "Offsets",
+    "Crown Division",
+    "Seed Propagation",
+    "Tissue Culture"
+  ],
+  "hardiness": {
+    "min": "11",
+    "max": "12"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=793&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=793&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "High",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=793&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": true,
+  "invasive": false,
+  "tropical": true,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Variegated pineapple is an amazing tropical plant that produces amazingly large and stunning fruits. Its varietal foliage is waxy and bright green with splashes of yellow or white in the form of striped variegation. It thrives in hot and humid environments, but can also be grown indoors in bright, sunny spots. Its unique and lovely colors make it a great addition to any landscape. In addition to its ornamental value, its fruit has multiple uses in the kitchen and is considered a delicacy in many areas. Its sweet, tangy and juiciness is something to look forward to. Variegated pineapple is truly an amazing and delightful plant to own!",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/793_ananas_comosus_var_variegatus/og/3084408454_c0938466ae_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/793_ananas_comosus_var_variegatus/regular/3084408454_c0938466ae_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/793_ananas_comosus_var_variegatus/medium/3084408454_c0938466ae_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/793_ananas_comosus_var_variegatus/small/3084408454_c0938466ae_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/793_ananas_comosus_var_variegatus/thumbnail/3084408454_c0938466ae_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
