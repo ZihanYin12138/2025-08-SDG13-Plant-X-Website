@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2275,
+      "species_id": 929,
+      "common_name": "cobbitty daisy",
+      "scientific_name": [
+        "Argyranthemum frutescens"
+      ],
+      "section": [
+        {
+          "id": 7030,
+          "type": "watering",
+          "description": "Cobbitty daisy should be watered regularly to keep the soil moist on a day to day basis. Since this plant is native to the Mediterranean region, it is best to let the soil dry out slightly between waterings. During the warmer and drier months, it may need to be watered 2 to 3 times a week, making sure that you are not over-watering it. During the cooler months, when the plant is actively growing, you should water even more frequently. On hot days, you may need to water cobbitty daisy every day. Additionally, you should also check the soil regularly in order to ensure that it is not too dry as this can damage the roots or cause wilting of the leaves."
+        },
+        {
+          "id": 7031,
+          "type": "sunlight",
+          "description": "The cobbitty daisy is a sun-loving plant, and requires at least 5-6 hours of direct sunlight each day in order to perform best and bloom profusely. During the height of summer, however, it's best to give this cheerful plant some relief by providing some partial shade, such as placing it on the east side of a building or tree, or providing it with an afternoon cover from the intense mid-day rays. It's also recommended that the soil be kept slightly moist, but not soggy."
+        },
+        {
+          "id": 7032,
+          "type": "pruning",
+          "description": "Cobbitty daisy (Argyranthemum frutescens) should be pruned in late winter, early spring when the plant is still dormant and before it starts to actively grow again. It is important to remove any dead and diseased stems as soon as possible, and also the occasional crossing branches, so that the plant can maintain a healthy, evenly spaced framework. Pruning can also be done regularly to encourage branching and to maintain a bushy shape. When pruning, it's best to take off no more than 1-third of the plant's stem length, as any more may damage the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

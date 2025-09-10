@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1013,
+      "species_id": 925,
+      "common_name": "hen's eyes",
+      "scientific_name": [
+        "Ardisia crenata"
+      ],
+      "section": [
+        {
+          "id": 3026,
+          "type": "watering",
+          "description": "For best results, water once a week when the top 1 inch of soil is dry to the touch. Make sure to water thoroughly so that the water has reached the roots, and drain any excess water from the saucer. The soil should be kept moderately moist, but not soggy. During the winter months, when the plant is not actively growing, the soil should be allowed to dry out more between waterings."
+        },
+        {
+          "id": 3036,
+          "type": "sunlight",
+          "description": "Hens eyes prefer partial shade, but they do need some direct sunlight in order to thrive. Aim for 4-6 hours of direct sunlight each day, but ideally avoid full sun exposure from 10am-2pm, when the sun can be more intense."
+        },
+        {
+          "id": 3043,
+          "type": "pruning",
+          "description": "Hens eyes plants should generally be pruned in late winter or early spring, while they are still in their dormancy period. Pruning should be kept to a minimum as the plant has an overall compact form. Remove dead, damaged or crossing/rubbing branches, as well as thinning out overly dense growth. Cut the branches back to a node or just above 1, using pruning snips or shears. It is important to be aware of the direction of the new growth, as this will determine the ultimate shape of the shrub."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

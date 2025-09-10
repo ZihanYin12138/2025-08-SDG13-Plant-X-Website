@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1547,
+      "species_id": 947,
+      "common_name": "thrift",
+      "scientific_name": [
+        "Armeria maritima 'Little Penny'"
+      ],
+      "section": [
+        {
+          "id": 4720,
+          "type": "watering",
+          "description": "Thrift (Armeria maritima 'Little Penny') should be watered twice a week during the summer, and once a week during the cooler months. It is best to water in the morning or evening so the leaves can dry off before nightfall. Make sure to only add enough water to moisten the soil, but not so much that the soil is soggy. During the hot summer months, the soil may need more frequent watering if it dries out quickly."
+        },
+        {
+          "id": 4721,
+          "type": "sunlight",
+          "description": "Thrift (Armeria maritima 'Little Penny') does best with at least 6 hours of sunlight per day. It prefers full sun, but can tolerate some shade. Some protection from afternoon sun may be beneficial in hot climates, as too much direct sunlight can damage the delicate foliage. The plant can tolerate partial shade, which can help reduce the amount of heat stress it will experience. When grown in partial shade, the plant may require supplementary lighting to ensure its growth and health. During the winter months, direct sunlight may be beneficial to promote more consistent blooming."
+        },
+        {
+          "id": 4722,
+          "type": "pruning",
+          "description": "Thrift (Armeria maritima 'Little Penny') is an evergreen perennial that grows best in full sun or partial shade and should be pruned on an as-needed basis, typically no more than once a year. Pruning should be done in early spring, before new growth begins. When pruning, remove old and damaged stems all the way back to the ground. When cutting back, trim the top of the stems so that the strongest, healthiest stems are left behind and can grow to the desired shape and size. Take care to not over-prune, as this can damage or even kill the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

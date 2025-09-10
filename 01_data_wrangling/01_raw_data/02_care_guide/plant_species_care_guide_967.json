@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 606,
+      "species_id": 967,
+      "common_name": "black chokeberry",
+      "scientific_name": [
+        "Aronia melanocarpa 'Viking'"
+      ],
+      "section": [
+        {
+          "id": 1821,
+          "type": "watering",
+          "description": "Black chokeberry (Aronia melanocarpa 'Viking') requires regular water, but should not be over-watered. Generally, the plant should be watered once every 10-14 days in the summer months, and once every 2-3 weeks in cooler months. When watering, soak the soil to the depth of about 6 inches so that the roots can absorb the moisture. Make sure to take into consideration weather conditions, as warmer temperatures may require more frequent watering. Rainfall counts towards the total required water, so if the plant has gotten enough rain in a given week, be sure to skip the extra watering."
+        },
+        {
+          "id": 1822,
+          "type": "sunlight",
+          "description": "Black chokeberry (Aronia melanocarpa 'Viking') is a deciduous shrub that does best in full sun. It prefers 6-8 hours of sunlight per day and should be planted in an area that can provide maximum sun exposure. This plant is tolerant of some shade, but its best growth and highest yield of fruits will be achieved with ample sun exposure during the day. It is recommended to plant this species in a spot that gets the morning sun, but is protected from the heat of the afternoon sun."
+        },
+        {
+          "id": 1823,
+          "type": "pruning",
+          "description": "Black chokeberry is a hardy deciduous shrub that benefits from regular pruning throughout its life cycle. Pruning should be done in late winter or early spring, before new growth begins, in order to shape the shrub and keep it manageable. Dead, damaged, or diseased branches should be removed first. Prune away any crossing branches and thin out the interior if required. Depending on the desired shape, you can also select branches to prune away. Prune up to 1/3 of the oldest branches each year to keep the bush robust and promote new growth and abundant flowers."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

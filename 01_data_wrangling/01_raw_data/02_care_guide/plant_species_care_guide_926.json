@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2273,
+      "species_id": 926,
+      "common_name": "marlberry",
+      "scientific_name": [
+        "Ardisia japonica"
+      ],
+      "section": [
+        {
+          "id": 7024,
+          "type": "watering",
+          "description": "Marlberry plants should be regularly watered once or twice a week to ensure healthy growth. They prefer moist soil, but be careful not to overwater since it may cause root rot. During the summer season, make sure to water the marlberry plant in the morning, when temperatures are milder. In winter, the soil can dry out a bit more, and only needs to be watered once a week. During periods of intense heat, water more frequently. Be sure to check the soil before adding water as the soil should be slightly moist before watering again."
+        },
+        {
+          "id": 7025,
+          "type": "sunlight",
+          "description": "Marlberry (Ardisia japonica) plants prefer bright, indirect light, and are best when grown in a location that receives at least 4 hours of direct sunlight per day. Mature plants should receive minimally 6 hours of direct sun per day, and artificial light may be used to supplement the natural light if necessary. The best time of day to receive direct sunlight is during the morning and/or afternoon hours when the sun is not at its strongest. It is also important to provide some shade. A secluded spot or a place near a window with sheer curtains can help prevent too much intense direct sunlight from damaging the leaves of the marlberry."
+        },
+        {
+          "id": 7026,
+          "type": "pruning",
+          "description": "Marlberry (Ardisia japonica) should be pruned once a year around late winter prior to its growing season. When pruning, remove any dead, broken, or diseased branches and any shoots or branches that are too long or too dense. Cut each branch back to 2 or 3 sets of healthy buds to encourage new growth. Pruning in the late winter, prior to the start of the growing season helps maintain the plant’s shape and size and helps to produce large, abundant flowers during the flowering season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

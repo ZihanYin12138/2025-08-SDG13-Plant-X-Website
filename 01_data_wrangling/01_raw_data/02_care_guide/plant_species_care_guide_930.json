@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2276,
+      "species_id": 930,
+      "common_name": "arisaema",
+      "scientific_name": [
+        "Arisaema engleri"
+      ],
+      "section": [
+        {
+          "id": 7033,
+          "type": "watering",
+          "description": "The Arisaema engleri should be watered deeply, once a week, during the spring and summer growing seasons. During the fall and winter months, reduce watering to once every 2 to 3 weeks. Make sure the soil does not remain soggy, as this will cause root rot. Water the plant slowly, until the water runs out of the bottom of the pot."
+        },
+        {
+          "id": 7034,
+          "type": "sunlight",
+          "description": "Arisaema engleri (Cobra Lily) does best when grown in part shade to full shade. This shade-loving species needs at least 4-6 hours of direct sunlight a day. However, too much sunlight can be damaging to this plant and cause it to become stunted and weak. It is important to find the right balance between sun and shade for this species. During the summer months, it should be placed in an area that receives direct sunlight in the morning and then indirect sunlight for the rest of the day. During the winter months, it should be placed in a location that receives bright, indirect light all day."
+        },
+        {
+          "id": 7035,
+          "type": "pruning",
+          "description": "Arisaema (Arisaema engleri) should be pruned in early to mid-spring, once the plant has started to grow actively. To prune, carefully and selectively remove damaged, diseased, and dead stems, as well as overcrowded stems. Once the pruning is done, the remaining healthy stems should be trimmed back to the desired size and shape. Prune no more than 1-third of the entire plant to ensure that the plant still remains aesthetically pleasing."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

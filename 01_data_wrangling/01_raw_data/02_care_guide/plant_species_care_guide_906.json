@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2256,
+      "species_id": 906,
+      "common_name": "mountain rockcress",
+      "scientific_name": [
+        "Arabis alpina"
+      ],
+      "section": [
+        {
+          "id": 6973,
+          "type": "watering",
+          "description": "For mountain rockcress, water the plant with sufficient amounts of water every 7 days. Start watering near the base of the plant and wait for the soil to become damp before watering again. The plant’s roots will need regular moistening in order to thrive. It is also important to avoid overwatering. If the soil feels saturated and water begins to pool around the plant, reduce the amount of water given or spread it out over a longer period of time. When the plant begins to look wilted and droopy, it is a sign that it needs more water."
+        },
+        {
+          "id": 6974,
+          "type": "sunlight",
+          "description": "Mountain rockcress (Arabis alpina) is a plant species that thrives in full sun or partial shade. It is tolerant of a range of light conditions, and will do well in both full sun and partial shade. Ideal growing conditions are 8 to 10 hours of direct sunlight per day, although the plant can tolerate slightly less. If grown in partial shade, the foliage may be slightly more sparse, as the plant will need more energy from sunlight to grow and thrive. Mountain rockcress is also tolerant of cooler temperatures and light frost. It is not likely to do well in areas with intense summer heat, as the temperatures could become too extreme for the plant species."
+        },
+        {
+          "id": 6975,
+          "type": "pruning",
+          "description": "The best time for pruning mountain rockcress (Arabis alpina) is in early spring or late fall. Pruning should be done lightly in order to maintain the natural shape of the plant. It is best to prune only dead, damaged or weak stems. Pruning should be done right above a growth node (the area where a leaf or branch begins) to increase the number of branches, giving the plant a fuller appearance and encouraging strong new growth. If you need to shape the plant, try to remove no more than 1 third of the existing growth.\n\nMountain rockcress is a low maintenance plant, so it does not require frequent pruning. Pruning too much can damage the plant and remove the flowers. However, it may be necessary to prune the plant in order to remove dead flowers or branches that are no longer healthy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 680,
+      "species_id": 977,
+      "common_name": "white mugwort",
+      "scientific_name": [
+        "Artemisia lactiflora (Guizhou Group)"
+      ],
+      "section": [
+        {
+          "id": 2040,
+          "type": "watering",
+          "description": "White mugwort (Artemisia lactiflora (Guizhou Group)) prefers to grow in moist, well-drained soil. It should be watered regularly to keep the soil moist but not overly wet. During the spring and summer months, water your white mugwort 1-2 times a week, allowing the soil to dry out slightly between waterings, and during the fall and winter months, water your white mugwort 1-2 times a month. Additionally, it is important to check the soil regularly to ensure it does not dry out completely."
+        },
+        {
+          "id": 2041,
+          "type": "sunlight",
+          "description": "White mugwort (Artemisia lactiflora (Guizhou Group)) grows best when provided with a minimum of 6 hours of direct, unfiltered sunlight a day. During the hottest months of the year, the plant will appreciate some mild, afternoon shade to prevent scorching. If placed in too much shade, white mugwort will become elongated and spindly and will not flower."
+        },
+        {
+          "id": 2042,
+          "type": "pruning",
+          "description": "White Mugwort (Artemisia lactiflora (Guizhou Group)) should generally be pruned once a year during the late spring or early summer. Pruning should be minimal, since White Mugwort is prone to disease and over-pruning can cause damage to the plant. Fading blooms should be removed, but the entire plant should not be reduced in size significantly. If necessary, scale back the plant slightly to encourage new growth and further blooms. Always make sure to use sterile pruning shears or scissors and clean them between each cut."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

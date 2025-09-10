@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 312,
+      "species_id": 974,
+      "common_name": "tarragon",
+      "scientific_name": [
+        "Artemisia dracunculus"
+      ],
+      "section": [
+        {
+          "id": 485,
+          "type": "watering",
+          "description": "Tarragon (Artemisia dracunculus) should be watered regularly and evenly in order to ensure proper growth and development. During the growing season, it should be watered on a weekly basis. Water should be applied so the soil is kept moist, but not soggy. As soon as the top layer of soil begins to dry out, it is time to water again. In the summer months, you may need to water more often in order to keep the soil from drying out completely. During the winter months, tarragon should be watered less often and only when the soil appears dry. As always, it is best to check the soil moisture before watering to ensure it is not already saturated."
+        },
+        {
+          "id": 486,
+          "type": "sunlight",
+          "description": "In order for tarragon (Artemisia dracunculus) to grow optimally, it needs to get direct sunlight for at least 4 to 6 hours per day. If planted outdoors, tarragon should be placed in an area with full sun or partial shade, to prevent the leaves from burning due to overexposure to direct sunlight. If planted indoors, an indoor grow light setup or an indoor grow tent may be necessary to provide the plant with the necessary light requirements."
+        },
+        {
+          "id": 487,
+          "type": "pruning",
+          "description": "Tarragon (Artemisia dracunculus) should be pruned once a year during the late winter or early spring. Start by pruning off any dead or damaged stems, then prune the plant back to about 1-third of its height. Cut all stems back to desirable foliage, removing any weak growth at the base of the plant. Avoid cutting back into older wood as it may not grow back. When pruning, use your fingers and thumb to pinch the stem above a leaf node and pull off the stem. This will help reduce shock and keep the plant bushy and full."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 390,
+      "species_id": 972,
+      "common_name": "California sagebrush",
+      "scientific_name": [
+        "Artemisia californica 'Canyon Gray'"
+      ],
+      "section": [
+        {
+          "id": 160,
+          "type": "watering",
+          "description": "The California Sagebrush is a low-water-use evergreen shrub. It is most often found in dry and sunny conditions, so it has adapted to require minimal amounts of water. In general, the California Sagebrush does best when watered deeply every 2 to 3 weeks in spring and summer, and once a month during fall and winter.\n\nDuring periods of extreme heat, this plant may require a little more water and extra watering may be necessary. Watering should not be done too frequently; it is better to water deeply and less often. Over-watering can lead to root rot, so it is important to ensure that the soil and roots are given a chance to dry out between waterings."
+        },
+        {
+          "id": 161,
+          "type": "sunlight",
+          "description": "California sagebrush (Artemisia californica 'Canyon Gray') needs full sunlight for at least 6 hours a day for optimum growth and flowering. It should be planted in an area with direct sunlight, preferably in 1 that receives morning sun and some afternoon shade. In areas with hot temperatures, some afternoon shade is essential for thrive. The plant also does well in part-sun locations that receive around 4 hours of sunlight per day. California sagebrush is drought tolerant but it needs regular watering in the hot summer months to keep the soil moist and to help it thrive."
+        },
+        {
+          "id": 162,
+          "type": "pruning",
+          "description": "California sagebrush should generally be pruned in the early spring after the last freeze. Pruning should be light, as too much can damage the growth and shape of the shrub. Aim to lightly remove approximately 1/3 of the stems and leaves in order to promote healthy growth and keep the shrub looking its best."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

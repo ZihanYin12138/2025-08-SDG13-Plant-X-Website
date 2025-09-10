@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2258,
+      "species_id": 908,
+      "common_name": "garden rockcress",
+      "scientific_name": [
+        "Arabis caucasica"
+      ],
+      "section": [
+        {
+          "id": 6979,
+          "type": "watering",
+          "description": "Water garden rockcress once every 5 to 7 days, depending on the weather conditions. Water should be applied directly to the soil at the base of the plant, making sure to avoid wetting the foliage. Water the soil until it is moist but not wet, and water only in the morning to avoid fungal diseases. Apply 1 to 1.5 inches of water per week. Make sure the soil drains well and does not stay wet or soggy for too long. During periods of high temperatures when the plant is actively growing, water more frequently to ensure the soil does not dry out entirely."
+        },
+        {
+          "id": 6980,
+          "type": "sunlight",
+          "description": "Garden rockcress (Arabis caucasica) does best with full sunlight for 6-8 hours each day, preferably in the morning and afternoon. Sunlight directly influences both its flowering and the overall health of the plant. If it does not receive an adequate amount of sun its growth will be stunted and its flowering may be limited. Garden rockcress should ideally receive its sunlight for the full 6-8 hour period during the day, however if this is not possible, a few hours of direct sunlight in the morning accompanied by a few hours of shade in the afternoon will be sufficient."
+        },
+        {
+          "id": 6981,
+          "type": "pruning",
+          "description": "Garden rockcress (Arabis caucasica) should be pruned at the end of spring or beginning of summer. This encourages new foliage to grow and can make it bushier. The amount of pruning that is necessary can vary depending on the style of the particular plant or the desired shape of the garden. It’s best to do light pruning, such as pinching off dead flowers and severing a few inches of old stems near the ground. Doing too much pruning can cause shock to the garden rockcress and affect its growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

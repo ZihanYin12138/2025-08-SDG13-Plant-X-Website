@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 605,
+      "species_id": 968,
+      "common_name": "purple-fruited chokeberry",
+      "scientific_name": [
+        "Aronia prunifolia"
+      ],
+      "section": [
+        {
+          "id": 1818,
+          "type": "watering",
+          "description": "The purple-fruited chokeberry thrives best in moist soil, so it should be watered often. During hot climates, it is important to water the plant deeply every 1-2 weeks. In cooler climates, once every 2-3 weeks should suffice. Make sure that the soil is allowed to dry out in between waterings. Along with the regular waterings, during hot summer months it is also important to provide supplemental waterings every 10-14 days to ensure that the plants have access to enough water to produce healthy, juicy fruits."
+        },
+        {
+          "id": 1819,
+          "type": "sunlight",
+          "description": "Purple-fruited chokeberry (Aronia prunifolia) is a deciduous fruit-bearing shrub that loves a healthy dose of sunlight. It should receive at least 6-8 hours of direct sunlight each day during the summer months, with part shade during the hottest parts of the day. In winter, the shrub can tolerate less hours of sunlight, but it should still have access to some sunlight throughout the day for at least 3-4 hours. Be sure to monitor the amount of sunlight that it receives, as too much can cause the leaves to burn."
+        },
+        {
+          "id": 1820,
+          "type": "pruning",
+          "description": "For a healthy plant, the best time to prune the Purple-fruited chokeberry is during the late spring or early summer once the plant has finished flowering. Depending on your desired shape of the plant or desired size, the amount of pruning can range anywhere from light thinning to severe pruning. When pruning, it is important to cut back to the main framework of the plant. This will help the plant to sustain a strong and healthy structure. It is also important to prune away any diseased, damaged, or lost leaves as they can potentially cause a permanent set-back for the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

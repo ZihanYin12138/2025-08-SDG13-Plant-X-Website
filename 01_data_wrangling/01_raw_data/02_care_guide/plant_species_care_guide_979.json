@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 145,
+      "species_id": 979,
+      "common_name": "western mugwort",
+      "scientific_name": [
+        "Artemisia ludoviciana 'Silver Frost'"
+      ],
+      "section": [
+        {
+          "id": 211,
+          "type": "watering",
+          "description": "Western mugwort is a drought tolerant, low-maintenance plant that requires little water. During its growing season (May to September) it should be watered lightly once a week, providing approximately 1/4 - 1 inch of water. During its dormant season (October to April), the plant only requires watering approximately every other week. Ideally, water should be applied during the early morning hours so the plant can dry out during the day. In hot, dry climates, the plant may require more frequent watering."
+        },
+        {
+          "id": 212,
+          "type": "sunlight",
+          "description": "Western mugwort (Artemisia ludoviciana 'Silver Frost') needs full sun to part-shade to thrive. When considering sunlight for this plant species, look for an area that receives 6-8 hours of direct sunlight a day. This species is classified as a sun-loving perennial, so the more sun it gets, the better it will do."
+        },
+        {
+          "id": 213,
+          "type": "pruning",
+          "description": "Western mugwort should be pruned in the late spring right before new growth begins. Pruning should be light and should be limited to removing any dead or damaged stems. Flowering stems should not be pruned as this can reduce the number of blooms produced.When shaping or maintaining the plant, a pruning shear or sharp knife should be used to prevent any damage to the stems. Pruning can be done more frequently during the growing season to keep the plant under control if necessary; however, no more than 1/3 of the foliage should be removed with each pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

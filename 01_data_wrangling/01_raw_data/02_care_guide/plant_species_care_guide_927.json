@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 403,
+      "species_id": 927,
+      "common_name": "Argan tree",
+      "scientific_name": [
+        "Argania spinosa"
+      ],
+      "section": [
+        {
+          "id": 199,
+          "type": "watering",
+          "description": "Argan trees need to be watered regularly but not too much, aiming for an average of 3-4 gallons per tree per week. Watering should be done at least one to two times a week, depending on the climate and season. During cool, dry season water more frequently while in hot, dry season, water less often. Avoid overwatering and always ensure the soil is moist and not soggy. During summer, heavy rains usually provide sufficient water, but if there is no rain, continue watering until autumn."
+        },
+        {
+          "id": 200,
+          "type": "sunlight",
+          "description": "The Argan tree is native to several Mediterranean countries and is adapted to sunny, dry climates. It requires a minimum of 6-8 hours of direct sunlight per day, preferably during the peak of the day when the sun is at its highest intensity. This species of tree thrives in hot climates and should be located in full sunlight to maximize its potential for growth and production. The Argan tree should also be placed in an area with ample airflow to ensure that it does not become too hot in the summer months. In addition, the tree should be watered frequently to keep the soil moist and promote healthy growth."
+        },
+        {
+          "id": 201,
+          "type": "pruning",
+          "description": "Argan trees should be pruned about once a year, usually in late spring to early summer. Prune heavily, up to 50% of the tree's canopy, in order to promote new growth and to reduce excessive shading from the tree. Dead and damaged branches should be removed, and the canopy should be thinned to allow light and air to penetrate the tree's inner branches. When pruning, be sure to maintain the shape and character of the trees natural crown."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

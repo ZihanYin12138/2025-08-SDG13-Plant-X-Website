@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2278,
+      "species_id": 934,
+      "common_name": "arisaema",
+      "scientific_name": [
+        "Arisaema ternatipartitum"
+      ],
+      "section": [
+        {
+          "id": 7039,
+          "type": "watering",
+          "description": "Arisaema should be watered generously throughout the growing season – you should keep the soil evenly moist, but not soggy, for best results. Water when the soil dries slightly between watering. During the hottest days of the summer, water every couple of days to keep the soil moist. In cooler weather, water every 4-5 days. Reduce watering in the winter but do not let the soil dry out completely."
+        },
+        {
+          "id": 7040,
+          "type": "sunlight",
+          "description": "Arisaema (Arisaema ternatipartitum) will do best with 3 to 4 hours of direct sunlight each day. During the summer months, the sun can be strongest in the late morning and early afternoon. During this time, Arisaema should be shaded from the hot afternoon sun or given mulch to help retain moisture and provide shade. In the cooler months, Arisaema can tolerate more direct sunlight, so they should be moved into a sunnier spot."
+        },
+        {
+          "id": 7041,
+          "type": "pruning",
+          "description": "When pruning Arisaema, it is best to prune in early spring, just as new growth is starting to emerge. For this particular species, it is important to remove any damaged or dead foliage and then to prune back any stems that look unruly or have more than 3 leaves. This will help to maximize the health and beauty of the plant. Be sure to also thin out any dense foliage to encourage new growth. As with any pruning, it is important to use sharp pruning shears and to avoid leaving any jagged edges behind. Pruning can be done as much or as little as desired; however, keeping to the guidelines outlined above will ensure proper care and maintenance of the Arisaema."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

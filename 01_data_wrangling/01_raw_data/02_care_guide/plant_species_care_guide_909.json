@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2259,
+      "species_id": 909,
+      "common_name": "peanut",
+      "scientific_name": [
+        "Arachis hypogaea"
+      ],
+      "section": [
+        {
+          "id": 6982,
+          "type": "watering",
+          "description": "Peanuts require consistent moisture to produce healthy plants and abundant yields. Generally, peanuts should be watered about 1 to 1.5 inches per week. During times of drought, water deeper and more often, up to 3 inches per week. During the germination and early growth stages, water at least 3 times per week and water late in the day to reduce leaf diseases. When peanuts start to bloom, water more deeply and less frequently to encourage the formation of large pods. During pod-fill, plants should be watered daily. In hot, dry climates, peanut plants may require additional water during pod-fill."
+        },
+        {
+          "id": 6983,
+          "type": "sunlight",
+          "description": "Peanut plants prefer full sun throughout the growing season. They need at least 8 hours of direct sunlight a day to thrive. The optimal temperature for optimal photosynthesis and growth should be between 21 and 32°C (70 and 90°F). However, when temperatures get higher than 35°C (95°F) the plants may suffer from heat stress. They require adequate moisture and should be watered when the top inch of soil is dry. Peanut plants are generally drought-tolerant but could benefit from additional irrigation during extended dry periods."
+        },
+        {
+          "id": 6984,
+          "type": "pruning",
+          "description": "Peanut plants should generally be pruned during their vegetative growth stage and prior to the beginning of flowering. Pruning should begin when the plants reach 6-8 inches in height and can be performed multiple times over the season, with each pruning session removing up to 1-third of the plant’s foliage. Removing the top foliage encourages lateral growth, which enhances the production of flowers and peanuts. Pruning should always be conducted with pruning shears or sharp scissors to create the cleanest cut and to minimize damage to the plant. Pruning should occur approximately 1 to 2 weeks before the beginning of flowering. After flowering, pruning should be discontinued in order to prevent the removal of flower site or overly restrict the plant’s foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

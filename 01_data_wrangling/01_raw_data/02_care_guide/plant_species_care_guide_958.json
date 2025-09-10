@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2298,
+      "species_id": 958,
+      "common_name": "chokeberry",
+      "scientific_name": [
+        "Aronia arbutifolia 'Brilliantissima'"
+      ],
+      "section": [
+        {
+          "id": 7099,
+          "type": "watering",
+          "description": "Chokeberry (Aronia arbutifolia 'Brilliantissima') should be watered deeply and infrequently. When the soil has become dry 1-2 inches below the topsoil, it should be thoroughly watered until moisture appears in the drainage holes of the pot. This will typically be every week or 2 during the spring and summer months, and every 3-4 weeks during the fall and winter months. During periods of high temperatures and strong winds, this plant may need to be watered more often. During the dormant winter season, it should not be watered at all."
+        },
+        {
+          "id": 7100,
+          "type": "sunlight",
+          "description": "Chokeberry (Aronia arbutifolia 'Brilliantissima') are a species of deciduous shrub which thrives in full sun. In order to maximize growth, they should receive at least 6-7 hours of direct sunlight each day. They do well in cooler climates with some shade in the afternoon, however, and in areas with hot climates they may prefer a spot with afternoon shade to protect them from the strong afternoon sun. Chokeberry 'Brilliantissima' should be planted in an area with full sun and protected from strong winds."
+        },
+        {
+          "id": 7101,
+          "type": "pruning",
+          "description": "Chokeberry (Aronia arbutifolia 'Brilliantissima'): Pruning should be done once a year in the spring, beginning when the plant is 3-4 years old. Prune at least 1-third of the previous year’s growth, removing tall, spindly canes and those that cross each other. Removing dead wood and any diseased canes should also be done. To promote a bushier plant with more flowers, shorten the arching canes to 12-18 inches. Cutting back 1-third of the remaining canes to 6-9 inches further encourges fullness and additional flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

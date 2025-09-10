@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2279,
+      "species_id": 936,
+      "common_name": "arisaema",
+      "scientific_name": [
+        "Arisaema thunbergii subsp. urashima"
+      ],
+      "section": [
+        {
+          "id": 7042,
+          "type": "watering",
+          "description": "Arisaema (Arisaema thunbergii subsp. urashima) should be watered roughly every 7 to 10 days, depending on the time of the year, the soil moisture level, and the temperature and humidity of the air. During the hottest and driest periods of the summer, water more frequently; while in the colder months, water less. When you do water, make sure to moisten the soil down several inches. If the plant is in a pot, ensure that all the soil has been thoroughly wet before you stop watering. Additionally, make sure the soil has been draining properly. If it doesn't, the roots can become waterlogged and cause the plant to rot."
+        },
+        {
+          "id": 7043,
+          "type": "sunlight",
+          "description": "Arisaema thunbergii subsp. urashima is a plant species native to Japan, China, Korea, and Taiwan that prefers partial shade or bright indirect light. When grown in full sun, the plant may become leggy and will need more frequent watering. Proper sunlight is extremely important for this plant as it helps foster strong growth and prevents issues such as spider mites.\n\nIdeally, Arisaema thunbergii urashima should receive 3 to 4 hours of direct sunlight per day, usually in the morning or late afternoon when the rays are less intense. For best results, position the plant in a location that receives indirect light throughout the day, such as a bright windowsill. If necessary, a sheer or light-diffusing curtain can be used to redirect bright afternoon sun. Avoid direct sun exposure during the hottest part of the day which could result in scorched leaves."
+        },
+        {
+          "id": 7044,
+          "type": "pruning",
+          "description": "When pruning Arisaema thunbergii subsp. urashima, wait until the plant has gone dormant in late autumn, then trim off any damaged or dead foliage and flower stalks. Prune lightly, taking no more than 1-third off any single leaf petiole. Removing too much foliage at once can cause shock to the plant. After pruning, apply a thin layer of mulch to bring additional nutrients to the root system and help prevent weeds from taking hold."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

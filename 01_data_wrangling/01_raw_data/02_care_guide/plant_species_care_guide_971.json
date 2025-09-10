@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2307,
+      "species_id": 971,
+      "common_name": "mugwort",
+      "scientific_name": [
+        "Artemisia afra"
+      ],
+      "section": [
+        {
+          "id": 7126,
+          "type": "watering",
+          "description": "Mugwort (Artemisia afra) should be watered when the topsoil feels dry and light when touched, allowing you to absorb the extra moisture. During the growing season, water your mugwort once a week or every other week. Make sure to water your mugwort deeply, saturating the soil and allowing it to fully absorb the water. During this time, mugwort can benefit from a weekly deep water session. In periods of hot weather, you may need to increase your watering to once every 4-5 days or daily. During winter when your mugwort is somewhat dormant, you can reduce watering to about once every 2-3 weeks. Make sure to never allow your mugwort to dry out completely as this can stress the plant and adversely impact on its growth."
+        },
+        {
+          "id": 7127,
+          "type": "sunlight",
+          "description": "For mugwort (Artemisia afra), it is most successful when it is in full sun for at least 6 hours a day. If given more sun, the plant might grow very quickly, but it may also be more prone to disease. During the hottest days of summer, it is best to provide some afternoon shade to prevent the leaves from burning. During the winter months, the plant offers its best look when placed in a south or southwest-facing window."
+        },
+        {
+          "id": 7128,
+          "type": "pruning",
+          "description": "Mugwort (Artemisia afra) is a herbaceous plant that does best when it is pruned regularly. Depending on the variety, pruning should be done once or twice a year. These plants typically benefit from late winter pruning that removes the older, more leggy growth and encourages vigorous new buds. On a yearly basis, removing 1-third of the oldest canes at the base can help to promote healthy, full growth. Once the new growth begins in the spring, it can be beneficial to pinch off the tips of the side shoots to promote bushiness. Summer pruning can also be done in order to reduce the plant’s size or to maintain desired shape, but it should be done with care as mugwort can become easily stressed in the hotter months."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

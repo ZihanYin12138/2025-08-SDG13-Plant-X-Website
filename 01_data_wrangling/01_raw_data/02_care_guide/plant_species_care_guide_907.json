@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2257,
+      "species_id": 907,
+      "common_name": "mountain rockcress",
+      "scientific_name": [
+        "Arabis alpina subsp. caucasica 'Schneehaube' SNOWCAP"
+      ],
+      "section": [
+        {
+          "id": 6976,
+          "type": "watering",
+          "description": "Mountain rockcress (Arabis alpina subsp. caucasica 'Schneehaube' SNOWCAP) will benefit from regular watering, at least once every 2 weeks. During the warmer months of summer, the soil should be kept lightly moist. The plant should not be allowed to dry out between watering. During the colder months of winter, it is best to water only when the soil appears dry. Be careful not to over-water, as the plant can suffer from root rot if it stays too wet. If possible, it can help to water the plant early in the day to allow the sun to dry up excess moisture."
+        },
+        {
+          "id": 6977,
+          "type": "sunlight",
+          "description": "Mountain rockcress (Arabis alpina subsp. caucasica 'Schneehaube' SNOWCAP) prefers sunny and well-draining spots in the garden. It can tolerate partial shade, but does best with full sun, or at least 4-5 hours of direct sunlight per day. It should not be exposed to direct intense midday sun, as this can cause the leaves to burn. The plant will benefit from some shade during the hottest part of the day in the afternoon. Mountain rockcress can also tolerate shade from taller plants, but won’t bloom as vigorously as those in full sun. In the temperate regions, it’s important to ensure the plant receives full sun for at least 6-8 weeks from late spring to early summer in order to promote continuous flowering."
+        },
+        {
+          "id": 6978,
+          "type": "pruning",
+          "description": "Mountain Rockcress (Arabis alpina subsp. caucasica 'Schneehaube' SNOWCAP) is best pruned in the springtime, as soon as new growth appears. When pruning, it's important to take out any dead, diseased, weak, or crossing stems. You can also cut back some of the taller stems and thin out any overcrowding. Be sure to prune lightly, as over-pruning can damage the plant. Generally, it's recommended to remove no more than 1/3 of the plant's foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

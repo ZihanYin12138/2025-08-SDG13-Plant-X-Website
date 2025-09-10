@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2317,
+      "species_id": 986,
+      "common_name": "wormwood",
+      "scientific_name": [
+        "Artemisia vulgaris 'Janlim' ORIENTAL LIMELIGHT"
+      ],
+      "section": [
+        {
+          "id": 7156,
+          "type": "watering",
+          "description": "Wormwood (Artemisia vulgaris 'Janlim' ORIENTAL LIMELIGHT) should be kept slightly moist. Water when the soil is nearly dry to the touch. It can be watered once every 7 to 10 days, or semi-regularly when the weather is especially hot or sunny. Avoid overwatering to prevent root rot. If the plant does get too much water, make sure to allow the soil to dry out completely before watering again."
+        },
+        {
+          "id": 7157,
+          "type": "sunlight",
+          "description": "Wormwood (Artemisia vulgaris 'Janlim' Oriental Limelight) needs full sun to keep it looking its best. In general, it should receive at least 6 to 8 hours of sunlight each day, depending on the season—less in winter and more in summer. Plant the wormwood in the sunniest spot you have available, preferably in the morning hours, when the sun is not so hot. In the summer, wormwood can stand several hours of afternoon sun. In autumn and spring, it is best to avoid exposing the plant to direct afternoon sun."
+        },
+        {
+          "id": 7158,
+          "type": "pruning",
+          "description": "The best time to prune wormwood (Artemisia vulgaris 'Janlim' ORIENTAL LIMELIGHT) is in the spring, after the last frost when the plant is just beginning to show new growth. Pruning should be done to remove dead, weak, or diseased stems down to the base of the plant. Pruning is also important to help promote a bushier plant with more foliage. Prune lightly leaving 2-3 inches of the stem above the soil and remove any shoots growing from the roots. As the plant grows, prune to promote a symmetrical, upright habit and remove any old or dead branches. Avoid pruning more than 1-third of the plant's total foliage in order to ensure the plant stays healthy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2245,
+      "species_id": 892,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia 'Spezialrasse'"
+      ],
+      "section": [
+        {
+          "id": 6940,
+          "type": "watering",
+          "description": "Aquilegia 'Spezialrasse' should be watered frequently to keep the soil slightly moist but not soggy. Water should be applied directly to the base of the plant, avoiding contact with the leaves. Water once or twice a week, but check the soil regularly. When the surface of the soil feels dry, it is time to water. During hot and dry summer days, it may be necessary to water more frequently."
+        },
+        {
+          "id": 6941,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia 'Spezialrasse') requires about 6 hours of sunlight each day for optimal growth. Sunlight in the early morning and late afternoon are best to prevent leaf scorching. Partial shade is also beneficial to reduce water loss on very hot days. It is important to avoid direct sunlight, especially during the hottest part of the day, since it can cause the leaves to burn and dry out. Particular attention should be paid to the positioning of the plant in relation to the sun; if possible, the plant should be placed where it will receive indirect light from the sun for most of the day."
+        },
+        {
+          "id": 6942,
+          "type": "pruning",
+          "description": "Colombine should be pruned in late winter or early spring. Pruning should be minimal and focused primarily on removing dead, damaged, or diseased growth. If flowering is spent, it can also be cut back to improve the look of the plant. Be sure to leave the basal leaves intact, which will help the plant regenerate new foliage. As a rule of thumb, remove no more than 1-third of the plant at any given time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

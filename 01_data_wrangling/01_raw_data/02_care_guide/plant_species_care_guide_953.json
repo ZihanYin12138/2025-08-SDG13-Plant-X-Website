@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2294,
+      "species_id": 953,
+      "common_name": "thrift",
+      "scientific_name": [
+        "Armeria pseudarmeria 'Dream Weaver'"
+      ],
+      "section": [
+        {
+          "id": 7087,
+          "type": "watering",
+          "description": "Thrift (Armeria pseudarmeria 'Dream Weaver') should be watered regularly and deeply. For mature plants, water them twice every week. For younger plants, they require more frequent watering - around every 3 days. When watering, it is important to soak the soil thoroughly to ensure that the plant is adequately hydrated. The soil should be allowed to dry out slightly between waterings. During the active growing season, plants may need more frequent or more generous watering. Also, if the temperatures are hotter, it is important to adjust the frequency and/or amount of watering accordingly."
+        },
+        {
+          "id": 7088,
+          "type": "sunlight",
+          "description": "Thrift (Armeria pseudarmeria 'Dream Weaver') plants prefer full sun to partial shade. This means that they require 6 or more hours of direct sunlight each day. This should be the brightest part of the day, when the sun is at its highest. Thrift should be exposed to sunshine for at least 6 hours but exposure up to 8 hours is optimal. Make sure to not over-expose the plants to the sun but rather ensure that the plants receive a balance of sun and shade."
+        },
+        {
+          "id": 7089,
+          "type": "pruning",
+          "description": "For Thrift (Armeria pseudarmeria 'Dream Weaver'), the best time to prune it is right after it blooms in the early summer. Cut back the flowering stems just above the foliage. This will allow the plant to focus its energy into supporting its new growth and flowering from the next year. It is best to prune only 1-third of the plant at a time to avoid damaging the plant and to encourage branching. Repeat the process in the second and third year to maintain the design you desire."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

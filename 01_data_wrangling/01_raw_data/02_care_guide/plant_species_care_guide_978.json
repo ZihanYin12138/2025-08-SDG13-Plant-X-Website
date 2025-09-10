@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2311,
+      "species_id": 978,
+      "common_name": "white sage",
+      "scientific_name": [
+        "Artemisia ludoviciana"
+      ],
+      "section": [
+        {
+          "id": 7138,
+          "type": "watering",
+          "description": "White sage (Artemisia ludoviciana) should be watered regularly during the active growing season—typically spring to summer—but kept slightly on the dry side during the winter months. Water thoroughly when the soil is just barely dry to the touch, ensuring the plant is receiving enough moisture but not too much. During summer, water about once a week. If temperatures get particularly hot and the soil is drying quickly, you will likely need to water twice a week. In spring or fall, less frequent watering may be required, about every 10 days depending on the weather. Make sure the container has ample drainage to avoid drowning the plant. During winter, only water when the soil is completely dry—about every 2 to 3 weeks."
+        },
+        {
+          "id": 7139,
+          "type": "sunlight",
+          "description": "White Sage (Artemisia ludoviciana) should be exposed to direct sunlight for the majority of the day for optimal growth. They require full to partial sun, meaning around 6 hours of direct sunlight and 6 hours of shade or dappled sunlight. Plants grown in full sun can put out more flowers than ones grown in shadier conditions and can handle more intense weather (so long as their soil is well-draining). Ideally, keep the plants exposed to direct sun all day or move them into part shade/sun during the hottest part of the day."
+        },
+        {
+          "id": 7140,
+          "type": "pruning",
+          "description": "White Sage (Artemisia ludoviciana) should be pruned lightly in early to mid-spring, just after flowering ends and before new growth begins. This allows for the plant to direct its energy toward new growth and produces strong, healthy leaves. Prune away a few of the oldest, woodiest stems near the center to keep the bush looking full. Try to avoid cutting back more than 1 third of the plant. After pruning, fertilize the plant with a balanced fertilizer to encourage additional new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

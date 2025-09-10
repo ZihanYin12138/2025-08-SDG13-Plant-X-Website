@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2269,
+      "species_id": 920,
+      "common_name": "common bearberry",
+      "scientific_name": [
+        "Arctostaphylos uva-ursi"
+      ],
+      "section": [
+        {
+          "id": 7012,
+          "type": "watering",
+          "description": "Common bearberry should be watered about once per week in warm weather, and less often in cooler weather. Allow the soil to dry out completely between watering. Do not allow any standing water in the soil. The amount of water should be about 1 inch (2.5 cm) per week throughout the growing season."
+        },
+        {
+          "id": 7013,
+          "type": "sunlight",
+          "description": "Common bearberry (Arctostaphylos uva-ursi) is a small shrub that grows well in partial sun or shade. This plant can tolerate a wide range of conditions and prefers well-drained, moist soil and plenty of sunlight to reach its full potential. The best time of the day for sunlight for this plant is mid to late morning or early afternoon. During these times, the sun is not too hot and the rays are more direct and intense. This is when the plant gets the most direct sunlight, which is important for photosynthesis. Additionally, common bearberry can benefit from a few hours of direct afternoon sunlight. This allows the plant to continue to photosynthesize later in the day. Too much direct sunlight in the middle of the day can be damaging, so an afternoon spot is best for this plant."
+        },
+        {
+          "id": 7014,
+          "type": "pruning",
+          "description": "Common bearberry (Arctostaphylos uva-ursi) should be pruned in early spring, before new growth appears. Prune away dead or diseased wood, any wood that appears to be crossing and crowding, and any growth that appears to be impairing the overall shape of the plant. Bearberry is a low-maintenance garden shrub that does not require extensive pruning but can benefit from occasional maintenance pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

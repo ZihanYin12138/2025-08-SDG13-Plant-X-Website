@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2313,
+      "species_id": 981,
+      "common_name": "western mugwort",
+      "scientific_name": [
+        "Artemisia ludoviciana 'Valerie Finnis'"
+      ],
+      "section": [
+        {
+          "id": 7144,
+          "type": "watering",
+          "description": "Western mugwort (Artemisia ludoviciana 'Valerie Finnis') should be watered around once per week in summer and spring, and every 2 weeks in winter. It prefers moist, well-drained soil and will tolerate drought, but regular watering is recommended in order to encourage growth and to prevent the tips of the leaves from drying out. Water deeply so that it reaches the roots and allow the soil to dry out between waterings."
+        },
+        {
+          "id": 7145,
+          "type": "sunlight",
+          "description": "Western mugwort can grow in full sun to part shade, but prefers a bright, sunny location to achieve best flowering and foliage colour. It prefers at least 6 hours of direct sunlight each day, and can tolerate up to 8 hours on hot summer days. During hotter parts of the summer, it appreciates some afternoon shade. In the winter, it can tolerate less sunlight, and can even benefit from a few hours of shade each day."
+        },
+        {
+          "id": 7146,
+          "type": "pruning",
+          "description": "Western mugwort (Artemisia ludoviciana 'Valerie Finnis') should be pruned in early spring, starting as soon as the new growth appears. Prune the plant back by about 1-third to 1-half of its original height, removing dead, damaged or diseased wood as well as any stems that are crossing or rubbing against 1 another. After the initial pruning, continue to tip prune the stems, removing the tips of the stems to encourage theplant to bush out. The more it is pruned back and the more frequent the pruning, the bushier the plant will be. Prune the plant as needed to maintain the desired shape and size."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

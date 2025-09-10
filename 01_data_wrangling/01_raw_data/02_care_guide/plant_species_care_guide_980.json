@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2312,
+      "species_id": 980,
+      "common_name": "white sage",
+      "scientific_name": [
+        "Artemisia ludoviciana 'Silver King'"
+      ],
+      "section": [
+        {
+          "id": 7141,
+          "type": "watering",
+          "description": "White Sage (Artemisia Ludoviciana 'Silver King') should be watered deeply and thoroughly, allowing the soil to dry out almost completely between watering. It is best to water it every 10-14 days during its growing season (spring and summer). During winter, water should be reduced to every 1-2 months. It is not a fan of soggy or wet roots, so make sure the soil has proper drainage."
+        },
+        {
+          "id": 7142,
+          "type": "sunlight",
+          "description": "White Sage (Artemisia ludoviciana 'Silver King') prefers full sun to partial shade, with 6 to 8 hours of direct sunlight each day. As it is a native North American prairie plant, it is best suited to hot, sunny areas where temperatures range from 40 to 90 degrees Fahrenheit. Watch for signs of overheating or water stress if temperatures rise above 90 degrees. In more northern climates with cooler summers, it can be grown in partial afternoon shade to ward off some of the heat."
+        },
+        {
+          "id": 7143,
+          "type": "pruning",
+          "description": "White Sage (Artemisia ludoviciana 'Silver King') should be pruned in late winter or early spring to encourage new, bushy growth. Pruning should be done in moderation, removing just the dead or damaged stems, as well as any stems that are not growing in the desired shape or direction. Some stems may need to be kept taller for an attractive appearance. Pruning should be done with clean, sharp pruners to help avoid infection or damage to the plant. Trim off the dead or damaged flower heads to avoid seed production and invasiveness."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

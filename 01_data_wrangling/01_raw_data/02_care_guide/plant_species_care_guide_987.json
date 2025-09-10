@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2318,
+      "species_id": 987,
+      "common_name": "rienga lily",
+      "scientific_name": [
+        "Arthropodium cirrhatum"
+      ],
+      "section": [
+        {
+          "id": 7159,
+          "type": "watering",
+          "description": "The Renga Lily (Arthropodium cirrhatum) prefers to be watered on a regular but not frequent basis. Water the plant once a week in warmer temperatures (over 20°C) and once every 2 weeks in cooler temperatures (between 8-20°C). The amount of water should be enough to soak the soil but not so much that there is standing water. Be sure to check each time that the soil isn’t too dry before watering, as overwatering is worse than underwatering. Also, avoid getting the leaves wet while watering."
+        },
+        {
+          "id": 7160,
+          "type": "sunlight",
+          "description": "The Renga Lily, or Arthropodium cirrhatum, is a temperate woodland plant that is found in eastern Australia. It is extremely hardy and thrives in moist soils. The plant needs a minimum of 6 hours of sunlight each day to stay healthy and ensure its blossoms remain intact. It is best to provide the Renga Lily with direct sunlight throughout the morning hours, specifically from 8–11am. This will ensure that the plant receives the necessary amount of sunlight and nutrients needed for optimal growth. Sunlight during the afternoon hours should be limited as this can cause sunburn damage to the foliage. In terms of exposing the plant to cold weather, the Renga Lily can tolerate light frosts, but should not be exposed to temperatures lower than 10°C for prolonged periods of time."
+        },
+        {
+          "id": 7161,
+          "type": "pruning",
+          "description": "Rieger lilies should be pruned in late summer or early autumn, after flowering has finished. Remove any dead or damaged stems, cutting at the point where the stem meets a healthy leaf or to the ground. This will promote new growth for the spring. To keep the plant looking its best and to discourage powdery mildew, reduce the length of any stems that look to be especially tall or spindly by up a third. It is also worth removing any flowering stems from the previous season as they will not re-flower. Additionally, it is a good idea to cut off any foliage that appears to be faded or discoloured. This will allow all the remaining leaves to take in as much sunlight as possible."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2308,
+      "species_id": 973,
+      "common_name": "wormwood",
+      "scientific_name": [
+        "Artemisia capillaris"
+      ],
+      "section": [
+        {
+          "id": 7129,
+          "type": "watering",
+          "description": "Water wormwood (Artemisia capillaris) occasionally throughout its growing season, once every few weeks or when the topsoil is dry to the touch. It is sensitive to overwatering, so err on the side of caution and only water when the soil is dry. Reduce the frequency of watering during winter months. Too much water can cause unhealthy root rot."
+        },
+        {
+          "id": 7130,
+          "type": "sunlight",
+          "description": "Wormwood requires full sunlight to reach its full growth potential, with at least 6 to 8 hours per day of direct sunlight. As an herbaceous perennial, the optimal growing season for this plant runs from spring through to late-summer. Ideally, wormwood should be exposed to early morning sunlight from sunrise to late afternoon sunlight. This will aid in the growth of the plant and also help protect from midday heat, which could otherwise cause the plant to dry out rapidly and wilt."
+        },
+        {
+          "id": 7131,
+          "type": "pruning",
+          "description": "When pruning this species of plant, it is best to prune in early spring before new growth begins. If necessary, a light trimming can be done in late summer or early fall, but avoid deep pruning as this may harm the plant. When pruning, make sure to remove any dead or damaged branches first, then thin out the foliage to create more airflow and light. This will help to keep the plant healthy and prevent overcrowding and disease. Prune the plant back no more than a quarter of its volume, as too much pruning can damage the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

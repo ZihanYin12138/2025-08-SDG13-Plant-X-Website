@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2292,
+      "species_id": 951,
+      "common_name": "sea thrift",
+      "scientific_name": [
+        "Armeria 'Nifty Thrifty'"
+      ],
+      "section": [
+        {
+          "id": 7081,
+          "type": "watering",
+          "description": "Sea Thrift (Armeria 'Nifty Thrifty') should be watered every 7-10 days, depending on the season and the weather. Water when the top 1-2 inches of soil feels dry to the touch. Be careful not to overwater; Sea Thrift should not be water-logged and soggy. Nonetheless, be sure to provide ample moisture. During the warm summer months, Sea Thrift may need to be watered more often than during the cooler winter months. Additionally, based on the weather conditions, extra watering may be necessary."
+        },
+        {
+          "id": 7082,
+          "type": "sunlight",
+          "description": "Sea thrift (Armeria 'Nifty Thrifty') is a hardy plant that can tolerate various types of sunlight. It prefers full sun but can tolerate partial shade. Therefore, it should receive at least 6 hours of direct sunlight each day in order for it to thrive. Too much sun, however, can cause the leaves to become discolored and wilted, so it is important to monitor the amount of sunlight it receives and move it to a shadier spot if needed. In areas with extremely hot summers, consider providing some afternoon shade to ensure the health of the plant."
+        },
+        {
+          "id": 7083,
+          "type": "pruning",
+          "description": "Sea Thrift (Armeria 'Nifty Thrifty') should be pruned annually in early spring, before new growth appears. Pruning should be very light, removing no more than 1-third of the stems at a time. Removal of more than this can cause a delay in new growth, bloom, and reduce the overall size of the plant. Pruning should be done before new leaves have started to appear, giving the plant a chance to begin growing for the season. Faded blooms can also be trimmed during the growing season, which will encourage continued flowering throughout the season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

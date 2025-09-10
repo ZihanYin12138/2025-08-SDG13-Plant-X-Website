@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2253,
+      "species_id": 902,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia vulgaris (Vervaeneana Group)"
+      ],
+      "section": [
+        {
+          "id": 6964,
+          "type": "watering",
+          "description": "Columbine (Aquilegia vulgaris (Vervaeneana Group)) should be watered whenever the top inch of soil feels dry to the touch. During the growing season (spring and summer), you can water the plant more frequently (e.g. every 3-4 days) when the weather is hot. During the cooler months (autumn and winter), water less frequently (e.g. every 5-7 days). Always check the soil before watering, as overwatering can cause the plant to rot. Water the plant at its base to avoid wetting the leaves."
+        },
+        {
+          "id": 6965,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia vulgaris (Vervaeneana Group)) prefers full-sun to partial shade, with 4 to 6 hours of direct sunlight being optimal. If planted in a spot with full sun exposure, it is recommended to provide shade during the hottest part of the day (around noon). Columbines can also cope well with short periods of dry soil, however, without the right care and amount of light, they may become leggy. The best time of day for columbine plants to absorb sunlight is between 9 am and 4 pm when the sun is strongest."
+        },
+        {
+          "id": 6966,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia vulgaris (Vervaeneana Group)) should be pruned in late autumn or early spring. Pruning should be done carefully to avoid damaging the young shoots. Pruning should be kept to a minimum, as it encourages tall, leggy growth and can reduce plant health. Focus on cutting away dead, diseased, or wilted foliage to keep the plant healthy. If necessary, you can also cut back some of the stems as far as the main branch or stem, but no shorter. This helps promote new, healthy growth and encourages flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

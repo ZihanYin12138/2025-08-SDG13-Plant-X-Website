@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2291,
+      "species_id": 950,
+      "common_name": "thrift",
+      "scientific_name": [
+        "Armeria maritima 'Splendens'"
+      ],
+      "section": [
+        {
+          "id": 7078,
+          "type": "watering",
+          "description": "Thrift (Armeria maritima 'Splendens') should be watered deeply and infrequently. During their dormant season, in wintertime, water the thrift just once every 2 months, allowing the soil to dry out between waterings. During the spring and summer months, water your thrift once a week, ensuring your plant receives at least 1 inch of water at each watering. Remember to water at the soil level to reduce the possibility of fungal or rot issues."
+        },
+        {
+          "id": 7079,
+          "type": "sunlight",
+          "description": "Thrift (Armeria maritima Splendens) does best with full sun, which is defined as 6 to 8 hours of direct sunshine per day. Morning sun is preferable for this plant species, as too much direct afternoon sun can be damaging to it. Partial shade can generally be tolerated, but may limit blooming and cause foliage to show signs of stress during the summer. It is important to avoid midday sun because it can lead to scorching of the plants foliage during the heat of the summer."
+        },
+        {
+          "id": 7080,
+          "type": "pruning",
+          "description": "Thrift (Armeria maritima 'Splendens') is a low-growing, drought-tolerant perennial that is an ideal choice for borders, rock gardens and Mediterranean gardens. Pruning is an important part of keeping these plants healthy, and should be done in late winter or early spring. For best results, light pruning should be done annually, after flowering is finished. Simply remove any dead, diseased, or damaged foliage. If the center of the plant has become too congested, you can remove some of the old stems to create an open look, encouraging new growth from the center. Be careful not to over-prune, as this can damage the plant. When pruning, always use sharp, clean pruning shears to avoid spreading disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

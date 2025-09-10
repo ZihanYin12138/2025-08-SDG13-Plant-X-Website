@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2305,
+      "species_id": 969,
+      "common_name": "southernwood",
+      "scientific_name": [
+        "Artemisia abrotanum"
+      ],
+      "section": [
+        {
+          "id": 7120,
+          "type": "watering",
+          "description": "Southernwood should be watered once per week if rain does not occur. Water deeply until the soil is evenly moist. Allow the soil to dry slightly between waterings. Avoid overwatering, as this can cause yellowing or dropping of leaves. Southernwood may also require occasional misting to help maintain its foliage."
+        },
+        {
+          "id": 7121,
+          "type": "sunlight",
+          "description": "Southernwood (Artemisia abrotanum) is a sun-loving plant species that greatly benefits from full sun exposure. This plant thrives when given at least 6 hours of direct sunlight a day. Morning sun is especially beneficial in helping the plant to develop more vigorous growth. If the variety of southernwood is planted in an area that receives full sun or partial shade, it should be able to tolerate and even thrive in those areas. In locations that receive little or no direct sunlight, southernwood may struggle to survive."
+        },
+        {
+          "id": 7122,
+          "type": "pruning",
+          "description": "Southernwood (Artemisia abrotanum) should be pruned lightly 2 or 3 times each year. Spring pruning should be done shortly after new growth appears, with the removal of the tips of the branches in order to encourage bushiness. This is followed by summer pruning, which should take place in late July or early August and involves removing spent flowers, diseased foliage and stray branches. Finally, winter pruning should be done in late winter or early spring and includes removing any crossing or damaged branches. Pruning should be done with pruning shears or loppers and should be done selectively, leaving the overall shape of the bush intact."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

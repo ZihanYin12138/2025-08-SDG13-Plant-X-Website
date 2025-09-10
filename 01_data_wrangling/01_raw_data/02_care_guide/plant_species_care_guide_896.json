@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1414,
+      "species_id": 896,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia vulgaris"
+      ],
+      "section": [
+        {
+          "id": 4273,
+          "type": "watering",
+          "description": "Columbine should be watered once a week, but should not stand in water. Water until the soil is moist but not soggy. Avoid wetting the foliage of the plant. Allow the top few inches of soil dry out before rewatering. If temperatures are especially warm, increase watering to every 4-5 days."
+        },
+        {
+          "id": 4274,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia vulgaris) prefers full sun to partial shade, with 5 to 6 hours of sunlight per day. The plant will generally need more sunlight in the summer months than in the winter months. Generally speaking, this plant should receive at least 4 hours of direct sunlight for optimal growth."
+        },
+        {
+          "id": 4275,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia vulgaris) should be pruned in late winter or early spring. This plant does not need to be pruned every year; however, light pruning can be used to help create an attractive form and encourage new growth. Prune out any dead or dying branches, as well as any foliage that looks diseased. Also, trim off any flower stems that have already bloomed, as these will not bloom again. Lastly, if necessary, lightly prune out any branches that have become too long or spindly, leaving an attractive shape and encouraging side branching for further floral display."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 548,
+      "species_id": 943,
+      "common_name": "birthwort",
+      "scientific_name": [
+        "Aristolochia manshuriensis"
+      ],
+      "section": [
+        {
+          "id": 1643,
+          "type": "watering",
+          "description": "Birthwort should be watered on a regular basis, about once every 1-2 weeks. During the warmer months, water more often to ensure that the plant remains hydrated - about 2-3 times a week. Always water the soil until it is saturated and check for moisture in the top layer of soil before watering again. During carefree months, such as winter, reduce watering to once every 2-3 weeks. Make sure the plant is provided with enough water, but be careful not to overwater it."
+        },
+        {
+          "id": 1648,
+          "type": "sunlight",
+          "description": "Birthwort plants should receive between 6 to 8 hours of full sun each day. However, it is best to avoid direct sun during the hottest part of the day, generally between 10am and 2pm. To ensure the best growth of this species, it should receive afternoon shade."
+        },
+        {
+          "id": 1652,
+          "type": "pruning",
+          "description": "Birthwort should be pruned in early spring, before the plant starts actively growing. Prune approximately 1-third of its height to maintain a bushier shape. Remove any dead or damaged stems to promote healthy growth. Pruning Birthwort too severely may prevent new growth and reduce the number of flowers it produces. In general, Birthwort does not require much pruning to remain healthy. It should be pruned regularly but with moderation."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

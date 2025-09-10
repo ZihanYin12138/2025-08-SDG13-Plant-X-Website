@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1186,
+      "species_id": 903,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia vulgaris 'William Guiness'"
+      ],
+      "section": [
+        {
+          "id": 3547,
+          "type": "watering",
+          "description": "Columbine (Aquilegia vulgaris 'William Guiness') prefers moist soil but should not sit in standing water. The best way to water is to give it a deep drink and then allow the soil to dry out between waterings. This means watering it every other day or every 2 days for the first month, and then tapering off to about once a week once it is established. Don't let the soil dry out too much in between waterings. If it looks dry on the surface, dig down about 1 inch to check the soil's moisture level. If it is dry, water thoroughly."
+        },
+        {
+          "id": 3548,
+          "type": "sunlight",
+          "description": "The columbine plant species, Aquilegia vulgaris 'William Guiness', will do best with full sunlight during the day. It needs about 6 to 8 hours of direct sunlight to grow and bloom optimally. However, this plant specie is tolerant of partial shade, and will do well with 3 to 6 hours of direct sunlight too. During peak summer months in very hot climates, partial shade may be beneficial for this plant to prevent heat stress. It is important to note that this plant will do poorly in perpetually shaded or dark environments."
+        },
+        {
+          "id": 3549,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia vulgaris 'William Guiness') can be pruned in late winter or early spring. A light trim should be performed to remove any dead or diseased material and can be followed by a hard prune to encourage new growth. Pinching off the tips of the growths will encourage bushier growth and can make the plant look more full. Deadheading spent blossoms throughout the season will also help to encourage blooms. Pruning should stop in mid-summer to prevent damage to new growth that will emerge the following season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

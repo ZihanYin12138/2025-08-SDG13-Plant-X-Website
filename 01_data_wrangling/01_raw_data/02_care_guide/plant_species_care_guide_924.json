@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2272,
+      "species_id": 924,
+      "common_name": "African daisy",
+      "scientific_name": [
+        "Arctotis hybrida"
+      ],
+      "section": [
+        {
+          "id": 7021,
+          "type": "watering",
+          "description": "African daisies should be watered once or twice a week depending on the environment and soil conditions. The soil should remain moist, but not soggy, so water deeply, but only when the top 1-2 inches of soil are dry. During hot summer days, water more frequently since African daisies prefer to stay well hydrated. To avoid overwatering, allow the plant to fully drain before watering again. It is best to water in the morning so that the foliage is able to dry off before nightfall."
+        },
+        {
+          "id": 7022,
+          "type": "sunlight",
+          "description": "African daisies need full sun to partial shade in order to thrive. They prefer an area that gets at least 6 to 8 hours of direct sunlight each day. In warmer climates, they can handle more sun but shorter periods of sunlight. In cooler climates, they will need more shade to protect them from freezing temperatures. Additionally, African daisies need moderate to occasional watering throughout the summer months. During the winter months, they will not need as much water and should be watered sparingly. African daisies are a resilient flower and suitable for a variety of environments."
+        },
+        {
+          "id": 7023,
+          "type": "pruning",
+          "description": "African daisies should be pruned in the late spring or early summer when the plant is actively growing. Remove dead or damaged stems from the base of the plant and lightly prune to shape the plant as desired. Do not cut off more than 1-third of the total plant. To keep African daisies in their best condition, remove faded or spent flowers at the end of each summer season to promote new blooms the following spring."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

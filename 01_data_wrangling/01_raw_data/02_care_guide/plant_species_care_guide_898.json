@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2250,
+      "species_id": 898,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia vulgaris 'Plena'"
+      ],
+      "section": [
+        {
+          "id": 6955,
+          "type": "watering",
+          "description": "Columbines should be watered on a regular schedule (about every 1-2 weeks) to ensure proper soil moisture. They should be watered deeply, providing enough water to reach the root zone (up to 4 inches deep). Make sure soil is well-draining to avoid over-watering. Water thoroughly until water runs out the bottom of the container. Use a garden hose or watering can to provide even and consistent saturation. It's important to avoid wetting the foliage in order to prevent potential disease and insect problems. Additionally, it's important to consider local conditions and your plant's specific needs. During periods of dry or windy weather, it may be necessary to water a little more frequently. Let the soil be your guide – if it feels dry to the touch, it's time to water."
+        },
+        {
+          "id": 6956,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia vulgaris 'Plena') prefers full sun or partial shade. When grown in partial shade, it will flower more profusely. If grown in full sun, it requires 6-8 hours of light per day, typically late morning to mid-afternoon sun. If grown in partial shade, it should receive 3-5 hours of direct sun daily in the morning or evening."
+        },
+        {
+          "id": 6957,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia vulgaris 'Plena') should be pruned during the early spring, after all danger of frost has passed. To encourage a more compact habit, it can be pruned lightly in August. Pruning helps to keep the plant looking tidy while encouraging new growth. To prune, use sharp, clean pruning shears and cut back the spent flowers and stems from the prior year. Remove any damaged, diseased, or crossed stems. Always leave at least 3 to 4 stems on the plant to help protect it from disease. Take care not to damage the tender new growth at this time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

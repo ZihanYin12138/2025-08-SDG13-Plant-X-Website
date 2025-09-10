@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2255,
+      "species_id": 905,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia 'Winky Blue and White'"
+      ],
+      "section": [
+        {
+          "id": 6970,
+          "type": "watering",
+          "description": "Columbine (Aquilegia 'Winky Blue and White') should be watered regularly in order to keep the soil evenly moist but not soggy. Water when the top inch or 2 of soil feels dry to the touch. Allowing the soil to dry out between watering is better than watering too often. If the soil is allowed to dry out too deeply, the plant may become stressed, causing it to become more prone to pests and diseases. During the growing season, it is best to water the plant every 2 to 3 days and during the winter months, once every 5 to 7 days."
+        },
+        {
+          "id": 6971,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia 'Winky Blue and White') thrives best in an area that receives 3-5 hours of direct sunlight each day. Sunlight is important as it helps the development and growth of the plant. Columbine should receive morning sun and avoid strong afternoon sun. During the hottest part of the day, the plant may need some shade to prevent it from getting too hot. Place it in an area with south- or east-facing exposure to get maximum sun. If the plant is placed in an area with too much sun exposure, the leaves may become scorched or the foliage may become wilted and faded."
+        },
+        {
+          "id": 6972,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia 'Winky Blue and White') should be lightly pruned in late winter or early spring, just before the start of the growing season. This will help prevent the new shoots from becoming too long and out of proportion. Pruning should focus mainly on any dead or damaged stems, and done with hand pruners, making sure to cut just after a leaf node, removing up to 1 third of the plant’s total length. Older stems from previous seasons can be removed to encourage fresh growth and flowering. Prune spent flowering stalks just after the bloom cycle is complete, to encourage fresh flowers and prevent the plant’s resources from being spent on producing seed pods or deadheading."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 951,
+      "species_id": 935,
+      "common_name": "arisaema",
+      "scientific_name": [
+        "Arisaema thunbergii"
+      ],
+      "section": [
+        {
+          "id": 2854,
+          "type": "watering",
+          "description": "Arisaema thunbergii prefers moist but well-drained soil and regular watering. It should be watered 2 to 3 times each week, making sure the soil is evenly moist but not waterlogged. During the hotter months, you may need to water it more often but make sure the soil does not dry out completely in between waterings. In winter, you can reduce the frequency of watering slightly. It is important not to let the soil become soggy or dry out completely."
+        },
+        {
+          "id": 2855,
+          "type": "sunlight",
+          "description": "Arisaema (Arisaema thunbergii) prefer medium to bright, indirect light. They can handle some direct bright light in the early morning, but must be protected from intense afternoon sunlight. Depending on where it’s planted, the amount of light a particular Arisaema thunbergii receives can vary tremendously. If it’s planted in a northern part of a garden or in a shade garden Arisema will receive less sunlight than if it were planted in a south-facing flower-bed that receives more sunlight. When it does receive light, it should get 4-6 hours of daylight per day, ideally from sunrise to mid-morning and mid-afternoon to sunset."
+        },
+        {
+          "id": 2856,
+          "type": "pruning",
+          "description": "Pruning for an Arisaema plant species should be done in late winter or early spring before new growth begins. Generally, only dead or damaged foliage should be removed. Large-growing varieties may require more aggressive pruning to control size. For most species, no more than 1/3 of the total foliage should be cut away in any single session. Be sure to sterilize pruning tools by wiping them down with rubbing alcohol or a similar antiseptic solution before and after use to minimize the risk of introducing disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

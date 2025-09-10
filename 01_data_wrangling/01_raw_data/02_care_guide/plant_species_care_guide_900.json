@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2251,
+      "species_id": 900,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia vulgaris var. flore-pleno 'Tower White'"
+      ],
+      "section": [
+        {
+          "id": 6958,
+          "type": "watering",
+          "description": "Columbine (Aquilegia vulgaris var. flore-pleno 'Tower White') should be watered on a regular basis. Water the plant when the top layer of soil feels dry to the touch. During the growing season (spring through summer), water the plant once every 1 to 2 weeks. In hotter months, water more frequently. During the dormant months (autumn and winter), water should be reduced to once every 4 weeks. Make sure the soil does not sit in water for too long; roots may rot if the soil is too saturated. If the area gets much rain, water less frequently."
+        },
+        {
+          "id": 6959,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia Vulgaris var. flore-pleno 'Tower White' ) thrives in full sun to part shade conditions. The plant prefers at least 6 to 8 hours of direct sunlight per day. To ensure full and bright blooms, try to provide full and direct sunlight during the morning and afternoon. Although the plant can tolerate some shade, it will not produce as lush or large flower blooms in that environment. Taking this into account, it is best to plant columbine in an environment where it can receive both morning and afternoon sun."
+        },
+        {
+          "id": 6960,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia vulgaris var. flore-pleno 'Tower White') can be pruned lightly in late winter or early spring. Pruning should be done by cutting back the flowering stems and removing any dead, damaged, or diseased stems. Columbines can also be cut back severely (trimming 4-6 inches off the existing stems) to keep them from getting leggy and to promote bushier growth. Pruning is only necessary if the columbine is looking too unkempt or if it is not growing well. Otherwise, this plant does not require much pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

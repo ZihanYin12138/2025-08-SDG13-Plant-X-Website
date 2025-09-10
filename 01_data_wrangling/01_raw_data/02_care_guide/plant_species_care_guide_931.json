@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 574,
+      "species_id": 931,
+      "common_name": "Japanese cobra lily",
+      "scientific_name": [
+        "Arisaema kishidae 'Silver Pattern'"
+      ],
+      "section": [
+        {
+          "id": 1723,
+          "type": "watering",
+          "description": "The Japanese cobra lily (Arisaema kishidae 'Silver Pattern') should be watered generously and evenly enough to keep the soil consistently moist, but not waterlogged. Depending on the growing season you should be watering the plant every 4 to 7 days. During the warmer months, water the Japanese cobra lily every 4 days, and in colder parts of the year, water it every 7 days. In the drier regions and during seasons when there is less humidity, water the plant more frequently to keep it from drying out. The best way to make sure the plant is getting enough water is to check the soil moisture levels. If the top inch or 2 of the soil is dry, it's time to water."
+        },
+        {
+          "id": 1725,
+          "type": "sunlight",
+          "description": "For optimal health, Japanese cobra lilies should be placed in indirect bright sunlight. They should receive 4 to 6 hours of sunlight per day, but the light should be scattered and not direct and hot, as they can get burned by direct light. Exposure to direct afternoon sunlight should generally be avoided. It is best to place the Japanese cobra lily in a location that received direct morning light, and then shift it so it's in shade during hot afternoons."
+        },
+        {
+          "id": 1728,
+          "type": "pruning",
+          "description": "Japanese cobra lily should be pruned once a year after it blooms in the late spring. Make sure to prune before late summer since this plant's flowers don’t appear until after the pruning period. Take care to not prune too much foliage as this plant is a slow-growing species and this could impede its development. Pruning should focus on removing dead leaves and wilting inflorescences. Trim the crown of the cobra lily to a height of 1-2 feet for a more compact form."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

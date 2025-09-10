@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2309,
+      "species_id": 975,
+      "common_name": "French tarragon",
+      "scientific_name": [
+        "Artemisia dracunculus 'Sativa'"
+      ],
+      "section": [
+        {
+          "id": 7132,
+          "type": "watering",
+          "description": "French tarragon plants prefer regular but moderate water for best growth and flavor. Water the plant when the soil surface is dry to the touch, providing enough so that some drains from the pot. In summer, water 3 to 4 times a week, and reduce to twice a week in winter. Never waterlog the soil or allow it to totally dry out; this will cause the plant to wilt and have subpar flavor. Give the plant the equivalent of 1 inch of rainwater a week."
+        },
+        {
+          "id": 7133,
+          "type": "sunlight",
+          "description": "French tarragon enjoys full sun most of the day but does best when it receives at least 6 hours of direct sunlight. In general, French tarragon does best with direct sunlight for the majority of the day, up to 8 hours, although it may tolerate slightly lower amounts of direct sunlight, depending on the climate. If possible, it should be planted in an area where it can receive morning sun but be protected from the intense midday and afternoon sun of the hottest months."
+        },
+        {
+          "id": 7134,
+          "type": "pruning",
+          "description": "French tarragon should be pruned twice a year, once in the early spring and then again in late summer. In the early spring, prune the stems to a height of 4 to 6 inches, removing any woody or dead material. In late summer, prune the shoots that have grown since the early spring pruning to a height of 8 to 12 inches. If growing in a bed, also prune back any trailing stems and removes stems that have grown too far away from its center. Remember to always trim the plant above a pair of healthy leaves for the best results."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

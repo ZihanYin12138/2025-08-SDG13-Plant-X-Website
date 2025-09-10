@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2293,
+      "species_id": 952,
+      "common_name": "thrift",
+      "scientific_name": [
+        "Armeria pseudarmeria 'Ballerina Lilac'"
+      ],
+      "section": [
+        {
+          "id": 7084,
+          "type": "watering",
+          "description": "Thrift (Armeria pseudarmeria 'Ballerina Lilac') should be watered regularly and deeply. Water the plant enough so that the soil is kept evenly moist and not allowed to dry out completely. During the growing season (spring and summer), water approximately once a week, or when the top 1-2 inches of soil feel dry to the touch. In the winter, water less frequently, allowing the soil to dry out before re-watering. Avoid over-watering, as this can cause the roots to rot."
+        },
+        {
+          "id": 7085,
+          "type": "sunlight",
+          "description": "Thrift (Armeria pseudarmeria 'Ballerina Lilac') grows best in a sunny spot that receives at least 6 hours of direct sunlight. It does, however, tolerate partial shade, and can even withstand some periods of deep shade. It can even thrive in regions that have cool and snowy winters, as long as it receives plenty of sun during the summer months. When planting, choose a location that allows the plants to enjoy full sun until midday and partial shade afterwards. To ensure that Thrift thrives, be sure to provide it with adequate sunlight throughout the day."
+        },
+        {
+          "id": 7086,
+          "type": "pruning",
+          "description": "Thrift (Armeria pseudarmeria 'Ballerina Lilac') should be pruned annually in the late winter to early spring. Pruning should be done lightly and consist of removing any dead or damaged foliage, cutting back spent flowers, and shaping the plant, if desired. This type of pruning will promote bushier, more compact plants with longer lived flowers. Avoid cutting back the foliage too drastically as this can interfere with the health of the plant and its ability to flower."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

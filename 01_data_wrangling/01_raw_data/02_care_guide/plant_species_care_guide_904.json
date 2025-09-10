@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2254,
+      "species_id": 904,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia vulgaris 'Woodside Golden'"
+      ],
+      "section": [
+        {
+          "id": 6967,
+          "type": "watering",
+          "description": "Columbine (Aquilegia vulgaris 'Woodside Golden') need light to moderate watering and should be watered at least twice a week during the hotter months and once per week during cooler months. Make sure to check the soil's dampness before watering and only add enough to keep the soil lightly moist, but not soggy. Avoid watering on the foliage to prevent fungal diseases. Established plants prefer to receive most of their moisture through rainfall."
+        },
+        {
+          "id": 6968,
+          "type": "sunlight",
+          "description": "The Columbine (Aquilegia vulgaris 'Woodside Golden') plant should receive a moderate amount of direct sunlight in the morning or early afternoon, a few hours each day. Too much direct sunlight can cause the leaves to burn, and too little light can lead to weak and spindly growth. Therefore, it is best to provide bright, direct light for several hours each day, and bright, indirect light for the rest of the day."
+        },
+        {
+          "id": 6969,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia vulgaris 'Woodside Golden') requires very minimal pruning, only if necessary. This plant species should be pruned in early spring, before signs of new growth appear. Remove any broken, dead, or diseased stems, as well as any stems that are overcrowded or crossing each other. This will help promote air circulation and reduce the potential for rot and disease. Do not prune overly aggressively as it could harm the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

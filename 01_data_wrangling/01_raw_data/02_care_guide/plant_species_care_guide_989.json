@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 25,
+      "species_id": 989,
+      "common_name": "jackfruit",
+      "scientific_name": [
+        "Artocarpus heterophyllus"
+      ],
+      "section": [
+        {
+          "id": 73,
+          "type": "watering",
+          "description": "In general, jackfruit trees need to be watered at least once per week until established. After that, they require deep waterings at least 2-3 times per week. More mature trees may require less water. During the hottest and driest times of the year, it is important to increase the frequency of watering to keep the soil moist. Additionally, if the soil is sandy, waterings may need to be more frequent. \n\nJackfruit should always be watered until the soil is damp to a depth of about 6-8 inches. Make sure to avoid over-watering, as it can lead to root rot."
+        },
+        {
+          "id": 74,
+          "type": "sunlight",
+          "description": "It is important to ensure that jackfruit trees receive at least 6 to 8 hours of direct and full sunlight every day to produce quality and tasty fruits.\n\nJackfruit is a tropical species of tree and should be grown as such, meaning they should be grown in areas that receive plenty of sunlight throughout the entire year. Without enough light and heat, the fruits may not plump up and ripen as they should. Sunlight also helps to reduce fungal and pest infestations which can damage and weaken the tree."
+        },
+        {
+          "id": 75,
+          "type": "pruning",
+          "description": "Pruning for the jackfruit plant (Artocarpus heterophyllus) should be done twice a year - in the early spring, and again in late summer. Pruning should be done to encourage healthy growth and prevent overcrowding. The amount of pruning will depend on the age, condition and size of the plant; however, a good rule of thumb is to prune off no more than ⅓ of the jackfruit tree's new growth at a time. Pruning will also help to keep the tree at a manageable size in smaller gardens. Structural or maintenance pruning may also be done to ensure safety and to remove dead, damaged and diseased wood, as well as to prevent/thoroughly eliminate any diseases present. \n\nWhen pruning, it is important to use clean, sharp tools on each cut, and to sterilize the tools with alcohol (or another disinfectant) in between cuts to prevent the spread of diseases. Additionally, make sure to wear protective equipment, such as gloves, and to properly dispose of debris afterwards."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

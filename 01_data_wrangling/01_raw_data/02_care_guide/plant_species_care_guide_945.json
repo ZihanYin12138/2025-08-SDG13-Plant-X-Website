@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2287,
+      "species_id": 945,
+      "common_name": "sea thrift",
+      "scientific_name": [
+        "Armeria maritima"
+      ],
+      "section": [
+        {
+          "id": 7066,
+          "type": "watering",
+          "description": "Sea thrift (Armeria maritima) should be watered once every few weeks. The frequency depends on environmental conditions - in warmer, dryer climates, water every 2 to 3 weeks, and in cooler, wetter climates, water once a month or less. When watering, thoroughly soak the soil, making sure that the water penetrates deep into the ground. Letting the soil naturally dry out between waterings promotes strong root growth and the development of a more robust plant."
+        },
+        {
+          "id": 7067,
+          "type": "sunlight",
+          "description": "Sea thrift (Armeria maritima) should receive approximately 4 to 5 hours of direct sunlight per day for optimal growth and flowering. Additionally, sea thrift grows best in full sun, although it can tolerate partial shade. During the heat of summer, it is best to provide some form of shade from midday sun, such as dappled shade beneath a tree or under a light cloth. If located in a partly shaded area, it’s great for sea thrift to be near a south-facing window to get enough light."
+        },
+        {
+          "id": 7068,
+          "type": "pruning",
+          "description": "Sea Thrift (Armeria maritima) should be pruned with sharp, sterilized pruning shears or scissors in early spring before the new growth appears. For best results, some shoots may need to be removed every few years to ensure that the plant remains compact and healthy. During the pruning process, remove all dead or damaged branches and cut down any foliage that has become too tall. Cut flowering stems back by 1-third at the end of the flowering season to help promote stronger blooms the following season. This plant species does not need to be pruned regularly, but deadheading spent blooms to keep the foliage full is beneficial."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

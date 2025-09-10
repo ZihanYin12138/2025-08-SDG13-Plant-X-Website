@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2289,
+      "species_id": 948,
+      "common_name": "sea thrift",
+      "scientific_name": [
+        "Armeria maritima 'Morning Star White'"
+      ],
+      "section": [
+        {
+          "id": 7072,
+          "type": "watering",
+          "description": "Sea thrift is a drought-resistant plant that thrives in the sun, so it doesn't need regular watering. However, during the summer months it should be given a deep watering once a week to ensure it receives enough moisture. The best time to water sea thrift is in the morning so the foliage has time to dry out before the evening. If temperatures remain high during the summer, you may need to increase the watering frequency. It's also important to monitor the soil to ensure it doesn’t become overly dry. If the soil feels dry to the touch, water sea thrift immediately."
+        },
+        {
+          "id": 7073,
+          "type": "sunlight",
+          "description": "Sea thrift (Armeria maritima 'Morning Star White') should be grown in full sun for best blooming. Morning sun is ideal since afternoon sun can be too intense. This plant species requires at least 6 hours of sunlight each day for optimal growth. If grown in partial shade, sea thrift will not flower as profusely and may become leggy."
+        },
+        {
+          "id": 7074,
+          "type": "pruning",
+          "description": "Sea thrift (Armeria maritima 'Morning Star White') should be pruned in early spring, just as the new growth begins to appear. Pruning should be moderate, as sea thrift is a low-growing variety that does not require much in the way of maintenance or shaping. Cut back shoots with shears or small scissors, leaving behind 1 to 2 inches of new growth. Pruning out any stems that are damaged or look diseased is also recommended, as this can help the plant to remain healthy. Deadheading, or removing the spent flowers, can help keep the plant looking its best and encourage more blooms."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

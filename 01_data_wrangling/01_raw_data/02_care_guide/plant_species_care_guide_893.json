@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2246,
+      "species_id": 893,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia 'Swallowtail'"
+      ],
+      "section": [
+        {
+          "id": 6943,
+          "type": "watering",
+          "description": "Columbine (Aquilegia 'Swallowtail') should be watered regularly throughout the year. However, during the summer months, water slightly less as its roots may suffer from too much moisture. Water this species lightly but evenly once a week in order to provide enough moisture without causing damage. During warm seasons, it is beneficial to water deeply and less frequently (every 10-14 days may be enough). However, in winter its water needs are lower so it should be watered only when the soil is drying enough. The most important point to consider is that the soil should never be saturated."
+        },
+        {
+          "id": 6944,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia 'Swallowtail') plants need an average of 6 to 8 hours of direct sunlight each day for optimum growth. If the columbine is planted in too much shade, it will be weak and wispy. If it gets too much sun, the foliage may become burned. Providing the right amount of sunlight will promote lush, healthy foliage and an abundance of vibrant flowers. For optimal growth, columbines should receive morning sun and afternoon shade, or dappled shade throughout the day. During hot climates, columbines should receive light shade throughout the day."
+        },
+        {
+          "id": 6945,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia 'Swallowtail') should be pruned in late winter or early spring, just as new growth begins. Prune as much as 1-third of the plant's stems and foliage back to the ground. This will help promote new growth and create a denser, more robust plant. It will also increase blooming performance. Deadheading spent flowers immediately after blooming will also help to promote more blooms."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

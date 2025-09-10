@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2252,
+      "species_id": 901,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia vulgaris var. stellata 'Ruby Port'"
+      ],
+      "section": [
+        {
+          "id": 6961,
+          "type": "watering",
+          "description": "Columbines require regular water to stay healthy and look their best. Water deeply when the soil is dry to a depth of 3 to 4 inches. This may look like 1 to 2 times per week in summer and every 10 to 14 days in winter, depending on your local temperature and rainfall. Avoid overwatering, which can cause root rot. Always check the soil before watering to determine if the plant needs it or not. Additionally, make sure your columbines are planted in well-draining soil to prevent overwatering."
+        },
+        {
+          "id": 6962,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia vulgaris var. stellata 'Ruby Port') should be grown in an area where it receives at least 6 to 8 hours of bright, direct sunlight per day. This type of plant should be grown in full sun, but should be shielded from the hot afternoon sun if grown in very warm climates. Morning sun is best, and if possible, avoid afternoon sun during the hot summer months. Columbine can also tolerate partial shade, but it typically has smaller blooms when grown in shady locations."
+        },
+        {
+          "id": 6963,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia vulgaris var. stellata 'Ruby Port') should be pruned once in early spring, just as new growth starts to emerge. During this time, remove any dead or damaged stems and shape the plant if desired. If the plant is flowering too much, this is a good time to lightly prune it in order to maintain its more compact size. As the season progresses, keep an eye on the plant and pinch or prune any new growth as needed to keep it compact and tidy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

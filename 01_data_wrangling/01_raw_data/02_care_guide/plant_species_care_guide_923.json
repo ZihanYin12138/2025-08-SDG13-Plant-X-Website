@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2271,
+      "species_id": 923,
+      "common_name": "bearberry",
+      "scientific_name": [
+        "Arctostaphylos uva-ursi 'Wood's Red'"
+      ],
+      "section": [
+        {
+          "id": 7018,
+          "type": "watering",
+          "description": "Bearberry requires moderate waterings. Water the plant when the top inch of soil is dry. Use a container with adequate drainage so that excess water can drain away. In the absence of a pot with drainage holes, water lightly by dripping directly onto the base of the plant. Too much water can cause foliage to yellow or rot the plant. During the winter, water 2 to 3 times a week and in the summer, water 4 to 5 times a week."
+        },
+        {
+          "id": 7019,
+          "type": "sunlight",
+          "description": "Bearberry (Arctostaphylos uva-ursi 'Wood's Red') thrives in full sun to partial shade, with some afternoon shade for optimal growth. During the summer months, bearberry should receive 4 to 6 hours of direct sunlight per day. In the winter, bearberry should receive at least 2 hours of direct sunlight during the day. Bearberry will tolerate partial shade but should not be planted in deep shade."
+        },
+        {
+          "id": 7020,
+          "type": "pruning",
+          "description": "In general, Bearberry (Arctostaphylos uva-ursi 'Wood's Red') should be pruned in late winter to early spring. Pruning should be light, as Bearberry is a slow-growing plant and responds best to minimal pruning. If you do need to prune, you should only cut back any stems that have become too long or unshapely, as well as any dead or diseased branches. Try not to prune off more than 1-third of the total plant in a single pruning session, as shorter plants may become too weak and may not be able to withstand heavy pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

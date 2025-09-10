@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2261,
+      "species_id": 911,
+      "common_name": "Chinese angelica tree",
+      "scientific_name": [
+        "Aralia chinensis"
+      ],
+      "section": [
+        {
+          "id": 6988,
+          "type": "watering",
+          "description": "The Chinese angelica tree (Aralia chinensis) should be watered once per week and no more than 1 inch of water should be used. Water the plant slowly and deeply, allowing the soil to absorb all of the water before adding more. Water at the base of the plant, avoiding wetting the leaves as much as possible. Make sure that the soil is not too soggy. Allow the soil to dry out between watering sessions. During hot, dry summers, the plant may need to be watered twice per week. In winter, reduce the frequency of watering."
+        },
+        {
+          "id": 6989,
+          "type": "sunlight",
+          "description": "Chinese angelica tree (Aralia chinensis) prefers bright, indirect light rather than evenly-distributed direct light, such as what is found beneath a high tree canopy. This shade-loving plant should not be exposed to direct sunlight more than a few hours each day. Depending on the time of year, and the location of the plant, it should receive roughly 4 to 6 hours of sunlight a day. In summer and in areas with greater sunlight exposure, 3 to 4 hours should be enough. In winter and in locations with less sun exposure, 5 to 6 hours is recommended."
+        },
+        {
+          "id": 6990,
+          "type": "pruning",
+          "description": "When it comes to pruning a Chinese angelica tree, it's best to prune in the late spring or early summer. This will help to keep the tree looking attractive and encourage new growth. When pruning, be sure to remove any dead or damaged branches and shape the tree accordingly. It may also be beneficial to lightly prune the tree every year to ensure that it maintains its desired shape. However, it is important to avoid heavy pruning, as this could cause the tree to suffer and become unhealthy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

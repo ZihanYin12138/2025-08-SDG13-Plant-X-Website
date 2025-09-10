@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2284,
+      "species_id": 941,
+      "common_name": "birthwort",
+      "scientific_name": [
+        "Aristolochia leuconeura"
+      ],
+      "section": [
+        {
+          "id": 7057,
+          "type": "watering",
+          "description": "Birthwort should be watered regularly, but not too frequently. During the spring and summer months water the plant evenly, ensuring that the soil remains moist, but never soggy. During the winter, when the plant is dormant, water it only occasionally. Watering should be reduced quite drastically during the winter season, but be sure that the soil does not dry out. If possible, a weekly watering should suffice for winter months, and likely even less than that."
+        },
+        {
+          "id": 7058,
+          "type": "sunlight",
+          "description": "Birthwort plants thrive in well-drained, slightly acidic soil that is kept consistently moist. They prefer full sunlight for at least 6 hours every day—ideally from mid-morning to early afternoon. This plant species is not tolerant of shade, so it is important to place it in an area that receives full sun for most part of the day. The more light it gets, the more flowers it will produce. To ensure the plant blooms and grows, make sure it is located in an area that receives 6-8 hours of full sunlight each day."
+        },
+        {
+          "id": 7059,
+          "type": "pruning",
+          "description": "Birthwort should only be pruned during its dormant season in late winter. Pruning should be done sparingly, removing only dead or damaged branches. Avoid cutting away more than 1-third of the stem and branches at a time. This plant has a slow growth rate, so it is best to only prune it as necessary. When using pruning shears, be sure to angle your cuts just above a leaf node or bud. This will encourage new growth and a bushier shape. Light pruning throughout the year is also beneficial and will help keep the plant in shape. With proper care and pruning, birthwort can be an impressive addition to your landscape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

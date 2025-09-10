@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2299,
+      "species_id": 960,
+      "common_name": "black chokeberry",
+      "scientific_name": [
+        "Aronia melanocarpa 'Autumn Magic'"
+      ],
+      "section": [
+        {
+          "id": 7102,
+          "type": "watering",
+          "description": "Black chokeberry should be watered regularly throughout the growing season (May-October). The exact amount of water that should be used will depend on your soil's texture and drainage. Generally, allow the top 2-4 inches of soil to dry down before watering again. In periods of extended drought, water once per week to keep soil evenly moist. In other dry periods, water every 5-7 days. Water at the base of the plant, avoiding wetting the leaves and stems to prevent disease. During the colder months (November-April) you can cease watering, as the plant will enter a period of dormancy."
+        },
+        {
+          "id": 7103,
+          "type": "sunlight",
+          "description": "Black chokeberry (Aronia melanocarpa 'Autumn Magic') grows best in full sun to partial shade. These plants prefer at least 8 hours of direct sunlight each day during the summer months, but they can tolerate some shade in the morning and afternoon. This species of shrub is particularly well suited to areas with hot summers, as it tolerates temperatures up to 95 degrees Fahrenheit. During the winter months, these plants require less light and typically grow best with 4 to 6 hours of direct sunlight each day."
+        },
+        {
+          "id": 7104,
+          "type": "pruning",
+          "description": "Black chokeberry (Aronia melanocarpa 'Autumn Magic') should be pruned as soon as its flowers have faded, generally at the end of spring. Pruning should be done judiciously to maintain its natural shape while removing any dead branches or any that are crossing over each other, as well as any that appear to be diseased. Additionally, 1 may wish to thin out new, fast-growing shoots to allow more sunlight and air to penetrate the shrub. Pruning should be done in the late winter or early spring, when the plant is still dormant. It is best to prune the bush to no more than half its size to maintain the desired form while promoting healthy new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2295,
+      "species_id": 954,
+      "common_name": "horseradish",
+      "scientific_name": [
+        "Armoracia rusticana"
+      ],
+      "section": [
+        {
+          "id": 7090,
+          "type": "watering",
+          "description": "For best results, horseradish should be watered deeply and regularly. Water the soil until it is moist to a depth of 8-10 inches. On average, water the plant about twice a week during the growing season. In summer, increase watering frequency to every 3 to 4 days. Make sure to avoid too much water, which can cause root rot.  During the winter, reduce frequency to once every 2 weeks."
+        },
+        {
+          "id": 7091,
+          "type": "sunlight",
+          "description": "Horseradish (Armoracia rusticana) needs plenty of sunlight to thrive. It prefers full sun, meaning at least 6 to 8 hours of direct sunlight a day. It can also tolerate partial sun, as long as it receives at least 4 hours of light a day. During the summer months, it is best to provide the plant with some shade during the hottest part of the day."
+        },
+        {
+          "id": 7092,
+          "type": "pruning",
+          "description": "Horseradish should be pruned at least once a year in early spring, just as the new growth begins to emerge. The goal of pruning is to remove any dead, damaged, or diseased leaves and stems, as well as any suckers that grow up from the base of the plant. Prune the horseradish back to its main branches to promote a strong and healthy root system, and do not take off more than 1 third of the total plant at once. Additionally, prune the plants individual branches back to 10 inches in length to encourage root regeneration and prevent the plant from becoming overgrown and leggy. Finally, be sure to sterilize your pruning tools between plants to avoid the spread of disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

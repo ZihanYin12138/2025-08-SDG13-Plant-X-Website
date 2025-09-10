@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2247,
+      "species_id": 894,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia viridiflora"
+      ],
+      "section": [
+        {
+          "id": 6946,
+          "type": "watering",
+          "description": "Columbine does best when the soil is moist, but not soggy. When planting columbine, water well and then allow the soil to dry out before watering again. To maintain healthy growth, water columbine regularly about once a week when it's actively growing. However, when in bloom, slowly reduce the amount of water to only once every 2 weeks. In the winter, when plants are dormant, water only enough to keep the soil from drying out completely."
+        },
+        {
+          "id": 6947,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia viridiflora) plants require at least 4 to 6 hours of direct sunlight each day, ideally when the sun is at its highest point in the sky and taking into consideration any local climatic characteristics. Columbine plants should be grown in planting locations that provide full sun during mid-day hours, and then a bright, partially shaded area for the remainder of the day. Providing the right amount of sunlight helps to ensure that columbine will bloom with healthy, vibrant flowers."
+        },
+        {
+          "id": 6948,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia viridiflora) should be pruned once a year in late winter or early spring before the new growth begins. For ideal results, remove any winter-killed stems and prune in a method where 1-third of the stem is removed at an angle. This will encourage new growth and flowering. Since Columbine is known for its attractive foliage, it is not necessary to cut back too far."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

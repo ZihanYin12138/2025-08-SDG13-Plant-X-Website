@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2288,
+      "species_id": 946,
+      "common_name": "sea thrift",
+      "scientific_name": [
+        "Armeria maritima 'Bloodstone'"
+      ],
+      "section": [
+        {
+          "id": 7069,
+          "type": "watering",
+          "description": "Sea thrift (Armeria maritima 'Bloodstone') should be watered about every 7-10 days. Make sure that the top 3 inches of soil is completely dry before watering. During the summer months, it may require more frequent watering as the soil will dry out more quickly. In winter, reduce the frequency of watering, as less water is required during this season."
+        },
+        {
+          "id": 7070,
+          "type": "sunlight",
+          "description": "Sea thrift plants require full sun, meaning 6 to 8 hours of direct sunlight on most days. They are best placed in a sun-filled area, such as a balcony, terrace, or patio. Planting in south, east, or west-facing positions can ensure maximum sunlight for the plant. If the plant is placed in a shaded area, it is suggested to supplement natural light with a grow light to ensure adequate growth."
+        },
+        {
+          "id": 7071,
+          "type": "pruning",
+          "description": "Sea thrift is a low-growing, evergreen perennial that is hardy in USDA zones 4-9. Pruning is not necessary unless the plant becomes straggly or overcrowded. In such cases, pruning should be done in late winter or early spring. Simply trim back the foliage that is growing beyond the desired shape or size. Be sure to sterilize pruning shears with rubbing alcohol before and after using to help prevent the spread of disease. Sea thrift is very tolerant of pruning, so don't be afraid to be generous when shaping."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

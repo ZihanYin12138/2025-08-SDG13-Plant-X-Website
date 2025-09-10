@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 653,
+      "species_id": 984,
+      "common_name": "mugwort",
+      "scientific_name": [
+        "Artemisia vulgaris"
+      ],
+      "section": [
+        {
+          "id": 1961,
+          "type": "watering",
+          "description": "Mugwort (Artemisia vulgaris) prefers moist soil and regular watering in order to thrive and grow well. In the early spring and summer months, water the plant every 7 to 10 days, providing enough moisture so that the top 1 to 2 inches of soil is moist. During the hot summer months, it may be necessary to water more often, as much as every 5 to 7 days in very hot areas. In the fall the watering can be backed off to every 10 to 14 days. During the winter months, watering should be reduced to every 2 to 3 weeks and increased if the weather is very dry due to drought or very windy. It is best to water your mugwort plant in the morning to prevent any leaf scorch from the hot sun."
+        },
+        {
+          "id": 1962,
+          "type": "sunlight",
+          "description": "Mugwort (Artemisia vulgaris) thrives in sunny to partially shady areas and needs about 4–6 hours of direct sunlight per day. The best time for its exposure to sunlight is midmorning until late afternoon, avoiding the heat of the midday sun. If the mugwort is planted in an area with less natural sunlight, such as a northern-facing windowsill, it may benefit from supplemental lighting such as an artificial grow light."
+        },
+        {
+          "id": 1963,
+          "type": "pruning",
+          "description": "Mugwort (Artemisia vulgaris) should be pruned annually to remove dead or damaged growth. This should be done in the late winter or early spring before new growth begins. Cut back the stems to around 2-3 inches (5-7.5 cm) from the ground. This will promote strong and healthy new growth in the upcoming season. If needed, a light trim can be done in the summer months to help shape and control the size of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

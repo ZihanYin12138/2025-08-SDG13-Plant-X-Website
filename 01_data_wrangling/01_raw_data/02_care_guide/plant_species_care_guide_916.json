@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2265,
+      "species_id": 916,
+      "common_name": "New Caledonian pine",
+      "scientific_name": [
+        "Araucaria columnaris"
+      ],
+      "section": [
+        {
+          "id": 7000,
+          "type": "watering",
+          "description": "New Caledonian pine should be watered at least once every 7-10 days in the summer and every 10-14 days in the winter, depending on soil moisture levels. The soil should be allowed to dry just slightly between watering. During the growing season, fertilize the plant every 3-4 months with a balanced fertilizer, such as a 10-10-10 fertilizer. Make sure to water immediately after fertilizing; otherwise, the fertilizer may burn the roots."
+        },
+        {
+          "id": 7001,
+          "type": "sunlight",
+          "description": "New Caledonian pine (Araucaria columnaris) is a plant species native to New Caledonia, a French suberb located in the South Pacific. It requires a warm climate with plenty of sunlight to thrive.\n\nIn New Caledonia, it is typical to receive at least 6 hours of direct sunlight every day. During the summer months, when the sun is highest in the sky and most intense, the plant's exposure to sunlight can reach up to 8 or 9 hours a day. During the winter months, the sunlight exposure is typically between 4 to 6 hours, due to the sun being lower in the sky.\n\nTo ensure that the New Caledonian pine receives adequate sunlight, consider planting it in a spot with full sun exposure, such as a south-facing window or in an area that receives direct sunlight for the majority of the day. During periods of extreme heat or intense sunlight, it is important to provide the plant some shade to prevent it from burning or becoming too stressed."
+        },
+        {
+          "id": 7002,
+          "type": "pruning",
+          "description": "New Caledonian pine is a type of conifer that requires minimal pruning and is best done during the growing season. To keep the tree in shape, pruning should take place in the early spring when new growth begins. Find branches that may be interfering with the structure of the tree or any dead or diseased branches and cut them off. This type of pruning is relatively low maintenance as only light pruning is typically necessary. Pruning should never exceed 1-third of the total tree's live branches. It is also important to avoid topping the tree as this can cause serious damage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

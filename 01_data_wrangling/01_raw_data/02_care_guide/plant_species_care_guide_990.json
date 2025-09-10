@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 540,
+      "species_id": 990,
+      "common_name": "Italian arum",
+      "scientific_name": [
+        "Arum italicum"
+      ],
+      "section": [
+        {
+          "id": 1621,
+          "type": "watering",
+          "description": "Italian arum plants should be watered about once every 7 to 10 days, depending on your local climate and soil conditions. Water the plants at the base, making sure to avoid getting the leaves wet. It's best to water the plants in the morning to give them time to dry out before nightfall. During the summer months, it may be necessary to water them more frequently than in the cooler winter months. Make sure the soil is moist, but not waterlogged. If the soil is sandy, you may need to water more often than if the soil is more loamy. A good rule of thumb is to make sure the top 2 to 3 inches of soil are moist. Avoid over-watering, as this can detrimentally affect the plant's health."
+        },
+        {
+          "id": 1622,
+          "type": "sunlight",
+          "description": "Italian arum (Arum italicum) prefers full sun for at least 4 hours a day, particularly in the mornings. During the spring and summer months, the plant should receive around 6 to 8 hours of sunlight a day. However, it is important to make sure that the plant is not receiving too much direct sunlight. During the cooler months, aim for around 4 to 6 hours of sunlight each day."
+        },
+        {
+          "id": 1623,
+          "type": "pruning",
+          "description": "For Italian arum, pruning typically happens in the late spring or early summer during the period of active growth. Pruning should involve removing dead foliage, as well as any out-of-place, overgrown, or otherwise unwanted foliage. You should also trim long branches and remove any crossed, overlapping, or damaged branches. Prune the plant lightly and sparingly- no more than 1-third of the overall foliage and stems. This will help promote new, healthy growth, as well as providing the plant with more air and sunlight."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

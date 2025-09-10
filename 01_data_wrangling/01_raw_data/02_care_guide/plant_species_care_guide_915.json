@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 575,
+      "species_id": 915,
+      "common_name": "Devil's walking stick",
+      "scientific_name": [
+        "Aralia spinosa"
+      ],
+      "section": [
+        {
+          "id": 1724,
+          "type": "watering",
+          "description": "Devil's walking stick (Aralia spinosa) should be watered enough to keep the soil evenly moist. Water in the morning every 7 to 10 days during the active growing season. Make sure the soil has a chance to dry out completely in between waterings. Reduce frequency to every 2 weeks during winter dormancy. Overwatering can lead to root rot, so be careful not to give the plant too much water."
+        },
+        {
+          "id": 1726,
+          "type": "sunlight",
+          "description": "Devil's walking stick (Aralia spinosa) need at least 6 to 8 hours of full sunlight per day to thrive. They tend to prefer direct sunlight, so if possible, place them in an area that receives full sunlight all day. If that is not possible, at least 4 hours of morning sun is preferable. Avoid locations that receive shade for more than 4 hours in the middle of the day. The plant can tolerate light shade in the late afternoon, but the more light it gets the better."
+        },
+        {
+          "id": 1727,
+          "type": "pruning",
+          "description": "Pruning Devil's walking stick (Aralia spinosa) is best done in the winter while the plant is dormant. The shrub can be lightly pruned throughout the year, but it should not be severely cut back. Pruning should be limited to removing weak or dead branches and any excess growth that has outgrown the desired shape. For larger pruning jobs, wait until fall or winter, when the plant is dormant. Doing so will help reduce the amount of shock the plant experiences in response to the pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

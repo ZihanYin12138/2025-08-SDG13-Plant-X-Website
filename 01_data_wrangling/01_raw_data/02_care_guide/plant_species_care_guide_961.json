@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2300,
+      "species_id": 961,
+      "common_name": "black chokeberry",
+      "scientific_name": [
+        "Aronia melanocarpa 'Estland'"
+      ],
+      "section": [
+        {
+          "id": 7105,
+          "type": "watering",
+          "description": "Black chokeberry (Aronia melanocarpa 'Estland') should be watered deeply and regularly when first planted to help the roots establish themselves. After that, it is suggested to water once a week during the growing season and once every 2 weeks during the winter. After the soil has become moist, allow the top 1-2 inches of soil to dry out before watering again. If the soil drains quickly, it will need less water. Over-watering can be damaging to the plant. During prolonged periods of high temperatures, it may benefit from additional watering."
+        },
+        {
+          "id": 7106,
+          "type": "sunlight",
+          "description": "Black chokeberry (Aronia melanocarpa 'Estland') requires at least 4-5 hours of full sun daily, though it prefers 6-8 hours of sun daily. Additionally, it can survive and produce fruit with partial to full shade. This species also prefers well-draining soil and should be watered regularly (at least an inch of water per week either through natural rainfall or supplemental irrigation)."
+        },
+        {
+          "id": 7107,
+          "type": "pruning",
+          "description": "Black chokeberry (Aronia melanocarpa 'Estland') should be pruned in early spring before new growth begins to appear. Pruning should only be done to dead or diseased branches or canes in order to promote the health of the plant. On average, pruning should be done every 3 years, removing approximately 1-third of the oldest canes each time. After pruning, the remaining canes should be thinned to 3-5 shoots per cane."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

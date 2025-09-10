@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2306,
+      "species_id": 970,
+      "common_name": "wormwood",
+      "scientific_name": [
+        "Artemisia absinthium"
+      ],
+      "section": [
+        {
+          "id": 7123,
+          "type": "watering",
+          "description": "When it comes to watering wormwood (Artemisia absinthium), it's important to not over-water it. During the active growth period ( spring to summer), water the plant when the soil is dry to the touch but before it dries out completely - about twice a week should be enough. During the dormant period (fall and winter), reduce watering to once a month or every 2 weeks. Wormwood is a drought tolerant plant, so it's better to underwater than overwater."
+        },
+        {
+          "id": 7124,
+          "type": "sunlight",
+          "description": "Wormwood (Artemisia absinthium) is a plant species that prefers full sun exposure and thrives in locations that receive 6-8 hours of direct sunlight per day. The amount of sunlight should be reduced when temperatures are very hot, as this plant species is sensitive to heat. When growing outdoors, wormwood should receive direct sunlight in the early morning and late afternoon, as the strong midday sun may scorch the plant's leaves. When growing indoors, wormwood should be placed near an east- or south-facing window to ensure adequate, yet limited sunlight exposure for optimal growth."
+        },
+        {
+          "id": 7125,
+          "type": "pruning",
+          "description": "When it comes to pruning wormwoods, pruning should be done right after flowering is finished in the fall.The dead flowers and leaves should be trimmed backto encourage new growth in spring. Be sure to prune no more than 1-third of the entire plant at a time to ensure overall health and vigorous growth.If you are looking to maintain a certain size for your wormwood plant, then keep in mind to prune it periodically through the growing season. The plant can also be lightly trimmed in the spring as well."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

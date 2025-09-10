@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2262,
+      "species_id": 912,
+      "common_name": "Japanese spikenard",
+      "scientific_name": [
+        "Aralia cordata"
+      ],
+      "section": [
+        {
+          "id": 6991,
+          "type": "watering",
+          "description": "Japanese spikenard is a species that requires moist soil in order to thrive; its water requirements are therefore quite high. Generally, it is recommended to water this plant every 1-2 days during the growing season and every 3-4 days during the winter when the growth rate is slower. Make sure that the soil remains evenly moist but never soggy. If the leaves look wilted, mulch around the plant to help retain moisture. It is also important to note that Japanese spikenard does not like to dry out, so be sure to check the soil moisture levels daily and water as needed to prevent wilting."
+        },
+        {
+          "id": 6992,
+          "type": "sunlight",
+          "description": "Japanese spikenard is a sun-loving plant and requires full sunlight for at least 6 hours a day. It prefers a sunny but sheltered location in the garden where it is likely to get the most sunshine during the cooler part of the day. The ideal light intensity should range from moderate to high. During the summer months, Japanese spikenard needs to be shaded from the strongest midday sun, otherwise the foliage may burn. In wintertime when the sun is weaker, it may even need some additional light to thrive."
+        },
+        {
+          "id": 6993,
+          "type": "pruning",
+          "description": "Japanese spikenard (Aralia cordata) should be pruned in late winter or early spring before it puts on new growth. Pruning should be done to maintain shape and size, as well as to remove dead or damaged branches. Deadheading is not necessary as the flowers are insignificant. When pruning, it's best to remove no more than 1-quarter of the tallest branches. It's safe to cut right back to the trunk if needed, as this species has a tendency to sprout from the base. This can help keep the plant looking neat and balanced."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

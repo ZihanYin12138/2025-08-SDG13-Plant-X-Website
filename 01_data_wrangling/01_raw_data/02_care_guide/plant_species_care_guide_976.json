@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2310,
+      "species_id": 976,
+      "common_name": "silky wormwood",
+      "scientific_name": [
+        "Artemisia frigida"
+      ],
+      "section": [
+        {
+          "id": 7135,
+          "type": "watering",
+          "description": "Silky Wormwood (Artemisia frigida) prefers moderately moist soil, so it should be watered on a regular basis. Water deeply and thoroughly, keeping moisture consistent. During the spring and summer months when the plant is actively growing and it is particularly hot, water the plant every other day. During the winter and fall, water the plant once a week. Established plants are more drought tolerant, so mature plants may only need to be watered every 1 to 2 weeks during the spring and summer, and once every 2 to 4 weeks during the fall and winter."
+        },
+        {
+          "id": 7136,
+          "type": "sunlight",
+          "description": "Silky wormwood (Artemisia frigida) requires at least 5-6 hours of direct sunlight per day. Silky wormwood should ideally get full sun for most of the day if possible, as this will help it grow properly and produce the best foliage. When growing silky wormwood in a pot, it's best to keep it in a spot with direct sunlight morning and afternoon, such as on the south-facing side of a building, balcony, or patio. When growing silky wormwood in the ground, ensure it gets direct sunlight for many hours throughout the day. Keep in mind that Silky wormwood can tolerate some shade, but can become leggy or slow in growth if it doesn’t get enough sun."
+        },
+        {
+          "id": 7137,
+          "type": "pruning",
+          "description": "Silky wormwood should be pruned in late spring. To maintain a healthy plant, annual pruning is recommended. Dead, diseased, and damaged stems should be removed. Trim back crowded and leggy stems to encourage bushier growth. Cut back stems that have become too tall, up to 1 third their height. Prune flowering stems right after the plants have finished flowering. This will ensure plenty of new fresh growth in the coming season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2249,
+      "species_id": 897,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia vulgaris (Grandmother's Garden Group)"
+      ],
+      "section": [
+        {
+          "id": 6952,
+          "type": "watering",
+          "description": "Columbine plants (Aquilegia vulgaris) prefer moist soil, and will need to be watered twice a week during the growing season, watering the soil until it is moist to a depth of several inches. During the hottest months of summer, they may need to be watered more frequently in order to keep the soil evenly moist. In the colder months, less frequent watering is needed. It's best to water the soil close to the base of the plant rather than from overhead. Allow the soil to dry out slightly between waterings, avoiding overwatering and standing water."
+        },
+        {
+          "id": 6953,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia vulgaris (Grandmother's Garden Group)) plants need approximately 5 to 6 hours of sunlight per day for optimal growth. It is best to place them in a spot that receives morning sunlight, as well as some dappled sunlight throughout the day. As a full sun plant, it grows best when it receives direct sunlight in the morning and late afternoon when the sunlight isn’t as intense. During the hottest parts of the year (particularly in the summer months), Columbine will benefit from a little afternoon shade."
+        },
+        {
+          "id": 6954,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia vulgaris) should be pruned in early summer, after blooming has finished. Pruning should target dead or weak stems, as well as those that are overcrowded or diseased. It is best to remove around 1-third of the plant in order to promote new growth. Be sure to use sterilized pruning shears to avoid spreading disease to other plants in the garden. After pruning, it is important to keep this species well-watered to ensure healthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

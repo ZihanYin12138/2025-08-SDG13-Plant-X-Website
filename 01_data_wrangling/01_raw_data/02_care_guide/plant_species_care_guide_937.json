@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2280,
+      "species_id": 937,
+      "common_name": "jack-in-the-pulpit",
+      "scientific_name": [
+        "Arisaema triphyllum"
+      ],
+      "section": [
+        {
+          "id": 7045,
+          "type": "watering",
+          "description": "Jack-in-the-pulpit plants prefer moist soil conditions and should be watered regularly to maintain this level of moisture. Water the plants every 1-2 weeks, giving each plant 1-2 inches of water. Make sure that the water is able to penetrate to the plant's root zone, and do not water too frequently, as the plant may become waterlogged and suffer. In the summer months water more frequently if needed or if the soil is becoming dry. During winter months, reduce the frequency of watering."
+        },
+        {
+          "id": 7046,
+          "type": "sunlight",
+          "description": "Jack-in-the-pulpit is a plant species best suited to partial sunlight rather than direct sunlight. The plant should receive at least a few hours of sunlight each day, preferably in the morning, when light levels are lower than during the heat of the afternoon. In warmer climates, and during the summer months, its best to move the plant to an area with more shade or filtered sun to ensure the plant does not scorch from the intense sunlight. Constant shade is strongly discouraged, as Jack-in-the-pulpit needs some amount of sunlight for photosynthesis and to thrive."
+        },
+        {
+          "id": 7047,
+          "type": "pruning",
+          "description": "Jack-in-the-pulpit is a unique and hardy plant species that requires minimal pruning. It is typically pruned back in late winter or early spring to encourage a more vigorous and dense growth. When pruning, remove any damaged or yellowing foliage with a sharp pair of gardening scissors and cut it back all the way to the ground. Additionally, look for any fronds that are growing in an awkward direction and trim them back to keep the plant form looking neat and tidy. You may also want to trim away dead flowers or seed heads to keep the plant looking neat and encourage new growth. Aim to remove no more than 1-third of the plant at any given pruning session, and avoid pruning in the middle of the summer as this can be too much stress on the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

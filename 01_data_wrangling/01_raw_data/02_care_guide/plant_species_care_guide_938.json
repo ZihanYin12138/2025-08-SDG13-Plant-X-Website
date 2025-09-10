@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2281,
+      "species_id": 938,
+      "common_name": "aristea",
+      "scientific_name": [
+        "Aristea platycaulis"
+      ],
+      "section": [
+        {
+          "id": 7048,
+          "type": "watering",
+          "description": "Aristea (Aristea platycaulis) is a perennial plant that prefers moist, well drained soils in either full sun or partial shade. Water regularly during dry periods, allowing the soil to dry out between waterings. Water deeply and thoroughly but avoid overwatering, as root rot may occur with too much moisture. A general guideline for watering would be to give it a deep watering every 7-10 days during the summer, and twice a month during the winter months."
+        },
+        {
+          "id": 7049,
+          "type": "sunlight",
+          "description": "Aristea platycaulis requires at least 7-8 hours of direct sunlight each day in order to thrive. This type of plant should not be kept in a shady spot, as it will not get enough sunlight for growing and blooming. During the summer months, when the days are longer, it should receive full sun all day long. In the winter months, when the days are shorter, it should get morning sun but should be shielded from direct sun in the afternoon to prevent damage from excessive heat. It should also never be placed in direct sunlight at midday, as the light is too harsh for this plant species."
+        },
+        {
+          "id": 7050,
+          "type": "pruning",
+          "description": "Aristea platycaulis, which is commonly known as Aristea, is typically a slow-growing perennial evergreen with attractive blue-green leaves. Pruning for this plant species should take place in early spring to encourage new growth. It is important to prune with caution and only remove dead stems and ‘leggy’ growth. Pruning should be done sparingly, removing only a few branches at a time, avoiding the removal of too much of the plant’s growth. Pruning of the foliage should be done with care, using pruners be softened by soaking in rubbing alcohol. Avoid using pruners which were previously used on other species than Aristea since this can transfer fungal pathogens to the plant. As a general guide, pruning should be done when the leaves are still partially green and moist. Pruning should also be done lightly once every 2 or 3 years to ensure the Aristea trails and grows to its fullest potential."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

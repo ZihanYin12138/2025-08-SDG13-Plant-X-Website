@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2268,
+      "species_id": 919,
+      "common_name": "strawberry tree",
+      "scientific_name": [
+        "Arbutus unedo 'Oktoberfest'"
+      ],
+      "section": [
+        {
+          "id": 7009,
+          "type": "watering",
+          "description": "The strawberry tree (Arbutus unedo 'Oktoberfest') should be watered deeply once per week, providing 1 to 2 inches of water in the summer months and 1 inch of water in the winter months. During periods of drought, the tree can benefit from an additional 1 to 2 inches of water per week. As with most plants, it's better to provide the water slowly over a few hours, rather than all at once. The soil around the strawberry tree should be allowed to dry out between waterings."
+        },
+        {
+          "id": 7010,
+          "type": "sunlight",
+          "description": "Strawberry tree (Arbutus unedo 'Oktoberfest\") requires at least 6-8 hours of direct sunlight per day to thrive. During summer months, the tree should receive full sun in the morning and late afternoon while avoiding the strongest hours of direct sunlight in the afternoon. In winter, when the days are much shorter, the oktoberfest arbutus should receive a good amount of sun throughout the day, preferably morning sun, in order to keep it healthy and promote blooms."
+        },
+        {
+          "id": 7011,
+          "type": "pruning",
+          "description": "Strawberry tree (Arbutus unedo 'Oktoberfest') is best pruned in late winter or early spring. Pruning should be done gradually over a 3-4 year period to maintain the plants’ natural shape and promote thicker foliage. Pruning should be minimal overall; remove no more than 1-third of the plant’s canopy in any year. Remove dead, damaged, and diseased branches, as well as branches that are too close together. Pruning should focus on maintaining an even canopy of young shoots to promote good air circulation and minimize pest and disease problems. Thin out small branches and shoots that cross each other and also those that appear congested."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

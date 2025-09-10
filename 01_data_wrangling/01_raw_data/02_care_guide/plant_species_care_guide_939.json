@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2282,
+      "species_id": 939,
+      "common_name": "birthwort",
+      "scientific_name": [
+        "Aristolochia clematitis"
+      ],
+      "section": [
+        {
+          "id": 7051,
+          "type": "watering",
+          "description": "Birthwort prefers consistently moist soils and should be watered whenever the top few inches of soil feel dry to the touch. Water deeply and thoroughly until the water drains from the bottom of the container. Allow the soil to dry out slightly between waterings and avoid keeping the soil soggy since this can lead to root rot. It's also important to avoid overwatering, as too much water can drown the roots of your plant. Likewise, water only when the plant needs it – excessive watering will lead to root rot and poor growth."
+        },
+        {
+          "id": 7052,
+          "type": "sunlight",
+          "description": "Birthwort (Aristolochia clematitis) requires 6 to 8 hours of full sun each day for optimal health and growth. While this plant is tolerant of partial shade, full sunlight will help it to develop rich leaf color and bloom its beautiful fragrant flowers. While morning sun is preferable, late afternoon sun can also work, though ideally both should be provided. On hot summer days, the plant should be given some afternoon shade in order to protect it from extreme heat. If grown indoors, the plant should be placed in a south facing window so it can receive the maximum amount of light."
+        },
+        {
+          "id": 7053,
+          "type": "pruning",
+          "description": "Birthwort should be pruned at least once a year in early spring before new growth begins. Pruning should involve removing any dead or diseased branches, and also any new shoots that are growing outside the typical shape of the shrub. Pruning can also be done to keep the plant a certain size and shape. Be sure to make cuts just above a node or leaf bud and use sharp pruning shears to ensure clean cuts. In general, avoid pruning more than a third of the plant at once."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

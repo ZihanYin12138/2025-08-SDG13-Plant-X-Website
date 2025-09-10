@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2277,
+      "species_id": 932,
+      "common_name": "arisaema",
+      "scientific_name": [
+        "Arisaema kiushianum"
+      ],
+      "section": [
+        {
+          "id": 7036,
+          "type": "watering",
+          "description": "Arisaema kiushianum should be watered regularly and deeply while the soil is still damp (not soggy). Water the plant thoroughly when the top 2 to 3 inches of soil becomes dry. The frequency of watering depends on temperature and humidity levels and the pot size, but you should typically water every 2 to 4 days in warm months and every 4 to 7 days in colder months. Check the soil moisture regularly and ensure it never completely dries out or becomes waterlogged. Avoid using saucers beneath the pots as they can lead to excessive moisture."
+        },
+        {
+          "id": 7037,
+          "type": "sunlight",
+          "description": "Arisaema kiushianum plants prefer bright, indirect light and thrive in areas where they are receiving a few hours of direct sunlight each day. This means that they should be placed in south or east-facing areas where they will get the sun for around 3 to 4 hours in the morning. To identify whether the location is adequate for the plant, observe how much light is hitting it during the day. If the plant remains slightly shadowed, it is receiving the correct amount of sunlight. If it is in full sunlight, then it may require more shade or the sunlight should be filtered through a curtain or other covering."
+        },
+        {
+          "id": 7038,
+          "type": "pruning",
+          "description": "Arisaema plants, like most other plants, should be pruned as needed to maintain their desired size and shape. Pruning should be done in the late winter or early spring when the plant is dormant. starts to break dormancy. Make sure to never prune more than 1-third of a plant’s branches or stems at any time. When pruning, cut off any damaged or dead growth, crossing branches, and remove suckers that may be coming up from the soil. After pruning, apply fertilizer and compost to help the plant recover. Allow the flower shoots to remain so they can flower in the spring."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

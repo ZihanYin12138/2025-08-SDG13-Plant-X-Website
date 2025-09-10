@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 603,
+      "species_id": 988,
+      "common_name": "breadfruit",
+      "scientific_name": [
+        "Artocarpus altilis"
+      ],
+      "section": [
+        {
+          "id": 1812,
+          "type": "watering",
+          "description": "Breadfruit should be watered regularly during active growth and less frequently during its dormancy. Water thoroughly once a week, allowing the soil to dry out partially in between waterings. During the winter months, water less frequently and always be sure not to overwater; soggy soil conditions can cause root rot. Breadfruit enjoys humidity and high temperatures, so misting the leaves and providing adequate ventilation is also important."
+        },
+        {
+          "id": 1813,
+          "type": "sunlight",
+          "description": "For a plant species called breadfruit (Artocarpus altilis), the optimal amount of sunlight is 6-10 hours per day. Breadfruit is considered a tropical tree native to the South Pacific, so it is preferable that it receives direct sunlight in full for a majority of its light exposure. Partial shade for periods of time throughout the day is also okay, as it can help the plant prevent sunburn. When it comes to when the sunlight should be received, it's ideal for breadfruit to receive the light in the morning so that it can store up energy throughout the day, which is especially important when the temperatures rise late in the day."
+        },
+        {
+          "id": 1814,
+          "type": "pruning",
+          "description": "Breadfruit should typically be pruned once or twice a year. Pruning should occur in late winter (February or March) and late summer (August or September). During pruning, thin out and prune back any overgrown branches to promote strong growth, remove any dead or diseased branches, and shape the plant if desired. Pruning is essential to maintain the breadfruit’s health and aesthetic."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

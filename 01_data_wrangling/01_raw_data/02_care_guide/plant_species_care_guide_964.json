@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2303,
+      "species_id": 964,
+      "common_name": "black chokeberry",
+      "scientific_name": [
+        "Aronia melanocarpa 'Ground Hug'"
+      ],
+      "section": [
+        {
+          "id": 7114,
+          "type": "watering",
+          "description": "It is important to water your black chokeberry (Aronia melanocarpa 'Ground Hug') regularly to ensure it thrives. During the growing season, the plant needs to be watered deeply once a week, so about 1 inch of water should be applied. The soil should never be allowed to dry out completely, so soil moisture should be monitored frequently. During periods of extreme heat or drought, the plant will need more frequent watering. In the winter months, the watering should be reduced, with only occasional and very shallow watering necessary. "
+        },
+        {
+          "id": 7115,
+          "type": "sunlight",
+          "description": "Black chokeberry (Aronia melanocarpa 'Ground Hug') should receive full sunlight for at least 4 to 6 hours per day. This plant species will grow best when planted in an area that receives direct sunlight during the morning hours and a few hours of direct sunlight during the afternoon hours. When grown in partial shade, it may produce fewer and smaller fruits. A well-drained sandy or loamy soil is best for this plant species. When grown in soils with lower fertility, fertilizer may be necessary to maintain healthy growth and vigor."
+        },
+        {
+          "id": 7116,
+          "type": "pruning",
+          "description": "Black chokeberry (Aronia melanocarpa 'Ground Hug') should be pruned right after flowering or late winter after a period of dormancy. Pruning should be minimal, with only dead or crossing branches removed. By thinning the canopy, sunlight will be able to reach the inner branches for better flowering and fruiting. If possible, reduce the number of branches by about 1-third to promote strong growth. To maintain good form and size, pruning should be done annually."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

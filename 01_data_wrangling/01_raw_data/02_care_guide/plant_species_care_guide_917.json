@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2266,
+      "species_id": 917,
+      "common_name": "Norfolk Island pine",
+      "scientific_name": [
+        "Araucaria heterophylla"
+      ],
+      "section": [
+        {
+          "id": 7003,
+          "type": "watering",
+          "description": "Norfolk Island pine (Araucaria heterophylla) needs to be watered once or twice a week. Water thoroughly and let the soil dry completely between watering. These plants prefer moist, well-drained soil, so water just enough to allow your soil to stay lightly moist. During the summer, water more frequently and during the winter, water only when the soil starts to dry out. Be careful not to over-water the plant, as this can lead to root rot."
+        },
+        {
+          "id": 7004,
+          "type": "sunlight",
+          "description": "Norfolk Island pine thrives in a sunny location with at least 6-8 hours of direct sunlight a day. This species does best in a bright, airy spot that is sheltered from strong winds. Planting in an area with morning and early afternoon sun is ideal. While it will tolerate some shade, the plant may not reach its full potential in that situation. It is best avoided in full shade."
+        },
+        {
+          "id": 7005,
+          "type": "pruning",
+          "description": "Norfolk Island pine should be lightly pruned any time from late spring through early fall. Avoid pruning during the winter months. When pruning, remove all dead and weak branches that could be obstructing other branches. Take care to cut branches back to their point of origin on the trunk or to an existing lateral branch. Cut off the tips of the new shoots to promote a nice, dense growth habit. Pruning should be kept to a minimum, since excessive pruning can create an unsightly form and reduce the plant’s vigor."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

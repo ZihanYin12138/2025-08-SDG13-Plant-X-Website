@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2264,
+      "species_id": 914,
+      "common_name": "American spikenard",
+      "scientific_name": [
+        "Aralia racemosa"
+      ],
+      "section": [
+        {
+          "id": 6997,
+          "type": "watering",
+          "description": "American spikenard should be watered approximately every 5-7 days, depending on the season, planter, and temperature. In general, during the spring and summer months, more frequent watering may be needed with this plant species, as the soil becomes dry faster in warm weather. During the colder months, such as in the fall and winter, less frequent watering is needed as the soil can remain wet for longer. Ensure to check between waterings to ensure that the top few inches of soil are dry before watering, as overwatering can occur if the soil is already saturated. "
+        },
+        {
+          "id": 6998,
+          "type": "sunlight",
+          "description": "American spikenard (Aralia racemosa) needs 4 to 6 hours of direct sunlight every day to thrive and flower properly. It performs best in partial sun or in bright, indirect sunshine for most of the day. During the hottest part of the day, when temperatures reach above 85°F, it should be protected from the scorching sun and provided with some shade. This sun-loving species prefers full sunlight in the mornings and late afternoons or partial sun throughout the day."
+        },
+        {
+          "id": 6999,
+          "type": "pruning",
+          "description": "American spikenard (Aralia racemosa) should be pruned twice a year to encourage growth and flowering. The first pruning should take place in early spring, after the ground has thawed and any threat of frost has passed. Prune off any dead, damaged, or diseased wood. Next, remove any branches that cross over, as well as any that are growing inwards. Thin out overly dense areas to open up the canopy.\n\nThe second pruning should occur in late summer, sometime between August and September. Thin out overly dense areas again, and remove any dead or damaged branches. Cut off any spent flower heads, but leave the dried seed heads for winter interest. Also, prune out any twiggy growth and unruly vines. When pruning, make sure not to cut more than 1-third of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

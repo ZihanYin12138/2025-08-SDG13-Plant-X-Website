@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1025,
+      "species_id": 956,
+      "common_name": "great Indian plantain",
+      "scientific_name": [
+        "Arnoglossum reniforme"
+      ],
+      "section": [
+        {
+          "id": 3076,
+          "type": "watering",
+          "description": "Great Indian plantain (Arnoglossum reniforme) should be watered deeply every 7-10 days, providing about 1-2 inches of water per watering. If the soil dries out before that time, water more frequently. Make sure to water the plant only when the soil is dry to the touch, as overwatering can cause root rot. For optimal growth, water this perennial plant during the growing season, as it is not drought tolerant."
+        },
+        {
+          "id": 3077,
+          "type": "sunlight",
+          "description": "The Great Indian Plantain (Arnoglossum reniforme) requires full sun for optimal growth. It prefers an average of 6-8 hours of sun per day, with the most intense period of lighting in the early morning hours. It should also be protected from strong winds and direct afternoon sunlight. In areas with warm climates, shade can be provided in the afternoon to protect and prolong the life of the plant. The Great Indian Plantain is a hardy species and will appreciate the sun as long as it is not too intense."
+        },
+        {
+          "id": 3078,
+          "type": "pruning",
+          "description": "Great Indian plantain (Arnoglossum reniforme) should be pruned once annually in the late spring or early summer when there is an increase in the growth of new stems and leaves. Pruning should start when the plant is young and continue as the plant grows and matures. Pruning should include removal of any dead, broken, or overgrown stems as well as thinning out dense areas. Prune off any flower stems that develop to prevent the plant from self-seeding. The amount of pruning depends on the individual plant's shape and desired size, but should generally be minimal."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

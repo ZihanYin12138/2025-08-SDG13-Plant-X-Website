@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2263,
+      "species_id": 913,
+      "common_name": "Japanese spikenard",
+      "scientific_name": [
+        "Aralia cordata 'Sun King'"
+      ],
+      "section": [
+        {
+          "id": 6994,
+          "type": "watering",
+          "description": "Japanese spikenard (Aralia cordata 'Sun King') prefers to be watered deeply, about once a week, or when the soil begins to feel dry to the touch. When watering, make sure to thoroughly soak the soil to a depth of 8-12 inches. Avoid over watering, as this can cause root rot and other issues. During periods of extreme heat, you should water Japanese spikenard (Aralia cordata 'Sun King') more frequently. Check the soil every couple days and if it feels dry, water until the soil is damp but not soggy."
+        },
+        {
+          "id": 6995,
+          "type": "sunlight",
+          "description": "Japanese spikenard (Aralia cordata 'Sun King') requires partial to full sunlight for optimum growth and health. It prefers to be grown in locations that receive at least 6-8 hours of sunlight during the day, with additional protection from wind and direct afternoon sun. When grown in full sunlight, they should be watered more often to avoid drying out. Additionally, the soil should be kept consistently moist."
+        },
+        {
+          "id": 6996,
+          "type": "pruning",
+          "description": "Japanese spikenard (Aralia cordata 'Sun King') should be pruned after bloom, typically during late summer. To keep the shrub manageable, prune shoots that spoil the shape of the shrub (those that are too tall, too wide, or crossing over) to the desired size. Remove dead, diseased, or damaged wood throughout the season. Prune back the long sucker shoots that emerge from the roots to keep the shrub from spreading too much. With proper pruning, Japanese spikenard can be kept to a height of around 4 feet (1.2 m). Remove stems that have bloomed and any suckers that emerge from the roots."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

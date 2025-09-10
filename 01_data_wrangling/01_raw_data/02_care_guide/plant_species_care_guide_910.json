@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2260,
+      "species_id": 910,
+      "common_name": "arachnoides",
+      "scientific_name": [
+        "Arachniodes simplicior 'Variegata'"
+      ],
+      "section": [
+        {
+          "id": 6985,
+          "type": "watering",
+          "description": "Arachnoides (Arachniodes simplicior 'Variegata') likes to grow in moist soil, but it is important not to over water it. During the warmer months of spring and summer, water when the top 2-3” (5-8 cm) of soil has dried out. The soil should be kept consistently moist with regular watering but never soggy. During the cooler months of fall and winter, reduce watering, allowing the top 2-3” (5-8 cm) of soil to dry out before replenishing it with water. In addition, if your Arachnoides grows in a container, check to make sure that the soil is not completely drying out before watering, as the lack of an adequate water reserve will severely stress the plant."
+        },
+        {
+          "id": 6986,
+          "type": "sunlight",
+          "description": "The Arachniodes simplicior 'Variegata' plant requires part sun to full shade in order to thrive. It prefers moist, well-drained soil and should be watered regularly. When grown in full sun, this plant should receive 6-8 hours of sunlight each day. When grown in partial shade, it should receive 3-4 hours of direct sunlight each day. Ideally, the plant should receive morning sun and afternoon shade, as too much direct, mid-day light can result in scorched foliage. During winter, it should be kept in the lightest possible position within the house."
+        },
+        {
+          "id": 6987,
+          "type": "pruning",
+          "description": "Arachnoides simplicior 'Variegata' should be pruned in late winter or early spring before new growth begins. Pruning should be moderate – removal of dead, diseased, or damaged branches, and cutting back of shoots that have outgrown their area of the plant. Trim off any lower branches to encourage upward growth, or to create a stronger framework of branches. Conversely, pruning should be minimal if you desire a more natural shape or want to keep the plant at a certain size. No pruning at all is an option for several years or permanently."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

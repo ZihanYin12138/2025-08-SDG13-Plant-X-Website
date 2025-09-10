@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2302,
+      "species_id": 963,
+      "common_name": "black chokeberry",
+      "scientific_name": [
+        "Aronia melanocarpa 'Professor Ed'"
+      ],
+      "section": [
+        {
+          "id": 7111,
+          "type": "watering",
+          "description": "Water your black chokeberry (Aronia melanocarpa 'Professor Ed') once a week in the summer and every 2 to 3 weeks in the winter. Water deeply, saturating the soil until water begins to come out of the bottom of the pot. Avoid overwatering by only adding water if the upper 2 inches (5 cm) of soil feels dry. During prolonged periods of extreme hot weather, water more often to ensure adequate soil moisture."
+        },
+        {
+          "id": 7112,
+          "type": "sunlight",
+          "description": "Black chokeberry (Aronia melanocarpa 'Professor Ed') prefers full sun, meaning 6 to 8 hours of sunlight each day. This is the optimum amount for this plant species; any less can result in poor growth and bloom production. During the summer months, this plant prefers sustained direct sunlight, but during spring and fall it can benefit from some light protection from the harsh summer sun. For this reason, it's important to choose a planting location carefully, making sure it will receive the desired amount of sunlight."
+        },
+        {
+          "id": 7113,
+          "type": "pruning",
+          "description": "Aronia melanocarpa 'Professor Ed' should be pruned annually in early spring or late winter, before new growth appears. Focus on removing any diseased, dead, or damaged branches, as well as any crossing branches. In addition, thin out shoots (no more than 1-third of the branches) to create an open clump shape and to promote air circulation. Non-fruiting branches may be removed to encourage larger fruit size. Lastly, any suckers at the base of the plant should be removed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

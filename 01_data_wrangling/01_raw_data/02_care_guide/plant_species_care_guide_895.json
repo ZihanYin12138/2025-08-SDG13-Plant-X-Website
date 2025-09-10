@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2248,
+      "species_id": 895,
+      "common_name": "columbine",
+      "scientific_name": [
+        "Aquilegia viridiflora 'Chocolate Soldier'"
+      ],
+      "section": [
+        {
+          "id": 6949,
+          "type": "watering",
+          "description": "Columbine (Aquilegia viridiflora 'Chocolate Soldier') plants enjoy moist but well-drained soils. Water the plant thoroughly when the top inch of soil has dried out. Generally, this means watering the plant once or twice a week during the growing season. Reduce the amount of water towards the end of summer and stop watering altogether in winter. Established plants rarely need to be watered. Too much water can rot the roots of the columbine, so take care when watering to avoid overwatering."
+        },
+        {
+          "id": 6950,
+          "type": "sunlight",
+          "description": "Columbine (Aquilegia viridiflora 'Chocolate Soldier') prefers full sun to partial shade, but will tolerate some shade. Newer varieties are more tolerant of full sun than older varieties. For best blooms, ensure the plant gets at least 4 to 5 hours of direct sunlight per day. When grown indoors or in other areas of low light, use supplemental grow lights to meet the light requirements of this plant species."
+        },
+        {
+          "id": 6951,
+          "type": "pruning",
+          "description": "Columbine (Aquilegia viridiflora 'Chocolate Soldier') should be pruned in late winter or early spring, once the flowering has finished. To prune, cut back the tallest stems to the desired height, which should leave about 1 third of the plant intact. Removing the seedheads will also help keep the plant tidy and avoid unwanted self-seedings. Pruning can also be done as needed throughout the growing season; deadheading spent flowers and removing any diseased or damaged stems. This will help encourage more flowering throughout the season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

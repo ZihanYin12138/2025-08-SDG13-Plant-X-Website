@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2315,
+      "species_id": 983,
+      "common_name": "wormwood",
+      "scientific_name": [
+        "Artemisia 'Tiny Green'"
+      ],
+      "section": [
+        {
+          "id": 7150,
+          "type": "watering",
+          "description": "Wormwood (Artemisia 'Tiny Green') is a drought-tolerant perennial shrub and requires relatively little watering. It is best to water it deeply, less frequently rather than shallowly and more often. During the summer months, when the soil feels dry to touch, water it deeply once a week. During cooler parts of the year, such as Spring and Autumn, water every 2 weeks is usually enough. During winter, water once a month. Ensure good drainage and do not leave the plant too wet for long periods of time."
+        },
+        {
+          "id": 7151,
+          "type": "sunlight",
+          "description": "Wormwood (Artemisia 'Tiny Green') can be placed in an area that gets full sun to partial shade. During the summer months, it should receive direct sunlight for at least 6-8 hours a day. In the winter months, it can tolerate less sunlight, but no less than 5 hours a day. Wormwood grows best in conditions that provide bright, indirect sunlight. Avoid any areas that receive direct afternoon sunshine, as too much sunlight can damage the plant’s delicate foliage. It can help to place a sheer curtain over your windows or door to diffuse the intensity of light, which will prevent the leaves from getting burned or scorched."
+        },
+        {
+          "id": 7152,
+          "type": "pruning",
+          "description": "It is best to prune Artemisia 'Tiny Green' wormwood during the late spring or early summer. Prune the stems back to the ground when the plants become overcrowded or after the flowering has ended. If needed, you can also trim it back to the desired shape. When possible, prune only dead and faded growth to maintain the flavor and appearance of the foilage. Cutting back to 12 to 18 inches is recommended to keep plants vigorous and healthy. If pruning severely, several staggered cuts should be made on older stems to stimulate new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

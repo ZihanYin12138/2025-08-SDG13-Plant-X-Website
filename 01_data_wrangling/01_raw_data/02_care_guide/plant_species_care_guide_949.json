@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2290,
+      "species_id": 949,
+      "common_name": "sea thrift",
+      "scientific_name": [
+        "Armeria maritima 'Rubrifolia'"
+      ],
+      "section": [
+        {
+          "id": 7075,
+          "type": "watering",
+          "description": "Sea Thrift (Armeria maritima 'Rubrifolia') does best when kept on the dry side. Water this plant weekly or as needed to keep the soil lightly moist, but be sure to empty the saucer of standing water. Allow the top layer of soil to dry between waterings. Sea Thrift can survive long periods of drought, but too much moisture can lead to root rot. It should not need to be watered during the winter months when it is dormant."
+        },
+        {
+          "id": 7076,
+          "type": "sunlight",
+          "description": "Sea thrift (Armeria maritima 'Rubrifolia') is a perennial plant that prefers full sun and well-drained soil. It generally needs 6 to 8 hours of direct sunlight each day in order to thrive. However, it can tolerate partial shade if necessary. If planted in shady areas, however, it is less likely to bloom as freely as it would in a sunny location. During the hottest summer months, it may appreciate some partial shade during the late afternoon and evening hours. In order for it to make the most of its full sun position, it should be placed in a south- or west-facing garden. This will ensure it receives the most sun during the day."
+        },
+        {
+          "id": 7077,
+          "type": "pruning",
+          "description": "Sea thrift should be pruned twice a year: once in late spring and once in late summer. For the late spring pruning, trim back the stems by up to 1-third. For the late summer pruning, cut the tips of each stem back by about 1 third. This will prevent the plants from becoming straggly and overgrown. If the plants become overgrown, trim them further until they reach the desired size. Doing this regularly will also help to encourage bushier, more attractive growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

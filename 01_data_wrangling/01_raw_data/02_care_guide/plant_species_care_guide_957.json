@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2297,
+      "species_id": 957,
+      "common_name": "chokeberry",
+      "scientific_name": [
+        "Aronia arbutifolia"
+      ],
+      "section": [
+        {
+          "id": 7096,
+          "type": "watering",
+          "description": "Chokeberry (Aronia arbutifolia) thrives in moist to wet soil conditions and needs regular watering to remain healthy. Water newly planted chokeberry plants deeply and often enough to keep the roots moist, gradually reducing water to once a week after the root system is established. During periods of drought, water mature chokeberry plants deeply every 7 to 10 days. Avoid overwatering chokeberry plants as the roots are prone to rot. In the winter months, water only when temperatures get above 45 degrees F and the soil is dry several inches down."
+        },
+        {
+          "id": 7097,
+          "type": "sunlight",
+          "description": "Chokeberry (Aronia arbutifolia) thrives best in full sun, with at least 6 to 8 hours of direct sunlight every day. A sunny spot with morning or evening shade is ideal, but too much shade can reduce the plant’s robustness and fruit production. The best sun exposure for chokeberry will vary depending on the region and climate, so it is important to consider your local conditions when selecting a spot for planting chokeberry. As a general rule, the more intense the sunlight is during the peak hours of the day (mid-morning to late afternoon), the better results you’ll get."
+        },
+        {
+          "id": 7098,
+          "type": "pruning",
+          "description": "Chokeberry (Aronia arbutifolia) should be pruned twice a year; once in late winter and again in early summer. Late winter pruning should focus on removing dead or dying branches, any crossing branches, and any narrow-angled crotches. This can help to improve air circulation and promote better branching. Early summer pruning should focus on thinning out the interior of the plant to encourage more lateral growth. This should be done just after the flowers fade to avoid removing potential fruit-bearing branch tips. Depending on the size of the plant, no more than 25-50% of the total growth should be removed. This should help to keep the plant healthy and able to reach its full potential."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

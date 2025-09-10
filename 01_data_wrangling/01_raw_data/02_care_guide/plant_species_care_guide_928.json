@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2274,
+      "species_id": 928,
+      "common_name": "prickly poppy",
+      "scientific_name": [
+        "Argemone polyanthemos"
+      ],
+      "section": [
+        {
+          "id": 7027,
+          "type": "watering",
+          "description": "Prickly poppy should be watered deeply every 10-14 days during the hotter months of summer and more frequently in the peak of summer. Water thoroughly and evenly around the entire root area. Allow the soil to dry out between waterings in order to keep the plant healthy. Avoid overwatering as this can lead to root rot. During the colder months of winter, reduce waterings to once a month or less."
+        },
+        {
+          "id": 7028,
+          "type": "sunlight",
+          "description": "Prickly poppy plants require full sun to partial shade, and receive direct sunlight for approximately 6-8 hours a day. It is important to note that this is a desert native so it should be grown in an area with plenty of natural light. In hotter climates, shade during the hottest part of the day is ideal. The plant is drought tolerant and a lack of water won’t affect the growth if the soil is well-draining. Frequent irrigation is not necessary for this plant species and it will tolerate dry periods better than wet spells."
+        },
+        {
+          "id": 7029,
+          "type": "pruning",
+          "description": "Prickly poppy can be pruned in late summer or early fall, once the flowering period has ended. Pruning should be done by cutting back the stems to an inch or 2 above the base, since all the buds form near the base of the stems. This will encourage the regrowth of new stems and flowers in the following year. Pruning should also be done in moderation, to avoid leaving the plant with only a few bare stems and to ensure that the plant retains a good shape. Removing any dead or damaged stems is also important to make sure that the plant remains healthy and disease-free."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

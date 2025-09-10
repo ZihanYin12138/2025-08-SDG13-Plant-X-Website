@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 144,
+      "species_id": 933,
+      "common_name": "arisaema",
+      "scientific_name": [
+        "Arisaema serratum"
+      ],
+      "section": [
+        {
+          "id": 1010,
+          "type": "watering",
+          "description": "Arisaema, specifically Arisaema serratum, will generally require regular watering when planted outside. During the first growing season, ensure the soil is kept evenly moist by providing 1 to 2 inches of water, either by rainfall or irrigation, per week. After the first growing season, water requirements can be reduced, and the soil should be kept lightly moist during the growing season, only providing water during extended periods of dry, hot weather. During the dormant season, watering can be reduced to once every 2-to-4 weeks. In general, be sure to avoid overwatering and underwatering to ensure the health of this plant species."
+        },
+        {
+          "id": 1011,
+          "type": "sunlight",
+          "description": "Arisaema plants require 4-6 hours of direct sunlight a day and should be placed in a part of the garden where they can receive morning and afternoon direct sunlight on a daily basis. They will thrive in an area with morning sun and afternoon shade, or vice versa, depending on their local climate. Avoid full afternoon sun in warm climates to prevent scorching of the leaves. Too much sun with low soil moisture can cause scorching, yellowing of foliage and other damage. In the short days of winter, avoid direct sun all day. Arisaema care includes giving them some light shade in the afternoon or placing the pot in a different area, such as a balcony or terrace."
+        },
+        {
+          "id": 1012,
+          "type": "pruning",
+          "description": "Arisaema triflorum usually requires minimal pruning. The best time to prune is during the late fall or early spring season when the plant is dormant. Prune back any dead, damaged, or diseased foliage and stems using clean, sharp pruners. Cut away any hollow stems as these are prone to breakage when the plant reaches maturity. Overly tall and lanky stems can be cut back to encourage continued growth in a fuller, bushier shape. Old foliage should also be removed in order to shore up root energy and allow for more vigorous re-growth in the spring. Remove any seed heads that have harvested if it is desirable to prevent self-seeding."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

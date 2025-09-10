@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2296,
+      "species_id": 955,
+      "common_name": "pale Indian plantain",
+      "scientific_name": [
+        "Arnoglossum atriplicifolium"
+      ],
+      "section": [
+        {
+          "id": 7093,
+          "type": "watering",
+          "description": "The Pale Indian Plantain should be watered twice a week during its active growing season (April to October). During this time, the plant should be watered deeply enough to moisten the soil completely. Allow the surface of the soil to dry out partially between waterings so that the plant is not sitting in overly moist soil. During the winter months, reduce the frequency of watering significantly. The Pale Indian Plantain should receive only enough water to keep the soil from drying out completely."
+        },
+        {
+          "id": 7094,
+          "type": "sunlight",
+          "description": "The pale Indian plantain (Arnoglossum atriplicifolium) is native to eastern North America and loves full sun exposure. For optimal growth, this plant should be placed in a spot that receives 6 to 10 hours of direct sunlight each day during the growing season. During the spring and summer, when days are longer, 14 hours of direct sunlight per day is ideal. It should be noted, however, that the pale Indian plantain has some tolerance for partial shade and can tolerate more sun if the temperature is kept cooler or does not rise above 90°F."
+        },
+        {
+          "id": 7095,
+          "type": "pruning",
+          "description": "Pale Indian plantain (Arnoglossum atriplicifolium) should be pruned twice a year: once in the early spring, and then again in the late summer. In early spring, the plant should be cut back to about half its height to encourage a bushier, fuller shape. This will also help remove any dead growth from the previous year. In late summer, the plant can be lightly pruned to encourage any remaining blooms, remove any old growth, and help with air circulation. It is important to avoid excessive pruning, which can significantly reduce the health and vitality of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
