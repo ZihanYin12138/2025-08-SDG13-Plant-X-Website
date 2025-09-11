@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2403,
+      "species_id": 1086,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Radius'"
+      ],
+      "section": [
+        {
+          "id": 7414,
+          "type": "watering",
+          "description": "Astilbe 'Radius' should be watered once a week in order to maintain moist soil. When watering, it is best to thoroughly soak the soil until water is flowing out of the bottom of the pot. Allow the soil to dry out slightly between each watering. Be careful not to overwater, as this can cause root rot. For best results, apply a liquid fertilizer every couple of weeks during the growing season."
+        },
+        {
+          "id": 7415,
+          "type": "sunlight",
+          "description": "Astilbe 'Radius' prefers bright, indirect sunlight and should receive a minimum of 3 to 5 hours of sunlight per day. It should be receiving this sunlight around midday, mornings, or late afternoons. Direct sunlight for extended periods of time should be avoided. Morning light is preferable to afternoon light because late afternoon light will stress the plants and cause them to wilt."
+        },
+        {
+          "id": 7416,
+          "type": "pruning",
+          "description": "Astilbe 'Radius' should be pruned once a year in late autumn, after the foliage has died back but before the ground begins to freeze. Begin by cutting away any older, browned foliage using sharp shears or pruning scissors. Prune away any weak or damaged leaves and stems that look dead or diseased. After removing the dead vegetation, reduce the overall size of the plant by thinning out stems and cutting them back to the ground level. It is important not to over prune the plant; removing too much foliage can cause significant damage or even kill the plant. Once the plant has been pruned, add a layer of organic mulch, such as leaves or compost, to help protect the roots during the winter months."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

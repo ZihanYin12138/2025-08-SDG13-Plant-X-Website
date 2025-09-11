@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 622,
+      "species_id": 1025,
+      "common_name": "asparagus fern",
+      "scientific_name": [
+        "Asparagus densiflorus 'Sprengeri'"
+      ],
+      "section": [
+        {
+          "id": 1869,
+          "type": "watering",
+          "description": "Asparagus Ferns (Asparagus densiflorus 'Sprengeri') should be watered generously but not often. The best way to water your asparagus fern is by soaking the soil completely and then allowing the soil to dry slightly before watering again. You can expect to water your asparagus fern about once every 2 weeks in the summer and every 3 to 4 weeks in the winter. It is important to never let this plant sit in standing water or overly wet soil."
+        },
+        {
+          "id": 1876,
+          "type": "sunlight",
+          "description": "Asparagus Ferns (Asparagus densiflorus 'Sprengeri') require bright, indirect light, which means keeping them in front of a south-facing window. They should get 6 to 8 hours of sunlight each day. "
+        },
+        {
+          "id": 1883,
+          "type": "pruning",
+          "description": "Pruning for an asparagus fern (Asparagus densiflorus 'Sprengeri') should be done twice a year to keep the plant looking tidy. In spring, prune any stems that are showing signs of age or damage. Cut these stems at their base, removing any brown or dried foliage. In summer, take off any long stems to retain the fluffy shape of the fern. Be sure to sterilize both tools before and after use to prevent cross contamination of pests or diseases."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

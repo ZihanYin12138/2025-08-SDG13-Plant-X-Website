@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2370,
+      "species_id": 1051,
+      "common_name": "tartarian aster",
+      "scientific_name": [
+        "Aster tataricus"
+      ],
+      "section": [
+        {
+          "id": 7315,
+          "type": "watering",
+          "description": "Once established, Tartarian Asters require very low maintenance. Watering should be done when the soil begins to dry out. During hot, dry weather, it may be necessary to water weekly. Ensure the soil remains damp but not waterlogged. Reduce watering frequency during cold months and only water as needed. Provide plenty of water during the flowering period."
+        },
+        {
+          "id": 7316,
+          "type": "sunlight",
+          "description": "Tartarian aster native to parts of Central Asia, requires sunlight for at least 6-8 hours a day for optimal growth. It is important to find a spot with full sun exposure, as shade can cause poor germination or weak stem growth. While Tartarian aster prefers full sun, some subtle midday shade might be beneficial for an area with intense direct sunlight. If growing indoors, the aster should receive 10 or more hours of direct sunlight per day, either through direct sunlight or through artificial supplementation."
+        },
+        {
+          "id": 7317,
+          "type": "pruning",
+          "description": "Tartarian aster plants (Aster tataricus) should be pruned in early spring, when temperatures are still cool and the danger of frost has passed. Trim off any dead or damaged branches and shape the plant as needed. Pinching the new growth or cutting off the tips of the shoots can help to encourage branching and form a compact bush. After cutting back, fertilize the plant to promote new growth. In the summer, when the plant begins to flower, trim off any dead or wilted flowers to encourage reblooming. In the fall, cut the stem back to 6 to 8 inches, as this will help protect against winter damage. Additionally, the plant should be monitored for any disease or pest infestation and treated accordingly."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

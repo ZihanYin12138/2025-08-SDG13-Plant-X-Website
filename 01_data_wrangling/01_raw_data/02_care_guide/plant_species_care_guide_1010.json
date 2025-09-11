@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2335,
+      "species_id": 1010,
+      "common_name": "swamp milkweed",
+      "scientific_name": [
+        "Asclepias incarnata 'Cinderella'"
+      ],
+      "section": [
+        {
+          "id": 7210,
+          "type": "watering",
+          "description": "Swamp Milkweed generally prefers moist well-drained soil, but will tolerate drier soil provided it is watered regularly. Aim for watering the plant twice a week (or whenever the top inch or 2 of soil in the planting area feels dry). During dry and hot weather, it may be necessary to water the plant 3 times a week. Water slowly and deeply to encourage deep and strong root development."
+        },
+        {
+          "id": 7211,
+          "type": "sunlight",
+          "description": "Swamp milkweed needs approximately 6-8 hours of full sunlight per day to perform best. In midday, it can tolerate some partial shade. A location that receives direct sunlight in the morning and late afternoon is ideal. Drawback of too much shade can cause the plant to be weak and less likely to bloom. Thus, ensuring swamp milkweed is receiving enough direct sunlight is key to its success."
+        },
+        {
+          "id": 7212,
+          "type": "pruning",
+          "description": "Swamp milkweed (Asclepias incarnata 'Cinderella') should be pruned each year, starting in the early spring, before new growth begins. Pruning should be done back to the crown of the plant, leaving no more than 3 to 5 inches of the flower stalk. This allows the plant to spend its energy on new growth and flowers instead of flowering on the previous year’s stems. Deadheading the spent flowers can also promote more blooms. However, be mindful not to accidentally cut back the new growth, as it is needed for new blooms. After pruning, be sure to fertilize and water the plant. Pruning swamp milkweed helps to promote better airflow and reduces the potential for disease. Pruning should take place throughout the growing season, as needed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2320,
+      "species_id": 992,
+      "common_name": "goat's beard",
+      "scientific_name": [
+        "Aruncus aethusifolius"
+      ],
+      "section": [
+        {
+          "id": 7165,
+          "type": "watering",
+          "description": "Goat's beard (Aruncus aethusifolius) should be watered every 5-7 days during the growing season. During the warmer months, it's a good idea to check the soil moisture at least every other day, as the soil may dry out faster. When watering, use room temperature water and water thoroughly to keep the soil moist. Avoid wetting the foliage, as this may cause disease issues. During the winter, water less as the roots slow down their growth, only watering when the soil appears dry. Goats beard generally thrives very well in moist, humus-rich soils but it is not tolerant to standing water."
+        },
+        {
+          "id": 7166,
+          "type": "sunlight",
+          "description": "Goat's beard (Aruncus aethusifolius) thrives best in full sunlight or partial shade. For best growth and flowering performance, the plant should receive at least 4 to 5 hours of direct sunlight per day which can be in the form of morning or evening sun. Avoid deep shade or full midday sun which can cause leaf and flower burn. The light requirement for goat's beard can vary slightly depending on the climate they are grown in - generally more sun is needed in cooler climates, while some protection from intense heat and sun will be appreciated in hot climates."
+        },
+        {
+          "id": 7167,
+          "type": "pruning",
+          "description": "Goat's beard should be pruned twice per year for the best show of flowers. Prune it in early spring, just before new growth begins, and again in the late summer after flowering has finished. Prune it lightly in the spring by removing any dead or damaged branches and trimming back any overgrown stems. In late summer, clip any seed heads as you see them to encourage bushy growth and more flowers in the coming seasons. Do not overwater or overfeed the plant as this can result in weak, lanky stems."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2319,
+      "species_id": 991,
+      "common_name": "Italian arum",
+      "scientific_name": [
+        "Arum italicum subsp. italicum 'Marmoratum'"
+      ],
+      "section": [
+        {
+          "id": 7162,
+          "type": "watering",
+          "description": "Italian arum requires damp but not overly wet soil in order to flourish. During the summer months, it should be watered deeply once to twice a week, making sure that the soil has just enough water to moisten it without becoming soggy. During the winter months, water less often, making sure that the soil is just barely moist—once every 2 or 3 weeks should do it."
+        },
+        {
+          "id": 7163,
+          "type": "sunlight",
+          "description": "Italian arum (Arum italicum subsp. italicum 'Marmoratum') requires direct sunlight, or at least an area with full sun or partial shade. When grown in full sun, it will reach its fullest form and flower better. If it is grown in partial shade, the plant will still grow, but may not reach its maximum height. The best amount and time of day for sunlight for Italian arum is 8-10 hours of direct sunlight throughout the day, with the main sunlight hours being mid-morning to mid-afternoon."
+        },
+        {
+          "id": 7164,
+          "type": "pruning",
+          "description": "Italian arum is best pruned in early spring before any new growth begins. Pruning should remove any dead, diseased, or damaged stems, and leaving the remaining stems no longer than 6 inches. This allows for adequate air circulation throughout the plant, eliminates overcrowding, and also encourages bushy new growth. Additionally, removing older leaves can give the plant an attractive look with a neat appearance. If any flower heads remain after pruning, it is best to remove them as the Italian arum does not re-bloom after pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

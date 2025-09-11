@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2346,
+      "species_id": 1021,
+      "common_name": "whorled milkweed",
+      "scientific_name": [
+        "Asclepias verticillata"
+      ],
+      "section": [
+        {
+          "id": 7243,
+          "type": "watering",
+          "description": "Whorled milkweed (Asclepias verticillata) should be watered on a regular basis, typically about once a week or so. When watering, use lukewarm water and make sure that the soil is moistened to a depth of several inches. Allow the soil to dry out slightly between watering to prevent over-watering. During the growing season, the plant may require more frequent watering. It is important to monitor the soil moisture to ensure the right amount of water is being supplied. Too much water can drown the plant, while too little water will cause the leaves to start to curl and wilt."
+        },
+        {
+          "id": 7244,
+          "type": "sunlight",
+          "description": "Whorled Milkweed (Asclepias verticillata) grows best in full sun to partial shade, meaning it needs at least 6 hours of direct sunlight each day. On days when the sun is especially hot or cold, it may benefit from some protection against the elements. It prefers morning and mid-day sun, and should be kept out of the afternoon sun where possible. During the warmer months, it may require some shade to protect it from the midday sun. During the winter months, it will need full sun for better growth and increased flower production."
+        },
+        {
+          "id": 7245,
+          "type": "pruning",
+          "description": "When pruning whorled milkweed (Asclepias verticillata), it is important to prune lightly and only as needed. It should be pruned shortly after flowering, and again in late summer or early fall. When pruning, remove dead flowers, old stems, and any damaged or diseased growth. Remove any heavily branching stems to encourage the growth of longer, central stems. Pruning should be kept to a minimum though, as the plant will use resources to regrow any new or lost foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

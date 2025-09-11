@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2369,
+      "species_id": 1050,
+      "common_name": "aster",
+      "scientific_name": [
+        "Aster 'Little Carlow'"
+      ],
+      "section": [
+        {
+          "id": 7312,
+          "type": "watering",
+          "description": "Aster 'Little Carlow' should be watered gradually and deeply to establish a strong root system. Water whenever the top 2 inches of soil feel dry to the touch. If plant is in a container, water when the top 1 inch of soil feels dry. In hot or dry conditions, water more often. Avoid getting the foliage wet if possible to prevent fungal diseases."
+        },
+        {
+          "id": 7313,
+          "type": "sunlight",
+          "description": "Aster 'Little Carlow' is best grown in a location where it receives at least 4-6 hours of direct sunlight per day. Morning sun is preferable over afternoon sun as it provides the plant with energy for the rest of the day. The plant should be sheltered from strong winds to ensure full sun exposure and any shade trees should be located at least 5 feet (1.5 m) away to prevent shadows from reaching the plant. With proper sun exposure, this plant will thrive and develop its best colors and blooms."
+        },
+        {
+          "id": 7314,
+          "type": "pruning",
+          "description": "Aster 'Little Carlow' can be pruned after flowering for a neat and attractive plant. It should be cut back by up to a third in early spring, before the new growth emerges. This will encourage strong new growth, resulting in denser foliage and more abundant flowers the following year. Remove any dead or damaged stems and then lightly prune all of the remaining stems, cutting just above a node or leaf bud. As flowering finishes, old blooms should be cut away to prevent the formation of seedpods. This will also encourage more blooms. For a lush plant, aster 'Little Carlow' may need to be pruned again in late summer."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2357,
+      "species_id": 1037,
+      "common_name": "walking spleenwort",
+      "scientific_name": [
+        "Asplenium ebenoides"
+      ],
+      "section": [
+        {
+          "id": 7276,
+          "type": "watering",
+          "description": "Walking spleenwort should be watered regularly in well-draining soil with indirect sunlight. It should be watered once a week, approximately a cup of water per plant. In warm, dry weather, it may need to be watered twice a week. Avoid drowning the plants in water by ensuring the soil is completely dry between waterings. Walking spleenwort should not be allowed to sit in water and puddles should be avoided in order to prevent root rot. While walking spleenwort is a hardy plant, it benefits from being misted or watered from the top 2 or 3 times per week to increase humidity."
+        },
+        {
+          "id": 7277,
+          "type": "sunlight",
+          "description": "Walking spleenwort (Asplenium ebenoides) prefers partial shade or filtered sunlight with some direct sun each day. It does best with 3 to 4 hours of direct sun in the morning and 4 to 5 hours of direct sun in the afternoon, with a few hours of shade in the middle of the day. With too much sun exposure, its delicate, frond-like leaves may become scorched and discolored. It is best to place the plant in a protected location or choose a spot where the sun will be dappled or partially shaded with other trees or buildings."
+        },
+        {
+          "id": 7278,
+          "type": "pruning",
+          "description": "The walking spleenwort is best pruned in late winter or early spring (March or April). Pruning should be done sparingly, as this plant does not require a lot of amount of pruning to be healthy. Prune back any dead or decaying leaves, stems, and fronds to encourage new growth. Cut the stems back by about 1-third the size of the existing stem. Remove any damaged or withered leaves, but do not prune too much of the healthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

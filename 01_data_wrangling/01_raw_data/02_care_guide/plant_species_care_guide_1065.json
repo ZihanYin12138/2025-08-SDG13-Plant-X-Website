@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2384,
+      "species_id": 1065,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Burgunderrot' BURGUNDY RED"
+      ],
+      "section": [
+        {
+          "id": 7357,
+          "type": "watering",
+          "description": "Astilbe 'Burgunderrot' (Burgundy Red) is a spreading perennial plant that needs consistent moisture during hot summer months. This plant should be watered every 2-3 days with a deep watering that covers the entire root system. Aim for 1 inch of water per week and adjust more or less depending on local conditions and the plant's need. Lastly, make sure the soil drains well, or else the roots may rot."
+        },
+        {
+          "id": 7358,
+          "type": "sunlight",
+          "description": "Astilbe 'Burgunderrot' BURGUNDY RED prefers partial to full shade and does best in areas with 4-6 hours of direct sunlight each day. Direct morning sunlight is preferable, and afternoon shade is recommended as the intense heat of the day may damage the foliage. Placing this plant in a spot that gets some dappled light throughout the day is ideal for its health and growth."
+        },
+        {
+          "id": 7359,
+          "type": "pruning",
+          "description": "Early spring or late fall are optimal times for pruning Astilbe 'Burgunderrot' BURGUNDY RED. Pruning should be done gently and no more than a third of the growth should be removed. Pruning too far back can reduce blooming, so it's important to remove only the old, dead stalks and flower heads. On an Astilbe, cut back old flower stalks to the ground or just below the new foliage. This will encourage stronger sprouts and robust blooms in the following season. Remove any yellowing leaves any time of the year as needed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

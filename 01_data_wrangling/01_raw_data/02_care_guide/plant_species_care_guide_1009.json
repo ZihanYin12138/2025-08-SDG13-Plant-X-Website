@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2334,
+      "species_id": 1009,
+      "common_name": "swamp milkweed",
+      "scientific_name": [
+        "Asclepias incarnata"
+      ],
+      "section": [
+        {
+          "id": 7207,
+          "type": "watering",
+          "description": "Swamp milkweed should be watered well once a week, particularly during the spring and summer months when it is actively growing. During the cooler and drier months of autumn and winter, reduce the amount of water so the soil dries out slightly between watering. Avoid watering the plant too frequently, as this can cause root rot.\n\n"
+        },
+        {
+          "id": 7208,
+          "type": "sunlight",
+          "description": "Swamp milkweed (Asclepias incarnata) prefers full sun to partial shade. This plant prefers direct sunlight during the morning hours and some amount of shade in the afternoon. This will help protect the leaves from sunburn and reduce water loss through evaporation. In general, swamp milkweed needs at least 8 hours of direct sunlight each day to thrive. During the hottest summer months, it's best to provide some shade during the hottest hours of the day. It may also be advantageous to shelter swamp milkweed from strong winds, which could cause damage to the foliage."
+        },
+        {
+          "id": 7209,
+          "type": "pruning",
+          "description": "Swamp milkweed should be pruned in late winter or early spring, when the plant has gone dormant. Cut the stems to a height of 8\"-12\" (20-30 cm). Make sure to remove any dead or damaged leaves, stems, and seedheads. Prune your swamp milkweed plants into a bushy, neat mound. This will promote more flowers and fuller foliage. This species of Asclepias tolerates hard pruning and should be pruned to the ground if necessary."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

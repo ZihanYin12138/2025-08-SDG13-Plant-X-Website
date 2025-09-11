@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2347,
+      "species_id": 1022,
+      "common_name": "green milkweed",
+      "scientific_name": [
+        "Asclepias viridis"
+      ],
+      "section": [
+        {
+          "id": 7246,
+          "type": "watering",
+          "description": "Green milkweed should be watered twice a week. Ideally, the soil should be damp but never soggy. During the growing season it is important to keep the soil moist but not wet. During periods of extreme heat or drought, it is important to increase the frequency of watering to keep the soil slightly damp. Wilting or drooping leaves may be a sign of overwatering so be sure to adjust the watering schedule accordingly."
+        },
+        {
+          "id": 7247,
+          "type": "sunlight",
+          "description": "Green milkweed (Asclepias viridis) prefers bright, direct sunlight. This perennial plant grows best when it receives at least 6 to 8 hours of direct sunlight per day. When planting out this species, ensure that it is located in a sunny spot in the garden, where it will receive ample sunlight. In the warmer months, Green milkweed thrives when exposed to all-day sunshine. However, in cooler climates or at higher elevations, this plant may prefer to be in partial shade during the hottest part of the day."
+        },
+        {
+          "id": 7248,
+          "type": "pruning",
+          "description": "Green milkweed (Asclepias viridis) should be pruned only if needed, usually in late summer or early fall. This species of milkweed is a woody perennial so pruning should be done with caution. This includes removing any dead or diseased branches, as well as any stems or branches that cross and interfere with other growth. Keeping the plant tidy will encourage healthy growth. Additionally, you may want to selectively pinch or trim back back some of the growing tips on the stems or branches to control the size and shape of the plant. If green milkweed is grown as a specimen plant or for a particular shape, it may need to be pruned and shaped a few times during the growing season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2379,
+      "species_id": 1060,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe arendsii 'Beauty of Ernst' COLOR FLASH"
+      ],
+      "section": [
+        {
+          "id": 7342,
+          "type": "watering",
+          "description": "Astilbe (Astilbe arendsii 'Beauty of Ernst' COLOR FLASH) should be watered thoroughly every 5-7 days in the summer and every 10-14 days in the winter. During hot weather, it may even need to be watered more often. The soil should be kept evenly moist and never allowed to dry out completely. It's important to make sure the soil is draining well, as Astilbe doesn't tolerate soggy conditions. It's also a good idea to use a water meter to ensure the soil hasn't gone too dry between waterings."
+        },
+        {
+          "id": 7343,
+          "type": "sunlight",
+          "description": "Astilbe (Astilbe arendsii 'Beauty of Ernst' COLOR FLASH) prefers partial to full sun, with morning light being best. It should receive about 4 hours of morning sunlight per day, with some afternoon shade to protect it from the strong afternoon sun. If it gets too much sunlight, the leaves can become scorched, so ensure the proper balance for your Astilbe."
+        },
+        {
+          "id": 7344,
+          "type": "pruning",
+          "description": "For the Astilbe Arendsii 'Beauty of Ernst' COLOR FLASH, pruning should be done in the late winter or very early spring, before new growth appears. Prune out any dead, weak, damaged, or diseased stems. Shorten any remaining stems by 1-third of their original length. This will encourage the development of lateral branching which will create a fuller plant. Pinch off the tip of the main stem to promote lateral branching. After the initial pruning, deadhead the flowers after they have faded throughout the summer and fall. In addition, lightly trim the entire plant in late summer or early fall to maintain a tidy shape and tidy up the foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

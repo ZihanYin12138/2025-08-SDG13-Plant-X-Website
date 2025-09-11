@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2350,
+      "species_id": 1028,
+      "common_name": "asparagus",
+      "scientific_name": [
+        "Asparagus officinalis 'Mary Washington'"
+      ],
+      "section": [
+        {
+          "id": 7255,
+          "type": "watering",
+          "description": "Asparagus (Asparagus officinalis 'Mary Washington') should be watered once per week in the summer and every 2 weeks in the fall and winter. When watering, be sure to keep the soil moist but not saturated. If appropriate drainage systems are in place, water until it seeps out the bottom of the planter or directly onto the area where the plant is planted. During the summer, additional water may be necessary during hot spells or periods of prolonged dryness. If the soil feels dry, it's time for a good deep watering. Water in the morning or early afternoon to give the plants a chance to drink up and dry off before nightfall, helping decrease the risk of fungus and disease."
+        },
+        {
+          "id": 7256,
+          "type": "sunlight",
+          "description": "Asparagus 'Mary Washington' requires 6 to 8 hours of direct sunlight each day but can tolerate some shade during part of the day. Plant it in a sunny spot that gets morning sun -- this is the best type of light for the healthiest growth. Avoid planting in an area that gets only afternoon sun, as this could cause the spears to become spindly and weak, and the plant may not thrive. The plant should be kept in full sun for the majority of the day."
+        },
+        {
+          "id": 7257,
+          "type": "pruning",
+          "description": "Pruning should be done on an as-needed basis for Asparagus officinalis 'Mary Washington'. In most cases, it can be pruned in late winter or early spring when the plant is dormant and before new growth begins in the spring. The main objective when pruning Asparagus officinalis 'Mary Washington' is to remove dead and damaged foliage, as well as any overcrowded stems or offsets. Care should be taken to only remove the amount of foliage necessary. Pruning should not exceed 1-third of the total foliage. Remember to clean and sanitize pruning shears after cutting back foliage to avoid spreading disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

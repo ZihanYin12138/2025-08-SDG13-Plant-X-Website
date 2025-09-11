@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2368,
+      "species_id": 1049,
+      "common_name": "aster",
+      "scientific_name": [
+        "Aster frikartii 'Wunder von Stafa'"
+      ],
+      "section": [
+        {
+          "id": 7309,
+          "type": "watering",
+          "description": "Aster plants require regular watering, especially during their active growing season. During the spring and summer when the plants are actively growing, water your asters once a week, providing enough water to keep the soil moist but not soggy. In the winter, reduce the watering to once every 2 weeks, depending on the climate. In particularly dry climates, provide additional water, as the plants will still be actively growing during the winter. During periods of extreme heat, increase the watering frequency to twice a week. If you are not sure about the amount of water that should be given, it is recommended to stick your finger into the soil and if it feels dry give some water until the top inch of the soil feels moist."
+        },
+        {
+          "id": 7310,
+          "type": "sunlight",
+          "description": "Aster (Aster frikartii 'Wunder von Stafa') requires full sun for maximum growth, flowering, and overall health. Plant asters in a location that receives at least 8 hours of direct sunlight each day. When grown in areas with partial shade, the plants may flower poorly. Avoid planting in shady locations since asters will not produce blooms in areas with limited sun exposure. To prevent sunburn, gradually acclimate asters to the sun's direct rays. During the first week after planting, limit exposure to 4-6 hours of direct sun. Increase sun exposurefor the next 2 weeks until the desired amount of direct sun (8 hours) is reached."
+        },
+        {
+          "id": 7311,
+          "type": "pruning",
+          "description": "Aster (Aster frikartii 'Wunder von Stafa') can be pruned in late winter or early spring, immediately before new growth begins. Pruning should involve cutting off the plant’s previous year’s flowering stems back to the main stems of the plant and removing any dead, diseased, or overgrown branches. Accessible branches should be pruned back by about a quarter to half of their length. In general, younger plants should be pruned more heavily than established plants, to encourage more vigorous growth and a denser plant habit. Asters should be pruned regularly every year to ensure healthy growth and to remove any dead or diseased wood."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

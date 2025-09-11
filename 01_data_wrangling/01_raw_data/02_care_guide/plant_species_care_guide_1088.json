@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2405,
+      "species_id": 1088,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Rheinland'"
+      ],
+      "section": [
+        {
+          "id": 7420,
+          "type": "watering",
+          "description": "Water Astilbe 'Rheinland' deeply and evenly every 7-10 days during growth, allowing the soil to dry partially between waterings. It is important not to over water as this can cause root rot. Water during dry spells and during hot weather, but stop if the leaves start to turn yellow. In the fall, reduce watering gradually and stop when the plant goes dormant. In the winter, keep the soil slightly moist to prevent the roots from drying out."
+        },
+        {
+          "id": 7421,
+          "type": "sunlight",
+          "description": "Astilbe 'Rheinland' prefers bright light, but not direct sunlight for most of the day, so it should be put in a partially shady area. Morning sun for up to a few hours is beneficial; however, if the light of the afternoon is too intense, then the leaves of the plant may become scorched. During the hottest months of summer, Astilbe 'Rheinland' should receive no direct sunlight at all. When grown in a bright, yet partly shaded spot, the plant produces the strongest blooms."
+        },
+        {
+          "id": 7422,
+          "type": "pruning",
+          "description": "Astilbe 'Rheinland' should be pruned in late winter or early spring. Begin by cutting back all the dead foliage to a few inches above the ground. Then, prune back any damaged or overgrown stems to a healthy bud. Finally, remove up to 1 third of the oldest stems to the ground in order to encourage new growth and to keep the shape of the plant. Avoid cutting into healthy green stems."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

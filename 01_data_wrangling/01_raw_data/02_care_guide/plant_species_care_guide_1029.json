@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2351,
+      "species_id": 1029,
+      "common_name": "asparagus",
+      "scientific_name": [
+        "Asparagus officinalis 'Purple Passion'"
+      ],
+      "section": [
+        {
+          "id": 7258,
+          "type": "watering",
+          "description": "Ideally, Asparagus officinalis 'Purple Passion' should be watered with 1-2 inches (2.5-5 cm) of water per week. Make sure to water the soil deeply and evenly so that the roots can receive a good soak. Water in the morning, avoiding wetting the leaves and make sure the soil is not allowed to become soggy. Allow the soil to dry out between watering as excess moisture can cause root rot or fungus growth. In hotter months, water more frequently to make sure the soil stays moist."
+        },
+        {
+          "id": 7259,
+          "type": "sunlight",
+          "description": "Asparagus officinalis 'Purple Passion' is a light-loving plant species that is best suited to receiving full sun throughout the day. For optimal growth, this species should receive at least 6-8 hours of direct sunlight each day. During summer months, providing all-day sunlight is beneficial for the plant, while during cooler or shorter seasonal days, it should be given supplemental light in order to achieve optimal growth. Additionally, it is important to take into account the location of the garden bed when designating sun exposure, as temperature and humidity can affect the delivery of sunlight."
+        },
+        {
+          "id": 7260,
+          "type": "pruning",
+          "description": "For optimal health and growth, Asparagus officinalis 'Purple Passion' should be pruned regardless of the season. Pruning should focus on removing dead, yellow, or dry foliage to improve the overall appearance of the asparagus. Deadheading also encourages new growth. But excessive pruning should be avoided, as this can harm the plant’s health.\n\nRegular pruning should begin in early spring by removing any damaged foliage to promote air circulation and sunlight penetration. Additionally, any straggly or weak stems should be removed.\n\nIn late spring, after harvesting season is over, at least 1/3 of the stems of the asparagus plant should be cut back to the lowest healthy bud. This encourages new stems to thrive as well as promotes better airflow in the center of the plant.\n\nDead foliage can be pruned as it appears during the growing season. It should be cut to the ground whenever possible.\n\nFinally, once the asparagus has died back for the season, the plant should be cut to the ground. This will help control the spread of disease and improve the health of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

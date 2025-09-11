@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2330,
+      "species_id": 1004,
+      "common_name": "European wild ginger",
+      "scientific_name": [
+        "Asarum europaeum"
+      ],
+      "section": [
+        {
+          "id": 7195,
+          "type": "watering",
+          "description": "European wild ginger should be watered once or twice a week, depending on the season. During early spring and fall, it will only need to be watered once a week, and during the hot summer months it may need to be watered twice a week. Water thoroughly to ensure that the planting medium is evenly moist. Do not let the soil stay soggy, as it can become too wet and can lead to root rot. Check the soil around the base of the plant to make sure it is not overly dry, and adjust your watering schedule accordingly."
+        },
+        {
+          "id": 7196,
+          "type": "sunlight",
+          "description": "European wild ginger (Asarum europaeum) thrives best in indirect sunlight or partial shade. Optimal light exposure is several hours of morning sun, with the afternoon spent in shade. Doing so will ensure the plant gets the light it needs to photosynthesize without risking burning its leaves in the intense midday sun. During the winter months, it's beneficial to provide an additional 2-3 hours of afternoon light to help the plant stay green with fewer pests or disease problems."
+        },
+        {
+          "id": 7197,
+          "type": "pruning",
+          "description": "European wild ginger (Asarum europaeum) benefits from light pruning in the spring. The best time to prune this species is in late spring, after flower buds have emerged but just before they begin to bloom. Prune back any dead, diseased, or damaged stems, and remove any broken or wilted leaves. As this is a low-growing species, trim off any overgrown stems that may be blocking the middle of the plant or those that are growing in undesired directions. Pruning should be light, as this species is not typically tolerant of heavy or severe pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

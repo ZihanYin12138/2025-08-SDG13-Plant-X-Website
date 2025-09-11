@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2324,
+      "species_id": 996,
+      "common_name": "aruncus",
+      "scientific_name": [
+        "Aruncus 'Horatio'"
+      ],
+      "section": [
+        {
+          "id": 7177,
+          "type": "watering",
+          "description": "Aruncus 'Horatio' should be watered generously once a week or every 5-7 days. During hot and humid weather they should be watered more frequently, while during the colder winter months they only need to be watered every couple of weeks. They prefer well-drained, moist soil, so check the soil regularly to ensure it isn't too dry before watering. Around 1 inch of water is enough to keep them healthy. Avoid overwatering as this can damage their roots."
+        },
+        {
+          "id": 7178,
+          "type": "sunlight",
+          "description": "Aruncus 'Horatio' plants prefer full sunlight but will tolerate some light shade. Plants should receive at least 6 hours of direct sunlight each day; however, for optimal growth, 8-10 hours daily is recommended. If you are growing this plant in a shadier location, make sure to provide supplemental lighting, such as grow lights, to simulate the sunlight."
+        },
+        {
+          "id": 7179,
+          "type": "pruning",
+          "description": "Aruncus 'Horatio' is best pruned in the early spring before new growth begins. This species can be cut back quite severely with no harm to the plant, however this should only be done if necessary as it may reduce the size of the blooms. Pruning of dead or diseased stems should be done as soon as possible. After the main blooming period, Aruncus 'Horatio' can be lightly pruned to shape the plant, however it is important to not trim more than 1 third of the growth in any 1 season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2395,
+      "species_id": 1078,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Deutschland'"
+      ],
+      "section": [
+        {
+          "id": 7390,
+          "type": "watering",
+          "description": "Water Astilbe 'Deutschland' regularly, giving it around 1 to 1.5 inches of water each week. Make sure the soil is kept consistently moist but not soggy. It is best to water in the morning so that the foliage has time to dry during the day. Make sure to water the soil around the plant and not just the foliage. During particularly dry spells, such as during the summer months, you may want to water every 3 to 4 days to keep the soil evenly moist."
+        },
+        {
+          "id": 7391,
+          "type": "sunlight",
+          "description": "Astilbe 'Deutschland' prefers bright, indirect sunlight. It should be placed in an area that gets a few hours of filtered sunlight a day, such as near an east or west-facing window. Avoid placing this plant in areas with direct, mid-day sunlight, as this is likely to cause it to wilt and burn. This plant should thrive in partial shade as it will help in retaining the water needed for its survival. If placed in sun-filled locations, be sure to water it more often to prevent drying."
+        },
+        {
+          "id": 7392,
+          "type": "pruning",
+          "description": "Astilbe 'Deutschland' should be pruned lightly in late winter or early spring, just before new growth begins. Pruning should focus on removing any dead or damaged branches. Make sure to leave about 5-8 healthy buds on each stem. If a lot of stems have no buds, it is best to remove them completely. Pruning should also focus on thinning out dense areas of the plant to encourage air flow and more even growth. Lastly, trim off any long, straggling branches that detract from the plant's overall shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

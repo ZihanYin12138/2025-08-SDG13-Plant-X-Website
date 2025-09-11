@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 619,
+      "species_id": 1001,
+      "common_name": "trailing snapdragon",
+      "scientific_name": [
+        "Asarina procumbens"
+      ],
+      "section": [
+        {
+          "id": 1858,
+          "type": "watering",
+          "description": "Trailing snapdragons love moist soil and should be watered regularly and evenly. It is best to provide them with 1-2 inches of water once every week, depending on the weather and rate of evaporation from the soil surface. During particularly hot and dry summers, it may even be necessary to water the plants more often. Make sure the soil is moist but not waterlogged, and be sure to allow the soil to dry out between waterings."
+        },
+        {
+          "id": 1862,
+          "type": "sunlight",
+          "description": "Trailing snapdragon plants prefer bright, indirect sunlight with an ideal of 4 to 6 hours of sunlight per day. They perform best in warm climates but tolerate some shade. Morning sun is best for the plant as this is when it thrives. Too much direct sunlight during the day can cause the trailing snapdragon to burn or wilt. During the winter months, when the sun isn’t out as frequently, provide as much indirect sunlight as possible."
+        },
+        {
+          "id": 1868,
+          "type": "pruning",
+          "description": "Trailing snapdragon should be pruned in the late winter when it is in its dormant stage. It should be pruned back by about 1-third of its height to encourage fuller growth. Be sure to remove all dead flowers and seedpods as well as any long or straggly stems. After pruning, you can cut back the remaining stems to a maximum of 10 cm above the soil surface to promote branching."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

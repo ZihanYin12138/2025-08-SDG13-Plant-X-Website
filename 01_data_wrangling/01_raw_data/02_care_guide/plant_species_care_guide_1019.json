@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2344,
+      "species_id": 1019,
+      "common_name": "butterfly weed",
+      "scientific_name": [
+        "Asclepias tuberosa 'Blonde Bombshell'"
+      ],
+      "section": [
+        {
+          "id": 7237,
+          "type": "watering",
+          "description": "Water Butterfly Weed deeply and infrequently. During the blooming period, which is usually from May-August, water the plant every week or so. During the summer months, water the plant about twice a month. In the winter, water only once a month or less. When watering, you should give the plant a deep soaking to ensure that the soil is well saturated. Avoid overwatering, as too much water can lead to root rot."
+        },
+        {
+          "id": 7238,
+          "type": "sunlight",
+          "description": "Butterfly weed (Asclepias tuberosa 'Blonde Bombshell') prefers to grow in full sun and should receive 6 to 8 hours of direct sunlight each day to reach its full potential and to ensure ideal blooming and lush foliage. This plant prefers well-drained soil and should be planted in an area of the garden that gets nothing less than 6 hours of direct sunlight each day. Ideally, the butterfly weed should receive 8 hours of direct sunlight per day and should get some protection from afternoon shade during the hottest days of the summer."
+        },
+        {
+          "id": 7239,
+          "type": "pruning",
+          "description": "When pruning Butterfly weed (Asclepias tuberosa 'Blonde Bombshell'), it's important to be mindful of the plant's growth behavior and blooming period. To promote a full, beautiful bloom, you should prune in the late spring after the plant has flowered. As the plant begins to look sparse and wilted, trim off dead stems and any foliage that looks brown or diseased. Prune off only the dead parts of your Butterfly weed, avoiding the green, living stems. You should also leave a few of the seedpods which contain the butterfly weed's colorful seeds. Avoid pruning too much, as this may reduce or prevent flowering in the coming season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

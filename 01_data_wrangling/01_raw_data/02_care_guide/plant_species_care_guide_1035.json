@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2356,
+      "species_id": 1035,
+      "common_name": "white-flowered asphodel",
+      "scientific_name": [
+        "Asphodelus albus"
+      ],
+      "section": [
+        {
+          "id": 7273,
+          "type": "watering",
+          "description": "White-flowered asphodel requires very regular watering to thrive. It should be watered 1-2 times per week, depending on the season and the plant's need. In spring and summer, water as needed so that the soil stays moist but not wet. In fall and winter, reduce watering so that the soil is only slightly damp. The best way to determine when the white-flowered asphodel needs watering is to check the soil. If the top 1 inch of soil is dry, it’s time to water."
+        },
+        {
+          "id": 7274,
+          "type": "sunlight",
+          "description": "White-flowered asphodels should be grown in full sunlight and should receive 6-8 hours of sunshine each day. Planting them in a spot in the garden that receives morning sun and partial shade in the afternoon will help the plant thrive and ensure that the delicate white flowers can survive spring and summer weather conditions. Asphodels prefer moderately fertile soils that are lightly moist but well-drained. If planting in containers, make sure to use free-draining potting soil to ensure optimal growth."
+        },
+        {
+          "id": 7275,
+          "type": "pruning",
+          "description": "White-flowered asphodel (Asphodelus albus) should be pruned twice a year; once in the fall and once in the spring. Cutting back the plant in the fall may reduce the number of seed pods that form, which can become invasive. In the spring, remove any stems that have been damaged or show signs of disease or rot. For general maintenance, prune the plant to its desired size and shape after flowering. This pruning will promote bushy, healthy growth and stimulate the next season’s bloom. A light pruning after flowering in the early summer can also encourage a second flush of blossoms later on. Be sure to use sharp clippers or scissors and sterilize the blades between cuts to prevent the spread of disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

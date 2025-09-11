@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2353,
+      "species_id": 1032,
+      "common_name": "woodruff",
+      "scientific_name": [
+        "Asperula gussonii"
+      ],
+      "section": [
+        {
+          "id": 7264,
+          "type": "watering",
+          "description": "Water woodruff regularly, but sparingly. About once a week, water until the top few inches of soil are moist. Do not water so much that water runs off the surface or accumulates in the saucer underneath the pot. Allow the soil to dry slightly between waterings. Do not let woodruff dry out completely. If new growth appears but the soil is dry, water deeply. Woodruff prefers cooler temperatures, and may need less water during the hottest days of summer. Avoid overwatering, as woodruff is susceptible to root rot."
+        },
+        {
+          "id": 7265,
+          "type": "sunlight",
+          "description": "Woodruff (Asperula gussonii) does best in an environment with medium amounts of bright sunlight. The ideal amount for this plant species is anywhere between 4-6 hours of direct sunlight each day. The amount of sunlight should be gradual, as sudden changes can cause stress for the plant. Having a sunny location that softens to an area with indirect sunlight during the very hottest parts of the day is ideal for woodruff. Too much direct sunlight can burn the foliage, while too little will not provide the required light for strong, healthy growth."
+        },
+        {
+          "id": 7266,
+          "type": "pruning",
+          "description": "Woodruff (Asperula gussonii) is a low-growing, spreading groundcover that produces a mass of finely-divided green foliage and blooms in spring with small, white flowers. Because of its growth habit, pruning should be done on an as-needed basis.\n\nPruning is typically done in the early spring before new growth begins. For woodruff, this is usually between February and April. Prune away dead or diseased branches and any overly leggy stems. It’s also helpful to trim out overcrowded stems to encourage new foliage and blooms. When cutting back woodruff, prune stems back to a few inches in length and remove only a third of the plant’s volume at a time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

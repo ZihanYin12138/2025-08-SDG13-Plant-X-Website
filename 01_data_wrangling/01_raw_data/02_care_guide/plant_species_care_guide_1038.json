@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 625,
+      "species_id": 1038,
+      "common_name": "bird's nest fern",
+      "scientific_name": [
+        "Asplenium nidus 'Antiquum'"
+      ],
+      "section": [
+        {
+          "id": 1872,
+          "type": "watering",
+          "description": "Watering frequency can vary with the season, with more frequent watering being required during the summer months and less frequent during the winter. Generally the Bird's Nest Fern should be watered when the soil is slightly dry to the touch and the fronds are limp. During the summer water the plant thoroughly once a week, allowing the water to pass through the potting mixture and drainage holes – this will help prevent the soil from becoming sodden and waterlogged. However during the cooler winter months water should be reduced to every 10 – 14 days, making sure the soil has dried out before the next watering. "
+        },
+        {
+          "id": 1879,
+          "type": "sunlight",
+          "description": "Bird's Nest Ferns, like most houseplants, need bright, indirect sunlight to thrive. Aim for 4-6 hours of bright, indirect light per day, preferably in the morning or late afternoon hours. Depending on the season, direct sunlight and direct light from south-facing windows may be strong enough to burn the leaves, so filter them through an opaque curtain or sheer blinds. During the winter months, especially in northern climates, some additional light supplementation with artificial sources may be necessary."
+        },
+        {
+          "id": 1886,
+          "type": "pruning",
+          "description": "Pruning Bird's Nest Ferns (Asplenium nidus 'Antiquum') is best done twice a year, in the spring and fall. During the spring pruning, remove any dead or discolored leaves. This will help keep the plant looking attractive and will allow more light to reach the center of the plant. Fall pruning should focus on removing older, tougher leaves from the center of the plant as these will block out light and restrict growth. Pruning should be kept to a minimum, as the plant grows slowly and does not tolerate drastic pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

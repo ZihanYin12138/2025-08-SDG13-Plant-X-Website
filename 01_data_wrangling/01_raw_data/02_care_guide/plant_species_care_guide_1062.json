@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2381,
+      "species_id": 1062,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe arendsii 'Irrlicht'"
+      ],
+      "section": [
+        {
+          "id": 7348,
+          "type": "watering",
+          "description": "When watering astilbe (Astilbe arendsii 'Irrlicht'), it is important to water deeply but infrequently, to ensure the plant’s long-term health. Generally, astilbe should be watered about once per week when temperatures are mild and soil is dry. During hot, dry periods, you may need to water more frequently, while during times of full or partial shade, astilbe may need watering less often. To ensure that your astilbe is getting an adequate amount of water, it helps to check the soil depth, since astilbes should be planted in soil that is consistently moist. The depth should reach into the first inch or 2 of the soil. When watering, it is best to apply slowly and deeply, until the soil is damp around 8 inches deep. This provides enough water for the roots without causing waterlogging."
+        },
+        {
+          "id": 7349,
+          "type": "sunlight",
+          "description": "Astilbe arendsii 'Irrlicht' plants thrive in partial sun to partial shade. For best results, plant them in a location that receives a few hours of direct sunlight per day, ideally morning sun. Avoid intense, direct sun, especially in warmer climates. In most cases, morning sun is best, 4 to 6 hours of bright light per day should be sufficient. For optimal growth and flowering, it is important to provide protection for the afternoon sun and heat in warmer climates."
+        },
+        {
+          "id": 7350,
+          "type": "pruning",
+          "description": "Early spring is the best time to prune an Astilbe arendsii 'Irrlicht' plant. Pruning should be done lightly, removing any dead or diseased stems at the base of the plant. Dead flower heads can also be removed, but leave some of the faded flowers on the plant to provide seed for future blooms. Limit your pruning to around 1 third of the plant’s growth when you prune, this will help insure the plant produces plenty of flowers and keeps a pleasing shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

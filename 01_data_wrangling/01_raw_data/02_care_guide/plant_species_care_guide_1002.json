@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2328,
+      "species_id": 1002,
+      "common_name": "wild ginger",
+      "scientific_name": [
+        "Asarum canadense"
+      ],
+      "section": [
+        {
+          "id": 7189,
+          "type": "watering",
+          "description": "Wild ginger should be watered regularly in order to remain healthy, but be careful not to overwater. Water thoroughly when the top of the soil is dry to the touch. Ideally, water once a week and check between waterings to make sure the soil is not too dry or too wet. Make sure to water in the morning so that any excess moisture can dry out by the end of the day. If you forget to water, it's better to water less frequently than to water deeply, as some species of wild ginger are susceptible to root rot."
+        },
+        {
+          "id": 7190,
+          "type": "sunlight",
+          "description": "Wild ginger (Asarum canadense) prefers partial to full shade, meaning it should receive 3-5 hours of sunlight per day. The best time for sunlight for wild ginger is during the morning before 11am, as this allows time for the plant to dry in the afternoon heat. Too much direct sunlight, especially during the middle of the day, can scorch the leaves and cause damage, so care should be taken when choosing a location for this species."
+        },
+        {
+          "id": 7191,
+          "type": "pruning",
+          "description": "Wild ginger is a native plant species that prefers part-shade and damp, acidic soil. Pruning is not typically needed for wild ginger, but occasionally can be beneficial for keeping the plant looking tidy.\n\nFor trimming, early spring before anything starts to grow is the best time as it avoids damaging any new growth and flowers. Prune out dead and drooping stems, thin any areas where the crowded foliage detracts from the plant's overall appearance, or trim off any wayward shoots. Be sure to use sharp, clean garden shears, as anything else can damage the plant. It's best to trim lightly and remove no more than 1-third of the plant's foliage at any given time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

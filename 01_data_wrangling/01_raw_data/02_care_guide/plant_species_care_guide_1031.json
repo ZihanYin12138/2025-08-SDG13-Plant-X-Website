@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 623,
+      "species_id": 1031,
+      "common_name": "asparagus fern",
+      "scientific_name": [
+        "Asparagus setaceus"
+      ],
+      "section": [
+        {
+          "id": 1870,
+          "type": "watering",
+          "description": "Water the asparagus fern lightly 1-2 times a week in summer and once every 2-3 weeks in winter. In general, let the soil dry out almost completely between waterings. Do not let it sit with overly wet soil, as this will cause root rot. If possible, let the plant dry out between waterings and water when the top inch or 2 of the soil feels dry to the touch. During the winter months, watering should be reduced and tailor to the environment that the plant is in (i.e cooler areas may need to be watered less)."
+        },
+        {
+          "id": 1877,
+          "type": "sunlight",
+          "description": "Asparagus ferns require at least 4-6 hours of sunlight per day to stay healthy and develop properly. In the summer, it is ideal to keep the asparagus fern in direct sunlight for the whole day because the plant loves the warmth. However, in the winter months when there is less intensity in the sun's rays, it is better to provide the fern with less direct sunlight, preferably 4-5 hours in the morning or afternoon. Similarly, if the asparagus fern is placed in an area that receives intense sunlight throughout the day, ensure at least 4-5 hours of shade in the mid-afternoon to avoid sunburns and damage to the leaves."
+        },
+        {
+          "id": 1884,
+          "type": "pruning",
+          "description": "For optimal asparagus fern growth, it is best to prune the plant throughout the year when necessary. Asparagus ferns tend to become leggy over time, so in order to maintain the desired shape and prevent the spread of the plant, pruning should occur during the spring and summer months, typically when the fronds reach 6-10 inches in length. This allows for the new fronds to take the place of the pruned stalks, and encourages denser, more compact growth in the plant overall. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

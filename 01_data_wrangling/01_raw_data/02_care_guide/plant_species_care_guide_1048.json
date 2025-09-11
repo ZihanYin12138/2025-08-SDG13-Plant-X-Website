@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2367,
+      "species_id": 1048,
+      "common_name": "aster",
+      "scientific_name": [
+        "Aster frikartii 'Monch'"
+      ],
+      "section": [
+        {
+          "id": 7306,
+          "type": "watering",
+          "description": "Aster (Aster frikartii ‘Monch’) plants need a regular watering schedule to grow and flower properly. They should be watered deeply every 7 to 10 days, depending on soil conditions and local climate. During hot weather, you may need to water more often. Water until the soil is noticeably moist, but not soggy. Avoid overwatering, which can cause the plant to rot. If you’re unsure how often to water, stick your finger in the soil about an inch deep. If it feels damp, then you’ve got enough moisture. If it feels dry, then it’s time to water."
+        },
+        {
+          "id": 7307,
+          "type": "sunlight",
+          "description": "Aster (Aster frikartii 'Monch') prefers 4-6 hours of direct sunlight every day. It can thrive in full sun and partial shade and does not require direct sunlight. This plant should not be placed in a location that receives direct sunlight for more than 6 hours per day, as this may cause the leaves to become burned or damaged. If grown in partial shade, it will prosper and bloom but not as profusely as in full sun."
+        },
+        {
+          "id": 7308,
+          "type": "pruning",
+          "description": "Aster (Aster frikartii 'Monch') should be pruned in late winter or early spring, just before the plant begins to grow actively for the season. To prune, use pruning shears to cut off old stems at their base, leaving only new growth. Deadhead any faded flowers to encourage more blooming. Then, remove up to 1-third of the older, more woody stems. These should be the largest stems, about pencil thick in diameter. Cut the stems to within a few inches of the soil. Finally, tidy up the overall shape of the plant by trimming back any outlying straggly stems."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

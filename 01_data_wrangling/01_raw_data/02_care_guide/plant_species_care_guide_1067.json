@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2386,
+      "species_id": 1067,
+      "common_name": "Chinese astilbe",
+      "scientific_name": [
+        "Astilbe chinensis 'Diamonds and Pearls'"
+      ],
+      "section": [
+        {
+          "id": 7363,
+          "type": "watering",
+          "description": "Chinese astilbe (Astilbe chinensis 'Diamonds and Pearls') should be watered when the soil is dry to the touch, about once or twice a week, depending on air temperature and weather conditions. In hot summer months, the plant may need to be watered more frequently. Water should be applied at the base of the plant until the soil is moist. Be careful not to overwater, as too much water can cause root rot and other issues with the plant."
+        },
+        {
+          "id": 7364,
+          "type": "sunlight",
+          "description": "As a semi-shade loving plant, Chinese astilbe (Astilbe chinensis 'Diamonds and Pearls') should receive up to 4 hours of direct sunlight a day, preferably in the morning and late afternoon. Too much direct sunlight can cause the plant to become pale and heat-stressed. Instead, it should be planted in a spot that is partially shaded by trees during the heat of the day. It's important that the soil is kept moist, and mulching with untreated organic material will help maintain soil moisture levels. Chinese astilbe will thrive in a moist, well-draining, and rich soil with plenty of compost mixed in as well."
+        },
+        {
+          "id": 7365,
+          "type": "pruning",
+          "description": "Pruning Chinese astilbe (Astilbe chinensis 'Diamonds and Pearls') should start at the beginning of spring when the plants awaken from dormancy. The goal of pruning is to encourage more flowering and to prevent too much growth, which can make the plants look lanky and overcrowded. To do this, cut back all the stems 2-thirds of their height. Deadhead any spent flowerstems. As plants mature, it may be necessary to pinch back new growth intermittently to maintain size control and shape. Prune lightly in late summer to encourage bushier growth and to prevent plants from becoming too tall and leggy. Then, once cold winter sets in, cut back all top growth to the ground in early spring."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

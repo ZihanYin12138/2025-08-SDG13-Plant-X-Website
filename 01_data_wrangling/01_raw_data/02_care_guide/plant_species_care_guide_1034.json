@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2355,
+      "species_id": 1034,
+      "common_name": "king's spear",
+      "scientific_name": [
+        "Asphodeline lutea"
+      ],
+      "section": [
+        {
+          "id": 7270,
+          "type": "watering",
+          "description": "King's spear plants should be well watered, but allowed to go slightly dry between waterings. During the warmer months when the plant is actively growing, water regularly, providing enough to keep the soil consistently moist but not soggy. During the cooler months, water less frequently, allowing the soil to dry out more between waterings, but make sure to give the plant enough water when you water to ensure the soil doesn't dry out completely. The frequency of watering can vary depending on the season and the soil type, but a general rule is to water once a week in the summer and every 2 weeks in the winter."
+        },
+        {
+          "id": 7271,
+          "type": "sunlight",
+          "description": "King's spear plants prefer full sun and should be placed in areas that get at least 6 hours of direct sunlight per day. In ideal conditions, they can perform well in up to 8 hours of direct sunlight. If planted in partial shade, the plant may become spindly and produce fewer flowers. It is best to situate your plants in a sunny spot that is not too hot or too dry during the summer months."
+        },
+        {
+          "id": 7272,
+          "type": "pruning",
+          "description": "When pruning king's spear, it is best to do so in the late spring after the plant has finished flowering. Prune off any old flower stalks as they begin to die back and remove any weaker stems and overcrowded sections. Trim back any straggly branches to promote new growth. Aim to cut back at least a third of the plant each year. Removing a few outer branches is enough each time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

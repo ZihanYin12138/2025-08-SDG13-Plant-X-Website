@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2325,
+      "species_id": 997,
+      "common_name": "aruncus",
+      "scientific_name": [
+        "Aruncus 'Misty Lace'"
+      ],
+      "section": [
+        {
+          "id": 7180,
+          "type": "watering",
+          "description": "Aruncus 'Misty Lace' should be watered so that the soil is kept consistently moist, but not overly wet. Water when the top inch of soil is dry to the touch and apply enough water so it runs through the pot's drainage holes. An occasional deeper soak is beneficial as this species prefers evenly moist soil rather than soggy soil. Avoid overwatering if possible, as root rot may occur if the soil stays consistently wet."
+        },
+        {
+          "id": 7181,
+          "type": "sunlight",
+          "description": "Aruncus 'Misty Lace' is a perennial plant species. It thrives in full sun to partial shade, preferring 5-7 hours of direct sunlight per day. This plant thrives in sunny spots with dappled shade during the hottest part of the day. The best times of day to receive this type of indirect sunlight would be mornings and evenings. It is important to note that Aruncus 'Misty Lace' is prone to stretching and becoming leggy in too much shade so it is important to give it enough light to stay short and bushy."
+        },
+        {
+          "id": 7182,
+          "type": "pruning",
+          "description": "Aruncus 'Misty Lace' is typically pruned in early spring, before new growth appears. Pruning encourages the growth of larger and more numerous blooms in the summer months. In order to remove dead or damaged limbs and/or faded blooms, prune the stems back to a few buds. Be careful not to prune too far back or you risk removing too much foliage, which may weaken the plant. It is important to note that Aruncus 'Misty Lace' does not require heavy pruning, and a light trim every few years should suffice."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2400,
+      "species_id": 1083,
+      "common_name": "Florist's spiraea",
+      "scientific_name": [
+        "Astilbe japonica"
+      ],
+      "section": [
+        {
+          "id": 7405,
+          "type": "watering",
+          "description": "Florist's spiraea (Astilbe japonica) should be watered regularly, preferably once or twice a week, giving the soil a thorough soaking. Over-watering should be avoided as the soil should be allowed to dry out between waterings. For optimal growth, give the plant 1 to 2 inches (2.5-5 cm) of water each time you water it. During periods of drought, increase the watering to make sure the soil remains consistently moist."
+        },
+        {
+          "id": 7406,
+          "type": "sunlight",
+          "description": "Florist's spiraea requires full sun for 4-5 hours a day, or partial sunlight for 6-8 hours a day. It tolerates more light in cooler climates, but in hot climates, it should be protected from direct sun during the middle of the day. This is especially true for blooming varieties that can be affected by too much sun. Too little sun can leave the plant looking \"leggy\" as it strives to reach more sunlight. Ideal morning sun with afternoon shade is best, but reduce the amount of direct sunlight in hot weather to protect the delicate flowers."
+        },
+        {
+          "id": 7407,
+          "type": "pruning",
+          "description": "Florist's spiraea should be pruned in early spring, before new growth appears. Cut back any dead or overly long branches, then shape the plant by cutting 1-third of the old stems down to ground level. For denser, fuller growth, cut the remaining branches back slightly and remove any crossed branches or dead wood. Pruning should be done just once a year in the spring."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

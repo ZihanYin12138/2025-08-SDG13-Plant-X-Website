@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2343,
+      "species_id": 1018,
+      "common_name": "butterfly weed",
+      "scientific_name": [
+        "Asclepias tuberosa"
+      ],
+      "section": [
+        {
+          "id": 7234,
+          "type": "watering",
+          "description": "Water Butterfly Weed lightly and only when the soil is dry to the touch, about 1-2 inches down. Newly planted plants may require a bit more regular watering so that the soil is kept consistently moist until the plant is established. In hot, dry climates, such as those often found in the southwestern United States, water the plant more frequently to keep the soil moist, up to multiple times a week. In periods of heavy rains, no additional watering may be necessary."
+        },
+        {
+          "id": 7235,
+          "type": "sunlight",
+          "description": "Butterfly weed (Asclepias tuberosa) needs at least 5-6 hours of direct sunlight per day. Early morning and late afternoon sunlight is  usually best, as it has not yet become intense and direct during these times. This plant grows best with full sun exposure throughout the day, though it can tolerate some shade during the hottest parts of the day.This sun will help it to properly photosynthesize and grow. Too much shade (more than 4 hours a day) can lead to fading of foliage or lack of bloom."
+        },
+        {
+          "id": 7236,
+          "type": "pruning",
+          "description": "Butterfly weed (Asclepias tuberosa) is a species of milkweed that should be pruned in the late spring or early summer after it blooms, because the flower spires attract several species of butterflies. Pruning butterfly weed should be light and infrequent for best results. After flowering, the stems should be cut back by half their length. Any side stems that bloomed should also be removed. Rejuvenate the plant annually to keep it looking good, but if the plant appears to be getting too leggy or open, it can be lightly pruned to encourage a denser growth habit. Pruning should take place after flowering and before autumn in most areas."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2391,
+      "species_id": 1074,
+      "common_name": "Chinese astilbe",
+      "scientific_name": [
+        "Astilbe chinensis 'Vision in Red'"
+      ],
+      "section": [
+        {
+          "id": 7378,
+          "type": "watering",
+          "description": "Chinese astilbe (Astilbe chinensis 'Vision in Red') should be watered once per week, providing 1 to 2 inches of water (as water accumulates in the soil). Be sure to check soil moisture before and after watering, and adjust the amount of water accordingly. In the spring and summer, make sure the soil stays damp but not overly wet; during the fall and winter, reduce watering as the plant enters dormancy. To ensure adequate drainage, water the base of the plant only and allow excess water to drain away."
+        },
+        {
+          "id": 7379,
+          "type": "sunlight",
+          "description": "Chinese astilbe (Astilbe chinensis 'Vision in Red') prefers dappled sunlight or partial shade throughout the day. It should be planted in an area that gets at least 4 hours of sunlight each day, ideally in the morning or late afternoon. Avoid direct hot afternoon sun, as the intense heat may damage the plant. It also grows best in moist, well-drained soil with plenty of organics."
+        },
+        {
+          "id": 7380,
+          "type": "pruning",
+          "description": "Chinese astilbe (Astilbe chinensis 'Vision in Red') should be pruned back yearly in the early spring, before new growth begins. After the last frost has passed, remove any winter damage as well as dead or spindly stems. Additionally, improve the plant’s shape and reduce its overall size by selectively removing stems and branches. Generally, this species responds best to moderate pruning, so be sure not to remove more than 1-third of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

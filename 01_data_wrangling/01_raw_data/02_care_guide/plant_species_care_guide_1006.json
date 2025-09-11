@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2332,
+      "species_id": 1006,
+      "common_name": "wild ginger",
+      "scientific_name": [
+        "Asarum splendens 'Quicksilver'"
+      ],
+      "section": [
+        {
+          "id": 7201,
+          "type": "watering",
+          "description": "Wild ginger (Asarum splendens 'Quicksilver') should be watered to keep the soil slightly moist, but not soggy. Water the plants every 4 to 5 days during the growing season, providing enough water to moisten the soil around the roots. In the winter months, reduce watering so that the soil stays slightly moist, barely enough to keep it from drying out completely. Monitor the soil moisture and adjust your watering accordingly."
+        },
+        {
+          "id": 7202,
+          "type": "sunlight",
+          "description": "Wild ginger (Asarum splendens 'Quicksilver') prefer partial sun to shade. They should receive about 4 to 5 hours of sun per day. Morning sun is best, as intense afternoon sunlight can damage the foliage. Morning sun will encourage flowering, while afternoon shade helps keep the soil cool and moist. Protect this perennial from strong winds as wind can damage the foliage."
+        },
+        {
+          "id": 7203,
+          "type": "pruning",
+          "description": "Wild ginger plants should be pruned annually in early spring before new growth begins to appear. Prune away any dead or diseased stems and cut back overgrown stems to tidy the plant up. Also remove any stems that are crossing over 1 another, since these can lead to overcrowding and cause the plant to become weaker. Avoid pruning or trimming more than 1-third of the stems at a time to ensure sustained, healthy new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

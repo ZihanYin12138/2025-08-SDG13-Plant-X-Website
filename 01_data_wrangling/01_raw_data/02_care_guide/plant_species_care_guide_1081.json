@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2398,
+      "species_id": 1081,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Flamingo'"
+      ],
+      "section": [
+        {
+          "id": 7399,
+          "type": "watering",
+          "description": "Astilbe 'Flamingo' is a hybrid of several species, so its specific watering needs may vary slightly from other varieties of astilbe. In general, astilbe should be watered 2-3 times per week during the spring and summer months, and once per week during the fall and winter months. However, make sure to check the soil and give your astilbe a good soak when the top inch or 2 of soil is dry. Make sure not to overwater, as astilbes cannot tolerate standing water. In times of extreme heat and drought, plants may need to be watered more frequently to support their growth and blooms."
+        },
+        {
+          "id": 7400,
+          "type": "sunlight",
+          "description": "Astilbe 'Flamingo' thrives in areas with partial to full sunlight throughout the day. For best results, it is recommended to provide 4 - 6 hours of full sunlight each day when planted outdoors. When planted indoors, providing a south-facing window may provide sufficient amounts of sunlight for optimal growth. It is important to note that exposure to full sunlight for prolonged periods can burn this particular plant species, so providing the necessary amount of coverage is important."
+        },
+        {
+          "id": 7401,
+          "type": "pruning",
+          "description": "For best results, Astilbe 'Flamingo' should be pruned in late winter or early spring, before new growth begins. When pruning this plant, it is important to remove old, faded or damaged flower stalks and tidy up the foliage. This will help promote new, strong and healthy growth. Thin out the plant by selectively pruning away some of the older clumps to create a more balanced shape. Finally, light trimming of new growth will help create the desired shape of the plant. Be sure not to cut too much, however, as it can affect the ability of the plant to grow and flower during the season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

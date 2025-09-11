@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2382,
+      "species_id": 1063,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe arendsii 'Rote Cattleya' RED CATTLEYA"
+      ],
+      "section": [
+        {
+          "id": 7351,
+          "type": "watering",
+          "description": "Astilbe arendsii 'Rote Cattleya' RED CATTLEYA should be watered 1-2 times per week during the summer. In the cooler months, water only once every 10-14 days. In addition, make sure the soil is consistently moist - not wet or dry - as too much or too little water can cause the plant to wilt or suffer from root rot. Keep an eye on the leaves to gauge when to water next; when the needles start to curl or the leaves start looking dull, it’s a sign that it’s time to give it a drink. Ensure that no runoff occurs, as soggy soil can lead to root rot."
+        },
+        {
+          "id": 7352,
+          "type": "sunlight",
+          "description": "Astilbe 'Rote Cattleya' RED CATTLEYA prefers at least 4 hours of bright, filtered light a day, and ideally should be grown in dappled sunlight or partially shaded locations. However, too much direct sun will cause the plants to scorch and wither. During the summer months, they can benefit from morning sun, but should not have direct sunlight in the afternoon as it may cause the leaves to become discolored or burned."
+        },
+        {
+          "id": 7353,
+          "type": "pruning",
+          "description": "Prune astilbe (Astilbe arendsii 'Rote Cattleya' RED CATTLEYA) in late fall or early spring (November to March). Cut about 1/3 of the previous season's growth back within 1-2 inches of the ground. Cut back any dead, broken, or damaged stems and remove any dead foliage or debris. Pruning in this way will help promote fresh, thicker growth and flowering in the upcoming season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

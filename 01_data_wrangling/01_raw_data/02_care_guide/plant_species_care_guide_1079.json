@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2396,
+      "species_id": 1079,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Erica'"
+      ],
+      "section": [
+        {
+          "id": 7393,
+          "type": "watering",
+          "description": "To keep astilbe (Astilbe 'Erica') healthy and vigorous, it should be watered regularly (2-3 times per week) during summer months and lightly (about once per week) during cooler months. Be sure to check the soil moisture before watering, as astilbes like moist but not soggy soil. Aim to water the soil rather than the leaves, and water until the soil is soaked. Allow the top inch or 2 of the soil to dry out between waterings, and never let the plant dry out completely."
+        },
+        {
+          "id": 7394,
+          "type": "sunlight",
+          "description": "Astilbe 'Erica' grows best in areas with partially shaded light. Morning sunlight between 4-8 hours is best, and it should be shaded during the hottest part of the day. The plant needs direct sunlight during the morning hours, but will require indirect light or partial shade during the afternoon to avoid scorching. Extended exposure to full sun during the afternoon may cause foliage to scorch."
+        },
+        {
+          "id": 7395,
+          "type": "pruning",
+          "description": "When it comes to pruning astilbe 'Erica' plants, it should be done in early spring. Pruning should be done to remove any dead and broken stems; this will help to maintain fresh and healthy growth. The pruning process should be done very gently, as astilbe is a relatively fragile plant. It is best to only prune the plant to a height of about 6 inches over the ground level. This will ensure that the basic structure of the plant stays intact and the remaining stems will be able to support the growth of new shoots. Additionally, lightly pruning any leggy or weak stems and deadheading any spent flowers will help the astilbe to produce more flowers and maintain a healthy appearance."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

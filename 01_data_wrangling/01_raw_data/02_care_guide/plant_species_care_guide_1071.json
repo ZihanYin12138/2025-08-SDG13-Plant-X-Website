@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2389,
+      "species_id": 1071,
+      "common_name": "Chinese astilbe",
+      "scientific_name": [
+        "Astilbe chinensis var. davidii"
+      ],
+      "section": [
+        {
+          "id": 7372,
+          "type": "watering",
+          "description": "Chinese astilbe (Astilbe chinensis var. davidii) should be watered regularly, about twice a week. Make sure to water the soil sufficiently, without soaking or flooding it. Aim to keep the soil moist but not overly wet. In hotter weather, water more frequently; while in cooler weather, wait until the soil appears to be drying out before watering again. Chinese astilbe should never be allowed to completely dry out, as this can result in wilting and possible death of your plant."
+        },
+        {
+          "id": 7373,
+          "type": "sunlight",
+          "description": "Chinese astilbe prefer bright light conditions, but should be protected from direct sunlight during the summer months. During the spring and fall, Chinese astilbe can tolerate a few hours of direct morning sunlight. During the summer, Chinese astilbe should be shaded during the mid-day and afternoon hours. During the winter, Chinese astilbe prefers bright, indirect sunlight."
+        },
+        {
+          "id": 7374,
+          "type": "pruning",
+          "description": "Pruning Chinese astilbes (Astilbe chinensis var. davidii) is essential to maintain the plant's health and beauty. Pruning should be done lightly and regularly to remove spent flowerheads, leggy stems, and old foliage. For best results, it is recommended to prune Chinese astilbes twice a year: late winter/early spring and early summer. \n\nWhen it comes to pruning in late winter/early spring, wait until the period of dormancy ends and then lightly prune back the tops of the new shoots. This helps reduce eventual blooming time to avoid later-season blooms getting killed by the frost. \n\nFor early summer pruning, look out for loose, untidy growth. Prune off any leggy stems or dead foliage and reshape the plant if needed. In addition, feel free to remove any spent flowerheads or seedpods. This should help rejuvenate the foliage and prepare the plant for the next bloom cycle."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

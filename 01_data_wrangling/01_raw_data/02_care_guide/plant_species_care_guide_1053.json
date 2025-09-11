@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2372,
+      "species_id": 1053,
+      "common_name": "aster",
+      "scientific_name": [
+        "Aster 'Wood's Pink'"
+      ],
+      "section": [
+        {
+          "id": 7321,
+          "type": "watering",
+          "description": "Aster 'Wood's Pink' prefers weekly watering on a regular schedule and thrives best when the soil is kept evenly moist. This plant should be watered at least 1 time a week with enough water so that water flows through the drainage hole at the bottom of the pot. During the hotter summer months, the frequency of watering may increase to twice weekly, as the plant will need more water due to evaporation. It is important not to let the soil dry out completely and to avoid overwatering by checking soil moisture around 2 inches down with your finger before each watering."
+        },
+        {
+          "id": 7322,
+          "type": "sunlight",
+          "description": "Aster 'Wood's Pink' is best grown in an area with full sun for at least 6-8 hours per day. This plant prefers bright light throughout the day and should not be exposed to shade during the hottest time of day. For optimal growth, this aster should receive 6-8 hours of direct sunlight on a daily basis. It is important to monitor the amount of sunlight the plant is receiving as too much exposure can cause the leaves to scorch, while too little can lead to weak or floppy stems. During the summer months, the sun is usually most intense between 10am and 4pm, so it is important to keep an eye on how much sun exposure your aster is receiving during these times."
+        },
+        {
+          "id": 7323,
+          "type": "pruning",
+          "description": "Maintaining Aster 'Wood's Pink' plants can be done by pruning them once a year in late spring or early summer. Begin pruning the aster by deadheading (removing the faded flowers) throughout its growing season. This encourages flowers to form on the tips of its stems. When the blooming period is over, remove any diseased or damaged leaves and stems. Prune the plant a final time in late spring or early summer by cutting back the stems to the desired height. This will keep the plant neat and tidy and will likely encourage a bushy shape. Take care to not over-prune."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

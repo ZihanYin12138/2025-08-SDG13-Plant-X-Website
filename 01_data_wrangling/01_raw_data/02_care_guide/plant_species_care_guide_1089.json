@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2406,
+      "species_id": 1089,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe rosea 'Peach Blossom'"
+      ],
+      "section": [
+        {
+          "id": 7423,
+          "type": "watering",
+          "description": "For astilbe (Astilbe rosea 'Peach Blossom'), it is important to water deeply and regularly. Water thoroughly once a week if rainfall is scarce, allowing water to reach the root zone of the plant. In climates where rainfall is sufficient, astilbe may require less frequent watering. Allow the soil to dry about 1 inch deep between watering. During periods of prolonged drought, astilbe may need more water to keep it looking its best. If watering with a hose, water for a few minutes until the entire root ball is soaked."
+        },
+        {
+          "id": 7424,
+          "type": "sunlight",
+          "description": "Astilbe (Astilbe rosea 'Peach Blossom') should receive at least 4-6 hours of direct sunlight or dappled shade each day. This plant prefers full to partial shade and tends to bloom poorly in full sun. For best results, avoid prolonged exposure to direct sun during the hottest part of the day. This species is fairly heat tolerant and generally thrives when planted in morning sun with afternoon shade."
+        },
+        {
+          "id": 7425,
+          "type": "pruning",
+          "description": "Pruning astilbe (Astilbe rosea 'Peach Blossom') should be done in late summer or early fall when the plant has finished blooming. Cut back the dead or spent foliage to the ground, being careful not to cut back the emerging buds of the new foliage. If the foliage looks healthy, only cut off the faded blooms. This type of pruning helps to ensure continuous blooms and overall healthy growth of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

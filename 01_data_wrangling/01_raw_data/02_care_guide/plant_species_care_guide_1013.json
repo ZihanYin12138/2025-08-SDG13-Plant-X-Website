@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2338,
+      "species_id": 1013,
+      "common_name": "purple milkweed",
+      "scientific_name": [
+        "Asclepias purpurascens"
+      ],
+      "section": [
+        {
+          "id": 7219,
+          "type": "watering",
+          "description": "Purple Milkweed should be watered once a week in the summer, to a depth of 2 inches. During the cooling temperatures of autumn, 1/2 to 1 inch of water should be provided for every 2 weeks. The amount of water you provide should be reduced further in winter to slow or prevent growth. During this time, you can water only once a month, applying 1/2 to 1 inch of water. Make sure the land around your Purple Milkweed does not become soggy or flooded. Too much water can easily drown the plant."
+        },
+        {
+          "id": 7220,
+          "type": "sunlight",
+          "description": "Purple milkweed (Asclepias purpurascens) enjoys full sun to partial shade. In the summer months, the plant should get 10-12 hours of direct sunlight each day. In the spring and fall, 5 to 6 hours of direct sunlight daily is sufficient. Purple milkweed should be protected from hot afternoon sun, which can be very harsh in the summer months. In winter, the plant should receive as much light as possible. Try to place it in an area that receives direct sun from early morning to late afternoon."
+        },
+        {
+          "id": 7221,
+          "type": "pruning",
+          "description": "Purple Milkweed should be pruned back once or twice a year to help control its size and shape. Prune lightly each time and avoid cutting off more than a third of the total length. Late summer, right before the blooming period in the fall and late winter, just before the growing season begins in the spring are the optimal times to prune Purple Milkweed. Trimming it during these times will help bring forth new growth. It is also important to remove any dead, damaged or discolored foliage, as well as any seedpods that have formed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

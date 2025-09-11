@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2321,
+      "species_id": 993,
+      "common_name": "goat's beard",
+      "scientific_name": [
+        "Aruncus dioicus"
+      ],
+      "section": [
+        {
+          "id": 7168,
+          "type": "watering",
+          "description": "Goat's beard should be watered deeply and thoroughly once a week during the growing season. Make sure not to over-water goat's beard; wait until the top 2 inches of soil are dry before watering is necessary. During the winter months, when the plant is dormant, water should be limited. Allow soil to become mostly dry before giving it a deep drink of water."
+        },
+        {
+          "id": 7169,
+          "type": "sunlight",
+          "description": "Goat's beard (Aruncus dioicus) prefers light shade or dappled sunlight throughout most of the day. It typically requires 4–6 hours of direct sunlight per day to truly thrive. If planted in an area with full sun, goat's beard should receive afternoon shade in order to protect it from intense sunlight. In addition to providing protection from afternoon sunlight, partial shade can also help to keep the soil a bit cooler and moist, which are ideal growing conditions for this plant species."
+        },
+        {
+          "id": 7170,
+          "type": "pruning",
+          "description": "For goat's beard (Aruncus dioicus), pruning should be done at the end of spring when the plant is almost done flowering. Because goat's beard has a tendency to self-sow, it is important to prune back the stems to prevent them from becoming too leggy and sprawling. Deadheading (removing spent flowers) as needed can also help to tidy the plant and control its size. Pruning should not be done too heavily as goat's beard is a perennial that regenerates slowly; it should be pruned lightly for shaping and tidying, but mostly leave intact."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

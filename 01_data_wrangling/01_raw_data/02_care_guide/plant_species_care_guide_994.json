@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2322,
+      "species_id": 994,
+      "common_name": "goatsbeard",
+      "scientific_name": [
+        "Aruncus dioicus 'Kneiffii'"
+      ],
+      "section": [
+        {
+          "id": 7171,
+          "type": "watering",
+          "description": "Goatsbeard (Aruncus dioicus 'Kneiffii') should be watered every 7 to 10 days, depending on soil moisture. Water thoroughly, providing enough water to reach the base of the plant. During the summer months, ensure that the soil is kept moist but not overly wet, as this can cause the roots to rot. During the colder months, water less. If the soil becomes completely dry, give the plant a good watering to revive it."
+        },
+        {
+          "id": 7172,
+          "type": "sunlight",
+          "description": "Goatsbeard (Aruncus dioicus 'Kneiffii') prefers full sun or partial shade. For best blooms, ensure that the plant receives at least 4 to 5 hours of direct sunlight daily. When planted in areas with more than 5 hours of direct sunlight, the plants should be kept well watered during the summer months. In warmer climates with hot summers and little shade, a midday break from the heat may be necessary to keep the plant healthy. For best growth in this case, the plant should receive morning and late afternoon sun, and have shade during the hottest parts of the day."
+        },
+        {
+          "id": 7173,
+          "type": "pruning",
+          "description": "Goatsbeard (Aruncus dioicus 'Kneiffii') should be pruned lightly in late winter or early spring. This should occur before any new growth begins to appear. All dead and damaged wood should be removed first.\n\nThe objective should be to maintain the natural shape of the plant while removing any wood that is weak and unproductive. When possible, pruning should be done to shape the plant rather than reduce its size. If size reduction is necessary, it should be done gradually over several years. \n\nAfter cutting back the goatsbeard it should be fertilized with an organic fertilizer to encourage healthy new growth. If the desired results are not achieved after the initial pruning, additional pruning may be necessary."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

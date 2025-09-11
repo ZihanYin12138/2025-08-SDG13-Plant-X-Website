@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2402,
+      "species_id": 1085,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Professor Van der Wielen'"
+      ],
+      "section": [
+        {
+          "id": 7411,
+          "type": "watering",
+          "description": "Astilbe 'Professor Van der Wielen' should be watered 1 to 2 times per week depending on the air temperature and frequency of rainfall. It's best to water the plant thoroughly when the soil feels dry to the touch. Provide an extra deep watering during hotter months to compensate for increased evaporation. Enrich the soil with plenty of organic matter prior to planting. Avoid over-watering which may result in root rot and other diseases."
+        },
+        {
+          "id": 7412,
+          "type": "sunlight",
+          "description": "Astilbe 'Professor Van der Wielen' plants prefer medium to bright indirect sunlight or filtered sunlight. If grown in full sun, the foliage can become scorched or burned. For optimal health, it is best to give this plant 4-6 hours of sunlight each day. When grown in partial shade, the foliage may produce fewer blooms. As the season progresses, it may be beneficial to give Astilbe 'Professor Van der Wielen' more sun to encourage more blooms."
+        },
+        {
+          "id": 7413,
+          "type": "pruning",
+          "description": "For optimum health and bloom, astilbe 'Professor Van der Wielen' should be pruned back to 2-3\" in height once per year after bloom, typically in late summer or early fall. There's no need to remove more than 1-third to 1-half of the existing growth. Remove the flower stalks that remain after the bloom cycle is complete. While it is not necessary to prune dead foliage in the fall, very old, congested, and overgrown astilbe should be divided every 3-5 years. When doing so, use sharp shears or a shovel to divide the clumps into smaller, vigorous sections and discard the weaker parts."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

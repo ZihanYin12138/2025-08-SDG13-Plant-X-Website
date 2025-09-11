@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2374,
+      "species_id": 1055,
+      "common_name": "astericus",
+      "scientific_name": [
+        "Asteriscus maritimus"
+      ],
+      "section": [
+        {
+          "id": 7327,
+          "type": "watering",
+          "description": "Water Astericus plants regularly to keep the soil slightly moist, but not saturated. It is best to water in the morning and avoid overhead watering. During the hot summer months, it may be necessary to water them every day or every other day to keep the soil moist. During the cooler months, reduce watering frequency to every 10-14 days or when the top of the soil feels dry. Make sure to water deeply whenever you do water, rather than just a light sprinkling."
+        },
+        {
+          "id": 7328,
+          "type": "sunlight",
+          "description": "Astericus (Asteriscus maritimus) should be grown in full sun locations for best flowering and growth. The plant prefers at least 8 hours of direct sunlight per day, and will tolerate full sun, especially in hot climates. In cooler climates, afternoon shade is advised. Depending on the climate and time of year, the amount of sunlight the plant will receive may fluctuate, so it is important to provide some shade when needed. In the summer months, Astericus should receive sunrise to mid-day sunlight, while in the winter months, late morning to mid-afternoon sunlight is best."
+        },
+        {
+          "id": 7329,
+          "type": "pruning",
+          "description": "Asteriscus maritimus, otherwise known as \"Sea Daisy,\" should be pruned in late fall or early spring. Pruning should be done lightly at first to avoid stressing the plant, and only a few stems should be removed per pruning session. Over time, the stems can be trimmed to shape the plant, creating a bushy appearance. Removing flowers and old stems will also help encourage the production of new blooms. During the growing season, deadheading of the flowers may be necessary to maintain a healthy and attractive appearance. Additionally, overall shape can be maintained by light trimming of the stems."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

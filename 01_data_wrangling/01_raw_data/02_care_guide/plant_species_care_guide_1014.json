@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2339,
+      "species_id": 1014,
+      "common_name": "fourleaf milkweed",
+      "scientific_name": [
+        "Asclepias quadrifolia"
+      ],
+      "section": [
+        {
+          "id": 7222,
+          "type": "watering",
+          "description": "Fourleaf milkweed prefers optimal soil moisture. Water when the soil feels dry to an approximate depth of 2 inches. Young plants should be watered more often than established plants. In general, you should water your fourleaf milkweed every 2-3 days or when the soil feels dry, so long as the weather remains sunny and hot. During hot, dry weather, you may need to water more often than every 3 days. When it rains, reduce the amount of water you give your fourleaf milkweed. In cold winter months, the soil may need to only be watered once a month or less."
+        },
+        {
+          "id": 7223,
+          "type": "sunlight",
+          "description": "Fourleaf Milkweed (Asclepias quadrifolia) prefers to be grown in full sun, meaning it requires 6-8 hours of direct sunlight per day. This plant prefers sandy or gritty soils, ideally fertilized with a slow-release fertilizer with nitrogen, phosphorus, potassium, and potential micronutrients. To ensure the best growth and flowering, the soil should be well-draining and soil pH around 6.5. Avoid excessive watering or over-fertilization, as this can lead to root rot, and provide supplemental water as needed.\n\n"
+        },
+        {
+          "id": 7224,
+          "type": "pruning",
+          "description": "Fourleaf milkweed (Asclepias quadrifolia) should be pruned in the late winter or early spring before new growth begins. This typically occurs 2 to 4 weeks before the last expected frost date in your area. This allows for the services of the plant to be preserved while encouraging healthy growth.\n\nWhen pruning, remove any dead, damaged or diseased stems. Cut back plants to 6\" or up to 12\" depending on their desired shape. Pruning helps the plant put more energy into producing new growth, flowers, and seed pods, which makes for a healthier plant overall. When pruning, use very sharp pruners and make clean cuts."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

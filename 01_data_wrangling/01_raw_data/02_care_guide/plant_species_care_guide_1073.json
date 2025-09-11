@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2390,
+      "species_id": 1073,
+      "common_name": "Chinese astilbe",
+      "scientific_name": [
+        "Astilbe chinensis var. taquetii 'Superba'"
+      ],
+      "section": [
+        {
+          "id": 7375,
+          "type": "watering",
+          "description": "Chinese astilbe (Astilbe chinensis var. taquetii 'Superba') should be watered regularly, but not too much. Aim to keep the soil evenly moist. Water the plant deeply every 10-14 days, with enough water to moisten the soil to a depth of at least 6 inches (15 cm). During periods of intense heat, additional watering may be needed. To avoid fungal diseases, keep the foliage of the plants dry, especially in shady areas."
+        },
+        {
+          "id": 7376,
+          "type": "sunlight",
+          "description": "Chinese astilbe should be placed in a location that receives partial shade or dappled sunlight for most of the day. However, the plant should avoid full sun during peak hours (generally from 10am to 4pm). This species of astilbe prefers 4 to 6 hours of indirect light, preferably in the morning or late afternoon, to stimulate flower production."
+        },
+        {
+          "id": 7377,
+          "type": "pruning",
+          "description": "Chinese astilbe should be pruned twice a year. Use pruning shears or a sharp knife beginning in late winter or early spring to trim away the dead foliage and spent flowers. Trim back the stems and foliage to about 1-third of their original height. If the stems are overly long, cut them to the desired height. A second pruning can be done in late summer to remove any additional dead foliage or flowers. Pruning Chinese astilbe when necessary will keep the plant looking its best."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

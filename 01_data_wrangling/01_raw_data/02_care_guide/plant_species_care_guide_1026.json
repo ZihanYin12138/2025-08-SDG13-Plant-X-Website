@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2348,
+      "species_id": 1026,
+      "common_name": "asparagus",
+      "scientific_name": [
+        "Asparagus officinalis"
+      ],
+      "section": [
+        {
+          "id": 7249,
+          "type": "watering",
+          "description": "Asparagus plants need to be watered about an inch (2.5 cm) per week and more during dry periods. Too much or too little water can cause problems, so water deeply and less often; this encourages the roots to grow deep and increases drought tolerance. Water when the soil surface is dry and water until it begins to drip from the bottom of the pot. It is best to water in the morning so that the leaves have time to dry before nightfall."
+        },
+        {
+          "id": 7250,
+          "type": "sunlight",
+          "description": "Asparagus (Asparagus officinalis) needs full sun exposure to grow and develop properly. The best time to provide the most sunlight is during the spring and summer, when the days are longer and the sun is more intense. It should be given at least 6 to 8 hours of direct sunlight each day. If the plant is not receiving enough light, it may become weak and leggy and experience reduced yields of edible shoots."
+        },
+        {
+          "id": 7251,
+          "type": "pruning",
+          "description": "For asparagus, pruning should take place once each year within the first few days of spring. Pruning should remove any dead, damaged, or diseased foliage as well as branches or shoots that appear to be struggling. Additionally, any foliage that is overcrowded should be pruned back lightly to allow for good air circulation throughout the plant. After pruning, any excess foliage removed should be disposed of in a compost bin or given to livestock."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

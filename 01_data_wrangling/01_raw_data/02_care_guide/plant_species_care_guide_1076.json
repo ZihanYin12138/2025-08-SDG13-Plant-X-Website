@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2393,
+      "species_id": 1076,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Darwin's Dream'"
+      ],
+      "section": [
+        {
+          "id": 7384,
+          "type": "watering",
+          "description": "When watering Astilbe 'Darwin's Dream', it is best to use a general rule of twice a week to keep the soil moist. Water the plant deeply to ensure the roots get enough moisture, and water until the excess begins to drain from the bottom of the container. Allow the soil to dry out slightly before watering again. During hot, dry spells, Astilbe 'Darwin's Dream' may need to be watered more frequently, however, as too much water can cause root rot and fungal infections. It is also important to fertilize the plant with a balanced fertilizer about once a month during the growing season."
+        },
+        {
+          "id": 7385,
+          "type": "sunlight",
+          "description": "Astilbe 'Darwin's Dream' is a deciduous perennial plant that prefers part to full shade to thrive in. For optimum plant health and growth, it should receive about 4-6 hours of direct sunlight daily. If given too much direct sun, the foliage can become scorched and die. If possible, it's best to provide dappled shade, especially during the hottest part of the day. This will help the plant to thrive in direct sunlight during the morning and late afternoon hours. Additionally, Astilbe 'Darwin's Dream' should be planted in an area that does not receive too much wind, as this can dry out the plant and cause damage."
+        },
+        {
+          "id": 7386,
+          "type": "pruning",
+          "description": "When pruning astilbe ('Darwin's Dream'), it is best to prune the plant in early spring before it begins to actively grow. This is due to the fact that mowing or cutting back foliage can cause the plant to produce fewer flowers in the late summer. Prune lightly, removing no more than 1-third of the plant's foliage and leaving the tallest flower stalks largely untouched. The purpose of pruning astilbe is to promote new growth, so avoid taking off large amounts of foliage at 1 time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

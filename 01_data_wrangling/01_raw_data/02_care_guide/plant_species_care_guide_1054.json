@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2373,
+      "species_id": 1054,
+      "common_name": "aster",
+      "scientific_name": [
+        "Aster 'Wood's Purple'"
+      ],
+      "section": [
+        {
+          "id": 7324,
+          "type": "watering",
+          "description": "Aster 'Wood's Purple' should be watered about once a week. The soil should remain slightly damp. To water the aster, use lukewarm water and evenly moisten the soil. Avoid overwatering to prevent root rot. To check if the plant needs watered, poke your finger into the soil about 2-3 inches down and if it is dry, it is time to water. Make sure to never leave the plant standing in water for more than an hour as that may cause root rot."
+        },
+        {
+          "id": 7325,
+          "type": "sunlight",
+          "description": "Aster 'Wood's Purple' requires 5-6 hours of direct sunlight each day, preferring morning sun before midday. It can tolerate afternoon shade, however partial shade is not suggested as it may result in leggy stems and fewer flowers. Aster 'Wood's Purple' needs a minimum of 3-4 hours of sunlight every day for optimal flowering. Too much sunlight can be damaging; if leaves begin to yellow, move the plant to a place with more shade immediately."
+        },
+        {
+          "id": 7326,
+          "type": "pruning",
+          "description": "Aster 'Wood's Purple' should be pruned in late winter or early spring. This helps to encourage new and healthy growth in the plants. Pruning should be done to thin out branches, remove dead or diseased branches and flowers, and encourage larger blooms. When doing your pruning keep in mind that you should only remove 1/3 or less of the existing branch and flower growth. Pruning too much can lead to weak growth and less blooms."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

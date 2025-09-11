@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2385,
+      "species_id": 1066,
+      "common_name": "Chinese astilbe",
+      "scientific_name": [
+        "Astilbe chinensis 'Darwin's Surprise'"
+      ],
+      "section": [
+        {
+          "id": 7360,
+          "type": "watering",
+          "description": "Chinese astilbe (Astilbe chinensis 'Darwin's Surprise') will thrive best in moist, well-drained soil. Water once every 1-2 weeks deeply, allowing the top inch or 2 of soil to dry out between waterings. During periods of hot temperatures, Chinese astilbe may need to be watered twice a week in order to keep the soil consistently moist. It is important to monitor soil moisture levels and avoid over-watering, as this may cause root rot or fungal diseases."
+        },
+        {
+          "id": 7361,
+          "type": "sunlight",
+          "description": "Chinese astilbe (Astilbe chinensis 'Darwin's Surprise') flowers best in an area of partial shade. This means it gets better flowering with some direct sunlight in the early morning hours, but the plants should be shaded from high, hot afternoon sun. Ideally, the plant should receive partial sun for 4 to 5 hours in the morning. It should be sheltered from the bright afternoon light so as not to scorch the foliage."
+        },
+        {
+          "id": 7362,
+          "type": "pruning",
+          "description": "Chinese astilbe (Astilbe chinensis 'Darwin’s Surprise') should be pruned in late winter or early spring, after the last hard freeze has passed and before new growth begins. Pruning can help keep this perennial looking tidy and encourage new growth. Cut back the previous season’s floral stalks and dead or unsightly foliage to within a few inches of the ground. This will also help ensure the new growth of buds and foliage looks its best. Pruning should be done as minimally as possible to keep the plant looking good without stressing it out."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

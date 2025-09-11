@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2360,
+      "species_id": 1041,
+      "common_name": "hart's tongue fern",
+      "scientific_name": [
+        "Asplenium scolopendrium (Crispum Group)"
+      ],
+      "section": [
+        {
+          "id": 7285,
+          "type": "watering",
+          "description": "Water your Hart's Tongue Fern twice a week, making sure to lightly mist the leaves. Do not over saturate the soil, because the plant's roots can rot from too much water. Once a month, water profusely in order to flush out excess salts and minerals. Add a quarter-teaspoon of Epsom salts to the water once a month to provide the plant with magnesium. Do not fertilize Hart's Tongue Fern, as the plant does not need it. In the winter, reduce watering to once a week, and only water if the soil is very dry."
+        },
+        {
+          "id": 7286,
+          "type": "sunlight",
+          "description": "The Hart’s Tongue Fern prefers full or partial shade and indirect sunlight, especially away from south and west-facing windows. In regions with warmer climates, dappled sunlight is more than adequate for the plant. With that said, it is necessary for the Hart’s Tongue Fern to get at least some direct sunlight as part of its daily regimen. A moderate amount of bright, indirect light is best. Aim to give the plant around 2-4 hours of direct sunlight per day."
+        },
+        {
+          "id": 7287,
+          "type": "pruning",
+          "description": "The Hart's Tongue Fern should be pruned twice during the year. The first time should be in late winter or early spring, when the old fronds are removed to make way for the new fronds as they emerge. The second prune should be in late summer, when any diseased or dead fronds should be cut off. It is recommended that only the tips of the fronds should be removed, as over-pruning can damage the plant. Prune away up to 2-thirds of the total frond length."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2363,
+      "species_id": 1044,
+      "common_name": "Italian aster",
+      "scientific_name": [
+        "Aster amellus 'Veilchenkönigin' VIOLET QUEEN"
+      ],
+      "section": [
+        {
+          "id": 7294,
+          "type": "watering",
+          "description": "Italian aster requires 1 inch of water per week. It is best to water during the morning because the plant foliage dries quickly and the soil won’t become soggy during the night. During the hot summer months, Italian aster may need more frequent watering. Monitor the soil moisture frequently and water as needed. These perennials also prefer soil that is slightly moist but well drained."
+        },
+        {
+          "id": 7295,
+          "type": "sunlight",
+          "description": "Italian Aster (Aster Amellus 'Veilchenkönigin' VIOLET QUEEN) will need plenty of sunlight for optimal growth and flowering. When grown outdoors in full sun, it should receive at least 6 hours of direct sunlight and plenty of indirect light each day. When grown indoors, place the plant near a south- or west-facing window to get as much light as possible. It will tolerate some shade, but keep direct light in mind."
+        },
+        {
+          "id": 7296,
+          "type": "pruning",
+          "description": "Italian aster (Aster amellus 'Veilchenkönigin' VIOLET QUEEN) should be pruned once a year in late winter, in February or March. Begin by removing any dead or damaged leaves, stems, or flowers. Then prune away any straggly stems, cutting just above the swelling of a bud or set of leaves. After that, reduce the stems by 1-third to 1-half, being sure to make clean cuts. Finally, cut the entire plant back by between 1-third and 1-half. This will help prevent the plant from becoming overcrowded and give it a neat, tidy appearance."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

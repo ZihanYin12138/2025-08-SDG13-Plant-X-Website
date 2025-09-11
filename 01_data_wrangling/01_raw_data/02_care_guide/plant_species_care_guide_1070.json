@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2388,
+      "species_id": 1070,
+      "common_name": "Chinese astilbe",
+      "scientific_name": [
+        "Astilbe chinensis 'Purpurkerze' PURPLE CANDLE"
+      ],
+      "section": [
+        {
+          "id": 7369,
+          "type": "watering",
+          "description": "The Chinese astilbe (Astilbe chinensis 'Purpurkerze' PURPLE CANDLE) should be watered deeply and infrequently. Aim to water your astilbe once or twice a week during the growing season (spring and summer). Make sure the top 2-3 inches of soil feel slightly moist but not overly saturated. During cooler, Winter months, water less often, aiming to moisten the earth with every 2-3 weeks. Always check the soil around the roots before watering, as adding too much water can cause root rot."
+        },
+        {
+          "id": 7370,
+          "type": "sunlight",
+          "description": "Chinese astilbe (Astilbe chinensis 'Purpurkerze' PURPLE CANDLE) grows best in partial to full shade, so it should receive a minimum of 3-4 hours of direct sunlight each day, with preferably no more than 6 hours. Morning sun is ideal, since this plant doesn’t do well in hot afternoon sun. If it does receive too much sunlight, its foliage may scorch or bleached."
+        },
+        {
+          "id": 7371,
+          "type": "pruning",
+          "description": "Chinese astilbe (Astilbe chinensis 'Purpurkerze' PURPLE CANDLE) should be pruned in late winter or early spring before new growth appears. The fade flower heads should be cut back to the leaf base of each clump and dead foliage should be removed. Cut back the foliage as needed to maintain good air circulation and light penetration. Additionally, Chinese astilbe can be divided every 4-5 years in the spring to help promote fresh foliage and blooms."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

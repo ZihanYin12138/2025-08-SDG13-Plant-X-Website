@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2394,
+      "species_id": 1077,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Delft Lace'"
+      ],
+      "section": [
+        {
+          "id": 7387,
+          "type": "watering",
+          "description": "For watering Astilbe 'Delft Lace', water regularly to keep the soil evenly moist but not soggy. Water when the top 1-2 inches of soil is dry to the touch and provide 1-2 inches of water each time. It may take several waterings to reach 1-2 inches, as astilbe has shallow roots and doesn't need a lot of water. Water in the morning so the foliage is dry in the evening, as excess moisture can lead to fungal diseases."
+        },
+        {
+          "id": 7388,
+          "type": "sunlight",
+          "description": "Astilbe 'Delft Lace' is a type of astilbe that does well in partial shade and will prefer a location where it is exposed to morning sun and afternoon shade. Ideally the plant should receive 4-5 hours of direct sunlight per day for optimal growth and flowering. During periods of intense sunlight, it is best to provide some shade to ensure the astilbe does not get too much light, as this can cause damage to the foliage."
+        },
+        {
+          "id": 7389,
+          "type": "pruning",
+          "description": "Astilbe 'Delft Lace' should be pruned annually in late winter or early spring. Pruning should involve deadheading the flowers, as well as cutting back faded foliage to promote new growth. The stems should be cut back to just above the foliage rosette and the faded foliage should be removed to the base of the stem. Pruning back the entire plant should be done in late winter or early spring before the new growth appears. This will encourage new shoots and blooms, and help to maintain the desired size and shape of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

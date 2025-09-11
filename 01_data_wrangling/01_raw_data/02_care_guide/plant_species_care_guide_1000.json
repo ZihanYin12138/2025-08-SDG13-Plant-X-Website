@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2327,
+      "species_id": 1000,
+      "common_name": "giant reed",
+      "scientific_name": [
+        "Arundo donax"
+      ],
+      "section": [
+        {
+          "id": 7186,
+          "type": "watering",
+          "description": "Watering giant reed (Arundo donax) should be done on a regular basis, usually once every 7-10 days. In dry climates, more frequent watering may be necessary. When watering, the soil should be moist but not soggy. Giant reed prefers moist soil, especially during the hot summer months and when it is actively growing. During periods of extended drought, additional water may be necessary. However, it is important not to over water this species."
+        },
+        {
+          "id": 7187,
+          "type": "sunlight",
+          "description": "Giant reed (Arundo donax) thrives best in full sunlight and requires at least 8 hours of direct sunlight a day. It can grow in partial sun, but the low light environment will result in poorer growth and lower vigor. It should be kept out of the shade as much as possible to maximize its growth potential. When possible, place it in a location where it will get morning sunlight and afternoon shade. In hot climates, afternoon shade can be beneficial but the plant should still get plenty of morning sunlight. In winter months, provide as much sun as possible."
+        },
+        {
+          "id": 7188,
+          "type": "pruning",
+          "description": "When pruning giant reed, prune in the early spring or late autumn. Pruning should only be done to reduce the overall size of the plant and should not exceed 5-10% of the plant's foliage. Pruning can also help to encourage more branching and reduce the risk of accidental damage if the canes become too tall or fall over. It is best to avoid cutting above the leaf nodes. Removing too much foliage can put the plant at risk of damaging its root system and stunting its growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2323,
+      "species_id": 995,
+      "common_name": "goatsbeard",
+      "scientific_name": [
+        "Aruncus dioicus 'Zweiweltenkind'"
+      ],
+      "section": [
+        {
+          "id": 7174,
+          "type": "watering",
+          "description": "Goatsbeard (Aruncus dioicus 'Zweiweltenkind') should be watered deeply when the top 1-2 inches of soil begins to dry out. This species of plant likes consistent moisture, so it's important to avoid drying the soil out for prolonged periods of time. Water around the base of the plant without getting the leaves wet to help prevent fungal diseases. If your Goatsbeard plant is growing in a pot, it may require more frequent waters than if it’s planted in the ground. It’s a good idea to check the soil every few days and water when necessary."
+        },
+        {
+          "id": 7175,
+          "type": "sunlight",
+          "description": "Goatsbeard needs full sun for optimal growth, though it will tolerate light shade. It needs at least 6 hours of direct sunlight per day in order to bloom. It should preferably get morning light, as it can help it to withstand the heat of the afternoon. The goatsbeard will look most attractive, however, if it receives long, sunny days and full access to the sun's rays. If possible, it should be planted in a spot with at least 8 hours of direct sunlight per day for maximum blooming and growth."
+        },
+        {
+          "id": 7176,
+          "type": "pruning",
+          "description": "Goatsbeard (Aruncus dioicus 'Zweiweltenkind') should be pruned in early spring, before new growth begins, to maintain a bushy, full shape. Prune by cutting back any straggly stems or old flower heads and dead foliage to just above the healthy growth, down to the base of the plant. Prune to shape when necessary, but keep in mind that Goatsbeard grows slowly and will need to be pruned lightly each year for shaping and maintenance."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

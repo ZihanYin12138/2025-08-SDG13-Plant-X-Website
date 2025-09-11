@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2341,
+      "species_id": 1016,
+      "common_name": "prairie milkweed",
+      "scientific_name": [
+        "Asclepias sullivantii"
+      ],
+      "section": [
+        {
+          "id": 7228,
+          "type": "watering",
+          "description": "Prairie milkweed should be watered occasionally, about 1–2 times per week. Water the soil until it is evenly moist but not overly wet. Aim to water in the morning so the foliage has time to dry off during the day. Reduce watering during the winter months, when the plant is dormant. If the potting mix drains poorly, water less often. Too much moisture can lead to root rot, so ensure the soil drains well."
+        },
+        {
+          "id": 7229,
+          "type": "sunlight",
+          "description": "Prairie milkweed requires full sun, meaning it needs at least 8 hours of direct sunlight each day during peak growing season. During the spring and summer months, when days are longer and more intense, it is best for the plant to receive the full 8 hours of direct sunlight. However, during shorter days in winter, it is still important that the plant receives adequate light to give it the energy it needs to thrive and produce the vibrant pink blooms it is known for. Partial shade is tolerated, but prairie milkweed will not flower as strongly if the plant does not receive its 8 hours of sunlight each day."
+        },
+        {
+          "id": 7230,
+          "type": "pruning",
+          "description": "Prairie milkweed (Asclepias sullivantii) requires light pruning from late summer through early spring. Pruning should remove dead or damaged foliage and stems, as well as spent flowers. It’s important to use sanitized garden shears or scissors when pruning milkweed as the sap may cause irritation if it comes into contact with your skin. Additionally, be sure to dispose of clippings away from the plant, as its sap may be detrimental for other plants in the area. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

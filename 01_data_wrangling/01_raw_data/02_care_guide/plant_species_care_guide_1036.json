@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 624,
+      "species_id": 1036,
+      "common_name": "cast-iron plant",
+      "scientific_name": [
+        "Aspidistra elatior"
+      ],
+      "section": [
+        {
+          "id": 1871,
+          "type": "watering",
+          "description": "Water this plant when the top inch of soil is dry. During the growing season from spring to fall, it is important to keep the soil moist but not soggy. Water thoroughly but allow the soil to dry before re-watering. During the winter months, it is best to reduce watering to keep the soil just barely moist. As a general rule, Cast-iron plants require an average of 1 heavy watering per week in the growing season, and 2 light waterings per month in the winter."
+        },
+        {
+          "id": 1878,
+          "type": "sunlight",
+          "description": "The cast-iron plant (Aspidistra elatior) requires low to moderate amounts of sunlight. In general, the plant should receive indirect, filtered sunlight for only a few hours per day. Too much direct sunlight may cause the leaves to burn. Aim for around 2-4 hours of indirect sunlight per day, making sure to provide enough shade from nearby trees or north-facing windows, to assure the plant does not get scorched. In lower light areas, the cast-iron plant may become spindly, so watch for signs of this if your plant is not receiving enough sunlight."
+        },
+        {
+          "id": 1885,
+          "type": "pruning",
+          "description": "Pruning cast-iron plants is relatively easy and infrequent. Pruning should be done after the active growing season, usually in late winter or early spring (January/February). Prune off dead or damaged leaves, and trim exceptional tall/streaky leaves. Take care not to prune too much, as the plant is a slow grower. Additionally, you can trim off the flower stalks if they appear. Doing so can increase the amount of leaves and the overall health of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

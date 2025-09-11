@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2378,
+      "species_id": 1059,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe arendsii 'Augustleuchten' AUGUST LIGHT"
+      ],
+      "section": [
+        {
+          "id": 7339,
+          "type": "watering",
+          "description": "Water Astilbe arendsii 'Augustleuchten' AUGUST LIGHT thoroughly once per week, ensuring the soil is moist, but not soggy. It is best to water in the evening or early morning, so that the foliage has a chance to dry before it gets hot. Avoid getting the foliage wet as much as possible, as this can cause certain diseases. In summer, it may need more water due to the hotter temperatures, while in winter the plant may need less. Water when the top layer of soil (around 1-2 inches) has dried out."
+        },
+        {
+          "id": 7340,
+          "type": "sunlight",
+          "description": "Astilbe arendsii 'Augustleuchten' AUGUST LIGHT should be planted in full sun to partial shade. It responds best when it is exposed to 4 to 6 hours of direct sunlight per day, typically at the beginning of the day and the last few hours before sunset. The plant should be shaded in the afternoon to protect it from the strong midday sun and drying winds. Astilbe does not do well if it is planted in a hot and humid environment and will need more shade if grown in an area with consistently high temperatures."
+        },
+        {
+          "id": 7341,
+          "type": "pruning",
+          "description": "It is recommended to prune Astilbe arendsii 'Augustleuchten' AUGUST LIGHT annually after flowering. This perennial prefers to be cut back to the ground every winter. Pruning should take place in late winter or early spring, before new growth begins. When pruning, remove all dead, diseased and damaged leaves and stems, as well as spent flower heads and stalks. Thinning the plant can also be beneficial to keep it from becoming overcrowded and leggy. In doing so, ensure the remaining stems are evenly spread and of a good quality."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2362,
+      "species_id": 1043,
+      "common_name": "maidenhair spleenwort",
+      "scientific_name": [
+        "Asplenium trichomanes"
+      ],
+      "section": [
+        {
+          "id": 7291,
+          "type": "watering",
+          "description": "Maidenhair Spleenwort (Asplenium trichomanes) should be watered 1 to 2 times a week in the spring and summer, and every 2 to 3 weeks in the fall and winter. Before giving your plant a drink, make sure to feel the top layer of soil. If it is dry, you should water the plant. Water thoroughly until it drains out of the bottom of the pot, and then discard any excess water. Allow the soil to become slightly dry again before you water again."
+        },
+        {
+          "id": 7292,
+          "type": "sunlight",
+          "description": "Maidenhair Spleenwort (Asplenium trichomanes) is a shade-loving fern species that does best in partial sun to partial shade conditions. It prefers a bright filtered light that will avoid direct midday sunlight. It thrives in a location that receives 4-6 hours of bright filtered sunlight a day, with light shade during the hottest part of the day. If it is grown indoor, it should be placed near a bright window that doesn't get direct afternoon sunlight. This plant is quite tolerant of lower light conditions, but will not reach its full potentials unless receiving enough bright light."
+        },
+        {
+          "id": 7293,
+          "type": "pruning",
+          "description": "Maidenhair spleenwort (Asplenium trichomanes) rarely requires pruning. A light trim may be necessary if the plant becomes too large or unruly. Pruning should occur in late winter or early spring, after the coldest part of the year has passed. Make sure to only prune off dead foliage and remove any damaged stems, as this plant is slow growing and you don't want to over prune."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

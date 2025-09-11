@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2326,
+      "species_id": 998,
+      "common_name": "bamboo orchid",
+      "scientific_name": [
+        "Arundina graminifolia"
+      ],
+      "section": [
+        {
+          "id": 7183,
+          "type": "watering",
+          "description": "The bamboo orchid (Arundina graminifolia) prefers a relatively moist soil, so keep it lightly damp at all times. Water it once a week with lukewarm water and make sure to let the top half inch of soil dry out before watering again. During the growing season (spring and summer) you can also mist the leaves once or twice a day. In winter, reduce the watering to once every 2 weeks."
+        },
+        {
+          "id": 7184,
+          "type": "sunlight",
+          "description": "Bamboo orchid (Arundina graminifolia) thrives best in filtered sunlight or partial shade. During the summer months, direct sunlight should be avoided to prevent the foliage from wilting. It does best when the plant is kept in bright, but indirect light for at least 4 to 5 hours each day. If the plant does receive direct sunlight, make sure it is only for a few hours in the morning. During the winter, the light requirement is decreased, allowing the plant to rest. While the site should not be in complete darkness, the bamboo orchid should be offered only indirect light through windows or skylights."
+        },
+        {
+          "id": 7185,
+          "type": "pruning",
+          "description": "When Pruning: Bamboo orchids should be pruned when the blooms fade. Usually late summer or early fall is the best time for this. \n\nHow Much Pruning: Pruning should be done conservatively, as bamboo orchids may become sparse if trimmed too heavily. Cut back only 1/3 of the stem and leaf shoots, keeping those that are straw-colored and firm to the touch. Remove any dead or damaged branches and trim the shoots from the base to promote thicker more abundant growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

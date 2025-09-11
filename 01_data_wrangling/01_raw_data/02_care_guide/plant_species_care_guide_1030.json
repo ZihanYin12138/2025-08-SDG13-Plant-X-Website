@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2352,
+      "species_id": 1030,
+      "common_name": "Ming fern",
+      "scientific_name": [
+        "Asparagus retrofractus"
+      ],
+      "section": [
+        {
+          "id": 7261,
+          "type": "watering",
+          "description": "Ming ferns should be watered regularly to keep its soil moist. An ideal watering schedule would be to water it every 4-7 days. When watering, it is important to make sure the fern is adequately hydrated but not overwatered. The best way to check is by inserting your finger 2-3 inches into the soil; if it feels dry, it's time to water. When it comes to the amount of water, it is best to give the fern a deep and thorough watering that soaks the entire root system. This allows the Ming fern to absorb the water it needs."
+        },
+        {
+          "id": 7262,
+          "type": "sunlight",
+          "description": "Ming ferns (Asparagus retrofractus) require 6-8 hours of direct sunlight per day in order to thrive. Generally, partial shade is more desirable than full sun, especially during the hottest part of the day. It is important to place the plant in a spot that receives enough sunlight without baking the foliage in midday sun. For best results, morning sun is preferred as this gives the plant time to absorb the suns’ energy and store it for the day ahead. During the warmer months, try to keep the plant out of the sun between the hours of 12 pm and 4 pm to avoid leaf burning. In the winter, the plant can tolerate a few hours of mid-day sun."
+        },
+        {
+          "id": 7263,
+          "type": "pruning",
+          "description": "Ming ferns should be pruned twice a year, once in early spring and again in late summer. In early spring, prune off any dead, damaged, or weak looking stems and leaves at the node. Prune sparingly and avoid removing more than a third of the fern’s foliage. In late summer, cut back the canes to maintain a neat and controlled shape. Be careful not to remove too much foliage or you could damage the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2340,
+      "species_id": 1015,
+      "common_name": "showy milkweed",
+      "scientific_name": [
+        "Asclepias speciosa"
+      ],
+      "section": [
+        {
+          "id": 7225,
+          "type": "watering",
+          "description": "Showy milkweed should be watered deeply but infrequently, approximately once every 2 weeks, during the growing season. Make sure to always check the soil to ensure it is moist at least 1 inch down before watering again. When temperatures begin to drop in the fall and the plant enters dormancy, water only when the soil has become dry to the touch. Watering during dormancy is not necessary since the plant is no longer actively growing, but occasional watering may help the plant survive winter."
+        },
+        {
+          "id": 7226,
+          "type": "sunlight",
+          "description": "Showy milkweed prefers full sun for most of the day, with at least 6 hours of direct light per day. It does best in USDA Hardiness Zones 5-9, often times establishing itself in fields or pastures. During the hot summer months, the plant will benefit from late afternoons in the shade when temperatures soar. Showy milkweed is drought tolerant and does not require extensive maintenance or water to perform well."
+        },
+        {
+          "id": 7227,
+          "type": "pruning",
+          "description": "Showy milkweed (Asclepias speciosa) should be pruned in late winter or early spring, when necessary. When pruning, take care to preserve the natural shape of the shrub, and remove only the damaged, diseased, or dead branches. For showy milkweed, prune only to limit the size or flower production, as this species typically needs no grooming. Shorten any branches to keep the plant in an attractive shape, or remove any newer branches that will steal energy away from older flower-producing stems. Prune no more than 20% of the live growth each year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

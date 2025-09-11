@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2336,
+      "species_id": 1011,
+      "common_name": "swamp milkweed",
+      "scientific_name": [
+        "Asclepias incarnata 'Ice Ballet'"
+      ],
+      "section": [
+        {
+          "id": 7213,
+          "type": "watering",
+          "description": "Swamp milkweed (Asclepias incarnata 'Ice Ballet') should be watered regularly and deeply. During the growing season of spring to late summer, watering should be done on a weekly basis, and for best results, water enough so that the soil is completely wetted. In hotter climates, additional water may be needed. During the colder months, when growth slows, reduce watering slightly and wait for the soil to dry out before waterings. In general, swamp milkweed should not be allowed to become dry and brittle as this can put excessive stress on the plant."
+        },
+        {
+          "id": 7214,
+          "type": "sunlight",
+          "description": "Swamp milkweed (Asclepias incarnata 'Ice Ballet') prefers full sun to part shade, with at least 6 hours of direct sunlight per day. While this species can grow and flower in light shade, it will achieve its best growth and flowering in full sun conditions. During the hottest parts of the day it may need protection from the midday sun, but enough direct sunlight should be available during early and late day hours."
+        },
+        {
+          "id": 7215,
+          "type": "pruning",
+          "description": "Swamp milkweed (Asclepias incarnata 'Ice Ballet') should be pruned in late autumn/early winter. The plant should be lightly pruned by removing any diseased, damaged, or dead stalks, and lightly cutting back the stems to promote compact, bushy growth. Pruning in late autumn/early winter helps to ensure a good bloom in the following season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

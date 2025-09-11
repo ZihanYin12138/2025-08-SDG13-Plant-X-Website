@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2383,
+      "species_id": 1064,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe arendsii 'Rotlicht' RED LIGHT"
+      ],
+      "section": [
+        {
+          "id": 7354,
+          "type": "watering",
+          "description": "Watering Astilbe 'Rotlicht' Red Light deeply once a week is recommended. It is best to water in the morning so that the plant has time to dry off by nightfall. This will help prevent fungal diseases from taking hold of the plant. Make sure the soil around the plant is evenly moist but not overly soggy. If the soil is allowed to dry out, it will cause the flower spikes to become weak and will reduce flowering. During the summer, the plants may need additional watering during hot spells."
+        },
+        {
+          "id": 7355,
+          "type": "sunlight",
+          "description": "Astilbe 'Rotlicht' should be grown in partial shade, in an area with bright morning sun and filtered light in the afternoon. This plant variety is tolerant of a range of light conditions, but it will flower best in a site with 4 or more hours of strong morning sunlight followed by protection from the strong afternoon sun. During the hottest months, provide additional protection from the sun's direct rays to allow the foliage to remain lush and colorful. In areas with a milder climate, however, this plant may benefit from some direct afternoon sunlight."
+        },
+        {
+          "id": 7356,
+          "type": "pruning",
+          "description": "Astilbe arendsii 'Rotlicht' should be pruned in early spring, just before the new growth appears, to encourage a bushy shape and growth. Pruning should be done carefully, and only old foliage should be removed. For light pruning, snip off dead flowers and browning foliage with garden shears. This will encourage a neat appearance and maximize new growth during the growing season. For more severe pruning, cut back the plant by 1-third. This will encourage a more controlled and uniform shape, while allowing for some air circulation. Be sure to dispose of any pruned materials away from the plants."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

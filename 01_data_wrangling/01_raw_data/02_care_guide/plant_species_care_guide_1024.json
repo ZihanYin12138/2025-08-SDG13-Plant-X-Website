@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 621,
+      "species_id": 1024,
+      "common_name": "asparagus fern",
+      "scientific_name": [
+        "Asparagus densiflorus 'Myersii'"
+      ],
+      "section": [
+        {
+          "id": 1860,
+          "type": "watering",
+          "description": "For optimum health of the asparagus fern (Asparagus densiflorus 'Myersii'), it is important to water them regularly. During the summer months, you should water the plant once per week. However, during the cooler winter months, you should water the plant less frequently, once every 2 weeks at most. Make sure to check the soil weekly, especially during summer. If the top inch of the soil is dry, then additional water should be provided. Be careful not to overwater, as this can lead to root rot."
+        },
+        {
+          "id": 1864,
+          "type": "sunlight",
+          "description": "Asparagus ferns prefer bright, indirect sunlight but will also tolerate a small amount of direct sunlight. Place them in a spot that gets at least 4 hours of bright light each day. When exposed to direct sunlight for too long, the delicate fronds may burn so you will have to keep an eye on it to see what works best for your particular plant. When growing indoors, near a south, east, or west-facing window works well. "
+        },
+        {
+          "id": 1867,
+          "type": "pruning",
+          "description": "Pruning for asparagus fern should be done once a year in late fall or early winter, after the plants have gone dormant. Depending on the size and shape of the fern, more frequent pruning may be necessary. Generally, for small ferns, up to 1-third of the fronds should be removed to encourage new growth. When pruning larger plants, remove any dead or yellowing fronds, and trim away any longer fronds or stems to keep the plant compact. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2354,
+      "species_id": 1033,
+      "common_name": "woodruff",
+      "scientific_name": [
+        "Asperula tinctoria"
+      ],
+      "section": [
+        {
+          "id": 7267,
+          "type": "watering",
+          "description": "Water woodruff (Asperula tinctoria) regularly to keep the soil lightly moist, but not wet. Water approximately once a week or when the top 1-2 inches of soil is dry. Avoid over-watering as this can lead to root rot and other problems. Woodruff prefers full sun to partial shade and will perform best in moist, well-draining soil."
+        },
+        {
+          "id": 7268,
+          "type": "sunlight",
+          "description": "Woodruff (Asperula tinctoria) prefers bright indirect sunlight most of the day, as it will help the plant produce vibrant foliage. Depending on location, it can also generally tolerate full sun, though direct sunlight should be avoided due to its susceptibility to sunburn and leaf scorch.\n\nWhen planting outdoors, at least 6 hours of daily sunlight should be available. When kept indoors, it should receive indirect natural sunlight, should be placed near a bright south- or east-facing window and be rotated occasionally for even exposure. It can also be supplemented with artificial fluorescent, incandescent or LED light to prevent spindly, leggy growth."
+        },
+        {
+          "id": 7269,
+          "type": "pruning",
+          "description": "Pruning woodruff (Asperula tinctoria) is an important task for the health of the plant. The best time to prune woodruff plants is early spring, before new growth has begun. Pruning should be done every 2 to 3 years, and should occur just after flowering. Pruning should involve removing dead, diseased or damaged stems and the removal of any non-flowering stems. Cutting back the plant to a height of 5 to 10 centimeters can help to promote new growth and flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

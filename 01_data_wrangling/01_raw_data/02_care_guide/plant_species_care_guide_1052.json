@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2371,
+      "species_id": 1052,
+      "common_name": "tatarian aster",
+      "scientific_name": [
+        "Aster tataricus 'Jindai'"
+      ],
+      "section": [
+        {
+          "id": 7318,
+          "type": "watering",
+          "description": "Tatarian aster (Aster tataricus 'Jindai') should be watered regularly to keep its soil moist but not soggy. It should be watered every 3-4 days, providing around 1-2 inches of water. To ensure that the soil is evenly moistened, it is best to use a soaker hose or drip irrigation. In hotter months, more frequent watering may be necessary. During cooler months, the soil should be kept slightly damp but should not be saturated. Water less frequently during these times and only when the top 2 inches of soil feel dry. Overwatering this plant species can lead to various fungal diseases, so it is important to refrain from doing so."
+        },
+        {
+          "id": 7319,
+          "type": "sunlight",
+          "description": "Tatarian aster (Aster tataricus 'Jindai') requires about 4-6 hours of full sunlight each day for optimal growth. Since it is an herbaceous perennial, it is best to provide the full sunlight during the morning hours through late afternoon. Avoid placing the aster in direct sunlight for more than 6 hours as it may cause the foliage to scorch. If growing in a container, be sure to rotate the pot occasionally to ensure all sides of the plant receive an even amount of light."
+        },
+        {
+          "id": 7320,
+          "type": "pruning",
+          "description": "Tatarian aster (Aster tataricus 'Jindai') should be pruned in the spring, shortly after its first flush of growth in the season. This species should only be lightly pruned, with the removal of dead, diseased, or broken stems, and no more than 20 to 25 percent of the total growth. During pruning, it is important to leave some of the stems to ensure the plant will have adequate foliage for photosynthesis and air circulation."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

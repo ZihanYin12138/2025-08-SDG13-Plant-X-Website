@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2361,
+      "species_id": 1042,
+      "common_name": "hart's tongue fern",
+      "scientific_name": [
+        "Asplenium scolopendrium (Undulatum Group)"
+      ],
+      "section": [
+        {
+          "id": 7288,
+          "type": "watering",
+          "description": "The Hart's tongue fern should be watered once a week, allowing the soil to dry out slightly between waterings. Water the plant from the base of the plant and be sure to avoid wetting the leaves. Water until the soil is saturated and allow it to drain any excess water. During the summer months, the plant may need to be watered more often if the soil is drying out quickly. During the winter months, reduce the watering frequency as the plant is dormant. Do not overwater, as this can cause the plant to rot."
+        },
+        {
+          "id": 7289,
+          "type": "sunlight",
+          "description": "Hart's Tongue Ferns thrive in bright, indirect sunlight that they receive throughout the day. They appreciate at least 4 hours of direct sunlight, but the best range is from 6am to 12pm, with some afternoon shade. They do not appreciate too much direct sunlight as this can scorch their fronds and cause them to dry out. In order to ensure that Hart's Tongue Ferns receive the right amount of sunlight, it is important to check the area they are located in for potential shading caused by structures or trees."
+        },
+        {
+          "id": 7290,
+          "type": "pruning",
+          "description": "The Hart's Tongue Fern should be pruned annually in late summer or early autumn. This helps promote air circulation and stops the plant from becoming unruly or overcrowded. Pruning should involve cutting back any dead fronds and removing any foliage that has become overcrowded. Cutting back should be done carefully with a sharp pair of scissors to avoid damaging the plant. The new growth, which will appear in the spring, should be kept to no more than 3 fronds per crown, and anything else should be pruned away."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

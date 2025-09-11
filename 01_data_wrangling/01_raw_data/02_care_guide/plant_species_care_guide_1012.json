@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2337,
+      "species_id": 1012,
+      "common_name": "swamp milkweed",
+      "scientific_name": [
+        "Asclepias incarnata 'Soulmate'"
+      ],
+      "section": [
+        {
+          "id": 7216,
+          "type": "watering",
+          "description": "Watering swamp milkweed is fairly straight forward. During the spring and summer growing season, be sure to keep this perennial well-watered. In general it should receive 1-2 inches of water each week. Make sure to keep the soil consistently moist, but not waterlogged, to discourage root rot. Check the soil by inserting your finger several centimeters into the soil. If the soil feels moist, do not water. Water at the base of the plant, not the foliage to prevent fungal diseases. During dry spells, it may need to be watered more frequently (every other day or even daily). During the cooler months of the fall and winter, it is best not to water as frequently and to let the soil dry out slightly in between watering."
+        },
+        {
+          "id": 7217,
+          "type": "sunlight",
+          "description": "Swamp milkweed (Asclepias incarnata 'Soulmate') will need at least 5 hours of direct sunlight per day for optimal growth. For best results, it should be planted where it will get full sunlight in the early morning hours, and partial or dappled sunlight in the afternoon. It is particularly sensitive to extreme temperatures, so during the summer months, be sure to provide some shade or dappled sunlight to help keep this plant cool."
+        },
+        {
+          "id": 7218,
+          "type": "pruning",
+          "description": "Swamp milkweed (Asclepias incarnata 'Soulmate') should be pruned back after flowering, in the fall, when temperatures start to drop. The pruning should remove all the stems down to the base, and can be done at the end of October or beginning of November. Pruning will promote thicker growth, ensure new flowers each season, and keep the plants compact and manageable in the garden."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

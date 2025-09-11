@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2380,
+      "species_id": 1061,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe arendsii 'Fanal'"
+      ],
+      "section": [
+        {
+          "id": 7345,
+          "type": "watering",
+          "description": "Astilbe arendsii 'Fanal' is a shade-loving perennial that needs regular watering. In general, plants should be watered deeply once or twice a week. Water thoroughly so that the whole root system is soaked and the soil becomes saturated. Make sure to allow the soil to dry slightly between waterings. During the summer months, water plants more frequently and during dry spells add some extra water. In cooler months, the water needs can be reduced. Be sure to water the plants at the base of the plant, avoiding leaves and flowers."
+        },
+        {
+          "id": 7346,
+          "type": "sunlight",
+          "description": "Astilbe arendsii ‘Fanal’ does best in a partly shady location in the garden with dappled sunlight. This variety of astilbe thrives in a spot that gets 3 to 4 hours of morning sun and a few hours of bright, filtered shade in the afternoon. Too much direct sun may cause summer stress, resulting in poor blooms, while too much shade will also lead to fewer blooms or no blooms at all. For optimum performance, planted during the growing season from early spring to early summer, astilbe should have access to morning sun and afternoon shade."
+        },
+        {
+          "id": 7347,
+          "type": "pruning",
+          "description": "For optimal health and growth of Astilbe arendsii 'Fanal', it is recommended to prune them in late winter before the new growth appears. It is necessary to remove any dead or diseased leaves and stems, as well as any damaged or out of place growth. Generally, pruning should be done to promote air circulation, so when cutting back, try to leave enough foliage to still ensure good air circulation. Depending on the plant's size and overall health, this can include removing 1-third or 1-fourth of the stems, down to the basal foliage. Additionally, it can also be beneficial to remove any dead flower stalks once they are past their prime to encourage a new round of blooms."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2342,
+      "species_id": 1017,
+      "common_name": "common milkweed",
+      "scientific_name": [
+        "Asclepias syriaca"
+      ],
+      "section": [
+        {
+          "id": 7231,
+          "type": "watering",
+          "description": "Common milkweed should be watered deeply but infrequently. Aim to water the plant once every 7 to 10 days. When watering, apply enough water that the soil is saturated and can’t absorb more. Monitor the soil each day and water when the top 3 or 4 inches feels dry to the touch. Watering in the morning is best so that the plant has time to dry out before nighttime. Young plants may need more frequent watering. If your area is experiencing drought conditions, water more often."
+        },
+        {
+          "id": 7232,
+          "type": "sunlight",
+          "description": "Common milkweed plants need full sun to thrive, so they should receive at least 6 to 8 hours of direct sunlight on a daily basis. In order to achieve this, they should be planted in an area where they will get full sun all day long. If this is not possible, they should be planted in an area that receives full sun for most of the day with some shade in the afternoon, when the sun is at its hottest. When growing in the garden, milkweed plants should be given an open area to spread out and receive adequate sunlight."
+        },
+        {
+          "id": 7233,
+          "type": "pruning",
+          "description": "Common milkweed (Asclepias syriaca) should be pruned in the spring and summer months when the plant is actively growing. Pruning should remove dead or dying stems, as well as any old flower heads that have gone to seed. Pruning should be minimal and limited to 1/3 of the plant’s height. This will help prevent the plant from growing too large, as well as help maintain a healthy shape. Taking care not to inadvertently cut off new shoots or flower buds is important for a successful pruning session."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2333,
+      "species_id": 1008,
+      "common_name": "prairie milkweed",
+      "scientific_name": [
+        "Asclepias hirtella"
+      ],
+      "section": [
+        {
+          "id": 7204,
+          "type": "watering",
+          "description": "Prairie milkweed needs to be watered regularly to ensure its healthy growth. Water the plant deeply, ensuring that the soil is evenly moist, but not soggy. Water the plant once or twice a week when the topsoil looks dry. Decrease the amount of water during the winter months when the plant is dormant. It is best to water early in the day so the leaves have time to dry before evening."
+        },
+        {
+          "id": 7205,
+          "type": "sunlight",
+          "description": "Prairie milkweed (Asclepias hirtella) prefers full sun and needs at least 6 hours of sunlight each day. The best time to provide this sunlight is during the morning and early afternoon hours when the sun is highest in the sky. If possible, the plant should be located in a sunny spot that receives direct sunlight for most of the day. While prairie milkweed can tolerate some shade, direct sunlight is essential for the plant's survival and growth."
+        },
+        {
+          "id": 7206,
+          "type": "pruning",
+          "description": "Prairie milkweed (Asclepias hirtella) should be pruned twice a season, ideally in late spring and early fall. During the late spring pruning, cut back any above-ground stems that have been affected by frost or disease, removing the damage down to healthy tissue. When pruning in early fall, remove any dry, dead, or damaged growth. This will keep plants looking neat and will prevent the spread of disease. Only prune the plant back by 1-third of its growth, as this will help maintain the overall health of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

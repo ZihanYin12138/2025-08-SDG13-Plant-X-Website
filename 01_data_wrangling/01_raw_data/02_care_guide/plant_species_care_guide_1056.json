@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2375,
+      "species_id": 1056,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Alive and Kicking'"
+      ],
+      "section": [
+        {
+          "id": 7330,
+          "type": "watering",
+          "description": "Astilbe 'Alive and Kicking' should be watered regularly, usually about once or twice a week during the growing season (spring to fall). Water thoroughly until the soil is moist and the water has drained. Then let the top 2 inches of soil dry out before watering again. Give it extra water during extremely hot spells. In winter, reduce watering to about once a month or less, allowing the soil to dry out completely, as Astilbe likes a little dry dormancy."
+        },
+        {
+          "id": 7331,
+          "type": "sunlight",
+          "description": "Astilbe 'Alive and Kicking' prefers partial to full shade and needs at least 4 hours of direct sunlight per day to grow optimally. This plant should be grown in an area that receives morning sun and bright shade for the rest of the day. It is important to protect this plant from intense afternoon sunlight, as it can scorch the foliage. Additionally, be sure to avoid late-afternoon sun, as this plant does not thrive in excessive heat and will begin to suffer if exposed to direct sunlight during peak temperatures."
+        },
+        {
+          "id": 7332,
+          "type": "pruning",
+          "description": "With Astilbe 'Alive and Kicking', it is best to do light pruning in the spring right after the flowering period ends in late spring. Remove anythin that looks dead, such as dead flower heads and stems, as well as any thin, weak stems that are not producing flowers. Doing this will help to keep the plant looking neat and tidy and encourage healthy new growth. If you prefer a fuller look, prune back the canopy of the plant to about 1-third the size. Additionally, it is helpful to cut the foliage down in late fall, which will help protect the plant from winter damage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

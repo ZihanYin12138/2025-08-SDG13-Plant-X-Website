@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 219,
+      "species_id": 1068,
+      "common_name": "Chinese astilbe",
+      "scientific_name": [
+        "Astilbe chinensis 'Finale'"
+      ],
+      "section": [
+        {
+          "id": 785,
+          "type": "watering",
+          "description": "Water Chinese astilbe (Astilbe chinensis 'Finale') regularly and thoroughly with 1 inch of water per week. Water in the morning when the sun is low, so that the foliage has time to dry out before evening. Do not water the astilbe during the heat of the day, as the sun may damage the wet foliage. Too much water may cause root rot and disease, so avoid over-watering as well. Water the soil around the astilbe deeply and infrequently, rather than shallowly and often."
+        },
+        {
+          "id": 786,
+          "type": "sunlight",
+          "description": "Chinese astilbe prefers partial to full shade and grows best in moist, well-drained soils. In full shade, it gets no direct sunlight but will get some indirect light from the sky. For this plant species, it is best to provide at least 4 hours of indirect sunlight per day, or 8 hours if it is in partial shade. Avoid direct or full sun as this can cause wilting and damage to the plant. It is also recommended to water the plant at least twice per week and check for any signs of wilt or other damage from too much sun exposure."
+        },
+        {
+          "id": 787,
+          "type": "pruning",
+          "description": "The best time to prune Chinese astilbe is when the plant has finished flowering, typically in late summer to early fall. Pruning consists of cutting out any dead or damaged branches, as well as removing any old foliage. It is a good idea to prune plants in stages, rather than cut back all foliage at once. Pruning does not need to be done too heavily; instead, simply remove any unwanted wood or foliage. Chinese astilbe should be lightly pruned each year, with deeper pruning carried out every few years or so, in order to promote healthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

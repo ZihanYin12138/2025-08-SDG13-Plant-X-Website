@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2364,
+      "species_id": 1045,
+      "common_name": "michaelmas daisy",
+      "scientific_name": [
+        "Aster 'Celeste'"
+      ],
+      "section": [
+        {
+          "id": 7297,
+          "type": "watering",
+          "description": "Michaelmas Daisy (Aster 'Celeste') should be watered when the top 1-2 inches of soil feels dry to the touch. Water thoroughly until you see the excess running out of the drainage hole in the planter. Make sure to water the soil, not the flowers themselves. They should be watered about once a week, but if your area has extremely hot or dry conditions then increase the frequency of your watering."
+        },
+        {
+          "id": 7298,
+          "type": "sunlight",
+          "description": "Aster 'Celeste' (Michaelmas Daisy) requires full sun for optimal health and blooming. Place the plant in a location that receives at least 6 hours of direct sunlight per day. To produce flowers, Aster 'Celeste' needs at least 8 hours of direct sun, particularly during the flowering period. For best results, the plant should be situated in an area that receives full sun during the morning hours and midday. Avoid exposing the plant to prolonged afternoon sunlight."
+        },
+        {
+          "id": 7299,
+          "type": "pruning",
+          "description": "Michaelmas Daisy (Aster 'Celeste') should be pruned in late winter/early spring. Begin by removing any dead or damaged stems, then cut any tall stems back by 1 third. This will help to prevent the stems from getting too spindly and improve air circulation. Cut back the older, lower foliage to about 2-3 inches from the ground and remove pieces of foliage that are browning around the edges. Pruning Michaelmas Daisy at this time will help promote an even flower display throughout the summer months."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

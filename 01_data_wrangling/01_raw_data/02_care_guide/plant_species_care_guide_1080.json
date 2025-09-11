@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2397,
+      "species_id": 1080,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Federsee'"
+      ],
+      "section": [
+        {
+          "id": 7396,
+          "type": "watering",
+          "description": "Astilbe 'Federsee' should be watered about once a week, or when the soil begins to feel dry to the touch. Keep the soil moist, but not saturated. It's best to water thoroughly, so that the water is able to fully penetrate the root zone. Avoid wetting the foliage as much as possible, as this can encourage diseases. It is important to check the soil moisture levels before watering, as overwatering can cause root rot. During hot weather, it may be necessary to water more often."
+        },
+        {
+          "id": 7397,
+          "type": "sunlight",
+          "description": "Astilbe 'Federsee' is a perennial plant species that prefers partial to full shade. It requires at least 2 to 4 hours of direct sunlight per day—ideally in the morning hours for best performance. During hot summer months, shade from the afternoon sun can help prevent leaf wilting and leaf burn. While Astilbe 'Federsee' can survive in full sun, especially if given adequate moisture, excessive sun exposure can reduce the number and size of flowers produced."
+        },
+        {
+          "id": 7398,
+          "type": "pruning",
+          "description": "For astilbe (Astilbe 'Federsee'), it is best to prune the plant right after the blooming period has ended. This is typically done in late summer or early fall. It is important to prune the plant significantly in order to promote new growth the following season. You should be sure to remove any withered foliage and dead blooms, as well as any side branches that are growing away from the center of the plant. You should be sure to also trim the foliage back by 20-30%, as this will allow the plant to fill out more fully and take less resources. Following pruning, it is important to continue to care for the astilbe 'Federsee', such as by keeping the soil moist and fertilizing regularly."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

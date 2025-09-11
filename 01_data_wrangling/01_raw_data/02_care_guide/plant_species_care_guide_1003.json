@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2329,
+      "species_id": 1003,
+      "common_name": "wild ginger",
+      "scientific_name": [
+        "Asarum caudatum"
+      ],
+      "section": [
+        {
+          "id": 7192,
+          "type": "watering",
+          "description": "Wild ginger prefers moist soil so it is best to water it every 1 - 2 weeks during the growing season. Depending on your climate, you may need to water the plant more or less frequently. Be sure to check the soil before watering to make sure it is not overly saturated. When watering, use lukewarm or cool water and avoid getting the leaves wet to prevent possible disease. Additionally, do not let the soil dry out completely between waterings. Too much direct sunlight or excessively dry soil can cause the foliage to yellow and curl, so place it in a location that receives dappled shade or indirect sunlight."
+        },
+        {
+          "id": 7193,
+          "type": "sunlight",
+          "description": "Wild ginger (Asarum caudatum) grows best with partial sun to full shade. A great deal of light in the morning and limited exposure in the afternoon is best as the afternoon sunlight can be too strong for this species. While wild ginger is not a particularly sun-loving plant, it will still benefit from some natural light, so it is important to give it at least 4 to 6 hours of direct sunlight per day."
+        },
+        {
+          "id": 7194,
+          "type": "pruning",
+          "description": "Wild ginger is a versatile perennial plant that is hardy to USDA Plant Hardiness Zone 5. For optimal growth, pruning should be done in early spring, before new growth begins. Pruning should consist of removing any dead or diseased wood, and also cutting back branches to the desired shape. It is generally not necessary to prune heavily, as wild ginger grows slowly and is not very large. A light pruning every couple of years should suffice."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

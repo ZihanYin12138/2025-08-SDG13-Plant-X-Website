@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2401,
+      "species_id": 1084,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe japonica 'Montgomery'"
+      ],
+      "section": [
+        {
+          "id": 7408,
+          "type": "watering",
+          "description": "For best results, water Astilbe japonica 'Montgomery' plants often enough to keep the soil moist, but not soggy. Thus, be sure to provide moderate weekly watering throughout the growing season. Let the soil dry out slightly between waterings, but not so much that the plants look wilted. To help keep the soil evenly moist, consider adding a layer of mulch at the base of the plants. Water deeply each time to ensure that the entire root zone is evenly moistened. As a general rule, during the hot summer months, the plants should be watered 1 or 2 times per week. As cooler weather approaches, cut back on watering to every 2 to 3 weeks. During the winter months, hold off on watering and only water if the soil is completely dry and cracked."
+        },
+        {
+          "id": 7409,
+          "type": "sunlight",
+          "description": "Astilbe japonica 'Montgomery' is a shade-loving plant that should receive 3-4 hours of sunlight each day. Full sun should be avoided as it may cause too-rapid growth and scorching of the foliage. Morning sun with some afternoon shade is best. In winter, when days tend to be shorter, aim for a minimum of 2-3 hours of sunlight per day."
+        },
+        {
+          "id": 7410,
+          "type": "pruning",
+          "description": "Astilbe japonica 'Montgomery' should be pruned in early spring, just before the new growth appears. Pruning should involve cutting away any dead or damaged stems down to the crown of the plant. If pruning for size control, lightly trim back the plant by 1/3 or to desired shape or size. This will result in more full-bodied plants with an improved flowering display."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

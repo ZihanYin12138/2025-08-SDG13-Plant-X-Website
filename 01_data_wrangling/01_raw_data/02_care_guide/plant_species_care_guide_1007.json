@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1014,
+      "species_id": 1007,
+      "common_name": "blood flower",
+      "scientific_name": [
+        "Asclepias curassavica"
+      ],
+      "section": [
+        {
+          "id": 3027,
+          "type": "watering",
+          "description": "Blood flowers (Asclepias curassavica) should be watered frequently, but not too often. Water whenever the soil begins to feel dry to the touch (about 1-2 inches below the surface). Aim to give the plant 1-2 inches of water each week, either in a single soaking session or several lighter waterings. Allow the soil to dry out between watering to prevent root rot. Avoid overwatering, as this can damage the plant’s roots and leaves."
+        },
+        {
+          "id": 3037,
+          "type": "sunlight",
+          "description": "Blood flower plants grow best in full sun, so ideally they should receive at least 6 to 8 hours of direct sunlight each day. The best time to provide this sun exposure is between 10 am and 2 pm, when the light is at its peak intensity. With full sun exposure, blood flowers will bloom more brightly and bloom for a longer period of time. Avoid positioning the plants in partial shade, as this will reduce blooming and adversely affect the plant's health over time."
+        },
+        {
+          "id": 3044,
+          "type": "pruning",
+          "description": "Blood flower (Asclepias curassavica) should be pruned once or twice a year, in late winter or early spring, and to a height of 12-18 inches. Pruning should be done cautiously, as too much or too little pruning can harm this delicate plant. Make sure to use sharp pruners while pruning and to cut off any dead or dying branches and leaves. Remove any stems that have become too woody from overgrowth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

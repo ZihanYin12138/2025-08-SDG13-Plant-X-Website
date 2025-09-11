@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2365,
+      "species_id": 1046,
+      "common_name": "aster",
+      "scientific_name": [
+        "Aster frikartii 'Flora's Delight'"
+      ],
+      "section": [
+        {
+          "id": 7300,
+          "type": "watering",
+          "description": "Aster plants should be watered when soil is dry to the touch. Generally, they require about 1 - 2 inches of water every week. During the summer, aster plants should be watered more frequently to keep the soil slightly moist but not soggy. Water thoroughly, making sure to penetrate the entire root zone and make sure to let the soil dry out slightly in between waterings."
+        },
+        {
+          "id": 7301,
+          "type": "sunlight",
+          "description": "Aster (Aster frikartii 'Flora's Delight') requires a full sun exposure of at least 6 hours of direct sunlight per day for optimal growth and flower production. Plant the Aster in a location where it will receive a minimum of 6 hours of direct sunlight each day from about 10 am to 4 pm. This plant does not thrive in shade; it needs full sun in order to bloom abundantly and to prevent the foliage from becoming leggy and sparse."
+        },
+        {
+          "id": 7302,
+          "type": "pruning",
+          "description": "Aster (Aster frikartii 'Flora's Delight') should be pruned during late winter or early spring. For pruning, remove any dead, damaged, or diseased stems and buds. Then cut back the remaining stems to 12 to 18 inches. If the size of the plant is smaller than desired and branching is desired, cut back by 1-third of the existing height. Prune away any branches that cross or rub against 1 another. This will help improve air circulation and discourage pests and diseases. Finally, shape the plant by cutting back stems that extend away from the main plant structure. For best results, aim for a symmetrical shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

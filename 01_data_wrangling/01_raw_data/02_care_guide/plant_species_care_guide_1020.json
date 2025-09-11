@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2345,
+      "species_id": 1020,
+      "common_name": "butterfly weed",
+      "scientific_name": [
+        "Asclepias tuberosa 'Hello Yellow'"
+      ],
+      "section": [
+        {
+          "id": 7240,
+          "type": "watering",
+          "description": "As with most plants, the amount and frequency of watering required will depend on a few factors, including the size and age of the plant and the weather. Generally, butterfly weed plants need to be watered deeply every 7-14 days during the growing season, when the soil feels dry to the touch. Container plants may require more frequent watering. During hot, dry weather, be sure to check the soil frequently, as the plants may need additional water. To help conserve moisture, spread mulch around the base of the plants. In late fall, before the ground freezes, reduce watering and stop once the ground is frozen."
+        },
+        {
+          "id": 7241,
+          "type": "sunlight",
+          "description": "Butterfly weed (Asclepias tuberosa 'Hello Yellow') requires full sun for optimal growth and bloom. Plants that are exposed to at least 6 hours of direct sun each day will bloom for a longer period of time and become larger than plants growing in shadier or more partial sun locations. Keep this species in a position that receives full sun from around 10am to 6pm on a regular basis to ensure proper growth and health."
+        },
+        {
+          "id": 7242,
+          "type": "pruning",
+          "description": "Butterfly weed (Asclepias tuberosa 'Hello Yellow') should be pruned in the late winter or early spring. While pruning can be done lightly during the summer months, any major pruning should be saved for the winter or early spring before new growth emerges. Pruning should include the removal of any dead, diseased, or old stems and woody growth. Remove any stems that have already bloomed in order to encourage more blooms. Deadheading can also be done as needed throughout the summer and fall in order to keep the plant looking tidy. Pruning should be done in moderation so as not to remove too much of the plant at once."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

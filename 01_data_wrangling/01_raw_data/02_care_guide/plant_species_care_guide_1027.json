@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2349,
+      "species_id": 1027,
+      "common_name": "asparagus",
+      "scientific_name": [
+        "Asparagus officinalis 'Jersey Knight'"
+      ],
+      "section": [
+        {
+          "id": 7252,
+          "type": "watering",
+          "description": "Asparagus (Asparagus officinalis 'Jersey Knight') should be watered deeply once a week during spring and summer months when temperatures are warmer. In the cooler months of autumn and winter, once every 2 weeks should be sufficient. The soil should be kept evenly moist but not soggy, as over-watering can cause root rot. It is important to avoid wetting the stems and foliage when watering. It is best to use a soaker hose or drip irrigation system to slowly seep water in the ground directly to the plants' root zone."
+        },
+        {
+          "id": 7253,
+          "type": "sunlight",
+          "description": "Asparagus officinalis 'Jersey Knight' does best when planted in a location with plenty of full sun. This plant prefers at least 6 to 8 hours of direct sunlight each day, ideally in the morning with some afternoon shade. For optimal growth, providing some afternoon shade can be beneficial. This plant also prefers well-drained, slightly acidic soil. It can tolerate drought, but will thrive in moist, fertile soils."
+        },
+        {
+          "id": 7254,
+          "type": "pruning",
+          "description": "Asparagus officinalis 'Jersey Knight' should be pruned once a year after the harvest season. Pruning should be done lightly to remove any dead foliage, and also to prevent any overcrowding. When pruning, only remove about a third of the spears from the base of the plant. After the spears have been harvested, use a pair of sharp pruners to remove any spears growing more than 4 inches away from the main plant. This will help to promote air flow throughout the plant, enabling it to receive more sunlight, moisture, and nutrients. Pruning can also help to prevent diseases and pests from taking hold in the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

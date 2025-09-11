@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2376,
+      "species_id": 1057,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe arendsii 'Amethyst'"
+      ],
+      "section": [
+        {
+          "id": 7333,
+          "type": "watering",
+          "description": "Astilbe 'Amethyst' should be watered thoroughly once a week in order to maintain moist soil. During the summer months, increase the frequency of watering to 2 or 3 times a week if necessary. When watering, make sure to moisten the whole rootball, not just the topsoil. You may also want to mist the foliage of your plant in order to increase humidity levels and provide a more favorable environment for growth. Do not allow the soil to become soggy or dry out, as this can cause permanent damage to the plant."
+        },
+        {
+          "id": 7334,
+          "type": "sunlight",
+          "description": "Astilbe arendsii 'Amethyst' prefers a partially shaded or light shaded location. The plant should receive 4-6 hours of indirect sunlight a day. Morning sun is preferred as well as protection from the hot afternoon sun. When placed in too much sun, the foliage will start to yellow or fade. The plant should be kept in a location away from the bright sun during the afternoon."
+        },
+        {
+          "id": 7335,
+          "type": "pruning",
+          "description": "Astilbe arendsii 'Amethyst' should be pruned in early spring each year, just before new growth begins to emerge. Pruning should be done lightly, removing just 1-third of the previous year’s growth. This can be done by cutting back dead or dying flower stems to the base of the plant. Additionally, deadheading of flowers, removal of any damaged foliage or stems, and thinning out overgrown and weak stems will help keep the plant looking its best."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

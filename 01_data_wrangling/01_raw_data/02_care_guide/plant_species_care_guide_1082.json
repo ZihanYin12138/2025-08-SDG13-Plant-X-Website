@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2399,
+      "species_id": 1082,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Heart and Soul'"
+      ],
+      "section": [
+        {
+          "id": 7402,
+          "type": "watering",
+          "description": "Astilbe 'Heart and Soul' should be watered about 1 to 2 times a week, depending on the soil moisture. Water the plant deeply, saturating the soil but not to the point of waterlogging. The soil should be kept moist, not soggy. Water in the morning so that moisture can evaporate during the day. During dry, warm spells, water more often to keep the soil consistently moist. Check the soil each week by putting a finger into it. The soil should be damp, but not wet."
+        },
+        {
+          "id": 7403,
+          "type": "sunlight",
+          "description": "Astilbe 'Heart and Soul' prefers full or partial shade, with some full sun. This plant can tolerate morning sun better than afternoon sun, so it's best to keep it shaded during the hottest part of day. In colder climates, they can also tolerate direct sun for up to 5–7 hours. Generally, it is best to keep this plant in partial shade for most of the day, with some full sun in the morning."
+        },
+        {
+          "id": 7404,
+          "type": "pruning",
+          "description": "Pruning astilbe (Astilbe 'Heart and Soul') should be done in early spring. Prune back any dead foliage to the ground and trim back the new foliage until it is 1/3 of its original size. This will help promote new healthy growth and encourage flowering. After flowering, further pruning can be done. Cut back dead flower stalks to the ground and lightly shape the patch to keep it looking tidy. It is not necessary to trim astilbe too much, as this is a low-maintenance plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
