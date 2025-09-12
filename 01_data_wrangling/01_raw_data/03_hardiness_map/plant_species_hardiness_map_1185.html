@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+        <!-- 60 -->
+        
+        <meta name="robots" content="noindex, nofollow">
+
+        <!-- Livewire Styles --><style >[wire\:loading][wire\:loading], [wire\:loading\.delay][wire\:loading\.delay], [wire\:loading\.inline-block][wire\:loading\.inline-block], [wire\:loading\.inline][wire\:loading\.inline], [wire\:loading\.block][wire\:loading\.block], [wire\:loading\.flex][wire\:loading\.flex], [wire\:loading\.table][wire\:loading\.table], [wire\:loading\.grid][wire\:loading\.grid], [wire\:loading\.inline-flex][wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.none][wire\:loading\.delay\.none], [wire\:loading\.delay\.shortest][wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter][wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short][wire\:loading\.delay\.short], [wire\:loading\.delay\.default][wire\:loading\.delay\.default], [wire\:loading\.delay\.long][wire\:loading\.delay\.long], [wire\:loading\.delay\.longer][wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest][wire\:loading\.delay\.longest] {display: none;}[wire\:offline][wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}:root {--livewire-progress-bar-color: #2299dd;}[x-cloak] {display: none !important;}</style>
+
+        <!-- Script -->
+        <script >window.Wireui = {cache: {},hook(hook, callback) {window.addEventListener(`wireui:${hook}`, () => callback())},dispatchHook(hook) {window.dispatchEvent(new Event(`wireui:${hook}`))}}</script>
+<script src="https://perenual.com/wireui/assets/scripts?id=5dda7be9cac61c5885776c4a03411770" defer ></script>
+
+        <link rel="preload" as="style" href="https://perenual.com/build/assets/app-Dy9tYsF4.css" /><link rel="modulepreload" href="https://perenual.com/build/assets/app-Xaw6OIO1.js" /><link rel="stylesheet" href="https://perenual.com/build/assets/app-Dy9tYsF4.css" data-navigate-track="reload" /><script type="module" src="https://perenual.com/build/assets/app-Xaw6OIO1.js" data-navigate-track="reload"></script>
+<script>
+     window.addEventListener('load', () => window.setTimeout(() => {
+        const makeLink = (asset) => {
+            const link = document.createElement('link')
+
+            Object.keys(asset).forEach((attribute) => {
+                link.setAttribute(attribute, asset[attribute])
+            })
+
+            return link
+        }
+
+        const loadNext = (assets, count) => window.setTimeout(() => {
+            if (count > assets.length) {
+                count = assets.length
+
+                if (count === 0) {
+                    return
+                }
+            }
+
+            const fragment = new DocumentFragment
+
+            while (count > 0) {
+                const link = makeLink(assets.shift())
+                fragment.append(link)
+                count--
+
+                if (assets.length) {
+                    link.onload = () => loadNext(assets, 1)
+                    link.onerror = () => loadNext(assets, 1)
+                }
+            }
+
+            document.head.append(fragment)
+        })
+
+        loadNext([], 3)
+    }))
+</script>
+    </head>
+    
+    <div>
+        <div wire:snapshot="{&quot;data&quot;:{&quot;zone&quot;:[{&quot;min&quot;:3,&quot;max&quot;:9},{&quot;s&quot;:&quot;arr&quot;}],&quot;size&quot;:&quot;lg&quot;,&quot;species_id&quot;:1185},&quot;memo&quot;:{&quot;id&quot;:&quot;TtuGkSA4nny0ephTIkbd&quot;,&quot;name&quot;:&quot;hardiness.map&quot;,&quot;path&quot;:&quot;api\/hardiness-map&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;errors&quot;:[],&quot;locale&quot;:&quot;en&quot;},&quot;checksum&quot;:&quot;f871158518734969f5add823b584fbbe03334a22d84b5036f6bb3678f6a88e6c&quot;}" wire:effects="{&quot;url&quot;:{&quot;species_id&quot;:{&quot;as&quot;:&quot;species_id&quot;,&quot;use&quot;:&quot;push&quot;,&quot;alwaysShow&quot;:false,&quot;except&quot;:&quot;&quot;}}}" wire:id="TtuGkSA4nny0ephTIkbd" class="relative">
+    
+    <canvas id="myCanvas" style="width: 100%; height: 100%;"></canvas>
+
+    <script>
+
+        // Get the canvas element from the HTML
+        const canvas = document.getElementById('myCanvas');
+        const ctx = canvas.getContext('2d');
+
+        // Load the first image using the Image object to get its size
+        const firstImageUrl = "https://perenual.com/storage/image/hardiness/lg/0.png";
+        const firstImage = new Image();
+        firstImage.onload = () => {
+            // Set the canvas size to match the first image's size
+            canvas.width = firstImage.width;
+            canvas.height = firstImage.height;
+
+            // Load the rest of the images and draw them onto the canvas
+            const imageUrls = ["https://perenual.com/storage/image/hardiness/lg/0.png"];
+
+            for (var x = 3; x <= 9; x++) {
+                const url = "https://perenual.com/storage/image/hardiness/lg/" + x + ".png";
+                imageUrls.push(url);
+            }
+
+            for (let i = 0; i < imageUrls.length; i++) {
+                const img = new Image();
+                img.onload = () => {
+                  // Set the global alpha value to 0.8 for all layers except for 0.png
+                  if (i > 0) {
+                    ctx.globalAlpha = 0.8;
+                  }
+                  ctx.drawImage(img, 0, 0);
+                  // Reset the global alpha value to 1.0 for the next layer
+                  ctx.globalAlpha = 1.0;
+                };
+                img.src = imageUrls[i];
+              }
+            };
+            firstImage.src = firstImageUrl;
+
+    </script>
+</div>    </div>
+
+<!-- Livewire Scripts -->
+<script src="/livewire/livewire.js?id=951e6947"   data-csrf="" data-update-uri="/livewire/update" data-navigate-once="true"></script>
+</html>
+
