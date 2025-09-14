@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2421,
+      "species_id": 1105,
+      "common_name": "greater masterwort",
+      "scientific_name": [
+        "Astrantia major 'Ruby Cloud'"
+      ],
+      "section": [
+        {
+          "id": 7468,
+          "type": "watering",
+          "description": "Greater masterwort (Astrantia major 'Ruby Cloud') should be watered regularly and deeply to ensure the plants stay healthy and vigorous. This species of plant does best in well-drained, organically rich soil that is slightly acidic. During the spring and summer, water the plant at least once a week, ensuring it is adequately soaked each time. In the fall and winter, cut back on watering as the plant will naturally need less. It’s important to monitor the soil moisture and only water when the top few inches are feeling dry. Too much water can cause root rot or powdery mildew so make sure the soil isn’t waterlogged."
+        },
+        {
+          "id": 7469,
+          "type": "sunlight",
+          "description": "Greater masterwort (Astrantia major ‘Ruby Cloud’) is best grown in an area of partial shade. This plant species requires at least 4 hours of direct sunlight daily, preferably in the morning and early evening, so that the foliage can dry off. During the hottest periods of the summer, midday shade may be necessary to prevent damage from too much sun. This plant prefers light, airy soil in either a mostly sunny or partly shaded position, where it is protected from cold winds. As it is a tolerant species, in very hot climates it can even survive in full sun."
+        },
+        {
+          "id": 7470,
+          "type": "pruning",
+          "description": "Greater Masterwort (Astrantia major 'Ruby Cloud') is best pruned in early spring, just after its blooming period (May). Depending on the plant size, light pruning can be done to control its overall height, by removing the top-most leaves. The flowers can also be pinched off to encourage the plant to produce more blooms. Heavy pruning should be avoided, as it will deter blooming for the season. If pruning is desired to control a large, overgrown plant, it should be done so in stages throughout the growing season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

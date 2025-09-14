@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2490,
+      "species_id": 1185,
+      "common_name": "wild indigo",
+      "scientific_name": [
+        "Baptisia tinctoria"
+      ],
+      "section": [
+        {
+          "id": 7676,
+          "type": "watering",
+          "description": "Wild indigo should be watered deeply and regularly throughout the growing season. Watering should be done at least twice a week during periods of drought or extreme heat. During the spring and summer months, soil should be kept moist, but not soggy. During the cold winter months, water only when the soil is almost dry. During the blooming period, it is important to keep the soil around the roots moist to ensure the best blooms."
+        },
+        {
+          "id": 7677,
+          "type": "sunlight",
+          "description": "Wild Indigo (Baptisia tinctoria) flourishes best in medium to full sun exposure, with at least a minimum of 6 hours of direct sunlight each day. This natural perennialsouthern US native prefers soil with average moisture, good drainage, and slightly acidic to slightly neutral pH levels. Wild Indigo tolerates heat well and should be given afternoon shade in hot climates. During peak blooming season, full sun is beneficial to achieve maximum flowering."
+        },
+        {
+          "id": 7678,
+          "type": "pruning",
+          "description": "For wild indigo (Baptisia tinctoria) pruning, it is best done in late fall or early spring before new growth appears. Prune by cutting back flowering stems to the ground and removing any dead or damaged wood. If pruning is needed to control the size or shape of the plant, it should be done by light pruning that takes no more than 1-third of the total canopy height. This will help avoid the plant going into shock."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

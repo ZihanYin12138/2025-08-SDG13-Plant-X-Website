@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2464,
+      "species_id": 1156,
+      "common_name": "azara",
+      "scientific_name": [
+        "Azara microphylla"
+      ],
+      "section": [
+        {
+          "id": 7598,
+          "type": "watering",
+          "description": "Azara microphylla (azara), which is native to South America, prefers a moderate amount of water and prefers wet but well-drained soil. During periods of active growth, water this plant when the top half-inch of soil is dry. Make sure not to over-water, since azara is more prone to root rot than other plants. During the winter months, water less, but do not let the soil become too dry. If grown in a container, make sure to check the moisture level of the soil more often and adjust the watering schedule accordingly."
+        },
+        {
+          "id": 7599,
+          "type": "sunlight",
+          "description": "Azara microphylla is an evergreen shrub native to South America. It prefers bright, indirect light, requiring at least 4-6 hours of sunlight per day. However, it is tolerant of light shade as well, making it easy to grow indoors. Because it is an evergreen, it needs sunlight all year round. In the summer, provide more direct light for about 6-8 hours each day, and in the winter, offer about 4-6 hours of direct sunlight. To ensure optimal growth and flowering, place the plant in a location with bright, indirect sunlight. Avoid putting the plant in direct, hot sunlight, as this may scorch or burn its foliage."
+        },
+        {
+          "id": 7600,
+          "type": "pruning",
+          "description": "Azara microphylla should be pruned lightly and often, especially during its first few growing seasons. Pruning should be done in early spring to encourage new growth and lush foliage. When pruning, avoid cutting into old or damaged wood as this can lead to further damage or infection. Prune the plant only where necessary, such as removing dead, diseased, or broken branches. Cut back no more than ⅓ of the plant’s total size every year and prune back to lateral buds to encourage naturally attractive growth. Avoid shearing as this can create a ‘lollipop’ shape and dense patches of internal growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

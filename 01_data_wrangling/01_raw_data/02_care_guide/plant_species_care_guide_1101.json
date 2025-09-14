@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2417,
+      "species_id": 1101,
+      "common_name": "greater masterwort",
+      "scientific_name": [
+        "Astrantia major"
+      ],
+      "section": [
+        {
+          "id": 7456,
+          "type": "watering",
+          "description": "Greater masterwort (Astrantia major) should be watered regularly throughout the growing season, generally 1-2 times a week during periods of active growth. Reduce watering during the winter months when growth is naturally slower. To check if your plant needs water, insert your finger into the soil about 2 inches deep - if the soil feels dry, it's time to water. Make sure to water thoroughly each time, until water is draining from the pot."
+        },
+        {
+          "id": 7457,
+          "type": "sunlight",
+          "description": "The optimal amount of sunlight for Greater Masterwort (Astrantia major) is approximately 4-6 hours of direct sunlight per day. For the best growth, Greater Masterwort should receive this amount of sunlight daily, particularly during its active growth period in the spring, summer, and early fall. If the plant receives any more than this, it can become over-exposed and scorched by the sun. In areas with sweltering temperatures, it is best to provide some shade from mid-day to mid-afternoon sun. In cooler climates, however, morning sun is beneficial."
+        },
+        {
+          "id": 7458,
+          "type": "pruning",
+          "description": "Greater masterwort (Astrantia major) should be pruned in late winter. Pruning should involve cutting the stems down to about 6 inches from the base of the plant. Remove any dead, damaged, or diseased stems. Flower heads can be left on the plant, as pruning them may encourage additional flowering. You can also trim the plants lightly after flowering, to help keep the shape of the shrub. This should be enough to keep the plant looking tidy and will hopefully encourage a flush of new growth in late spring."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

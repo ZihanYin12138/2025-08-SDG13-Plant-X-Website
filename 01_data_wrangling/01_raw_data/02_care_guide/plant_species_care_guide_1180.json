@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2485,
+      "species_id": 1180,
+      "common_name": "false indigo",
+      "scientific_name": [
+        "Baptisia perfoliata"
+      ],
+      "section": [
+        {
+          "id": 7661,
+          "type": "watering",
+          "description": "False indigo (Baptisia perfoliata) prefers moist, well-drained soil; however, it is drought tolerant once established. When watering, it is important to ensure the soil is kept evenly moist, but not saturated. The best way to ensure correct water levels is to water deeply and consistently, so that the root system can absorb and store the moisture it needs. During periods of extreme heat or drought, an additional deep watering once every 1-2 weeks may be needed. Avoid overhead watering whenever possible to reduce the risk of fungal infections."
+        },
+        {
+          "id": 7662,
+          "type": "sunlight",
+          "description": "False indigo (Baptisia perfoliata) prefers full sun, which means at least 6 hours of direct sunlight per day. If grown in partial shade, it may not flower as much or develop its best color. This species also benefits from some afternoon shade in areas with especially hot summers. The plant will tolerate partial shade conditions, but optimal growth and flower production occur when it is exposed to maximum amounts of sunlight."
+        },
+        {
+          "id": 7663,
+          "type": "pruning",
+          "description": "False indigo (Baptisia perfoliata) should be pruned in early springtime after the last frost. This is usually around April in most climates. These plants do not require a lot of regular pruning, but can benefit from the occasional trimming in order to encourage healthy, strong growth and maintain their shape. When pruning, it is important to make sure to take into consideration the mature size of the plant, as false indigo can grow quite large. It’s safely to remove up to 1-third of the plant. Some advice is to prune down to the ground to stimulate new growth. This is only recommended, however, if the plant is severely overgrown as it can be a bit of a shock to the system. Additionally, it is important to make sure any dead, diseased, or damaged branches are removed as these can affect the health of the entire plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

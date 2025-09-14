@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2458,
+      "species_id": 1145,
+      "common_name": "deadly nightshade",
+      "scientific_name": [
+        "Atropa belladonna"
+      ],
+      "section": [
+        {
+          "id": 7580,
+          "type": "watering",
+          "description": "Deadly nightshade requires soaking soil with water every 7 to 10 days. Watering should not be too excessive, so the soil should not be overwatered with water being left standing. When watering, water the base of the plant, avoiding the leaves, and water until the top inch or 2 of soil is damp. For optimal growth and flowering, reduce watering in the winter months, and make sure the soil is completely dry before watering again. Too much water can damage the plant and its roots, so it is important to monitor soil moisture levels and water appropriately."
+        },
+        {
+          "id": 7581,
+          "type": "sunlight",
+          "description": "Deadly Nightshade (Atropa belladonna) requires at least 6-8 hours of full sunlight every day and should be kept in an area that is not too hot or too cold. It prefers a temperature between 65 and 75 degrees Fahrenheit and does best in abundant light. During the spring and summer months, Deadly Nightshade should be placed in a sunny place outdoors that is sheltered from wind to ensure optimal growth. In the winter months, when sunlight is less intense and the days are shorter, move the plant indoors to a well-lit area; however, supplementing its light with grow lights may be necessary."
+        },
+        {
+          "id": 7582,
+          "type": "pruning",
+          "description": "Deadly nightshade should be pruned regularly throughout the growing season. Pruning should be done in early spring, when the plants are starting to grow. Focus on thinning out any spindly or weak stems to encourage a fuller bushier shape. Any dead, diseased, or damaged foliage should also be pruned away. Summer pruning is typically done to maintain the shape of the bush and to reduce the size if necessary. It is also a good idea to remove any flowers fading away as this helps direct the plants energy elsewhere. After the growing season is over, a final pruning of the plant should take place to keep the size in check as well as take out any dead, diseased, or fading foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

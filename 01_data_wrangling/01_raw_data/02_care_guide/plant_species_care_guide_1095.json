@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2412,
+      "species_id": 1095,
+      "common_name": "astilboides",
+      "scientific_name": [
+        "Astilboides tabularis"
+      ],
+      "section": [
+        {
+          "id": 7441,
+          "type": "watering",
+          "description": "Astilboides tabularis should be watered moderately throughout the spring and summer months. The soil should be kept moist but not wet. During the fall and winter months, watering should be reduced to once a month. In general, a good rule of thumb is to water when the top inch of soil is dry. Make sure not to over water, as this can cause root rot."
+        },
+        {
+          "id": 7442,
+          "type": "sunlight",
+          "description": "Astilboides tabularis, a woodland plant species, prefers bright, dappled sunlight, which should be provided for at least 4 to 5 hours a day. It is best to provide morning sunlight, as it is usually less intense and humid during this period, and can help prevent the leaves from burning or wilting. Full midday sun can be beneficial, however, and some midday sunlight may be necessary if the plant is grown in a shady area. In general, full shade is not recommended for Astilboides tabularis, as it will not produce enough flowers and foliage for an attractive display."
+        },
+        {
+          "id": 7443,
+          "type": "pruning",
+          "description": "Pruning Astilboides tabularis, commonly known as aastilboides, is important for maintaining the health of the plant. It is typically done in spring or early summer, just as new growth is emerging. Pruning should be done to maintain an attractive shape and size, as well as to control the size of the plants. At this time of year, it is important to be careful not to disturb any emerging flower buds. When pruning astilboides, cut back any old, dead or diseased stems using sharp pruning shears. Then, selectively prune any branches that are growing in an awkward direction or those that are crossing over each other. Try to maintain a pleasant, natural shape as you prune. If desired, you can also prune to reduce or control the overall size of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

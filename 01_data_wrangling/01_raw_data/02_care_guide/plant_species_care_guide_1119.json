@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2434,
+      "species_id": 1119,
+      "common_name": "lady fern",
+      "scientific_name": [
+        "Athyrium filix-femina 'Fancy Fronds'"
+      ],
+      "section": [
+        {
+          "id": 7507,
+          "type": "watering",
+          "description": "Lady Ferns (Athyrium filix-femina 'Fancy Fronds') tend to be low-maintenance plants. The only water they require is enough to keep the soil evenly moist, but not wet or soggy. During the growing season, water regularly to keep the soil damp, but avoid over-watering. Allow the top inch of soil to dry out between waterings. Spritz the fronds with a mist sprayer occasionally, especially in hot, dry weather. Reduce the frequency of waterings in the winter when the plant is dormant."
+        },
+        {
+          "id": 7508,
+          "type": "sunlight",
+          "description": "Lady ferns prefer indirect sunlight, with 4 to 5 hours of bright, indirect light per day being most beneficial. If possible, direct sunlight should be avoided, as this can scorch the delicate leaves. If grown indoors, find a spot near a south- or east-facing window – though a sheer curtain can help diffuse the light if the light is too bright. If your fern is in a place that receives too little light, it may become leggy and weak, with a reduced number of fronds.\n\nIn the outdoors, the lady fern prefers light, partial shade to shady areas. Mornings are best, with some direct light in the morning hours but shaded conditions the rest of the day. This species does not like too much sun, so try to keep it out of direct midday or afternoon sun."
+        },
+        {
+          "id": 7509,
+          "type": "pruning",
+          "description": "Lady ferns (Athyrium filix-femina 'Fancy Fronds') should be lightly pruned in early spring while the new growth is emerging. Remove any dead or damaged fronds, cut them back to within a few inches of the crown, and shape the plant to maintain an even growth pattern. Pruning can also be done in late summer to remove any foliage that is growing over other plants or is blocking pathways. If pruning during the summer, leave some foliage so the plant can re-energize from the sunlight. During heavy pruning, make sure not to cut more than 1-third of the plant’s foliage as this can stress the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

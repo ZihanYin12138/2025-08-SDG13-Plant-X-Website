@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2438,
+      "species_id": 1123,
+      "common_name": "northern lady fern",
+      "scientific_name": [
+        "Athyrium filix-femina var. angustum"
+      ],
+      "section": [
+        {
+          "id": 7519,
+          "type": "watering",
+          "description": "The Northern Lady Fern (Athyrium filix-femina var. angustum) should be watered thoroughly but infrequently, about once every 7-10 days. Soil should be kept moist but not saturated; if the soil is allowed to dry out completely between waterings, the plant may suffer. Do not allow water to become stagnant, as this may lead to root rot. During periods of hot or dry weather, water more frequently to maintain soil moisture. Avoid getting water on the frond blades, as this may lead to browning."
+        },
+        {
+          "id": 7520,
+          "type": "sunlight",
+          "description": "Northern Lady Fern prefers moderate sunlight, with 3-4 hours of direct sunlight per week being ideal. This species does not need to be in full sun all day, and can still thrive in partial shade. When it comes to temperature, they do not thrive in direct heat, but can tolerate frosty temperatures. It is best to choose a spot with partial to full shade, and cooler temperatures during the warmer months."
+        },
+        {
+          "id": 7521,
+          "type": "pruning",
+          "description": "Pruning for the Northern Lady Fern should be done during the spring and fall seasons, a few weeks before or after its usual growth period so as to ensure proper growth. Pruning should be done to remove excess foliage and dead fronds while also trimming back any dilapidated limbs.\n\nThe fern should be trimmed back lightly and only when necessary. The cuts should be kept to a minimum, removing only the most damaged or damaged fronds. Pruned areas should be snipped off uniformly to keep the plant looking tidy.\n\nRegular pruning is important to maintain the fern's shape and health. Be careful not to prune too much, as this can prevent the fern from growing."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

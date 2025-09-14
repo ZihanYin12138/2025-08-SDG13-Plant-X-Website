@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2487,
+      "species_id": 1182,
+      "common_name": "false indigo",
+      "scientific_name": [
+        "Baptisia 'Purple Smoke'"
+      ],
+      "section": [
+        {
+          "id": 7667,
+          "type": "watering",
+          "description": "False indigo (Baptisia 'Purple Smoke') prefers a consistently moist soil, but it should not be over watered. Aim to water deeply and thoroughly once a week. During the hot, dry summer months, it may need to be watered 2 to 3 times a week. In the cooler months, water every 2 weeks. Watch the foliage for signs of wilting or drooping and add additional water if necessary. Be aware of the weather and if there is significant rain, reduce or skip your watering schedule accordingly."
+        },
+        {
+          "id": 7668,
+          "type": "sunlight",
+          "description": "False indigo (Baptisia 'Purple Smoke') grows best in full sun, which means it needs at least 6 hours of direct sunlight a day for optimal growth. Since these plants can be somewhat tolerant of shade, they can still thrive with 4-5 hours of direct sunlight, but it is important to note that they may not reach their full potential in this type of environment. When it comes to timing, false indigo is a plant that thrives when it receives most of its sunlight in the morning, ideally from sunrise to mid-day. The intensity of the midday sun can be too harsh for these plants, so it's best to provide them with afternoon shade if possible."
+        },
+        {
+          "id": 7669,
+          "type": "pruning",
+          "description": "False indigo (Baptisia 'Purple Smoke') does not require much pruning. To maintain a healthy and attractive plant, old and damaged foliage should be removed as soon as it becomes visible and dead flowers should be snipped back close to the foliage in the early spring. This will help encourage new growth and keep the false indigo looking its best. To control the height and shape of the plant, lightly prune the branches after the flowering period (usually in late summer or early fall). Always avoid pruning too much of the live branches as this could adversely affect the health of the plant. With proper care, false indigo should require minimal pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

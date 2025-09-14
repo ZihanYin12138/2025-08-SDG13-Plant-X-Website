@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2433,
+      "species_id": 1118,
+      "common_name": "lady fern",
+      "scientific_name": [
+        "Athyrium filix-femina 'Encourage'"
+      ],
+      "section": [
+        {
+          "id": 7504,
+          "type": "watering",
+          "description": "Lady ferns can tolerate an average amount of moisture and medium soils but prefer moist and more acidic soils. When watering, it is important to keep the soil evenly moist but not waterlogged. Water when the top inch of soil feels dry to the touch. It is usually best to water your Lady Fern early in the day and avoid wetting the foliage while you water. Be careful not to over-water as this can cause root rot or other problems. A Lady Fern planted in a well-draining container should get a thorough soaking every 10 to 14 days. Those planted in the ground can benefit from a good soaking every 7-10 days, depending on the weather."
+        },
+        {
+          "id": 7505,
+          "type": "sunlight",
+          "description": "Lady fern (Athyrium filix-femina 'Encourage') prefers bright indiret light exposure. It should be placed in a spot that receives several hours of indirect sunlight daily but is not in direct sunlight as this may cause burnt tips on the delicate fronds. It also should not be placed in a spot that is too dark as this can lead to weak and spindly growth. In the spring and summer months, Lady fern should receive 6-8 hours of indirect light daily, and in the winter months, 3-5 hours should suffice."
+        },
+        {
+          "id": 7506,
+          "type": "pruning",
+          "description": "Pruning Lady Ferns (Athyrium filix-femina 'Encourage') should be done once per year—ideally in late winter (February or March). Pruning should be done gently, removing dead or damaged fronds and lightly trimming them back to promote a fuller and healthier foliage. Be sure to use sharp garden shears when pruning and take great care not to cut any of the crowns, as these can damage the plant. Pruning Lady Ferns is an important part of keeping the plants healthy and full looking; however, do not over-prune or the plant may become weakened."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

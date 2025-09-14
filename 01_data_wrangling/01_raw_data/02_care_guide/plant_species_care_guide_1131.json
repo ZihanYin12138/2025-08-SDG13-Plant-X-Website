@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2445,
+      "species_id": 1131,
+      "common_name": "Japanese painted fern",
+      "scientific_name": [
+        "Athyrium niponicum var. pictum 'Apple Court'"
+      ],
+      "section": [
+        {
+          "id": 7540,
+          "type": "watering",
+          "description": "Water your Japanese Painted Fern regularly—about once a week—allowing the top inch of soil to dry slightly between waterings. If the fern is placed in direct sun or in a location that is too hot, more frequent watering may be necessary. Soil should be kept lightly moist at all times, but don't let it dry out too much. Water thoroughly, but avoid getting too much water on the fronds. Mist the foliage every once in a while to help prevent dehydration and keep it healthy."
+        },
+        {
+          "id": 7541,
+          "type": "sunlight",
+          "description": "Japanese painted ferns need bright, indirect light throughout the day. This can be achieved through 4-6 hours of sunlight per day, preferably in the morning or afternoon when the sun is not at its hottest. They can also tolerate partial shade or bright, indirect light from a nearby window, making them very versatile. It is important to keep the soil evenly moist and avoid letting it dry out between waterings."
+        },
+        {
+          "id": 7542,
+          "type": "pruning",
+          "description": "Pruning Japanese painted ferns (Athyrium niponicum var. pictum 'Apple Court') is a relatively simple process that should take place twice a year. Pruning should be done in early spring, just as new growth begins to emerge, and in midsummer once the fern has had a chance to mature. In early spring, cut any fronds that have become brown or brittle back to the soil. This will encourage new growth. In midsummer, cut any fronds that have outgrown their bounds back to the desired size. Avoid cutting more than a third of any mature frond, as doing so can damage the root system and disturb the overall shape of the fern. Finally, in both spring and summer, remove any dead or dried fronds at the base of the fern. This helps keep the fern healthy and encourages new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

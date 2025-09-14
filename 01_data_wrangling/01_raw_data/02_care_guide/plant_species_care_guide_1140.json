@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2453,
+      "species_id": 1140,
+      "common_name": "eared lady fern",
+      "scientific_name": [
+        "Athyrium otophorum"
+      ],
+      "section": [
+        {
+          "id": 7565,
+          "type": "watering",
+          "description": "Eared Lady Fern should be watered regularly, but not too frequently. Aim for keeping the potting mix lightly moist at all times. Water moderately once every 7 to 10 days or when the top 1 inch (2.5 cm) of soil is dry. During the hot summer months, water more often if the soil starts to dry out. Avoid overwatering the fern as too much water can cause the rhizomes to rot."
+        },
+        {
+          "id": 7566,
+          "type": "sunlight",
+          "description": "Eared Lady Ferns (Athyrium otophorum) do best in partial sun to partial shade, with indirect or filtered sunlight being ideal. In more temperate climates, they can tolerate dappled sunlight or 4 to 6 hours of direct sun a day. In warm climates, they should be protected from direct sun and should only get 2 to 4 hours of morning light a day. In all climates where the Eared Lady Fern grows, shade is preferable in the afternoon. Avoid planting Eared Lady Ferns in locations that get afternoon sun, as direct sun exposure in this time of day can cause the fronds to scorch."
+        },
+        {
+          "id": 7567,
+          "type": "pruning",
+          "description": "The eared lady fern does not require regular pruning to maintain its health and beauty. These ferns should be pruned judiciously to maintain their desired shape, remove dead or diseased fronds, and control their size. \n\nPruning should be done in late winter or early spring before new fronds appear. Using sharp, sterile pruning shears, remove brown and dead fronds at the base of the plant. Trim off any excessively long fronds to keep the plant from becoming leggy or overgrown. Do not prune more than 1-third of the fern. Discard all cut fronds and foliage in the trash; never leave the cuttings on the ground.\n\nWhen pruning, be sure to wear gloves and exercise caution to avoid cuts and injury. Also, take care to avoid damaging any new fronds, which are soft and delicate. Eared lady ferns also benefit from occasional division when the fern becomes overgrown. It is best to divide ferns in late winter or early spring, just after pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

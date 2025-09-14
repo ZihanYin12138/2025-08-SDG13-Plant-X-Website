@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2486,
+      "species_id": 1181,
+      "common_name": "false indigo",
+      "scientific_name": [
+        "Baptisia 'Pink Lemonade' DECADENCE DELUXE"
+      ],
+      "section": [
+        {
+          "id": 7664,
+          "type": "watering",
+          "description": "The false indigo (Baptisia 'Pink Lemonade DECADENCE DELUXE') should be watered as needed. This will vary based on climate, weather, temperature, and soil conditions. During dry periods, the plant should be watered deeply and thoroughly, allowing the top few inches of soil to dry out before watering again. In general, the false indigo should be watered once every 2-3 weeks. If the area receives a lot of rain, the plant may not need additional watering. As a rule of thumb, it is best to provide extra water during prolonged dry periods."
+        },
+        {
+          "id": 7665,
+          "type": "sunlight",
+          "description": "False indigo (Baptisia 'Pink Lemonade' DECADENCE DELUXE) thrives best in full sun, meaning 6 hours or more of direct sunlight each day. It is tolerant of some light shade, but it will not flower as heavily in partial shade. Depending on your location, the optimal hours for direct sunlight may vary slightly. For instance, if you live in a hotter climate, it’s best to provide morning sun and filter the afternoon sun with shade. In more temperate regions, the afternoon sun can also be beneficial."
+        },
+        {
+          "id": 7666,
+          "type": "pruning",
+          "description": "False indigo (Baptisia 'Pink Lemonade' DECADENCE DELUXE) plants should be pruned in late winter or early spring, as soon as the plant is dormant but before new growth appears. Pruning should generally be light, since excessive pruning will reduce the flowering potential of the plant. Completely dead or diseased canes should be removed, as well as any weak or spindly canes that detract from the plants appearance. Cuts should be just above a bud facing outward and can be made at any height, though taller canes can be cut back to about 12-18 inches tall if necessary. Proper pruning can help maintain an attractive and organized shape, while also promoting air circulation and light penetration."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

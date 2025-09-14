@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2409,
+      "species_id": 1092,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Sprite'"
+      ],
+      "section": [
+        {
+          "id": 7432,
+          "type": "watering",
+          "description": "Water Astilbe 'Sprite' regularly, making sure that the soil is moist but not overly saturated. During the summer, water once a week, applying enough water so that it reaches the root zone. Avoid wetting the foliage, as this can cause fungal diseases. During the winter, Astilbe 'Sprite' should still be watered, but reduce the frequency to every 2 weeks or less if the soil is not drying out."
+        },
+        {
+          "id": 7433,
+          "type": "sunlight",
+          "description": "Astilbe 'Sprite' is a low-growing plant and prefers partial shade, so keep in mind that this plant needs less sunlight as compared to other plants. This plant should receive filtered light or partial shade, especially during the hottest hours of the day. Aim to provide light between 4-6 hours per day, preferably in the morning or late afternoon. Filtered light is ideal for protecting the delicate foliage from sunburn and will help to promote lush, healthy growth."
+        },
+        {
+          "id": 7434,
+          "type": "pruning",
+          "description": "Astilbe 'Sprite' should be pruned in early spring, after the last frost of the season. Cut back the plant just above soil level, removes all of the dead foliage and any flower stalks that remain from the previous year. This will allow new growth to emerge in late spring or early summer and keep your astilbe looking its best. It is important to not prune more than 1-third of the plant at a time to avoid shock and damage to the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

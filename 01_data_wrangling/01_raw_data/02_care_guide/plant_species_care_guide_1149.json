@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 629,
+      "species_id": 1149,
+      "common_name": "spotted laurel",
+      "scientific_name": [
+        "Aucuba japonica 'Suruga Benten'"
+      ],
+      "section": [
+        {
+          "id": 1889,
+          "type": "watering",
+          "description": "Spotted Laurel (Aucuba japonica 'Suruga Benten') should be watered thoroughly and deeply about once or twice a week. Pay attention to the top few inches of soil to check for moisture and ensure that the soil is damp to about 2 inches deep before adding additional water. During the summertime, you may need to water more frequently, while during the winter months water less often. When providing supplemental water to your Spotted Laurel, it is important to avoid overdoing it, as excessively wet soil can lead to root-rot and other issues."
+        },
+        {
+          "id": 1893,
+          "type": "sunlight",
+          "description": "Spotted laurel (Aucuba japonica 'Suruga Benten') prefers bright indirect sunlight for optimum growth and development. In general, plants should be given at least 4-5 hours of direct sunlight on a daily basis. The best time to expose a spotted laurel to sunlight is during the early hours of the morning or late hours of the afternoon when the sun is not too intense. Avoid exposing the plant to too much direct sunlight during peak hours of the day, which can lead to scorched leaves and wilting."
+        },
+        {
+          "id": 1897,
+          "type": "pruning",
+          "description": "The spotted laurel typically requires minimal pruning, only in order to maintain its shape or to remove broken, diseased, or dead branches. Pruning of your spotted laurel should be done in late spring or early summer, once the plant has finished blooming. If pruning is necessary, make sure to remove any dead or damaged branches, thin out the crown, and shorten back any overly long branches. Always use clean stainless steel pruning shears, and prune in such a way as to maintain the plant's rounded shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

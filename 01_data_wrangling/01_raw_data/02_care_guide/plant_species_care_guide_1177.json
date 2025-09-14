@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2482,
+      "species_id": 1177,
+      "common_name": "gopherweed",
+      "scientific_name": [
+        "Baptisia lanceolata"
+      ],
+      "section": [
+        {
+          "id": 7652,
+          "type": "watering",
+          "description": "For Gopherweed, it is recommended to water the soil deeply once a week during the growing season, which is typically between late Spring and early Fall. The frequency of watering may need to be adjusted depending on the soil type, the amount of rain it receives, and the temperature of the environment. During the hotter months, it may need to be watered more often. When watering, it is important to ensure that the soil is adequately moistened all the way through. If the top layer of soil appears dry, it is likely that the plant is in need of more water. Soil that is overly dry will require more water than soil that has been kept moist."
+        },
+        {
+          "id": 7653,
+          "type": "sunlight",
+          "description": "Gopherweed (Baptisia lanceolata) requires full sun for most of the day for optimal growth. Ideally, gopherweed should get at least 6 hours of direct sunlight per day, with 8 hours being preferable. Morning sun and late afternoon sun are the best times for this species, as these times provide more intense light due to the angle of the sun relative to the plant. Gopherweed should be shaded from intense midday sun to prevent scorching or wilting of the leaves. If the sun isn’t available for the necessary amount of time, artificial lighting during those times can provide adequate light."
+        },
+        {
+          "id": 7654,
+          "type": "pruning",
+          "description": "Gopherweed (Baptisia lanceolata) should be lightly pruned in late winter or early spring, before active growth begins. During this dormant period, small, weak shoots can be pruned out, and a light shearing of the plant can be beneficial to maintain its shape. If larger pruning is desired to control size or shape, make sure to leave some of the older wood, since this is essential for producing blooms in the summer. Additionally, it is important to avoid pruning after the plant begins actively growing, since that could remove potential flowers."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

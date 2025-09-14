@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2419,
+      "species_id": 1103,
+      "common_name": "masterwort",
+      "scientific_name": [
+        "Astrantia major 'Roma'"
+      ],
+      "section": [
+        {
+          "id": 7462,
+          "type": "watering",
+          "description": "Masterwort should be watered when the surface of the soil feels dry to the touch, usually once every 5-7 days. During hot weather, water every 5 days. During cooler weather, water every 7 days. Make sure the soil stays slightly damp, but not overly wet or soggy. Water the soil until you see the excess moisture start to drain from the bottom of the pot. Discard the excess water that comes out of the drainage holes. Make sure not to water the plant for too long or too often, as this can cause root rot."
+        },
+        {
+          "id": 7463,
+          "type": "sunlight",
+          "description": "Masterwort (Astrantia major 'Roma') should be placed in an area where it will receive full sun for at least 4-5 hours a day. It should be kept in a spot that gets a morning or afternoon sun exposure as this will provide the best and most consistent light. Avoid exposure to direct sun for extended periods of time as this can cause the plant to become stressed. In general, masterwort does best in bright conditions but remember to not give it too much light at once!"
+        },
+        {
+          "id": 7464,
+          "type": "pruning",
+          "description": "Masterwort (Astrantia major 'Roma') should be pruned in early spring, or late fall after bloom. Cut back any wilting, dead, or diseased stems during early spring and prune lightly to ensure vigorous growth. Some of the spent flower heads can be left on the plant, as they create attractive, seed-filled, papery bracts. Cut off any remaining seed heads after flowering is complete, and remove any branches that are too scattered or unruly. This is an easy-care plant and pruning is generally not necessary if you want it to remain full and bushy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

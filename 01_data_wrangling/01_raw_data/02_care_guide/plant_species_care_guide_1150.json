@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 630,
+      "species_id": 1150,
+      "common_name": "spotted laurel",
+      "scientific_name": [
+        "Aucuba japonica 'Variegata'"
+      ],
+      "section": [
+        {
+          "id": 1890,
+          "type": "watering",
+          "description": "The amount of water needed for a spotted laurel plant (Aucuba japonica 'Variegata') depends on the weather and soil conditions. In general, this plant should receive about 1-2 inches of water per week during the summer months, and every other week during the winter months. It is important to water the soil evenly and deeply to ensure that the roots of the plant get enough moisture. It is also important to ensure that the soil is well-drained so that the roots don't remain wet for too long. Look for signs of wilting or drooping leaves to determine if the soil is too dry, and adjust your watering schedule accordingly."
+        },
+        {
+          "id": 1894,
+          "type": "sunlight",
+          "description": "Spotted laurel plants prefer bright, indirect sunlight. They do best when receiving 4 to 6 hours of sunlight each day, ideally morning or late-afternoon sun but not the hot midday sun. Too much full sun can burn the leaves and cause the foliage to fade. These plants can tolerate some light shade, but they will look their best in bright conditions."
+        },
+        {
+          "id": 1898,
+          "type": "pruning",
+          "description": "Spotted laurel (Aucuba japonica 'Variegata') should be pruned once or twice a year in spring and/or summer when necessary. Pruning should be done by removing any dead or damaged branches and cutting back the longest branches to maintain the desired shape and size. It is also a good idea to thin out any new shoots that appear to ensure the foliage is evenly balanced. Pruning should be kept to a minimum and should never be done too harshly. \n\nGenerally, pruning should be done by removing no more than 1/3 of the overall plant material each year. However, if a more drastic pruning is required for rejuvenating the plant, it should be done over a few seasons instead of all at once."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

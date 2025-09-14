@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1017,
+      "species_id": 1188,
+      "common_name": "Malabar spinach",
+      "scientific_name": [
+        "Basella alba"
+      ],
+      "section": [
+        {
+          "id": 3048,
+          "type": "watering",
+          "description": "Malabar spinach should be watered firmly and evenly twice a week. Water should be sufficiently supplied, usually about 2-3 inches for this fast-growing plant, to keep the soil consistently moist. Make sure you water the soil and not just the foliage and avoid over-watering, as Malabar spinach does not like to be soggy. During especially hot and dry weather, you may need to water Malabar spinach more frequently, perhaps 1 to 3 times per week."
+        },
+        {
+          "id": 3057,
+          "type": "sunlight",
+          "description": "Malabar spinach is a sun-loving plant that thrives in full sun. It prefers 6-8 hours of direct sunlight a day. However, it will tolerate some light shade. This plant will also enjoy a bit more indirect light when temperatures get too hot. Planting Malabar spinach in a spot that gets morning and afternoon sun, but with some shade in the middle of the day, is ideal."
+        },
+        {
+          "id": 3066,
+          "type": "pruning",
+          "description": "For optimum growth, it is best to prune it at least twice a year. Spring pruning of Malabar spinach should be done after new growth is seen setting in. Pruning should continue as the plant matures, with the removal of older and weaker branches. During the summer, Malabar spinach should be trimmed back to encourage fresh new growth. This will also help to maintain dense foliage and promote a bushy shape. Dead and damaged foliage should also be removed at this time. In autumn, Malabar spinach should be pruned to remove any excess material that is hindering the plant’s production and growth. Pruning should be done selectively—cutting only as much as is needed and not more—so as to not harm the plant unnecessarily."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

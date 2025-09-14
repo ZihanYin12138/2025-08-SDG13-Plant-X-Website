@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2446,
+      "species_id": 1132,
+      "common_name": "Japanese painted fern",
+      "scientific_name": [
+        "Athyrium niponicum var. pictum 'Burgundy Lace'"
+      ],
+      "section": [
+        {
+          "id": 7543,
+          "type": "watering",
+          "description": "Japanese painted ferns should be watered on a regular basis. To achieve optimal growth, it is best to water them once a week, providing them with 1 to 1.5 inches (2.5 to 4 cm) of water during each session. Water them until the soil is thoroughly moistened, but be wary of overwatering, as this may cause root rot. It is also important to make sure the soil is well-draining so the water can properly move through the soil. Additionally, misting the fronds of this plant species every once in a while will ensure adequate humidity, especially during the warmer months."
+        },
+        {
+          "id": 7544,
+          "type": "sunlight",
+          "description": "Japanese painted ferns prefer bright, indirect sunlight. For optimal growing conditions, it should receive 4 to 6 hours of light per day. Place it in a spot that gets some morning sunlight and bright indirect light in the afternoon, such as near north or east-facing windows. If the fern gets too much direct sunlight, the fronds may burn or become bleached. Avoid placing it in a spot that gets too much intense, direct sunlight as this can be damaging to the fern's foliage."
+        },
+        {
+          "id": 7545,
+          "type": "pruning",
+          "description": "When it comes to pruning a Japanese painted fern, it is best to do so only sparingly. Generally, the only pruning necessary is to clean up dead or dying fronds and trim any fronds that have become damaged or unattractive. This should be done any time throughout the growing season. It is important not to prune or trim too much away from the fern, as this can damage or stunt the plant’s growth. Therefore, it is best to only prune when absolutely necessary in order to keep the fern looking attractive."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

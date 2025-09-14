@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 626,
+      "species_id": 1130,
+      "common_name": "Japanese painted fern",
+      "scientific_name": [
+        "Athyrium niponicum var. pictum"
+      ],
+      "section": [
+        {
+          "id": 1873,
+          "type": "watering",
+          "description": "Water Japanese painted fern (Athyrium niponicum var. pictum) consistently, and make sure to water it thoroughly. Water the soil until it is moist but not soggy. A standard rule of thumb is to water once or twice a week, but you may need to adjust the frequency based on your plant's environment and soil. In lower temperatures, you may need to water less. In higher temperatures, humidity, and light, you may need to water more often. Be sure to check your plant's moisture level before deciding how much and when to water it."
+        },
+        {
+          "id": 1880,
+          "type": "sunlight",
+          "description": "Japanese painted ferns enjoy bright, indirect sunlight and can tolerate some light shade. When grown indoors, they can tolerate low to medium light levels, but will grow best with bright, indirect sunlight. It is best to place the fern in an area of the home where it will receive a few hours of sunlight every day, preferably in the morning or early afternoon. When growing Japanese painted ferns outside, provide them with some protection from the harshest sun of the day (usually midday and late afternoon). They can tolerate full-sun in cooler climates, but in warm climates, they should only get 3-4 hours of sunlight per day."
+        },
+        {
+          "id": 1887,
+          "type": "pruning",
+          "description": "Pruning should be done in late winter or early spring before the new growth begins. For the best results, you should trim off any dead or damaged fronds, as well as those that are growing too far out from the center of the plant. This will ensure that the plant doesn't become overgrown and lose its elegance. Pruning should be kept minimal and done no more than once or twice a year. It is important to remember that too much pruning can damage or kill your plant, so prune with caution."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

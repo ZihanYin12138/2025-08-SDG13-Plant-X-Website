@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2452,
+      "species_id": 1139,
+      "common_name": "hybrid painted fern",
+      "scientific_name": [
+        "Athyrium 'Ocean's Fury'"
+      ],
+      "section": [
+        {
+          "id": 7562,
+          "type": "watering",
+          "description": "Hybrid painted fern (Athyrium 'Ocean's Fury') likes moist soil, so water it when the top inch of soil feels dry. This typically requires watering around once a week or every other week. During hotter weather, you may need to water it more frequently. When watering, thoroughly moisten the soil and allow it to drain. Avoid overwatering, as too much moisture can lead to root rot. Additionally, misting the leaves periodically can help keep the leaves hydrated."
+        },
+        {
+          "id": 7563,
+          "type": "sunlight",
+          "description": "Hybrid painted fern (Athyrium 'Ocean's Fury') should receive between 4 to 6 hours of direct, filtered sunlight each day. This can be achieved by placing the fern near an east- or south-facing window, or in an area that receives dappled morning sunlight such as near a porch or patio, or in a garden that is partially shaded with trees or tall shrubs. The needs of the fern may change with the season, so you may need to adjust the amount of sunlight it receives accordingly."
+        },
+        {
+          "id": 7564,
+          "type": "pruning",
+          "description": "Hybrid painted fern (Athyrium 'Ocean's Fury') should be pruned once per year, preferably in springtime just after the plant becomes actively growing again. Light pruning can be done to remove any dead, wilted, or discolored fronds. Hard pruning should only be done to reduce the overall size of the plant but should also be done in the early spring. Be sure that no more than 1-third of the plant is pruned away to ensure the health and longevity of this fern."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

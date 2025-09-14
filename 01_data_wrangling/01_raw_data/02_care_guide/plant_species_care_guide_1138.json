@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2451,
+      "species_id": 1138,
+      "common_name": "Japanese painted fern",
+      "scientific_name": [
+        "Athyrium niponicum var. pictum 'Wildwood Twist'"
+      ],
+      "section": [
+        {
+          "id": 7559,
+          "type": "watering",
+          "description": "Water your Japanese Painted Fern (Athyrium niponicum var. pictum 'Wildwood Twist') deeply and consistently for best performance. Once the top 2-3 inches of soil has become slightly dry, water your fern deeply to make sure the entire rootball is moist. Allow the leaves of the fern to dry out slightly between waterings. Avoid overwatering as this can cause root rot or fungal diseases. Water your fern in the morning or afternoon to avoid any standing water overnight. This will also allow any excess water to evaporate during the day."
+        },
+        {
+          "id": 7560,
+          "type": "sunlight",
+          "description": "Japanese painted fern prefers bright, but indirect sunlight, which is the equivalent of up to 4 hours of sun a day. To ensure the ferns thrive, position the plant in an area that receives morning sun and afternoon shade or even light dappled sun. During the hot summer months, it's important to move the plant to a more shaded spot, to avoid scorching the delicate fronds."
+        },
+        {
+          "id": 7561,
+          "type": "pruning",
+          "description": "Japanese painted ferns are best pruned in late winter or early spring during periods of dormancy. Carefully trim off any leaf blades that have become too long or untidy, cutting them back only to the point where the plant will retain its desired form. Be sure to leave enough foliage so that the plant can maintain the proper shape and size. If the center of the plant has become too sparse, it may also be given an overall trimming by cutting the whole plant back by 1 third. New fronds will emerge quickly after pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

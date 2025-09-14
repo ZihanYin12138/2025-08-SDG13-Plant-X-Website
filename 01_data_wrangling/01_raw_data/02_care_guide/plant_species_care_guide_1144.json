@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2457,
+      "species_id": 1144,
+      "common_name": "mountain spinach",
+      "scientific_name": [
+        "Atriplex hortensis"
+      ],
+      "section": [
+        {
+          "id": 7577,
+          "type": "watering",
+          "description": "Since mountain spinach is a hardy, drought tolerant species, it doesn’t require a great amount of water. Water should only be given when the soil is on the dry side and has no visible moisture. Watering can be done every 2 weeks during hot, dry weather to ensure the plant stays hydrated. In cooler, wetter weather, watering should be reduced to only if necessary every 4 weeks."
+        },
+        {
+          "id": 7578,
+          "type": "sunlight",
+          "description": "Mountain spinach (Atriplex hortensis) requires around 6-8 hours of direct sunlight each day in order for it to grow and thrive. When it is grown in a pot on a balcony or from a raised bed, the plant benefits from receiving full sun in the morning before the heat of the day intensifies, which reduces stress on the plant. When planted in the ground or in large containers, the plant requirements are slightly different. It prefers to have access to dappled light throughout the day, allowing the leaves to rest in heavy shade during the hotter hours of the day. This helps to prevent scorching and ensures that the plant maintains its green, lush appearance and is full of nutritious leaves ready for harvesting."
+        },
+        {
+          "id": 7579,
+          "type": "pruning",
+          "description": "Mountain spinach (Atriplex hortensis) should be pruned regularly throughout the growing season. Pruning helps to produce denser foliage and allows better light penetration, preventing overcrowding and promoting air circulation. Pruning is best done in the spring before new growth begins. Focus pruning efforts on removing any dead, diseased, or damaged growth. Additionally, prune back any excess or unruly branches and stems that extend beyond the desired shape and size of your plant. For a fuller look, pinch back growing tips for 3-4 weeks every spring to encourage new branches to form. Finally, lightly trim back any foliage that is looking tired. With regular pruning, Mountain spinach will develop a continuous display of fresh foliage throughout the growing season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

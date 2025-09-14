@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2436,
+      "species_id": 1121,
+      "common_name": "lady fern",
+      "scientific_name": [
+        "Athyrium filix-femina 'Minutissimum'"
+      ],
+      "section": [
+        {
+          "id": 7513,
+          "type": "watering",
+          "description": "The lady fern (Athyrium filix-femina 'Minutissimum') thrives with regular watering, although how much and how often depends on the season and your particular environment. During the summer growing season when temperatures are higher and the soil dries out more quickly, water the fern regularly – 2 to 3 times a week – so the soil is always moist. Reduce watering in the winter months when the temperatures are cooler and the soil has less chance to dry out. Water the plant every 10 to 14 days."
+        },
+        {
+          "id": 7514,
+          "type": "sunlight",
+          "description": "Lady ferns (Athyrium filix-femina ‘Minutissimum’) prefer diffused, indirect sunlight, making them an ideal choice for lightly shaded situations. When grown in an area that only receives direct sunlight for a few hours a day, the Lady Fern should receive the majority of its light in the morning or early afternoon. Generally, an area with morning sun and afternoon shade is ideal for the Lady Fern. During the peak of the summer months, the Lady Fern should be kept out of the hot afternoon sun to prevent foliage burn. Allowing the Lady Fern to be shaded during the hottest months of the year will be beneficial for its health."
+        },
+        {
+          "id": 7515,
+          "type": "pruning",
+          "description": "Lady Fern, Athyrium filix-femina 'Minutissimum' should be pruned in the spring, right before the start of new growth. This will help control its size and ensure that only healthy and vigorous growth is kept. Start by removing any dead or damaged fronds, which may simply snap off. Then trim any fronds that are growing very large and are overpowering the overall look. If the foliage is becoming too dense, the entire plant can be cut back. Finally, thin out any crowded areas to maintain an open and airy look to the fern."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

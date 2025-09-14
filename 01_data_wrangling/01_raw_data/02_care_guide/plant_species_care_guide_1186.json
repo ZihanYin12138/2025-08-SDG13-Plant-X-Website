@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2491,
+      "species_id": 1186,
+      "common_name": "false indigo",
+      "scientific_name": [
+        "Baptisia variicolor 'Twilite' TWILITE PRAIRIEBLUES"
+      ],
+      "section": [
+        {
+          "id": 7679,
+          "type": "watering",
+          "description": "False indigo should be watered once a week during the growing season, usually from mid-spring to late summer. The soil should be kept moist but not saturated, and it is important to make sure that the soil does not dry out completely between waterings. You can use a soil moisture meter to help monitor the moisture levels. Once a week, water at the base of the plant until the soil is evenly moist, making sure to avoid too much water at the base of the plant which can cause root rot. During the winter months, water infrequently, allowing the soil to almost dry out between waterings."
+        },
+        {
+          "id": 7680,
+          "type": "sunlight",
+          "description": "False indigo (Baptisia variicolor 'Twilite' TWILITE PRAIRIEBLUES) requires an average of 6 to 8 hours of direct sunlight each day in order to thrive. While it will tolerate a little less sunlight, it is important to make sure that the plant receives at least 6 hours of full sun each day. It is best to provide the false indigo with constant direct sunlight, rather than alternating periods of bright and dim light. Additionally, for optimal growth, it is best to place the false indigo in a spot with consistent sun exposure."
+        },
+        {
+          "id": 7681,
+          "type": "pruning",
+          "description": "False indigo (Baptisia variicolor 'Twilite' TWILITE PRAIRIEBLUES) can be pruned in late winter or early spring (February and March) when the plant is dormant. Prune the taller branches by up to 1-third of their height to promote bushier growth and reduce the height of the plant. It is not necessary to prune any of the lateral branches, unless they become overly long or the shrub needs to be shaped. Pruning should be done just before the plant starts to grow in the spring to promote maximum growth and flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2472,
+      "species_id": 1167,
+      "common_name": "white false indigo",
+      "scientific_name": [
+        "Baptisia alba var. macrophylla"
+      ],
+      "section": [
+        {
+          "id": 7622,
+          "type": "watering",
+          "description": "White false indigo is a drought-tolerant plant species that grows best in well-draining soil and full sun. Water deeply and thoroughly when the soil is dry, usually once a week during the hot months and every 2 weeks during the cooler months. Give the plant some extra water during longer dry spells, especially in sandy soil or during extreme heat. Water at the base of the plant using a watering can or hose, avoiding wetting the foliage."
+        },
+        {
+          "id": 7623,
+          "type": "sunlight",
+          "description": "White false indigo plants prefer full sun for optimal growth and blooming. The plant should receive 6 to 8 hours of direct sunlight each day. In climates with mild summers and cold winters, the plant may need a bit less sunlight. The amount of sunlight the plant receives depends significantly on the plant's location and the time of year. If a white false indigo is grown in an area with harsh summers it may benefit from some afternoon shade."
+        },
+        {
+          "id": 7624,
+          "type": "pruning",
+          "description": "White false indigo (Baptisia alba var. macrophylla) should be pruned in early spring after the last frost. Pruning should be done by cutting off around 1-third of the plant’s height and 1-2 inches from the top of its stem to help encourage vigorous and healthy growth. Pruning too much or too little can prevent the blossoms from forming and can reduce the overall health of the plant. It is also important not to prune over-zealously or too late in the season as this can also prevent blooming."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

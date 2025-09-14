@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2432,
+      "species_id": 1117,
+      "common_name": "lady fern",
+      "scientific_name": [
+        "Athyrium filix-femina 'Dre's Dagger'"
+      ],
+      "section": [
+        {
+          "id": 7501,
+          "type": "watering",
+          "description": "Lady ferns should be watered when the top inch or 2 of soil has begun to dry out. Keeping the soil too waterlogged can result in root rot, so err on the side of caution. During normal temperatures, water deeply with approximately 1 inch of water per week. In hot weather, increase watering slightly. During winter months, reduce watering frequency until spring arrives."
+        },
+        {
+          "id": 7502,
+          "type": "sunlight",
+          "description": "Lady ferns (Athyrium filix-femina 'Dre's Dagger') thrive best with indirect or dappled sunlight. They will tolerate full shade, but should not be exposed to full, direct sunlight as this can cause scorching. This plant species are suitable for both north and east windowsills, and should be given around 2-4 hours of bright, indirect sunlight per day."
+        },
+        {
+          "id": 7503,
+          "type": "pruning",
+          "description": "Lady fern (Athyrium filix-femina 'Dre's Dagger') should be pruned annually with a light pruning in late spring or early summer. Make sure to remove any damaged leaves and dead fronds to keep the fern looking its best. If needed, any overgrown fronds or stems can be lightly cut back. It is best to avoid severe pruning as this can damage or even kill the fern."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 627,
+      "species_id": 1133,
+      "common_name": "Japanese painted fern",
+      "scientific_name": [
+        "Athyrium niponicum var. pictum 'Metallicum'"
+      ],
+      "section": [
+        {
+          "id": 1874,
+          "type": "watering",
+          "description": "Japanese painted ferns prefer evenly moist soil, meaning soil that is neither too wet nor too dry. Water whenever the top inch or so of soil is dry to the touch. Depending on the climate, you may need to water once or twice a week during the growing season. In areas with hotter, drier climates, you may need to water more often. During the winter and other dormant periods, water less often but still enough to prevent the soil from completely drying out."
+        },
+        {
+          "id": 1881,
+          "type": "sunlight",
+          "description": "Japanese painted fern, also known as Athyrium niponicum var. pictum 'Metallicum', thrives best in partial shade and can even tolerate full shade, particularly in the warmer months. It prefers a location where the amount of sunlight received is consistent with no more than 4 hours of sun per day. Morning sun is best as it will in the early hours give the fern a nutrient boost before the temperatures become too hot and dry. During the summer months, this particular variety of fern should be given less or no direct sunlight, especially if situated in hotter climates, as prolonged periods of sun can scorch and burn the curled foliage."
+        },
+        {
+          "id": 7546,
+          "type": "pruning",
+          "description": "Japanese painted ferns should be pruned twice a year. Pruning in spring before new growth emerges will help maintain its size, and pruning in late summer after flowering will keep dead leaves from taking away energy from new growth. Prune the fronds (leaves) by cutting them just above the base stem, close to the ground. Generally, cut off no more than 2/3 of the foliar material during pruning. A light trimming is all that is necessary; however, if the fern appears to be overcrowded, it can be cut back considerably."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

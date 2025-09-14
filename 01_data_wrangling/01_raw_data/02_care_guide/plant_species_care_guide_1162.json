@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2468,
+      "species_id": 1162,
+      "common_name": "dwarf chapparal-broom",
+      "scientific_name": [
+        "Baccharis pilularis"
+      ],
+      "section": [
+        {
+          "id": 7610,
+          "type": "watering",
+          "description": "Dwarf chapparal-broom (Baccharis pilularis) requires regular watering to maintain healthy growth. Water the plant deeply and thoroughly every 7-10 days in the warmer months during the summer and every 10-14 days in the cooler months during the winter. Depending on the soil and weather conditions, the timing of watering may require slight adjustments. Water the plant slowly and evenly for 20-30 minutes to ensure it is sufficiently moistened. Make sure to check the soil regularly to determine if the plant needs to be watered. If the soil is dry, it is time to water the plant.\n\nAdditionally, water the plant in the early morning or late afternoon avoiding the hours of the hottest part of the day. Watering in the hottest parts of the day increases the risk of water loss due to evaporation."
+        },
+        {
+          "id": 7611,
+          "type": "sunlight",
+          "description": "Dwarf chapparal-broom grows best in full sunlight or partial shade. In full sun, the plant will receive approximately 6-8 hours of direct light each day. In partial shade, the plant can tolerate up to 4 hours of direct light per day. However, too much shade will reduce flowering and overall health of the plant. Dwarf chapparal-broom should be planted in a location that provides plenty of sunlight for most of the day, with some shade available in the afternoon when temperatures are particularly warm."
+        },
+        {
+          "id": 7612,
+          "type": "pruning",
+          "description": "Dwarf chapparal-broom (Baccharis pilularis) is a shrub that grows in the coastal areas of California, requiring an average amount of pruning to stay healthy. Pruning should be done at least once a year, preferably in late winter or early spring.\n\nThe amount of pruning depends on the size of the shrub and its desired shape. Depending on the shrub’s size and the desired shape, most dwarf chapparal-broom should be pruned to a uniform height of approximately 4–5 feet (1.2–1.5 m). Pruning should also include the removal of dead, injured, and diseased branches, as well as multiple shoots arising from the same stem.\n\nA heavy pruning could be done later, in late summer or early fall, which should also include the removal of crossing branches. This type of pruning helps to open the canopy to light and air circulation, allowing additional growth and development."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

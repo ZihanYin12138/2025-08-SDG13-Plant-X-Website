@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2413,
+      "species_id": 1096,
+      "common_name": "two-grooved milkvetch",
+      "scientific_name": [
+        "Astragalus bisulcatus"
+      ],
+      "section": [
+        {
+          "id": 7444,
+          "type": "watering",
+          "description": "Two-grooved milkvetch (Astragalus bisulcatus) grows best with infrequent watering, but deep watering. Water the plants every 1-2 weeks, or when the soil becomes dry at a depth of 3-4 inches. Water deeply, so that the water reaches the deeper roots. Reduce water application when the plant is dormant, when temperatures are cooler. Make sure that the soil is allowed to dry between watering for best health."
+        },
+        {
+          "id": 7445,
+          "type": "sunlight",
+          "description": "Two-grooved milkvetch (Astragalus bisulcatus) is best grown in full sun, but can also tolerate some light shade. It prefers long days of sunlight from mid-spring to mid-fall. Aim for 8 to 10 hours of direct sunlight daily. During the summer months, it can benefit from midday shade. Proper sunlight is essential to ensure healthy growth and blooms in this plant species."
+        },
+        {
+          "id": 7446,
+          "type": "pruning",
+          "description": "Two-grooved milkvetch (Astragalus bisulcatus) should be pruned twice a year, once in late winter or early spring and again in late summer. In late winter or early spring, prune it back by 25 to 50 percent of the previous year’s growth. This will help encourage the plant to produce a more compact, bushier shape. In late summer, prune off any damaged or dead stems, but keep the pruning to a minimum, as this pushes the plant into more vegetative growth, reducing flower production. After each pruning, clean up dropped stems and leave them in place around the plant to provide shelter through winter."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 314,
+      "species_id": 1158,
+      "common_name": "saw toothed azara",
+      "scientific_name": [
+        "Azara serrata ANDEAN GOLD"
+      ],
+      "section": [
+        {
+          "id": 491,
+          "type": "watering",
+          "description": "Azara serrata ANDEAN GOLD plants should be watered every 7-10 days, depending on local weather conditions and temperature. During summer, they should be watered more often (7 days) as the heat and light intensity is higher. During winter, they should be watered less often (10 days), as light and heat intensity is lower. It's important to water the plants until the soil is moist but not saturated. This species of plant does not tolerate wet or waterlogged soil."
+        },
+        {
+          "id": 492,
+          "type": "sunlight",
+          "description": "The amount of sunlight and timing a Saw-toothed Azara (Azara serrata ANDEAN GOLD) needs will depend on a few factors, including the climate it’s growing in, how mature the plant is, and if it’s grown in a pot or in the ground. Generally, Saw-toothed Azaras thrive in full sun, so in warm climates they should receive 6-8 hours of sunlight per day during the growing season. When grown in a pot, they may need slightly less light in order to avoid leaf burn. During winter in cold climates, Saw-toothed Azaras should only receive 1-2 hours of direct sunlight per day, which will give them enough light without causing damage to their leaves."
+        },
+        {
+          "id": 493,
+          "type": "pruning",
+          "description": "Pruning of saw toothed azara (Azara Serrata Andean Gold) should be done twice per year—once in early spring, as the plant is just beginning to show signs of growth, and again in mid-summer after the main flush of growth. Pruning should be fairly light, as this species has a low tolerance for heavy pruning. Remove any dead, damaged, or diseased branches, then select a few of the strongest, most outward-facing stems, and deadhead them back by a third to a half. This will encourage bushy, compact growth. Due to its shallow root system, saw toothed azara should be pruned carefully and not more than is necessary."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

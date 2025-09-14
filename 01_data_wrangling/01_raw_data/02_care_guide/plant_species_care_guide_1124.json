@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2439,
+      "species_id": 1124,
+      "common_name": "northern lady fern",
+      "scientific_name": [
+        "Athyrium filix-femina var. angustum 'Lady in Red'"
+      ],
+      "section": [
+        {
+          "id": 7522,
+          "type": "watering",
+          "description": "Water the Northern Lady Fern deeply every 1-2 weeks. During the growing season, it should be given enough moisture so that the soil stays evenly moist but not wet or soggy. Allow the soil to dry out a bit between waterings. In cold months, water less often, but do not allow the soil to completely dry out. Test the soil every week by pressing your fingers 1-2 inches down in the soil. If it is dry, add water and if it feels moist, hold off on watering."
+        },
+        {
+          "id": 7523,
+          "type": "sunlight",
+          "description": "Northern Lady Fern (Athyrium filix-femina var. angustum 'Lady in Red') prefers medium to bright indirect sunlight, or light shade, for best growth. Morning sunlight is best, and direct midday sun should be avoided. The plant should receive 4 to 6 hours of sunlight per day during the growing season (spring through fall), and less in the winter."
+        },
+        {
+          "id": 7524,
+          "type": "pruning",
+          "description": "For Northern Lady Ferns (Athyrium filix-femina var. angustum 'Lady in Red'), pruning should preferably be done in late winter or early spring every year to remove any dead or broken fronds. Prune the fronds back to the crown of the plant, as close to the root system as possible. It is important to be careful to not prune off too much, as this can leave the plant exposed and weaker. Additionally, shape pruning can be done after bloom to reduce the overall size of the clump or to remove stems that are crossing or otherwise detracting from the shape of the plant.\n\nThe amount of pruning will depend on the individual plant and should be adjusted accordingly. If the plant is very healthy and in good shape, only light pruning will be necessary. On the other hand, if the plant is overgrown or has dead foliage, more significant pruning may be required."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

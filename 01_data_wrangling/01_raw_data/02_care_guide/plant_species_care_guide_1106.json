@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2422,
+      "species_id": 1106,
+      "common_name": "greater masterwort",
+      "scientific_name": [
+        "Astrantia major subsp. involucrata 'Shaggy'"
+      ],
+      "section": [
+        {
+          "id": 7471,
+          "type": "watering",
+          "description": "Greater masterwort should be watered deeply once a week during the growing season, generally April through October. Water until the top 3 inches of soil become moist. If the soil is kept consistently moist, greater masterwort should not need to be watered more often. During the winter months, water the plant less often, once every 2-3 weeks. It is important to be aware of the weather conditions in your area when watering, as too much water can lead to root rot. If it is raining, forgo watering for that week."
+        },
+        {
+          "id": 7472,
+          "type": "sunlight",
+          "description": "Greater Masterwort is a hardy plant that does best in full sun or partial shade, located in the temperate USDA Hardiness Zones of 4-8. When growing indoors, it should be placed in a south- or west-facing window to receive full sun exposure throughout the day. The plant should receive 6-8 hours of direct sunlight a day. If the plant is grown outdoors, it should be located in an area that receives 4-6 hours of sunlight per day, ideally in the late morning and early afternoon."
+        },
+        {
+          "id": 7473,
+          "type": "pruning",
+          "description": "Greater masterwort can be pruned in late spring or early summer to remove dead or damaged foliage and encourage more vigorous growth. Prune back overgrown stems of greater masterwort by up to 1-third their length. This will stimulate new growth and reduce floppiness of the foliage. It is important not to prune too vigorously, however, because it could damage the plant and limit flower production."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

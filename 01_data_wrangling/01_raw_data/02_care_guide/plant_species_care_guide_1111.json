@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 313,
+      "species_id": 1111,
+      "common_name": "greater masterwort",
+      "scientific_name": [
+        "Astrantia 'Superstar'"
+      ],
+      "section": [
+        {
+          "id": 488,
+          "type": "watering",
+          "description": "Depending on weather conditions and the age of the plant, Astrantia 'Superstar' should be watered moderately to lightly twice a week. When watering this plant species, be sure to give the soil a thorough soaking but not to the point of overwatering. During the hottest months of the year, you may need to water more often in order to keep the soil moist and the plant alive. In the wintertime, it is best to water less often as Astrantia 'Superstar' can sometimes rot in cold, wet winter temperatures."
+        },
+        {
+          "id": 489,
+          "type": "sunlight",
+          "description": "Greater Masterwort benefits from 6–8 hours of sunlight per day. It prefers full sun in the morning, but doesn’t need full sun all day. It can tolerate partial shade, but will not thrive if it gets too little light. In very hot climates, it may appreciate the protection of some afternoon shade."
+        },
+        {
+          "id": 490,
+          "type": "pruning",
+          "description": "Greater masterwort should be lightly pruned in spring, just after blooming. Deadhead the flowering stems, then trim the foliage back by about a third. Take care not to cut into the tough, woody stems too hard, as this plant does not respond well to heavy pruning. You can also deadhead faded blooms throughout the season to encourage additional flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

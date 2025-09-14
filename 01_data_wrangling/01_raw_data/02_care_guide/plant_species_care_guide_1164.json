@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2469,
+      "species_id": 1164,
+      "common_name": "Buddha belly bamboo",
+      "scientific_name": [
+        "Bambusa ventricosa"
+      ],
+      "section": [
+        {
+          "id": 7613,
+          "type": "watering",
+          "description": "Buddha belly bamboo should be watered using a deep watering method. This involves thoroughly soaking the soil completely so that the moisture penetrates and spreads throughout the entire root zone. This should be done every 7-10 days, or whenever the top 2 inches of soil is dry. Watering in the morning or early afternoon is ideal, as the leaves will be able to properly transpire and the plant will not be susceptible to fungal diseases. Additionally, misting the plant regularly with filtered water can help provide additional humidity during the hotter months."
+        },
+        {
+          "id": 7614,
+          "type": "sunlight",
+          "description": "Buddha belly bamboo (Bambusa ventricosa) thrives best in full sunlight, though it can tolerate partial shade. For optimal growth, it should receive at least 6 hours of direct sunlight each day. In hotter climates with intense sun, partial shade may be necessary to prevent burning of the foliage. Ideally, the plant should receive morning sunlight and afternoon shade. In winter months, it should receive direct sunlight for a minimum of 4 hours. Additionally, it is important to consider the changing angle of the sun throughout the year, and ensure the plant's direct sunlight does not reduce drastically in the colder months."
+        },
+        {
+          "id": 7615,
+          "type": "pruning",
+          "description": "Pruning Buddha belly bamboo (Bambusa Ventricosa) is important for maintaining the desired shape and overall health of the plant. Pruning should be done on an annual basis during the late winter or early spring. It is best to remove any broken, dead, or diseased shoots that emerge during the year. It is also important to prune away any shoots that are growing out of the desired shape. Additionally, pruning away any shoots that are shorter than the desired height will help maintain an even canopy. When pruning, be sure to make clean cuts with sharp pruning tools to avoid tearing or fraying of the branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

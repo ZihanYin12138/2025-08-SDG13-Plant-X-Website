@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2430,
+      "species_id": 1115,
+      "common_name": "lady fern",
+      "scientific_name": [
+        "Athyrium filix-femina"
+      ],
+      "section": [
+        {
+          "id": 7495,
+          "type": "watering",
+          "description": "Water the Lady fern plant regularly but only when the top few inches of soil are dry. Generally, the plant should be watered about once a week but this could be more during hot and dry weather or less during rainy periods. The soil level should always be monitored to ensure it does not become either too dry or too wet. If it is too wet, the plant can become susceptible to mold and fungal diseases."
+        },
+        {
+          "id": 7496,
+          "type": "sunlight",
+          "description": "Lady ferns prefer bright, indirect sunlight. They should be placed in spots where they will get light for at least 4 hours a day, such as a sunny window or a partially shaded porch. Avoid areas that are too shady, or the ferns won't be able to photosynthesize properly and will eventually die. This species of fern enjoys more light than many other types, so don't be afraid to give it a full day of sun if you have a spot that will provide it. Lady ferns should receive at least 6 hours of strong light daily, preferably in the morning."
+        },
+        {
+          "id": 7497,
+          "type": "pruning",
+          "description": "Lady fern is a low maintenance, hardy fern species that requires little pruning. However, it should be pruned in the early spring or late winter, before new growth begins. Prune the plant by cutting away any damaged, diseased, or dead fronds, or if they have become unsightly. This will help to encourage vigorous regrowth and maintain the desired size and shape of the plant. Be careful not to remove too many fronds at 1 time as this could cause the fern to suffer shock."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

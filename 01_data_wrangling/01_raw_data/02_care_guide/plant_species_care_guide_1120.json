@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2435,
+      "species_id": 1120,
+      "common_name": "tatting fern",
+      "scientific_name": [
+        "Athyrium filix-femina 'Frizelliae'"
+      ],
+      "section": [
+        {
+          "id": 7510,
+          "type": "watering",
+          "description": "The tatting fern requires moderate watering, with more water during the summer months. Water deeply once a week, ensuring that the soil is saturated, and allow the soil to dry out a bit between waterings. During the winter months, water sparingly, about every 2 weeks. The ferns should not be allowed to dry out completely. If the fronds turn brown and crispy, that means you are not providing enough water."
+        },
+        {
+          "id": 7511,
+          "type": "sunlight",
+          "description": "The tatting fern (Athyrium filix-femina 'Frizelliae') requires partial shade or morning sun for best growth. A location that allows the fern to receive 3 to 4 hours of indirect sunlight each day will dictate successful growth and development. Early morning sun is the preferred time of day for the tatting fern to receive its sunlight. Prolonged exposure to strong afternoon sun can cause drying and leaf discoloration. When placed in proper lighting conditions, the tatting fern will thrive and reach heights of 1 to 1½ feet."
+        },
+        {
+          "id": 7512,
+          "type": "pruning",
+          "description": "The best time of year to prune Tatting Ferns (Athyrium filix-femina 'Frizelliae') depends on your climate and region. Most gardeners recommend pruning Tatting Ferns in late spring to early summer, just before the new growth begins to emerge. This gives the fern ample time to recover before the growing season.\n\nWhen pruning, it is important to remove old, dead, or dying foliage and trim any fronds growing too large and out of control. Pay attention to the overall shape of the fern and remove any fronds that are too long, overhanging, or crossed in the middle. It is advisable to prune no more than 1-third of the fern’s foliage in any pruning session."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

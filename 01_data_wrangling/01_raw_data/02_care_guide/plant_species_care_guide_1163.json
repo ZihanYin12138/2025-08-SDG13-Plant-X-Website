@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 576,
+      "species_id": 1163,
+      "common_name": "dwarf chapparal-broom",
+      "scientific_name": [
+        "Baccharis pilularis 'Pigeon Point'"
+      ],
+      "section": [
+        {
+          "id": 1729,
+          "type": "watering",
+          "description": "Dwarf Chapparal-broom (Baccharis pilularis 'Pigeon Point') can be watered about once a week during warm weather, allowing the top few inches of soil to dry before watering again. In hotter weather it may be necessary to water more often to prevent drought stress. Generally, each plant should receive about 1 inch of water per week. During the rainy season, reduce the amount of supplemental watering."
+        },
+        {
+          "id": 1731,
+          "type": "sunlight",
+          "description": "Dwarf chapparal-broom (Baccharis pilularis 'Pigeon Point') prefers full sun for the majority of the day with at least 6 hours of direct sunlight per day. Although this species is tolerant of partial shade, it does best and provides the healthiest foliage when receiving direct sunlight throughout the day. During spring and summer, the location should be in direct sun from morning to late afternoon, ideally 9am to 4pm. In the winter months, the location can enjoy some morning sun but should be in more indirect sun or partial shade in the afternoon to avoid becoming scorched."
+        },
+        {
+          "id": 1733,
+          "type": "pruning",
+          "description": "Generally, this shrub should be pruned twice a year, once in late winter (February-March) and again in late summer (August-September). The amount of pruning should be moderate, depending on the desired size of the shrub. Older branches should be removed, and up to 1-third of the smaller branches may be trimmed back. Pruning should not exceed 1-third of the total height of the shrub. After pruning, the removed stems should be discarded and the remaining branches should be lightly fertilized."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

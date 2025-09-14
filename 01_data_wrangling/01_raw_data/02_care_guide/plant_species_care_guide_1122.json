@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2437,
+      "species_id": 1122,
+      "common_name": "lady fern",
+      "scientific_name": [
+        "Athyrium filix-femina 'Rotstiel'"
+      ],
+      "section": [
+        {
+          "id": 7516,
+          "type": "watering",
+          "description": "Lady ferns (Athyrium filix-femina 'Rotstiel') prefer moist conditions, but they should not be overwatered. Water the soil when it feels dry to the touch (about 1 inch deep), usually around once a week during the growing season (spring to early fall). When the weather is hot or dry, you may have to water more frequently. During the winter months, watering can be reduced or stopped completely, as the plant will enter a dormant period. Make sure not to leave standing water in the pot, as this can lead to root rot."
+        },
+        {
+          "id": 7517,
+          "type": "sunlight",
+          "description": "Lady ferns require bright but indirect sunlight for most of the day; up to 8 hours, but keep in mind that too much can scorch the leaves or cause them to dry out quickly. It is best to place the Lady fern in an area that gets plenty of diffused sunlight during the morning and late afternoon hours, avoiding the direct intensity of the midday sun. Lady ferns also thrive in shaded areas, as long as there is bright, indirect light that filters through the canopy."
+        },
+        {
+          "id": 7518,
+          "type": "pruning",
+          "description": "Lady fern should be pruned annually in early spring or late summer by removing any wilted or dead fronds. Pruning will help a Lady Fern remain healthy and maintain its beautiful foliage. If the fronds are brown, cut them all the way back to the root crown and dispose of them immediately. Additionally, fronds that have become leggy, where they are growing longer than the rest of the fronds, should be trimmed back to create a more uniform appearance. Do not remove too much of the fronds as this can lead to an altered shape of the plant. Regular pruning will also encourage bushy, lush foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

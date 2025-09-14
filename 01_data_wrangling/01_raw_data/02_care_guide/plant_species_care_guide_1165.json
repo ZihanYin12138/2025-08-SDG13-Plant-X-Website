@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2470,
+      "species_id": 1165,
+      "common_name": "false indigo",
+      "scientific_name": [
+        "Baptisia alba"
+      ],
+      "section": [
+        {
+          "id": 7616,
+          "type": "watering",
+          "description": "False indigo thrives best when given moderate watering. Water deeply about every 7 to 10 days, providing enough to moisten the soil to a depth of 8 to 10 inches. If the soil is dry at that depth, it is time to water. Allow the surface of the soil to dry between waterings and avoid soggy soil. During summer months, soil may require more frequent watering. Too frequent watering can lead to root rot and stem die-back."
+        },
+        {
+          "id": 7617,
+          "type": "sunlight",
+          "description": "False indigo (Baptisia alba) prefers full sun exposure in order to thrive. This species of plant requires 6-8 hours of sunlight per day when planted in optimal conditions. If planted in an area with less sunlight, growth may be stunted or the flowers may be sparse. Temperatures also play an important role in the health of false indigo, as the roots should be kept cool and away from direct sunlight. It’s best to plant false indigo in an area that gets morning sunlight and late-afternoon shade."
+        },
+        {
+          "id": 7618,
+          "type": "pruning",
+          "description": "False indigo (Baptisia alba) should be pruned during the spring season, after the plant has finished flowering. It is best to start pruning back the plant by about 1-third of its size, as this will help encourage the plant to have a bushier, fuller growth during the summer and fall. Pruning back too much of the false indigo can cause the plant to become spindly."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

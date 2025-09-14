@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2456,
+      "species_id": 1143,
+      "common_name": "lady fern",
+      "scientific_name": [
+        "Athyrium vidalii"
+      ],
+      "section": [
+        {
+          "id": 7574,
+          "type": "watering",
+          "description": "For optimal growth, Lady Ferns (Athyrium vidalii) do best with moist, well-drained soil. In general, water the fern about once or twice per week, depending on your climate and season. Make sure to water deeply so the soil is thoroughly damp. During the hotter months of summer, water a bit more often. However, avoid overwatering and make sure the soil is allowed to partly dry out between waterings. In dry climates or in winter, you may need to water less often. Always check the soil moisture before watering to ensure your fern is getting enough water."
+        },
+        {
+          "id": 7575,
+          "type": "sunlight",
+          "description": "Lady ferns are best suited to full sun to partial sun areas, meaning that they should be exposed to at least 6 hours of sunlight per day. However, care should be taken to avoid too much direct sunlight, as this can cause the fronds to burn and the fern to wither. Lady ferns will thrive when exposed to indirect sunlight throughout the morning and afternoon. The direct sun should be avoided during the hottest part of the day, typically between 10 am and 4 pm."
+        },
+        {
+          "id": 7576,
+          "type": "pruning",
+          "description": "Lady Fern should be pruned in the spring, when new growth emerges. Pruning should be done lightly and in moderation to maintain the delicate foliage and to stimulate further growth. When pruning Lady Fern, avoid removing more than a third or a quarter of the fern. To prune, gently remove any dead, discolored or damaged parts of the fern. This will keep the plant neat and tidy while also preventing the spread of disease. Additionally, strategic pruning can be used to create desired shapes and design elements within the landscape. After pruning, it may be beneficial to apply a balanced fertilizer to ensure that the Lady Fern continues to thrive."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

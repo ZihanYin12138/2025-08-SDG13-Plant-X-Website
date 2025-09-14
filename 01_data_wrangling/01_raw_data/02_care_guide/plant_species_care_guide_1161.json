@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2467,
+      "species_id": 1161,
+      "common_name": "eastern baccharis",
+      "scientific_name": [
+        "Baccharis halimifolia"
+      ],
+      "section": [
+        {
+          "id": 7607,
+          "type": "watering",
+          "description": "Eastern baccharis plants need regular watering for optimal growth and to help keep foliage healthy. During periods of hot, dry weather, they should be watered deeply once every 7 - 10 days to keep the soil moist. During periods of cooler, rainy weather, they should be watered approximately every 2 weeks. When watering, it is important to ensure that the water penetrates the soil down to a depth of several inches. During the summer, plants may need additional watering when times of droughts and persisting hot temperatures occur. Make sure not to over-water eastern baccharis, as this can lead to root rot and other problems."
+        },
+        {
+          "id": 7608,
+          "type": "sunlight",
+          "description": "Eastern baccharis (Baccharis halimifolia) needs full sunlight for optimal growth and development. It prefers at least 6 hours of direct sunlight each day, with more being beneficial during the warmer months. During the winter months, eastern baccharis may need slightly less heat and sunlight due to shorter days.It is important for eastern baccharis to receive direct sunlight year-round, as this allows it to photosynthesize and produce the energy needed for healthy growth. Eastern baccharis also needs bright, indirect sunlight throughout the year, as this helps with the synthesis of chlorophyll which helps with the production of food. The best location for an eastern baccharis is a place that receives a combination of direct sunlight and indirect, reflective sunlight."
+        },
+        {
+          "id": 7609,
+          "type": "pruning",
+          "description": "Eastern baccharis (Baccharis halimifolia) is a semi-evergreen shrub that typically requires minimal pruning. Pruning should be done in the late winter or early spring when the plant is still dormant. When pruning, it is important to remove only dead, damaged, or diseased stems and branches. Also, any stems that are growing in a direction that reduces air circulation or blocks light should be removed. If a bush has become too large or overgrown, it can be pruned to the desired shape – for example, it can be pruned to a single trunk if a more tree-like appearance is desired. Some pruning can also be done during the summer to help control the plant’s overall size and shape. Overall, Eastern baccharis does not require much pruning. It should only be done when absolutely necessary."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

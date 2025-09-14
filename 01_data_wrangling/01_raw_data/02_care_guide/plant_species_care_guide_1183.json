@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2488,
+      "species_id": 1183,
+      "common_name": "yellow wild indigo",
+      "scientific_name": [
+        "Baptisia sphaerocarpa"
+      ],
+      "section": [
+        {
+          "id": 7670,
+          "type": "watering",
+          "description": "Yellow wild indigo should be watered once every week or every other week in the spring and summer. In the Autumn, water once every 2 to 3 weeks. In the winter, water sparingly, only every 4 to 6 weeks. The soil should be kept moist but not wet (never soggy around the roots). It is important to water deeply, for the entire root system to be reached. Apply 1-2 inches of water, or enough water to moisten the soil to a depth of 3-4 inches.\n\nIt's also recommended to fertilize the yellow wild indigo with a light fertilizer every 3 to 4 weeks during the spring and summer. Avoid fertilizing during the fall and winter, when the plant’s growth is beginning to slow."
+        },
+        {
+          "id": 7671,
+          "type": "sunlight",
+          "description": "Yellow wild indigo prefers full sunlight and thrives best in a sunny location that offers 8-10 hours of direct sunlight each day. The plant also tolerates some shade, but flowering will be diminished. When given enough light, the plant will burst into bright yellow clusters of blooms from late spring through summer."
+        },
+        {
+          "id": 7672,
+          "type": "pruning",
+          "description": "For Yellow Wild Indigo (Baptisia sphaerocarpa), pruning should be done in late winter or early spring. Pruning should be done sparingly, removing dead, damaged, or diseased branches from the outer part of the plant. These cuts should leave the plant’s natural shape intact. A light pruning, done in small amounts at a time, is best to maintain both the overall shape and health of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

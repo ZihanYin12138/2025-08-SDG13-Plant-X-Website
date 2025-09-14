@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 26,
+      "species_id": 1154,
+      "common_name": "star fruit",
+      "scientific_name": [
+        "Averrhoa carambola"
+      ],
+      "section": [
+        {
+          "id": 77,
+          "type": "watering",
+          "description": "Watering for a star fruit plant should occur about 2 to 3 times per week during the summer months, or about 1 inch of water per week. During winter, water the plant about once a week. Make sure that the soil around the plant stays moist and not waterlogged and take care not to over-water. Allow the soil to dry between waterings. For especially hot, dry climates, water more frequently. Water the plant at the base, not the leaves, or use a soaker hose to ensure that water is reaching the root system, and not the fruit."
+        },
+        {
+          "id": 78,
+          "type": "sunlight",
+          "description": "Star fruit requires a minimum of 8 to 10 hours of sunlight each day to thrive and develop properly. Growth is slower in regions that don't receive an abundance of sunlight, which can lead to smaller fruit and a lack of sweetness.\n"
+        },
+        {
+          "id": 79,
+          "type": "pruning",
+          "description": "The time to prune star fruit trees is during the dormant season. This is typically late winter. Cutting away too much at any given time can damage the tree, so it is always important to prune just one branch at a time. Make sure to remove crossed branches, water sprouts or dead wood. Be sure to leave at least half of the new growth for the tree, as it appears on the branches; anything beyond that can be removed.\n"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

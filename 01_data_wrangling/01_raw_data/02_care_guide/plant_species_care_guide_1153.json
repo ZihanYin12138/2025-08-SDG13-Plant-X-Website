@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2463,
+      "species_id": 1153,
+      "common_name": "basket of gold",
+      "scientific_name": [
+        "Aurinia saxatilis 'Gold Dust'"
+      ],
+      "section": [
+        {
+          "id": 7595,
+          "type": "watering",
+          "description": "Basket of Gold (Aurinia saxatilis 'Gold Dust') grows best in moist, well-drained soil and thrives in full sun. Water regularly and deeply, allowing the top 2 inches of soil to dry out between waterings. During hot summer months, plants may need to be watered more frequently. In the summer, plants may need to be watered 2-3 times a week in dry climates. In the winter, water the plants sparingly and only when the soil starts to feel dry."
+        },
+        {
+          "id": 7596,
+          "type": "sunlight",
+          "description": "Basket of gold (Aurinia saxatilis 'Gold Dust') needs full sun for 6–8 hours per day. Morning sun is best, as it provides the highest intensity throughout the day. This plant will not do well in shady conditions and will need at least 6 hours of direct sun exposure per day to stimulate growth and flowering. Although warmer climates may allow for more sun, it is important to ensure that the soil in which the plant is grown does not dry out quickly due to an excess of sunlight. It is best to place the plant in a location that receives light from 9am – 3pm, with some afternoon or morning shade where possible."
+        },
+        {
+          "id": 7597,
+          "type": "pruning",
+          "description": "Basket of Gold (Aurinia saxatilis 'Gold Dust') should be pruned lightly in late spring or early summer, after flowering. Pruning should be minimal, with only dead or damaged stems and leaves removed. Cutting back the plants too hard can diminish flowering in the current year, reduce foliage color, and damage the stems. Deadheading spent flowers can promote new blooms and healthy plant growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

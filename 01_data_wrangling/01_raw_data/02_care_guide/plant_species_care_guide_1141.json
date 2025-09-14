@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2454,
+      "species_id": 1141,
+      "common_name": "Japanese painted fern",
+      "scientific_name": [
+        "Athyrium 'Silver Slippers'"
+      ],
+      "section": [
+        {
+          "id": 7568,
+          "type": "watering",
+          "description": "Japanese painted ferns should be watered regularly, but not overly so. It is best to water the soil when it is dry to a depth of 1 inch. During times of warmer weather, you may need to water every other day. During the cooler or winter months, you may need to water only once a week. Be sure to avoid splashing water on the leaves of the fern; instead, water the soil directly. To ensure your fern receives the proper amount of water, check the soil often and water as needed."
+        },
+        {
+          "id": 7569,
+          "type": "sunlight",
+          "description": "Japanese painted fern requires bright indirect sunlight on a regular basis. It should receive at least 4 to 6 hours of bright, indirect light each day. Placing your Japanese painted fern near a south or west-facing window is ideal. Be sure the plant is far enough away from the window so the leaves do not touch the glass. During the summer months, you can also move your Japanese painted fern outdoors in a shaded area for additional light."
+        },
+        {
+          "id": 7570,
+          "type": "pruning",
+          "description": "Japanese painted fern should be pruned in early spring once new growth begins to emerge. Prune off any dead or damaged fronds with clean scissors or shears. If needed, prune away fronds in order to maintain the desired size and shape of the plant. When pruning, cut fronds back to the base of the crown at the soil level. Keep in mind that some pruning of this plant may be necessary to keep its attractive form."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

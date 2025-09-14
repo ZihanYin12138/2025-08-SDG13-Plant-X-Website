@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2414,
+      "species_id": 1097,
+      "common_name": "milk vetch",
+      "scientific_name": [
+        "Astragalus canadensis"
+      ],
+      "section": [
+        {
+          "id": 7447,
+          "type": "watering",
+          "description": "For optimal growth, milk vetch plants should be watered about once per week. During the peak summer months, the plants may need to be watered more often, as they can become dry quickly in these hot and dry months. During the cooler months, watering once every 2 weeks is usually sufficient. Before watering, check the soil's moisture level, as too much water can be just as damaging as too little. If the top inch or 2 of soil feels dry to the touch, water is likely needed. When watering milk vetch, slowly give the soil a deep soaking to avoid damaging the plants by providing too much water too quickly. Once watered, allow the soil to drain and avoid standing water in the planter. After watering, check the planter again the following day to ensure that all water has been absorbed into the soil."
+        },
+        {
+          "id": 7448,
+          "type": "sunlight",
+          "description": "Milk vetch (Astragalus canadensis) is a native plant species that thrives in sunny environments. It does best with at least 4-6 hours of direct sunlight per day, with full sun giving the best bloom and foliage growth. Morning sunlight is ideal, as it can help protect the plant from potential afternoon scorching. During the hottest months of the year, providing a midday shade break can be beneficial, especially if the plant is located in a particularly hot and dry climate. Milk vetch can also tolerate some light shade, but it is important to avoid deep shade that will reduce flowering and prevent the foliage from reaching maximum size."
+        },
+        {
+          "id": 7449,
+          "type": "pruning",
+          "description": "When it comes to pruning milk vetch (Astragalus canadensis), it's important to not be too aggressive. An annual pruning after flowering is generally recommended for this plant species. Prune back the flowering stalks just above a node where side shoots may emerge. Remove only a few branches at a time to avoid stressing the plant. Prune sparingly, and do not remove more than 1-third of the canopy at any given time in order to preserve healthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

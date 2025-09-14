@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2442,
+      "species_id": 1127,
+      "common_name": "lady fern",
+      "scientific_name": [
+        "Athyrium 'Ghost'"
+      ],
+      "section": [
+        {
+          "id": 7531,
+          "type": "watering",
+          "description": "Lady fern (Athyrium 'Ghost') should be watered regularly, but not overly so. The best way to water is to give the plant a thorough soaking and then allow the topsoil to dry out between waterings. Aim to water every 7 to 10 days, but adjust according to the season; during hotter, dryer months, more frequent watering may be necessary. In general, you should water until the soil is moist but not soggy. If the plant is placed in a container, check the drainage holes often, and empty out any water that collects. If the soil becomes overly saturated, it can lead to root rot."
+        },
+        {
+          "id": 7532,
+          "type": "sunlight",
+          "description": "Lady Fern (Athyrium 'Ghost') grows best in an area of partial shade to full shade, receiving at least a few hours of direct sunlight each day. In particular, autumn and winter sunlight is beneficial, as this will help the plant to become dormant during the cold season. During the summer months, avoid areas that receive too much direct sunlight, as this can damage the leaves. In addition, Lady Fern benefits from light that is filtered through trees, shrubs, or buildings for several hours a day."
+        },
+        {
+          "id": 7533,
+          "type": "pruning",
+          "description": "Lady Fern should be pruned during spring just after new growth has started to appear. Pruning should be light and should focus on removing dead, diseased, or damaged fronds, as well as any excess or overgrown fronds. Fronds should be removed anywhere from the base up to the new growth, as long as at least 2 sets of leaves remain on each stem. Pruning should be done without over-cutting as this will cause the fern to become sparse and leggy. Any pruning cuts should be made cleanly and sharp to help prevent disease. No more than 25-30% of the frond growth should be removed in order to maintain a healthy and attractive appearance."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

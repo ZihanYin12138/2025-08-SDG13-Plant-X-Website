@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2440,
+      "species_id": 1125,
+      "common_name": "lady fern",
+      "scientific_name": [
+        "Athyrium filix-femina 'Veroniae Cristatum'"
+      ],
+      "section": [
+        {
+          "id": 7525,
+          "type": "watering",
+          "description": "This Lady Fern variety prefers moist soil and should be watered regularly, but not saturated. Water the plant well, everyday or every few days, in the morning when the temperature is still cool. During the hot summer months, water more often, as much as twice a day. Depending on the temperature, the soil should be damp, but not soggy. Additionally, mist the leaves in extremely hot weather, and keep the soil slightly moist throughout the winter."
+        },
+        {
+          "id": 7526,
+          "type": "sunlight",
+          "description": "Lady ferns, also known as Athyrium filix-femina 'Veroniae Cristatum', thrive best in lightly shaded conditions and should receive direct sunlight for only a few hours a day in the early morning or late afternoon. The Lady fern is a moderately hardy plant and can withstand most weather conditions, including cold and dry. In the summer months, these ferns need moderate sunlight. Too much light can burn the delicate leaves and make them less vibrant; too little can cause the fronds to yellow or even die. To keep a lady fern happy and healthy, a good rule of thumb is to ensure that it receives no more than 4 to 6 hours of direct sunlight per day. "
+        },
+        {
+          "id": 7527,
+          "type": "pruning",
+          "description": "Lady ferns should be pruned once a year, generally in late winter or early spring, just before new growth begins to emerge. This is usually around the months of February–April in most climates. Use sharp, clean shears and prune off any fronds (leaves) that are dark yellow or brown, as well as any fronds that are overly large, damaged, or out of proportion to the desired size and shape of the fern. Pruning should not be done too aggressively, as it could cause damage to the plant. After pruning, the pruned bits should be discarded, not composted, as decomposing fronds can lead to fungal diseases."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

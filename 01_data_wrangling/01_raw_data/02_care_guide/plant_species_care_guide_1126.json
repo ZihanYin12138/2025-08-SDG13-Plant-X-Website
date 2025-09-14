@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2441,
+      "species_id": 1126,
+      "common_name": "lady fern",
+      "scientific_name": [
+        "Athyrium filix-femina 'Victoriae'"
+      ],
+      "section": [
+        {
+          "id": 7528,
+          "type": "watering",
+          "description": "Lady ferns should be watered deeply and regularly, about once a week. During summer months when the weather is hot, you may need to water more often every 5-7 days. In cooler weather, you can reduce the watering frequency to every 10-14 days. Make sure the soil stays moist, but not soggy. When watering, check the top 2-3 inches of soil, if it feels dry then it’s time to give the Lady Fern some water."
+        },
+        {
+          "id": 7529,
+          "type": "sunlight",
+          "description": "Lady Fern (Athyrium filix-femina 'Victoriae') prefers bright, indirect sunlight. An east- or north-facing window is a great spot for this plant in the home. If you have a south-facing window, filter it with a sheer curtain for best results. Lady Ferns can also grow in low light, but won't reach their full potential if placed in too much shade. If the leaves appear to be drooping, they may need more light. If the foliage appears yellow, this indicates too much light. Providing your Lady fern with approximately 5 to 6 hours of indirect sunlight in cooler temperatures is ideal. In summer, you can limit shade to only 4 hours during peak sun hours."
+        },
+        {
+          "id": 7530,
+          "type": "pruning",
+          "description": "The lady fern (Athyrium filix-femina 'Victoriae') should be pruned regularly throughout the growing season, from early spring to the end of summer. In early spring, remove any dead or browned fronds with sterilized pruning shears. During this time, care should also be taken to cut away any overcrowded or crossed fronds that can affect air circulation. Later during summer, go ahead and prune any fronds that have turned completely brown. Pruning the plant properly will not only keep it looking healthy and tidy, it will also stimulate new growth and help ensure proper air circulation."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

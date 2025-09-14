@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2473,
+      "species_id": 1168,
+      "common_name": "blue false indigo",
+      "scientific_name": [
+        "Baptisia australis"
+      ],
+      "section": [
+        {
+          "id": 7625,
+          "type": "watering",
+          "description": "Blue False Indigo (Baptisia australis) thrives in well-drained soil and should be watered deeply about once per week. During hot, dry weather, additional water may be needed, but be careful to not overwater, as it does not tolerate heavy or soggy soil well. Water the plant until the surface of the soil is moist but not soaked; for best results, water in the evening so the soil has a chance to absorb the water overnight. If possible, it's best to water the plant from the base, rather than with a spray from above, as this will help prevent fungal diseases from developing."
+        },
+        {
+          "id": 7626,
+          "type": "sunlight",
+          "description": "Blue false indigo (Baptisia australis) should receive full sun in order to thrive, at least 6 hours a day, preferably in the morning or early afternoon. It is best to position the plant in an area where it will receive indirect sunlight throughout the remainder of the day, preferably at least 4 more hours to ensure the plant receives enough light for healthy growth. Plant blue false indigo away from shadows created by trees, buildings, and other large objects that could block sunlight."
+        },
+        {
+          "id": 7627,
+          "type": "pruning",
+          "description": "Blue false indigo is a slow-growing, woody perennial that should be pruned in late winter or early spring (February or March). Pruning should be kept minimal, focusing primarily on dead or weak growth. Any diseased or damaged growth should also be removed. If more extensive pruning is desired, do no more than 1-third of the plant’s overall growth in a season. Pruning done before new growth appears can reduce flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

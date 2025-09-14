@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2431,
+      "species_id": 1116,
+      "common_name": "lady fern",
+      "scientific_name": [
+        "Athyrium filix-femina 'Cruciato-cristatum'"
+      ],
+      "section": [
+        {
+          "id": 7498,
+          "type": "watering",
+          "description": "The lady fern should be watered generously during periods of active growth in spring and summer. During these times, water the plant deeply until soil is thoroughly saturated every 7 to 10 days and keep the soil evenly moist. During the fall and winter months, water the plant less frequently, allowing the soil to only dry slightly between waterings."
+        },
+        {
+          "id": 7499,
+          "type": "sunlight",
+          "description": "Lady Ferns (Athyrium filix-femina 'Cruciato-cristatum') prefer bright, indirect sunlight. They can tolerate some direct sunlight but it should be limited during the hottest parts of the day. The ideal sunlight for Lady Ferns is medium light throughout the day, such as found in the shade of a light tree canopy. As with most plants, too much sun can cause the plant to become scorched and dry. Generally, allowing Lady Ferns to receive 4 to 6 hours of sunlight a day is adequate for proper growth."
+        },
+        {
+          "id": 7500,
+          "type": "pruning",
+          "description": "The lady fern (Athyrium filix-femina 'Cruciato-cristatum') should only be pruned when necessary, as its fronds are not prone to overgrowth. The ideal time to prune is in late winter or early spring before new growth appears. Pruning should be limited as much as possible to remove any dead or unhealthy fronds and to promote air circulation and good light exposure for the remaining foliage. Any wilted, brown, or discolored fronds should be pruned off to prevent disease spread. Never remove more than 1 third of the fronds of the fern when pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

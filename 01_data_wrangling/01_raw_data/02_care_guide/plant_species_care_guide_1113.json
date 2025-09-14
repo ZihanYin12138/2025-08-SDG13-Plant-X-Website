@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2428,
+      "species_id": 1113,
+      "common_name": "southern lady fern",
+      "scientific_name": [
+        "Athyrium asplenioides"
+      ],
+      "section": [
+        {
+          "id": 7489,
+          "type": "watering",
+          "description": "Southern lady fern should be kept moist so water regularly but don't let it become soggy. Water the plant well once a week in the summer months, using room temperature water. In the winter months, reduce the frequency of watering to once every 10 to 14 days. Be careful not to underwater the plant as it can become dry and its leaves may drop. If you notice the leaves becoming dry or wilting, increase the frequency of watering."
+        },
+        {
+          "id": 7490,
+          "type": "sunlight",
+          "description": "Southern lady ferns thrive in dappled sunlight, meaning that they prefer bright light but need some protection from the full intensity of direct sunlight. They do best in a region where the sun is filtered through trees and shrubs, creating part sun or part shade conditions. In the humid south, Southern lady ferns may tolerate full sun for short periods in the morning or late afternoon, but in dry climates the full sunlight may wilt and burn the foliage. Southern lady ferns will get the benefit of roughly 4 or 5 hours of direct sunlight each day."
+        },
+        {
+          "id": 7491,
+          "type": "pruning",
+          "description": "Southern Lady Ferns should be pruned in the spring after any danger of frost has passed. To prune, use a pair of sharp, clean scissors or shears to remove any dead or damaged fronds. Afterward, cut back the fronds to 4-5 inches and remove any yellow or brown growth at the base of the plant. Doing this will allow new fronds to form and will ensure the health of the Southern Lady Fern."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

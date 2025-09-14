@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2447,
+      "species_id": 1134,
+      "common_name": "Japanese painted fern",
+      "scientific_name": [
+        "Athyrium niponicum var. pictum 'Pewter Lace'"
+      ],
+      "section": [
+        {
+          "id": 7547,
+          "type": "watering",
+          "description": "This species of fern requires frequent, but light, watering. Water the fern when the top 1/2 inch of soil is completely dry. This species does not tolerate having its feet in water, so be careful not to over-water. When watering, apply mild amounts, ensuring the roots and leaves are well hydrated. Since this species of fern does not require frequent heavy watering, it is best watered twice a week, rather than daily. When temperatures start to drop in the evenings, it's advisable to only water once per week."
+        },
+        {
+          "id": 7548,
+          "type": "sunlight",
+          "description": "Japanese painted ferns do best in bright, indirect sunlight. In general, they should receive around 4 hours of sunlight each day, either in the morning or late afternoon. Avoid placing these ferns in direct sun as this can cause the leaves to scorch or burn."
+        },
+        {
+          "id": 7549,
+          "type": "pruning",
+          "description": "Japanese Painted Ferns should be pruned after the first frost. Prune off any dead or wilting foliage to maintain the fern’s attractive shape and to keep the foliage looking healthy. Pinch off any new growth at the tips of the fronds to maintain the desired size of the plant. Depending on the size of the fern, prune away no more than a third of any existing fronds."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

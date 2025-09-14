@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2429,
+      "species_id": 1114,
+      "common_name": "Japanese painted fern",
+      "scientific_name": [
+        "Athyrium 'Branford Rambler'"
+      ],
+      "section": [
+        {
+          "id": 7492,
+          "type": "watering",
+          "description": "Japanese painted fern should be watered moderately throughout the growing season. Water the plant when the soil is dry to the touch about 1 inch below the surface. Make sure to avoid watering the foliage as this can lead to plant diseases. During the winter months allow the soil to dry out completely and water much less."
+        },
+        {
+          "id": 7493,
+          "type": "sunlight",
+          "description": "Japanese painted fern (Athyrium 'Branford Rambler') should receive bright, indirect sunlight for best growth. Give this plant 4–5 hours of sunlight per day, but it's best to avoid direct, intense sunshine, especially during the hottest parts of the day. Sunlight in the morning or late afternoon is best. Avoid placing the fern in direct sun for more than 2 hours, as this will scorch the leaves."
+        },
+        {
+          "id": 7494,
+          "type": "pruning",
+          "description": "For Japanese painted fern (Athyrium 'Branford Rambler') pruning is recommended twice per year, once in early spring and once in late summer. To prune this fern, use sharp scissors to trim away any dead or dying fronds. The fronds will turn yellow and then brown when they are ready to be trimmed away. For best results, trim the fronds at the base of the fern to maintain its symmetrical shape. This will also encourage healthy new growth. With proper maintenance and pruning, Japanese painted ferns will stay healthy and beautiful for years to come."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

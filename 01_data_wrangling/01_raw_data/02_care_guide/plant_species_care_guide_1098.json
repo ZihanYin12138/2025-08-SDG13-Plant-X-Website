@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 604,
+      "species_id": 1098,
+      "common_name": "ground plum",
+      "scientific_name": [
+        "Astragalus crassicarpus"
+      ],
+      "section": [
+        {
+          "id": 1815,
+          "type": "watering",
+          "description": "The ground plum (Astragalus crassicarpus) is a drought-tolerant plant species, meaning that it doesn't require a lot of water. However, the plant still needs a regular watering in order to stay healthy and flower. It should be watered deeply, twice a month during the growing season, and once every other month when dormant. To enhance growth and flowering, provide water every 10-12 days during warm months or late spring. When watering, make sure to water to a depth of at least 6 inches, as this helps to encourage the plant's deep roots."
+        },
+        {
+          "id": 1816,
+          "type": "sunlight",
+          "description": "Ground plums need plenty of exposure to sunlight to remain healthy. They should receive 6-8 hours of direct sunlight a day, ideally in the morning. It is important to note that during the hottest times of the day, 8-10 hours of direct sunlight can be too much and will scorch the plant. If the plants receive too little sun they will become stunted and bloom fewer flowers. When possible try and place the ground plums in a spot that received filtered sunlight in the afternoon."
+        },
+        {
+          "id": 1817,
+          "type": "pruning",
+          "description": "Groundplum (Astragalus crassicarpus) are perennial plants that require occasional pruning to maintain their health. A light trim should take place in late winter or early spring before any new growth appears. This will ensure the plant does not have any dead, diseased, or woody growth that can impede healthy growth.\n\nFor maximum bushy growth, some minor pruning can also be done during early summer, but care should be taken to avoid cutting away too much of the developing fruit. When pruning during this time, be sure to remove any stems that have crossed over each other and are competing for sunlight and air.\n\nOverall, groundplum require only light pruning once or twice a year in late winter/early spring and then again in early summer, only if necessary. Moderate pruning can help keep the plant healthy and encourage bushy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

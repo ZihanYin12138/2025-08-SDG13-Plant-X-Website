@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2444,
+      "species_id": 1129,
+      "common_name": "painted lady fern",
+      "scientific_name": [
+        "Athyrium niponicum var. niponicum"
+      ],
+      "section": [
+        {
+          "id": 7537,
+          "type": "watering",
+          "description": "Painted lady ferns should be watered when the soil is dry to the touch. During the growing season, the soil should be kept evenly moist, but not saturated. Water the plant thoroughly about once a week or every 5-7 days, depending on your climate and humidity levels. Allow the soil to dry between waterings. During periods of excessive heat or summer drought, increase watering as needed. In cooler months, water less frequently. An occasional misting of the leaves can help increase humidity for the fern."
+        },
+        {
+          "id": 7538,
+          "type": "sunlight",
+          "description": "The painted lady fern requires medium to high bright, indirect light for optimal growth. During spring and summer months, the plant should get around 4-5 hours of direct sunlight per day, preferably in the morning or late afternoon. During winter months, the plant's natural requirements for light are reduced, and it does well with very low levels of light. It should never be exposed to direct sunlight during winter, as this can lead to leaf damage or sunburn."
+        },
+        {
+          "id": 7539,
+          "type": "pruning",
+          "description": "Painted lady fern should be pruned twice during the growing season, in early spring and again in early summer. Pruning should be done when new foliage has first formed on the plant. To prune, cut off any dead or damaged foliage, and then cut back any fronds that have outgrown their allotted space. This will help keep the fern looking tidy and compact. Painted lady ferns can also be divided after pruning. Divide the clump into sections containing 4 to 5 fronds each, and pot the divisions individually, or replant into the garden."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

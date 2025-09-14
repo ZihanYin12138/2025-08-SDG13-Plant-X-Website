@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2455,
+      "species_id": 1142,
+      "common_name": "lady fern",
+      "scientific_name": [
+        "Athyrium thelypterioides"
+      ],
+      "section": [
+        {
+          "id": 7571,
+          "type": "watering",
+          "description": "Water Lady Ferns when the soil in their pot begins to dry out. The ferns do not like to be constantly soaked in water and prefer to remain in moist soil. Water the Lady Fern deeply and slowly, allowing the water to trickle in. Water should be applied until it runs out of the drainage holes in the bottom of the pot. Allow the soil to dry out between waterings. In general, water every 7-10 days. During the hottest months, plants may need water more frequently as they may dry out quicker."
+        },
+        {
+          "id": 7572,
+          "type": "sunlight",
+          "description": "Lady ferns (Athyrium thelypterioides) require several hours of direct sunlight per day in order to do well. The optimum amount of sunlight for this species is up to 6 hours, and it should be received between 10am and 4pm. Lady ferns should not be exposed to more than 6 hours of direct sunlight a day; any additional sunlight can cause scorching and damage to the leaves of the plant. Furthermore, the Lady ferns should be shielded from direct sunlight during the hottest time of day, typically between 11am and 2pm. In addition, the Lady ferns should be kept out of intense midday sunlight and exposed to bright or dappled indirect light instead."
+        },
+        {
+          "id": 7573,
+          "type": "pruning",
+          "description": "Lady Fern is a hardy plant that can thrive with minimal maintenance. Pruning is generally done in late winter, when the plant is dormant. Cut any damaged, diseased, or dead fronds (leaves) off the fern using a pair of sharp scissors or pruning shears. For a more organized appearance, cut back overly long fronds. It's also recommended to trim off the brown, dead fronds from the base of the fern, as they can create a less-than-aesthetic appearance and also hold excess moisture, which can contribute to fungal diseases. Since Lady Ferns are considered slow growers, you won't need to prune them frequently: every 1 to 3 years should suffice."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

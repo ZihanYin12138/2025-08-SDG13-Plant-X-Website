@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2418,
+      "species_id": 1102,
+      "common_name": "masterwort",
+      "scientific_name": [
+        "Astrantia major 'Claret'"
+      ],
+      "section": [
+        {
+          "id": 7459,
+          "type": "watering",
+          "description": "Masterwort (Astrantia major 'Claret') needs regular watering to keep soil moist during the growing season. Water deeply, keeping the soil evenly moist, but not waterlogged. If the plant gets too dry and wilts, it will recover quickly when watered. During summer months, water at least once every week to 10 days, depending on rainfall. In the winter, water as needed, but less often. Make sure the soil is well draining so that excess water can drain away."
+        },
+        {
+          "id": 7460,
+          "type": "sunlight",
+          "description": "Masterwort (Astrantia major 'Claret') prefers full sun to partial shade, and should not receive more than 4 hours of direct sunlight per day. This is because direct sunlight can burn its delicate leaves, resulting in damage. Masterwort thrives in areas with bright, indirect light that still provide plenty of sunlight. Avoid placing the plant in areas that are too shady or dark. Masterwort grows best in moderately rich soil with good drainage. Water it moderately throughout the growing season and be sure to keep the soil evenly moist."
+        },
+        {
+          "id": 7461,
+          "type": "pruning",
+          "description": "Masterwort (Astrantia major 'Claret') responds best to pruning in early spring before any new growth appears. Start pruning back the stems that flowered the previous season to create a neat, rounded shape that won't take away from the new blooms. If you need to do additional pruning, reduce the overall size of the plant and remove any dead or diseased stems. Prune masterwort lightly, as too much pruning can reduce its flowering potential for the season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

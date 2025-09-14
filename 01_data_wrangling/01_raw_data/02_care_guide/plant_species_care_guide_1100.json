@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2416,
+      "species_id": 1100,
+      "common_name": "greater masterwort",
+      "scientific_name": [
+        "Astrantia 'Magnum Blush'"
+      ],
+      "section": [
+        {
+          "id": 7453,
+          "type": "watering",
+          "description": "Greater masterwort (Astrantia 'Magnum Blush') should be watered deeply once a week in the morning to evening when the soil is dry to the touch. During the summer months, it is also beneficial to water it more often, perhaps every other day. Be sure to avoid over-watering, allowing the soil to partially dry out between waterings. It prefers a slightly moist soil, but not soggy. During the winter months, water only when the soil is completely dry."
+        },
+        {
+          "id": 7454,
+          "type": "sunlight",
+          "description": "Greater masterwort (Astrantia 'Magnum Blush') prefers full sun to part shade, meaning that it should receive at least 6 hours of direct sunlight each day. This sunlight can be either the early morning sun or the late afternoon sun, as long as the plant is exposed to 6 hours of direct light. Too much direct sun may cause the plant's foliage to scorch, so it is important to monitor the plant's reaction to the sun by ensuring adequate watering and providing protection from high midday temperatures. Greater masterwort will also benefit from a few hours of afternoon shade. During the hottest parts of the summer, it is best to provide afternoon shade for 3-4 hours in order to keep the plant cooler and reduce scorching of foliage."
+        },
+        {
+          "id": 7455,
+          "type": "pruning",
+          "description": "Prune Greater Masterwort (Astrantia 'Magnum Blush') once a year in late spring or early summer. Cut back the plant to half of its original height and width. Remove any dead or damaged stems, and cut off any healthy stems that are growing in an undesirable direction. Taking off spent flowers will promote more blooms for the rest of the growing season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2420,
+      "species_id": 1104,
+      "common_name": "masterwort",
+      "scientific_name": [
+        "Astrantia major 'Rubra'"
+      ],
+      "section": [
+        {
+          "id": 7465,
+          "type": "watering",
+          "description": "Masterwort (Astrantia major 'Rubra') is an easy-to-care-for plant that thrives in cooler weather. It should be given an average amount of water, about 1 inch per week, and be kept moist but not overly saturated. For best results, water the plant when the soil feels dry to the touch. Avoid over-watering, as this can lead to root rot. Water in the morning, so the excess water has a chance to evaporate in the heat of the day. Avoid getting the flowers wet, as this can cause them to wilt. If your plant is placed in direct sunlight, you may need to water more often in order to keep the soil from drying out."
+        },
+        {
+          "id": 7466,
+          "type": "sunlight",
+          "description": "Masterwort (Astrantia major 'Rubra') grows best in partial or dappled shade, with 2-4 hours of direct sunlight per day. It prefers morning sunlight rather than afternoon sunshine, as this helps it flower more profusely. It also needs some protection from the hot midday sun, as this can damage the foliage. For proper growth and flowering, the plant should get sufficient light but not too much."
+        },
+        {
+          "id": 7467,
+          "type": "pruning",
+          "description": "Masterwort (Astrantia major 'Rubra') should be pruned after flowering has finished. It's best to do selective pruning which means cutting back the flowering stems to a healthy set of leaves. Depending on the size of the plant, you may want to limit how much you prune; for bigger plants, pruning back no more than 1-third of the stems is recommended."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

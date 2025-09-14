@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1016,
+      "species_id": 1157,
+      "common_name": "saw toothed azara",
+      "scientific_name": [
+        "Azara serrata"
+      ],
+      "section": [
+        {
+          "id": 3047,
+          "type": "watering",
+          "description": "Watering for saw toothed azara plants should not be over abundant. They prefer evenly moist soil but not wet soil. Watering should be done about once a week or whenever the top 1-2 inches of soil is dry. Make sure to water the soil directly, not the foliage, in order to prevent leaf disease."
+        },
+        {
+          "id": 3056,
+          "type": "sunlight",
+          "description": "Saw toothed azara grow best when they receive full sun for around 8 hours per day. However, when grown in warmer climates in the US, they may require less light during hot summer months or when grown indoors. In optimal conditions, saw toothed azara will also benefit from dappled light throughout the day. It is best to provide the saw toothed azara with about 5-8 hours of sunlight during the flowering season and at least 6 to 8 hours of sunlight year round."
+        },
+        {
+          "id": 3065,
+          "type": "pruning",
+          "description": "When pruning saw toothed azara (Azara serrata), it should be done in early spring, when the plant is just beginning to bud. The amount of pruning that needs to be done should be tailored to the size of the plant - a larger plant will require more pruning. When pruning, remove dead or diseased branches, as well as any branches that are growing in the wrong direction. Also remove branches that are too close together, which can prevent air circulation and lead to disease. If the plant is getting too large, it can be generally be pruned back by about 1/3 of its size. Whenever pruning, it is important to make sure you are using clean, sterile tools and pruning at the correct angle in order to ensure the best results."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1015,
+      "species_id": 1155,
+      "common_name": "neem",
+      "scientific_name": [
+        "Azadirachta indica"
+      ],
+      "section": [
+        {
+          "id": 3046,
+          "type": "watering",
+          "description": "The soil should be kept moist but not soggy, and the plant should be watered about once a week to keep the soil evenly moist until the plant is established. If the foliage begins to wilt slightly between watering, then this is an indication that the plant is not receiving enough water. In general, the amount of water to give should be sufficient to moisten the soil several inches deep but not so much that the soil is saturated. During periods of extreme heat, the neem plant will need water more often, and during periods of extreme cold, the water should be reduced."
+        },
+        {
+          "id": 3055,
+          "type": "sunlight",
+          "description": "Sunlight requirements for a Neem plant (Azadirachta indica) will differ depending on the variety and the climate. In general, for optimum growth, it is best to provide Neem plants with full sun to partial shade, at least 8-10 hours of direct sun per day. "
+        },
+        {
+          "id": 3064,
+          "type": "pruning",
+          "description": "For Neem (Azadirachta indica) trees pruning should be done when the tree is still young (generally 2-3 years after planting) and should be done at least once every year during early spring. Pruning should be done to keep the Neem tree at a manageable size and shape. Pruning should focus mainly on removing the dead, damaged, or diseased branches. Pruning with garden shears should be done at a 45 degree angle to ensure proper healing of the pruning wound, and the branches should be removed flush to the main trunk of the tree. If left unchecked, the Neem tree can grow quite large and take up a significant amount of space in the garden, therefore it is important to be proactive in pruning and shaping the tree."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

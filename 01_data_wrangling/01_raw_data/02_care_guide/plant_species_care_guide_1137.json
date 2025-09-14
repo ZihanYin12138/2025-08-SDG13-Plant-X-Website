@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2450,
+      "species_id": 1137,
+      "common_name": "Japanese painted fern",
+      "scientific_name": [
+        "Athyrium niponicum var. pictum 'Ursula's Red'"
+      ],
+      "section": [
+        {
+          "id": 7556,
+          "type": "watering",
+          "description": "Water your Japanese painted fern (Athyrium niponicum var. pictum 'Ursula's Red') regularly to keep it healthy and vibrant. Aim to keep the soil moist, but not soggy or wet. Water the soil at the base of the plant twice a week, providing enough water to reach the roots. Allow the soil to dry slightly in between waterings. Avoid overwatering, as it can cause root rot. To check if the plant needs water, feel the soil with your finger to see if it is dry. If it is, it's time to water."
+        },
+        {
+          "id": 7557,
+          "type": "sunlight",
+          "description": "Japanese painted ferns should be grown in a shady area with dappled sunlight or morning sunlight only. They prefer bright, indirect sunlight and can tolerate short periods of direct morning sun, but will burn and scorch in too much direct sun. Ideal sunlight would be an area that receives at least 4 hours of indirect sunlight per day, with periods of direct light no longer than 2 hours at a time."
+        },
+        {
+          "id": 7558,
+          "type": "pruning",
+          "description": "Generally speaking, Japanese painted ferns should be pruned in the early spring, after the last frost of the season has passed. Before pruning, take a look at the fronds and remove any yellow or brown leaves, as these leaves could be harboring disease or pests. Nevertheless, Japanese painted ferns have a delicate and intricate foliage, so you should exercise caution when pruning. If you are pruning to shape the fern, you can cut the fronds back to about 1/3 of their original length. This should be enough to promote thicker and fuller growth of new fronds. If you are trying to remove spent foliage and any diseased or dead fronds, you should remove them at the base. This will ensure proper air circulation and prevent disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

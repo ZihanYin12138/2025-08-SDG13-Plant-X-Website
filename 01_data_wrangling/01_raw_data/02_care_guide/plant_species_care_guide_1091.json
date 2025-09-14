@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2408,
+      "species_id": 1091,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Snowdrift'"
+      ],
+      "section": [
+        {
+          "id": 7429,
+          "type": "watering",
+          "description": "Astilbe 'Snowdrift' should be watered moderately during the growing season. Water thoroughly, but allow the soil to dry slightly between waterings. In general, water once a week should be sufficient, but monitor your plant for signs of dehydration such as wilted leaves and adjust your watering schedule accordingly. During extended periods of dry weather, you may need to water a little more frequently. Avoid overwatering as this can lead to root rot and other diseases. In the winter, this plant is fairly drought tolerant, so watering is not needed."
+        },
+        {
+          "id": 7430,
+          "type": "sunlight",
+          "description": "Astilbe 'Snowdrift' is a shade-loving plant that thrives in partial or dappled sunlight. It should be planted in a spot that receives at least 4-6 hours of indirect sunlight per day, preferably in the morning. Too much direct sun can cause wilting and bleaching of the foliage. Too little light can cause the plant to become leggy and drop leaves. For best growth, plant in a location with evenly lit, indirect sunlight, such as near a south-facing window or in a dappled spot near a deciduous tree."
+        },
+        {
+          "id": 7431,
+          "type": "pruning",
+          "description": "You should prune Astilbe ‘Snowdrift’ in the late winter or early spring. Start by removing any dead or excess foliage in order to promote better air circulation and disease prevention. Then, cut the overall shape of the plant to make it look even and neat. Lastly, cut off any flower stalks or seed heads that were left from the previous season. It’s not necessary to prune hard if the plant is in a healthy state, but you may need to trim it back if it becomes overgrown. When cutting, make sure the cuts are clean and sharp to avoid damage to the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2424,
+      "species_id": 1108,
+      "common_name": "masterwort",
+      "scientific_name": [
+        "Astrantia major 'Venice'"
+      ],
+      "section": [
+        {
+          "id": 7477,
+          "type": "watering",
+          "description": "Water Masterwort deeply but infrequently, as letting the soil dry slightly between waterings will encourage strong, healthy growth. Water when the top 2 inches of the soil begins to feel dry. During hot, dry weather, it is best to water more frequently to prevent the soil from drying out completely. In winter, however, you can reduce watering as the plant goes dormant."
+        },
+        {
+          "id": 7478,
+          "type": "sunlight",
+          "description": "Masterwort (Astrantia major 'Venice') is an easy to care for plant species that prefers a lightly shaded area with some sunlight. Generally, Masterwort should receive at least dappled sunlight, or at least 4 hours of indirect sunlight each day. Ideally, this plant should be placed in a location where it can receive a few hours of morning or late-afternoon sun, and is mostly shaded for the rest of the day. Direct sunlight should also be avoided, as too much can cause the leaves to wilt and turn brown."
+        },
+        {
+          "id": 7479,
+          "type": "pruning",
+          "description": "Masterwort (Astrantia major 'Venice') should be pruned after flowering is complete in late spring or early summer. Pruning should be done lightly and conservatively, aimed at removing any dead or unhealthy stems or flower heads. Once the flowering has finished, don't be afraid to take off up to 1-third of the stems, cutting them down to the base. This will help revitalize the plant and encourage new growth. To help shape the plant, take off back-facing stems and should be done every 2 to 3 years."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

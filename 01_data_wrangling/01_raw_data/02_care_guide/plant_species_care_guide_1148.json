@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2460,
+      "species_id": 1148,
+      "common_name": "spotted laurel",
+      "scientific_name": [
+        "Aucuba japonica 'Picturata'"
+      ],
+      "section": [
+        {
+          "id": 7586,
+          "type": "watering",
+          "description": "Spotted laurel should be watered when the top inch of soil feels dry. The amount of water needed depends on the size of pot, the season, and the environment the plant is in. During the summer, larger plants will require more frequent watering, while smaller plants can be watered less frequently. In general, the soil should be kept evenly moist, but not soggy. In the winter, water sparingly, only enough to keep the soil from drying out completely. Too much water can cause root rot, so be sure to check the soil moisture levels before watering."
+        },
+        {
+          "id": 7587,
+          "type": "sunlight",
+          "description": "Spotted laurel (Aucuba japonica 'Picturata') grows best in partial shade or bright, indirect light, so it should receive at least 4-5 hours of direct sunlight each day, preferably in the morning or late afternoon. Avoid direct sunlight during the peak hours of the day, as this can damage the leaves and cause the plant to become leggy. High amounts of direct sunlight can also cause the plant to become scorched or burn. Spotted laurel also benefits from some light shade during the hottest hours of the day to help protect it from heat and dryness."
+        },
+        {
+          "id": 7588,
+          "type": "pruning",
+          "description": "Spotted laurel (Aucuba japonica 'Picturata') should be pruned twice a year, during the summer and winter, to keep the shape neat and maintain the desired size. During summer, selectively remove dead or damaged branches, or those that are overcrowding the bush. In late winter, prune back any excess growth, aiming to reduce the maximum height by roughly 10%. Be sure to remove any old flower and seed heads to encourage new growth in the upcoming season. Be sure to use sharp, sterilized pruning tools to ensure a clean cut and reduce the risk of disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

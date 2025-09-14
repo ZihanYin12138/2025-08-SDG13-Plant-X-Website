@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2476,
+      "species_id": 1171,
+      "common_name": "false indigo",
+      "scientific_name": [
+        "Baptisia bracteata"
+      ],
+      "section": [
+        {
+          "id": 7634,
+          "type": "watering",
+          "description": "False indigo is a drought-tolerant plant, so it prefers to receive water more deeply and less often. During the summer months, water false indigo deeply a few times a week. To water deeply, water slowly around the base of the plant until the top several inches of soil is moist. During the winter months, water less often but give a thorough watering. This will depend on your climate, so water when the surface of the soil is dry to the touch. Make sure not to overwater false indigo, as this can lead to root rot."
+        },
+        {
+          "id": 7635,
+          "type": "sunlight",
+          "description": "False Indigo grows best in full sun, although it will tolerate partial shade. For optimum growth, full sunlight is recommended for at least 6 hours per day when the plant is planted in mid-spring. The best time to plant False Indigo is in late autumn when days are cooler and the soil has the chance to absorb more moisture. During summer months, False Indigo may require additional watering beyond the normal summer rainfall."
+        },
+        {
+          "id": 7636,
+          "type": "pruning",
+          "description": "False indigo (Baptisia bracteata) should be pruned in late winter to early spring, just before the plant begins to bud. Pruning should be minimal; remove dead, damaged, and diseased stems with sharp pruning shears. Any unnecessary crossing branches should also be trimmed back. Do not over-prune the plant as it could limit flowering and weaken the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

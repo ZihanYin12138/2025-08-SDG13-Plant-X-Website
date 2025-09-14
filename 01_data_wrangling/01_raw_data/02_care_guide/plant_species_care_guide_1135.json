@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2448,
+      "species_id": 1135,
+      "common_name": "Japanese painted fern",
+      "scientific_name": [
+        "Athyrium niponicum var. pictum 'Red Beauty'"
+      ],
+      "section": [
+        {
+          "id": 7550,
+          "type": "watering",
+          "description": "Japanese painted ferns prefer moist, but not soggy soil. Water the ferns deeply and evenly, until there is a slight pool of water in the container. Allow the excess to drain, and then empty the dish beneath the pot. Water every 3-5 days depending on the temperature and humidity of the air. In warmer weather and more humid environments, water every 3 days. In cooler temperatures and less humid environments, water every 5 days."
+        },
+        {
+          "id": 7551,
+          "type": "sunlight",
+          "description": "Japanese painted ferns need a moderate amount of sunlight and will do best in part shade to part sun situations. During the spring and summer months, indirect light should be adequate. During the winter months, more light can be provided by placing the fern in a south-facing window that receives 3 to 4 hours of direct sunlight every day. As with all plants, be sure to monitor the growth and watch for signs of too much light such as yellowing or drying foliage."
+        },
+        {
+          "id": 7552,
+          "type": "pruning",
+          "description": "Japanese painted ferns should be pruned in early summer, when they are actively growing. Pruning should be done lightly; only remove dead or damaged leaves, and trim off any fronds that have become too long or are browning at the tips. This will help keep the plant's shape and stimulate new growth. Re-pot the plant if necessary."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2466,
+      "species_id": 1160,
+      "common_name": "false willow",
+      "scientific_name": [
+        "Baccharis angustifolia"
+      ],
+      "section": [
+        {
+          "id": 7604,
+          "type": "watering",
+          "description": "False willow (Baccharis angustifolia) requires regular watering to stay healthy and reach its full potential. During its active growing period in the spring and summer, it should be watered deeply and regularly. The best way to watering false willow is to allow the top 2-3 inches of soil to dry out before each watering. During hot spells, water will need to be applied more frequently. During the winter months, reduce watering significantly as false willow is semi-drought tolerant and needs less water during its dormant period. It is best to check the soil before watering and if it is already wet, then wait until it begins to dry out before watering again. This helps to avoid over-watering and root-rot."
+        },
+        {
+          "id": 7605,
+          "type": "sunlight",
+          "description": "The false willow (Baccharis angustifolia) prefers full sunlight, between 6 - 8 hours a day. It should be grown in a spot with ample sun exposure, preferably the south side of the house. The sun helps plants grow and store energy that they need to survive. When there is not enough sunlight, the false willow will become stunted and weak. Additionally, the plant needs well-draining soil with proper air and water circulation. If grown in moist soil for too long, it may suffer from disease and root rot."
+        },
+        {
+          "id": 7606,
+          "type": "pruning",
+          "description": "False willow (Baccharis angustifolia) should be pruned once or twice a year, ideally during the dormant season. Generally, this plant species should be selectively pruned in the late winter, just before the new growth begins in the spring. This will help remove any dead, diseased, or damaged branches and promote a healthy and attractive canopy. When trimming false willow, aim to remove no more than 1-third of the overall canopy to maintain a healthy balance of growth. Additionally, when pruning false willow, keep the natural, form and shape of the plant while removing any crossing or overcrowded branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

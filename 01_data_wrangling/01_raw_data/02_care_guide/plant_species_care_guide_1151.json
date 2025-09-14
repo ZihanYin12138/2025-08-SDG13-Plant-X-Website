@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2461,
+      "species_id": 1151,
+      "common_name": "basket-of-gold",
+      "scientific_name": [
+        "Aurinia saxatilis"
+      ],
+      "section": [
+        {
+          "id": 7589,
+          "type": "watering",
+          "description": "Basket-of-gold (Aurinia saxatilis) should be watered thoroughly and evenly when the soil begins to feel dry to the touch. During the warmer months, the plant should be watered deeply at least once per week and more often during periods of drought. In the cooler months, the water needs of the plant are less, and it should be watered only when the soil begins to feel dry. If possible, water the plant early in the day to avoid any water being lost to evaporation in the heat of the day."
+        },
+        {
+          "id": 7590,
+          "type": "sunlight",
+          "description": "Basket-of-gold (Aurinia saxatilis) is a hardy plant that thrives in both full sun and partial shade. It grows best when exposed to 6-8 hours of direct, intense sunlight each day. If your basket-of-gold is not receiving sufficient sunlight, it is likely to become leggy and weak, reducing its overall attractive form. The best time of day for it to receive sunlight is during the morning and early afternoon hours, as the day progresses the intensity of sunlight can increase, which can lead to scorching of the foliage."
+        },
+        {
+          "id": 7591,
+          "type": "pruning",
+          "description": "Basket-of-gold (Aurinia saxatilis) should be pruned in late spring/early summer, when the blooms have faded. The plant should be pruned both to keep its shape and to promote healthy growth. To retain a more natural shape, prune back only the long, straggly stems to where they intersect with a main branch. At the same time, trim away any diseased or dead growth. To promote more blooms, cut back the top third of the plant. This encourages lateral branching and more flowers."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

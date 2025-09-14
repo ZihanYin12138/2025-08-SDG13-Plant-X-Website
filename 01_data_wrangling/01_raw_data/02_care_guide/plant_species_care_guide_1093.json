@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2410,
+      "species_id": 1093,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Straussenfeder' OSTRICH PLUME"
+      ],
+      "section": [
+        {
+          "id": 7435,
+          "type": "watering",
+          "description": "Astilbe 'Straussenfeder' OSTRICH PLUME requires moist soil and regular watering to keep the soil moist but not soggy. Water the plant once or twice a week during growing season, allowing the soil to dry out slightly between waterings. During periods of intense heat, water a bit more to ensure the soil never dries out completely. During the winter months, reduce watering to once a month, when the soil dries out. It is important to avoid overwatering in winter."
+        },
+        {
+          "id": 7436,
+          "type": "sunlight",
+          "description": "Astilbe 'Straussenfeder' Ostrich Plume requires partial to full shade, receiving several hours of direct sunlight per day to flourish. Being a highly shade tolerant species, it will do well in woodland or shady spots in a garden. Generally, it should receive a minimum of 4 hours of morning sun every day in order to remain healthy, as more than this can cause the leaves to scorch or fade."
+        },
+        {
+          "id": 7437,
+          "type": "pruning",
+          "description": "For Astilbe 'Straussenfeder' (OSTRICH PLUME), the best time to prune is in early spring, about 4 weeks before new shoots appear. This is usually before the end of March. Start by cutting the stem back to around a third of its height. This will help to promote new shoot growth and help it maintain its shape. You can also prune away any dead or damaged stems. After the initial pruning, check it again at the beginning of summer and if needed trim back any very long stalks. At the end of the season, cut back any foliage which has died back or become untidy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

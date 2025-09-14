@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2489,
+      "species_id": 1184,
+      "common_name": "yellow wild indigo",
+      "scientific_name": [
+        "Baptisia sphaerocarpa 'Screamin' Yellow'"
+      ],
+      "section": [
+        {
+          "id": 7673,
+          "type": "watering",
+          "description": "The yellow wild indigo (Baptisia sphaerocarpa 'Screamin' Yellow') should be watered deeply once a week in summer (April to September). The soil should be moistened to at least 6 inches deep, but try to avoid giving the plant too much water. In winter (October to March) water your yellow wild indigo more sparingly, so that the soil just feels slightly moist. If you live in a warm area, it may need to be watered more often in winter."
+        },
+        {
+          "id": 7674,
+          "type": "sunlight",
+          "description": "Yellow wild indigo (Baptisia sphaerocarpa 'Screamin' Yellow') prefers full sun, at least 6 hours daily. When grown in areas with more shade, the plant may be less vigorous and bloom less prolifically. In warmer climates the plant can tolerate part shade, but will likely benefit from some additional light. For best results, plant in an area that will receive full sun in the mornings, and some shade in the afternoon or evening."
+        },
+        {
+          "id": 7675,
+          "type": "pruning",
+          "description": "Yellow wild indigo should be pruned at the start of the growing season in late spring or early summer. Pruning should be done annually and should be limited to only the tips of long branches. When pruning, take off only a few inches from the end of the branch. This should help promote healthy, strong growth by removing any dead or damaged growth and promoting strong flower production. Avoid over-pruning, as this can weaken the plant and cause it to be more susceptible to disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

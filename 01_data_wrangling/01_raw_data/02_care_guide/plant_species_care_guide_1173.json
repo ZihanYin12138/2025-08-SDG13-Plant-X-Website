@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2478,
+      "species_id": 1173,
+      "common_name": "false indigo",
+      "scientific_name": [
+        "Baptisia 'Carolina Moonlight'"
+      ],
+      "section": [
+        {
+          "id": 7640,
+          "type": "watering",
+          "description": "False Indigo should be watered deeply about once a week to ensure the roots are receiving ample moisture. Water until the soil is completely wet. Allow the top inch or 2 of soil to dry out in between waterings to prevent root rot and other fungal issues. This plant does tolerate occasional dryness and short periods of drought, but for best results, it should be provided with a consistent supply of moisture. If you're not sure if your False Indigo needs water, feel the soil and if it is dry down to your knuckle, it's time to water."
+        },
+        {
+          "id": 7641,
+          "type": "sunlight",
+          "description": "False indigo (Baptisia 'Carolina Moonlight') needs full sun for optimal growth and performance. For best flower production, it should be planted in an area that receives 6 or more hours of direct, unfiltered sun per day. If grown in an area with partial shade, the plant may become leggy and have fewer flowers. Additionally, it's best to ensure that the plant is in full sun during the peak of the growing season, from early spring to mid-fall."
+        },
+        {
+          "id": 7642,
+          "type": "pruning",
+          "description": "False Indigo (Baptisia 'Carolina Moonlight') should be pruned in the early spring just before new growth begins, usually around March or April. Prune off any dead or damaged branches, and cut back as needed to maintain a nice shape. If the plant has become too large or overgrown, you can prune it back to within a few inches of the ground in the early spring, and the plant will re-sprout. Be sure to make all pruning cuts cleanly and away from any buds or leaves. Doing so will help ensure the plant heals quickly and grows back vigorously."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

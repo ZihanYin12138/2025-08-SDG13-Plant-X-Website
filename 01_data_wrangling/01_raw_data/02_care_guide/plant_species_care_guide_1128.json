@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2443,
+      "species_id": 1128,
+      "common_name": "Japanese painted fern",
+      "scientific_name": [
+        "Athyrium niponicum 'Crested Surf'"
+      ],
+      "section": [
+        {
+          "id": 7534,
+          "type": "watering",
+          "description": "Japanese painted ferns should be watered whenever the top 2-3 inches of soil has dried to the touch. For optimal growth, water the plant deeply on a weekly basis using lukewarm water until it comes out of the drainage holes in the pot. It's important to not leave the soil soggy for extended periods of time as this could cause root rot. Additionally, misting the leaves with water every other day or so can help to keep the Japanese painted fern healthy and looking its best."
+        },
+        {
+          "id": 7535,
+          "type": "sunlight",
+          "description": "Japanese painted fern (Athyrium niponicum 'Crested Surf') prefers indirect sunlight—it should be protected from hot direct sunlight. During the warmer months, it can tolerate a few hours of morning or late afternoon sun as long as it is in a shady spot for the rest of the day. During the cooler months, brighter indirect light for more hours of the day is acceptable, but again, keeping the fern protected from direct sun."
+        },
+        {
+          "id": 7536,
+          "type": "pruning",
+          "description": "Japanese painted fern should be pruned once a year in late winter. During this time, all dead foliage should be removed and any stems that are too tall, damaged, or overcrowded should be cut back. When cutting back the fronds, make sure to leave some new growth at the base of each frond for the new growth that will replace the old growth. Be careful not to cut back too much as this can damage the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2480,
+      "species_id": 1175,
+      "common_name": "false indigo",
+      "scientific_name": [
+        "Baptisia 'Dutch Chocolate'"
+      ],
+      "section": [
+        {
+          "id": 7646,
+          "type": "watering",
+          "description": "False indigo (Baptisia 'Dutch Chocolate') should generally be watered once a week. Each time, provide enough water so that the soil is evenly soaked, assuming no rain that week. It is better to provide 2 light waterings rather than 1 heavy 1. Always check the soil moisture before watering to ensure the plant does not get overwatered. On hot days, you may need to increase your waterings to twice a week. Allow the soil to dry out slightly between waterings."
+        },
+        {
+          "id": 7647,
+          "type": "sunlight",
+          "description": "False indigo (Baptisia 'Dutch Chocolate') grows best when planted in full sun, which means 6-8 hours of direct sunlight each day. They can tolerate some afternoon shade, but because of their tall nature, they must be planted in an area that will not be shaded during the morning hours. False indigo is also less tolerant of cold weather, so try to keep them out of freezing temperatures."
+        },
+        {
+          "id": 7648,
+          "type": "pruning",
+          "description": "False indigo plants should be pruned once a year in late fall or early winter. Cut back the flowering stems to a height of 8-12 inches to prevent the plant from becoming too tall and scraggly. In addition, remove any deadwood or damaged stems, as well as any weak or thin growth. If any side branches are starting to take over the main stem, prune back those as well. Overall, pruning should be done sparingly, as too much can harm the plant's health."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

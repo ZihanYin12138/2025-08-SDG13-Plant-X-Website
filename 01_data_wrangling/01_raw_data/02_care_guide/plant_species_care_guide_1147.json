@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 628,
+      "species_id": 1147,
+      "common_name": "spotted laurel",
+      "scientific_name": [
+        "Aucuba japonica 'Mr. Goldstrike'"
+      ],
+      "section": [
+        {
+          "id": 1875,
+          "type": "watering",
+          "description": "Spotted laurel (Aucuba japonica 'Mr. Goldstrike') should be watered twice per week, using about 1.5 in (3.8cm) of water per watering. Depending on the climate in which it is growing, spotted laurel may benefit from additional water during periods of extreme heat or drought. To ensure the best growth, check the soil around the tree before watering, and only water if the soil is dry to the touch."
+        },
+        {
+          "id": 1882,
+          "type": "sunlight",
+          "description": "The spotted laurel requires partial shade to full shade with some direct sunlight. When the direct sunlight is present, it should be limited to approximately 3 to 4 hours a day during the morning or late afternoon hours. This will ensure that the plant receives the necessary amounts of light without becoming stressed due to too much sun exposure or too little sun to provide nutrients."
+        },
+        {
+          "id": 1888,
+          "type": "pruning",
+          "description": "Spotted laurel (Aucuba japonica 'Mr. Goldstrike') should be pruned at least once yearly in late winter or early spring when the plant is still dormant. Pruning should be minimal, only removing dead, diseased, or damaged branches, as well as crossing or overly long branches. If desired, light shaping can be done to remove up to 1-third of the plant's growth. Doing any more than this will result in the plant becoming sparse and unattractive."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

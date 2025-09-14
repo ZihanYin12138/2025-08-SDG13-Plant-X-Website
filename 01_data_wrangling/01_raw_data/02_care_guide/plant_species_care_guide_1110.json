@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2426,
+      "species_id": 1110,
+      "common_name": "masterwort",
+      "scientific_name": [
+        "Astrantia 'Star of Beauty'"
+      ],
+      "section": [
+        {
+          "id": 7483,
+          "type": "watering",
+          "description": "Water Masterwort (Astrantia 'Star of Beauty') deeply, approximately once per week and allow the surface of the soil to become slightly dry before re-watering. In periods of hot weather, the soil should be kept evenly moist. To avoid root rot, ensure that the soil drains well and water the plant only at soil level, not on the foliage. mulching around the base of the plant will help the soil to retain moisture. When possible, water the plant in the morning so the foliage has a chance to dry off throughout the day before night falls."
+        },
+        {
+          "id": 7484,
+          "type": "sunlight",
+          "description": "Masterwort (Astrantia 'Star of Beauty') should be placed in an area that receives bright, indirect sunlight for at least 4 hours per day. The best times to give it sunlight are in the morning and during early part of the afternoon. Avoid full afternoon sun as this can be very intense and may cause the plant to scorch and burn. For optimal growth and flowering this species should be given at least 4-6 hours of sunlight a day."
+        },
+        {
+          "id": 7485,
+          "type": "pruning",
+          "description": "The best time to prune Astrantia 'Star of Beauty' (masterwort) is after blooming, in mid-to-late summer. You should prune off the aged flower heads to help promote new blooms and keep the plant looking neat and tidy. If the stems of the plant start to look too tall, you can lightly trim them back to maintain the desired shape and size. You only need to lightly prune the plant, taking care to avoid cutting into new healthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

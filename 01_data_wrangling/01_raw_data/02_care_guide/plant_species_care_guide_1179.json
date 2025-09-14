@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2484,
+      "species_id": 1179,
+      "common_name": "false indigo",
+      "scientific_name": [
+        "Baptisia 'Lunar Eclipse'"
+      ],
+      "section": [
+        {
+          "id": 7658,
+          "type": "watering",
+          "description": "False indigo (Baptisia 'Lunar Eclipse') should be watered generously every 7-10 days during the spring and summer months, once established. The soil should be kept evenly moist, but not soggy. Allow soil to dry slightly between waterings. During the winter, water only when the top couple of inches of soil feels dry."
+        },
+        {
+          "id": 7659,
+          "type": "sunlight",
+          "description": "False indigo (Baptisia 'Lunar Eclipse') prefers to grow in full sun, which means it needs at least 6 hours of direct, unfiltered sunlight each day. If grown in a shady spot, the plant will produce fewer flowers and might struggle to thrive. For best results, give this plant a spot in the garden where it can receive full sun from morning to sunset."
+        },
+        {
+          "id": 7660,
+          "type": "pruning",
+          "description": "False indigo (Baptisia 'Lunar Eclipse') should be pruned lightly in early spring with the removal of any dead or damaged branches. The plant should also be thinned by removing the oldest stems at ground level each year. This promotes the growth of the younger, healthier branches and gives the plant an attractive shape. Pruning can also be done in late winter if desired. Avoid pruning into the green wood of the stems as this may cause significant damage to the shrub. If you must prune into the green wood, do it sparingly and be sure to use clean, sharp pruning shears."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

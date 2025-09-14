@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2477,
+      "species_id": 1172,
+      "common_name": "false indigo",
+      "scientific_name": [
+        "Baptisia bracteata var. leucophaea"
+      ],
+      "section": [
+        {
+          "id": 7637,
+          "type": "watering",
+          "description": "False indigo is a drought-tolerant plant species and generally does not require a lot of water. During the first growing season, water once a week to ensure proper establishment . After the first year, the plant should only be watered if the soil is dry. If the soil is dry during the summer, water the plant every 2 weeks. In drought-prone or very hot regions, water the plant every 3 weeks. In periods of extreme heat, water the false indigo more frequently. During winter months, the plant does not require watering."
+        },
+        {
+          "id": 7638,
+          "type": "sunlight",
+          "description": "False indigo (Baptisia bracteata var. leucophaea) grows best in bright light or full sunlight for at least 6 hours each day. This species flourishes in warm, sunny locations, so it's best planted in an area where it can receive direct sunlight for the majority of the day. For optimal growth, it should receive full sun for most of the day with partial shade in the hottest part of the day to protect its foliage from heat stress. It can also tolerate light shade, but it won’t flower as much in a shadier environment."
+        },
+        {
+          "id": 7639,
+          "type": "pruning",
+          "description": "False indigo can be pruned during the late winter or early spring, when the plant is dormant. Pruning should be done carefully to prevent fungal rot. Remove diseased, dead, or broken branches, as well as any dead or dying flowers. Cut off any weak or spindly shoots. Pruning should be done sparingly, as too much can reduce the amount of flowering stems the plant will produce. After pruning, shape the remaining stems as needed. Generally, false indigo plants benefit from light pruning every 3 to 4 years."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

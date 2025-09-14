@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2423,
+      "species_id": 1107,
+      "common_name": "masterwort",
+      "scientific_name": [
+        "Astrantia major 'Sunningdale Variegated'"
+      ],
+      "section": [
+        {
+          "id": 7474,
+          "type": "watering",
+          "description": "Masterwort should be watered deeply 2-3 times a week during the active growing season, from spring to fall. When the temperatures start to drop, watering can be reduced to once a week. Make sure to water the soil thoroughly to allow the water to penetrate the roots of the plant. Soak the soil completely but then allow it to dry slightly before watering again. Overwatering should be avoided to prevent root rot."
+        },
+        {
+          "id": 7475,
+          "type": "sunlight",
+          "description": "Masterwort (Astrantia major) grows best in full sun, meaning at least 6 hours of direct sunlight each day. For the variety ‘Sunningdale Variegated’, the plant will produce the most vibrant blooms when placed in a spot with full sun exposure. However, this species can also tolerate partial shade, meaning it will grow with less than 6 hours of sun a day, although it may not flower as abundantly."
+        },
+        {
+          "id": 7476,
+          "type": "pruning",
+          "description": "Masterwort should be pruned in late winter or early spring. Pruning should be limited to removing any dead stems and trimming back overly vigorous stems that are outgrowing the size of the plant. In general, pruning should not be excessive as it can negatively impact the plant's flowering potential. The best way to ensure the health of the plant is to prune back any dead, damaged, or diseased stems, and lightly prune the plant if necessary for size and shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

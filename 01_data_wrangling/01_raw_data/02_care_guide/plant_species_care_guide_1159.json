@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2465,
+      "species_id": 1159,
+      "common_name": "water fern",
+      "scientific_name": [
+        "Azolla filiculoides"
+      ],
+      "section": [
+        {
+          "id": 7601,
+          "type": "watering",
+          "description": "Water ferns should be watered regularly and lightly. For optimal growth, they should be watered 1-2 times per week, allowing the soil to dry slightly before each watering. When watering, water thoroughly until water runs out of the pot. To prevent root rot, be sure not to over water. Watering too often can cause them to become waterlogged and die. Once the ferns are established, water moderately every week to 10 days. Reducing watering during colder months can also help the ferns last longer."
+        },
+        {
+          "id": 7602,
+          "type": "sunlight",
+          "description": "Water Ferns need to have plenty of sunlight in order to thrive. This plant species should receive direct sunlight for 8-10 hours each day. They prefer full sun during the middle of the day, when the sun is at its peak. During the morning and evening, they can tolerate some shade. If the light is too bright or too strong, they may be prone to sunburn.\n\nWater Ferns should be kept in moderate temperatures, between 45-85 degrees Fahrenheit. Because they are native to tropical environments, they like high humidity with good air circulation. With the right environment, these ferns will flourish."
+        },
+        {
+          "id": 7603,
+          "type": "pruning",
+          "description": "Water Fern should be pruned several times a season to maintain healthy growth. Pruning should occur when the plant is actively growing in the summer and during the start of fall. Pruning should involve removing any dead or damaged foliage from the plant and thinning out and cutting back bigger clumps. When thinning, reach in and pull apart the fern’s foliage, being careful to not rip or tear the frond. After pruning is complete, be sure to add some aquatic fertilizer to the water to replace the nutrients that were taken away during pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

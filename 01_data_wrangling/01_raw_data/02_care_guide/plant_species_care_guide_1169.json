@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2474,
+      "species_id": 1169,
+      "common_name": "blue false indigo",
+      "scientific_name": [
+        "Baptisia australis var. minor"
+      ],
+      "section": [
+        {
+          "id": 7628,
+          "type": "watering",
+          "description": "Blue false indigo (Baptisia australis var. minor) is a perennial native to the United States. It will require about 1 inch of water every week during the growing season, typically from late spring to early autumn. However, during extreme heat and drought conditions, you may need to increase watering to twice a week, but ensure the soil does not become soggy. Blue false indigo should be watered at the base of the plant, rather than over the foliage, to prevent disease. It should also have plenty of air circulation around it to keep humidity low. Ensure the soil has good drainage so water does not sit for long periods of time. Water early in the morning to take advantage of the cooler day and give the plant a chance to dry before nightfall. In winter, watering may be reduced to once a month to keep the roots from becoming soggy."
+        },
+        {
+          "id": 7629,
+          "type": "sunlight",
+          "description": "Blue false indigo prefers to grow in full sun, so it should get at least 6-8 hours of direct sunlight each day for optimal growth. When the plant is young, it can tolerate some shade, but as it matures, it will need full sunlight to produce the most vibrant flowers. When sited in an area with full sun exposure, the blue false indigo will begin flowering in late spring and may bloom until autumn."
+        },
+        {
+          "id": 7630,
+          "type": "pruning",
+          "description": "Blue false indigo plants should be pruned lightly in late winter after the last frost. Pruning should be minimal, limited to removing any dead branches and those that interfere with walkways or crowds other plants. Pruning of the main stems is not recommended. If necessary, thin out a few of the overcrowded stems to promote good air circulation and avoid stem crossing and rubbing. Trimming the plant back by about 1-third will also encourage new shoots and bushier growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
