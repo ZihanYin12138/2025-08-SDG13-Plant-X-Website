@@ -1,0 +1,134 @@
+{
+  "id": 1104,
+  "common_name": "masterwort",
+  "scientific_name": [
+    "Astrantia major 'Rubra'"
+  ],
+  "other_name": [
+    "astrantia"
+  ],
+  "family": "Apiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Rubra",
+  "variety": null,
+  "species_epithet": "major",
+  "genus": "Astrantia",
+  "origin": [
+    "Europe"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2.5,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1104&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1104&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flower",
+      "color": [
+        "deep-pink-maroon"
+      ]
+    },
+    {
+      "part": "anther",
+      "color": [
+        "creamy-white-pink"
+      ]
+    },
+    {
+      "part": "bracts",
+      "color": [
+        "dark-purple"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1104&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Mold",
+    " Slugs",
+    "snails"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Masterwort (Astrantia major 'Rubra') is an amazing perennial flower that deserves to be grown in many garden landscapes. The beauty of this flowering plant lies in its bright, deep-red petals with yellow stamens that have a striking contrast of colors against its lacy dark-green foliage. It blooms over a long season, often from spring all the way through fall, and its flowers attract butterflies and other pollinators. This hardy, shade tolerant plant is a fabulous choice for partially shaded areas of your landscape. So plant masterwort and instantly add a splash of gorgeous color to your garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1104_astrantia_major_rubra/og/52178475412_8170bfc5c7_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1104_astrantia_major_rubra/regular/52178475412_8170bfc5c7_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1104_astrantia_major_rubra/medium/52178475412_8170bfc5c7_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1104_astrantia_major_rubra/small/52178475412_8170bfc5c7_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1104_astrantia_major_rubra/thumbnail/52178475412_8170bfc5c7_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

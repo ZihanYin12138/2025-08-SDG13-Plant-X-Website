@@ -1,0 +1,144 @@
+{
+  "id": 1103,
+  "common_name": "masterwort",
+  "scientific_name": [
+    "Astrantia major 'Roma'"
+  ],
+  "other_name": [
+    "astrantia"
+  ],
+  "family": "Apiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Roma",
+  "variety": null,
+  "species_epithet": "major",
+  "genus": "Astrantia",
+  "origin": [
+    "Europe"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2.5,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1103&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1103&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "pink",
+        "pink-white"
+      ]
+    },
+    {
+      "part": "anthers",
+      "color": [
+        "pink"
+      ]
+    },
+    {
+      "part": "stalk",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stamens",
+      "color": [
+        "dark-pink"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1103&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Mold",
+    " Slugs",
+    "snails"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Astrantia major 'Roma' - commonly known as Masterwort - is an amazing plant species worthy of any garden. It grows in a clump of soft foliage, with upright stems and cup-shaped blooms that are a pleasure to look at up close. Its four-petal flowers come in shades of pink and white and are held atop elegant green bracts. It's an ideal choice for growing in mixed borders or in patio containers, as it is both drought and heat tolerant. Its foliage is also highly attractive in flower arrangements, making Masterwort a versatile plant for all kinds of garden designs.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1103_astrantia_major_roma/og/33706335785_38b4f79a8f_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1103_astrantia_major_roma/regular/33706335785_38b4f79a8f_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1103_astrantia_major_roma/medium/33706335785_38b4f79a8f_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1103_astrantia_major_roma/small/33706335785_38b4f79a8f_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1103_astrantia_major_roma/thumbnail/33706335785_38b4f79a8f_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

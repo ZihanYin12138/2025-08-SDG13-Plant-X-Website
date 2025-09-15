@@ -1,0 +1,167 @@
+{
+  "id": 1178,
+  "common_name": "false indigo",
+  "scientific_name": [
+    "Baptisia 'Lemon Meringue'"
+  ],
+  "other_name": [],
+  "family": "Fabaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Lemon Meringue",
+  "variety": null,
+  "species_epithet": "'Lemon",
+  "genus": "Baptisia",
+  "origin": [
+    "United States"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1178&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1178&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "blooms",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "buds",
+      "color": [
+        "gray-purple"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stalk",
+      "color": [
+        "dark-green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "lime-green"
+      ]
+    },
+    {
+      "part": "stalks",
+      "color": [
+        "lime-green",
+        "green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "yellow-purple",
+        "yellow-green"
+      ]
+    },
+    {
+      "part": "foliage",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "June"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1178&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "False Indigo (Baptisia 'Lemon Meringue') is the perfect addition to any garden. Its bright yellow-gold flowers boast an intense color year-round, while its robust habit and deep green foliage provide texture and cover. This plant is a true perennial, with no need to replant from year to year. Plus, once established, it’s low-maintenance and drought-tolerant. Encourage pollinators with its blooms, or gardeners can clip the gorgeous flowers for fresh bouquets. It’s truly a magnificent specimen that infuses color and life into any garden.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1178_baptisia_lemon_meringue/og/51209560548_c6356f9da2_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1178_baptisia_lemon_meringue/regular/51209560548_c6356f9da2_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1178_baptisia_lemon_meringue/medium/51209560548_c6356f9da2_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1178_baptisia_lemon_meringue/small/51209560548_c6356f9da2_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1178_baptisia_lemon_meringue/thumbnail/51209560548_c6356f9da2_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,111 @@
+{
+  "id": 1150,
+  "common_name": "spotted laurel",
+  "scientific_name": [
+    "Aucuba japonica 'Variegata'"
+  ],
+  "other_name": [],
+  "family": "Garryaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Variegata",
+  "variety": null,
+  "species_epithet": "japonica",
+  "genus": "Aucuba",
+  "origin": [
+    "Japan"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 6,
+      "max_value": 10,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Layering Propagation",
+    "Cutting",
+    "Division",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1150&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1150&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1150&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": true,
+  "care_level": "Moderate",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Spotted Laurel (Aucuba japonica 'Variegata') is an evergreen shrub, known for its signature leaves of green and yellow-gold with blotched variegation. Growing to a potential height of 3-4 feet and width of 2-4 feet, it is an easy-to-care shrub, perfect for a low-maintenance garden. This is a ‘shade-thriving’ plant and is suitable for a wide range of climates, making it a great choice for any garden. Blooms of small, green-yellow flowers appear in the late winter and are followed by bright red berries. Spotted Laurel is a great way to bring beautiful, lively colors to your garden - no matter the season.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1150_aucuba_japonica_variegata/og/2560px-Aucuba_japonica_27Variegata27_A.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1150_aucuba_japonica_variegata/regular/2560px-Aucuba_japonica_27Variegata27_A.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1150_aucuba_japonica_variegata/medium/2560px-Aucuba_japonica_27Variegata27_A.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1150_aucuba_japonica_variegata/small/2560px-Aucuba_japonica_27Variegata27_A.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1150_aucuba_japonica_variegata/thumbnail/2560px-Aucuba_japonica_27Variegata27_A.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

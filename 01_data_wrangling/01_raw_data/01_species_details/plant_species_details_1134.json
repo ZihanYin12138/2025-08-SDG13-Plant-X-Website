@@ -1,0 +1,108 @@
+{
+  "id": 1134,
+  "common_name": "Japanese painted fern",
+  "scientific_name": [
+    "Athyrium niponicum var. pictum 'Pewter Lace'"
+  ],
+  "other_name": [],
+  "family": "Athyriaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Pewter Lace",
+  "variety": "var. pictum ",
+  "species_epithet": "niponicum",
+  "genus": "Athyrium",
+  "origin": [
+    "Eastern Asia"
+  ],
+  "type": "Fern",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1134&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1134&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Deep shade",
+    " Filtered shade",
+    " Part sun/part shade"
+  ],
+  "pruning_month": [],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1134&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Humus rich",
+    " Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Rust",
+    "  Pest resistant",
+    " Disease resistant",
+    " Deer resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Japanese painted ferns (Athyrium niponicum var. pictum 'Pewter Lace') are an amazing species of fern, boasting silver fronds and painting-like streaks of red, pink, and brown across their leaves. They are a low-maintenance species, doing best in partial shade or dappled light, and are perfect for adding a pop of color and texture to any garden. They look BEST when given a compost-based rich soil and kept moist through regular watering. These ferns can reach up to one foot tall and wide, bringing elegance and style to any home or landscape!",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1134_athyrium_niponicum_var_pictum_pewter_lace/og/1536px-Athyrium_niponicum_27Red_Beauty27_kz02.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1134_athyrium_niponicum_var_pictum_pewter_lace/regular/1536px-Athyrium_niponicum_27Red_Beauty27_kz02.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1134_athyrium_niponicum_var_pictum_pewter_lace/medium/1536px-Athyrium_niponicum_27Red_Beauty27_kz02.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1134_athyrium_niponicum_var_pictum_pewter_lace/small/1536px-Athyrium_niponicum_27Red_Beauty27_kz02.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1134_athyrium_niponicum_var_pictum_pewter_lace/thumbnail/1536px-Athyrium_niponicum_27Red_Beauty27_kz02.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

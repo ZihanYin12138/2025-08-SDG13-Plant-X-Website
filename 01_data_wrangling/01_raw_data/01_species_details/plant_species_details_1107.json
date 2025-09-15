@@ -1,0 +1,151 @@
+{
+  "id": 1107,
+  "common_name": "masterwort",
+  "scientific_name": [
+    "Astrantia major 'Sunningdale Variegated'"
+  ],
+  "other_name": [
+    "astrantia"
+  ],
+  "family": "Apiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Sunningdale Variegated",
+  "variety": null,
+  "species_epithet": "major",
+  "genus": "Astrantia",
+  "origin": [
+    "Europe"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2.5,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1107&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1107&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "pink-white",
+        "white-green-pink",
+        "pink-green-white"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green",
+        "green-yellow"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stamens",
+      "color": [
+        "pink"
+      ]
+    },
+    {
+      "part": "margins",
+      "color": [
+        "creamy"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1107&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [
+    "Mold",
+    " Slugs",
+    "snails"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Masterwort (Astrantia Major 'Sunningdale Variegated') is an amazing perennial plant suitable for borders and flower beds. It has beautiful cream and green-variegated foliage, with gorgeous round umbels of pinkish-purple flowers which appear in mid-summer and last until autumn. Not only is it an eyecatching addition to any garden, but it is also low-maintenance and long-lived, providing year-round enjoyment. It prefers moist soils, but is resistant to most common pests and diseases. With its bright colors and easy-care nature, Masterwort is an amazing addition to any garden.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1107_astrantia_major_sunningdale_variegated/og/14395789047_b1accf8fd8_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1107_astrantia_major_sunningdale_variegated/regular/14395789047_b1accf8fd8_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1107_astrantia_major_sunningdale_variegated/medium/14395789047_b1accf8fd8_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1107_astrantia_major_sunningdale_variegated/small/14395789047_b1accf8fd8_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1107_astrantia_major_sunningdale_variegated/thumbnail/14395789047_b1accf8fd8_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

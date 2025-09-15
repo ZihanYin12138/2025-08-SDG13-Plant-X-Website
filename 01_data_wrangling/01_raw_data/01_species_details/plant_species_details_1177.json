@@ -1,0 +1,107 @@
+{
+  "id": 1177,
+  "common_name": "gopherweed",
+  "scientific_name": [
+    "Baptisia lanceolata"
+  ],
+  "other_name": [],
+  "family": "Fabaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "lanceolata",
+  "genus": "Baptisia",
+  "origin": [
+    "Southeastern United States"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Root Cutting",
+    "Division"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1177&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1177&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "June",
+    "July",
+    "August"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1177&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Gopherweed (Baptisia lanceolata) is an amazing plant species. It's an upright perennial with bright blue flowers, purple pods, and attractive yellow-green foliage. Its deep roots can reach up to four feet, making it entirely drought-resistant and an excellent choice for gardeners in areas with low rainfall. It also attracts honeybees, bumblebees, and songbirds with its abundant nectar production. Gopherweed is an excellent source of nectar for beekeepers and a great addition to any garden due to its easy maintenance and hardiness. Not only is it a reliable and beautiful addition to any landscape, but its dried flowers are often used as a medicinal herb.",
+  "default_image": {
+    "license": 44,
+    "license_name": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "original_url": "https://perenual.com/storage/species_image/1177_baptisia_lanceolata/og/49acdf5482fc254dcdbd4836aa4ca1046c093a46.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1177_baptisia_lanceolata/regular/49acdf5482fc254dcdbd4836aa4ca1046c093a46.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1177_baptisia_lanceolata/medium/49acdf5482fc254dcdbd4836aa4ca1046c093a46.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1177_baptisia_lanceolata/small/49acdf5482fc254dcdbd4836aa4ca1046c093a46.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1177_baptisia_lanceolata/thumbnail/49acdf5482fc254dcdbd4836aa4ca1046c093a46.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

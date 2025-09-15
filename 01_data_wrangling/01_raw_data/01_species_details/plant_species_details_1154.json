@@ -1,0 +1,145 @@
+{
+  "id": 1154,
+  "common_name": "star fruit",
+  "scientific_name": [
+    "Averrhoa carambola"
+  ],
+  "other_name": [],
+  "family": "Oxalidaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "carambola",
+  "genus": "Averrhoa",
+  "origin": [
+    "Indonesia",
+    "India",
+    "Sri Lanka"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 20,
+      "max_value": 30,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "10",
+    "max": "12"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1154&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1154&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "fruits",
+      "color": [
+        "yellow-green",
+        "golden-yellow-green",
+        "yellow-green-orange-red",
+        "yellow-green-orange"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stalks",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "branch",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1154&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": true,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Star fruit (Averrhoa carambola) is a unique and visually appealing addition to any garden. Its elegant five pointed star shape sets it apart from other fruits. Its sweet, slightly sour taste adds a delicious, tropical flavor to salads and fruit bowls. The yellow to orange-colored flesh can also be cooked or juiced. Its crunchy texture and low calorie content make it an excellent choice for healthy snacks. An added bonus of star fruit is its high fiber content, which has been known to help reduce cholesterol levels. With its unusual shape, delicious flavor, and health benefits, star fruit is definitely a winning addition to any garden.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1154_averrhoa_carambola/og/52334449226_20bfe2f29d_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1154_averrhoa_carambola/regular/52334449226_20bfe2f29d_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1154_averrhoa_carambola/medium/52334449226_20bfe2f29d_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1154_averrhoa_carambola/small/52334449226_20bfe2f29d_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1154_averrhoa_carambola/thumbnail/52334449226_20bfe2f29d_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
