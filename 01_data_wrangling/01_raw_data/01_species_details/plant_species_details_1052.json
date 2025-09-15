@@ -1,0 +1,142 @@
+{
+  "id": 1052,
+  "common_name": "tatarian aster",
+  "scientific_name": [
+    "Aster tataricus 'Jindai'"
+  ],
+  "other_name": [],
+  "family": "Asteraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Jindai",
+  "variety": null,
+  "species_epithet": "tataricus",
+  "genus": "Aster",
+  "origin": [
+    "Russia",
+    "Kazakhstan",
+    "Mongolia",
+    "China"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Division",
+    "Root Cutting",
+    "Seed Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1052&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1052&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "violet-blue",
+        "purple-blue"
+      ]
+    },
+    {
+      "part": "anthers",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stamens",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1052&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Tatarian aster (Aster tataricus 'Jindai') is an amazing species of perennial that adds beauty to any landscape. Its bright, daisy-like flowers appear in late summer in loose clusters of pink and purple, with a yellow center. Its slender foliage provides a lovely contrast to the bold florets. Perfect for planting in large groups, it makes a stunning backdrop to any garden border. In addition to its beauty, Tatarian aster is exceptionally easy to care for and it loves full sun. With its tolerance of both heat and humidity, it is sure to thrive in most environments.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1052_aster_tataricus_jindai/og/51577221556_55434310fe_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1052_aster_tataricus_jindai/regular/51577221556_55434310fe_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1052_aster_tataricus_jindai/medium/51577221556_55434310fe_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1052_aster_tataricus_jindai/small/51577221556_55434310fe_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1052_aster_tataricus_jindai/thumbnail/51577221556_55434310fe_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,120 @@
+{
+  "id": 1030,
+  "common_name": "Ming fern",
+  "scientific_name": [
+    "Asparagus retrofractus"
+  ],
+  "other_name": [
+    "pom pom asparagus fern"
+  ],
+  "family": "Asparagaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "retrofractus",
+  "genus": "Asparagus",
+  "origin": [
+    "Southern Africa"
+  ],
+  "type": "Fern",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 6,
+      "max_value": 8,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Division",
+    "Layering Propagation",
+    "Seed Propagation",
+    "Cutting"
+  ],
+  "hardiness": {
+    "min": "9",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1030&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1030&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "August",
+    "March",
+    "April",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1030&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Moderate",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [
+    "Pest resistant",
+    " Disease resistant",
+    " Drought resistant"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Ming fern (Asparagus retrofractus) is an amazing plant species native to India. It is an evergreen plant with feathery fronds, giving it a delicate, airy look. It is drought tolerant, making it a perfect choice for dry regions. It is also low maintenance and is well suited for container gardening. It grows very quickly and is drought tolerant, making it an excellent choice for small spaces. The stems of the Ming Fern are often used to create topiary sculptures and the ferns add an interesting texture to both indoor and outdoor gardens. Its feathery fronds also make it a great ground cover, providing shelter for other small creatures in the area.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1030_asparagus_retrofractus/og/Starr_071024-9887_Asparagus_densiflorus.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1030_asparagus_retrofractus/regular/Starr_071024-9887_Asparagus_densiflorus.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1030_asparagus_retrofractus/medium/Starr_071024-9887_Asparagus_densiflorus.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1030_asparagus_retrofractus/small/Starr_071024-9887_Asparagus_densiflorus.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1030_asparagus_retrofractus/thumbnail/Starr_071024-9887_Asparagus_densiflorus.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,127 @@
+{
+  "id": 1000,
+  "common_name": "giant reed",
+  "scientific_name": [
+    "Arundo donax"
+  ],
+  "other_name": [],
+  "family": "Poaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "donax",
+  "genus": "Arundo",
+  "origin": [
+    "Mediterranean"
+  ],
+  "type": "Ornamental grass",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 12,
+      "max_value": 20,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Division",
+    "Seed Propagation",
+    "Layering Propagation",
+    "Stem Propagation",
+    "Rhizome Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1000&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1000&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stalk",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "November"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1000&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "High",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": false,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Giant reed (Arundo donax) is an amazing example of nature's beauty. Its impressive height of up to 25 feet with slender stems gives it a majestic quality. Its leaves are deep green and are reminiscent of bamboo though the stems are much thicker. The broad blades are a sight to behold, and when the wind blows through them, the rustling of the leaves is a calming sound. Giant reed is an excellent choice for areas, as its drought resistance and hardiness make it an incredibly durable species, ensuring you enjoy its beauty for many years to come.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1000_arundo_donax/og/30461658446_3f6dc7a285_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1000_arundo_donax/regular/30461658446_3f6dc7a285_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1000_arundo_donax/medium/30461658446_3f6dc7a285_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1000_arundo_donax/small/30461658446_3f6dc7a285_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1000_arundo_donax/thumbnail/30461658446_3f6dc7a285_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

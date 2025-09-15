@@ -1,0 +1,180 @@
+{
+  "id": 1015,
+  "common_name": "showy milkweed",
+  "scientific_name": [
+    "Asclepias speciosa"
+  ],
+  "other_name": [],
+  "family": "Apocynaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "speciosa",
+  "genus": "Asclepias",
+  "origin": [
+    "Western North America"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Hummingbirds",
+    " Butterflies"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Root Cutting",
+    "Division",
+    "Layering Propagation",
+    "Stem Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1015&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1015&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stem",
+      "color": [
+        "green",
+        "lime-green"
+      ]
+    },
+    {
+      "part": "stalks",
+      "color": [
+        "green",
+        "mint-green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "pink",
+        "pink-white",
+        "purple-white"
+      ]
+    },
+    {
+      "part": "buds",
+      "color": [
+        "pink",
+        "pink-white",
+        "dark-pink",
+        "purple"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stalk",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "petals",
+      "color": [
+        "pink",
+        "pink-white"
+      ]
+    },
+    {
+      "part": "fruit",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "lime-green"
+      ]
+    },
+    {
+      "part": "leaf",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1015&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Loamy Clay Humus Rocky"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Showy milkweed (Asclepias speciosa) is an amazing plant species with extraordinary characteristics. Its silky, fragrant, oval-shaped flowers flaunt an array of vibrant colors like pink, yellow, and white, which attract pollinators like butterflies, moths, and bees. Its leaves and stems are filled with a white sap which is poisonous to many animals and will produce a slight rash on those sensitive to it. The plant is also a food source for monarch butterflies, animals such as deer, elk, and antelope, and other wildlife. Showy milkweed is truly a remarkable plant that beautifies many landscapes and helps sustain its local ecosystems.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1015_asclepias_speciosa/og/42796339951_9b834a57c4_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1015_asclepias_speciosa/regular/42796339951_9b834a57c4_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1015_asclepias_speciosa/medium/42796339951_9b834a57c4_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1015_asclepias_speciosa/small/42796339951_9b834a57c4_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1015_asclepias_speciosa/thumbnail/42796339951_9b834a57c4_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

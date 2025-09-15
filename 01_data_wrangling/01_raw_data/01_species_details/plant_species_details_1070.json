@@ -1,0 +1,122 @@
+{
+  "id": 1070,
+  "common_name": "Chinese astilbe",
+  "scientific_name": [
+    "Astilbe chinensis 'Purpurkerze' PURPLE CANDLE"
+  ],
+  "other_name": [],
+  "family": "Saxifragaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Purpurkerze",
+  "variety": null,
+  "species_epithet": "chinensis",
+  "genus": "Astilbe",
+  "origin": [
+    "China"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1070&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1070&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "pink-purple"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1070&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Chinese astilbe is an amazing addition to any garden. Its delicate, feathery spikes of purple blossoms dance in the breeze, lighting up the landscape with vibrant color. The flowers attract pollinators and provide nectar sources for butterflies and hummingbirds. Its handsome foliage forms beautiful fountains of mounding leaves with stunning shades of bronze and deep green. It thrives in moist, shady spots and its lovely purple blooms look beautiful when planted in groups. Unlike many other plants, Chinese astilbe is easy to maintain and tolerant of drought when established. Its cheerful beauty is sure to bring a pop of color to any garden.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1070_astilbe_chinensis_purpurkerze_purple_candle/og/39386513705_e9def738c3_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1070_astilbe_chinensis_purpurkerze_purple_candle/regular/39386513705_e9def738c3_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1070_astilbe_chinensis_purpurkerze_purple_candle/medium/39386513705_e9def738c3_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1070_astilbe_chinensis_purpurkerze_purple_candle/small/39386513705_e9def738c3_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1070_astilbe_chinensis_purpurkerze_purple_candle/thumbnail/39386513705_e9def738c3_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

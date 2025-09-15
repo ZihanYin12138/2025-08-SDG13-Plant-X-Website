@@ -1,0 +1,112 @@
+{
+  "id": 1028,
+  "common_name": "asparagus",
+  "scientific_name": [
+    "Asparagus officinalis 'Mary Washington'"
+  ],
+  "other_name": [],
+  "family": "Asparagaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Mary Washington",
+  "variety": null,
+  "species_epithet": "officinalis",
+  "genus": "Asparagus",
+  "origin": [
+    "Germany",
+    "France",
+    "United Kingdom",
+    "Italy",
+    "Netherlands",
+    "Belgium",
+    "Luxembourg",
+    "Switzerland"
+  ],
+  "type": "Vegetable",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Crown Division"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1028&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1028&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1028&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": false,
+  "edible_leaf": false,
+  "cuisine": true,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Asparagus officinalis 'Mary Washington' is an amazing plant species! It is known for a sweet, delicate flavor and tender, purple-tipped spears with an exquisite texture. It is one of the most popular varieties and is highly productive, yielding abundant harvests with a long harvest window. This variety is also quite adaptable, thriving in both cool and warm climates. It is also quite resilient, exhibiting high tolerance to both drought and heat. Its strong, deep roots make it highly resistant to most pests and diseases, making it an excellent choice for those who prefer organic gardening.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1028_asparagus_officinalis_mary_washington/og/2048px-Asparagus_officinalis-IMG_7258.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1028_asparagus_officinalis_mary_washington/regular/2048px-Asparagus_officinalis-IMG_7258.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1028_asparagus_officinalis_mary_washington/medium/2048px-Asparagus_officinalis-IMG_7258.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1028_asparagus_officinalis_mary_washington/small/2048px-Asparagus_officinalis-IMG_7258.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1028_asparagus_officinalis_mary_washington/thumbnail/2048px-Asparagus_officinalis-IMG_7258.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

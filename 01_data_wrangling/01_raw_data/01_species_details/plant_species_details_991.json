@@ -1,0 +1,105 @@
+{
+  "id": 991,
+  "common_name": "Italian arum",
+  "scientific_name": [
+    "Arum italicum subsp. italicum 'Marmoratum'"
+  ],
+  "other_name": [],
+  "family": "Araceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Marmoratum",
+  "variety": null,
+  "species_epithet": "italicum",
+  "genus": "Arum",
+  "origin": [
+    "Italy"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cormlet Propagation",
+    "Seed Propagation",
+    "Cutting"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=991&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=991&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=991&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": true,
+  "description": "Italian Arum (Arum italicum subsp. italicum 'Marmoratum') is a stunningly beautiful ornamental plant with remarkable leaves and flowers. Its vivid green leaves are heart-shaped, and unfold from the center of tall stalks. When in bloom, its striking white flowers feature spit-like spikes for petals. As if that weren't enough, the flowers emit a subtle, sweet aroma. This hardy species is also very easy to maintain and grow, likely to be a favorite of garden enthusiasts of all levels. A truly amazing plant, Italian Arum is highly recommended for indoor or outdoor settings.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/991_arum_italicum_subsp_italicum_marmoratum/og/Arum_italicum_neglectum_-_Flickr_-_peganum.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/991_arum_italicum_subsp_italicum_marmoratum/regular/Arum_italicum_neglectum_-_Flickr_-_peganum.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/991_arum_italicum_subsp_italicum_marmoratum/medium/Arum_italicum_neglectum_-_Flickr_-_peganum.jpg",
+    "small_url": "https://perenual.com/storage/species_image/991_arum_italicum_subsp_italicum_marmoratum/small/Arum_italicum_neglectum_-_Flickr_-_peganum.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/991_arum_italicum_subsp_italicum_marmoratum/thumbnail/Arum_italicum_neglectum_-_Flickr_-_peganum.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

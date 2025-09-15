@@ -1,0 +1,161 @@
+{
+  "id": 1026,
+  "common_name": "asparagus",
+  "scientific_name": [
+    "Asparagus officinalis"
+  ],
+  "other_name": [],
+  "family": "Asparagaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "officinalis",
+  "genus": "Asparagus",
+  "origin": [
+    "Europe and temperate Asia"
+  ],
+  "type": null,
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Crown Division"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1026&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1026&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "shoots",
+      "color": [
+        "green-red",
+        "green"
+      ]
+    },
+    {
+      "part": "stalk",
+      "color": [
+        "green-red",
+        "green"
+      ]
+    },
+    {
+      "part": "foliage",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "orange-green"
+      ]
+    },
+    {
+      "part": "stalks",
+      "color": [
+        "orange-green"
+      ]
+    },
+    {
+      "part": "berries",
+      "color": [
+        "bright-red"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1026&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Pest resistant",
+    " Disease resistant",
+    " Rabbit resistant",
+    " Drought resistant"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Spring",
+  "leaf": false,
+  "edible_leaf": false,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Asparagus officinalis is an amazing plant species! Its edible shoots are a popular ingredient in many culinary dishes, with its distinct flavor and crunchy texture. It is high in vitamins and is also a good source of dietary fiber. This plant is also renowned for its medicinal qualities and is rich in antioxidants, which protect the body from disease. Asparagus is surprisingly hardy, tolerating a wide range of growing conditions while yielding high yields. Very easy to grow and with a long harvest season, it is a great addition to any vegetable garden. Asparagus is truly an amazing and remarkable plant species!",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1026_asparagus_officinalis/og/52041907263_69f432ed57_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1026_asparagus_officinalis/regular/52041907263_69f432ed57_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1026_asparagus_officinalis/medium/52041907263_69f432ed57_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1026_asparagus_officinalis/small/52041907263_69f432ed57_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1026_asparagus_officinalis/thumbnail/52041907263_69f432ed57_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
