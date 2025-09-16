@@ -1,0 +1,107 @@
+{
+  "id": 1061,
+  "common_name": "astilbe",
+  "scientific_name": [
+    "Astilbe arendsii 'Fanal'"
+  ],
+  "other_name": [],
+  "family": "Saxifragaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Fanal",
+  "variety": null,
+  "species_epithet": "arendsii",
+  "genus": "Astilbe",
+  "origin": [
+    "Germany"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1061&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1061&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "February"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1061&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Summer",
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Astilbe arendsii 'Fanal' is an amazing plant species that stands out for its beautiful foliage and vibrant blooms. It features fine, feathery foliage with deep burgundy foliage and delicate pink flowers that bloom in the summer months. This species is also very hardy and tolerant of a wide range of conditions, making it extremely easy to care for. It is well-suited for shaded areas or for adding texture and color to perennial flower beds and borders. 'Fanal' is a great choice for both novice and experienced gardeners alike!",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1061_astilbe_arendsii_fanal/og/2560px-TawuC582ka_~21nfwvsh~_Astilbe_Arendsa_27Granat27.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1061_astilbe_arendsii_fanal/regular/2560px-TawuC582ka_~21nfwvsh~_Astilbe_Arendsa_27Granat27.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1061_astilbe_arendsii_fanal/medium/2560px-TawuC582ka_~21nfwvsh~_Astilbe_Arendsa_27Granat27.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1061_astilbe_arendsii_fanal/small/2560px-TawuC582ka_~21nfwvsh~_Astilbe_Arendsa_27Granat27.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1061_astilbe_arendsii_fanal/thumbnail/2560px-TawuC582ka_~21nfwvsh~_Astilbe_Arendsa_27Granat27.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

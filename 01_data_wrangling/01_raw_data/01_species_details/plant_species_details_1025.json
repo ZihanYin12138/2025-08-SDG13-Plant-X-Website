@@ -1,0 +1,125 @@
+{
+  "id": 1025,
+  "common_name": "asparagus fern",
+  "scientific_name": [
+    "Asparagus densiflorus 'Sprengeri'"
+  ],
+  "other_name": [],
+  "family": "Asparagaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Sprengeri",
+  "variety": null,
+  "species_epithet": "densiflorus",
+  "genus": "Asparagus",
+  "origin": [
+    "Africa"
+  ],
+  "type": "Fern",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1.5,
+      "max_value": 2,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "9",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1025&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1025&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "yellow-green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1025&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": true,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Aphids",
+    "adelgids",
+    " Mites"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": false,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Asparagus fern is an amazing species of plant that easily stands out among the others. These incredibly unique feathery ferns can bring a truly exotic and wild look to any garden. Their vibrant branch-like foliage and delicate white flowers that bloom in the summer can instantly add a stunning focal point to any space. Asparagus fern is also incredibly easy to care for, requiring little maintenance and water, making it great for novice gardeners. What’s more, these plants are also drought-tolerant and can survive in full or partial shade. Therefore, it’s a great choice for those looking to brighten up a corner in their garden. Asparagus fern is truly a gorgeous and low-maintenance addition to any garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1025_asparagus_densiflorus_sprengeri/og/24818361201_11881d4f76_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1025_asparagus_densiflorus_sprengeri/regular/24818361201_11881d4f76_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1025_asparagus_densiflorus_sprengeri/medium/24818361201_11881d4f76_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1025_asparagus_densiflorus_sprengeri/small/24818361201_11881d4f76_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1025_asparagus_densiflorus_sprengeri/thumbnail/24818361201_11881d4f76_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

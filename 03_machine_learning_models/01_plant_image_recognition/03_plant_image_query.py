@@ -113,4 +113,5 @@ def main():
 if __name__ == "__main__":
     main()
 
+# 测试
 # python 03_plant_image_query.py --image test_images/微信图片_20250903174840_68_7.jpg --k 10 --tta 8 --json

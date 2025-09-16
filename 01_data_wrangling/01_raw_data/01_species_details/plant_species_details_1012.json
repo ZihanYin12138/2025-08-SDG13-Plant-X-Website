@@ -1,0 +1,144 @@
+{
+  "id": 1012,
+  "common_name": "swamp milkweed",
+  "scientific_name": [
+    "Asclepias incarnata 'Soulmate'"
+  ],
+  "other_name": [
+    "Rose Milkweed",
+    "Pink Milkweed",
+    "Pink Milkweed"
+  ],
+  "family": "Apocynaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Soulmate",
+  "variety": null,
+  "species_epithet": "incarnata",
+  "genus": "Asclepias",
+  "origin": [
+    "Northeastern and southeastern United States"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Root Cutting",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1012&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1012&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stem",
+      "color": [
+        "pink"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "pink-white"
+      ]
+    },
+    {
+      "part": "stamens",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "buds",
+      "color": [
+        "pink"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Sun"
+  ],
+  "pruning_month": [
+    "October",
+    "November"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1012&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Loamy Clay Humus"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Swamp milkweed, A. incarnata 'Soulmate', is an amazing wetland plant. Its beautiful pink flowers will attract valuable pollinators like butterflies and bees. It's a long-blooming perennial with fragrant blossoms that open in mid-summer and last well into autumn. Its sturdy stems will remain upright even in wet conditions, making it an ideal addition to a water garden or rain garden. In addition, its large, tough leaves are the perfect food source for monarch butterfly caterpillars, making it an important part of any butterfly garden. Swamp milkweed is an amazing addition to any ecosystem and is sure to bring beauty and wildlife to any yard.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1012_asclepias_incarnata_soulmate/og/51803934774_8983de9bea_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1012_asclepias_incarnata_soulmate/regular/51803934774_8983de9bea_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1012_asclepias_incarnata_soulmate/medium/51803934774_8983de9bea_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1012_asclepias_incarnata_soulmate/small/51803934774_8983de9bea_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1012_asclepias_incarnata_soulmate/thumbnail/51803934774_8983de9bea_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

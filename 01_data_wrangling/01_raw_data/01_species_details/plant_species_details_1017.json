@@ -1,0 +1,119 @@
+{
+  "id": 1017,
+  "common_name": "common milkweed",
+  "scientific_name": [
+    "Asclepias syriaca"
+  ],
+  "other_name": [
+    "Silkweed",
+    "Silky Swallowwort",
+    "Algodoncillo",
+    "Silky Swallowwort",
+    "Algodoncillo"
+  ],
+  "family": "Apocynaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "syriaca",
+  "genus": "Asclepias",
+  "origin": [
+    "Eastern North America"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Root Cutting",
+    "Division",
+    "Layering Propagation",
+    "Stem Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1017&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1017&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1017&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Loamy Clay Rocky"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Common milkweed (Asclepias syriaca) is an amazing plant species. It is native to North America and can be seen growing wildly in prairies, fields, and roadsides. Its bright, fragrant, and star-shaped flowers are a staple of the summer season and attract pollinators such as bees, butterflies, and hummingbirds. It is an essential plant for monarch butterflies whose larvae depend on the plant’s toxic properties to survive. The leaves of the plant are large and are often used as food by monarchs. Common milkweed also has deep roots which make it drought-resistant and help to stabilize the soil. This is why it is often used in revegetation projects to help regrow native species. Truly, common milkweed is an amazing and fascinating plant species.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1017_asclepias_syriaca/og/Asclepias_syriaca_-_Common_Milkweed.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1017_asclepias_syriaca/regular/Asclepias_syriaca_-_Common_Milkweed.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1017_asclepias_syriaca/medium/Asclepias_syriaca_-_Common_Milkweed.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1017_asclepias_syriaca/small/Asclepias_syriaca_-_Common_Milkweed.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1017_asclepias_syriaca/thumbnail/Asclepias_syriaca_-_Common_Milkweed.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

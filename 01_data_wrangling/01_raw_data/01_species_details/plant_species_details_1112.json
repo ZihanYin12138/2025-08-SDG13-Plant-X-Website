@@ -1,0 +1,141 @@
+{
+  "id": 1112,
+  "common_name": "bishop's hat",
+  "scientific_name": [
+    "Astrophytum myriostigma"
+  ],
+  "other_name": [],
+  "family": "Cactaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "myriostigma",
+  "genus": "Astrophytum",
+  "origin": [
+    "Northeastern Mexico"
+  ],
+  "type": "Cactus",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.25,
+      "max_value": 2,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Offsets",
+    "Grafting Propagation",
+    "Air Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "7",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1112&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1112&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "creamy-green-yellow",
+        "creamy-yellow",
+        "creamy-white",
+        "yellow-green"
+      ]
+    },
+    {
+      "part": "anthers",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "cactus",
+      "color": [
+        "gray-green",
+        "white-green"
+      ]
+    },
+    {
+      "part": "stamens",
+      "color": [
+        "yellow"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "August",
+    "August",
+    "May",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1112&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": true,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": false,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Bishop's hat (Astrophytum myriostigma) is a succulent plant species that stands out with its unique physical characteristics. It has a globular shape, and its bright green oval-shaped ribs are covered with white flecks that give it an almost metallic-looking texture. Its star-shaped flowers, a light yellow with pale yellow centers, truly set it apart and add a beautiful layer of elegance. This drought-tolerant plant is low-maintenance and is easy to care for, as it thrives in bright, indirect sunlight. Bishop's hat is an amazing addition to any home and garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1112_astrophytum_myriostigma/og/23699641203_dea4f5b6ea_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1112_astrophytum_myriostigma/regular/23699641203_dea4f5b6ea_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1112_astrophytum_myriostigma/medium/23699641203_dea4f5b6ea_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1112_astrophytum_myriostigma/small/23699641203_dea4f5b6ea_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1112_astrophytum_myriostigma/thumbnail/23699641203_dea4f5b6ea_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

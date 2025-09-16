@@ -1,0 +1,108 @@
+{
+  "id": 1044,
+  "common_name": "Italian aster",
+  "scientific_name": [
+    "Aster amellus 'Veilchenkönigin' VIOLET QUEEN"
+  ],
+  "other_name": [],
+  "family": "Asteraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Veilchenkönigin",
+  "variety": null,
+  "species_epithet": "amellus",
+  "genus": "Aster",
+  "origin": [
+    "Italy"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 2,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Layering Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1044&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1044&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "February",
+    "March"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1044&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Italian aster (Aster amellus 'Veilchenkönigin' VIOLET QUEEN) is an absolutely stunning plant species. Its vibrant purple blooms reach up to 3 inches across and are exquisitely domed with lavender ray petals and can last into the fall season. Its unique foliage, with silver-green, silky leaves, is sought-after for floral arranging, and this hardy shrub is perfect for garden borders and flower beds. In addition, these perennials are easy to maintain and require only minimal pruning. For gardeners, this Italian aster is sure to add a splash of color and charm to any garden.",
+  "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/1044_aster_amellus_veilchenkönigin_violet_queen/og/herfstasters-aster-autumn-purple-garden-petals.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1044_aster_amellus_veilchenkönigin_violet_queen/regular/herfstasters-aster-autumn-purple-garden-petals.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1044_aster_amellus_veilchenkönigin_violet_queen/medium/herfstasters-aster-autumn-purple-garden-petals.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1044_aster_amellus_veilchenkönigin_violet_queen/small/herfstasters-aster-autumn-purple-garden-petals.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1044_aster_amellus_veilchenkönigin_violet_queen/thumbnail/herfstasters-aster-autumn-purple-garden-petals.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

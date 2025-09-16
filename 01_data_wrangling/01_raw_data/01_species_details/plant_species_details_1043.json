@@ -1,0 +1,108 @@
+{
+  "id": 1043,
+  "common_name": "maidenhair spleenwort",
+  "scientific_name": [
+    "Asplenium trichomanes"
+  ],
+  "other_name": [],
+  "family": "Aspleniaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "trichomanes",
+  "genus": "Asplenium",
+  "origin": [
+    "Northern temperate areas",
+    "tropical mountains"
+  ],
+  "type": "Fern",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.33,
+      "max_value": 0.66,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Spore Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1043&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1043&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "May",
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1043&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Maidenhair Spleenwort is an amazing and unique fern species. Its delicate foliage forms dense rosettes of bright green fronds, gently arching at the tips. Its unique ability to thrive in difficult and shady conditions gives it a real edge in various gardens as well as terrariums. It's also an excellent ground cover as it spreads quickly and easily. It's also used in traditional medicine to treat a variety of ailments. Its elegant form and texture make it a lovely accent in any garden and its easy requirements make it a great option for the low maintenance gardener.",
+  "default_image": {
+    "license": 10,
+    "license_name": "Public Domain Mark",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/1043_asplenium_trichomanes/og/51698793799_a69d99ba08_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1043_asplenium_trichomanes/regular/51698793799_a69d99ba08_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1043_asplenium_trichomanes/medium/51698793799_a69d99ba08_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1043_asplenium_trichomanes/small/51698793799_a69d99ba08_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1043_asplenium_trichomanes/thumbnail/51698793799_a69d99ba08_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1180,
+  "common_name": "false indigo",
+  "scientific_name": [
+    "Baptisia perfoliata"
+  ],
+  "other_name": [],
+  "family": "Fabaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "perfoliata",
+  "genus": "Baptisia",
+  "origin": [
+    "Southeastern United States"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Root Cutting",
+    "Division"
+  ],
+  "hardiness": {
+    "min": "7",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1180&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1180&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1180&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "False Indigo (Baptisia perfoliata) is an amazing plant species. It features stunning dark-blue flowers which bloom in late spring and graceful, trifoliate foliage. This plant is easy to establish and maintain, making it a great option for garden-lovers of all levels. This drought-tolerant plant will adapt in a variety of soils and great for low-maintenance landscapes. False indigo provides an showy display of blooms and is a great addition to the garden. For wildlife, its seeds and foliage are a great source of nourishment for many birds and beneficial pollinators.",
+  "default_image": {
+    "license": 44,
+    "license_name": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "original_url": "https://perenual.com/storage/species_image/1180_baptisia_perfoliata/og/8c4fbf19206edbc4f65f297548e05176b14de485.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1180_baptisia_perfoliata/regular/8c4fbf19206edbc4f65f297548e05176b14de485.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1180_baptisia_perfoliata/medium/8c4fbf19206edbc4f65f297548e05176b14de485.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1180_baptisia_perfoliata/small/8c4fbf19206edbc4f65f297548e05176b14de485.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1180_baptisia_perfoliata/thumbnail/8c4fbf19206edbc4f65f297548e05176b14de485.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

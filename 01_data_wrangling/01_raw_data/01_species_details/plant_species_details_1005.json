@@ -1,0 +1,109 @@
+{
+  "id": 1005,
+  "common_name": "wild ginger",
+  "scientific_name": [
+    "Asarum shuttleworthii"
+  ],
+  "other_name": [],
+  "family": "Aristolochiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "shuttleworthii",
+  "genus": "Asarum",
+  "origin": [
+    "Southeastern United States"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 0.75,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1005&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1005&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"5-7\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1005&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Wild ginger (Asarum shuttleworthii) is an amazing plant species native to Eastern North America. The plant has distinct heart-shaped leaves with attractive maroon and green shades. When in bloom, Wild ginger reveals attractive spurred flowers in purple and white colours. It’s a foliage groundcover, capable of forming lush mats in woodland areas. It’s easy to grow and propagate, needing only semi-shade and moist but well-draining soils to thrive. Besides, its robust root system helps preserved soil from eroding, thereby making it ideal for erosion control. All in all, Wild ginger makes an eternal beauty to any garden or landscape setting.",
+  "default_image": {
+    "license": 10,
+    "license_name": "Public Domain Mark",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/1005_asarum_shuttleworthii/og/47754652012_8550c0a56c_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1005_asarum_shuttleworthii/regular/47754652012_8550c0a56c_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1005_asarum_shuttleworthii/medium/47754652012_8550c0a56c_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1005_asarum_shuttleworthii/small/47754652012_8550c0a56c_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1005_asarum_shuttleworthii/thumbnail/47754652012_8550c0a56c_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,116 @@
+{
+  "id": 1136,
+  "common_name": "Japanese painted fern",
+  "scientific_name": [
+    "Athyrium niponicum var. pictum 'Silver Falls'"
+  ],
+  "other_name": [],
+  "family": "Athyriaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Silver Falls",
+  "variety": "var. pictum ",
+  "species_epithet": "niponicum",
+  "genus": "Athyrium",
+  "origin": [
+    "Eastern Asia"
+  ],
+  "type": "Fern",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1136&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1136&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Deep shade",
+    " Filtered shade",
+    " Part sun/part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "August",
+    "May",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1136&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Humus rich",
+    " Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Rust",
+    "  Pest resistant",
+    " Disease resistant",
+    " Deer resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Japanese painted fern is a unique and beautiful fern, known for its vivid and stunning red-purple fronds. Its common name comes from the silvery mottled pattern it has on its leaves, making it look like it has been painted on! Its low, prostrate habit combines well with other plants, both in the garden and in containers. Its adaptable nature means it will tolerate both moist and dry conditions and wide ranges of temperatures. Its foliage also changes seasonally, adding an ever-changing beauty to the landscape. A dynamic and attractive part of the garden, Japanese painted fern is an amazing plant.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1136_athyrium_niponicum_var_pictum_silver_falls/og/20303550176_62bbaba8ef_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1136_athyrium_niponicum_var_pictum_silver_falls/regular/20303550176_62bbaba8ef_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1136_athyrium_niponicum_var_pictum_silver_falls/medium/20303550176_62bbaba8ef_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1136_athyrium_niponicum_var_pictum_silver_falls/small/20303550176_62bbaba8ef_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1136_athyrium_niponicum_var_pictum_silver_falls/thumbnail/20303550176_62bbaba8ef_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
