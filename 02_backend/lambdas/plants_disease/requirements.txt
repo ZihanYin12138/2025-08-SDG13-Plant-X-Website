@@ -1,0 +1,16 @@
+# requirements.txt —— for lambdas/plants_disease
+
+# MySQL client (pymysql 是纯 Python，打包方便)
+PyMySQL>=1.0.3
+
+# 如果你需要 SQLAlchemy/ORM 可以加，不过目前 fetch_all 直接用 pymysql 就够
+# SQLAlchemy>=2.0.0
+
+# AWS Lambda 运行时已经自带 boto3 / botocore，不用额外写
+# boto3>=1.35.0
+
+# 如果要调试或本地运行
+awslambdaric>=2.0.0
+
+# 可选：日志美化
+# python-json-logger>=2.0.7

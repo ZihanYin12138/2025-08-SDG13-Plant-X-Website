@@ -1,0 +1,17 @@
+{
+  "version": "2.0",
+  "routeKey": "GET /diseases",
+  "rawPath": "/diseases",
+  "rawQueryString": "q=blight&limit=5&offset=0",
+  "queryStringParameters": {
+    "q": "blight",
+    "limit": "5",
+    "offset": "0"
+  },
+  "requestContext": {
+    "http": {
+      "method": "GET",
+      "path": "/diseases"
+    }
+  }
+}
