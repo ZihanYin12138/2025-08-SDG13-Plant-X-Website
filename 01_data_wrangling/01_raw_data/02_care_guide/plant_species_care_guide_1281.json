@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2546,
+      "species_id": 1281,
+      "common_name": "sweet birch",
+      "scientific_name": [
+        "Betula lenta"
+      ],
+      "section": [
+        {
+          "id": 7844,
+          "type": "watering",
+          "description": "Sweet birch should be watered regularly and thoroughly. Depending on the size of the plant, it should be watered between 2-4 times a week. Make sure the soil stays evenly moist--not too wet and not too dry. Water the plant at the base and wait until the water has drained out of the bottom of the pot before watering again. During the spring and summer, when the plant is actively growing, pay special attention to soil moisture. During fall and winter, water less and wait for the soil to dry out before watering again."
+        },
+        {
+          "id": 7845,
+          "type": "sunlight",
+          "description": "Sweet birch (Betula lenta) prefers full to partial sun. While it may tolerate some shade, it will not thrive without adequate sunlight. In areas with full sun, the sweet birch may receive 6-8 hours of direct sunlight per day. If the tree is in partial sun, it should receive a minimum of 4 hours of direct sunlight a day. Remember to take into account shadows created by other trees or structures that can block the sunlight. Sweet Birch is best suited for planting in USDA hardiness zones 3-9 and will thrive in areas with plenty of natural sunlight."
+        },
+        {
+          "id": 7846,
+          "type": "pruning",
+          "description": "Sweet birch should be pruned in late winter or early spring, just before the tree's buds begin to swell. Prune the tree to remove its dead, diseased, or damaged branches, as well as any crossing branches that are rubbing against each other or that hamper desired growth. Also remove any branches tat are too close to buildings or other structures. When pruning young birch trees, leave as many lateral buds as possible in order to promote bushier growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

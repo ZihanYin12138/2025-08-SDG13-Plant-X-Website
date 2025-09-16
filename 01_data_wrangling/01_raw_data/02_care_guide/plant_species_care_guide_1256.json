@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1019,
+      "species_id": 1256,
+      "common_name": "supple-Jack",
+      "scientific_name": [
+        "Berchemia scandens"
+      ],
+      "section": [
+        {
+          "id": 3050,
+          "type": "watering",
+          "description": "Supple-jack (Berchemia scandens) prefers moist soil, so water it whenever the top 2 inches of soil feels dry. If the climate is hot or dry, water it more frequently so the soil stays moist; about 2-3 times a week. In the winter season, when the plant is dormant, you can reduce the amount of water it receives, but it still needs a light watering once a month to maintain moisture levels."
+        },
+        {
+          "id": 3059,
+          "type": "sunlight",
+          "description": "Supple-Jack plants thrive in full sunlight. They need at least 6 hours of direct sunlight each day for healthy growth, however they can benefit from more sunlight than that if given the opportunity. It is best to position Supple-Jack plants so that they receive full sun in the morning hours and partial shade in the afternoon. The exact amount of sunlight and the right balance of shade and sun will depend on the season and location. In areas with hot summer climates, the plants may benefit from some shade in the afternoon, while plants in northern regions may need extra sunlight in the winter."
+        },
+        {
+          "id": 3068,
+          "type": "pruning",
+          "description": "Supple-Jack plants should be pruned in late winter or early spring, but the amount of pruning will depend on the growth and structure of the individual plants. It is best to prune selectively, removing dead or diseased wood, or branches that are crowding the center and competing with each other. Lightly prune the tips of long branches to keep plants dense and encourage new growth. Heavy pruning is not recommended for Supple-Jack, as it may disrupt the unique growth form of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

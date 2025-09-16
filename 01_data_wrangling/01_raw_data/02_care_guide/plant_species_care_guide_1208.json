@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 641,
+      "species_id": 1208,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Green Gold'"
+      ],
+      "section": [
+        {
+          "id": 1925,
+          "type": "watering",
+          "description": "There are many different types of begonias and they all have slightly different watering requirements. Generally, begonias need to be watered well and then allowed to slightly dry out before they are watered again to help prevent disease. Begonia 'Green Gold' should be watered whenever the top inch of soil is dry, which is usually once or twice a week. During the summer, you may need to adjust this schedule to once every 3 days. Always check the soil first to determine if the plant requires water."
+        },
+        {
+          "id": 1930,
+          "type": "sunlight",
+          "description": "Begonias require bright, indirect light for best growth. For your specific variety - Begonia 'Green Gold' - it is best to provide it with at least 4-6 hours of bright, indirect sunlight each day. Try to position it near a south- or west-facing window to benefit from the most sun, but make sure to move it away from direct sunlight that could be too intense for the plant. During the summer months when the sun is strongest, you may need to move it away from the window and into indirect sunlight to protect it from getting burned."
+        },
+        {
+          "id": 1934,
+          "type": "pruning",
+          "description": "Begonias are easy to prune and should be done regularly to encourage growth. 'Green Gold' begonias need to be pruned back lightly throughout the spring and summer, especially when the plant is actively growing. During the springtime, you should cut back any long or straggly stems to help encourage a bushier growth habit and to keep the plant contained within its pot or bed. When pruning during the summer, remove any dead leaves or shoots. This will help encourage healthy, robust growth and keep the plant blooming for longer throughout the season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

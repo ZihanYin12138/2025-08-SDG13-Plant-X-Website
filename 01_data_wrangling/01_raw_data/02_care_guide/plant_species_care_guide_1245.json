@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2516,
+      "species_id": 1245,
+      "common_name": "Japanese barberry",
+      "scientific_name": [
+        "Berberis thunbergii f. atropurpurea 'Bagatelle'"
+      ],
+      "section": [
+        {
+          "id": 7754,
+          "type": "watering",
+          "description": "Japanese barberry (Berberis thunbergii f. atropurpurea 'Bagatelle') should be watered about once a week, using about 1 gallon of water for every 4-5 square feet of plant. Make sure the soil around the plant is damp but not soggy. During hotter summer months, it may be necessary to water more frequently (about twice a week instead). During the winter, it can be watered every 2 weeks or so instead. While watering, be sure to avoid getting water on the foliage of the plant as this can lead to diseases and fungus. If necessary, water in the morning or midday to give the plant enough time to dry out before nightfall."
+        },
+        {
+          "id": 7755,
+          "type": "sunlight",
+          "description": "Japanese Barberry (Berberis thunbergii f. atropurpurea 'Bagatelle') requires roughly 6 hours of sunlight per day. It is best planted in full sun to partial shade, so it can handle sunnier locations given that they are planted in an area with good air circulation. In areas with hot summers, providing partial shade will be beneficial to prevent the foliage from drying out. When planted in full sun, water regularly to keep the soil moist."
+        },
+        {
+          "id": 7756,
+          "type": "pruning",
+          "description": "Pruning for Japanese barberry (Berberis thunbergii f. atropurpurea 'Bagatelle') should be done in early spring, before new growth begins. Prune to shape or control for size, and be sure to remove any dead, diseased, or damaged branches. Thin out the center of the plant to promote air circulation and allow light to reach the inner foliage. Light pruning of side branches through the summer season will help control height and size. Avoid pruning late in the season as it can encourage new growth which won’t have time to harden off before cold temperatures arrive."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

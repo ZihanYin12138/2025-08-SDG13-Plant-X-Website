@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2531,
+      "species_id": 1264,
+      "common_name": "bergenia",
+      "scientific_name": [
+        "Bergenia DRAGONFLY SAKURA"
+      ],
+      "section": [
+        {
+          "id": 7799,
+          "type": "watering",
+          "description": "Bergenia DRAGONFLY SAKURA is a fairly low-maintenance, moisture-loving perennial that grows in partial shade. It should be watered regularly to keep its soil consistently moist but not soggy. Water the plant deeply once a week during periods of summer dryness, allowing the top 25mm of soil to dry out between waterings. During the winter, the plant's requirements for water are reduced. Water lightly once every 2 weeks, allowing the top layer of soil to dry out before watering again."
+        },
+        {
+          "id": 7800,
+          "type": "sunlight",
+          "description": "Bergenia 'Dragonfly Sakura' is a shade to semi-shade loving plant species that typically prefers indirect sunlight. This plant is best suited for a north or east facing window, so the Sun won't be intensely hot during any time of the day. Morning sun is preferred, if available after 8am and before 1pm, for about 4-5 hours of indirect sunlight per day. During the summer months, the amount of sunlight should be reduced to avoid scorching the leaves (maximum 2-3 hours)."
+        },
+        {
+          "id": 7801,
+          "type": "pruning",
+          "description": "The best time to prune a Bergenia DRAGONFLY SAKURA plant is in late winter or early spring, before the new growth begins. This is a hardy plant that can handle vigorous pruning; however, making drastic cuts may cause shock to the plant. To keep your Bergenia DRAGONFLY SAKURA looking its best, prune off any dead or damaged stems. Also, remove any weak or overcrowded stems in order to allow the healthy stems to get more light and air circulation. Pruning the stems should be done judiciously, taking off no more than 1/3 of the stems in a single season and at least 2 years should occur in between major prunings."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

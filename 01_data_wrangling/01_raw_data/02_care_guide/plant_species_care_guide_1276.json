@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2541,
+      "species_id": 1276,
+      "common_name": "Swiss chard",
+      "scientific_name": [
+        "Beta vulgaris (Leaf Beet Group) 'Bright Lights'"
+      ],
+      "section": [
+        {
+          "id": 7829,
+          "type": "watering",
+          "description": "Swiss chard requires frequent watering to maintain optimal health. When watering your Swiss chard, make sure the soil is moist but not waterlogged. Water the soil around the plant deeply and evenly, focusing around the base of the plant and avoid splashing water onto the leaves themselves. Allow the top 2 inches of soil to dry out before watering again. Depending on the temperature and humidity, this can usually mean watering around 2 or 3 times per week.  In especially hot or dry conditions, you may need to water your Swiss chard a bit more frequently than usual."
+        },
+        {
+          "id": 7830,
+          "type": "sunlight",
+          "description": "Swiss chard (Beta vulgaris (Leaf Beet Group) 'Bright Lights') requires 6-8 hours of direct sunlight each day for optimal growth. This plant prefers full sun in the morning with some shade in the afternoon. This will prevent direct sun from burning the leaves and damaging the plant. This species is considered a “sun-loving” plant, so it is important to provide enough sunlight in order to maximize growth."
+        },
+        {
+          "id": 7831,
+          "type": "pruning",
+          "description": "Swiss chard can be pruned to maintain a bushier and healthier plant. Pruning can begin when the roots have become well-established and when the plant has grown to at least 10 inches in height. Pruning should be done in early spring before the plant starts to produce seed stalks. When pruning Swiss chard, cut the main stalk back to about 8 inches from the base, and then pinch out any new shoots that sprout from the stem. Pinching the shoots will encourage bushy growth and a larger harvest. Alternatively, you can gently cut the stems with pruning shears and thin out some of the foliage, leaving 8-10 healthy leaves. Avoid pruning the Swiss chard too often, as this can cause the leaves to become spindly. Pruning can be done every few weeks if needed to keep your plant healthy and productive."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

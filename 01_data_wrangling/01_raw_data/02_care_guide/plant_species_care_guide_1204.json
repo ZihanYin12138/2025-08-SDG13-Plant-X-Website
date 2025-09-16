@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2495,
+      "species_id": 1204,
+      "common_name": "hardy begonia",
+      "scientific_name": [
+        "Begonia grandis"
+      ],
+      "section": [
+        {
+          "id": 7691,
+          "type": "watering",
+          "description": "Hardy begonias (Begonia grandis) should be watered regularly, once a week is ideal. Water the plant until water runs out of the drainage holes at the bottom of the container. Allow the soil to dry out until just moist between waterings to prevent root rot. During the summer months, depending on the temperatures, you may need to water more often. If the plant wilts or the soil feel dry to the touch, it's time to water. In winter, reduce the amount of water, only giving a light top watering when the top of the soil becomes dry."
+        },
+        {
+          "id": 7692,
+          "type": "sunlight",
+          "description": "Hardy begonias (Begonia grandis) thrive in bright, indirect sunlight--about 4 to 6 hours of direct sunlight per day, preferably in the early morning or later afternoon. Hardy begonias prefer temperatures between 70-80 degrees Fahrenheit and do best in partial shade. If placed in full sun, the leaves can be damaged by too much light or heat. Water the begonia regularly to keep the soil moist and fertilize regularly, as this species responds well to the extra nutrition."
+        },
+        {
+          "id": 7693,
+          "type": "pruning",
+          "description": "Hardy begonias should be pruned once or twice a year, usually in the spring and summer months. Pruning should be done to promote healthy growth and should involve removing dead, dying and diseased branches, as well as trimming back any overly leggy branches. When pruning, take care not to remove too much foliage or to prune into old, woody growth as this can damage the plant. When pruning for shaping, try to remove no more than 1-third of the total plant material in any given season. Lastly, for the best results, take your time and prune on a warm day when the plant is not wilted."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

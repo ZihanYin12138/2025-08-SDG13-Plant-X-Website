@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2530,
+      "species_id": 1262,
+      "common_name": "pigsqueak",
+      "scientific_name": [
+        "Bergenia crassifolia"
+      ],
+      "section": [
+        {
+          "id": 7796,
+          "type": "watering",
+          "description": "Pigsqueak (Bergenia crassifolia) should be watered every 7-10 days. During the spring and summer seasons, it is important to provide water to the plant so that it does not become dry and develop stress. Water thoroughly until it starts to run from the bottom of the pot, allowing the soil to become fully saturated, and then allow the soil to dry out completely between waterings. During the winter season, water less often as the plant goes into a dormant period. Watering every 10-14 days should be sufficient so the soil does not become bone dry. Avoid overhead watering or wetting the foliage as it may cause the leaves to rot."
+        },
+        {
+          "id": 7797,
+          "type": "sunlight",
+          "description": "Pigsqueak, or Bergenia crassifolia, is a hardy and attractive flowering species that does best in full sun to light shade. It thrives in partial sun locations where it receives 4-6 hours of direct sunlight each day. It is able to tolerate some heat when planted in well-drained soils in locations that provide plenty of light throughout the day. Pigsqueak can also handle some shade, though the best flower production and optimum compact size of the plant will be achieved with more direct sunlight. Full sun locations will require more frequent water, whereas in locations with more shade, less water is needed."
+        },
+        {
+          "id": 7798,
+          "type": "pruning",
+          "description": "Pigsqueak (Bergenia crassifolia) requires minimal pruning for optimal health and shape. Pruning should be done during the late winter or early spring of every year. Pruning should be limited to removing dead, damaged, or diseased branches, as well as any wayward shoots that are competing with the main stems for space. Thin out any branches that are crossing, or that are growing inward towards the center of the plant. Heavy pruning is not recommended as it can ruin the shape of the plant and encourages weaker and drooping growth. Some light trimming of the plant, to remove the spent flowers, is recommended every spring to help encourage new foliage and flowers."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

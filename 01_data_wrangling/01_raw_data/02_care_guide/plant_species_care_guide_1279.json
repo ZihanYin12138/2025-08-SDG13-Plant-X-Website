@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2544,
+      "species_id": 1279,
+      "common_name": "Asian black birch",
+      "scientific_name": [
+        "Betula dahurica"
+      ],
+      "section": [
+        {
+          "id": 7838,
+          "type": "watering",
+          "description": "Asian black birch should be watered often and thoroughly. Water once every 1-2 weeks, saturating the soil and allowing it to dry out slightly between waterings. Make sure the soil never stays soggy or overly dry. Asian black birch does not tolerate drought well, so if possible, mist the foliage with a spray bottle to keep the leaves moist. Water in the morning so that the soil has time to dry out before night."
+        },
+        {
+          "id": 7839,
+          "type": "sunlight",
+          "description": "Asian black birch (Betula dahurica) can tolerate a range of light levels, from full sun to partial shade. It is best to plant it in a location that receives at least 4 to 6 hours of direct sunlight per day. The more sunlight the Asian black birch receives, the better it will grow. During the winter months, it may need even more sunlight, up to 8 hours of direct sunlight per day. On the other hand, during the hottest months of summer, it may need only 4 to 6 hours of direct sunlight in order to avoid sunburn. It's also important to provide some shade during the hottest months to protect the leaves from the intense midday sun."
+        },
+        {
+          "id": 7840,
+          "type": "pruning",
+          "description": "Asian black birch (Betula dahurica) should be pruned in late winter or early spring before the emergence of new growth. Pruning should be done lightly to remove any dead and damaged branches. Additionally, pruning can also be used to create a desired shape and image. Pruning should be done every couple of years to keep the tree looking healthy and aesthetically pleasing. If pruning is done excessively, it can lead to permanent damage to the tree and/or reduce its lifespan."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 638,
+      "species_id": 1200,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Curly Fireflush'"
+      ],
+      "section": [
+        {
+          "id": 1906,
+          "type": "watering",
+          "description": "Begonia 'Curly Fireflush' is a species of begonia that should be watered thoroughly, allowing the soil to become completely saturated, and then allowing the soil to dry out almost completely before re-watering again. This should be done once or twice per week, depending on the amount of light and heat the plant is exposed to. During the growing season (spring and summer), it may need more frequent watering. Always check the moisture of the soil before watering and make sure the pot has good drainage."
+        },
+        {
+          "id": 1914,
+          "type": "sunlight",
+          "description": "Begonias (Begonia 'Curly Fireflush') prefer bright, indirect sunlight. They should get at least 4 hours of bright light per day. In very sunny locations, they should be given some protection from the midday sun, as direct sunlight can cause leaf scorch. Moving them to an area of morning sun with shade from the hottest part of the day is ideal. If grown in very low light, these plants will become pale or leggy."
+        },
+        {
+          "id": 1922,
+          "type": "pruning",
+          "description": "Begonia 'Curly Fireflush' should be pruned in late winter or early spring. Prune back any stems that are dead or decaying and cut any that are too long or have become leggy. Generally, pruning to 1/3 of the plant's height in order to promote bushier growth is suggested. Pruning also allows for more even distribution of energy for blooming."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

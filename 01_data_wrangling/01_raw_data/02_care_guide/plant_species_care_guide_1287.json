@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2550,
+      "species_id": 1287,
+      "common_name": "paper birch",
+      "scientific_name": [
+        "Betula papyrifera 'Varen' PRAIRIE DREAM"
+      ],
+      "section": [
+        {
+          "id": 7856,
+          "type": "watering",
+          "description": "Paper birch trees should be watered when the soil is dry or starting to feel dry. During the first few weeks after planting, you should water it every other day to ensure the proper root establishment. In order to ensure that the tree establishes deep and healthy roots, water the base of the tree slowly and deeply when the soil is dry. During the scorching summer months, water the tree every few days to prevent wilting or leaf scorch. In cooler months, the tree may need water only once a week. Generally, 1-2 gallons of water per inch of trunk diameter is adequate."
+        },
+        {
+          "id": 7857,
+          "type": "sunlight",
+          "description": "Paper birch (Betula papyrifera 'Varen' PRAIRIE DREAM) needs a good amount of sunlight in order to flourish. Depending on the season, the optimum amount of sunlight can range from full sun to partial shade. In the summer months, this species should receive at least 4-6 hours of direct sunlight each day. If located in a very hot climate, partial shade during the midday sun is beneficial. During the winter, this plant species should receive full sun to partial shade."
+        },
+        {
+          "id": 7858,
+          "type": "pruning",
+          "description": "Paper birch (Betula papyrifera 'Varen' PRAIRIE DREAM) should be pruned once a year in late winter or early spring. Pruning should involve the removal of weak or dead branches, as well as any that are more than 2/3 the width of the main branches. Additionally, branches that are crossing each other should be removed or thinned to open up the plant and allow for increased air circulation. Pruning branches that are more than 2/3 the width of the trunk will also help promote a more even shape to the tree. Care should be taken to not remove too much in 1 season, as this can shock the tree and lead to stunted growth. Pruning should be done carefully in order to maintain the attractive pyramidal shape of the Paper Birch."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 661,
+      "species_id": 1220,
+      "common_name": "angelwing begonia",
+      "scientific_name": [
+        "Begonia 'Sinbad'"
+      ],
+      "section": [
+        {
+          "id": 1981,
+          "type": "watering",
+          "description": "Angelwing begonias like to be kept moist but should never feel soggy or wet. During the growing season, water your begonia whenever the top couple inches of soil is dry. In the summer months, it’s best to water your begonia about twice a week but feel free to adjust the watering schedule depending upon how quickly the soil is drying out. During the winter months, water your begonia a little less, or about once a week. Always water Angelwing Begonias at the base of the plant so as to not get the foliage wet. Be careful to not overwater."
+        },
+        {
+          "id": 1985,
+          "type": "sunlight",
+          "description": "Angelwing begonia requires medium to high levels of indirect sunlight. It prefers 4-6 hours of bright, indirect sunlight throughout the day. The best time for sunlight for this plant is in the morning or late afternoon from around 10am to 4pm. During the hottest part of the day, it should be shaded from the direct sun."
+        },
+        {
+          "id": 1989,
+          "type": "pruning",
+          "description": "Pruning angelwing begonia (Begonia 'Sinbad') is generally done in order to promote more branching and promote fuller growth. Generally, pruning is recommended in the late spring or early summer after the plant has had a chance to put on some growth. Pruning should remove dead or weak stems and any shoots that are growing outside of the desired shape. Aim to remove no more than 1/3 of the stems when pruning angelwing begonia. Too much pruning could damage the plant and lead to fewer blossoms."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

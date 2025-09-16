@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2543,
+      "species_id": 1278,
+      "common_name": "sugar beet",
+      "scientific_name": [
+        "Beta vulgaris subsp. vulgaris"
+      ],
+      "section": [
+        {
+          "id": 7835,
+          "type": "watering",
+          "description": "Sugar beet plants should be watered deeply and consistently throughout their growth period. While sugar beets love moist soil, they don’t tolerate standing water. They should be watered slowly and deeply, allowing the moisture to penetrate down to the roots. It’s recommended to water about 1 inch (2.5 cm) per week during the growing season, which is typically from May to September. If the temperatures are hot, you may need to water more frequently. Watering should be done in the morning or late evening when possible to avoid evaporative losses. Keep a close eye on the plants and adjust the amount of water based on the soil conditions."
+        },
+        {
+          "id": 7836,
+          "type": "sunlight",
+          "description": "Sugar beet (Beta vulgaris subsp. vulgaris) requires 6 to 8 hours of direct sunlight a day in order to grow well. Sugar beets should be planted in an area that receives full sun, with the ideal soil temperature being between 60-75 degrees Fahrenheit. In areas with very hot temperatures, it is best to plant in the early morning and late afternoon to minimize exposure to direct sunlight and reduce the risk of sunscald or sunburn. While sugar beets can withstand a few days of shade, a consistent lack of sunlight will significantly reduce crop yield."
+        },
+        {
+          "id": 7837,
+          "type": "pruning",
+          "description": "Sugar beet (Beta vulgaris subsp. vulgaris) should be pruned early in the spring before the new growth appears. Pruning should be done by cutting out the old, dead leaves and shoots and trimming back the stems or leaves that are growing unevenly or too fast. This will help the plant focus its energy on developing healthier and more vigorous new foliage, stems, and roots. Pruning should be done carefully to avoid damaging the new growth. Prune sugar beet plants when the leaves and stems are still small and soft, as it will be easier to cut and minimize the risk of damaging the plant. Be sure to use sharp shears for clean and precise cuts. Pruning and deadheading can be done in moderate amounts throughout the growing season as needed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

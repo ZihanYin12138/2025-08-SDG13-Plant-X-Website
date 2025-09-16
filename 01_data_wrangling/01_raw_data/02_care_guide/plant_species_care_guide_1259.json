@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2527,
+      "species_id": 1259,
+      "common_name": "pigsqueak",
+      "scientific_name": [
+        "Bergenia cordifolia"
+      ],
+      "section": [
+        {
+          "id": 7787,
+          "type": "watering",
+          "description": "Pigsqueak plants should be watered on a regular basis. The frequency of watering varies by environment and soil type, but generally 2-3 times a week should be sufficient. However, it's best to check the soil regularly and water when the surface is dry, as the plant can suffer if the soil is oversaturated. During summer, you may need to water more often, particularly if the weather is hot. In winter, you may need to water less often, especially if the plant is dormant. If you are using a soil-based compost, it is recommended to add a layer of mulch to help retain moisture."
+        },
+        {
+          "id": 7788,
+          "type": "sunlight",
+          "description": "Pigsqueak (Bergenia cordifolia) is a hardy shade-loving perennial that can thrive in partial to full shade. It prefers bright, indirect sunlight for a few hours each day, such as dappled light or bright, filtered indirect light midday. It is best to avoid direct sun during the hottest parts of the day in the summer as this can lead to leaf burn. Pigsqueak does not need a large amount of sunlight and can even do well in full shade, such as in areas beneath trees with filtered sunlight."
+        },
+        {
+          "id": 7789,
+          "type": "pruning",
+          "description": "Pruning your Pigsqueak (Bergenia cordifolia) plant should be done twice a year, once in the spring and once in the fall. In the spring, snip off any dead flower heads or stems, and generally shape your plant to the desired size. If you wish to control the size of your Pigsqueak, you can trim it back just above where it has multiple side shoots or branches. In the fall, prune the stems that have become too long, or remove any stems that have become woody or weak. Prune off any broken or diseased stems, and any excess foliage. Taking a light pruning approach will ensure the most optimal growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

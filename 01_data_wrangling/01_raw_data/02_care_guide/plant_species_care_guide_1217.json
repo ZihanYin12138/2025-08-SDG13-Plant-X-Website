@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 658,
+      "species_id": 1217,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia (Semperflorens Cultorum Group)"
+      ],
+      "section": [
+        {
+          "id": 1970,
+          "type": "watering",
+          "description": "For begonias, you should water when the top of the soil feels dry (about once per week). It's especially important to keep the soil moist during the flowering season which is usually in late spring and summer. Don't let the soil get too wet or soggy, it should be moist but not soaked. It's better to water sparingly to avoid root rot or other diseases. You should water your begonias with about 2-3 inches of water per week. Make sure to water the soil deeply and not just the top of the soil to make sure the roots are adequately watered."
+        },
+        {
+          "id": 1974,
+          "type": "sunlight",
+          "description": "Begonias prefer partial to full shade depending on the variety. For the begonia (Semperflorens Cultorum Group) it should receive at least 4-6 hours of bright but not direct sunlight each day.It is best to provide your begonia with indirect sun, early morning sun or afternoon sun is best for this plant. Make sure the sunlight does not reach the leaves directly, as this could burn them."
+        },
+        {
+          "id": 1978,
+          "type": "pruning",
+          "description": "Pruning should be done before the buds open, during the active growing season, which is late spring through early fall. Pruning should be done at least once a year, but more often if the plant is growing vigorously. Prune the crowding, dead, or diseased branches and those that have crossed the center of the plant. Make the cuts just above a node. Young plants can benefit from pruning to shape the plant and encourage branching for more flowers. Pruning should be done lightly, with no more than 1-third of the plant pruned."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

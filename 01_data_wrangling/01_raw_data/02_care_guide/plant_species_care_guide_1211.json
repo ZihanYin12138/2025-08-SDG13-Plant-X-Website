@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 645,
+      "species_id": 1211,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Martha Stewart'"
+      ],
+      "section": [
+        {
+          "id": 1937,
+          "type": "watering",
+          "description": "The Begonia 'Martha Stewart' is an easy-to-care-for indoor flowering plant. It responds well to regular watering. Water well, then allow the soil to dry between watering. Aim to water every 3 to 5 days during the active growth period. Reduce watering to every 7 to 10 days during the winter and other dormant phases. Watch your plant’s leaves and feel the soil. If the soil is still moist, wait another few days before watering. Keeping the foliage dry helps reduce the chances of disease. As a general rule, overwatering is more of an issue with begonias than underwatering."
+        },
+        {
+          "id": 1941,
+          "type": "sunlight",
+          "description": "Begonia 'Martha Stewart' is best grown in bright, indirect sunlight. Plants should receive 4 to 6 hours of sunlight each day, with morning or late afternoon sun preferable and shade between 12 and 2pm when the sun is at its strongest. Too much direct sunlight can burn the leaves, turning them yellow and crispy, so locate where indirect sunlight comes in contact with the leaves of the plant. Too little sunlight can result in pale, elongated stems and fewer flowers."
+        },
+        {
+          "id": 1945,
+          "type": "pruning",
+          "description": "Pruning a Begonia 'Martha Stewart' should be done during the plant's active growth phase from spring until midsummer. It is best to trim the plant by removing any old, dead leaves and stems back to a couple of inches above the soil level. Regular pruning is important for vigorous, healthy growth. When the Begonia 'Martha Stewart' is done growing, it can be trimmed back in fall or winter for shape and size control."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

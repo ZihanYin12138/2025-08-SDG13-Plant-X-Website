@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2508,
+      "species_id": 1237,
+      "common_name": "barberry",
+      "scientific_name": [
+        "Berberis replicata"
+      ],
+      "section": [
+        {
+          "id": 7730,
+          "type": "watering",
+          "description": "Barberry (Berberis replicata) should be watered when the top 1-2 inches of soil feel dry. During the growing season (spring through summer), water deeply and regularly, about once every 7-10 days, making sure to wet the entire root system. During the colder winter months, reduce watering significantly, allowing the soil to dry completely between waterings. Make sure that your pot has ample drainage so that excess water can escape, as Barberry do not thrive in overly wet soil."
+        },
+        {
+          "id": 7731,
+          "type": "sunlight",
+          "description": "Barberry (Berberis replicata) should be grown in an area that receives full sunlight for at least 4-6 hours per day. If you can provide 6 or more hours of direct sunlight, that will be best. Remember, when growing plants, more is better! For this particular species, direct sunlight is essential for optimal growth and flowering. Remember to provide some light shade during the hottest part of the day, such as noon to late afternoon."
+        },
+        {
+          "id": 7732,
+          "type": "pruning",
+          "description": "Barberry (Berberis replicata) should be pruned 2 times a year - once in the spring and once in the late summer or early fall. In the spring, remove any dead, diseased, or damaged branches and thin out any overly dense or scrubby growth. This should be done when the plant is still dormant and before new growth emerges. In the late summer or early fall, barberry should be pruned again to remove any excess or unruly growth in order to keep it looking neat and tidy. This will also help promote new growth the following year. When pruning, be sure to make clean cuts evenly throughout the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

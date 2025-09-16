@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 315,
+      "species_id": 1248,
+      "common_name": "Japanese barberry",
+      "scientific_name": [
+        "Berberis thunbergii f. atropurpurea 'Harlequin'"
+      ],
+      "section": [
+        {
+          "id": 494,
+          "type": "watering",
+          "description": "Japanese barberry (Berberis thunbergii f. atropurpurea 'Harlequin') should be watered regularly, about once a week throughout the growing season, and deep soaked. Make sure the soil is damp but not soggy to the touch. Water only when the top inch of the soil dries out. Provide more water during hot and dry periods to prevent wilting. Reduce watering slightly in winter and late fall, as the plant goes dormant, but always make sure that the soil is still moist."
+        },
+        {
+          "id": 495,
+          "type": "sunlight",
+          "description": "Japanese barberry (Berberis thunbergii f. atropurpurea 'Harlequin') may be grown in full sun to partial shade, though full sun will produce the best flowering and leaf color. In full sun, this plant will receive at least 6 hours of direct sunlight each day. During the hot summer months, you may want to provide some afternoon shade to protect the foliage from sunburn."
+        },
+        {
+          "id": 496,
+          "type": "pruning",
+          "description": "Japanese barberry is a dense shrub, so it should only be pruned for maintenance or for shaping in early spring before new growth begins. Prune lightly and selectively, removing only a few older, woody stems at a time. Shape the plant by pruning to an outline that is even and attractive. Prune no more than 1/3 of the total foliage at any 1 time, as this may cause damage or shock to the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

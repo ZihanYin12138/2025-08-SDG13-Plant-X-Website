@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 634,
+      "species_id": 1196,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Bepared' DRAGON WING RED"
+      ],
+      "section": [
+        {
+          "id": 1902,
+          "type": "watering",
+          "description": "Begonias require frequent waterings to keep the soil moist. For 'Bepared' DRAGON WING RED begonias, water whenever the top 1-2 inches of the soil feels dry to the touch. A good rule of thumb is to water every 5-7 days, depending on the temperature and humidity in your home. Avoid over-watering and allow the soil to dry out in between waterings. Whenever you water, make sure to soak the soil thoroughly."
+        },
+        {
+          "id": 1910,
+          "type": "sunlight",
+          "description": "Begonias prefer a medium amount of sunlight for good growth. For Begonia 'Bepared' DRAGON WING RED, the best amount of sunlight would be around 4-6 hours of direct sunlight on a daily basis. Too little sunlight would cause the begonia to become leggy and weak and too much sunlight can scorch the plant’s foliage. If the sunlight is too direct, you can consider putting a light shade over the plant for protection."
+        },
+        {
+          "id": 1918,
+          "type": "pruning",
+          "description": "Pruning for Begonia ‘Bepared’ DRAGON WING RED should be done in the early spring or late summer, when the plant is growing fastest. These plants benefit from light trimming every 4-6 weeks during the active growing season in order to promote root and leaf growth, resulting in better bushiness. Avoid pruning when the plant is in bloom. When pruning, remove no more than 1/3 of the foliage, and cut off each stem at its base."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

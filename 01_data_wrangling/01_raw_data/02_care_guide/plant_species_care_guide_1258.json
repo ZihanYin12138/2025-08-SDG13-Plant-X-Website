@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2526,
+      "species_id": 1258,
+      "common_name": "winter begonia",
+      "scientific_name": [
+        "Bergenia ciliata"
+      ],
+      "section": [
+        {
+          "id": 7784,
+          "type": "watering",
+          "description": "Winter begonias (Bergenia ciliata) should be watered once a week to ensure their soil stays consistently moist. During the active growth phase, they should receive about an inch (2.5 cm) of water. Over this period, checking the soil every few days is recommended to ensure the plant is not drying out. After the active growth phase in late summer, reduce watering frequency, allowing the soil to almost dry out completely. In the winter months, reduce the amount of water you give the plant; however, the roots still need some moisture, so make sure to check the soil’s moisture level weekly."
+        },
+        {
+          "id": 7785,
+          "type": "sunlight",
+          "description": "Winter begonias require approximately 4 hours of moderate or bright indirect sunlight daily, or about 3-4 hours of direct sunlight. During the peak of summer months, a winter begonia may receive its maximum of 6 hours of direct sunlight daily but should be given indirect or filtered sunlight during the hottest part of the day. If a winter begonia is receiving too much sunlight, its foliage may start to yellow or become burned, and it will need to be moved to a shadier area. If winter begonias do not get enough sunlight, they will become lanky and leggy and may not flower. Winter begonias also perform best in a temperature range of 60-70°F."
+        },
+        {
+          "id": 7786,
+          "type": "pruning",
+          "description": "Winter Begonia should be pruned in the late winter or early spring. Remove any dead, damaged or diseased branches as soon as they are spotted. To encourage full, bushy growth, prune to a bud or node after removing any dead or damaged growth. After flowering, cut off any dead flower stems near the base of the plant. Be sure to keep the center of the plant open by removing any competing branches in the center of the plant and any crossing stems. This will help prevent any diseases or pests from taking hold."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

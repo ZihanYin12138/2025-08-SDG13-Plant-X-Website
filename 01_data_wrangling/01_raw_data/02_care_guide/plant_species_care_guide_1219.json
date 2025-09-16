@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 660,
+      "species_id": 1219,
+      "common_name": "wax begonia",
+      "scientific_name": [
+        "Begonia semperflorens-cultorum 'Harmony Scarlet'"
+      ],
+      "section": [
+        {
+          "id": 1980,
+          "type": "watering",
+          "description": "Make sure to only water them when the top 1-2 inches of soil is dry. Remember to water them early in the day so the leaves can dry out before nightfall, as wax begonias are prone to disease if the leaves stay wet for a prolonged period of time. During the active growing season, wax begonias may need to be watered once a week. In the winter, when growth is slower, you may only need to water them once a month."
+        },
+        {
+          "id": 1984,
+          "type": "sunlight",
+          "description": "Wax begonias need about 4 to 6 hours of direct sunlight per day and prefer light, filtered shade during the heat of the day. It is important to provide consistent sunlight throughout the day so that wax begonias are not exposed to prolonged periods of extreme sunlight. It is best to place the begonias in a spot that receives an even amount of sunlight for the majority of the day, such as in south-facing windows. Avoid placing them in full shade, as this will inhibit flowering and growth."
+        },
+        {
+          "id": 1988,
+          "type": "pruning",
+          "description": "When pruning wax begonias, it is important to remember that they do best when their stems are kept short and compact. Pruning should be done when the plant begins to look overgrown or leggy, when new shoots of growth appear, and during the early spring. To prune, use sharp pruning shears to remove any stems that become spindly, leggy, or weakened. To encourage a bushier form, remove just the top couple of inches of each stem and pinch back the plant's centre. Pruning wax begonias by up to 1-third of their size is generally adequate, but it is important to not prune them too heavily or all at once."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

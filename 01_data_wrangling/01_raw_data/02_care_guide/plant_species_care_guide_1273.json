@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2538,
+      "species_id": 1273,
+      "common_name": "beet",
+      "scientific_name": [
+        "Beta vulgaris"
+      ],
+      "section": [
+        {
+          "id": 7820,
+          "type": "watering",
+          "description": "Beets (Beta vulgaris) should be watered regularly to keep the soil moist but not overly saturated. The amount of water and frequency of watering will depend on several factors such as the season, soil type, climate, and how quickly the soil becomes dry. In general, it is best to check the soil’s moisture level before watering and water only when the top inch of soil is dry. In hot weather, it may be necessary to water beets every few days. In cooler weather, they may need watering only once a week. The amount of water to use should also depend on the soil type. Sandy soils generally require less water than clay soils, which hold moisture better. During summer, it may be necessary to water beets more frequently, using 1-2 inches of water per week."
+        },
+        {
+          "id": 7821,
+          "type": "sunlight",
+          "description": "Beet plants (Beta vulgaris) need a minimum of 6 hours of direct sunlight per day in order to thrive. Full sun locations that receive at least 6 to 8 hours of direct sunlight on a daily basis are ideal for growing this plant species. The most favorable periods for receiving this amount of sunlight are between 11am and 4pm during summer months. Avoiding extreme heat during the middle of the day is best. For the winter months, it's recommended that the plant receive at least 5 hours of direct sunlight in a day. Temperatures that drop below 50°F can cause stunting of beet root growth, so be sure to bring beet plants indoors or give them frost-protection if necessary."
+        },
+        {
+          "id": 7822,
+          "type": "pruning",
+          "description": "Beets should be pruned regularly during their growing season. Pruning should occur after the first harvesting, usually about 3 months after germination. During continuous harvesting, begin removing the outer leaves of the plant when they reach an inch or 2 in length, removing no more than half of the outer leaves. When harvesting beets for storage, prune the plant only after it has reached maturity, trimming off all leaves including the healthiest looking ones. This will help protect the beets from disease and promote healthy root development."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 642,
+      "species_id": 1203,
+      "common_name": "hybrid tuberous begonia",
+      "scientific_name": [
+        "Begonia FUNKY PINK"
+      ],
+      "section": [
+        {
+          "id": 1926,
+          "type": "watering",
+          "description": "Hybrid tuberous begonias need evenly moist soil to ensure abundant blooming. During the growing season (from spring to late summer), it is best to water the begonia about once a week and allow the top 2 inches of soil to dry slightly between each watering. In the winter, the begonia will need far less water, so only water when the soil becomes completely dry. It is important to avoid waterlogging, so reduce or stop watering when the temperatures begin to drop, and be mindful not to damage the fragile roots."
+        },
+        {
+          "id": 1929,
+          "type": "sunlight",
+          "description": "For optimal growth, hybrid tuberous Begonia (Begonia FUNKY PINK) should receive bright, indirect light for around 6-8 hours a day. The best place for anywhere in the home for this plant is a spot near a window where it will receive plenty of indirect light. While direct sunlight will damage the leaves of hybrid tuberous begonia, avoiding full shade is also recommended, as the plant needs some golden light exposure to support its growth."
+        },
+        {
+          "id": 1933,
+          "type": "pruning",
+          "description": "Hybrid tuberous begonias should be pruned regularly throughout the growing season. Dead and wilted flowers should be pruned immediately, and stems may need to be cut back when they become leggy and produce fewer blooms. It is also a good idea to prune back the plant in fall after flowering has finished. Pruning should be done with clean, sharp pruners. Generally, about 1-third of the plant should be cut back for pruning. This trimming can help the plant's shape and encourage new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

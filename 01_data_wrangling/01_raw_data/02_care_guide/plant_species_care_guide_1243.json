@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2514,
+      "species_id": 1243,
+      "common_name": "Japanese barberry",
+      "scientific_name": [
+        "Berberis thunbergii f. atropurpurea"
+      ],
+      "section": [
+        {
+          "id": 7748,
+          "type": "watering",
+          "description": "Japanese barberry should be watered every 7-10 days. During the growing season, when temperatures are above 70 degrees Fahrenheit, water the plant enough so that the soil is moist but not soggy. The amount of water will depend on the size of the plant. If your plant is in a container, thoroughly soak the soil then allow it to drain until it is no longer dripping. If the plant is in the ground, slowly water around the base of the plant for several minutes until the soil is saturated. In addition, reduce watering during the winter months when the plant is in its dormant period. Be sure not to leave the plant too dry as the roots could still be actively growing."
+        },
+        {
+          "id": 7749,
+          "type": "sunlight",
+          "description": "Japanese Barberry (Berberis thunbergii f. atropurpurea) prefers direct sunlight, ideally between 4 and 6 hours of direct sunlight per day. Morning sun is best, as this plant does not do well in hot afternoon sun and can become sunburned. Direct sunlight will help the plant's foliage retain its deep dark color. The amount of sunlight for this plant can vary with the climate it is in, as plants closer to the Equator will thrive in more sunlight. Too much sunlight can result in the foliage becoming light and faded. When planting Japanese Barberry, make sure to choose an area that has at least 4 hours of direct sunlight each day."
+        },
+        {
+          "id": 7750,
+          "type": "pruning",
+          "description": "Japanese barberry (Berberis thunbergii f. atropurpurea) should be pruned twice a year for optimal health and appearance. Pruning should be done in early spring (March or April) and at the end of summer (September or October). In early spring, remove dead or diseased branches and thin out any overly crowded or twiggy growth. This encourages new growth and keeps the shrub compact. At the end of summer, prune any remaining dead or diseased branches and reduce the height and width of the plant, according to the desired size and shape. It's important to prune in late summer so the plant has time to set new buds and prepare for winter. Pruning provides much needed airflow and prevents overcrowding. When pruning, always use clean, sharp tools and avoid cutting into the branch collar (the swollen base of the branch where it meets the trunk)."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

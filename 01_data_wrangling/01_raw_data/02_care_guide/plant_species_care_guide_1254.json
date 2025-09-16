@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2523,
+      "species_id": 1254,
+      "common_name": "Japanese barberry",
+      "scientific_name": [
+        "Berberis thunbergii 'Royal Cloak'"
+      ],
+      "section": [
+        {
+          "id": 7775,
+          "type": "watering",
+          "description": "Japanese barberry (Berberis thunbergii 'Royal Cloak') is a waterwise evergreen shrub and does not need frequent watering. It should be watered about once every 2 weeks, but don’t let the soil dry out completely between waterings. During hot weather, water deeply once a week. During mild weather, water more frequently if the soil begins to dry out. Check the soil moisture in the pot before watering, as overwatering can be harmful to the plant."
+        },
+        {
+          "id": 7776,
+          "type": "sunlight",
+          "description": "Japanese barberry (Berberis thunbergii 'Royal Cloak') is a resilient small shrub that can tolerate a wide range of growing conditions. It flourishes in full sun to part shade, averaging about 4 to 6 hours of direct sunlight per day. In areas with extreme summer temperatures or intense sunlight, partial shade may be beneficial. Soil can range from acidic to alkaline, and can be sandy, loamy or clay. Watering schedule varies depending on soil type and weather, but this plant generally prefers to dry out slightly in-between waterings."
+        },
+        {
+          "id": 7777,
+          "type": "pruning",
+          "description": "Japanese barberry (Berberis thunbergii 'Royal Cloak') should be pruned at least once a year to keep it in good shape. Pruning should be done in early spring, just as new growth begins to emerge. This will encourage a more full and compact shape, as well as allowing for some air and light to reach inner branches. The amount of pruning necessary will depend on the size, shape, and overall health of the plant. Prune branches back to healthy, strong buds or side shoots, and remove any dead or diseased branches. There should be no more than 1-third of the total number of stems removed in any 1 pruning session. Growing shrubs in an appropriate size pot or container will help ensure they do not become too leggy and will need less pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

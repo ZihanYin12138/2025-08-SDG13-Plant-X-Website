@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2545,
+      "species_id": 1280,
+      "common_name": "dwarf birch",
+      "scientific_name": [
+        "Betula 'Golden Treasure' CESKY GOLD"
+      ],
+      "section": [
+        {
+          "id": 7841,
+          "type": "watering",
+          "description": "Watering dwarf birch (Betula 'Golden Treasure' CESKY GOLD) needs to be done regularly to keep the soil consistently moist. In the warmer months, water the plant every 1 to 2 weeks and make sure the soil is damp but not soggy. In cooler months, water less frequently, every 2 to 3 weeks. When needed, give the plant a deeper soaking, to ensure water reaches the roots."
+        },
+        {
+          "id": 7842,
+          "type": "sunlight",
+          "description": "Dwarf birch (Betula 'Golden Treasure' CESKY GOLD) should receive full sun 6 to 8 hours per day. Plants in full sun are normally exposed to the sun’s rays from 9 a.m. to 3 p.m. daily (or from 10 a.m. to 4 p.m. during daylight savings time). Dwarf birch plants should receive morning sun and afternoon shade in warmer climates. The plants also benefit from dappled shade during the hottest part of the day."
+        },
+        {
+          "id": 7843,
+          "type": "pruning",
+          "description": "Prune the Dwarf Birch (Betula 'Golden Treasure' CESKY GOLD) during the early spring season while it is still dormant. Prune lightly by trimming just past the swollen buds that are visible along each stem. Removing any excessively long branches or dead foliage as well will help to ensure proper air circulation throughout the plant and encourage healthy growth. Be sure not to prune more than 1/3 of the total plant at any given time so that the plant does not become stressed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

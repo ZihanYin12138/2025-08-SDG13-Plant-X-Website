@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2519,
+      "species_id": 1249,
+      "common_name": "Japanese barberry",
+      "scientific_name": [
+        "Berberis thunbergii f. atropurpurea 'Helmond Pillar'"
+      ],
+      "section": [
+        {
+          "id": 7763,
+          "type": "watering",
+          "description": "For optimal growth, Japanese barberry (Berberis thunbergii f. atropurpurea 'Helmond Pillar') plants should be watered once per week. Water your Japanese barberry thoroughly each time, until the soil is moist and water is seen coming out of the bottom of the pot or draining from the landscape bed. During the first growing season, water your Japanese barberry after planting to ensure the soil remains moist and the plant continues to adjust to its new environment. During subsequent growing seasons, water thoroughly and then allow the soil to dry slightly between waterings. In periods of extreme heat, water more often to keep the soil consistently moist."
+        },
+        {
+          "id": 7764,
+          "type": "sunlight",
+          "description": "Japanese barberry (Berberis thunbergii f. atropurpurea 'Helmond Pillar') is a relatively shade tolerant plant, although it does prefer sunny locations. For optimal growth, it should be planted in an area that receives at least 4 hours of direct sunlight per day; however, it can survive in partial shade with just 2 to 3 hours of sunlight per day. While the plant is tolerant of cooler temperatures, it thrives in warmer regions, and an optimal location for it would be an area that receives full sun during the morning hours, with some afternoon shade to help keep the plant from becoming sunburned. When exposed to extremely cold temperatures, it may be beneficial to provide some protection in the form of a shade cloth to protect the plant from the frost."
+        },
+        {
+          "id": 7765,
+          "type": "pruning",
+          "description": "In general, Japanese barberry (Berberis thunbergii f. atropurpurea 'Helmond Pillar') benefits from an annual pruning. This should be done in the early spring or late winter season, before any new growth or flowering begins. Pruning should be done to remove any dead, diseased, or damaged branches and stems, and to encourage a more compact, denser growth habit. It’s also a good idea to cut out any overcrowded or heavily leggy branches to promote a windbreak effect. The remaining branches can then be cut back to a desired height and shape. Japanese barberry can also benefit from light thinning within the interior of the plant's canopy to encourage better air circulation."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

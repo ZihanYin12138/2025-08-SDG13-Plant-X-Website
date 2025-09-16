@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2539,
+      "species_id": 1274,
+      "common_name": "beet",
+      "scientific_name": [
+        "Beta vulgaris (Garden Beet Group) 'Bull's Blood'"
+      ],
+      "section": [
+        {
+          "id": 7823,
+          "type": "watering",
+          "description": "Beet plants require regular watering to keep their soil moist but not saturated. Beets are happiest if watered approximately every 4-5 days when not receiving any rainfall. However, the frequency may need to be adjusted if your soil is particularly sandy and dries out more quickly. Alternatively, if your soil is clay-heavy and retains more moisture, you may water less regularly. The best way to tell if your beets are ready for a drink is to closely monitor the moisture levels of your soil. Stick your finger a few inches beneath the surface to feel for moisture. If it feels dry, it is time to water. Make sure your beets are evenly and thoroughly watered to help boost growth and encourage healthy leaves."
+        },
+        {
+          "id": 7824,
+          "type": "sunlight",
+          "description": "Beets (Beta vulgaris (Garden Beet Group) 'Bull's Blood') thrive in direct sunlight, so long as temperatures are locally warm. Six hours of sunlight daily is ideal for most beet varieties. If your region is experiencing unusually hot temperatures, you should reduce the sunlight exposure of your beets to 4-5 hours a day. Additionally, the light should be spread throughout the day. Morning hours are preferable to afternoon hours, as the intensity of the sun can approach scorching levels in the afternoons."
+        },
+        {
+          "id": 7825,
+          "type": "pruning",
+          "description": "Beet (Beta vulgaris (Garden Beet Group) 'Bull's Blood') should be pruned approximately 2 times during the growing season. Pruning should start when the plant reaches 4 inches in height and again when the beet leaves are 4 to 6 inches long. Pruning should involve the removal of any weak or damaged leaves as well as any dead or diseased growth. Regular pruning encourages bushier growth and a higher yield. Additionally, removing any flower buds during the early summer will also encourage more root growth. When pruning, make sure to wear gloves and remove any tools that have been used for other pruning activities to avoid the risk of spreading any disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

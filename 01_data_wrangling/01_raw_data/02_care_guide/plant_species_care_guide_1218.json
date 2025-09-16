@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 659,
+      "species_id": 1218,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia semperflorens 'Senator Deep Rose'"
+      ],
+      "section": [
+        {
+          "id": 1971,
+          "type": "watering",
+          "description": "For Begonia semperflorens 'Senator Deep Rose', water enough to keep the soil slightly moist. Water the plant when the top inch or so of soil is dry. Allow the soil to dry out at least halfway between waterings. In warm summer months, this may need to be done twice a week. In cooler months, perhaps only once a week or every other week will be necessary. Make sure to check the soil before watering. Begonias prefer well-draining soil and can be prone to root rot if overwatered. It is best to water using the bottom-watering method or pour slowly at the base of the plant. Add water until it begins to drain from the bottom of the pot."
+        },
+        {
+          "id": 1975,
+          "type": "sunlight",
+          "description": "Begonia semperflorens 'Senator Deep Rose' will do best in partial sun to partial shade. Provide 4 to 6 hours of direct sunlight per day while avoiding overly hot and intense afternoon sun. If possible, place the plant in a location where it will receive indirect sunlight for the other hours. The total amount of daily sunlight should be regulated to ensure the plant stays healthy and blooms."
+        },
+        {
+          "id": 1979,
+          "type": "pruning",
+          "description": "Pruning should be done each spring the beginning of the growing season. Prune away any old, dead foliage and remove any stems that look weak or diseased. To help stimulate new growth you can also prune back the tips of the stems. Pruning should be light for begonias and done only when needed; excessive pruning can cause the plant to become leggy and sparse."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

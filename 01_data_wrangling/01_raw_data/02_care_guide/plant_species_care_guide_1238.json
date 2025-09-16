@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2509,
+      "species_id": 1238,
+      "common_name": "barberry",
+      "scientific_name": [
+        "Berberis 'Soft Caress'"
+      ],
+      "section": [
+        {
+          "id": 7733,
+          "type": "watering",
+          "description": "Berberis 'Soft Caress' is a low maintenance perennial shrub that can be grown outdoors in sheltered, moderate climates. Generally, it doesn't require much watering. During the summer months or when the weather is especially hot and dry, it should be watered about once a week; however, established plants may not require any extra water unless the soil is overly dry. During the winter, reduce watering to once a month or even less, as over-watering can lead to root rot. As always, it's important to check the soil before watering to make sure that it hasn't become too moist."
+        },
+        {
+          "id": 7734,
+          "type": "sunlight",
+          "description": "Barberry (Berberis 'Soft Caress') plants enjoy full sun, which is 6 hours of direct sunlight per day. The sun should be bright and direct for the full 6 hours for the best growth and flowering performance. Ideally, this 6 hours should be between 8am and 6pm. Providing as much sunlight as possible throughout the day can be beneficial for barberry plants, as long as it doesn't become too hot. During extreme heat, the plant should be provided some shade for part of the day to protect its leaves and buds from burning."
+        },
+        {
+          "id": 7735,
+          "type": "pruning",
+          "description": "Prune your barberry (Berberis 'Soft Caress') in early spring, when the warm weather is beginning to settle in. Prune away dead and diseased branches, as well as limbs that are growing away from the center of the plant. You may also choose to lightly prune the tips of the branches to reduce overcrowding and promote fuller growth. Be cautious with pruning – too much could damage the health of the plant, so only cut back about 1/3 of the plant. With proper care and regular pruning, your barberry should be full and healthy for many years to come."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

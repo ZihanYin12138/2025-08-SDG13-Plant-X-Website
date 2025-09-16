@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 637,
+      "species_id": 1199,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Casper'"
+      ],
+      "section": [
+        {
+          "id": 1905,
+          "type": "watering",
+          "description": "Begonias are generally quite drought tolerant, but require regular watering to keep them looking their best. For a Begonia 'Casper', water thoroughly whenever the top inch of the soil is dry – usually every 5-7 days. Avoid over-watering, as this can lead to root rot. During periods of extreme heat or dryness, you may need to water more frequently. Always water at the base of the plant and not on the foliage to prevent fungal infections."
+        },
+        {
+          "id": 1913,
+          "type": "sunlight",
+          "description": "Begonia 'Casper' does best in medium to bright indirect light. When providing light indoors keep the plant 3 to 4 feet from the nearest window so it has more consistent light during the day. Generally, 8 to 10 hours of sunlight per day is ideal for this specific type of begonia. During the summer and spring, place outdoors in a shady or partially sunny spot to give the plant a rest from the indoor light. In the winter, when the daylight hours are limited, supplement natural sunlight with fluorescent or other grow lights that are specifically designed for plants."
+        },
+        {
+          "id": 1921,
+          "type": "pruning",
+          "description": "Deadheading & pruning Begonia 'Casper' should be done throughout the growing season to encourage blooms, remove dead or damaged leaves, and maintain an attractive shape. Pruning should begin in late spring or early summer when new growths appear, but waiting until after flowering has completed will ensure that you don't remove flowering buds. When pruning, it's important to remove only the dead and damaged leaves and not to over-prune, as this may reduce bloom production. To encourage a second flowering, light pruning can be done in late summer."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

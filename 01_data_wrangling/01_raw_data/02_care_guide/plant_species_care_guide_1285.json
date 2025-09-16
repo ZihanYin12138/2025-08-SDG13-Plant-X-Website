@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2549,
+      "species_id": 1285,
+      "common_name": "river birch",
+      "scientific_name": [
+        "Betula nigra 'Little King' FOX VALLEY"
+      ],
+      "section": [
+        {
+          "id": 7853,
+          "type": "watering",
+          "description": "River Birch should be watered regularly and deeply. It is best to give the tree a thorough watering once or twice a week during its first growing season in the ground, slowly decreasing to once a week during the second and third season. During hot, dry spells, additional watering may be necessary. Once mature, the tree can tolerate drier conditions, but should still be watered once a month to help it maintain its full potential."
+        },
+        {
+          "id": 7854,
+          "type": "sunlight",
+          "description": "River Birch (Betula nigra 'Little King' FOX VALLEY) will need 6-8 hours of direct sunlight each day for optimal growth. Sunlight in the morning will help the plant establish its photosynthesis and boost the growth of leaf buds, and the time in the late afternoon provides enough warmth for the tree to complete its metabolic processes. The ideal spot is somewhere that gets good sunlight all the way throughout the day, such as an open field, or a spot that has some shade in the late afternoon, such as near a fence. In shady, moist areas the plant may not experience proper growth. Keep in mind, however, that River Birch plants can also tolerate some light dappling shade throughout the day, or a semi-shaded area."
+        },
+        {
+          "id": 7855,
+          "type": "pruning",
+          "description": "River Birch should be pruned in early spring before new growth begins. Pruning should be minimal, so as not to stress the plant or damage delicate new growth. If pruning is required to maintain a desired shape or size, focus on thinning the canopy rather than severe pruning. Remove the thin, small branches that cross and rub against each other. You can also prune branches of any size that are growing away from the main trunk or start to crowd other branches in the canopy. If you need to reduce the size of a River Birch, make sure the pruning cuts are small and done over the course of a few seasons, as drastic pruning can cause the plant undue stress."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

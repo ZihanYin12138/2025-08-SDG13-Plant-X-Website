@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 656,
+      "species_id": 1215,
+      "common_name": "rex begonia",
+      "scientific_name": [
+        "Begonia rex-cultorum 'Super Curl'"
+      ],
+      "section": [
+        {
+          "id": 1968,
+          "type": "watering",
+          "description": "Rex begonias should be watered when the top inch of soil feels dry to the touch. Ideally, water thoroughly until the excess moisture runs out of the drainage holes at the bottom of the pot. During its active growing season (spring and summer), rex begonias should be watered every 7-10 days. During the plant’s dormancy period (mid fall through mid spring), it should be watered more sparingly– every 1-2 weeks."
+        },
+        {
+          "id": 1972,
+          "type": "sunlight",
+          "description": "Rex begonia thrives in bright, indirect light for optimal growth. If it is placed in direct sunlight, it should only get a few hours of morning sunlight and then should be in the shade during the remainder of the day. Generally, when in bright indirect light, rex begonia should be exposed to between 4 to 5 hours of sunlight each day."
+        },
+        {
+          "id": 1976,
+          "type": "pruning",
+          "description": "For a Rex Begonias plant, the best time for pruning is in the winter, before new shoots start to emerge. Start by using sharp, sterilized pruners to remove any brown, dead, or damaged foliage. You can also trim the overall shape of the plant, to the desired size. Prune with care, as Rex Begonias can be easily damaged. Prune only up to 1/3 of the overall plant. Keep in mind that Rex Begonias can become large and full. Pruning should only be necessary to maintain shape, size, and aesthetics."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

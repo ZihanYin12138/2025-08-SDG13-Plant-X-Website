@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2520,
+      "species_id": 1251,
+      "common_name": "Japanese barberry",
+      "scientific_name": [
+        "Berberis thunbergii 'Kobold'"
+      ],
+      "section": [
+        {
+          "id": 7766,
+          "type": "watering",
+          "description": "To keep your Japanese barberry (Berberis thunbergii 'Kobold') looking its best, water it every week from late spring until late summer. In early spring, apply a deeper irrigation to saturate the soil. During warm weather and periods of active growth, water the plant deeply enough to reach 8 to 12 inches deep. Allow the top 2 to 3 inches of soil to become dry to the touch before watering again. Reduce watering frequency when the temperatures cool to help the plant harden off for winter. Keep soil evenly moist but not wet or soggy."
+        },
+        {
+          "id": 7767,
+          "type": "sunlight",
+          "description": "Japanese barberry (Berberis thunbergii 'Kobold') is a shade-tolerant and low-maintenance shrub that intermittently produces bright yellow flowers and small red-black berries when grown in full sun. Depending on its location, this cultivar will perform best with an average of 4 to 6 hours per day of direct sunlight. When grown in regions that have long, hot summers, this barberry species may prefer some afternoon shade to prevent its leaves from wilting. The most important aspect of sunlight for Japanese barberry is to choose a location that does not receive too little or too much sun."
+        },
+        {
+          "id": 7768,
+          "type": "pruning",
+          "description": "Japanese barberry (Berberis thunbergii 'Kobold') should be pruned in early spring, before the plants put out new growth. Prune out any dead, damaged, or weak branches and any branches that cross or rub against each other. To give the plant a more compact look, selectively prune away taller branches and cut back wayward shoots by 1/3. This will allow new growth to fill in where it is necessary and will keep the plant looking its best. Be sure to use clean, sharp pruning shears or scissors when pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 662,
+      "species_id": 1221,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Solar Flare'"
+      ],
+      "section": [
+        {
+          "id": 1982,
+          "type": "watering",
+          "description": "Begonias 'Solar Flare' prefer a moist but not soggy soil; aim to water about once a week. Water the soil around the roots and avoid splashing the leaves, as this can cause leaf spot. In the summer months, water more frequently as the soil will dry up faster. In the winter months, water less frequently as the soil will stay moister longer. Provide enough water to ensure the soil is wet, but do not allow the soil to become soggy - this can cause root rot."
+        },
+        {
+          "id": 1986,
+          "type": "sunlight",
+          "description": "Begonias are shade-loving plants and therefore Begonia 'Solar Flare' should only receive about 3 hours of sunlight per day, preferably in the morning or early afternoon. It is best to avoid exposing this plant to intense, direct sunlight,as this can adversely affect its leaves and cause them to discolor or burn. Additionally, it is best to provide filtered, indirect light for longer periods of time as this will help the plant grow more vigorously and prevent it from becoming stressed or burned."
+        },
+        {
+          "id": 1991,
+          "type": "pruning",
+          "description": "Begonia 'Solar Flare' should be pruned moderately once a year in late winter or early spring. You should remove dead leaves and stems that have grown beyond the desired shape. It is also important to pinch off any stems or buds that are growing towards the center of the plant. Make sure to avoid pruningany healthy foliage, as this could delay flowering. It is best to use clean, sharp pruning shears and avoid leaving any snipped off stems behind. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

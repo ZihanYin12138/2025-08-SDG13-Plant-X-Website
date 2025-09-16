@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 631,
+      "species_id": 1192,
+      "common_name": "ponytail palm",
+      "scientific_name": [
+        "Beaucarnea recurvata"
+      ],
+      "section": [
+        {
+          "id": 1891,
+          "type": "watering",
+          "description": "The ponytail palm is a semi-succulent, tropical species that requires only moderate amounts of water. It should be watered deeply and infrequently. During the summer months, water the ponytail palm deeply once or twice a week, allowing the soil to dry out in between waterings. During the winter months, water the ponytail palm only once every 3 weeks. The soil should remain slightly moist, but not soggy. If the soil feels damp before the suggested watering, then it is advised to delay the watering until the soil is dry. "
+        },
+        {
+          "id": 1895,
+          "type": "sunlight",
+          "description": "Ponytail palms (Beaucarnea recurvata) are a drought-tolerant plant that enjoy bright, indirect sunlight. They should receive at least 6 hours of sun per day, preferably from a south- or east-facing window. If possible, avoid the hottest midday sun as this can burn the leaves. During the late afternoon hours, you can move the plant to a spot that receives brighter indirect light to help encourage fuller leaves."
+        },
+        {
+          "id": 1899,
+          "type": "pruning",
+          "description": "When it comes to pruning a ponytail palm, it's best to do so during the late spring or summer months. The reason for this is that the ponytail palm, also known as Beaucarnea recurvata, is slow-growing and doesn’t require much pruning. The amount that needs to be pruned depends on the size and shape desired. Pruning should be limited to removing old fronds, or leaves, as these will not recover. Cutting anything else could damage or harm the plant. Usually, no more than 10-15% of the palm should be pruned at 1 time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

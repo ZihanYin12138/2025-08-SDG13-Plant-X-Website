@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2524,
+      "species_id": 1255,
+      "common_name": "Japanese barberry",
+      "scientific_name": [
+        "Berberis thunbergii 'Talago' SUNJOY GOLD BERET"
+      ],
+      "section": [
+        {
+          "id": 7778,
+          "type": "watering",
+          "description": "Water your Japanese barberry, Berberis thunbergii 'Talago' SUNJOY GOLD BERET, once a week during the growing season (spring to fall), making sure to soak the soil around the base of the plant. Water deeply, then let the soil dry out slightly before watering again. In the winter, allow the soil to dry out completely between waterings. If the soil feels dry to the touch, then it’s time to water your Japanese barberry."
+        },
+        {
+          "id": 7779,
+          "type": "sunlight",
+          "description": "Japanese barberry (Berberis thunbergii 'Talago' SUNJOY GOLD BERET) is a low-maintenance shrub that can thrive in partial shade to full sun. It prefers 6 to 8 hours of direct sunlight a day, but it can tolerate a bit more in hotter climates. As with all plants, a sheltered spot is ideal. When planted in a locale with intense, afternoon sun, be sure to provide ample water. During the hottest times of the year, providing light afternoon shade can be beneficial."
+        },
+        {
+          "id": 7780,
+          "type": "pruning",
+          "description": "Pruning of the Japanese barberry (Berberis thunbergii 'Talago' SUNJOY GOLD BERET) should take place annually in early spring, when the new growth begins and the plant is still dormant. Prior to pruning, it is important to remove any dead, diseased, or damaged branches. Light shaping can also be done during early spring, and can be done either to remove crossing or crowded branches, to allow the light to penetrate the plant, or to help shape the plant into a desired form. After spring pruning, a light trimming is recommended in late summer to maintain the plant's shape. When pruning, be sure to avoid cutting into old wood with droopy branches, as this will reduce the plant's vigor and flowering potential."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

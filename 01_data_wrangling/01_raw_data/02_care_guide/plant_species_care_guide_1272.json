@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 668,
+      "species_id": 1272,
+      "common_name": "jewel plant",
+      "scientific_name": [
+        "Bertolonia maculata"
+      ],
+      "section": [
+        {
+          "id": 1996,
+          "type": "watering",
+          "description": "The Jewel plant (Bertolonia maculata) is a tropical, evergreen, trailing vine that requires consistent watering, said to enjoy a constantly moist (not soggy) environment. The recommended watering schedule for this species is to water about twice a week, making sure to let the soil dry out slightly between waterings. During the warmer months (April to October), the planting should be watered more frequently, but avoid overdoing it. For cooler months, reduce the watering frequency."
+        },
+        {
+          "id": 2003,
+          "type": "sunlight",
+          "description": "Jewel plant (Bertolonia maculata) needs bright light, but not direct sunlight, to thrive and bloom. An east or west-facing window is an ideal location for this plant. The sunlight should be gentle and filtered, so make sure to keep the curtains closed to keep the light exposure at a moderate level. If the morning sun is too strong, then a shaded south or north-facing area may be a better location. The plant should get at least 4 to 6 hours of bright light each day for optimal growth."
+        },
+        {
+          "id": 2010,
+          "type": "pruning",
+          "description": "Jewel plant should be pruned once a year in the early spring season. Pruning should be light and conducted only to remove any dead or damaged leaves and stems. Taking care to prune lightly will help encourage the plant to produce new foliage. Pruning too severely can lead to bare patches and stunted growth of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

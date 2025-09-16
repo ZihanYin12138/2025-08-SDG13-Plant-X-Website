@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2518,
+      "species_id": 1247,
+      "common_name": "Japanese barberry",
+      "scientific_name": [
+        "Berberis thunbergii f. atropurpurea 'Golden Ring'"
+      ],
+      "section": [
+        {
+          "id": 7760,
+          "type": "watering",
+          "description": "Water Japanese barberry twice a week at the base of the plant, allowing the soil to dry out between waterings. During the hottest weeks of summer, increase the watering frequency, providing about 1 inch of water per week. During cool weather, reduce the frequency but providing a deep soaking every couple of weeks. Provide a weekly application of liquid fertilizer during the spring and summer months, for additional nourishment."
+        },
+        {
+          "id": 7761,
+          "type": "sunlight",
+          "description": "Japanese barberry plant species (Berberis thunbergii f. atropurpurea 'Golden Ring') grows best in full sun but will also thrive in part shade. These plants prefer 6 to 8 hours of sun each day, preferably in a section of the garden that receives direct morning sunlight and indirect afternoon sunlight. When grown in damp, shady areas, the foliage of Japanese barberry will suffer, causing its leaves to become yellow and eventually drop in extreme cases. If you’re looking to cultivate Japanese barberry in part shade, it’s recommended that you keep it away from trees and buildings that may shield it from the sun too much."
+        },
+        {
+          "id": 7762,
+          "type": "pruning",
+          "description": "Japanese barberry should be pruned once a year in late winter or early spring. Pruning should only be done in a way that encourages plant health and doesn't damage the natural form of the shrub. Dead branches should be removed first and pruning should be done to maintain the natural shape and size of the shrub. Leave healthy new growth at the base of the plant and look for evidence of disease or pests before pruning. Prune back branches to keep the size of the shrub to the desired size and only remove 1/3 of the total branches each year. If there is any damage to the bark, cut back to healthy wood. Avoid excessive or drastic pruning and never shear the shrubs."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

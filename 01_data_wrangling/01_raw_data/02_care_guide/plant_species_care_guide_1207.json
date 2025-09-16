@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2498,
+      "species_id": 1207,
+      "common_name": "hardy begonia",
+      "scientific_name": [
+        "Begonia grandis 'Wildwood Premier'"
+      ],
+      "section": [
+        {
+          "id": 7700,
+          "type": "watering",
+          "description": "Hardy Begonia (Begonia grandis 'Wildwood Premier') should be watered regularly and consistently to keep the soil evenly moist but not wet. During the warmer months (summer and spring), water your hardy begonia about once a week or as needed to keep the soil moist. During the cooler months (fall and winter), water about once every 1-2 weeks as needed to keep the soil from drying out completely. Be sure to check the soil moisture before watering to make sure it is not too wet or too dry. If the soil is too wet, it can cause root rot in your begonias."
+        },
+        {
+          "id": 7701,
+          "type": "sunlight",
+          "description": "Hardy begonia (Begonia grandis 'Wildwood Premier') prefers 4 to 6 hours of sunlight a day, particularly during the spring and summer when it is actively growing. During the fall and winter months, this plant species should experience more shade than direct sunlight. Avoid exposing it to intense, direct sunlight, as this can cause the leaves to scorch. It will also require protection from strong winds and cold temperatures, as hardy begonia is not frost tolerant."
+        },
+        {
+          "id": 7702,
+          "type": "pruning",
+          "description": "Hardy begonia (Begonia grandis 'Wildwood Premier') should be pruned at least once a year, in late winter or early spring. Pruning encourages a healthy shape and increased blooming. Begin by cutting off dead or diseased stems and leaves. Cut stems back to about a quarter of their initial length and take away any that are twiggy and aren't producing many blooms. Remove any foliage that appears mottled or wilted. To encourage more blooming, cut back the plant by up to half its size. Make sure to finish pruning before new growth begins."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

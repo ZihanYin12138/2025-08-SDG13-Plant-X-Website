@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 646,
+      "species_id": 1212,
+      "common_name": "iron cross begonia",
+      "scientific_name": [
+        "Begonia masoniana"
+      ],
+      "section": [
+        {
+          "id": 1938,
+          "type": "watering",
+          "description": "Iron Cross Begonia should be watered thoroughly, but then allowed to dry out in between waterings. As a tropical plant, it should be watered frequently while actively growing, once or twice a week. During the colder months, the plant should be watered less. Make sure that the soil is allowed to dry out between waterings. During the growing season, water when the top inch of soil is dry. During the dormant season, only water the plant when the top 2 inches of soil are dry."
+        },
+        {
+          "id": 1942,
+          "type": "sunlight",
+          "description": "Iron Cross Begonia needs bright, indirect sunlight for 4-6 hours each day. It does best when placed in an east- or west-facing window and exposed to morning or evening light rather than the hot, midday sun. Direct sunlight can scorch the leaves of this plant and cause them to yellow. Be sure to rotate the pot occasionally to keep the foliage even and the plant growing."
+        },
+        {
+          "id": 1946,
+          "type": "pruning",
+          "description": "Iron Cross begonias should be pruned once or twice a year, in the spring and early summer. Prune away any dead or damaged stems, as well as any stems that are growing out of control. Cut away no more than 1-third of the plant's total foliage to maintain the health of the begonia. Begin pruning from the base of the plant, and work your way up to the top. Make sure to use sharp and sterilized pruning tools to avoid infection and damage to the begonia."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

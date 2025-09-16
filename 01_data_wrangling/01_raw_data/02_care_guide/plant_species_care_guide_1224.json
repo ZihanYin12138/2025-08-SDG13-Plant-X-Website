@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 665,
+      "species_id": 1224,
+      "common_name": "hybrid tuberous begonia",
+      "scientific_name": [
+        "Begonia tuberhybrida 'Jurassic Silver Swirl'"
+      ],
+      "section": [
+        {
+          "id": 1993,
+          "type": "watering",
+          "description": "Hybrid tuberous begonia (Begonia tuberhybrida 'Jurassic Silver Swirl') requires regular irrigation throughout the growing season. Water whenever the soil surface becomes dry to the touch. In general, provide about 1 inch of water weekly through a combination of rain and irrigation, being sure to avoid any standing water on the leaves or soil surface. Also, decrease water during the winter months once the plant experiences dormancy."
+        },
+        {
+          "id": 2000,
+          "type": "sunlight",
+          "description": "Hybrid tuberous begonia (Begonia tuberhybrida 'Jurassic Silver Swirl') does best in bright, indirect light. It is best to provide the plant with several hours of direct sunlight each day, but do not place it in full sun as this can be too harsh. Aim for 4 to 6 hours of sunlight each day; it can handle more if filtered through a sheer curtain or placed away from hot southwestern exposures. "
+        },
+        {
+          "id": 2007,
+          "type": "pruning",
+          "description": "Hybrid tuberous begonias (Begonia tuberhybrida 'Jurassic Silver Swirl') require pruning regularly throughout their growing season. Pruning should begin when the plant is in its second or third leaf stage and continue until late summer. Cut back the dying flowers regularly to encourage new blooms and remove dead stems and leaves. Overall, pruning should take place every 2-3 weeks during the growing season to promote healthy growth and optimal blooming."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

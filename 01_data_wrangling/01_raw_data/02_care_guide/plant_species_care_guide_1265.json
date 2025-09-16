@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2532,
+      "species_id": 1265,
+      "common_name": "pigsqueak",
+      "scientific_name": [
+        "Bergenia 'Eden's Magic Giant'"
+      ],
+      "section": [
+        {
+          "id": 7802,
+          "type": "watering",
+          "description": "Pigsqueak (Bergenia 'Eden's Magic Giant') requires moderate to regular watering. Water thoroughly when the soil feels slightly dry to the touch. Allow the top 2-3 inches of soil to become dry before watering. To test soil moisture, stick your finger in the soil up to the second knuckle. Apply water through the center of the plant and avoid saturating the foliage. During the summer months, water Pigsqueak more regularly as the plant may require up to 1 inch of water per week. During cooler months, watering can be reduced to every 7-10 days."
+        },
+        {
+          "id": 7803,
+          "type": "sunlight",
+          "description": "Pigsqueak (Bergenia 'Eden's Magic Giant') plants need plenty of sunlight to thrive. Full sun exposure is optimal for these plants, which means at least 6-8 hours per day. Though they can handle some partial shade, they won’t bloom as well or have as vibrant foliage with shadier conditions. When choosing an area for this plant, look for an area with full sun exposure at least part of the day. During the hottest parts of the day, some shade can be beneficial to its health."
+        },
+        {
+          "id": 7804,
+          "type": "pruning",
+          "description": "Pigsqueak (Bergenia 'Eden's Magic Giant') is an easy to care for evergreen perennial with broad, glossy dark green leaves. Pruning for pigsqueak should start in early spring, before the plant begins to put out new growth. Pruning should be done lightly, removing only the dead or damaged stems and a few of the oldest leaves. Pruning should be done no more than a third at a time, in order to maintain the shape of the plant. If the plant becomes overgrown, it can be trimmed back more drastically. To help keep the plant healthy and promote new growth, remove any flower heads during the flowering season and trim off any old foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

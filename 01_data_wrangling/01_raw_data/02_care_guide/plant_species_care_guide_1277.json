@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2542,
+      "species_id": 1277,
+      "common_name": "Swiss chard",
+      "scientific_name": [
+        "Beta vulgaris (Leaf Beet Group) 'Northern Lights'"
+      ],
+      "section": [
+        {
+          "id": 7832,
+          "type": "watering",
+          "description": "Swiss Chard requires about 1-2 inches of water per week, and should be watered deeply every few days in the summer. Water the plant at the base and avoid getting the leaves wet. It’s important to moisten the soil just enough to reach the roots; do not overwater. If the soil is very dry at a depth of 2-3 inches, it is likely time to water the plant. In dry conditions, it may be necessary to give the plant an extra deep watering. Do not water the plant if the top 1-2 inches of soil are still wet."
+        },
+        {
+          "id": 7833,
+          "type": "sunlight",
+          "description": "Swiss chard (Beta vulgaris (Leaf Beet Group) 'Northern Lights') requires full sun for optimal growth. Generally, this plant species should receive at least 6-8 hours of direct sunlight every day. However, some shade during the day may be beneficial in hot climates, as Swiss chard prefers cooler temperatures. For best results in peak growing season, full sun exposure is recommended."
+        },
+        {
+          "id": 7834,
+          "type": "pruning",
+          "description": "Swiss chard is a hardy biennial that can be left in the ground for multiple years. Pruning is typically done in early spring and late summer to promote healthy growth.\n\nFor early spring pruning, remove any dead or dying foliage and cut back excess vegetation. This will ensure that the plant will focus its energy on new growth.\n\nIn the late summer, cut back the stems to a length of 6-8 inches and remove any seedstalks. This encourages the plant to produce new leaves and stems.\n\nFinally, pinch off the growing tips of the stems when they reach about 10-12 inches in length. This will help to promote bushier growth and keep the leaves tender.\n\nSwiss chard is a relatively low-maintenance plant that requires occasional pruning. With regular pruning, Swiss chard can be harvested multiple times throughout the year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

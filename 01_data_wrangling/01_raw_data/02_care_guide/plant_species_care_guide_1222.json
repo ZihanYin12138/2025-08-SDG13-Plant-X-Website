@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 663,
+      "species_id": 1222,
+      "common_name": "angelwing begonia",
+      "scientific_name": [
+        "Begonia 'Sophia'"
+      ],
+      "section": [
+        {
+          "id": 1983,
+          "type": "watering",
+          "description": "Angelwing begonias should be watered when the soil is dry to the touch. Generally, this means watering once per week. Water thoroughly and make sure the plant is well-drained after watering. Take care to keep the leaves dry in order to prevent leaf-spotting or other disease. For optimal health and avoiding root rot, apply slightly less water during winter months."
+        },
+        {
+          "id": 1987,
+          "type": "sunlight",
+          "description": "Angelwing begonia (Begonia 'Sophia') plants prefer bright, indirect light in the morning or afternoon. A good rule of thumb when it comes to sunlight for this plant species is to provide them with 4 to 6 hours of direct light each day. It is important not to overexpose them to the sun and direct light since their leaves may burn if exposed too often or too long. It is best to keep them out of direct sunlight during the hottest parts of the day, around midday. This will ensure that they get enough light without being damaged."
+        },
+        {
+          "id": 1990,
+          "type": "pruning",
+          "description": "Angelwing begonias should be pruned lightly in the spring season, just before new growth appears. Only about 1/3 of the annual growth should be cut off. Pruning will help this plant maintain a more compact form and flower production. It is important to make sure any pruning is done in a way that does not damage the fragile stems and leaves of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

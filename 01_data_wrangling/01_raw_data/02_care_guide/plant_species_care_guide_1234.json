@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2505,
+      "species_id": 1234,
+      "common_name": "barberry",
+      "scientific_name": [
+        "Berberis 'Cally Rose'"
+      ],
+      "section": [
+        {
+          "id": 7721,
+          "type": "watering",
+          "description": "When watering your barberry (Berberis 'Cally Rose') plant, water it deeply, preferably once or twice per week, but not more than that. You should give it about 1-2 inches (2.5-5 cm) of water either from rainfall, a sprinkler, or with a garden hose. If it's been especially hot and dry, feel free to water it an extra time. Dry spells may require watering every 5-7 days. Be careful about over-watering; make sure your soil has a good balance of moisture, but never allow it to become waterlogged. And, wait until the upper inch (2.5 cm) of soil between the plant and the root ball is dry, before watering again, to prevent root rot."
+        },
+        {
+          "id": 7722,
+          "type": "sunlight",
+          "description": "Barberry (Berberis 'Cally Rose') likes full sun, meaning that it should receive 6-8 hours of direct sunlight each day in order to thrive and produce healthy, vibrant foliage and flowers. During the summer months, it should be planted in an area that receives full sun all day long. During the winter months, it can be planted in an area that only receives morning sun or afternoon sun. As the days start to get shorter, it may be helpful to move the plant to an area that receives more sun, such as near a south-facing window or in a balcony that receives plenty of sunlight. This will ensure that the plant gets enough sunlight even during the shorter days of winter."
+        },
+        {
+          "id": 7723,
+          "type": "pruning",
+          "description": "Barberry (Berberis 'Cally Rose') should be pruned in late winter or early spring before it begins actively growing in the spring. Start pruning lightly in the second or third year of growth, removing about 1/4 of the oldest and tallest stems, the ones with lots of usually grey-brown bark or shoots with very little, if any foliage. This will help keep the shrub at a healthy size and shape. If necessary, continue to prune lightly in the subsequent years to maintain size and shape. Barberry does not typically need heavy pruning, because of its natural tidiness."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

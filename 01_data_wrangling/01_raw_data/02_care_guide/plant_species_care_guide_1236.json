@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2507,
+      "species_id": 1236,
+      "common_name": "barberry",
+      "scientific_name": [
+        "Berberis mentorensis"
+      ],
+      "section": [
+        {
+          "id": 7727,
+          "type": "watering",
+          "description": "Barberry (Berberis mentorensis) should be watered once or twice a week, depending upon the temperature and season. During the warmer summer months, it might need to be watered more often, while during the winter, you may only need to water it once a week. Generally, about 1 to 2 inches of water should be provided each time you water and it should be given slowly so the water can penetrate the entire root system. Let the soil dry out a bit in between waterings. Dried, wilted leaves indicate that it needs more water. Avoid overwatering, which can cause root rot."
+        },
+        {
+          "id": 7728,
+          "type": "sunlight",
+          "description": "Barberry (Berberis Mentorensis) is an evergreen shrub with attractive, dark green foliage and bright yellow flowers.It requires full sun for 6 to 8 hours of direct sunlight each day for best growth and flowering. If grown in partial shade, it may not bloom as heavily or produce as many berries. Watering should be done regularly throughout the growing season, but allowing the soil to dry slightly between waterings. If given too much water or grown in soil that stays too wet, it can be prone to root rot. Fertilizing in late spring and once again in mid to late summer will help promote good growth."
+        },
+        {
+          "id": 7729,
+          "type": "pruning",
+          "description": "Barberry (Berberis mentorensis) should be pruned once a year in late winter or early spring, before new growth appears. Pruning should be done with loppers or shears, removing dead or diseased branches, as well as thinning out stems to encourage air flow and promote strong new growth. When pruning out whole branches, prune at a bud or branch node. Shaping is also possible with barberry, so if desired, snap a twig or clip a few leaves off to give the hedge a pleasing shape. As with most plants, avoid over-pruning as this can damage the health of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

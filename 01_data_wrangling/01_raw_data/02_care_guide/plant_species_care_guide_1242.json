@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2513,
+      "species_id": 1242,
+      "common_name": "Japanese barberry",
+      "scientific_name": [
+        "Berberis thunbergii 'Aurea'"
+      ],
+      "section": [
+        {
+          "id": 7745,
+          "type": "watering",
+          "description": "Japanese barberry (Berberis thunbergii 'Aurea') should be watered thoroughly once a week during the active growth season, spring and summer. During the winter months, the plant should be watered only once every 2 weeks. Make sure to check the soil for moisture before watering. If the top inch of soil is dry, the plant needs to be watered. Make sure to avoid over-watering as the plant may become susceptible to fungal diseases."
+        },
+        {
+          "id": 7746,
+          "type": "sunlight",
+          "description": "Japanese barberry (Berberis thunbergii 'Aurea') is a semi-evergreen to evergreen shrub that thrives in full sun to partial shade. It does best with at least 4 to 6 hours of sunlight each day, but it can tolerate more. During the spring and summer months, it will benefit from full sun, while in the fall and winter partial shade is best to protect the leaves from scorching. It is important to be mindful of the local climate while planting this species, as it is somewhat tender to frost and cold temperatures."
+        },
+        {
+          "id": 7747,
+          "type": "pruning",
+          "description": "Japanese barberry (Berberis thunbergii 'Aurea') should be pruned once a year in late spring or early summer. Pruning should be done to encourage better branching and to control any overgrown branches. When pruning, aim to keep the plant's form in an attractive shape and to maintain a good balance between new branches and old growth. Make sure to remove any dead or damaged branches, as well as those that cross or rub against other branches. Be sure to cut the branches back to an outward-facing bud, rather than leaving a stub or cutting it down to the ground. Additionally, make sure to sterilize pruning tools between cuts with a sanitizing solution, to avoid creating stress on the plant. Following these steps should help ensure that Japanese barberry (Berberis thunbergii 'Aurea') is properly pruned and continues to grow and thrive."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

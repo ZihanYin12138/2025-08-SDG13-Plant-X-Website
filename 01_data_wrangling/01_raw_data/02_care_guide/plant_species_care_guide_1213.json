@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 648,
+      "species_id": 1213,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Penny Lahn'"
+      ],
+      "section": [
+        {
+          "id": 1940,
+          "type": "watering",
+          "description": "Begonia 'Penny Lahn' requires moderate watering. During the warmer months of the year, it is typically best to water your Begonia 'Penny Lahn' once a week or every 7-10 days. When watering, soak the soil until it is damp and be sure to always empty any excess water that collects in the tray or pot. Reduce watering during the cooler months of the year, allowing the soil to almost completely dry out between waterings."
+        },
+        {
+          "id": 1943,
+          "type": "sunlight",
+          "description": "Begonia 'Penny Lahn' grows best in bright, indirect sunlight. During the spring and summer, the plant should receive at least 4-6 hours of direct sunlight per day; in the fall and winter, however, reducing the amount of direct sunlight to 2-4 hours per day is best. Begonias do not like to be in direct, scorching sunlight, so if you must put them in indirect sunlight, try to do so in the morning or late afternoon/evening."
+        },
+        {
+          "id": 1947,
+          "type": "pruning",
+          "description": "Begonia 'Penny Lahn' is a low-growing, compact, semi-succulent plant that should be pruned sparingly. It can be pruned to keep it neat and bushy. If pruning is needed, it should be done in spring or early summer. Prune back the stems of the plant to the desired height, making sure not to cut back more than 1-third of the total height. Prune just above a joint and cut it at a slight angle so that water can runoff. Prune off any dead or dying leaves or stems. This species is slow-growing and does not require frequent pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1018,
+      "species_id": 1189,
+      "common_name": "Ceylon spinach",
+      "scientific_name": [
+        "Basella rubra 'Red Stem'"
+      ],
+      "section": [
+        {
+          "id": 3049,
+          "type": "watering",
+          "description": "Ceylon spinach, or Basella rubra 'Red Stem', is a tropical plant that enjoys moist soil in warm, humid climates. Watering for this species should be done regularly: once or twice a week is recommended. Depending on climate and season, you should give your plant 1 to 2 liters of water per square meter of soil. For container plants, check the soil moisture at least twice a week to adjust the amount of water. When watering, give just enough to evenly moisten the soil, but avoid soggy soil or water-logging as this can lead to root rot. It is also important to avoid stressful periods of underwatering, as this could lead to poor growth and stunted leaves. Keep in mind that Ceylon spinach is a fast-growing plant, so it will need more frequent watering than other plants."
+        },
+        {
+          "id": 3058,
+          "type": "sunlight",
+          "description": "Ceylon spinach should be grown in a sunny spot that has at least 6–8 hours of direct sunlight per day. Plant growth will be slowed and the leaves may not grow as large if the plant is not receiving enough sunlight. In cooler climates, the spinach will need more sunlight. It prefers moist, well-draining soil and does not tolerate drought conditions."
+        },
+        {
+          "id": 3067,
+          "type": "pruning",
+          "description": "Ceylon spinach (Basella rubra 'Red Stem') should be pruned once per season, a few weeks before the end of its growing season (which typically lasts from late spring to early fall). When pruning, take off any dead, damaged, or overly long branches, and any foliage that is significantly faded or close to seeding. To avoid pruning off any later blooms from the plant, make your cuts about 1-third of the way down from the tips of the current growth. In general, the more pruning you do, the bushier and fuller the Ceylon spinach plant will become."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

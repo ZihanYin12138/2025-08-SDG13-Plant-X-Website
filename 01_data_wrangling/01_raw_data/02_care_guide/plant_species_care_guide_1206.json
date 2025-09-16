@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2497,
+      "species_id": 1206,
+      "common_name": "hardy begonia",
+      "scientific_name": [
+        "Begonia grandis subsp. evansiana 'Alba'"
+      ],
+      "section": [
+        {
+          "id": 7697,
+          "type": "watering",
+          "description": "Hardy begonias need regular but light watering to prevent over-saturation. They should be watered when the soil is dry to the touch, usually every 5-7 days. During very hot, dry weather, it may be necessary to water more frequently. When watering, do so thoroughly but slowly enough to allow the water to soak into the soil. Never allow the plant to stand in water and be sure to empty any water collecting in the saucer underneath the pot."
+        },
+        {
+          "id": 7698,
+          "type": "sunlight",
+          "description": "Hardy begonia (Begonia grandis subsp. evansiana 'Alba') prefers full sun to partial shade and should receive at least 4 hours of direct sunlight a day. It's best to give the plant more sunlight in the morning and less in the afternoon, as excessive afternoon sun can damage or burn the leaves. During the peak days of summer, it is preferable to keep the plant in a shadier spot or move it indoors to help protect it from heat. Additionally, the plant should be placed outdoors after all danger of frost has passed."
+        },
+        {
+          "id": 7699,
+          "type": "pruning",
+          "description": "Hardy begonias (Begonia grandis subsp. evansiana 'Alba') should be pruned once a year, usually in late spring or early summer. Pruning should aim to shape the plant and remove any old, dead or damaged stems and leaves. Smaller dead stems can be cut back to the base of the plant, while larger stems should be cut back up to 1-third of their height. Pruning should be done with caution to avoid cutting healthy new growth or stems that will produce blooms."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

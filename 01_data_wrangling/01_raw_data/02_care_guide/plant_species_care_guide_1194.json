@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 632,
+      "species_id": 1194,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Art Hodes'"
+      ],
+      "section": [
+        {
+          "id": 1892,
+          "type": "watering",
+          "description": "When watering your begonia, it is important to provide plenty of water and ensure the soil does not dry out completely. Water your begonia every 3-4 days in summer, or once a week in winter or if the soil is very dry. Aim to saturate the soil but avoid excess moisture or waterlogging, as this can cause the root rot. When adding water to the soil, make sure to water the base of the plant and avoid wetting the leaves, as this can encourage fungal diseases."
+        },
+        {
+          "id": 1896,
+          "type": "sunlight",
+          "description": "Begonias require indirect, filtered sunlight, which means that the sun should be shining through a curtain or window. Plants located near an eastern- or western-facing window will receive the best light. Avoid direct midday sun, as this can scorch the leaves. Aim to provide at least 4 to 6 hours of sunlight per day for Begonia 'Art Hodes'. If you are unable to provide this amount of light during the winter months, then supplement with a fluorescent or LED grow light."
+        },
+        {
+          "id": 1900,
+          "type": "pruning",
+          "description": "Begonia 'Art Hodes' should be pruned in late spring or early summer. To prune properly, cut back no more than 1-third of the plant, removing old, tired stems and blooms as well as any shoots that may have emerged from underneath the canopy. This plant responds best to light, regular pruning and if pruned too heavily, it can suffer from stunted growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2535,
+      "species_id": 1268,
+      "common_name": "bergenia",
+      "scientific_name": [
+        "Bergenia 'Silberlicht' SILVERLIGHT"
+      ],
+      "section": [
+        {
+          "id": 7811,
+          "type": "watering",
+          "description": "Bergenia, also known as ‘Silberlicht’, is a hardy, evergreen perennial plant that does best in shady, humid conditions with rich, well-drained soil. It should be watered deeply and regularly during spring, summer, and fall, about once a week. During winter months, water less frequently, about every 2 to 3 weeks, as the plant enters dormancy. If you’re unsure whether your Bergenia needs water, check the soil’s moisture level and water when it becomes slightly dry. When watering, be sure to avoid wetting the leaves, as this could cause them to scorch in the sun. Keep in mind that too much water can cause the roots to rot, so don’t overdo it!"
+        },
+        {
+          "id": 7812,
+          "type": "sunlight",
+          "description": "Bergenia 'Silberlicht' SILVERLIGHT plants should receive partial shade to full sun for best growth. Partial shade is best in areas where the sun is intense or temps are very high. For best color, the plant should be kept in direct sunlight for at least 4 hours each day. East facing windows are ideal as they can provide both direct morning rays and late afternoon shade. When not in direct sunlight, Bergenia 'Silberlicht' SILVERLIGHT should be placed near bright, indirect light sources."
+        },
+        {
+          "id": 7813,
+          "type": "pruning",
+          "description": "Bergenia 'Silberlicht' SILVERLIGHT should be pruned in late winter or early spring. This plant responds well to pruning and can be pruned down to the crown. Pruning should be done to remove any dead or damaged stems or branches, to reduce the plants overall size and shape, and to promote vigorous growth. If left alone, Bergenia 'Silberlicht' SILVERLIGHT can become leggy and floppy, so it is best to do light annual pruning to maintain its form."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

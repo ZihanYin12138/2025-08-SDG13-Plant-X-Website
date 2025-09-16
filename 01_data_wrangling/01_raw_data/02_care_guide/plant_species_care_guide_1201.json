@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 639,
+      "species_id": 1201,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Dangling Pearls'"
+      ],
+      "section": [
+        {
+          "id": 1907,
+          "type": "watering",
+          "description": "Water begonias whenever the top inch of soil is dry to the touch. Generally, this will mean your begonia should be watered lightly and frequently, about once every 5-7 days. During the summertime when the weather is hot, the soil may dry out much more quickly which means you may need to water more often."
+        },
+        {
+          "id": 1915,
+          "type": "sunlight",
+          "description": "Begonia 'Dangling Pearls' requires indirect sunlight, meaning it should be placed in an area with bright, indirect sunlight (such as a north or east facing window). It should have about 4 hours of partially sunny areas throughout the day. If the plant is receiving direct sunlight, the leaves may become burned. It is important to avoid direct sunlight during the hottest part of the day, which is usually from 10am-4pm."
+        },
+        {
+          "id": 1923,
+          "type": "pruning",
+          "description": "Begonia 'Dangling Pearls' should be pruned lightly and only when necessary. Trim off any dead or diseased leaves or stems as needed, keeping the shape of the plant even and uniform by snipping off errant branches. Pruning should also be done to encourage a fuller and bushier plant. This can be done by removing the tops of branches, cutting the stems just above another leaf or growing point. Pruning Begonia 'Dangling Pearls' should generally take place in the early spring, just before new growth begins."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

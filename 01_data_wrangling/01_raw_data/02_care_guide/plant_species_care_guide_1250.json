@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 683,
+      "species_id": 1250,
+      "common_name": "Japanese barberry",
+      "scientific_name": [
+        "Berberis thunbergii f. atropurpurea 'Rose Glow'"
+      ],
+      "section": [
+        {
+          "id": 2051,
+          "type": "watering",
+          "description": "Japanese barberry (Berberis thunbergii f. atropurpurea 'Rose Glow') should be watered when the top 2-3 inches of soil are dry. Depending on the weather, this could be anywhere from once a week to once every 2 weeks. Make sure not to over-water the plant, as this can lead to root rot. Generally, providing around 1 inch of water (irrigation or from rainfall) is ideal."
+        },
+        {
+          "id": 2052,
+          "type": "sunlight",
+          "description": "Japanese barberry (Berberis thunbergii f. atropurpurea 'Rose Glow') will need a minimum of 6 hours of full sunlight each day in order to thrive. The best time of day to receive this sunlight is on clear days when the sun is at its peak intensity. Additionally, Japanese barberry will benefit greatly from dappled shade in the hottest, brightest parts of the day."
+        },
+        {
+          "id": 2053,
+          "type": "pruning",
+          "description": "Japanese barberry plants should be pruned in late winter or early spring, when the plants are still in their dormancy. Prune all stems at their base, removing any dead, damaged, or diseased branches. If the plant is becoming too tall and dense, it can be pruned more severely to reduce its size. Though Japanese barberry is relatively low maintenance, it will require at least a light pruning each year in order to maintain its desired shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

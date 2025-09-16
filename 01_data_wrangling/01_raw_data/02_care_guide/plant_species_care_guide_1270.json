@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 578,
+      "species_id": 1270,
+      "common_name": "chocolate flower",
+      "scientific_name": [
+        "Berlandiera lyrata 'Mora County Mix'"
+      ],
+      "section": [
+        {
+          "id": 1735,
+          "type": "watering",
+          "description": "Chocolate flower (Berlandiera lyrata 'Mora County Mix') should be watered twice per week, giving it 1 - 2 inches of water each time. Due to its drought-tolerance, it is important not to over water the plant. Over-watering can cause leaf drop and death of the plant. Once established, chocolate flower only needs to be watered during times of inadequate rainfall or extended periods of hot, dry weather."
+        },
+        {
+          "id": 1738,
+          "type": "sunlight",
+          "description": "The chocolate flower (Berlandiera lyrata 'Mora County Mix') thrives in full sun, so make sure they get plenty of direct sunlight for optimal growth and blooming. Aim for at least 6 hours of direct sun per day. The best times of day for sunlight are between 9am and 3pm when the sun is strongest. Avoid midday sun in summer when the temperature is at its highest."
+        },
+        {
+          "id": 1743,
+          "type": "pruning",
+          "description": "Chocolate flower is an annual and should be pruned back by 1-third to 1-half of its height early in the spring, before new growth begins. Trimming off flower heads at the same time can help prevent the plant from self-seeding. It is recommended to prune a second time in the summer by removing any dead, damaged, or diseased stems. This will also help to prevent the plant from becoming overgrown and unruly. Finally, it is recommended to remove any faded or spent blooms to encourage new development and further encourage blooming."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

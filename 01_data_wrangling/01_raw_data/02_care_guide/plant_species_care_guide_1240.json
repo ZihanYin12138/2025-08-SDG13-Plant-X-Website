@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2511,
+      "species_id": 1240,
+      "common_name": "Japanese barberry",
+      "scientific_name": [
+        "Berberis 'Tara' EMERALD CAROUSEL"
+      ],
+      "section": [
+        {
+          "id": 7739,
+          "type": "watering",
+          "description": "Water Japanese barberry (Berberis 'Tara' EMERALD CAROUSEL) deeply and thoroughly about twice per week in spring when the soil appears dry. During periods of extreme heat, increase water frequency to every other day. During hot summer months, water twice weekly in the morning to ensure the roots stay cool. During the autumn months, reduce the amount of water gradually as the plant begins to go dormant. Water less in the winter, though the plant should not be allowed to completely dry out. For a more mature barberry, water deeply only when the soil appears dry."
+        },
+        {
+          "id": 7740,
+          "type": "sunlight",
+          "description": "Japanese barberry (Berberis 'Tara' EMERALD CAROUSEL) grows best in full sun to partial shade, with 4 to 6 hours of direct sunlight per day being optimal. It’s important that the plant receive indirect sunlight during the warmer parts of the day to avoid sunburn. If possible, try to plant the Japanese barberry in a spot where it will receive morning sunlight and afternoon shade. This will provide the best balance of sunshine and protection from scorching heat."
+        },
+        {
+          "id": 7741,
+          "type": "pruning",
+          "description": "Japanese barberry (Berberis 'Tara' EMERALD CAROUSEL) should be pruned just once per year, in late winter or early spring. Be sure to remove any dead, damaged, or diseased branches, as well as any crossed branches, and any growth that is too dense. If necessary, prune the shrubs to stay within the desired size and shape. Pruning should be done with sharp pruning shears to get a clean cut. Furthermore, pruning should be concentrated on the outer portions of the shrub to keep the natural shape of the plant and to ensure all the inner areas are accessible for sunlight and air circulation."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

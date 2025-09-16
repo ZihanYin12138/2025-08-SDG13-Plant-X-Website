@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2540,
+      "species_id": 1275,
+      "common_name": "Swiss chard",
+      "scientific_name": [
+        "Beta vulgaris (Leaf Beet Group)"
+      ],
+      "section": [
+        {
+          "id": 7826,
+          "type": "watering",
+          "description": "Swiss chard should be well-watered, but not overly so. In general, aim to give your plants 1 inch of water per week. If the weather is hot and dry, water more frequently. Water thoroughly each time, so that the entire root zone is saturated. In medium-rich soils, this can usually be done with 2 deep soakings, about 24-48 hours apart. If you tend to have drier soil, water more often. Make sure the soil does not dry out completely between waterings."
+        },
+        {
+          "id": 7827,
+          "type": "sunlight",
+          "description": "Swiss chard (Beta vulgaris (Leaf Beet Group)) needs between 5 and 6 hours of direct sunlight each day in order to grow and thrive. It is best to provide this sunlight in the morning or early afternoon when the sun is at its most intense. Chard is a hardy plant and can generally tolerate extended periods of direct sunlight, however if temperatures exceed 79°F (26°C) then it is important to provide some shade to prevent foliage burn."
+        },
+        {
+          "id": 7828,
+          "type": "pruning",
+          "description": "For Swiss chard, regular pruning is recommended to help promote vigorous growth and more abundant yields. Prune Swiss chard when plants are between 8-12 inches tall; remove the outer leaves with garden shears or sharp scissors. This should be done as needed, usually every 3-4 weeks. When pruning, leave about an inch of the stem attached to the base of the plant to encourage new growth. Depending on the weather conditions and how quickly the plant grows, you may need to prune more or less frequently."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

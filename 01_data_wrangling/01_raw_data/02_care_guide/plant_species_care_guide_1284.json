@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 446,
+      "species_id": 1284,
+      "common_name": "river birch",
+      "scientific_name": [
+        "Betula nigra 'Dickinson' NORTHERN TRIBUTE"
+      ],
+      "section": [
+        {
+          "id": 1340,
+          "type": "watering",
+          "description": "For river birch, it is best to water when the top two inches of soil are dry. During the summer, water deeply once a week, allowing at least an inch of water to saturate the deeper root zone. During the winter, check the soil periodically and water only when it has become dry. It is also important to note that river birch prefers moist, but well-drained soils, so standing water is to be avoided."
+        },
+        {
+          "id": 1341,
+          "type": "sunlight",
+          "description": "River birch prefers full sunlight but can tolerate a degree of partial afternoon shade. It should receive at least 5 hours of sunlight a day. Of course, northern exposure is best kept to a minimum or avoided altogether. If planted in the southern exposure, it should be given some degree of shade to protect it from the hot summer sun."
+        },
+        {
+          "id": 1342,
+          "type": "pruning",
+          "description": "River birch should be pruned twice annually-- in late winter (February or March) and mid-summer (late June or early July). When pruning, remove any dead, rubbing, or broken branches as well any multistemmed branches or suckers. Also, shape young trees by removing lower branches and crossing branches. When mature, pruning should be limited to removal of dead, diseased or broken branches. It is important not to prune too much or too often, as this may cause damage to the tree in the end. With river birch varieties, try to keep the overall shape of the tree intact, and do not remove more than a quarter of the crown at once. Thanks to its rapid growth rate, this species can tolerate a good deal of pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

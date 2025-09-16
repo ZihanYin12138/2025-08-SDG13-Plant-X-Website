@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 643,
+      "species_id": 1209,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Gryphon'"
+      ],
+      "section": [
+        {
+          "id": 1927,
+          "type": "watering",
+          "description": "It is best to water Begonia 'Gryphon' about once a week. Be sure to water deeply until the soil is evenly moist, almost to the point of being saturated. Allow the soil to dry to a depth of about an inch between waterings. During the summer months, water more frequently as the temperatures and light increase. In the winter months, allow the soil to become almost entirely dry between waterings. "
+        },
+        {
+          "id": 1931,
+          "type": "sunlight",
+          "description": "Begonias thrive with sunlight! As a tropical plant, Begonia 'Gryphon' prefers bright, indirect sunlight indoors. During the summer months, it's best to place them in a spot where they can receive 8-12 hours of sunlight a day. From October to April, however, it's best to give them less direct sunlight and opt for a spot near a window that gets 2 to 4 hours of indirect sunlight daily."
+        },
+        {
+          "id": 1935,
+          "type": "pruning",
+          "description": "Begonias need to be pruned regularly to encourage strong, healthy growth as well as to maintain their shape and size. For the Begonia ‘Gryphon’, pruning should be done in late spring to mid-summer. Begin by removing dead leaves, stems, and flowers. Cut back any overly long shoots that have outgrown the desired size of the plant. Cutting back any stems should be done no more than 1 third of their original length."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

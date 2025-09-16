@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2522,
+      "species_id": 1253,
+      "common_name": "Japanese barberry",
+      "scientific_name": [
+        "Berberis thunbergii 'Pygruzam' PYGMY RUBY"
+      ],
+      "section": [
+        {
+          "id": 7772,
+          "type": "watering",
+          "description": "Japanese barberry (Berberis thunbergii 'Pygruzam' PYGMY RUBY) is a low maintenance, easy-to-care-for plant that prefers soil with good drainage. This plant should be watered deeply and allowed to dry slightly between waterings. Water thoroughly when soil is dry to the touch about 1 inch down with 1-2 inches of water. This should be done every 4-6 days in summer and every 1-2 weeks in winter. Do not overwater, as this plant is quite tolerant of dry soil."
+        },
+        {
+          "id": 7773,
+          "type": "sunlight",
+          "description": "Japanese barberry (Berberis thunbergii 'Pygruzam' PYGMY RUBY) is a drought-tolerant shrub that grows best in full sun. It will tolerate some shade; however it needs a variety of sunlight throughout the day and at least 6 hours of direct sun to grow its best. For optimum health and performance, it should be planted in a location that receives at least 8 hours of direct sun daily. It can also thrive in locations that receive 4 to 6 hours of part sun and part shade, especially in hotter climates. Japanese barberry will adapt to a wide range of soil conditions, and can even tolerate some drought, though it grows best in well-drained soil. It is also very low-maintenance, and doesn’t require a lot of pruning to maintain its shape."
+        },
+        {
+          "id": 7774,
+          "type": "pruning",
+          "description": "Japanese barberry (Berberis thunbergii 'Pygruzam' PYGMY RUBY) should be pruned every year in early spring, just as the new growth begins to appear. This is the time when the plant is transitioning from a resting stage to an active growing stage. During pruning, remove dead, damaged or broken branches, as well as any branches growing into the center of the bush or crossing over each other. Once the desired shape is achieved, it is important to thin the bush, removing some of the smaller, central branches and any weak or overly dense growth. This will help the bush to maintain an open form and allow for increased air and light circulation. Finally, it is recommended to remove any residual buds that may have been left after pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

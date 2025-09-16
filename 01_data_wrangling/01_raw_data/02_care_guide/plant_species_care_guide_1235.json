@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2506,
+      "species_id": 1235,
+      "common_name": "Jepson's Oregon-grape",
+      "scientific_name": [
+        "Berberis dictyota"
+      ],
+      "section": [
+        {
+          "id": 7724,
+          "type": "watering",
+          "description": "Jepson's Oregon-grape (Berberis dictyota) prefers moist soil that is consistently damp. Water your Oregon-grape regularly during the first growing season and keep the soil evenly moist. Once established, water the plant thoroughly once a week during periods of drought or when there is no rain for a couple of weeks. Avoid over-watering, as this can cause the roots to rot. During the winter months, water only during periods of prolonged dryness, typically every 2 to 3 months."
+        },
+        {
+          "id": 7725,
+          "type": "sunlight",
+          "description": "Jepson's Oregon-grape requires full sun to partial shade; however, it will produce more berries in sunny areas. Depending on the time of year or where it is planted, the amount of sunlight will vary slightly. In the summer months, direct sun for at least 6 hours per day is ideal. During the winter, it will need at least 4 hours of sun. In areas with hot summer temperatures, dappled or morning sun is best to prevent leaf and/or fruit burn. During colder months, the sunlight should be full and direct."
+        },
+        {
+          "id": 7726,
+          "type": "pruning",
+          "description": "Pruning of Jepson's Oregon-grape should be done in late winter or early spring, when the plant is still dormant. Prune out dead, diseased, or crossing branches, selecting the strongest branches for pruning. Don't cut back healthy wood unless absolutely necessary. Prune the branches back to their junction with other branches, or to their point of origin. Avoid shearing or topping the plant, as it may cause damage to the buds and prevent the plant from producing flowers and fruits."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 657,
+      "species_id": 1216,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'River Nile'"
+      ],
+      "section": [
+        {
+          "id": 1969,
+          "type": "watering",
+          "description": "Begonias 'River Nile' should be watered about once a week, allowing the soil to dry out a bit between waterings. You'll know it's time to water when the soil feels dry to the touch. During warm weather, water your Begonia 'River Nile' twice a week, or even more if the weather is especially hot or humid. If you observe wilting, you can increase the frequency a bit or mist the leaves. Make sure not to overwater, as this can lead to root rot."
+        },
+        {
+          "id": 1973,
+          "type": "sunlight",
+          "description": "Begonia 'River Nile' requires bright, indirect light for optimal growth. It prefers to be located near a south or west-facing window if possible, and may even need some protection from harsh mid-day sun. If kept indoors, it should be located in an area that receives 8 hours of indirect sunlight a day, such as a bright room with windows on 2 or 3 walls. When grown outdoors in warmer climates, it should be located in a sheltered area that receives morning and afternoon sun but is shaded from any intense midday sun."
+        },
+        {
+          "id": 1977,
+          "type": "pruning",
+          "description": "Pruning should generally take place in the spring and summer months. In the spring, prune any damaged or dead foliage and flower stems. In the summer, prune to promote new growth and shape the bush. Always use sharp pruning shears and make sure to sterilize them before and after use. Prune only up to 1-third of the bush at a time to avoid over-exertion."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2548,
+      "species_id": 1283,
+      "common_name": "river birch",
+      "scientific_name": [
+        "Betula nigra 'Cully' HERITAGE"
+      ],
+      "section": [
+        {
+          "id": 7850,
+          "type": "watering",
+          "description": "River Birch requires moderate watering in the warmer months, approximately twice a week for newly planted trees. For established trees, during the first 2 years, allow the soil to dry out slightly between waterings. Thereafter, water deeply once a week in the heat of summer, and every 2-3 weeks the rest of the year. Pay special attention to the root ball during summer heat waves and drought conditions."
+        },
+        {
+          "id": 7851,
+          "type": "sunlight",
+          "description": "River Birch (Betula nigra 'Cully' Heritage) is a deciduous tree that prefers full sun, though it will tolerate some shade. It should receive at least 6 hours of direct sunlight each day and should be planted in a spot that receives at least 3 hours of direct sunlight. In order to ensure optimal growth of River Birch, it is best to plant it in an area that receives full sun in the early morning and late afternoon, while providing some shade in the midday. This will help protect the tree from the strong mid-day rays of the sun, which can cause stress to the tree. During the winter months, the River Birch should receive direct sunlight for extended periods of time, up to 7 hours a day. "
+        },
+        {
+          "id": 7852,
+          "type": "pruning",
+          "description": "River birch (Betula nigra 'Cully' HERITAGE) should be pruned in early spring before any new growth occurs. Prune selectively to maintain the shape of the plant and to remove dead, diseased, or damaged branches. Generally, avoid pruning branches larger then 2 inches in diameter because the wounds heal slowly. Pruning also encourages the plant to develop a strong structure with an attractive silhouette. Skilled pruning can certainly help the river birch maintain its health and vigor over time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

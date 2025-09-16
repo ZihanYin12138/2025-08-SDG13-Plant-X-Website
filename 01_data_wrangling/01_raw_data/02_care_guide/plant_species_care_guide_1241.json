@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2512,
+      "species_id": 1241,
+      "common_name": "Japanese barberry",
+      "scientific_name": [
+        "Berberis thunbergii"
+      ],
+      "section": [
+        {
+          "id": 7742,
+          "type": "watering",
+          "description": "The Japanese barberry (Berberis thunbergii) should typically be watered every 3 to 4 days during its growing season, which typically lasts from spring through early fall. Water deeply and thoroughly, allowing the soil to dry out in between waterings. Make sure the soil is damp to the touch but not saturated. During the winter months, you should water once or twice a month. Monitor the soil's moisture level throughout the year and adjust your watering schedule accordingly."
+        },
+        {
+          "id": 7743,
+          "type": "sunlight",
+          "description": "Japanese barberry (Berberis thunbergii) requires full sun exposure to thrive. It will grow in shady areas, but the growth and flowering may be reduced. It prefers 6 or more hours of direct sunlight each day. In the summer months, when the sun is the strongest, it can handle up to 8 hours of direct sunlight daily. During the winter months, about 5 hours of sunlight a day should be sufficient. Additionally, it's important to note that Japanese barberry should be planted in an area that is shielded from cold winter winds."
+        },
+        {
+          "id": 7744,
+          "type": "pruning",
+          "description": "Japanese barberry (Berberis thunbergii) should be lightly pruned in late winter or early spring while the shrub is still dormant. Pruning should focus on removing dead, damaged, and diseased branches, as well as thinning leading shoots to promote bushier growth. However, the shrub should be kept to a reasonable size to discourage overgrowth, as it can be quite invasive. To keep a properly-sized plant, prune back the longest branches by 1-third to 1-half their length each year, taking care not to damage the remaining stems. It's also important to prune off any flowering branches, as this will prevent self-seeding."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

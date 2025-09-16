@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2517,
+      "species_id": 1246,
+      "common_name": "Japanese barberry",
+      "scientific_name": [
+        "Berberis thunbergii f. atropurpurea 'Gentry' ROYAL BURGUNDY"
+      ],
+      "section": [
+        {
+          "id": 7757,
+          "type": "watering",
+          "description": "Japanese barberry (Berberis thunbergii f. atropurpurea 'Gentry' ROYAL BURGUNDY) should be watered well and evenly when the soil is starting to feel dry to the touch. During the summer when temperatures are warmer and the plant is actively growing, it is important to water thoroughly once a week. In cooler temperatures, water once every 2 weeks. Make sure to monitor the soil moisture levels carefully, as the plant doesn't like soggy soil. When watering, apply enough water so that it soaks the entire soil profile."
+        },
+        {
+          "id": 7758,
+          "type": "sunlight",
+          "description": "Japanese barberry (Berberis thunbergii f. atropurpurea 'Gentry' ROYAL BURGUNDY) loves full sun. It should receive at least 6 hours of direct sunlight each day in order to thrive. If it gets too much sun, however, the leaves may be scorched and the plant may become stressed. For this reason, it is best to plant it in an area that receives morning direct sunlight and afternoon dappled shade. Additionally, Japanese barberry can tolerate partial shade and may even benefit from some shade in areas of intense summer heat."
+        },
+        {
+          "id": 7759,
+          "type": "pruning",
+          "description": "Japanese barberry (Berberis thunbergii f. atropurpurea 'Gentry' ROYAL BURGUNDY) should be pruned in mid- to late spring after flowering. This will prevent the plant from becoming overly woody and encourage new growth. Prune out any weak or errant growth and selectively remove up to a quarter of the oldest stems to encourage new growth in the plant. Pruning should not be done more than once a year as it increases the likelihood of disease and encourages the plant to become too woody."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

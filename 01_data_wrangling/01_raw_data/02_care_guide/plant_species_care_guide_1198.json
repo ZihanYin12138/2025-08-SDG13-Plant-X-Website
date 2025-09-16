@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 636,
+      "species_id": 1198,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Canary Wing'"
+      ],
+      "section": [
+        {
+          "id": 1904,
+          "type": "watering",
+          "description": "When it comes to watering your begonia (Begonia 'Canary Wing'), it's important to keep its soil moist, but not overly saturated. Generally, this means watering about once a week—though you may have to adjust this depending on your home's climate. Allow the top layer of soil to dry out before re-watering, and avoid getting the leaves wet as they are quite fragile. If you're unsure of when to water, use your finger to check the soil's moisture level. If it feels wet, wait another few days before watering again."
+        },
+        {
+          "id": 1912,
+          "type": "sunlight",
+          "description": "Begonia 'Canary Wing' plants need bright, indirect light every day for at least 6-7 hours. They do best with morning light or light coming in from east-facing windows. They can tolerate direct sun, however too much direct exposure to intense sun can cause the foliage to burn. They do not need any special attention to sunlight and can adjust to a variety of lighting conditions. However, for optimal health they should receive at least 6-7 hours of light every day."
+        },
+        {
+          "id": 1920,
+          "type": "pruning",
+          "description": "Prune Begonia 'Canary Wing' lightly in late summer or early fall. This will encourage the stems and foliage to remain compact. To do this, simply pinch off the top 1 or 2 inches of the main stems after flowering is finished. Pruning will also reduce the risk of disease and insect infestations."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

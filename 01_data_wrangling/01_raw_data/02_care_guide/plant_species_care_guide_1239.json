@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2510,
+      "species_id": 1239,
+      "common_name": "barberry",
+      "scientific_name": [
+        "Berberis stenophylla 'Corallina Compacta'"
+      ],
+      "section": [
+        {
+          "id": 7736,
+          "type": "watering",
+          "description": "Barberry (Berberis stenophylla 'Corallina Compacta') is a drought-tolerant evergreen shrub that should receive an average of 1 inch of water per week. Water the barberry deeply but infrequently. Make sure to water the plant in the morning, so that the foliage has a chance to dry off before nightfall. Allow the soil to dry out between waterings to prevent over-watering, which can cause root and stem rot. During the warm summer months, Barberry may need to be watered more often, or fertilized with a diluted liquid fertilizer. You may also want to protect the plant from intense summer sun by providing partial shade."
+        },
+        {
+          "id": 7737,
+          "type": "sunlight",
+          "description": "Barberry (Berberis stenophylla 'Corallina Compacta') thrives in 6-8 hours of full sun exposure each day, preferably in the morning. During the afternoon, the plant should be shaded or filtered from the sun, as the intense heat of the day can cause leaf burn. Regular sunlight will help the plant grow vigorously, as well as promote healthy flowering."
+        },
+        {
+          "id": 7738,
+          "type": "pruning",
+          "description": "Barberry (Berberis stenophylla 'Corallina Compacta') should be pruned annually in early spring. Pruning should be done before or shortly after new growth appears on the plant. This pruning should remove old, unproductive growth to encourage new growth. It can also be done to remove dead or damaged branches. Pruning should also be done to maintain size and shape, or for a desired aesthetic appearance. In particular, barberry should be cut back to just above the old growth for a tidy, compact shape. Care should be taken to avoid over-pruning as this can inhibit flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

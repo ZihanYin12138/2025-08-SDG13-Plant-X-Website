@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 549,
+      "species_id": 1286,
+      "common_name": "water birch",
+      "scientific_name": [
+        "Betula occidentalis"
+      ],
+      "section": [
+        {
+          "id": 1644,
+          "type": "watering",
+          "description": "Water birch (Betula occidentalis) should be kept constantly damp, but not sopping wet. When the top inch of soil begins to feel dry, it is time to water. For established plants, water weekly or every other week (depending on your climate). Each time you water, give the soil a good dousing — a gentle stream of water for several minutes, so that the moisture penetrates deeply into the soil. During periods of drought or extreme heat, you may need to water more frequently to keep the soil moist."
+        },
+        {
+          "id": 1653,
+          "type": "sunlight",
+          "description": "Water birch (Betula occidentalis) requires bright, full sunlight to thrive if at all possible. This species prefers to be in open areas that allow sun exposure for at least 6 hours each day. In optimal conditions, water birch can tolerate 5 to 8 hours of bright sunlight a day. When given the ideal amount of sunlight, water birch will grow and develop faster and healthier."
+        },
+        {
+          "id": 1656,
+          "type": "pruning",
+          "description": "Pruning can be done any time during the growing season, however, you should aim to do the bulk of your pruning in early spring before the new leaves begin to form, or late winter when the plant is dormant. When pruning water birch, it's important to keep its naturally irregular, multi-stemmed, and spreading habit in mind. You should selectively remove the older, larger stems at the base of the plant to allow for increased light and air to penetrate through the thick canopy of branches. You should also remove any diseased or damaged stems as well as any dead or crossing branches. A light pruning every 2 to 3 years is usually sufficient for a healthy water birch."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

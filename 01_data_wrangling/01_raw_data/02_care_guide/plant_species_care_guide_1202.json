@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 640,
+      "species_id": 1202,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Emerald Glow'"
+      ],
+      "section": [
+        {
+          "id": 1908,
+          "type": "watering",
+          "description": "Begonia 'Emerald Glow' should be watered when the soil feels dry to the touch, about once every 5-7 days. When watering, moisten the soil completely and make sure that the excess water drains out of the pot. During hot weather, water more frequently, approximately every 3-4 days. In the winter, reduce watering to about every 10 days while the plant is dormant. Always avoid overwatering and allow the plant to dry out moderately in between waterings."
+        },
+        {
+          "id": 1916,
+          "type": "sunlight",
+          "description": "Begonia 'Emerald Glow' plants should receive bright, indirect sunlight throughout the day. It grows best when it receives around 4-6 hours of morning sunlight, followed by indirect sunlight throughout the rest of the day. Begonias need to be placed in areas where it will get ample bright light, but it should not be placed in areas with direct sun exposure for more than 4 hours, as that may damage their foliage."
+        },
+        {
+          "id": 1924,
+          "type": "pruning",
+          "description": "Pruning for Begonia 'Emerald Glow' should be done sparingly in late spring or early summer. Remove any flower stalks that have passed, as well as any dead or dying leaves. Do not prune too heavily as this can cause damage to the plant and reduce the amount of flowers it will produce. If excessive pruning is needed, it can be done gradually over several weeks, removing no more than 1-third of the plant at a time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

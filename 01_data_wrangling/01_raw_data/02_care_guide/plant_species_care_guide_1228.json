@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2500,
+      "species_id": 1228,
+      "common_name": "English daisy",
+      "scientific_name": [
+        "Bellis perennis BELLISSIMA RED"
+      ],
+      "section": [
+        {
+          "id": 7706,
+          "type": "watering",
+          "description": "English daisy should be watered when the top 2 inches of soil are dry. This usually means watering every 3-5 days during the summer months and every 7-10 days during the winter months. It is important to make sure that you water your English daisy deeply. This means watering slowly and deeply so that water is able to penetrate the roots of the plant. You can also use a garden hose, water can, or watering can to make sure the English daisy is properly watered. Let the soil dry out before watering again. Too much water can make the roots rot."
+        },
+        {
+          "id": 7707,
+          "type": "sunlight",
+          "description": "English daisy (Bellis perennis BELLISSIMA RED) prefers bright, indirect sunlight but will tolerate partial shade. The ideal amount of sunlight for this species is approximately 6 to 8 hours a day. During summer months, it is best to provide as much indirect light as possible. If planted in direct sunlight, the English daisy can be easily burned or suffer from wilting and drying out. In winter months, exposure to direct sunlight may be reduced, but the plant should still receive at least 4-6 hours of indirect light on a daily basis."
+        },
+        {
+          "id": 7708,
+          "type": "pruning",
+          "description": "English Daisy (Bellis perennis BELLISSIMA RED) is a hardy perennial that can be grown in full sun or partial shade. Pruning English daisy can encourage new growth and blooming and should be done in early spring. Start pruning when the plant reaches about 8\" high and remove up to 1-third of the height of the stems, cutting back to just above a bud or leaf node. This will help to encourage new, healthy growth and full flowering. Repeat this pruning monthly throughout the growing season, stopping around mid-summer to allow plenty of time for the plant to develop buds and flowers. Deadheading- removing spent flowers and seed heads- will also help to improve plant growth and flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

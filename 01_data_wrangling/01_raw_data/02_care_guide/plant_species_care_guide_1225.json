@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 666,
+      "species_id": 1225,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia tuberosa 'Fortune Peach Shades'"
+      ],
+      "section": [
+        {
+          "id": 1994,
+          "type": "watering",
+          "description": "Begonias require a moderate amount of water and should be watered about once or twice a week. Water thoroughly until the water is seen coming out of the drainage holes in the bottom of the pot. Allow the soil to dry slightly between waterings to prevent root rot and be sure to never let a begonia sit in standing water. If grown outdoors, water the plant when the soil begins to dry out - usually on a weekly basis when it is hot out, and bi-weekly when it’s mild."
+        },
+        {
+          "id": 2001,
+          "type": "sunlight",
+          "description": "Begonias need between 2 to 5 hours of direct sunlight each day. While many varieties prefer less sun exposure, Begonia tuberosa 'Fortune Peach Shades' need a moderate amount of sunlight each day to maintain their peachy color. While 3 to 4 hours of direct sunlight is ideal, this plant can tolerate up to 5 hours of direct sunlight each day. Be sure to provide some shade if temperatures are hotter than usual and you happen to notice the leaves of your begonia turning a darker, yellowish color."
+        },
+        {
+          "id": 2008,
+          "type": "pruning",
+          "description": "Begonia tuberosa 'Fortune Peach Shades' should be pruned once a year in spring. Light pruning of dead branches and stems should be done throughout the growing season if necessary. Generally, about 1-third of the plant should be removed - taking off any growth that has died and thinning the plant's stems. Pruning too much can reduce flowering potential, so it’s important to be careful and not take off too much at once."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

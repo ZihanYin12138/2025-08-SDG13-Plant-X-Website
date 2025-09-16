@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 667,
+      "species_id": 1226,
+      "common_name": "hybrid tuberous begonia",
+      "scientific_name": [
+        "Begonia (Tuberosa Group)"
+      ],
+      "section": [
+        {
+          "id": 1995,
+          "type": "watering",
+          "description": "Water thoroughly when the top inch (2.5cm) of soil is dry, usually every 7-10 days in spring and summer, and every 10-14 days in autumn and winter. To determine if the soil is wet or dry, stick your finger into the pot and if it feels like the soil has absorbed all the water, it’s time to bring the watering can out again. Avoid overwatering as this can cause root rot, and if on the contrary, the soil is very dry, it’s a good idea to soak the plant thoroughly, allowing the water to penetrate throughout the entire pot. In general, it is best to water your begonias from the bottom by placing the pot in a sink of water or by using a tray filled with water and allowing the water to be absorbed by the soil from below."
+        },
+        {
+          "id": 2002,
+          "type": "sunlight",
+          "description": "Hybrid tuberous begonias need plenty of sunlight to thrive, preferably 4-6 hours of direct sunlight, but no more than 8-10 hours of direct sunlight daily. If the begonias overheat during the summer, they may need to be placed in a more shaded area for some extra protection. These begonias also require indirect light, so it is important to make sure they get some later in the day or throughout the day. 8-10 hours of sunlight in the summer might mean that the plant needs to be placed in a location that receives full morning sun followed by some afternoon shade."
+        },
+        {
+          "id": 2009,
+          "type": "pruning",
+          "description": "Hybrid tuberous begonias should be pruned approximately twice a year, once in the late winter/early spring and once in midsummer. Pruning in the late winter/early spring will encourage the plant to become bushier, whereas pruning in midsummer will produce larger blooms. During pruning, remove any dead, damaged, or diseased stems and foliage, and reduce the length of any overly long stems. As a general rule, avoid pruning more than 20%-30% of the entire plant at a single time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

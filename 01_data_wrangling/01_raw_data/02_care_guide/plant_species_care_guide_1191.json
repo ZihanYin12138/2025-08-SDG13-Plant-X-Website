@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2493,
+      "species_id": 1191,
+      "common_name": "Hong Kong orchid tree",
+      "scientific_name": [
+        "Bauhinia blakeana"
+      ],
+      "section": [
+        {
+          "id": 7685,
+          "type": "watering",
+          "description": "The Hong Kong orchid tree (Bauhinia blakeana) should be watered regularly, with a deep watering once a week during the active growing season, spring and summer. During this time, the soil should be moist but not saturated. Water the tree deeply at the soil line, and allow the top 1 inch of soil to dry out before watering again. In the winter when the tree is dormant, it should only be watered once a month."
+        },
+        {
+          "id": 7686,
+          "type": "sunlight",
+          "description": "The Hong Kong orchid tree (Bauhinia blakeana) needs full sun in order to thrive. During the summer months, this tree should have direct sunlight for 6-8 hours a day. In the winter, it should receive full sun for at least 4 hours a day and some indirect light for the remainder of the day. The amount and intensity of the sun will also vary depending on the time of year and the region in which the tree is growing. In general, it is best to plant the Hong Kong orchid tree in a spot that gets direct sunlight for as many hours as possible."
+        },
+        {
+          "id": 7687,
+          "type": "pruning",
+          "description": "The Hong Kong orchid tree (Bauhinia blakeana) should be pruned during the dormant season (December to March). Pruning should be done selectively, removing dead, diseased, or damaged branches, as well as suckers and water sprouts. Light pruning can be carried out to shape the tree and maintain its natural form. When cutting back branches, avoid cutting back to a size that will create wounds. Instead, prune just above a balanced group of lateral buds or branch collar. Heavy pruning to rejuvenate a tree should be avoided, as it may disfigure the unique bloom shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

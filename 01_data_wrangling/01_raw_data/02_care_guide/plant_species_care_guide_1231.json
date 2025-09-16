@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2502,
+      "species_id": 1231,
+      "common_name": "Oregon grape-holly",
+      "scientific_name": [
+        "Berberis aquifolium 'Apollo'"
+      ],
+      "section": [
+        {
+          "id": 7712,
+          "type": "watering",
+          "description": "Oregon Grape-Holly (Berberis aquifolium 'Apollo') prefers moist but well-drained soils in full sun to partial shade. Water newly planted shrubs regularly until they become established, then watering every 7 to 10 days is usually sufficient. Once established, Oregon Grape-Holly is very drought tolerant and can go weeks without needing to be watered. In general, avoid over-watering and allow the soil to dry out slightly between waterings. During periods of extreme heat or drought, it is a good practice to water more frequently to ensure the shrubs receive enough moisture."
+        },
+        {
+          "id": 7713,
+          "type": "sunlight",
+          "description": "Oregon grape-holly (Berberis aquifolium 'Apollo') prefers full sun and at least 6 hours of sunlight per day. Avoid planting in areas prone to heavy shade as this will reduce flowering and limit overall performance. This species does best in light soils enriched with organic material and moderate water. Avoid excessively wet soils or dry soils with poor drainage. Oregon grape-holly is hardy from USDA zones 6-9 and can tolerate temperatures down to -10°F."
+        },
+        {
+          "id": 7714,
+          "type": "pruning",
+          "description": "Oregon grape-holly (Berberis aquifolium 'Apollo') can be pruned anytime between late winter and early summer. An important factor in determining when you will prune is the desired shape of your shrub. For optimal shaping, aim to prune in early spring, before new growth emerges. If you are only managing growth, a late winter pruning is recommended. Oregon grape-holly can also be sheared if you are looking for a more manicured or formal look. However, it is important to note that heavy pruning can reduce flowering and fruiting, which can be a desirable trait in a landscape. If pruning heavily, do so only in late winter. Whenever you are pruning, be sure to selectively remove only a few branches at a time, as heavy pruning should be done with caution."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2492,
+      "species_id": 1190,
+      "common_name": "burning bush",
+      "scientific_name": [
+        "Bassia scoparia f. trichophylla"
+      ],
+      "section": [
+        {
+          "id": 7682,
+          "type": "watering",
+          "description": "Burning bush (Bassia scoparia f. trichophylla) prefers moist soil, so regular watering is essential to keep the plant healthy. Water the Burning bush once a week, adding enough so that the soil is evenly damp — around 1 to 2 inches of water. In the summer, you may need to water more often due to hotter and drier weather increasing evaporation from the soil. To test if a plant needs water, poke your finger into the soil; if the soil is dry an inch down, it’s time to water. Additionally, water the soil around the Burning bush in the summer months to help keep the foliage from wilting in the heat."
+        },
+        {
+          "id": 7683,
+          "type": "sunlight",
+          "description": "Burning bush (Bassia scoparia f. trichophylla) thrives in well-draining and moist soil in sunny locations with 6-8 hours of direct sunlight per day. It can tolerate partial shade, but for best results, the plant should be placed in an area that receives full sun, ideally morning through mid-afternoon. In the summer months, when the temperatures are higher, it's best to keep the plant in an area that gets some relief from heat in the afternoon."
+        },
+        {
+          "id": 7684,
+          "type": "pruning",
+          "description": "Burning bush (Bassia scopari f. trichophylla) should be pruned to maintain its size and shape. Pruning should take place in late winter or early spring just before the new growth emerges. Pruning should be done selectively, removing only 1-third of the largest stems to reduce the overall size and shape. The goal is to open the center of the plant to allow better light penetration and air circulation. Heading cuts should be made back to a third of the length of the original branches. You can also remove any diseased, dying, or dead branches at this time. When pruning during the active growing season, heading cuts should be made just above an outward-facing bud. Burning bush can also be easily sheared to maintain a rounded shape or to reduce its size."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

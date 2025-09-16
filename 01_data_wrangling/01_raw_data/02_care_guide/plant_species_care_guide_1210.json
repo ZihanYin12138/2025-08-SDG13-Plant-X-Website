@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 644,
+      "species_id": 1210,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Lime Royale'"
+      ],
+      "section": [
+        {
+          "id": 1928,
+          "type": "watering",
+          "description": "For Begonia 'Lime Royale', water when the soil looks and feels dry to the touch - usually about once a week or after every 1-2 days in warmer temperatures. Make sure not to water directly onto the leaves, as this can cause them to turn brown. To avoid over-watering, it is important to allow the soil to completely dry out in between waterings. Additionally, it is important to avoid getting water on the leaves, as this can cause them to turn brown."
+        },
+        {
+          "id": 1932,
+          "type": "sunlight",
+          "description": "For Begonia 'Lime Royale', the best amount of sunlight is partial shade or indirect bright light, which means that the plant should only get a limited amount of direct sun. Direct sun can cause sunburning, dehydration, and bleaching of the plant. For this species, if you can provide around 4 to 5 hours of bright, indirect light a day, it should be ideal. Morning or late afternoon sun is the best time to give it, as direct sunlight during midday can be too intense."
+        },
+        {
+          "id": 1936,
+          "type": "pruning",
+          "description": "Pruning for begonia 'Lime Royale' should be done regularly during the growing season to promote better shape and blooming. Depending on your climate, this may be needed as early as May and as late as October. The amount of pruning you do each time should depend on the size of the plant and how overgrown the plant is. Generally, when pruning begonias, a good rule of thumb is to trim no more than 1/3 of the overall height and volume of the plant at any 1 time. This will ensure that you don’t damage the plant while pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

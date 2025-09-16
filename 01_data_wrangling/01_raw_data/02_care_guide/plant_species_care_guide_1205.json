@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2496,
+      "species_id": 1205,
+      "common_name": "hardy begonia",
+      "scientific_name": [
+        "Begonia grandis subsp. evansiana"
+      ],
+      "section": [
+        {
+          "id": 7694,
+          "type": "watering",
+          "description": "Hardy begonias (Begonia grandis subsp. evansiana) are relatively low-maintenance plants, but they do require regular watering to thrive and bloom. Water your begonia when the soil feels dry to the touch and water deeply to ensure that the entire root system is getting moisture. Be sure to not drench the soil, either - always allow the top half-inch of soil to dry out before watering again. In general, water your hardy begonia once or twice a week and adjust accordingly depending on the weather conditions. During warmer months, the soil may dry out faster and require more frequent watering. In cooler months, you may only have to water once every week or 2."
+        },
+        {
+          "id": 7695,
+          "type": "sunlight",
+          "description": "Hardy begonia (Begonia grandis subsp. evansiana) thrives best in indirect sunlight or dappled shade throughout the day. Approximately 4 to 5 hours of sunlight a day is beneficial for this plant species, and the ideal timing of light exposure is early to mid-morning and again in late afternoon. It is important to note that direct sunlight exposure should be limited with this plant species, especially during the hottest part of the day."
+        },
+        {
+          "id": 7696,
+          "type": "pruning",
+          "description": "Hardy begonia should be pruned in late winter or early spring when the stems have started to grow. Pruning should be done to encourage healthy growth, and remove any dead wood. It is best to lightly prune the stems, removing no more than a third of their length, to keep the plant looking lush. Deadheading spent blooms can also help reduce disease and promote the production of new flowers. Additionally, it is beneficial to annually trim back any errant stems that have exceeded the overall size of the desired Begonia."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

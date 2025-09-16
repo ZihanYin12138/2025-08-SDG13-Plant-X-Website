@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2547,
+      "species_id": 1282,
+      "common_name": "river birch",
+      "scientific_name": [
+        "Betula nigra 'BNMTF' DURA-HEAT"
+      ],
+      "section": [
+        {
+          "id": 7847,
+          "type": "watering",
+          "description": "River birch (Betula nigra 'BNMTF' DURA-HEAT) should be watered twice a week, allowing the soil to dry out slightly between waterings. During the warm summer months, however, water the tree more often to ensure it is receiving adequate hydration. If possible, water directly at the roots, taking care not to over-saturate the soil. The amount of water the tree needs at each watering will be determined by the tree’s environment and soil type. Depending on the soil and the tree’s size, it may need to be watered deeply and vigorously. In general, young trees should receive at least 1 inch of water every week. Established trees will need more water that can range from 1 to 3 inches of water per week during dry periods, depending on the tree’s size and soil type."
+        },
+        {
+          "id": 7848,
+          "type": "sunlight",
+          "description": "River birch (Betula nigra 'BNMTF' DURA-HEAT) is a plant species that prefers full sun to partial shade and can thrive with 4 to 6 hours of direct sunlight a day. The best time for the plant to get the most sunlight is between the hours of 10 am and 4 pm. When the sun is at its highest point in the sky, the most photosynthesis can occur, giving this species the energy it needs to grow. However, it’s important to note that river birch should be protected from too much direct sunlight during hot summer days, as this can cause damage to the plant. By keeping the River Birch in partial shade during the hottest parts of the day, the tree will be protected and still get access to the needed amount of sunlight."
+        },
+        {
+          "id": 7849,
+          "type": "pruning",
+          "description": "River birches (Betula nigra 'BNMTF' DURA-HEAT) should be pruned twice a year for best results – in late winter or early spring and in late summer or early fall. For the late winter or early spring pruning, remove dead or damaged branches. Cut back any branches that are growing towards the inner part of the tree. Then, thin out any branches growing out from the main trunk. \n\nFor the late summer or early fall pruning, trim back any vigorous, upright shoots to maintain shape and control size. This is also a good time to perform any corrective pruning necessary, such as removing crossing branches, to improve overall shape. Hard pruning is not recommended because it can reduce the vigor of the tree.\n\nWhen pruning the tree, use sharp pruning shears or a pruning saw, and prune back branches to the main stem or other side branches. Care should be taken to avoid leaving a stub, as this can interfere with the natural healing process. After pruning, apply a sealer or dressing to the cut ends of the branches to encourage healing and keep out disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

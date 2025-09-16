@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 635,
+      "species_id": 1197,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia boliviensis BOSSA NOVA RED"
+      ],
+      "section": [
+        {
+          "id": 1903,
+          "type": "watering",
+          "description": "For the Begonia boliviensis BOSSA NOVA RED plant, it is best to water it about once per week with a light sprinkling of water. To keep the soil moist for this particular species, water it until the excess begins to drain from the bottom of the pot. It is important to ensure that the soil does not become soggy as it can encourage root rot. During warmer months, water twice per week. During the cooler months, water less frequently. "
+        },
+        {
+          "id": 1911,
+          "type": "sunlight",
+          "description": "The begonia species called BOSSA NOVA RED requires plenty of sunlight in order to thrive, and should be exposed to direct sunlight for several hours each day. Depending on the season, at least 4 to 5 hours of sun are ideal for this variety. Morning and late afternoon sun is preferable, as midday sun can scorch its leaves. If you cannot provide ample sunlight indoors, consider taking your begonias outdoors during the day and putting them in a semi-shaded area instead of full sun."
+        },
+        {
+          "id": 1919,
+          "type": "pruning",
+          "description": "Begonia boliviensis BOSSA NOVA RED generally should be pruned at least twice annually, once in late spring and once again in early fall. Start by removing any dead, wilted or diseased foliage or stems as they appear throughout the year. Then in early spring, prune off any straggling or overly long stems, as well as any remaining dead tissue, to encourage bushier growth and larger blooms. In early fall, prune off any spent blooms and dead stems, as well as any weak or straggling stems, to encourage stronger growth for the upcoming season. Pruning should be minimal, as too much can weaken or damage the plant, but it should not be neglected as proper pruning is essential for a healthy and vibrant begonia."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

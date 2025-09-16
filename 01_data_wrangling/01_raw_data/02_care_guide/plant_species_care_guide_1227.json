@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2499,
+      "species_id": 1227,
+      "common_name": "English daisy",
+      "scientific_name": [
+        "Bellis perennis"
+      ],
+      "section": [
+        {
+          "id": 7703,
+          "type": "watering",
+          "description": "English daisies need to be planted in well draining soil and prefer full or partial sun. Water them regularly when the top of the soil is dry, usually about once a week. Do not let the soil become soggy, and only water when the soil has had time to dry out some between watering sessions. Water at the base of the plant, avoiding getting the leaves wet. Too much water or overly frequent watering can lead to diseases such as root rot."
+        },
+        {
+          "id": 7704,
+          "type": "sunlight",
+          "description": "English daisy (Bellis perennis) prefers full sun to light shade. Depending on the climate, it generally requires at least 6 hours of direct sunlight per day. In the summer months, the plant can tolerate up to 8 or 9 hours of direct sunlight, while during the winter, 5 or 6 hours of direct sunlight may be enough. It is best to avoid exposure to midday sun in warm climates. This plant is also tolerant of light shade, which can be especially beneficial in climates with hot summer temperatures."
+        },
+        {
+          "id": 7705,
+          "type": "pruning",
+          "description": "English daisy should be pruned in late winter or early spring before the plant starts to produce new growth. Remove dead, faded flowers and trim back foliage to encourage fresh and vigorous new growth. Do not prune off more than 1-third of the total plant height. Deadheading (removing spent flowers) should be done regularly and can be done any time of year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2536,
+      "species_id": 1269,
+      "common_name": "chocolate flower",
+      "scientific_name": [
+        "Berlandiera lyrata"
+      ],
+      "section": [
+        {
+          "id": 7814,
+          "type": "watering",
+          "description": "Chocolate Flower requires an average amount of water and should be watered deeply about once or twice a week when the soil is dry to the touch. In hot and dry climates, it may need to be watered more frequently. During particularly dry or hot spells, increase watering frequency to every 2 or 3 days. Avoid over-watering Chocolate Flower, as it easily develops root rot. It is best to water early in the day and allow the foliage to dry off before sunset to minimize the chance of disease."
+        },
+        {
+          "id": 7815,
+          "type": "sunlight",
+          "description": "Chocolate flower (Berlandiera lyrata) is a perennial plant found in grasslands, dry areas, and open woodlands. This plant typically grows in zones 6 to 9 and prefers full sun. While it can manage with a minimum of 6 to 8 hours of sunlight daily, chocolate flower does best with 8 to 10 hours. It should be in direct sunlight or the sun's rays at an angle. They tend to struggle in shade or partial shade and may not flower as much or at all. Additionally, the chocolate flower should be planted in a location that gets some afternoon shade in the hottest part of the day during the peak of summer. With enough sunlight, chocolate flower will bloom from early spring through early fall."
+        },
+        {
+          "id": 7816,
+          "type": "pruning",
+          "description": "Chocolate flower (Berlandiera lyrata) should be pruned in early spring, before or when new growth emerges. Pruning should be light, removing only the dead, damaged and diseased stems. Cutting back the plant can help to promote bushier growth and cause it to produce more flowers. Generally, it is best to only prune approximately 1-third of the stems, cutting them back to the base. This will help to encourage strong, healthy growth of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

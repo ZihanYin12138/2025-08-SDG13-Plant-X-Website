@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2503,
+      "species_id": 1232,
+      "common_name": "Oregon grape-holly",
+      "scientific_name": [
+        "Berberis aquifolium 'Compacta'"
+      ],
+      "section": [
+        {
+          "id": 7715,
+          "type": "watering",
+          "description": "Oregon grape-holly (Berberis aquifolium 'Compacta') should be watered thoroughly, but infrequently. This species is a drought tolerant plant and is happiest when it can dry out between waterings. It's best to wait until the topsoil is dry to a depth of 1-2 inches before watering. Then water deeply to saturate the soil and then allow the soil to dry out before watering again. Generally, this will be about once every 7-10 days in the hot summer months, and about once every 2-3 weeks in cooler months."
+        },
+        {
+          "id": 7716,
+          "type": "sunlight",
+          "description": "Oregon grape-holly (Berberis aquifolium 'Compacta') should receive full sun to partial shade. It does best in partial sun providing it with 4 to 6 hours of direct sunlight per day. If given too much sun, the leaves may become scorched or burned. If in an area with the sun much of the day, it should be planted in a spot that gets shade in the late afternoon. As an evergreen, Oregon grape-holly is also adept at using reflected light from other plants in its area, so even a slightly shady spot can suffice."
+        },
+        {
+          "id": 7717,
+          "type": "pruning",
+          "description": "Oregon grape-holly should be pruned in the spring before new growth begins. Dead or damaged branches should be pruned away. Pruning a mature shrub will involve removing the oldest, largest branches and cutting off any shoots that have grown awkwardly. Prune to maintain a full, rounded shape. Cut back the branches to just above a dormant bud and, if possible, make the cut just above a lateral branch that is growing in a desirable direction. Avoid pruning too heavily; remove no more than 1-third of the plant's branches each year. When maintained in this manner, Oregon grape-holly should need minimal ongoing pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
