@@ -1,6 +1,20 @@
 // src/api/plants.ts
 import { apiGet } from './http'
 
+/** ===== 通用 Plant 类型（你的现有定义保留） ===== */
+export interface Plant {
+  general_plant_id: string
+  commonName: string
+  scientificName: string
+  family?: string
+  light: 'full-sun' | 'part-sun' | 'shade'
+  waterNeed: 'low' | 'medium' | 'high'
+  tempMinC?: number
+  tempMaxC?: number
+  soil?: Array<'sand' | 'loam' | 'clay' | 'acidic' | 'alkaline'>
+  images?: string[]
+}
+
 /** ===== 列表项（联合类型） ===== */
 export type PlantGeneralCard = {
   id_type: 'general'
@@ -87,35 +101,50 @@ export function ynToBool(v?: string): boolean | undefined {
   return undefined
 }
 
-/**
- * 模糊搜索 + 11 个筛选参数
- * 注意：UI 里如果没有某个字段（例如 rare），就不要传
- */
-export function searchPlants(params: {
+/** ===== 搜索参数类型（导出便于外部复用） ===== */
+export type SearchPlantsFilters = {
+  threatened?: string
+  edible?: string
+  medicinal?: string
+  fruits?: string
+  indoors?: string
+  poisonous?: string
+  flowers?: string
+  sun?: string | string[]
+  watering?: string
+  cycle?: string
+  growth?: string
+}
+
+export type SearchPlantsParams = {
   search?: string
   page?: number
   page_size?: number
-  filters?: {
-    threatened?: string
-    edible?: string
-    medicinal?: string
-    fruits?: string
-    indoors?: string
-    poisonous?: string
-    flowers?: string
-    sun?: string | string[]
-    watering?: string
-    cycle?: string
-    growth?: string
-  }
-}) {
-  const { search, page, page_size, filters } = params || {}
+  filters?: SearchPlantsFilters
+}
+
+/** ===== 搜索：支持 () / ('xxx') / ({ ... }) 三种用法 ===== */
+// 重载声明（必须在实现前）
+export function searchPlants(): Promise<PlantListResp>
+export function searchPlants(search: string): Promise<PlantListResp>
+export function searchPlants(params: SearchPlantsParams): Promise<PlantListResp>
+
+// 单个实现
+export function searchPlants(arg?: string | SearchPlantsParams): Promise<PlantListResp> {
+  // 兼容字符串 / 对象 / 未传参数
+  const params: SearchPlantsParams =
+    typeof arg === 'string' ? { search: arg } : (arg ?? {})
+
+  const { search, page, page_size, filters } = params
 
   const qs: Record<string, any> = {}
+  // 后端要求空搜索也传点内容，这里默认 'a'
   qs.q = search && search.trim() ? search.trim() : 'a'
 
-  if (page_size !== undefined) qs.limit = page_size
-  if (page !== undefined && page_size !== undefined) qs.offset = Math.max(0, (page - 1) * page_size)
+  if (page_size != null) qs.limit = page_size
+  if (page != null && page_size != null) {
+    qs.offset = Math.max(0, (page - 1) * page_size)
+  }
 
   if (filters) {
     const {
@@ -140,7 +169,7 @@ export function searchPlants(params: {
       if_indoors: ynToBool(indoors),
       if_poisonous: ynToBool(poisonous),
       if_flowers: ynToBool(flowers),
-      sun_expose: Array.isArray(sun) ? sun.filter(Boolean).join(',') : sun || undefined,
+      sun_expose: Array.isArray(sun) ? sun.filter(Boolean).join(',') : (sun || undefined),
       watering: watering || undefined,
       plant_cycle: cycle || undefined,
       growth_rate: growth || undefined,
@@ -156,17 +185,17 @@ export function searchPlants(params: {
   return apiGet<PlantListResp>(BASE_URL, qs)
 }
 
-/** 详情：普通植物 */
+/** ===== 详情：普通植物 ===== */
 export function getPlantById(id: number) {
   return apiGet<PlantDetail>(BASE_URL, { general_plant_id: id })
 }
 
-/** 详情：濒危植物 */
+/** ===== 详情：濒危植物 ===== */
 export function getThreatenedById(id: number) {
   return apiGet<PlantDetail>(BASE_URL, { threatened_plant_id: id })
 }
 
-/** 用于卡片的简化类型（修复：原来引用了未定义的 Plant 类型） */
+/** ===== 卡片简化类型与批量获取 ===== */
 export type PlantCardSimple = {
   general_plant_id: number
   common_name: string

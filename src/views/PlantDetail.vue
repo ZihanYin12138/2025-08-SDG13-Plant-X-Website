@@ -26,29 +26,18 @@
           aka: {{ renderOther(plant.other_name) }}
         </p>
 
-        <!-- Facts（兼容 threatened / general） -->
+        <!-- ===== 只显示指定的 8 项（有则显示、无则不渲染） ===== -->
         <div class="facts">
-          <p v-if="plant.plant_cycle">
-            <strong>Cycle:</strong> {{ prettyCycle(plant.plant_cycle) }}
+          <p v-if="cycleText"><strong>Cycle:</strong> {{ cycleText }}</p>
+          <p v-if="wateringSmart"><strong>Watering:</strong> {{ wateringSmart }}</p>
+          <p v-if="hardinessZoneText"><strong>Hardiness Zone:</strong> {{ hardinessZoneText }}</p>
+          <p v-if="sunMergedText"><strong>Sun:</strong> {{ sunMergedText }}</p>
+          <p v-if="leafText"><strong>Leaf:</strong> {{ leafText }}</p>
+          <p v-if="conesText"><strong>Cones:</strong> {{ conesText }}</p>
+          <p v-if="growthText"><strong>Growth Rate:</strong> {{ growthText }}</p>
+          <p v-if="careLevelValue">
+            <strong>{{ careLevelLabel }}:</strong> {{ careLevelValue }}
           </p>
-          <p v-if="conservationStatus">
-            <strong>Status:</strong> {{ conservationStatus }}
-          </p>
-          <p v-if="provenance"><strong>Provenance:</strong> {{ provenance }}</p>
-          <p v-if="weedRating"><strong>Weed Rating:</strong> {{ weedRating }}</p>
-
-          <!-- threatened 时隐藏 Watering / Sun -->
-          <p v-if="!isThreatened && (plant.watering || wateringTitle)">
-            <strong>Watering:</strong> {{ wateringTitle || plant.watering }}
-          </p>
-          <p v-if="!isThreatened && sunText">
-            <strong>Sun:</strong> {{ sunText }}
-          </p>
-
-          <p v-if="plant.growth_rate">
-            <strong>Growth Rate:</strong> {{ prettyGrowth(plant.growth_rate) }}
-          </p>
-          <p v-if="careLevel"><strong>Care Level:</strong> {{ careLevel }}</p>
         </div>
 
         <!-- 简介：优先 threatened.description，然后通用 description -->
@@ -56,10 +45,9 @@
       </div>
     </article>
 
-    <!-- ===== 功能卡片：Watering / Sunlight / Pruning / Conservation ===== -->
+    <!-- ===== 功能卡片（原样保留） ===== -->
     <section v-if="plant" class="cards">
-      <!-- Watering（threatened 时不显示） -->
-      <article class="card" v-if="!isThreatened && (wateringTitle || waterBenchmark || wateringGuide)">
+      <article class="card" v-if="wateringTitle || waterBenchmark || wateringGuide">
         <h3 class="card__title">
           💧 Watering
           <small v-if="wateringTitle">&nbsp;· {{ wateringTitle }}</small>
@@ -68,20 +56,17 @@
         <p v-if="wateringGuide">{{ wateringGuide }}</p>
       </article>
 
-      <!-- Sunlight（threatened 时不显示） -->
-      <article class="card" v-if="!isThreatened && (sunShort || sunlightGuide)">
+      <article class="card" v-if="sunShort || sunlightGuide">
         <h3 class="card__title">☀️ Sunlight <small v-if="sunShort">&nbsp;· {{ sunShort }}</small></h3>
         <p v-if="sunlightGuide">{{ sunlightGuide }}</p>
       </article>
 
-      <!-- Pruning（general 常见；threatened 可能无） -->
       <article class="card" v-if="pruningMonthsText || pruningGuide">
         <h3 class="card__title">✂️ Pruning</h3>
         <p v-if="pruningMonthsText" class="muted">Best Months: {{ pruningMonthsText }}</p>
         <p v-if="pruningGuide">{{ pruningGuide }}</p>
       </article>
 
-      <!-- Conservation（threatened 专属信息） -->
       <article class="card" v-if="conservationAny">
         <h3 class="card__title">🛡️ Conservation</h3>
         <p v-if="conservationStatus"><strong>Status:</strong> {{ conservationStatus }}</p>
@@ -95,7 +80,8 @@
       </article>
     </section>
 
-    <!-- 分布图：后端给了 HTML 直接内嵌 -->
+    <!-- 分布图 -->
+    <h2>Hardiness Map</h2>
     <div v-if="plant?.distribution_map?.distribution_map_html" class="dist">
       <iframe
         class="dist__iframe"
@@ -117,7 +103,6 @@ import { useRoute } from 'vue-router'
 import { getPlantById, getThreatenedById, type PlantDetail } from '@/api/plants'
 import threatenedImg from '@/assets/placeholder.jpg'
 
-/** 轻量 preload 类型（列表卡片传来的可能只有这些字段） */
 type PreloadCard = {
   general_plant_id?: number
   threatened_plant_id?: number
@@ -142,7 +127,6 @@ const loading = ref(true)
 const error = ref('')
 const plant = ref<PlantDetail | null>(null)
 
-/** threatened 与否：优先用 query.type；退而求其次用数据里的 id_type */
 const isThreatened = computed(() => {
   const t = String(route.query.type || '').toLowerCase()
   if (t) return t === 'threatened'
@@ -150,17 +134,15 @@ const isThreatened = computed(() => {
   return idt === 'threatened'
 })
 
-/** preload：从 history.state 或 window.history.state 读取（可能不存在） */
 const preload = ((): PreloadCard | undefined => {
   const s = (route as any).state?.preload ?? (window?.history?.state as any)?.preload
   return s as PreloadCard | undefined
 })()
 
-/** 封面：threatened -> 本地图；否则 详情图 / preload / SVG 占位 */
 const coverUrl = computed(() => {
   if (isThreatened.value) return threatenedImg
   const arr = plant.value?.image_urls
-  if (Array.isArray(arr) && arr.length && arr[0]) return arr[1]
+  if (Array.isArray(arr) && arr.length) return arr[1] || arr[0]
   if (preload?.image_url) return preload.image_url
   return PLACEHOLDER_IMG
 })
@@ -207,14 +189,6 @@ const soilText             = computed(() => {
   return Array.isArray(soil) ? soil.join(', ') : (soil || '')
 })
 
-/** 通用阳光文本：优先 threatened.care_guide.sun → plant.sun_expose */
-const sunText = computed(() => {
-  if (tcare.value?.sun) return tcare.value.sun
-  const raw = plant.value?.sun_expose
-  if (!raw) return ''
-  return Array.isArray(raw) ? raw.join(', ') : raw
-})
-
 /** 描述：优先 threatened.description，然后通用 description */
 const descriptionText = computed(() => {
   if (isThreatened.value) {
@@ -231,21 +205,14 @@ const descriptionText = computed(() => {
   return ''
 })
 
-/** facts：care level 优先 threatened 的 propagation_level */
-const careLevel = computed(() => {
-  const gl = (plant.value as any)?.care_guide?.care_level
-  return tcare.value?.propagation_level || gl || ''
-})
-
-/* —— 三大板块数据（仅 general 使用 Watering/Sunlight） —— */
+/* —— 三大板块（保留） —— */
 const cg = computed(() => (plant.value as any)?.care_guide || {})
 const wateringTitle   = computed(() =>
   plant.value?.watering || cg.value?.watering || (cultivationNote.value ? 'See note' : '')
 )
 const waterBenchmark  = computed(() => cg.value?.watering_general_benchmark || '')
 const wateringGuide   = computed(() => cg.value?.watering_guide || '')
-
-const sunShort = computed(() => {
+const sunShort        = computed(() => {
   const arr = cg.value?.sunlight
   if (Array.isArray(arr) && arr.length) return arr.join(', ')
   if (tcare.value?.sun) return tcare.value.sun
@@ -258,11 +225,70 @@ const pruningMonthsText = computed(() => {
 })
 const pruningGuide    = computed(() => cg.value?.pruning_guide || '')
 
-/** Conservation 卡片是否有任何内容可展示 */
-const conservationAny = computed(() =>
-  Boolean(conservationStatus.value || provenance.value || weedRating.value ||
-          localBenefits.value || hortPotential.value || propagationMethods.value ||
-          propagationLevel.value || cultivationNote.value || soilText.value)
+/* ===========================
+ *  只为 Facts 的 8 项计算
+ * =========================== */
+
+/** Hardiness Zone：从 distribution_map_html 中解析 USDA min/max */
+const hardinessZoneText = computed(() => {
+  const html = plant.value?.distribution_map?.distribution_map_html || ''
+  const m = html.match(/"zone"[\s\S]*?"min"\s*:\s*(\d+)[\s\S]*?"max"\s*:\s*(\d+)/)
+  if (m) {
+    const min = Number(m[1]), max = Number(m[2])
+    if (min && max) return min === max ? `USDA ${min}` : `USDA ${min}–${max}`
+  }
+  return ''
+})
+
+/** Cycle / Growth Rate */
+const cycleText  = computed(() =>
+  prettyCycle(plant.value?.plant_cycle || (plant.value as any)?.description?.plant_cycle)
+)
+const growthText = computed(() =>
+  prettyGrowth(plant.value?.growth_rate || (plant.value as any)?.care_guide?.growth_rate)
+)
+
+/** Sun：threatened.care_guide.sun > care_guide.sunlight > sun_expose（去重） */
+const sunMergedText = computed(() => {
+  const vals: string[] = []
+  const push = (x: any) => {
+    if (!x) return
+    if (Array.isArray(x)) vals.push(...x.map(String))
+    else vals.push(String(x))
+  }
+  push((plant.value as any)?.threatened?.care_guide?.sun)
+  push((plant.value as any)?.care_guide?.sunlight)
+  push((plant.value as any)?.sun_expose)
+  return Array.from(new Set(vals.map(s => s.trim()).filter(Boolean))).join(', ')
+})
+
+/** Watering：顶层 > care_guide > （有说明则提示 See note） */
+const wateringSmart = computed(() => {
+  const top = plant.value?.watering
+  const cgWater = (plant.value as any)?.care_guide?.watering
+  const note = (plant.value as any)?.threatened?.care_guide?.cultivation_note
+            || (plant.value as any)?.care_guide?.watering_guide
+  return top || cgWater || (note ? 'See note' : '')
+})
+
+/** Leaf / Cones（threatened.description 优先，否则 description） */
+const joinList = (v: any): string =>
+  Array.isArray(v) ? v.filter(Boolean).join(', ') : (v ?? '').toString()
+const leafText  = computed(() =>
+  joinList((plant.value as any)?.threatened?.description?.leaf ?? (plant.value as any)?.description?.leaf)
+)
+const conesText = computed(() =>
+  joinList((plant.value as any)?.threatened?.description?.cones ?? (plant.value as any)?.description?.cones)
+)
+
+/** Care Level（threatened 优先用 propagation_level，label 也切换） */
+const careLevelValue = computed(() =>
+  (plant.value as any)?.threatened?.care_guide?.propagation_level
+  || (plant.value as any)?.care_guide?.care_level
+  || ''
+)
+const careLevelLabel = computed(() =>
+  (plant.value as any)?.threatened?.care_guide?.propagation_level ? 'Propagation Level' : 'Care Level'
 )
 
 /* -------------------------
@@ -321,13 +347,13 @@ onMounted(async () => {
 @media (max-width:900px){ .detail{ grid-template-columns:1fr } }
 .media img{
   width:100%; border-radius:12px; object-fit:cover;
-  background: var(--surface); /* 无图时也不突兀 */
+  background: var(--surface);
 }
 .title{ margin:.25rem 0 }
 .latin{ color:var(--muted); font-style:italic }
 .aka{ color:var(--muted); margin:.25rem 0 }
 
-/* Facts 卡片（用主题变量） */
+/* Facts 卡片 */
 .facts{
   display:grid; grid-template-columns: 1fr 1fr;
   gap:.5rem 1.25rem;

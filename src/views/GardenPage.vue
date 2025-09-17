@@ -5,12 +5,15 @@
     <p class="lead">
       Tools and tips for climate-adaptive home gardening — sunlight, soil, watering, composting, and more.
     </p>
-    <p>
-      Plant recognization though + button at right side of search Box. Size of Image upload can not larger than 3MB.
-    </p>
   </section>
 
   <section class="container">
+    <h2>
+      Plant search and recognization
+    </h2>
+    <p>
+      Plant recognization though + button at right side of search Box. Size of Image upload can not larger than 3MB.
+    </p>
     <!-- 搜索栏 -->
     <div class="searchbar">
       <div class="searchbar__box">
@@ -111,6 +114,7 @@
 
         <div class="modal__body">
           <div class="grid-2">
+            <!-- Threatened 开关 -->
             <div class="field">
               <label>Threatened Plants</label>
               <div class="radios">
@@ -130,100 +134,108 @@
                     v-model="filters.threatened"
                     @click="toggleRadio('threatened','no')"
                   >
-                  No, I want to see general plants !
+                  No, I want to see all general plants !
                 </label>
               </div>
             </div>
 
-            <div class="field"></div>
+            <!-- 第二列：在选择 threatened 时给出提示；否则留空位保持布局 -->
+            <div class="field" v-if="threatenedOn">
+              <label>&nbsp;</label>
+              <p class="muted">Showing threatened plants only</p>
+            </div>
+            <div class="field" v-else></div>
 
-            <div class="field">
-              <label>Edible</label>
-              <div class="radios">
-                <label><input type="radio" value="yes" v-model="filters.edible"    @click="toggleRadio('edible','yes')"    :disabled="threatenedOn"> Yes</label>
-                <label><input type="radio" value="no"  v-model="filters.edible"    @click="toggleRadio('edible','no')"     :disabled="threatenedOn"> No</label>
+            <!-- 其余筛选：仅在非 threatened 时显示 -->
+            <template v-if="!threatenedOn">
+              <div class="field">
+                <label>Edible</label>
+                <div class="radios">
+                  <label><input type="radio" value="yes" v-model="filters.edible"    @click="toggleRadio('edible','yes')"> Yes</label>
+                  <label><input type="radio" value="no"  v-model="filters.edible"    @click="toggleRadio('edible','no')">  No</label>
+                </div>
               </div>
-            </div>
 
-            <div class="field">
-              <label>Medicinal</label>
-              <div class="radios">
-                <label><input type="radio" value="yes" v-model="filters.medicinal" @click="toggleRadio('medicinal','yes')" :disabled="threatenedOn"> Yes</label>
-                <label><input type="radio" value="no"  v-model="filters.medicinal" @click="toggleRadio('medicinal','no')"  :disabled="threatenedOn"> No</label>
+              <div class="field">
+                <label>Medicinal</label>
+                <div class="radios">
+                  <label><input type="radio" value="yes" v-model="filters.medicinal" @click="toggleRadio('medicinal','yes')"> Yes</label>
+                  <label><input type="radio" value="no"  v-model="filters.medicinal" @click="toggleRadio('medicinal','no')">  No</label>
+                </div>
               </div>
-            </div>
 
-            <div class="field">
-              <label>Fruits</label>
-              <div class="radios">
-                <label><input type="radio" value="yes" v-model="filters.fruits"    @click="toggleRadio('fruits','yes')"    :disabled="threatenedOn"> Yes</label>
-                <label><input type="radio" value="no"  v-model="filters.fruits"    @click="toggleRadio('fruits','no')"     :disabled="threatenedOn"> No</label>
+              <div class="field">
+                <label>Fruits</label>
+                <div class="radios">
+                  <label><input type="radio" value="yes" v-model="filters.fruits"    @click="toggleRadio('fruits','yes')"> Yes</label>
+                  <label><input type="radio" value="no"  v-model="filters.fruits"    @click="toggleRadio('fruits','no')">  No</label>
+                </div>
               </div>
-            </div>
 
-            <div class="field">
-              <label>Indoors</label>
-              <div class="radios">
-                <label><input type="radio" value="yes" v-model="filters.indoors"   @click="toggleRadio('indoors','yes')"   :disabled="threatenedOn"> Yes</label>
-                <label><input type="radio" value="no"  v-model="filters.indoors"   @click="toggleRadio('indoors','no')"    :disabled="threatenedOn"> No</label>
+              <div class="field">
+                <label>Indoors</label>
+                <div class="radios">
+                  <label><input type="radio" value="yes" v-model="filters.indoors"   @click="toggleRadio('indoors','yes')"> Yes</label>
+                  <label><input type="radio" value="no"  v-model="filters.indoors"   @click="toggleRadio('indoors','no')">  No</label>
+                </div>
               </div>
-            </div>
 
-            <div class="field">
-              <label>Flowers</label>
-              <div class="radios">
-                <label><input type="radio" value="yes" v-model="filters.flowers"   @click="toggleRadio('flowers','yes')"   :disabled="threatenedOn"> Yes</label>
-                <label><input type="radio" value="no"  v-model="filters.flowers"   @click="toggleRadio('flowers','no')"    :disabled="threatenedOn"> No</label>
+              <div class="field">
+                <label>Flowers</label>
+                <div class="radios">
+                  <label><input type="radio" value="yes" v-model="filters.flowers"   @click="toggleRadio('flowers','yes')"> Yes</label>
+                  <label><input type="radio" value="no"  v-model="filters.flowers"   @click="toggleRadio('flowers','no')">  No</label>
+                </div>
               </div>
-            </div>
 
-            <div class="field">
-              <label>Poisonous</label>
-              <div class="radios">
-                <label><input type="radio" value="yes" v-model="filters.poisonous" @click="toggleRadio('poisonous','yes')" :disabled="threatenedOn"> Yes</label>
-                <label><input type="radio" value="no"  v-model="filters.poisonous" @click="toggleRadio('poisonous','no')"  :disabled="threatenedOn"> No</label>
+              <div class="field">
+                <label>Poisonous</label>
+                <div class="radios">
+                  <label><input type="radio" value="yes" v-model="filters.poisonous" @click="toggleRadio('poisonous','yes')"> Yes</label>
+                  <label><input type="radio" value="no"  v-model="filters.poisonous" @click="toggleRadio('poisonous','no')">  No</label>
+                </div>
               </div>
-            </div>
 
-            <div class="field">
-              <label>Sun Exposure</label>
-              <select class="select" v-model="filters.sun" :disabled="threatenedOn">
-                <option value="">Choose</option>
-                <option value="full shade">Full Shade</option>
-                <option value="part shade">Part Shade</option>
-                <option value="full sun">Full Sun</option>
-              </select>
-            </div>
+              <div class="field">
+                <label>Sun Exposure</label>
+                <select class="select" v-model="filters.sun">
+                  <option value="">Choose</option>
+                  <option value="full shade">Full Shade</option>
+                  <option value="part shade">Part Shade</option>
+                  <option value="full sun">Full Sun</option>
+                </select>
+              </div>
 
-            <div class="field">
-              <label>Watering</label>
-              <select class="select" v-model="filters.watering" :disabled="threatenedOn">
-                <option value="">Choose</option>
-                <option value="frequent">Frequent</option>
-                <option value="average">Average</option>
-                <option value="minimal">Minimal</option>
-              </select>
-            </div>
+              <div class="field">
+                <label>Watering</label>
+                <select class="select" v-model="filters.watering">
+                  <option value="">Choose</option>
+                  <option value="frequent">Frequent</option>
+                  <option value="average">Average</option>
+                  <option value="minimal">Minimal</option>
+                </select>
+              </div>
 
-            <div class="field">
-              <label>Plant Cycle</label>
-              <select class="select" v-model="filters.cycle" :disabled="threatenedOn">
-                <option value="">Select</option>
-                <option value="annual">Annual</option>
-                <option value="perennial">Perennial</option>
-                <option value="biennial">Biennial</option>
-              </select>
-            </div>
+              <div class="field">
+                <label>Plant Cycle</label>
+                <select class="select" v-model="filters.cycle">
+                  <option value="">Select</option>
+                  <option value="annual">Annual</option>
+                  <option value="perennial">Perennial</option>
+                  <option value="biennial">Biennial</option>
+                </select>
+              </div>
 
-            <div class="field">
-              <label>Growth Rate</label>
-              <select class="select" v-model="filters.growth" :disabled="threatenedOn">
-                <option value="">Choose</option>
-                <option value="slow">Slow</option>
-                <option value="moderate">Moderate</option>
-                <option value="fast">Fast</option>
-              </select>
-            </div>
+              <div class="field">
+                <label>Growth Rate</label>
+                <select class="select" v-model="filters.growth">
+                  <option value="">Choose</option>
+                  <option value="slow">Slow</option>
+                  <option value="moderate">Moderate</option>
+                  <option value="fast">Fast</option>
+                </select>
+              </div>
+            </template>
           </div>
         </div>
 
@@ -235,6 +247,7 @@
         </div>
       </div>
     </div>
+
   </section>
 
   <!-- 列表 + 统计 + 分页 -->
@@ -275,6 +288,22 @@
       </div>
     </div>
   </section>
+
+  <hr class="divider-red" aria-hidden="true" />
+
+  <section>
+    <div class="card">
+      <h2>
+        Plant Disease search and recognization
+      </h2>
+      <p></p>
+      <div>
+
+      </div>
+    </div>
+  </section>
+
+
 </template>
 
 <script setup lang="ts">
@@ -286,7 +315,7 @@ import {
   type PlantCardItem
 } from '@/api/plants'
 import PlantCard from '@/components/PlantCard.vue'
-import PlantCardSkeleton from '@/components/PlantCardSkeleton.vue'
+import PlantCardSkeleton from '@/components/CardSkeleton.vue'
 import { uploadImage, predictByS3Key } from '@/api/uploads'
 
 /** 固定 8 条每页 & 上传限制 */
@@ -773,4 +802,13 @@ onMounted(() => { goToPage(1); load() })
   border-color: color-mix(in oklab, var(--fg) 20%, var(--bg) 80%);
 }
 
+
+
+
+.divider-red {
+  border: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #ff3b3b, #ff9a3b);
+  margin: 0;
+}
 </style>

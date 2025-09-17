@@ -1,3 +1,4 @@
+import { name } from '@vue/eslint-config-prettier/skip-formatting';
 import { createRouter, createWebHistory } from 'vue-router'
 
 
@@ -27,30 +28,6 @@ const routes = [
     meta: { title: "Community · Plant'X" }
   },
   {
-    path: '/learnmore',
-    name: 'LearnMore',
-    component: () => import('../views/LearnMore.vue'),
-    meta: { title: "Learn More · Plant'X" }
-  },
-  {
-    path: '/lmone',
-    name: 'LmOne',
-    component: () => import('../views/LmOne.vue'),
-    meta: { title: "Lm One · Plant'X" }
-  },
-  {
-    path: '/lmtwo',
-    name: 'LmTwo',
-    component: () => import('../views/LmTwo.vue'),
-    meta: { title: "Lm Two · Plant'X" }
-  },
-  {
-    path: '/lmthree',
-    name: 'LmThree',
-    component: () => import('../views/LmThree.vue'),
-    meta: { title: "Lm Three · Plant'X" }
-  },
-  {
     path: '/allplants',
     name: 'AllPlants',
     component: () => import('../views/AllPlants.vue'),
@@ -60,8 +37,14 @@ const routes = [
     path: '/plants/:id',
     name: 'PlantDetail',
     component: () => import('@/views/PlantDetail.vue'),
-    props: true, 
+    props: true,
     meta: { title: "Plant Detail · Plant'X" },
+  },
+  {
+    path: '/disease/:id',
+    name: 'DiseaseDetail',
+    component: () => import('../views/DiseaseDetail.vue'),
+    meta: { title: "Disease Detail · Plant'X"}
   },
 ];
 
@@ -77,8 +60,8 @@ const router = createRouter({
   }
 })
 
-router.afterEach((to)=>{ 
-  document.title = to.meta?.title || "Plant'X" 
+router.afterEach((to)=>{
+  document.title = to.meta?.title || "Plant'X"
 })
 
 export default router
