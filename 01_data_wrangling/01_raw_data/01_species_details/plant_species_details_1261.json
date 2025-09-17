@@ -1,0 +1,143 @@
+{
+  "id": 1261,
+  "common_name": "pigsqueak",
+  "scientific_name": [
+    "Bergenia cordifolia 'Winterglut' WINTER GLOW"
+  ],
+  "other_name": [],
+  "family": "Saxifragaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Winterglut",
+  "variety": null,
+  "species_epithet": "cordifolia",
+  "genus": "Bergenia",
+  "origin": [
+    "Germany",
+    "Austria",
+    "Czech Republic",
+    "Poland",
+    "Slovakia",
+    "Hungary",
+    "Romania",
+    "Ukraine",
+    "Belarus",
+    "Russia",
+    "Kazakhstan",
+    "Mongolia",
+    "China"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Layering Propagation",
+    "Cutting",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1261&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1261&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "dark-pink"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "pink"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "December",
+    "January",
+    "February",
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1261&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Pigsqueak, also known as Bergenia cordifolia 'Winterglut' WINTER GLOW, is a stunningly beautiful perennial plant with evergreen, heart-shaped leaves which stay vibrant and colorful even in winter. The opulent red stems, purple and green leaves, and pink flowers make it a sight to behold and will light up your landscape. It is hardy plant, tolerating both heat and cold, and is drought tolerant. This plant is also quite deer resistant, and can be used as a groundcover or in containers. Pigsqueak's low maintenance and easy care makes it a great choice for any home garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1261_bergenia_cordifolia_winterglut_winter_glow/og/34142635135_905ab8b02b_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1261_bergenia_cordifolia_winterglut_winter_glow/regular/34142635135_905ab8b02b_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1261_bergenia_cordifolia_winterglut_winter_glow/medium/34142635135_905ab8b02b_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1261_bergenia_cordifolia_winterglut_winter_glow/small/34142635135_905ab8b02b_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1261_bergenia_cordifolia_winterglut_winter_glow/thumbnail/34142635135_905ab8b02b_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

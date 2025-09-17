@@ -1,0 +1,104 @@
+{
+  "id": 1223,
+  "common_name": "hybrid tuberous begonia",
+  "scientific_name": [
+    "Begonia tuberhybrida 'Jurassic Pink Splash'"
+  ],
+  "other_name": [],
+  "family": "Begoniaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Jurassic Pink Splash",
+  "variety": null,
+  "species_epithet": "tuberhybrida",
+  "genus": "Begonia",
+  "origin": [
+    "China"
+  ],
+  "type": "Begonia",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1.25,
+      "max_value": 1.75,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Stem Propagation",
+    "Leaf Cutting",
+    "Seed Propagation",
+    "Air Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "10",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1223&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1223&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "part shade"
+  ],
+  "pruning_month": [
+    "August"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1223&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": true,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The hybrid tuberous begonia (Begonia tuberhybrida 'Jurassic Pink Splash') is an amazing garden specimen that blooms heavily in shades of pink and white. Its frilly and vibrant blooms add a tropical aesthetic to any space. The powerhouse of a plant can grace any garden all season long with its clusters of flowers, and is relatively easy to care for. It flourishes in partial sun to shady conditions and only requires minimal watering, making it an efficient use of resources for any home gardener. With its colorful and long-lasting blooms, this begonia is sure to be a star in your garden!",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1223_begonia_tuberhybrida_jurassic_pink_splash/og/22656824786_be81bc2887_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1223_begonia_tuberhybrida_jurassic_pink_splash/regular/22656824786_be81bc2887_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1223_begonia_tuberhybrida_jurassic_pink_splash/medium/22656824786_be81bc2887_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1223_begonia_tuberhybrida_jurassic_pink_splash/small/22656824786_be81bc2887_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1223_begonia_tuberhybrida_jurassic_pink_splash/thumbnail/22656824786_be81bc2887_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

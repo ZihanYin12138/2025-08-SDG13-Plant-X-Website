@@ -1,0 +1,141 @@
+{
+  "id": 1189,
+  "common_name": "Ceylon spinach",
+  "scientific_name": [
+    "Basella rubra 'Red Stem'"
+  ],
+  "other_name": [],
+  "family": "Basellaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Red Stem",
+  "variety": null,
+  "species_epithet": "rubra",
+  "genus": "Basella",
+  "origin": [
+    "India",
+    "Sri Lanka",
+    "Bangladesh",
+    "Nepal",
+    "Myanmar",
+    "Thailand",
+    "China",
+    "Indonesia",
+    "Malaysia"
+  ],
+  "type": "Vine",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Division",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "",
+    "max": ""
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1189&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1189&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stalk",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "blooms",
+      "color": [
+        "pink-white-green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "May"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1189&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": true,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Ceylon spinach (Basella rubra 'Red Stem') is an amazing plant species that's both delicious and packed with nutritional value. This leafy green vegetable is an adaptable and easy-to-grow perennial with glossy dark green or purple-tinged leaves and striking red-violet stems. It’s highly tolerant to heat and drought, making it an ideal choice for warm climates. It's also highly nutritious, containing vitamins A, B, and C, iron, calcium, and magnesium. Its mild, earthy flavor makes it the perfect addition to stews, stir-fry dishes, or fresh salads. This remarkable species is both stunning and delicious, earning it a place in many gardeners' hearts.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1189_basella_rubra_red_stem/og/24603734219_d4ea98b0cc_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1189_basella_rubra_red_stem/regular/24603734219_d4ea98b0cc_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1189_basella_rubra_red_stem/medium/24603734219_d4ea98b0cc_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1189_basella_rubra_red_stem/small/24603734219_d4ea98b0cc_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1189_basella_rubra_red_stem/thumbnail/24603734219_d4ea98b0cc_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
