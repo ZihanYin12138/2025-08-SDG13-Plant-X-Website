@@ -1,0 +1,120 @@
+{
+  "id": 1289,
+  "common_name": "silver birch",
+  "scientific_name": [
+    "Betula pendula MAGICAL GLOBE"
+  ],
+  "other_name": [
+    "silver birch",
+    "European White Birch"
+  ],
+  "family": "Betulaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "pendula",
+  "genus": "Betula",
+  "origin": [
+    "Europe",
+    "Asia"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 30,
+      "max_value": 40,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Greenwood Cuttings"
+  ],
+  "hardiness": {
+    "min": "2",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1289&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1289&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "High",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1289&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Anthracnose",
+    " Beetles",
+    "weevils",
+    " Fungal leaf spot",
+    " Leaf miner insect",
+    " Rust",
+    " Stem borer insects",
+    " Virus",
+    " Wood deformity",
+    "  Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Silver birch (Betula pendula Magical Globe) is an amazing species of tree with a unique and magical appearance. As its name suggests, the trunk is coated in a distinctive silvery-white bark that shimmers in the sunlight. The lush, deep green leaves of the silver birch give way to vibrant yellow-orange hues in autumn, creating breathtaking views. This long-living species can grow over 50 feet tall with a spread of up to 35 feet, and is incredibly hardy. What's more, it responds well to pruning, so it can make a great addition to any garden. For an even more remarkable effect, consider planting several trees in a grove. Silver birch (Betula pendula Magical Globe) is sure to add a touch of whimsy and beauty to any landscape.",
+  "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/1289_betula_pendula_magical_globe/og/birch-grove-forest-spring.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1289_betula_pendula_magical_globe/regular/birch-grove-forest-spring.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1289_betula_pendula_magical_globe/medium/birch-grove-forest-spring.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1289_betula_pendula_magical_globe/small/birch-grove-forest-spring.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1289_betula_pendula_magical_globe/thumbnail/birch-grove-forest-spring.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

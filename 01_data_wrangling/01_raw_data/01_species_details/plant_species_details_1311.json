@@ -1,0 +1,105 @@
+{
+  "id": 1311,
+  "common_name": "blue grama",
+  "scientific_name": [
+    "Bouteloua gracilis 'Blonde Ambition'"
+  ],
+  "other_name": [],
+  "family": "Poaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Blonde Ambition",
+  "variety": null,
+  "species_epithet": "gracilis",
+  "genus": "Bouteloua",
+  "origin": [
+    "United States"
+  ],
+  "type": "Ornamental grass",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.75,
+      "max_value": 2.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Division",
+    "Cutting",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1311&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1311&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1311&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Low",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Blue Grama (Bouteloua gracilis 'Blonde Ambition') is an amazing species due to its many qualities. It is Native to the plains of North America, it can handle extreme weather conditions from very cold to hot dry conditions. It is drought tolerant, grows quickly and provides excellent wildlife habitat. Its bright, silvery-green foliage is beautiful and adds texture to the landscape. Its showy flowers come in a range of shades from muted purples to glistening blues and its perfect for pollinators like butterflies and bees. This plant is a great choice for anyone looking for a low-maintenance ground cover that can bring beauty and life to any garden.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1311_bouteloua_gracilis_blonde_ambition/og/Bouteloua_gracilis_27Blonde_Ambition27_kz1.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1311_bouteloua_gracilis_blonde_ambition/regular/Bouteloua_gracilis_27Blonde_Ambition27_kz1.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1311_bouteloua_gracilis_blonde_ambition/medium/Bouteloua_gracilis_27Blonde_Ambition27_kz1.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1311_bouteloua_gracilis_blonde_ambition/small/Bouteloua_gracilis_27Blonde_Ambition27_kz1.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1311_bouteloua_gracilis_blonde_ambition/thumbnail/Bouteloua_gracilis_27Blonde_Ambition27_kz1.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

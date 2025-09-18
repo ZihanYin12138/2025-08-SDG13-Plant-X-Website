@@ -1,0 +1,110 @@
+{
+  "id": 1325,
+  "common_name": "Brussels sprouts",
+  "scientific_name": [
+    "Brassica oleracea (Gemmifera Group)"
+  ],
+  "other_name": [],
+  "family": "Brassicaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "oleracea",
+  "genus": "Brassica",
+  "origin": [
+    "Belgium",
+    "Netherlands",
+    "France",
+    "Germany",
+    "United Kingdom"
+  ],
+  "type": "Vegetable",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Annual",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Division",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "2",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1325&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1325&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"1-1\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1325&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Brussels sprouts (Brassica oleracea (Gemmifera Group)) are an amazing vegetable that pack a nutritious punch! They are high in dietary fiber, as well as vitamins C, K, and A. Brussels sprouts also contain certain phytonutrients that act as antioxidants, protecting the body from free radical damage. They have a unique flavor that can be a delicious addition to any dish or made as a side dish all on its own. Plus, they are easy to grow, making it a great crop for both experienced and novice gardeners alike. With its delicious flavor and powerful nutrition, Brussels sprouts are a great choice to add to any meal.",
+  "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/1325_brassica_oleracea_gemmifera_group/og/brussels-sprouts-vegetables-brussels-carbon-sprouts-cabbage.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1325_brassica_oleracea_gemmifera_group/regular/brussels-sprouts-vegetables-brussels-carbon-sprouts-cabbage.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1325_brassica_oleracea_gemmifera_group/medium/brussels-sprouts-vegetables-brussels-carbon-sprouts-cabbage.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1325_brassica_oleracea_gemmifera_group/small/brussels-sprouts-vegetables-brussels-carbon-sprouts-cabbage.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1325_brassica_oleracea_gemmifera_group/thumbnail/brussels-sprouts-vegetables-brussels-carbon-sprouts-cabbage.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

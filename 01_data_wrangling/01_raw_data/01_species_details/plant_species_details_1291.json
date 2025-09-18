@@ -1,0 +1,125 @@
+{
+  "id": 1291,
+  "common_name": "Japanese white birch",
+  "scientific_name": [
+    "Betula platyphylla 'Fargo' DAKOTA PINNACLE"
+  ],
+  "other_name": [],
+  "family": "Betulaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Fargo",
+  "variety": null,
+  "species_epithet": "platyphylla",
+  "genus": "Betula",
+  "origin": [
+    "Japan",
+    "United States"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 30,
+      "max_value": 40,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1291&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1291&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "bark",
+      "color": [
+        "white"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1291&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Japanese White Birch (Betula Platyphylla 'Fargo' Dakota Pinnacle) is a stunning tree species with a unique beauty that makes it stand out in any landscape design. Its white bark and bright green foliage contrast brilliantly against any background and can be a great focal point in a garden or outdoor area. It's low maintenance with a fast growth rate and its adaptability to various soil types make it one of the best birch trees used in landscaping. This species also tolerates various weather conditions, making it a great choice for colder climates. Its remarkable structure creates a beautiful silhouette that can be enjoyed all year round. This versatile tree makes a great addition to any outdoor space.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1291_betula_platyphylla_fargo_dakota_pinnacle/og/51331524326_dd8a397b17_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1291_betula_platyphylla_fargo_dakota_pinnacle/regular/51331524326_dd8a397b17_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1291_betula_platyphylla_fargo_dakota_pinnacle/medium/51331524326_dd8a397b17_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1291_betula_platyphylla_fargo_dakota_pinnacle/small/51331524326_dd8a397b17_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1291_betula_platyphylla_fargo_dakota_pinnacle/thumbnail/51331524326_dd8a397b17_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

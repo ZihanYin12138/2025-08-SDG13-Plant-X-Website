@@ -1,0 +1,123 @@
+{
+  "id": 1293,
+  "common_name": "Himalayan birch",
+  "scientific_name": [
+    "Betula utilis var. jacquemontii"
+  ],
+  "other_name": [],
+  "family": "Betulaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": "var. jacquemontii",
+  "species_epithet": "utilis",
+  "genus": "Betula",
+  "origin": [
+    "West Himalaya",
+    "Nepal"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 30,
+      "max_value": 40,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1293&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1293&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "June",
+    "July",
+    "May",
+    "June",
+    "July",
+    "December",
+    "January",
+    "February"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "High",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1293&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Beetles",
+    "weevils",
+    " Dieback",
+    " Stem borer insects",
+    "  Disease resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Himalayan birch (Betula utilis var. jacquemontii) is a unique and majestic species of birch tree native to the Himalayan region. Its distinctive, light-colored bark sets it apart from other birch trees, and its powdery white color perfectly complements its dark green leaves. In addition to its beauty, Himalayan birch is highly prized for its resilient, hard wood which is ideal for use in furniture and wooden sculptures. Its durability makes it a perfect choice for those looking for wood that will stand the test of time. Overall, the gorgeous, snow-white bark and strong wood of the Himalayan birch make it an excellent choice for any tree enthusiast looking to add a touch of elegance to their garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1293_betula_utilis_var_jacquemontii/og/9020914937_f8664866cf_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1293_betula_utilis_var_jacquemontii/regular/9020914937_f8664866cf_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1293_betula_utilis_var_jacquemontii/medium/9020914937_f8664866cf_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1293_betula_utilis_var_jacquemontii/small/9020914937_f8664866cf_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1293_betula_utilis_var_jacquemontii/thumbnail/9020914937_f8664866cf_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

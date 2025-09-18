@@ -1,0 +1,104 @@
+{
+  "id": 1345,
+  "common_name": "brugmansia",
+  "scientific_name": [
+    "Brugmansia 'Pink Perfume'"
+  ],
+  "other_name": [],
+  "family": "Solanaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Pink Perfume",
+  "variety": null,
+  "species_epithet": "'Pink",
+  "genus": "Brugmansia",
+  "origin": [
+    "South America"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 4,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Grafting Propagation",
+    "Air Layering Propagation",
+    "Cutting",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "8",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1345&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1345&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "High",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1345&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": true,
+  "poisonous_to_pets": true,
+  "description": "Brugmansia 'Pink Perfume' is an amazing plant species. The vibrant and delicate pink blooms will instantly create a showstopping focal point in your garden. Unlike many other flowers, Brugmansia 'Pink Perfume' blooms in autumn and releases an aroma which is sheer heavenly. The cascading trumpet-shaped flowers drape from the arching branches, creating an exquisite statement piece. Plant in a sunny spot in well-drained soil for a magnificent display that will be sure to bring your garden to life.",
+  "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/1345_brugmansia_pink_perfume/og/angel-trumpet-pink-toxic-flowers.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1345_brugmansia_pink_perfume/regular/angel-trumpet-pink-toxic-flowers.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1345_brugmansia_pink_perfume/medium/angel-trumpet-pink-toxic-flowers.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1345_brugmansia_pink_perfume/small/angel-trumpet-pink-toxic-flowers.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1345_brugmansia_pink_perfume/thumbnail/angel-trumpet-pink-toxic-flowers.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,116 @@
+{
+  "id": 1377,
+  "common_name": "butterfly bush",
+  "scientific_name": [
+    "Buddleja davidii 'Nanho Purple'"
+  ],
+  "other_name": [],
+  "family": "Scrophulariaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Nanho Purple",
+  "variety": null,
+  "species_epithet": "davidii",
+  "genus": "Buddleja",
+  "origin": [
+    "China",
+    "Japan"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 6,
+      "max_value": 12,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Hummingbirds",
+    " Butterflies"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Greenwood Cuttings",
+    "Hardwood Cuttings",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1377&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1377&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1377&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Dieback",
+    " Fungal leaf spot",
+    " Mites",
+    "  Deer resistant",
+    " Rabbit resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Butterfly bush (Buddleja davidii 'Nanho Purple') is an amazing plant for the garden! With strong, upright branches clothed with profuse blooms, it boasts an attractive deep violet-purple flower clusters throughout the summer. It's sturdy, tireless and tolerant of numerous conditions, making it ideal for gardeners of all levels. The blooms of butterfly bush 'Nanho Purple' have a unique spicy fragrance and are a great nectar source for butterflies and bees. Plus, it is easy to care for since it is drought-tolerant and deer-resistant. Butterfly bush 'Nanho Purple' is truly a gardener's delight!",
+  "default_image": {
+    "license": 6,
+    "license_name": "Attribution-NoDerivs License",
+    "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1377_buddleja_davidii_nanho_purple/og/52266910616_ec95a8c4bb_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

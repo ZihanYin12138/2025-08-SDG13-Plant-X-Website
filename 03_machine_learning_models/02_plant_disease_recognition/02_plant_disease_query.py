@@ -1,3 +1,6 @@
+# .py version of 02_plant_disease_query.ipynb
+# Name: Zihan
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # Description: Plant disease classification inference script.

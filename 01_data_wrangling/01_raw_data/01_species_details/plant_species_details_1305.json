@@ -1,0 +1,148 @@
+{
+  "id": 1305,
+  "common_name": "false chamomile",
+  "scientific_name": [
+    "Boltonia asteroides var. latisquama"
+  ],
+  "other_name": [
+    "Snowbank aster",
+    "White Doll's Daisy"
+  ],
+  "family": "Asteraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": "var. latisquama",
+  "species_epithet": "asteroides",
+  "genus": "Boltonia",
+  "origin": [
+    "Eastern United States"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 5,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1305&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1305&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "purple"
+      ]
+    },
+    {
+      "part": "stamens",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Partial Shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "March",
+    "April",
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1305&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Anthracnose",
+    " Fungal leaf spot",
+    " Mildew",
+    " Rust",
+    "  Pest resistant",
+    " Deer resistant",
+    " Rabbit resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "False chamomile, also known as Boltonia asteroides var. latisquama, is an amazing plant species that is both attractive and beneficial to the environment. It produces pink and white flowers in the summer that fill gardens with beauty and attract pollinators. Its deep root system improves soil conditions and texture, and helps to reduce erosion as well as provide a habitat for beneficial insects. Best of all, false chamomile is easy to care for, growing in many different climates and soil types – it will thrive with minimal effort.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1305_boltonia_asteroides_var_latisquama/og/19783967908_b7f81b2f69_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1305_boltonia_asteroides_var_latisquama/regular/19783967908_b7f81b2f69_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1305_boltonia_asteroides_var_latisquama/medium/19783967908_b7f81b2f69_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1305_boltonia_asteroides_var_latisquama/small/19783967908_b7f81b2f69_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1305_boltonia_asteroides_var_latisquama/thumbnail/19783967908_b7f81b2f69_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

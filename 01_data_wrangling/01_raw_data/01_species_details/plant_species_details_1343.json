@@ -1,0 +1,113 @@
+{
+  "id": 1343,
+  "common_name": "brownea",
+  "scientific_name": [
+    "Brownea coccinea subsp. capitella"
+  ],
+  "other_name": [],
+  "family": "Fabaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "coccinea",
+  "genus": "Brownea",
+  "origin": [
+    "Guyana",
+    "Venezuela"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 15,
+      "max_value": 25,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Hummingbirds",
+    " Butterflies"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "10",
+    "max": "12"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1343&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1343&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1343&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Brownea coccinea subsp. capitella, commonly known as the brownea, is an amazing species of flowering plant native to tropical climates. Its vibrant orange and yellow flowers steadily draw in pollinating birds and insects from afar. The long, spindly stalks give the plant an impressive silhouette, making a bold statement in any garden. The glossy green leaves and long seed pods make the plant truly unique. In addition to its aesthetically pleasing qualities, the brownea is known for its impressive longevity. Once established, this tropical beauty can last for decades while providing a valuable habitat for local wildlife.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1343_brownea_coccinea_subsp_capitella/og/E5AFB6E586A0E69CA8_Brownea_capitella_-E696B0E58AA0E59DA1E6A48DE789A9E59C92_Singapore_Botanic_Gardens-_28920761820829.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1343_brownea_coccinea_subsp_capitella/regular/E5AFB6E586A0E69CA8_Brownea_capitella_-E696B0E58AA0E59DA1E6A48DE789A9E59C92_Singapore_Botanic_Gardens-_28920761820829.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1343_brownea_coccinea_subsp_capitella/medium/E5AFB6E586A0E69CA8_Brownea_capitella_-E696B0E58AA0E59DA1E6A48DE789A9E59C92_Singapore_Botanic_Gardens-_28920761820829.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1343_brownea_coccinea_subsp_capitella/small/E5AFB6E586A0E69CA8_Brownea_capitella_-E696B0E58AA0E59DA1E6A48DE789A9E59C92_Singapore_Botanic_Gardens-_28920761820829.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1343_brownea_coccinea_subsp_capitella/thumbnail/E5AFB6E586A0E69CA8_Brownea_capitella_-E696B0E58AA0E59DA1E6A48DE789A9E59C92_Singapore_Botanic_Gardens-_28920761820829.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
