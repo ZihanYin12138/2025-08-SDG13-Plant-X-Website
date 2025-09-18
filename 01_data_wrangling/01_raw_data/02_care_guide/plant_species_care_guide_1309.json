@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2567,
+      "species_id": 1309,
+      "common_name": "sideoats grass",
+      "scientific_name": [
+        "Bouteloua curtipendula"
+      ],
+      "section": [
+        {
+          "id": 7907,
+          "type": "watering",
+          "description": "Sideoats grass grows best in full sun and well-drained soil. It should be watered deeply once or twice per week in the summer and every 2 weeks in the winter. To water, provide enough water for the soil to be saturated, but not flooded. Be sure to water early in the morning or late in the evening to reduce water loss due to evaporation. During very hot weather, increase the watering frequency to prevent the plant from drying out. This species of grass is very drought tolerant, so if you forget to water, this plant can survive without much water."
+        },
+        {
+          "id": 7908,
+          "type": "sunlight",
+          "description": "Sideoats Grass requires full or partial sun to thrive. It prefers at least 6 hours of direct sunlight every day, and can tolerate up to 8 to 9 hours of direct sunlight each day. In hotter climates, it will benefit from some afternoon shade. However, this species of grass tends to need some evening hours of exposure to full sun in cooler climates."
+        },
+        {
+          "id": 7909,
+          "type": "pruning",
+          "description": "Sideoats grass (Bouteloua curtipendula) thrives in full sun to part shade and performs best when pruned in early spring and late summer. In the spring, this grass should be cut back to 2 inches above the ground and any dead foliage removed. Late summer pruning should consist of light trimming only, as hard pruning could adversely affect the grass’s winter dormancy. Pruning is a key part of promoting massive Seed Head and foliage growth, so regular pruning will help the grass live and look its best."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

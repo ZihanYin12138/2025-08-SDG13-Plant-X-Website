@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2556,
+      "species_id": 1293,
+      "common_name": "Himalayan birch",
+      "scientific_name": [
+        "Betula utilis var. jacquemontii"
+      ],
+      "section": [
+        {
+          "id": 7874,
+          "type": "watering",
+          "description": "Himalayan birch should be watered regularly throughout the growing season to keep the soil slightly moist (avoiding both drought and over-saturation). Water the soil slowly and deeply twice a week in the early morning, allowing the water to penetrate the soil for an hour. In hotter months, water more frequently (3 to 4 times per week) or if a sudden increase in temperature is expected. Watering should be reduced in late summer to encourage bud set for winter. Make sure not to over-water, as this can lead to root rot."
+        },
+        {
+          "id": 7875,
+          "type": "sunlight",
+          "description": "Himalayan birch (Betula utilis var. jacquemontii) require full sun or partial shade for optimal growth. Full sun is preferred, however, as this plant species will not tolerate full shade. For optimal plant health, the Himalayan birch requires a minimum of 5 hours of direct sunlight per day. It can benefit from additional sunlight as long as temperatures don't become too hot. In warm climates, planting in an area that gets afternoon shade can be beneficial. The Himalayan birch should be planted in a location that receives full sun in the morning. As the day progresses and the sun's intensity grows, the plant will be in a shaded area."
+        },
+        {
+          "id": 7876,
+          "type": "pruning",
+          "description": "Himalayan birch (Betula utilis var. jacquemontii) should be pruned once or twice per year, usually in early summer and fall. Prune birches in late spring or early summer when the buds are just beginning to swell, before they open. Prune out dead, dense, diseased, or damaged branches. Also, remove any crossing, broken, or overly long branches. Don’t cut into the healthy branches, as this can weaken the tree and make it susceptible to diseases. Prune back branches to the point where 2 or more sections join as this will promote better branching. During the winter, if required, light pruning can be done when the birches are not actively growing."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

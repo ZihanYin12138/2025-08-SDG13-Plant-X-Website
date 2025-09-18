@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2568,
+      "species_id": 1310,
+      "common_name": "blue grama",
+      "scientific_name": [
+        "Bouteloua gracilis"
+      ],
+      "section": [
+        {
+          "id": 7910,
+          "type": "watering",
+          "description": "Blue grama should be watered every 2 to 3 weeks, depending on the amount of sun and humidity in your area. In general, water deeply to ensure that the root zone is saturated and allow the soil to dry out slightly between waterings. Additionally, during periods of extreme heat, it is important to water more frequently and adjust accordingly. It is a good practice to water your blue grama in the morning, so that the water is available to the plant during the day."
+        },
+        {
+          "id": 7911,
+          "type": "sunlight",
+          "description": "Blue grama (Bouteloua gracilis) is a warm-season grass native to the North American Great Plains and adjacent grasslands. It requires full sun for optimum growth and development. It grows best in soils that are well-drained but not overly dry. It prefers around 7 hours of sunlight per day, so it is important to provide enough light during the spring and summer months in order to maximize growth and development. Blue grama does best in temperatures between 60-90 degrees Fahrenheit. During winter months, blue grama needs around 8 hours of sunlight daily to remain healthy and active. Too much shade can lead to poor growth and susceptibility to diseases."
+        },
+        {
+          "id": 7912,
+          "type": "pruning",
+          "description": "Pruning for blue grama generally occurs in the late winter or early spring months. Dead, diseased or competing stems should be removed. Pruning should generally be done no more than 25% of the total plant. Pruning too heavily will cause the grass counter-productively to have to work too hard to regenerate. If the stems or clumps need to be reduced, cut away no more than a third of the existing stems at 1 time to avoid transplant shock. Pruning will encourage thicker and more vigorous growth in the blue grama."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2552,
+      "species_id": 1289,
+      "common_name": "silver birch",
+      "scientific_name": [
+        "Betula pendula MAGICAL GLOBE"
+      ],
+      "section": [
+        {
+          "id": 7862,
+          "type": "watering",
+          "description": "Silver Birch (Betula pendula MAGICAL GLOBE) plants prefer to have moist soil, so it's important to water it regularly. During the spring and summer, it should be watered at least twice a week. During this time, ensure the soil is slightly damp, but not soggy. During the fall and winter, reduce watering frequency, as the plant slows down its growth. Water only when the top few inches of the soil is dry, but never allow the soil to completely dry out. When watering Silver Birch plants, try to water the soil rather than the leaves, as this helps to reduce the risk of leaf spot."
+        },
+        {
+          "id": 7863,
+          "type": "sunlight",
+          "description": "Silver birch (Betula pendula MAGICAL GLOBE) requires moderate sunlight for optimal growth. It is best to provide the tree with at least 4 to 6 hours of direct sunlight every day. If the tree is shaded by taller trees, more sunlight may be needed to compensate. The best time of day to receive sunlight is between 11 a.m. and 3 p.m. To protect the tree from harsh midday sun, try to find a spot that offers a bit of shade in the afternoon. The ideal location would be 1 that is both bright and airy, so that the tree can take advantage of the sun all day long."
+        },
+        {
+          "id": 7864,
+          "type": "pruning",
+          "description": "Prune silver birch (Betula pendula MAGICAL GLOBE) when it is dormant in late winter or early spring. This ensures that the plant does not suffer from undue stress and that new buds can form. Pruning should involve removing dead wood, crossing branches, and any branches which are crowding the canopy or growing too close together. Generally, 1/3 of the branches’ ends can be safely cut, though be mindful not to prune too heavily as it can cause more stress on the plant. Additionally, if the tree is overgrown, consider thinning the crown, by selectively removing some branches every few years, to increase air circulation and sunlight exposure."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

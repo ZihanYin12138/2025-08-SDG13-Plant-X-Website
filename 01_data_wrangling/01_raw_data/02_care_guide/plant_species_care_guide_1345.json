@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2597,
+      "species_id": 1345,
+      "common_name": "brugmansia",
+      "scientific_name": [
+        "Brugmansia 'Pink Perfume'"
+      ],
+      "section": [
+        {
+          "id": 7997,
+          "type": "watering",
+          "description": "Water Brugmansia 'Pink Perfume' weekly, allowing the soil surface to dry between waterings. Water deeply to keep the roots hydrated and encourage vigorous, healthy growth. During the hottest months, water more frequently and check the soil moisture more often to ensure it is not drying out. In the winter, water less and limit it to only when the soil is dry to the touch. Avoid overwatering as this can cause root rot."
+        },
+        {
+          "id": 7998,
+          "type": "sunlight",
+          "description": "Brugmansia 'Pink Perfume' is a quintessential tropical plant that does best with plenty of sunlight. It prefers full sun, which demands 6-8 hours of direct light each day. If it does not receive enough sunlight, the results may be leggy, pale foliage, and fewer blooms. It also thrives in part shade, due to its tropical origins. Keeping your Brugmansia in a spot that receives an ample amount of light throughout the day is key to having an impressively blooming and superbly green plant."
+        },
+        {
+          "id": 7999,
+          "type": "pruning",
+          "description": "Brugmansia 'Pink Perfume' should be pruned in early spring before new growth begins. Pinch off any flower buds that have formed to encourage more bushy growth and encourage thicker foliage. Remove any dead, damaged, or diseased branches and cut back weak, leggy stems to help the brugmansia look compact and full. Prune back branches that are too long by about 1 third. This will help keep the plant well-shaped and restore balance if the growth has become uneven or lopsided. To promote regular blooming, cut back the tips of branches and stems that have finished flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

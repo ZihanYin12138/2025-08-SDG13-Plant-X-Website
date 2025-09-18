@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2574,
+      "species_id": 1316,
+      "common_name": "mustard greens",
+      "scientific_name": [
+        "Brassica juncea 'Japanese Giant Red'"
+      ],
+      "section": [
+        {
+          "id": 7928,
+          "type": "watering",
+          "description": "Mustard greens should be watered about once per week, when the soil feels dry to the touch 1 inch below the surface. Avoid over-watering, as mustard greens prefer drier soil. Water deeply to encourage the roots of the plant to grow deeper into the soil. To minimize water loss due to evaporation, water your mustard greens early in the morning or later in the evening."
+        },
+        {
+          "id": 7929,
+          "type": "sunlight",
+          "description": "Mustard greens (Brassica juncea 'Japanese Giant Red') should receive 6-8 hours of direct sunlight, preferably in the morning or midday. When possible, keep the plant in a warm, sunny location, out of strong winds, and away from any potential sources of frost. Water as needed to keep the soil moist but not overly wet. When exposed to too much direct sunlight, the leaves may become brittle. If this occurs, shift the plant to a partially shaded location."
+        },
+        {
+          "id": 7930,
+          "type": "pruning",
+          "description": "Mustard greens (Brassica juncea 'Japanese Giant Red') should be pruned when the plants are 6-8 inches tall. Pruning should take place by pinching off the top 2.5-3 cm of the shoot to encourage new side shoots to form, and to ensure more attractive plant growth. Prune your mustard greens twice per season as needed. In addition to pruning, some gardeners recommend pinching off any flower buds that form to encourage further leaf growth. When the plants reach a height of 45-60 cm, stop pruning and let the plants flower and produce seeds."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

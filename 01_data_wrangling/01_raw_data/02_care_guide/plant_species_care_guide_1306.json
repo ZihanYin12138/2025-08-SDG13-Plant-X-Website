@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2566,
+      "species_id": 1306,
+      "common_name": "false aster",
+      "scientific_name": [
+        "Boltonia asteroides var. latisquama 'Snowbank'"
+      ],
+      "section": [
+        {
+          "id": 7904,
+          "type": "watering",
+          "description": "False aster should be watered moderately and consistently. Water thoroughly but not to the point of saturating the soil, and allow the top inch or 2 of soil to dry before watering again. During the summer months, this may require watering once per week in hot, dry climates. In the cooler months, you may be able to reduce watering to once every 2 to 3 weeks. Be sure to monitor the soil moisture level and adjust your watering schedule as needed to ensure your false aster has enough but not too much water."
+        },
+        {
+          "id": 7905,
+          "type": "sunlight",
+          "description": "False aster, also known as Boltonia asteroides var. latisquama 'Snowbank', prefers full to partial sun for optimum growth and blooming. This plant prefers at least 4-6 hours of direct sunlight a day, with 8 hours being ideal for best growth. To ensure a healthy plant, it's important to avoid excessive afternoon sun in hot climates, as this may lead to foliage burn. If necessary, some afternoon shade may be beneficial for the false aster."
+        },
+        {
+          "id": 7906,
+          "type": "pruning",
+          "description": "False aster should be lightly pruned annually in late winter or early spring before the new growth begins. This will help to rejuvenate the plant, remove any damaged or diseased stems, and encourage increased flowering. All dead and obviously diseased stems should be removed, as well as any stems that have become woody and are no longer flowering. Lightly prune back any stems that have grown too tall or too wide for the desired shape. Pruning false aster back by up to 1-third its original size is generally acceptable."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

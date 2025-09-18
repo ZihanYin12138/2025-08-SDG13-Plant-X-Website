@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2629,
+      "species_id": 1382,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja davidii 'PIIBD-III' FIRST EDITIONS PSYCHEDELIC SKY"
+      ],
+      "section": [
+        {
+          "id": 8093,
+          "type": "watering",
+          "description": "Water butterfly bush (Buddleja davidii 'PIIBD-III' FIRST EDITIONS PSYCHEDELIC SKY) as needed to keep the soil lightly moist during its active growth period from spring until mid-summer. Water deeply and thoroughly allowing the soil to dry out slightly between watering. Do not let the plants sit in water-logged soil. During the winter, water just enough to keep the soil slightly moist throughout its dormant period."
+        },
+        {
+          "id": 8094,
+          "type": "sunlight",
+          "description": "Butterfly bush (Buddleja davidii 'PIIBD-III' FIRST EDITIONS PSYCHEDELIC SKY) should receive full sun for optimum growth and blooming. This plant should get 6 to 8 hours of direct sun per day in order to produce its best blooms, which appear from late summer through early fall. During the hottest summer months, it should have some protection from the intense midday sun, so partial shade during this time is ideal for its health. This plant requires plenty of sunlight to produce its vivid purple flowers."
+        },
+        {
+          "id": 8095,
+          "type": "pruning",
+          "description": "Butterfly bush (Buddleja davidii 'PIIBD-III' FIRST EDITIONS PSYCHEDELIC SKY) should be pruned back once or twice during the growing season to encourage new growth, health, and a bushier plant. The first pruning should be done around early spring just before the bush starts to bud out. This will help to shape and encourage new growth. The second pruning should be done once the blooming season is over, again to encourage bushier growth. Prune back any dead or dying stems to the base of the plant. Remove about 1-third of the overall length of the stems. This will promote new growth and result in a healthier and bushier shrub."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

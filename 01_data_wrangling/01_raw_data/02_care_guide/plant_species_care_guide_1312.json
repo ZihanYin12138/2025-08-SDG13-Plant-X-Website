@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2570,
+      "species_id": 1312,
+      "common_name": "blue grama",
+      "scientific_name": [
+        "Bouteloua gracilis 'Hachita'"
+      ],
+      "section": [
+        {
+          "id": 7916,
+          "type": "watering",
+          "description": "Blue grama (Bouteloua gracilis 'Hachita') is a perennial grass that is native to the western border of the United States. It prefers full sun and well-drained soil. Blue grama is highly drought tolerant and requires minimal watering. Water the plant about once every 2 weeks, allowing the topsoil to dry out between waterings. If rainfall is abundance, water the grass less frequently but monitor for signs of wilt or yellowing. Avoid overwatering to prevent root rot or fungal diseases. Blue grama is a low maintenance grass that is very hardy and requires minimal care."
+        },
+        {
+          "id": 7917,
+          "type": "sunlight",
+          "description": "Blue grama is a perennial grass species that thrives in full sun. It should be planted in an area that receives at least 6 to 8 hours of sunlight per day. The ideal time of day for blue grama to receive direct sun is between 10am and 4pm. It should be noted, however, that this species can tolerate some partial shade and will still grow, albeit more slowly."
+        },
+        {
+          "id": 7918,
+          "type": "pruning",
+          "description": "Blue grama (Bouteloua gracilis 'Hachita') is a warm-season bunchgrass that should be pruned twice each growing season. Pruning should take place in late spring or early summer, just after the plant’s first flush of growth. Then, additional pruning should take place mid-summer to stimulate new leaf growth. To prune, lightly shear grass blades by about half the length of their blades. This will help promote thick, lush growth and combat “unattractive” seed heads."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

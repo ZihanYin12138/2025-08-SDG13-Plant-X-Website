@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2575,
+      "species_id": 1317,
+      "common_name": "rutabaga",
+      "scientific_name": [
+        "Brassica napus (Napobrassica Group)"
+      ],
+      "section": [
+        {
+          "id": 7931,
+          "type": "watering",
+          "description": "Rutabaga (Brassica napus (Napobrassica Group)) requires moist soil to remain healthy, but they should not be overwatered. Water the soil thoroughly every 5-7 days by providing a deep, slow watering for the plant to ensure that moisture penetrates to the bottom of the root zone. During the summer months, water may be needed more often (about every 4 days). During the cooler winter months, the plant will require less water (about every 10-14 days). As the weather begins to warm again, increase the frequency of watering accordingly."
+        },
+        {
+          "id": 7932,
+          "type": "sunlight",
+          "description": "Rutabagas (Brassica napus Napobrassica Group) require between 6 and 8 hours of direct sunlight per day for optimal growth and development. Plant them in areas that are well-ventilated and receive full sun for most of the day, preferably between the hours of 10 am and 2 pm. These times can vary slightly depending on the time of year, with morning sun in the early spring and afternoon sun late in the season. Additionally, Rutabagas need protection from hot, direct sunlight during the hottest parts of the summer as this could potentially burn the leaves."
+        },
+        {
+          "id": 7933,
+          "type": "pruning",
+          "description": "Rutabagas should be pruned during the early spring, before new growth appears. Make sure to wear gloves during pruning to prevent sap from getting on your skin. Start by removing any dead, diseased, or damaged stems. Next, cut back any overly long or mismatched branches. Finally, remove any leafless stems that are growing from the center of the plant. Keep the rutabaga at the desired height throughout the season by pruning off any unwanted growth every few weeks. It is important to not remove more than 1-third of the total leaves at a time. Doing so can reduce healthy growth and productivity in the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

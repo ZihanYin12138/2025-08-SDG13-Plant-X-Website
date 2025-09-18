@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2569,
+      "species_id": 1311,
+      "common_name": "blue grama",
+      "scientific_name": [
+        "Bouteloua gracilis 'Blonde Ambition'"
+      ],
+      "section": [
+        {
+          "id": 7913,
+          "type": "watering",
+          "description": "Blue grama (Bouteloua gracilis 'Blonde Ambition') should generally be watered about once per week in the late evening. Aim to keep the soil evenly moist but not soggy. During warm weather it may need more frequent watering to ensure that it gets enough moisture. On very hot, dry days, check the soil and water if it feels dry. Water slowly and thoroughly, ideally using a soaker hose or small gauge watering device to ensure the water deeply penetrates the soil. Reduce watering in the winter when temperatures are cooler and rain is more frequent."
+        },
+        {
+          "id": 7914,
+          "type": "sunlight",
+          "description": "Blue grama (Bouteloua gracilis 'Blonde Ambition') grows best in direct sunlight for most of the day. This grass species is native to the Southern Great Plains of the United States, where daily sunlight and warm temperatures create ideal conditions for healthy growth.\n\nAn important note to consider - blue grama should not be subjected to too much direct sunlight at midday in the summertime as this can cause stress to the plant. In this species' native range, direct sunlight during the hottest part of the day should be avoided. For optimum growth and health, it is best to provide blue grama with 6–8 hours of direct sunlight per day and some additional shade during midday, particularly during the summertime."
+        },
+        {
+          "id": 7915,
+          "type": "pruning",
+          "description": "Blue grama should be pruned in late spring or early summer when the plants are established and at least 2 to 3 years old. Generally speaking, it should only be pruned to remove competing and unwanted foliage and to maintain a desired shape. Prune up to 1-third of the plant to promote healthy growth, but no more; pruning too aggressively can cause stunting of growth and stress the plant. When pruning, avoid removing more than 2 or 3 main stems, leaving the desirable stems intact. Additionally, focus pruning on the stems of the plant and avoid pruning the seed heads."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

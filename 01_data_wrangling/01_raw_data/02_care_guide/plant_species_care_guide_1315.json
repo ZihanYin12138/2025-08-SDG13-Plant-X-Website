@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2573,
+      "species_id": 1315,
+      "common_name": "Chinese mustard",
+      "scientific_name": [
+        "Brassica juncea"
+      ],
+      "section": [
+        {
+          "id": 7925,
+          "type": "watering",
+          "description": "Chinese Mustard (Brassica juncea) should be watered deeply once or twice a week. The soil should be moist, but not soggy. If the soil becomes too dry, the tips of the leaves and stems may begin to brown. If the soil quality is poor, more frequent watering may be necessary. It is generally best to water Chinese Mustard in the cool morning hours so the plant can take up moisture before the sun gets too hot. If you live in an especially warm climate, you should check the soil for signs of dryness and water as needed."
+        },
+        {
+          "id": 7926,
+          "type": "sunlight",
+          "description": "Chinese mustard (Brassica juncea) grows best when receiving 6 to 8 hours of direct sunlight each day. Although direct sunlight is best for Chinese mustard, plants in partial shade can also be successful. If grown in partial shade, they should have about 4-6 hours of direct sunlight with diffuse light the rest of the day. For best results, the sunlight should be consistent throughout the day with no more than a 1 hour break of light."
+        },
+        {
+          "id": 7927,
+          "type": "pruning",
+          "description": "With regards to pruning Chinese mustard (Brassica juncea) plants, it is best to do so after the plant has begun to flower. Begin by trimming the top of the plant to encourage side branches to form. This will result in a bushy plant with a greater yield of fruits. Remove any competing shoots or dead flowers. After harvesting, cut all the stems to the ground to promote better air circulation and prevent diseases. Prune lightly and selectively only when necessary to ensure a good harvest."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

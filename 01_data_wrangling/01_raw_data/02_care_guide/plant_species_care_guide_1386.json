@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2633,
+      "species_id": 1386,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja davidii 'White Ball'"
+      ],
+      "section": [
+        {
+          "id": 8105,
+          "type": "watering",
+          "description": "The butterfly bush (Buddleja davidii 'White Ball') is a low-maintenance, drought-tolerant plant that requires minimal water to survive. During the summer months, the plant needs to be watered about once a week for a total of 1-2 inches each time. During the cooler months, when the temperatures are not as hot, it is best to water this plant about once every 2 to 3 weeks. Make sure not to overwater the plant to the point that there is standing water in the pot, as this can cause root rot and other fungal diseases."
+        },
+        {
+          "id": 8106,
+          "type": "sunlight",
+          "description": "A Butterfly Bush (Buddleja davidii 'White Ball') will enjoy around 6 hours of direct sunlight each day. During the hottest part of the day, some dappled or indirect sunlight is preferred as intense, direct sunlight can be too harsh and cause scorching of the foliage. Too much shade will make this plant grow more slowly and possibly not bloom. It is best to give the plant a few hours of direct sunlight in the morning and a few in the late afternoon."
+        },
+        {
+          "id": 8107,
+          "type": "pruning",
+          "description": "When pruning butterfly bush (Buddleja davidii 'White Ball'), the best time to do this is in late winter or early spring, when the new growth emerges. Pruning should be done lightly, removing only a few of the oldest stems down to their base, in order to encourage more compact growth. The amount of pruning depends on the size of the bush and its current shape/growth. For larger bushes, pruning approximately 1-third of the oldest stems is recommended; for dwarf varieties, pruning should be more sparing, leaving many of the oldest stems to form the basis of the shrub."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

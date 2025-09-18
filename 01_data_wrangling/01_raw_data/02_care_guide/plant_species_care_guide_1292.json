@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2555,
+      "species_id": 1292,
+      "common_name": "birch",
+      "scientific_name": [
+        "Betula 'Royal Frost'"
+      ],
+      "section": [
+        {
+          "id": 7871,
+          "type": "watering",
+          "description": "Birch (Betula 'Royal Frost') should be watered on a weekly basis. Provide enough water so that the top inch (2.5 cm) of soil is moist. Allow the soil to dry out between waterings. During the growing season, water more often. During the cold winter months, water less often, allowing the soil to become almost dry before watering. Make sure to water your birches in the morning or early afternoon, as this allows the foliage to dry which can help reduce the potential of fungal diseases or rot."
+        },
+        {
+          "id": 7872,
+          "type": "sunlight",
+          "description": "Birch (Betula 'Royal Frost') benefits from direct sunlight for a good portion of the day. This should be at least 6 to 8 hours daily. This can be during any part of the day, but during the warmer months, it's best for the plant to have its sun exposure earlier in the day before the temperatures heat up. When it is particularly hot, plant can benefit from some shade during the early afternoon."
+        },
+        {
+          "id": 7873,
+          "type": "pruning",
+          "description": "Birch trees should be pruned in late winter or early spring, before the new leaves appear. Pruning can include anything from removing dead or diseased branches, to selectively removing branches and stems to create a desired shape. When pruning, keep in mind that Birch trees are vigorous growers and require pruning every 2-3 years to create an attractive structure. When pruning, make your cuts clean and angled so new growth can originate at the cuts. Young trees should be pruned to create a strong central branch structure before the branches become too woody. Older trees can experience thinning and light trimming to remove crossing or rubbing branches. When pruning, try to maintain an evenly distributed branching structure with good air circulation."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

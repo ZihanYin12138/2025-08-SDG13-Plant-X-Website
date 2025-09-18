@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2600,
+      "species_id": 1348,
+      "common_name": "Siberian bugloss",
+      "scientific_name": [
+        "Brunnera macrophylla 'Alexander's Great'"
+      ],
+      "section": [
+        {
+          "id": 8006,
+          "type": "watering",
+          "description": "Siberian bugloss requires regular waterings to promote healthy growth. The best way to water it is to give it a slow and deep soaking once a week. It is important to allow the soil to become dry between waterings, but not to let it become bone-dry. During periods of hot, dry weather, an additional watering may be necessary. It is best to avoid over-watering, as this can lead to root rot. In winter, waterings should be reduced, as this plant prefers a period of cooler dormancy. Make sure to keep the leaves dry whenever possible, to prevent fungal diseases."
+        },
+        {
+          "id": 8007,
+          "type": "sunlight",
+          "description": "Siberian bugloss (Brunnera macrophylla 'Alexander's Great') prefers average to bright light. This species grows best in partial sun to filtered sun, with as much as 4-5 hours of direct sun per day. It is most successful in morning sun with protection from afternoon sun or bright shade. Too much direct sun may cause foliage to scorch and could damage the delicate blooms and buds."
+        },
+        {
+          "id": 8008,
+          "type": "pruning",
+          "description": "Siberian bugloss (Brunnera macrophylla 'Alexander's Great') should be pruned during late Winter/early Spring, before new growth emerges and after any frost danger has passed. Pruning should be done by removing dead or damaged branches. A general light pruning can also be done to maintain desired plant size, but this should be done sparingly. Remove no more than 1-third of the overall plant material when pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2561,
+      "species_id": 1300,
+      "common_name": "Chinese ground orchid",
+      "scientific_name": [
+        "Bletilla striata 'Albostriata'"
+      ],
+      "section": [
+        {
+          "id": 7889,
+          "type": "watering",
+          "description": "Chinese ground orchids should be watered about once a week. They prefer their soil to be consistently moist, but not overly soggy. To water this species, give the plant a thorough soaking, ensuring that water reaches the root zone, then let the soil dry out slightly before repeating. Aim for the soil to remain moist, but not wet, between waterings. During their active growth period, they may require water more frequently. In summer, it may be necessary to water these orchids twice a week. During dormant periods and cold months in the winter, however, water should be reduced."
+        },
+        {
+          "id": 7890,
+          "type": "sunlight",
+          "description": "This species of orchid requires a minimum of 4 to 6 hours of direct sunlight per day and prefers full sun during the summer months. Although Bletilla can tolerate light shade, too much shade can lead to poor flowering and foliage. During the winter months, it is best to grow this species in a bright, sunny location, as long as the temperatures remain above freezing. This orchid can also be grown indoors in a well-lit area, such as near a window. To encourage healthy growth and flowering, make sure to provide your Chinese ground orchid with adequate direct sunlight exposure."
+        },
+        {
+          "id": 7891,
+          "type": "pruning",
+          "description": "Chinese ground orchid is best pruned in the late spring or early summer, just after the flowering period is over and the foliage begins to die back. The goal with pruning is to keep the plant healthy, remove dead or diseased foliage, and promote next year's flowering. Pruning should not remove more than 25% of the plant, so be careful not to trim too heavily. To help the plant maintain the desired shape, it may be best to remove old or dead stems as far down as possible. You may also find some overwintered seed pods or leaves that should be trimmed back. Once pruning is complete, be sure to inspect the plant regularly and prune off any new dead, diseased, or unproductive foliage that appears."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

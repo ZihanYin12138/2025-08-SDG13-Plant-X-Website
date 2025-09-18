@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1415,
+      "species_id": 1361,
+      "common_name": "buffalo grass",
+      "scientific_name": [
+        "Buchloe dactyloides 'Sharp's Improved'"
+      ],
+      "section": [
+        {
+          "id": 4279,
+          "type": "watering",
+          "description": "Buffalo Grass (Buchloe dactyloides 'Sharp's Improved') should be watered weekly during periods of extended dryness or moderate temperatures. During extremely hot periods, watering should occur twice a week to ensure sufficient hydration. Water should be applied until the soil is moist but not saturated. Depending on weather factors, this could be anywhere from 1/4 - 1 inch of water per session. However, in periods of extreme drought, more water may be necessary. It is best to water Buffalo Grass in the morning or early evening so that it has time to absorb as much of the water as possible."
+        },
+        {
+          "id": 4280,
+          "type": "sunlight",
+          "description": "Buffalo grass (Buchloe dactyloides 'Sharp's Improved') is a low-growth grass variety and is extremely tolerant of drought and heat. It can survive in part shade, but it does best with full sunlight. 8 hours a day would be optimal in order to promote lush growth. From October to April, when days are shorter and sunlight intensity is reduced, 4 to 5 hours of direct sunlight should be enough."
+        },
+        {
+          "id": 4281,
+          "type": "pruning",
+          "description": "Buffalo grass (Buchloe dactyloids 'Sharp's Improved') should be pruned regularly, especially in early spring and once in late summer. In early spring, the grass should be pruned back to 6 - 8 inches from the ground. Any dead leaves and stems should be removed, and the grass should be given a light trim to help promote new growth. In late summer, the grass should be pruned back to 2 - 3 inches in height. This will help to keep the grass from looking too shaggy and encourage denser growth. It is important to note that over-pruning Buffalo grass can reduce its growth rate and can be detrimental to the health of the lawn."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

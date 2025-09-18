@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2585,
+      "species_id": 1329,
+      "common_name": "Asian greens",
+      "scientific_name": [
+        "Brassica rapa (Asian Greens Group)"
+      ],
+      "section": [
+        {
+          "id": 7961,
+          "type": "watering",
+          "description": "Asian Greens require moderate to frequent watering, particularly when young. In general, they should be watered deeply but not so frequently that moisture remains on the leaves for prolonged periods as this increases the risk of fungal diseases settling in. The best way to determine if they need watering is assessing the soil’s moisture content; if the top 2-3 inches of soil feels dry, then it’s time to water. During their growth season, Asian Greens should be watered at least twice a week, with an inch of water each time. This should be done either early in the morning or late in the evening. In hotter, drier climates, they may require daily watering. In cooler climates, watering may be reduced to once or twice a week."
+        },
+        {
+          "id": 7962,
+          "type": "sunlight",
+          "description": "Asian greens prefer full sun, meaning at least 6 hours of direct sunlight a day. When growing Asian greens, it is important to place them in a sunny spot outdoors or in a well-lit area indoors. For best results, they should be grown in an area that receives full sun for the majority of the day. If Asian greens must be grown in an area that receives less than optimal sunlight, they should be provided with supplemental lighting. In addition to direct sunlight, Asian greens require at least some indirect sunlight throughout the day for best results."
+        },
+        {
+          "id": 7963,
+          "type": "pruning",
+          "description": "Asian greens should be pruned when the plants are young and the leaves are still small. Generally, you should aim to remove a quarter to 1 third of the foliage at a time to keep the plants healthy and manageable. Prune Asian greens every month or 2 during the growing season. Shearing or pinching off the leaves will ensure that the plants stay compact and prevent them from bolting to flower and seed too early."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

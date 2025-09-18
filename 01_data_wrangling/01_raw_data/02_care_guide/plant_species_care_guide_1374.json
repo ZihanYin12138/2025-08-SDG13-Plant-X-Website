@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2623,
+      "species_id": 1374,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja davidii 'Monrell' STRAWBERRY LEMONADE"
+      ],
+      "section": [
+        {
+          "id": 8075,
+          "type": "watering",
+          "description": "The Butterfly Bush (Buddleja davidii 'Monrell' STRAWBERRY LEMONADE) is a fast-growing, drought-tolerant plant that thrives on regular watering, especially in periods of dry weather. As a general guide, water these shrubs every 5-7 days, allowing the soil to dry out between waterings. In periods of extreme heat, it may be beneficial to water lightly more frequently. It’s also important to ensure that the plant has plenty of drainage, as the roots can rot if sitting in water. If the soil feels dry to the touch or the foliage begins to wilt, it’s time to give the bush a drink."
+        },
+        {
+          "id": 8076,
+          "type": "sunlight",
+          "description": "Butterfly bush (Buddleja davidii 'Monrell' STRAWBERRY LEMONADE) requires at least 6 hours of sunlight each day in order to thrive. In general, the bush should be planted in an area where it will receive full sun during the majority of the day, but in hot climates, some afternoon shade may be beneficial. The plant's flowers may fade in direct, intense sunlight, so for areas with very intense sunlight, morning sun and afternoon shade is ideal. This species of butterfly bush is also somewhat drought tolerant, so while it is important to give the plant adequate moisture, it does not need to be flooded with water to thrive."
+        },
+        {
+          "id": 8077,
+          "type": "pruning",
+          "description": "Pruning your Butterfly Bush (Buddleja davidii 'Monrell' STRAWBERRY LEMONADE) can help keep its shape and promote healthy growth. Prune Butterfly Bushes in the late winter to early spring just before new growth begins, usually before the last frost. This will give the bush a chance to recover from pruning before the new blooms appear. When pruning, take care to remove old, dead stems and branches, as well as any crossings or rubbing branches. Pinch off dead blooms to encourage new blooms throughout the summer. If your bush becomes overgrown, you can give it a hard pruning in late winter, removing up to 1-third of the oldest branches. Doing so will rejuvenate the bush, allowing it to maintain a more compact, shapely size. Pruning your Butterfly Bush every few years is the best way to keep it healthy and beautiful."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

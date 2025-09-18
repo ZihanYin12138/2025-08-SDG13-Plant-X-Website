@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2591,
+      "species_id": 1337,
+      "common_name": "false boneset",
+      "scientific_name": [
+        "Brickellia eupatorioides"
+      ],
+      "section": [
+        {
+          "id": 7979,
+          "type": "watering",
+          "description": "False boneset should be watered every 5-7 days, depending on soil moisture. It prefers medium fertility soils and should be watered thoroughly, allowing the soil to dry completely between waterings. During the hottest months, the plant may require more frequent watering, although it is important to let the soil dry out before watering again. During colder months, the plant may require less water, as it possibly goes dormant at this time. When watering, try to keep the foliage as dry as possible to help avoid droplet diseases."
+        },
+        {
+          "id": 7980,
+          "type": "sunlight",
+          "description": "False boneset (Brickellia eupatorioides) thrives best in full sunlight and prefers areas that receive 6-8 hours of direct sunlight each day. Excessive shade or partial shade can reduce its flowering and fruit production and will reduce the size of its foliage. When possible, it is best to plant false boneset in an area that receives morning sun and afternoon shade, especially during hot summer months."
+        },
+        {
+          "id": 7981,
+          "type": "pruning",
+          "description": "False boneset should be pruned twice a year, once in late winter and once again in early summer. Pruning should be done in late winter to remove any dead or damaged branches, and again in early summer to control the size, shape, and density of the plant. It is important to be careful when pruning false boneset to avoid removing too much of the branches as this can damage the plant. When pruning in late winter, it is best to only remove dead or damaged branches. When pruning in early summer, remove only a small amount of the stems to control size and shape. This will help the plant look its best."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

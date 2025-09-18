@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2620,
+      "species_id": 1371,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja davidii 'Buzz Violet Blue'"
+      ],
+      "section": [
+        {
+          "id": 8066,
+          "type": "watering",
+          "description": "Water deeply and thoroughly when first planting your butterfly bush and then water whenever the top few inches of soil feels dry. During the growing season (Spring and Summer), you should water your butterfly bush every 2-3 days with about 1-2 inches of water. During Fall, you may water less often (once or twice a week) to begin preparing the plant for winter dormancy."
+        },
+        {
+          "id": 8067,
+          "type": "sunlight",
+          "description": "Butterfly Bush (Buddleja davidii 'Buzz Violet Blue') will thrive best when planted in an area that receives full sunlight for 6-8 hours per day. During the spring and summer months when the days are longer and the sun is strongest, direct sunlight is particularly beneficial. The shrub will benefit from bright, indirect sunlight during the cooler, winter months when it is dormant. If planted in an area that does not receive enough light, the plant may become leggy with fewer blooms and a weak overall appearance."
+        },
+        {
+          "id": 8068,
+          "type": "pruning",
+          "description": "Pruning Butterfly Bush (Buddleja davidii 'Buzz Violet Blue') is recommended twice a year, in the late winter and early summer seasons. Late winter pruning should be done when the bush is still dormant, before buds appear. During this time, prune back the plant to about 1 third of its height to give it a strong and aesthetically pleasing shape. If pruning is done in the late winter season, it will promote the growth of new foliage and flowers in the summer months. Early summer pruning should be done after the first flush of flowers have bloomed on the bush. Remove the old flowers and about 1 third of the branch or stem length. This will also promote a more abundant bloom of flowers in the summer season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

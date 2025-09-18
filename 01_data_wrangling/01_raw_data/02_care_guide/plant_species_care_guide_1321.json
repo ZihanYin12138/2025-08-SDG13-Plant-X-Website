@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 609,
+      "species_id": 1321,
+      "common_name": "Romanesco broccoli / cauliflower",
+      "scientific_name": [
+        "Brassica oleracea (Botrytis Group)"
+      ],
+      "section": [
+        {
+          "id": 1830,
+          "type": "watering",
+          "description": "Romanesco broccoli / cauliflower should be watered consistently to keep the soil moist, not soggy. Water it once the top inch of soil is dry, usually every 2 to 3 days. Be sure to water directly on the soil, rather than onto the foliage. To get the best results, water early in the morning. During the summer months, you may need to water more frequently. If placed in a container, check for moisture regularly. Always monitor the soil for optimal moisture levels."
+        },
+        {
+          "id": 1831,
+          "type": "sunlight",
+          "description": "Romanesco broccoli / cauliflower (Brassica oleracea (Botrytis Group)) is a plant species that requires a lot of sunlight to help it grow and thrive. It needs to be exposed to a minimum of 6 to 8 hours of direct sunlight daily, preferably in the early morning and during peak periods of the day. The sunlight should preferably have a full spectrum with lots of UV-A and UV-B. By ensuring that this particular plant is exposed to at least 8 hours of full spectrum sunlight per day, it can grow and produce healthy, crisp heads of crunchy Romanesco broccoli or cauliflower."
+        },
+        {
+          "id": 1832,
+          "type": "pruning",
+          "description": "Romanesco broccoli / cauliflower (Brassica oleracea (Botrytis Group)) should be pruned once the central head is formed and visible, usually at the end of July or beginning of August. The vigorous outer leaves should be removed to prevent them drawing energy away from the flower head and ultimately reducing the quality and yield of the vegetable. As the plant begins to flower, any secondary heads should be removed as they will compete for resources with the main head. Once the head is fully developed, additional leaves can then be removed to facilitate harvesting and improve air circulation. After harvesting, the plant should be pruned off at soil level to encourage earlier regrowth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

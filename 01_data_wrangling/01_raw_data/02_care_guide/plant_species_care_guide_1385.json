@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2632,
+      "species_id": 1385,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja davidii 'Royal Red'"
+      ],
+      "section": [
+        {
+          "id": 8102,
+          "type": "watering",
+          "description": "Water your Butterfly Bush (Buddleja davidii 'Royal Red') deeply once every 7-10 days, making sure to give it at least 1-2 inches of water each time. Monitor the soil moisture around the plant’s root system to ensure that it is adequately moist, not dry. When establishing the plant, water 2-3 times a week until it’s grown more roots and established itself. In hotter climates, you may need to water more frequently, while a well established plant may need to be watered every 10-14 days."
+        },
+        {
+          "id": 8103,
+          "type": "sunlight",
+          "description": "Butterfly bush (Buddleja davidii 'Royal Red') prefer a sunny site with at least 4 to 6 hours of direct sunlight per day. While these plants can survive in semi-shaded locations, they will flower more abundantly with increased sun exposure. Butterfly bushes require direct sunlight to thrive and bloom properly. During the warm months of the growing season, the butterfly bush needs to be in full sun. It will require 6 to 8 hours of sunlight per day during this time. During the fall and winter months, the plant prefers 4 to 6 hours of direct sun each day. Throughout the year, this plant prefers to be in an environment with plenty of light and warm temperatures."
+        },
+        {
+          "id": 8104,
+          "type": "pruning",
+          "description": "Butterfly bush (Buddleja davidii 'Royal Red') should be pruned every year, generally in the late winter or very early spring before new growth begins. Pruning should remove up to 1-third of the stems to the base, removing any dead or distorted growth and crossing stems. In severe climates, additional pruning may be needed in late spring or early summer, particularly in north-facing sites, to reduce the amount of new growth in cold weather. The amount of pruning can vary based on the desired size and shape of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2565,
+      "species_id": 1305,
+      "common_name": "false chamomile",
+      "scientific_name": [
+        "Boltonia asteroides var. latisquama"
+      ],
+      "section": [
+        {
+          "id": 7901,
+          "type": "watering",
+          "description": "False chamomile should be watered about once every 7-10 days. Water the plants deeply to ensure soil gets moist all the way to the root zone. Add additional water if the top 2-3 inches of soil is dry. Monitor the moisture of the soil regularly as some conditions such as high temperatures, lower humidity and more frequent sun require more frequent watering. Twice a month, feed the plants with a balanced fertilizer during the growing season. In winter months, reduce the frequency of watering and fertilizing."
+        },
+        {
+          "id": 7902,
+          "type": "sunlight",
+          "description": "False chamomile should receive full-sun for at least 6 hours a day. During the summer months, when the days are longer, it can be tolerant of up to 8 hours of direct sun. However, during the winter months, when the days are shorter, it should receive at least 4 hours of direct sunlight a day."
+        },
+        {
+          "id": 7903,
+          "type": "pruning",
+          "description": "False chamomile (Boltonia asteroides var. latisquama) requires annual pruning for optimal growth and size. Pruning can begin as soon as new growth appears in spring, usually in late March or early April. Start by trimming the tips of the stems and small branches to encourage a full shape and branching. When pruning, look for stems that are crossing, overcrowding, or growing weakly. Remove any dead, diseased, or damaged branches first, then trim back the remaining growth to shape and reduce the size of the plant. For maximum vigor, cut the stems of false chamomile back to 12-18 inches from the ground each spring."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2596,
+      "species_id": 1343,
+      "common_name": "brownea",
+      "scientific_name": [
+        "Brownea coccinea subsp. capitella"
+      ],
+      "section": [
+        {
+          "id": 7994,
+          "type": "watering",
+          "description": "Brownea coccinea subsp. capitella is a tropical evergreen shrub with bright, crimson flowers and deep, glossy green leaves. This species does best in high-humidity, warm climates. \n\nIt is important to provide consistent moisture to Brownea coccinea subsp. capitella. During the growing season (March to September in temperate climates), water the plant every 7-10 days, making sure the soil remains moist but not soggy. During the winter, water the plant every 15-20 days. Water thoroughly and allow the top 1-2 inches of soil to dry out before watering again."
+        },
+        {
+          "id": 7995,
+          "type": "sunlight",
+          "description": "Brownea coccinea subsp. capitella, or just Brownea, require full to part sun for optimal growth and flower production. In its native tropical environment in Central America, Brownea needs exposure to direct sunlight for at least 5 to 6 hours per day. In the Southern United States, it may need slightly better conditions, such as 6 to 8 hours of sunlight per day. It is important to rotate Brownea plants regularly to help them grow evenly and to promote flowering. While Brownea can handle full sun, during the peak of summer or in extreme heat, some shade may be required to protect the plant from sunburn."
+        },
+        {
+          "id": 7996,
+          "type": "pruning",
+          "description": "Brownea coccinea subsp. capitella requires light pruning to promote new growth and maintain a neat, bushy shape. Pruning should only be done when the plant is actively growing, so the best time to prune is in late spring or early summer. Start by removing any dead or diseased branches. Next, remove any weak, overcrowded, or crossed branches to promote air flow. Make sure to prune back to the main trunk or a healthy lateral branch. Finally, remove any remaining unneeded branches to tidy the overall shape of the plant. For light pruning, remove no more than 1 quarter of the total foliage at 1 time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

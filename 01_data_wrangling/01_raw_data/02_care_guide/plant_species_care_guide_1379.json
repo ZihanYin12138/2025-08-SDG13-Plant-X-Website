@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2626,
+      "species_id": 1379,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja davidii 'Peakeep' PEACOCK"
+      ],
+      "section": [
+        {
+          "id": 8084,
+          "type": "watering",
+          "description": "This butterfly bush should be watered deeply on a weekly basis as it prefers moist to boggy soil conditions. Make sure you water at the base of the plant when doing so for optimal results. A good rule of thumb to follow is to water your butterfly bush once a week during warm months (spring and summer). Adjust your watering schedule based on soil moisture, as too much or too little water can be damaging. During cooler months, reduce your watering to once every 2 weeks."
+        },
+        {
+          "id": 8085,
+          "type": "sunlight",
+          "description": "The butterfly bush (Buddleja davidii 'Peakeep' PEACOCK) needs about 6 to 8 hours of sunlight per day to thrive. It is important to place the plant somewhere it will get direct sunlight at certain times of the day, preferably for several hours in the morning, and then several hours in the afternoon. During the heat of the summer, it is important to provide shade in the afternoon sun, as too much direct sun can scorch the leaves. It can handle some light shade during the summer without any negative effects. As it tends to be more tolerant of cooler temperatures, it can handle full sun in the winter months."
+        },
+        {
+          "id": 8086,
+          "type": "pruning",
+          "description": "For the Butterfly Bush (Buddleja davidii 'Peakeep' PEACOCK):\n\nPruning should be done 2 to 3 times during the growing season. The first prune should take place in early to mid spring, just as new growth begins to appear. During this prune, remove any dead branches and thin any overly crowded shoots.\n\nThe second prune should be done in late spring or early summer, after the bush has finished flowering. This is when you should deadhead any spent blooms and also remove any stems that have become unruly or look too crowded.\n\nFinally, in late summer or early fall, give the Butterfly Bush 1 more pruning before the winter. Cut back overgrown stems to keep the bush bushy and tidy. Doing this will allow for more light and air circulation, which will improve flowering the following season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

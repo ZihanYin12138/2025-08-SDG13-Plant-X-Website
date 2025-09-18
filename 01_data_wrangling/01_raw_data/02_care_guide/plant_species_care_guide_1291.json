@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2554,
+      "species_id": 1291,
+      "common_name": "Japanese white birch",
+      "scientific_name": [
+        "Betula platyphylla 'Fargo' DAKOTA PINNACLE"
+      ],
+      "section": [
+        {
+          "id": 7868,
+          "type": "watering",
+          "description": "Water Japanese white birches regularly with approximately 1 inch of water per week during the growing season and decrease the amount of water during the winter months. Water plants deeply, so that the moisture penetrates the soil, and allow the top inch of the soil to dry out before re-watering. Mulch soil around plants to help conserve water and maintain moisture in the soil."
+        },
+        {
+          "id": 7869,
+          "type": "sunlight",
+          "description": "Japanese white birch (Betula platyphylla 'Fargo' DAKOTA PINNACLE) is a deciduous tree that prefers at least 6 hours of direct sunlight per day. It does best in full sun, but can tolerate some light shade. Ideally, the tree should receive sun from dawn until mid-afternoon when the sun is at its highest and brightest. In areas with hot summers, it is wise to provide some afternoon shade to protect it from the harsh afternoon sun."
+        },
+        {
+          "id": 7870,
+          "type": "pruning",
+          "description": "Japanese white birch should be pruned in late winter or early spring, before the new growth begins. The tree should be pruned to shape and remove dead, diseased, or damaged branches, and to remove any competing branches or overly dense foliage to ensure the tree has good air circulation and access to sunlight. New growth should be thinned out to create a pleasing shape, while older, larger branches should be trimmed lightly to ensure their health. This pruning should be done on an annual basis, once or twice a year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

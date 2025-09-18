@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2611,
+      "species_id": 1359,
+      "common_name": "buffalo grass",
+      "scientific_name": [
+        "Buchloe dactyloides"
+      ],
+      "section": [
+        {
+          "id": 8039,
+          "type": "watering",
+          "description": "Buffalo Grass (Buchloe dactyloides) should be watered once per week, deeply and slowly, providing around 1 inch of water each time. Start watering at the base of the plant, slowly and evenly, and wait until the top inch of soil is wet before moving on to the next area. This species does not require frequent watering, and to avoid fungal diseases, try to water during the cooler times of the day i.e. early morning and early evening. It is important to check the soil moisture around the base of the plant several times a week, and only water when the top few inches are dry. Always adjust the amount of water based on recent rainfall, temperature, and amount of sunlight."
+        },
+        {
+          "id": 8040,
+          "type": "sunlight",
+          "description": "Buffalo grass (Buchloe dactyloides) needs about 6-8 hours of direct sunlight each day for optimal growth and health. It can also tolerate moderate shade but may not perform as well if grown in the shade. The best time to expose your plant to direct sunlight is during the morning, between 8am-10am, as this allows the plant to muster energy for the rest of the day but avoid afternoon sunlight during the hottest part of the day, where the sun’s intensity is highest (from 12pm-4pm), as this can potentially harm your plant."
+        },
+        {
+          "id": 8041,
+          "type": "pruning",
+          "description": "Buffalo grass (Buchloe dactyloides) should not be pruned too much or too often. Pruning should only be done during the fall or early winter when the grass is dormant. Pruning should be done by removing no more than 1 third of the grass tops. This will encourage a healthy growth pattern in the spring. Pruning should also be done no lower than 3-4 inches, as this height helps to protect the grass from extreme temperatures. If too much of the grass is removed, especially during warm, dry periods, the grass may not recover from it. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

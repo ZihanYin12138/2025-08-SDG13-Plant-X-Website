@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2553,
+      "species_id": 1290,
+      "common_name": "Japanese white birch",
+      "scientific_name": [
+        "Betula platyphylla"
+      ],
+      "section": [
+        {
+          "id": 7865,
+          "type": "watering",
+          "description": "Japanese white birch should be watered once a week. To do this, water the soil until it is slightly moist, then allow the top inch of soil to become dry before watering again. Avoid over-watering as this could lead to root and stem rot. If the soil becomes too dry down to the root level, the plant may need an extra watering to replenish the water."
+        },
+        {
+          "id": 7866,
+          "type": "sunlight",
+          "description": "Japanese white birch (Betula platyphylla) serves best in an environment where it receives plenty of sunlight. Generally, the tree thrives best if it receives 6 to 8 hours of direct sunlight each day. The tree does not do well in areas with intense heat and no shade so it should be placed in areas that can provide some protection from the direct sunlight. In the winter months, Japanese white birch can handle slightly less sunlight than during summer months. During the winter, 4 to 6 hours of direct sunlight is enough to keep the species thriving."
+        },
+        {
+          "id": 7867,
+          "type": "pruning",
+          "description": "Japanese White Birch should be pruned in late winter or early spring when the plant is dormant. Light pruning is recommended to shape the tree and to remove branches if necessary. Pruning should focus on removing dead, diseased, or damaged branches while maintaining the trees’ shape and structure. If the tree is young, yearly pruning will encourage the desired branching structure. If the tree is older, pruning should be done to remove dead branches and thin out crowded canopies. Proper pruning will also help reduce the chances of damage from dead, brittle limbs and from a dense canopy blocking out sunlight from other nearby plants."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

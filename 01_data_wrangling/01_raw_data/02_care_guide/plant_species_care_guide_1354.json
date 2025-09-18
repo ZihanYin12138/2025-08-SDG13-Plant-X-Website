@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2606,
+      "species_id": 1354,
+      "common_name": "Siberian bugloss",
+      "scientific_name": [
+        "Brunnera macrophylla 'Looking Glass'"
+      ],
+      "section": [
+        {
+          "id": 8024,
+          "type": "watering",
+          "description": "Most Siberian bugloss plants need to be kept evenly moist throughout the growing season. Water your plant thoroughly when the soil becomes dry to the touch or the leaves start to droop. Ensure the soil is thoroughly moist but not waterlogged, as this can lead to root rot. In hottest weather, water twice a week, and in cooler weather, once a week should suffice. During the winter months, while the plant is dormant, water it only every other week."
+        },
+        {
+          "id": 8025,
+          "type": "sunlight",
+          "description": "Siberian bugloss (Brunnera macrophylla 'Looking Glass') requires moderate levels of sunlight all year round. This species is best grown in part-sun to part-shade, with the ideal amount of sunlight being 4 to 6 hours of direct sunlight per day in the warmer months and as much as 8 hours of sunlight in the shorter days of winter. It is during these shorter days that the Siberian bugloss plant may need a little more assistance with providing light and should be moved to a sunnier spot if necessary."
+        },
+        {
+          "id": 8026,
+          "type": "pruning",
+          "description": "Siberian bugloss (Brunnera macrophylla 'Looking Glass') can be pruned once a year in early spring. The plant looks its best when pruned back to where the new growth is emerging from the stems. Avoid taking off too much of the old leaves, leaving a small portion of them so that the plant maintains its attractive appearance. Prune off leggy stems that have become weak and have lost their foliage. Also, remove any dead or damaged stems and seed heads that have formed over winter."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

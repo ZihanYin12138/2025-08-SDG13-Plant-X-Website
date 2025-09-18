@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2588,
+      "species_id": 1333,
+      "common_name": "turnip",
+      "scientific_name": [
+        "Brassica rapa (Rapifera Group)"
+      ],
+      "section": [
+        {
+          "id": 7970,
+          "type": "watering",
+          "description": "Turnips require approximately 1-2 inches of water a week. They prefer deep, infrequent watering. It is better to water deeply and less often than to water lightly and more frequently. When watering, the soil should be moistened to a depth of at least 8 inches. Turnips should not be overwatered, as this may lead to root and foliage diseases. To ensure that the soil is not over- or under-watered, it is best to check the soil moisture level with your finger or a soil moisture meter before watering."
+        },
+        {
+          "id": 7971,
+          "type": "sunlight",
+          "description": "Turnip plants (Brassica rapa (Rapifera Group)) need at least 6 hours of direct, unfiltered sunlight each day for optimal growth. This should be spread throughout the day rather than all at once; full-sun plants should have 6 to 8 hours of direct sunlight. If this cannot be provided, then partial shade should be allowed with indirect sunlight for 3-4 hours per day. Turnips should not be exposed to full sun for more than 12 hours per day, as this can lead to burn or dryness of the leaves. Planting in late summer or early fall will result in optimal sunlight exposure for turnips."
+        },
+        {
+          "id": 7972,
+          "type": "pruning",
+          "description": "Turnips are a fast growing and easy to care for plant species. Pruning of turnips helps keep them healthy and manageable. For best results, turnips should be pruned every 4 to 6 weeks for the entire growing season. \n\nWhen pruning turnips, pay attention to the size and shape of the plants. Always cut off any damaged or dead leaves, stems, or any other parts of the plant. To encourage branching out and healthy growth, prune the lower leaves at the base of the plant. This will also help with air circulation and reduce pest problems.\n\nFor maximum growth, remove any large or elongated leaves and thin the canopy of the plant. Pruning will also control the flowering of turnips and help keep them from going to seed early.  \n\nWhen pruning turnips, be sure to use a clean and sharp pair of shears, scissors, or pruning blades. Make sure to sanitize the tools after each use to reduce the spread of disease. When handled and managed properly, turnips will grow and prosper in any home garden."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

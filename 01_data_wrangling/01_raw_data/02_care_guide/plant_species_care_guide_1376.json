@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2624,
+      "species_id": 1376,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja davidii 'Nanho Blue'"
+      ],
+      "section": [
+        {
+          "id": 8078,
+          "type": "watering",
+          "description": "This plant species should be watered once every 5-7 days, depending on the season and how much rainfall is received. During the spring, summer and fall, butterfly bush prefers an even and consistent watering schedule to keep the soil moist. During the wintertime, the plant will still need some water, however, it should not be over watered. It is suggested to wait to water until the top 1-2 inches of soil begin to dry out."
+        },
+        {
+          "id": 8079,
+          "type": "sunlight",
+          "description": "Butterfly bush (Buddleja davidii 'Nanho Blue') is a sun-loving plant that need full sun or 6 or more hours of direct sunlight each day. During the spring and summer months, this species will benefit from full sun throughout the day in order to produce the most blooms. During the winter months, try to provide the plant with as much indirect sunlight as possible, such as placing the pot near a south-facing window or in a greenhouse. Additionally, you may need to provide additional artificial lighting such as a grow lamp for a few hours per day in the winter to ensure the plant receives enough sun."
+        },
+        {
+          "id": 8080,
+          "type": "pruning",
+          "description": "The best time to prune a Butterfly Bush (Buddleja davidii 'Nanho Blue') is in late winter or early spring, before new growth appears. Prune the shrub to the desired size and shape of the plant. Be sure to leave the thickest branches and shoots at the bottom, as new growth is likely to occur from there. Remove any dead, diseased, or damaged branches. Monitor the plant closely and remove any new, unexpected shoots that appear. Prune back the stems to encourage more outward growth and a better shape. Cut back the stems to just above a healthy bud. Generally, you should prune ½ to third of the plant's growth each year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

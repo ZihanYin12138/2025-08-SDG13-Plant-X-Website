@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2581,
+      "species_id": 1324,
+      "common_name": "cabbage",
+      "scientific_name": [
+        "Brassica oleracea (Capitata Group) 'Ruby Perfection'"
+      ],
+      "section": [
+        {
+          "id": 7949,
+          "type": "watering",
+          "description": "Cabbage should be watered regularly but not too frequently. The soil should be kept moist but not soaked. Ideally, water once a week with 1-2 inches of water. It's important to use water that is at room temperature so as not to shock the plant. Water around the base of the plant, avoiding the leaves, to avoid diseases. In warmer temperatures or during dry periods, water more often. Make sure to allow the top inch of soil to dry before watering again."
+        },
+        {
+          "id": 7950,
+          "type": "sunlight",
+          "description": "Cabbage (Brassica oleracea (Capitata Group) 'Ruby Perfection') requires a minimum of 6 hours of direct sunlight each day in order to grow and produce heads. Cabbage should be planted in an area that receives full sun for most of the day. During the hot summer months, it is important to keep the soil around the plant moist and avoid wilting by providing shade during the hottest part of the day."
+        },
+        {
+          "id": 7951,
+          "type": "pruning",
+          "description": "Cabbage (Brassica oleracea (Capitata Group) 'Ruby Perfection') should be pruned regularly for optimal plant health and harvesting. Pruning is best done in the early spring before flower buds appear. With pruning shears or scissors, trim the stems of the cabbage down to 8 inches above the soil line. This will encourage bushier growth and remove any dead or weak foliage. If you need to harvest more leaves, you can remove up to 1-third of the leaves and stems at a time. Make sure to sterilize your pruning tools between uses to avoid spreading diseases or pests. Pruning regularly throughout the season will ensure a healthier and higher yield of cabbage later in the year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

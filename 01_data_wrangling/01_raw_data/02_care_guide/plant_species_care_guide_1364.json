@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2615,
+      "species_id": 1364,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja 'Bicolor'"
+      ],
+      "section": [
+        {
+          "id": 8051,
+          "type": "watering",
+          "description": "It is important to water the Butterfly Bush (Buddleja 'Bicolor') regularly for best results. During the summer months, it should be watered deeply 1-2 times per week to ensure maximum moisture. For the rest of the year, the plant should be watered when the top inch of soil is dry, or about 2-3 times per week. It is important to avoid over-watering as this can sicken the plant. When watering, try to water the soil around the base of the plant instead of spraying water directly on the foliage."
+        },
+        {
+          "id": 8052,
+          "type": "sunlight",
+          "description": "The butterfly bush (Buddleja 'Bicolor') is considered a sun-loving plant. It will thrive in full sunlight or partial shade, but it will produce more blooms if it is placed in a spot with 6 to 8 hours of direct sun each day. During the summer months, afternoon shade can be helpful in hot climates to avoid scorching the leaves. The plant will also benefit from a few hours of early morning sun in chillier months. A plant in shade may not flower as abundantly as 1 in sun."
+        },
+        {
+          "id": 8053,
+          "type": "pruning",
+          "description": "Butterfly bush (Buddleja 'Bicolor') should be pruned to keep it looking healthy and encouraging new growth. Generally, it should be pruned in early spring, just after any last frost has passed. This is the best time to prune it as it will encourage new growth that will bloom in the summer. You should aim to prune the Butterfly Bush to about 1-third to 1-half its original height. This will stimulate new growth and more flowers but it should not be pruned down to the ground level. Be sure to prune any dead, diseased, or damaged branches first to encourage healthy growth. When finished, the Butterfly Bush should show a nice rounded shape and should generally not be sheared into a particular shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

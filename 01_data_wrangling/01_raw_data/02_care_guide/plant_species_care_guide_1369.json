@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2618,
+      "species_id": 1369,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja davidii 'Black Knight'"
+      ],
+      "section": [
+        {
+          "id": 8060,
+          "type": "watering",
+          "description": "Butterfly bush (Buddleja davidii 'Black Knight') should be watered once a week, unless there is continuous rain, in which case additional watering will not be needed. Water deeply and thoroughly, to ensure that the entire root system is saturated. Make sure to avoid over-watering - typically a 2 - 3 inch (5 - 8 cm) layer of mulch around the base of the bush can help retain soil moisture, and will also help to keep the root zone cool in hot weather."
+        },
+        {
+          "id": 8061,
+          "type": "sunlight",
+          "description": "The butterfly bush (Buddleja davidii 'Black Knight') requires full sun to ensure optimal growth. This sun-loving shrub should receive at least 8 hours of direct sunlight each day for lush blooms. The best time for the butterfly bush to receive full sun is during the morning and afternoon when the sun is at its strongest. Planting the butterfly bush in an area located on the south or west side of your home can help it get the most of the sun's rays. To keep your butterfly bush looking its best, be sure to prune it back each winter and keep the soil it's planted in moist and free of weeds."
+        },
+        {
+          "id": 8062,
+          "type": "pruning",
+          "description": "For pruning butterfly bush (Buddleja davidii 'Black Knight'), it is best to prune in early spring before new growth begins. Remove about 1/3 of the older canes and any dead, diseased, or broken branches, and thin out any crowded branches. This will help promote a healthier, more vigorous shrub. To maintain a compact form, lightly trim the shrub after it blooms in late summer and early fall."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

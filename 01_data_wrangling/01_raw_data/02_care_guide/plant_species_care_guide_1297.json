@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2558,
+      "species_id": 1297,
+      "common_name": "meadow bistort",
+      "scientific_name": [
+        "Bistorta officinalis"
+      ],
+      "section": [
+        {
+          "id": 7880,
+          "type": "watering",
+          "description": "Meadow bistort (Bistorta officinalis) does best with regular watering when grown in an area where rainfall is not frequent. Generally, during the growing season, these plants should be watered roughly once per week, saturating the soil until damp. During particularly hot or dry spells, however, it may be necessary to increase watering frequency to as often as a few times per week. During the winter months, when the plants are dormant, they require much less water—about once every 2 to 3 weeks—as long as the soil is not totally dry. When watering, it's important to take extra care to avoid splashing water on the leaves, as this can cause fungal spotting to occur."
+        },
+        {
+          "id": 7881,
+          "type": "sunlight",
+          "description": "Meadow bistort (Bistorta officinalis) thrives in full sun, and is best grown in an area that is sunny for at least 6 to 8 hours daily. With sufficient sunlight, this species will flourish and produce the most vibrant foliage and flowers. They do best in areas with direct sun exposure, and can tolerate some shade but will not bloom as well as those in more sun. Avoid excessive shade for meadow bistort, as the plant may become leggy and produce fewer flowers."
+        },
+        {
+          "id": 7882,
+          "type": "pruning",
+          "description": "Meadow bistort (Bistorta officinalis) should be pruned in late autumn or early spring. Pruning should be minimal, as this species is best left to its natural form. It is recommended to trim any dead or discolored foliage and/or flower stalks, any spent blooms, and any shoots that are growing in an unruly manner. Try to thin out the overcrowded sections by removing some of the older stems. Be careful not to remove too many of the stems, as this area of the plant is vital for energy storage and forming new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

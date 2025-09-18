@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2579,
+      "species_id": 1322,
+      "common_name": "cabbage",
+      "scientific_name": [
+        "Brassica oleracea (Capitata Group)"
+      ],
+      "section": [
+        {
+          "id": 7943,
+          "type": "watering",
+          "description": "Cabbage should be watered every 5-7 days, depending on weather conditions. The soil should be kept moist but not wet, so water lightly and avoid saturating the soil. During dry conditions, water more frequently and water until the water runs out of the bottom of the pot. Try to water in the morning or early evening. Avoid letting the leaves get wet in order to prevent diseases such as powdery mildew or black rot."
+        },
+        {
+          "id": 7944,
+          "type": "sunlight",
+          "description": "Cabbage (Brassica oleracea (Capitata Group)) prefers to grow in full sunlight. An ideal location for growing cabbage would receive at least 6 to 8 hours of direct sunlight each day during the growing season. If possible, the cabbage should receive more than 8 hours of direct sunlight, albeit in filtered or dappled sunlight during the hottest part of the day. During the early stages of growth, the plants should receive cooler temperatures in the morning and evening and receive the full amount of sunlight during the daytime hours. In hot areas, some shading during the heat of the day might be needed. If your cabbage does not receive enough sunlight, the heads may fail to form properly, or be small and lacking in flavor."
+        },
+        {
+          "id": 7945,
+          "type": "pruning",
+          "description": "Cabbage should be pruned when it is young and when there are 6 to 8 leaves to ensure proper growth and development. In general, pruning should be done when the plant is about 4 to 5 inches tall, as individual branches can be easily identified. Pruning should be done by removing old and diseased outer leaves, as well as stems that are growing too close to the center of the plant. This will encourage outward growth and ensure that the remaining leaves develop properly. Prune off the top 1/3 of the main stem, and then pinch off any additional adjacent stems that are competing and growing too close together. Prune off any flower buds as soon as they appear so that the plant focuses its energy on leaf development. Enjoy your healthy and productive cabbage plant!"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2603,
+      "species_id": 1351,
+      "common_name": "Siberian bugloss",
+      "scientific_name": [
+        "Brunnera macrophylla 'Jack Frost'"
+      ],
+      "section": [
+        {
+          "id": 8015,
+          "type": "watering",
+          "description": "Siberian bugloss (Brunnera macrophylla 'Jack Frost') should be watered about once a week. During warmer weather, it may need to be watered more often. If the upper 2 inches of soil is dry then it is time to water. Be sure to water deeply and evenly to encourage a strong root system. This plant thrives in moist, but well-drained soil, so don't allow the plant to sit in water. Over-watering can lead to root rot, so this should be avoided."
+        },
+        {
+          "id": 8016,
+          "type": "sunlight",
+          "description": "Siberian bugloss (Brunnera macrophylla 'Jack Frost') does best when it receives 4-6 hours of direct sunlight per day. In the spring and summer months, direct sunlight can even be increased to 6-8 hours per day, but during the hottest times of the day, partial shade should be provided for the plant. During the winter months, Siberian bugloss should receive at least 2 hours of direct sunlight per day, but more is preferable. Partial shade will help protect the plant from excessive cold temperatures or winds."
+        },
+        {
+          "id": 8017,
+          "type": "pruning",
+          "description": "Pruning should be done in late winter or early spring each year for Siberian bugloss (Brunnera macrophylla 'Jack Frost'). This is best done before the plant begins to produce new growth in the spring. It is important when pruning to only remove the dead and damaged leaves and stems as it may otherwise affect the plant’s ability to produce flowers and foliage. It is beneficial to also trim back any overly aggressive growth or stems that have grown too long. When pruning, remove no more than 1/3 of the total plant. This will allow the plant to retain its shape while keeping it healthy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2586,
+      "species_id": 1330,
+      "common_name": "pak-choi",
+      "scientific_name": [
+        "Brassica rapa (Chinensis Group)"
+      ],
+      "section": [
+        {
+          "id": 7964,
+          "type": "watering",
+          "description": "It is important to provide adequate water for Pak-choi (Brassica rapa (Chinensis Group)) plants, as they are moderate to heavy feeders and require frequent watering for optimal growth.\n\nQuantity of Water: Moderate to heavy feeders, Pak-choi needs approximately 2 inches of water each week in order to thrive. Spread this evenly throughout the week, ensuring that the soil stays moist without flooding.\n\nFrequency of Water: Water thoroughly whenever the soil is dry or beginning to dry out. You should water the plants at least every 3-4 days during the growing season. During the hot months, you may need to water daily or even more often. Make sure to check the soil regularly."
+        },
+        {
+          "id": 7965,
+          "type": "sunlight",
+          "description": "Pak-choi, also known as bok-choi, is a member of the Brassica rapa (Chinensis Group) and is considered a cool-season vegetable crop. This plant species grows best in temperatures between 55 and 65°F and requires at least 6 hours of direct sunlight every day in order to maximize its growth. It is important to note that temperature and hours of direct sunlight may vary depending on the geographic location or season. \n\nFor example, pak-choi grown in the Northern Hemisphere during the summer may require up to 8 hours of direct sunlight per day to maximize its growth potential and yield. On the other hand, pak-choi in the Southern Hemisphere during the winter might only require 4 or 5 hours of direct sunlight to ensure the plant's growth and development. \n\nFinally, it is important to remember that pak-choi is a low-maintenance crop and does not require very long periods of direct sunlight. Too much direct sunlight can reduce the plant's productivity or even cause it to wither. When selecting a suitable location for planting pak-choi, it is important to choose a location that receives several hours of direct sunlight during the day, but is not in a place that receives too much direct sunlight and could cause it to become sunburnt or wilt."
+        },
+        {
+          "id": 7966,
+          "type": "pruning",
+          "description": "Pak-Choi should be pruned regularly to encourage healthy growth, as too much foliage can hinder sunlight from reaching the lower leaves. Prune during the growing season by cutting off any dead or withered leaves or stems. This will keep the plant looking neat and encourage new growth. Pruning should be done once every 2-4 weeks. However, if the plant is growing very quickly you can shorten this pruning interval to once a week. When pruning, only remove about 1-third of the stem or branch. This will ensure that the plant is not too heavily pruned and can still grow healthily."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

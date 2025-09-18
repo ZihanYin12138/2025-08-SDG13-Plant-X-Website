@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2592,
+      "species_id": 1338,
+      "common_name": "common quaking grass",
+      "scientific_name": [
+        "Briza media"
+      ],
+      "section": [
+        {
+          "id": 7982,
+          "type": "watering",
+          "description": "Common quaking grass should be watered regularly, about once a week, so that the soil stays lightly moist. Watering should be done in the morning or early afternoon so the foliage can dry out before nightfall. If the area the plant is grown in is particularly hot and dry, an extra weekly watering may be necessary. Be careful not to overwater, however, as this can lead to root rot."
+        },
+        {
+          "id": 7983,
+          "type": "sunlight",
+          "description": "Common quaking grass (Briza media) benefits from sunny and light conditions, with 6-7 hours of direct daily sunlight being ideal. This species prefers full sun exposure during the cooler periods of the day for optimum growth. When temperatures rise, partial shade should be provided to ensure the plant remains cool. A south-facing window or sunny outdoor patio is an ideal environment for providing the sunlight conditions that this species needs."
+        },
+        {
+          "id": 7984,
+          "type": "pruning",
+          "description": "For common quaking grass (Briza media), pruning should be done fairly often throughout the growing season. Pruning should begin in early spring as soon as new growth appears. During this time, remove any dead, damaged, or diseased foliage, as well as any stalks that appear to be weak or spindly. Afterwards, prune back the remaining foliage and stems by about a third.\n\nDuring the summer months, continue pruning back any stalks that appear weak or spindly. Some of the stem tips can also be pruned back to encourage fuller growth. Pruning of the stems should be done in such a way that the plant has an even, full, upright shape.\n\nIn late summer or early fall, perform a final pruning. Remove any dead, damaged, or diseased foliage. In addition, thin out any thick or overgrown patches of foliage. After pruning, lightly fertilize the plant with a balanced fertilizer to encourage health and regrowth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
