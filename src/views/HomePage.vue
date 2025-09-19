@@ -4,6 +4,7 @@ import { searchPlants, type PlantCardItem } from '@/api/plants'
 import PlantCard from '@/components/PlantCard.vue'
 import PlantCardSkeleton from '@/components/CardSkeleton.vue'
 
+
 const plants = ref<PlantCardItem[]>([])
 const loading = ref(false)
 const error = ref('')
@@ -335,15 +336,16 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
   <section class="section container">
     <h2 class="title">More About Our Goal and Vision</h2>
 
-    <div class="card">
+    <div class="container">
       <h2>🌱 Victoria Plants Index (1985–2021)</h2>
-      <p>
+
+      <div class="plantindex">
+        <img src="@/assets/mainindex.png" class="miimg"/>
+         <p class="mitext">
         This chart shows that threatened plants in Victoria have declined by over 70% since 1985.
         Climate change, droughts, and habitat loss are major pressures. By choosing native, climate-resilient plants and gardening ecologically,
         home gardeners can help support biodiversity.
-      </p>
-      <div class="plantindex">
-
+        </p>
       </div>
     </div>
 
@@ -354,7 +356,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
         <p class="muted">Impacts on native plants & ecosystems</p>
       </div>
 
-      <div class="card clickable" @click="openModal('g2')">
+      <div class="card clickable" @click="openModal('g2')" >
         <h2 class="card__title">How Your Garden Support Nature In a Changing Climate</h2>
         <p class="muted">How your garden helps nature</p>
       </div>
@@ -703,5 +705,26 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
     padding: .75rem 1rem 1rem;
   }
   .pager--left .pager__dots{ flex-direction: row; }
+}
+
+.plantindex{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  text-align: justify;
+
+}
+.miimg{
+  max-width: 55%;
+  max-height: 55%;
+}
+
+.mitext{
+  margin-top: 70px;
+  font-size: large;
+}
+
+.grid.cards.vertical{
+  margin-top: 20px;
 }
 </style>

@@ -1,6 +1,4 @@
-import { name } from '@vue/eslint-config-prettier/skip-formatting';
 import { createRouter, createWebHistory } from 'vue-router'
-
 
 const routes = [
   {
@@ -14,6 +12,13 @@ const routes = [
     name: 'Garden',
     component: () => import('../views/GardenPage.vue'),
     meta: { title: "Garden · Plant'X" }
+  },
+  // 直接重定向到带锚点的 Garden
+  {
+    path: '/disease',
+    name: 'DiseaseSearch',
+    redirect: { name: 'Garden', hash: '#diseases' },
+    meta: { title: "Diseases · Plant'X" }
   },
   {
     path: '/urbanwild',
@@ -36,32 +41,55 @@ const routes = [
   {
     path: '/plants/:id',
     name: 'PlantDetail',
-    component: () => import('@/views/PlantDetail.vue'),
+    component: () => import('../views/PlantDetail.vue'),
     props: true,
-    meta: { title: "Plant Detail · Plant'X" },
+    meta: { title: "Plant Detail · Plant'X" }
   },
   {
     path: '/disease/:id',
     name: 'DiseaseDetail',
     component: () => import('../views/DiseaseDetail.vue'),
-    meta: { title: "Disease Detail · Plant'X"}
-  },
-];
+    props: true,
+    meta: { title: "Disease Detail · Plant'X" }
+  }
+]
+
+const HEADER_OFFSET = 15;
+
+function scrollToHash(hash) {
+  const el = document.querySelector(hash);
+  if (!el) return false;
+
+  const rect = el.getBoundingClientRect();
+  const absoluteTop = rect.top + window.scrollY - HEADER_OFFSET;
+  window.scrollTo({ top: absoluteTop, left: 0, behavior: 'smooth' });
+  return true;
+}
 
 const router = createRouter({
   history: createWebHistory(),
   routes,
-  scrollBehavior(to, from, savedPosition) {
-    if (savedPosition) {
-      return savedPosition
-    } else {
-      return { left: 0, top: 0 }
+  async scrollBehavior(to, from, savedPosition) {
+    if (savedPosition) return savedPosition;
+
+    if (to.hash) {
+      // 最多等 1s，每 50ms 检查一次目标是否出现
+      for (let i = 0; i < 20; i++) {
+        await new Promise(r => setTimeout(r, 50));
+        if (scrollToHash(to.hash)) return false; // 我们自己滚动了
+      }
+      // 兜底
+      return { left: 0, top: 0 };
     }
+
+    return { left: 0, top: 0 };
   }
 })
 
-router.afterEach((to)=>{
-  document.title = to.meta?.title || "Plant'X"
+
+
+router.afterEach((to) => {
+  document.title = (to.meta && to.meta.title) || "Plant'X"
 })
 
 export default router
