@@ -1,8 +1,7 @@
 // src/api/pdisease.js
 const BASE = 'https://ky21h193r2.execute-api.us-east-1.amazonaws.com/plantx/diseases'
-const DEFAULT_SEED = 'a'
+const DEFAULT_SEEDS = ['a', 'e', 'i', 'o', 'u']
 
-// —— 映射一条疾病记录到前端所需结构 —— //
 function mapItem(raw) {
   const id = raw.plant_disease_id
   const name = raw.common_name || ''
@@ -49,7 +48,6 @@ async function fetchJson(url) {
   return JSON.parse(text)
 }
 
-// 兼容不同后端“总数字段名”
 function pickTotal(data) {
   const candidates = [
     data?.total,
@@ -69,19 +67,54 @@ function pickTotal(data) {
 
 /**
  * 搜索疾病（分页）：
+ * - 若 q 为空：用 seeds 循环抓取所有匹配 ID 去重统计 total
  * - 若后端返回 total：直接用
  * - 若没有 total：overfetch（limit+1）判断 hasNext，并给“渐进式总数”
  */
 export async function searchDiseases(q, { page = 1, pageSize = 8 } = {}) {
-  const query = (q && q.trim()) ? q.trim() : DEFAULT_SEED
+  const query = (q && q.trim()) ? q.trim() : ''
   const offset = Math.max(0, (Number(page) || 1) - 1) * pageSize
 
-  // 先按正常页大小取一次
+  // 如果没有搜索词，用 seeds 去重统计 total
+  if (!query) {
+    const idSet = new Set()
+
+    for (const s of DEFAULT_SEEDS) {
+      let innerOffset = 0
+      let hasMore = true
+
+      while (hasMore) {
+        const data = await fetchJson(`${BASE}?q=${encodeURIComponent(s)}&limit=50&offset=${innerOffset}`)
+        const items = Array.isArray(data.items) ? data.items : []
+        for (const item of items) {
+          idSet.add(item.plant_disease_id)
+        }
+        innerOffset += items.length
+        hasMore = items.length > 0 && items.length === 50
+      }
+    }
+
+    const total = idSet.size
+
+    // 默认用第一个 seed 取第一页数据
+    const data1 = await fetchJson(`${BASE}?q=${encodeURIComponent(DEFAULT_SEEDS[0])}&limit=${pageSize}&offset=${offset}`)
+    const items1 = Array.isArray(data1.items) ? data1.items.map(mapItem) : []
+    const hasNext = offset + items1.length < total
+
+    return {
+      items: items1,
+      page,
+      pageSize,
+      total,
+      hasNext,
+    }
+  }
+
+  // 有搜索词：按原逻辑
   const baseUrl = `${BASE}?q=${encodeURIComponent(query)}&limit=${pageSize}&offset=${offset}`
   const data1 = await fetchJson(baseUrl)
   const items1 = Array.isArray(data1.items) ? data1.items.map(mapItem) : []
 
-  // 若后端已经提供 total，直接返回
   const knownTotal = pickTotal(data1)
   if (knownTotal !== null) {
     const hasNext = offset + items1.length < knownTotal
@@ -101,10 +134,7 @@ export async function searchDiseases(q, { page = 1, pageSize = 8 } = {}) {
   const items2 = Array.isArray(data2.items) ? data2.items.map(mapItem) : []
   const hasNext = items2.length > pageSize
 
-  // 最终用于显示的本页数据
   const items = items2.slice(0, pageSize)
-
-  // “渐进式总数”：不是末页 -> 给最小可能总数，末页 -> 给精确总数
   const softTotal = hasNext
     ? offset + pageSize + 1
     : offset + items.length
@@ -118,20 +148,13 @@ export async function searchDiseases(q, { page = 1, pageSize = 8 } = {}) {
   }
 }
 
-/**
- * 详情：优先使用 ?plant_disease_id= 接口；若不支持则回退到种子扫描
- */
 export async function getDiseaseById(id) {
   const byIdUrl = `${BASE}?plant_disease_id=${encodeURIComponent(id)}`
   try {
     const data = await fetchJson(byIdUrl)
     const first = Array.isArray(data.items) ? data.items[0] : null
     if (first) return mapItem(first)
-  } catch {
-    // ignore and fallback
-  }
-
-  // 回退：用常见字母 seed 扫描
+  } catch {}
   const seeds = ['a', 'e', 'i', 'o', 'u', 'r', 's', 't', 'n']
   const seen = new Set()
   for (const s of seeds) {
@@ -148,10 +171,6 @@ export async function getDiseaseById(id) {
   throw new Error(`Disease not found for id=${id}`)
 }
 
-/**
- * 把识别结果扩展成疾病详情（保留概率/置信度）
- * predictions: [{ predicted_id | disease_id | plant_disease_id | id, probability?, confidence? }]
- */
 export async function expandPredictionsToDiseases(predictions = []) {
   function pickId(p = {}) {
     const raw =
