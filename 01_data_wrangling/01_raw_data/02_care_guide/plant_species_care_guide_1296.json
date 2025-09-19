@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1020,
+      "species_id": 1296,
+      "common_name": "Bismarck palm",
+      "scientific_name": [
+        "Bismarckia nobilis"
+      ],
+      "section": [
+        {
+          "id": 3051,
+          "type": "watering",
+          "description": "The Bismarck palm is a very drought-tolerant plant species. As such, it typically needs very little water in order to thrive. During the hot summer months, however, the Bismarck palm should be deeply watered every 2 weeks. During the cooler months of spring and autumn, it should be watered only once a month. Also, the soil should be allowed to dry out between watering sessions. Deep soaking once a month is usually sufficient for the Bismarck palm."
+        },
+        {
+          "id": 3060,
+          "type": "sunlight",
+          "description": "Bismarck palm (Bismarckia nobilis) prefers bright sunlight, so it should be placed in an area with plenty of direct sunlight for at least 6 to 8 hours per day. The position of the plant should be changed as the season progresses to ensure that it receives consistent light, and to avoid sunburn. "
+        },
+        {
+          "id": 3069,
+          "type": "pruning",
+          "description": "The Bismarck palm (Bismarckia nobilis) should be pruned twice a year, typically once in springtime and then again in late summer/early fall. Pruning should be done carefully and selectively to thin out dead leaves and remove any damaged fronds. Pruning should be done to support the natural shape and form of the palm and should take away no more than 1/4 to 1/3 of the fronds. It's important not to over-prune or over-thin the palm, as this will damage its overall health."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

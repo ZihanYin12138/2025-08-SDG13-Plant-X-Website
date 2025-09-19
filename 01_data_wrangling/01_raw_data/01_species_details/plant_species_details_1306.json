@@ -1,0 +1,146 @@
+{
+  "id": 1306,
+  "common_name": "false aster",
+  "scientific_name": [
+    "Boltonia asteroides var. latisquama 'Snowbank'"
+  ],
+  "other_name": [
+    "Snowbank aster",
+    "White Doll's Daisy"
+  ],
+  "family": "Asteraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Snowbank",
+  "variety": "var. latisquama ",
+  "species_epithet": "asteroides",
+  "genus": "Boltonia",
+  "origin": [
+    "Eastern United States"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 5,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1306&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1306&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "anthers",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "foliage",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Partial Shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1306&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [
+    "Anthracnose",
+    " Fungal leaf spot",
+    " Mildew",
+    " Rust",
+    "  Pest resistant",
+    " Deer resistant",
+    " Rabbit resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "False aster (Boltonia asteroides var. latisquama 'Snowbank') is an amazing plant that has a unique beauty. It is perfect for any autumn garden or flower bed. With dark green foliage and bright white flowers, it adds a splash of colour to any outdoor space. In the early autumn it remains in bloom for several weeks, making it a feature from late summer to late fall. Snowbank has an upright form and grows up to four feet in height. This drought -and deer-resistant plant is easy to maintain and can tolerate wet summers. To top it off, its hardy nature makes it trouble free and easy to grow. False Aster really is an amazing plant that can add beauty to any garden.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1306_boltonia_asteroides_var_latisquama_snowbank/og/52583401176_4dab1f4031_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1306_boltonia_asteroides_var_latisquama_snowbank/regular/52583401176_4dab1f4031_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1306_boltonia_asteroides_var_latisquama_snowbank/medium/52583401176_4dab1f4031_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1306_boltonia_asteroides_var_latisquama_snowbank/small/52583401176_4dab1f4031_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1306_boltonia_asteroides_var_latisquama_snowbank/thumbnail/52583401176_4dab1f4031_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

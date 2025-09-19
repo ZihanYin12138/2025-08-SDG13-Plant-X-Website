@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2584,
+      "species_id": 1328,
+      "common_name": "ornamental cabbage",
+      "scientific_name": [
+        "Brassica oleracea (Ornamental Cabbage and Kale Group)"
+      ],
+      "section": [
+        {
+          "id": 7958,
+          "type": "watering",
+          "description": "When it comes to watering ornamental cabbage, it is important to find a balance between too much and too little. Too much water will cause your cabbage to become crowded, and too little water will cause it to wilt. \n\nThe soil must remain moist, but not soggy. In general, ornamental cabbage should be watered once or twice a week. Sandy soils will need more frequent watering than clay soils. \n\nTo test soil moisture, stick your finger into the soil an inch or 2, the soil should feel moist but not wet. If the soil is damp or soggy, wait a day or 2 before watering. \n\nIf the soil is dry to the touch, water thoroughly (until water runs out of the drainage holes at the bottom of the pot), then allow the soil to dry out before watering again.\n\nIf you have planted ornamental cabbage outdoors, it's important to provide 1 -2 inches of water per week, either through rainfall or irrigation. It is also important to regularly inspect your plants and look for signs of over or underwatering. Yellowing or wilting leaves may indicate that your cabbage is not getting enough water; while soft or slimy leaves may suggest overwatering."
+        },
+        {
+          "id": 7959,
+          "type": "sunlight",
+          "description": "Ornamental cabbage generally requires full sun or partial sun for up to 6-8 hours each day in order to thrive. It is best grown in cooler climates, and prefers temperatures between 40 and 50 degrees Fahrenheit during the day and between 28 and 36 degrees Fahrenheit at night. The plant should be placed in a spot that receives at least 6 hours of sunlight throughout the day, preferably during the late morning and afternoon."
+        },
+        {
+          "id": 7960,
+          "type": "pruning",
+          "description": "Ornamental Cabbage should be pruned in early spring and again when the plant has finished flowering. It should be lightly pruned by removing any dead or diseased leaves and flower heads. To encourage new growth, cut back the outermost stems to the crown or base of the plant. Pruning also helps control the overall size and shape of the ornamental cabbage. Also, after flowering, remove spent flowers or seedheads. Finally, keep the area around the plant weeded and free of debris."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

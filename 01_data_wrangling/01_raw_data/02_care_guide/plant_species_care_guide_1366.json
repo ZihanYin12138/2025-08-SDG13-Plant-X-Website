@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 684,
+      "species_id": 1366,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja davidii"
+      ],
+      "section": [
+        {
+          "id": 2054,
+          "type": "watering",
+          "description": "Watering for butterfly bush should depend on the environmental conditions, as this species will require more frequent watering in hot, dry climates. It is important to ensure that your butterfly bush does not dry out, but it is also important not to over water it. Generally, provide 1 inch of water per week during the growing season in the spring and summer. During the winter, water your butterfly bush every few weeks as necessary."
+        },
+        {
+          "id": 2055,
+          "type": "sunlight",
+          "description": "The butterfly bush (Buddleja davidii) prefers to grow in sunny spots throughout the day, with 8 or more hours of direct sunlight per day providing the best growing conditions. A consistent schedule of 8 to 10 hours of direct sunlight helps to ensure that this colorful and fragrant variety of shrub blooms at its best. Depending on its position in the garden, the butterfly bush may even benefit from some afternoon shade in the hottest summer months – this can help protect against leaf scorch, which can be damaging.  Generally, morning sun is most beneficial to this plant species, with afternoon shade to help conserve moisture until the temperatures cool a bit in late afternoon."
+        },
+        {
+          "id": 2056,
+          "type": "pruning",
+          "description": "Pruning for a butterfly bush is best completed in early spring, before new growth has had a chance to begin. You should remove any dead, broken, or diseased stems before pruning, as well as any flowering stems to minimize potential disease spread. For faster-growing varieties, pruning back by 2/3 of its overall size is recommended. For other varieties, pruning back by 1/3 will suffice. If you want to keep the bush compact and full, you should do light, more frequent pruning, such as deadheading, removing damaged stems, and selectively thinning out excess growth. Avoid over-pruning or shearing the bush into unnatural shapes."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

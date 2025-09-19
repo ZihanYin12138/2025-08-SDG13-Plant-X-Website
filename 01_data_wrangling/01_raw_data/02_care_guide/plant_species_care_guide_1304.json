@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2564,
+      "species_id": 1304,
+      "common_name": "false aster",
+      "scientific_name": [
+        "Boltonia asteroides 'Pink Beauty'"
+      ],
+      "section": [
+        {
+          "id": 7898,
+          "type": "watering",
+          "description": "False aster (Boltonia asteroides 'Pink Beauty') needs regular watering to keep its roots healthy and encourage lush growth. Water deeply but infrequently; you can provide approximately 1 inch of water once per week. If rainfall is sparse, you may need to increase the amount of water given to the plant. Make sure to check the soil for moisture before watering to ensure it is not too soggy or dry. Additionally, keep an eye out for signs of general wilting or yellowing to know when your false aster needs additional water."
+        },
+        {
+          "id": 7899,
+          "type": "sunlight",
+          "description": "False Aster (Boltonia asteroides 'Pink Beauty') prefers full sun exposure. Generally, it should be planted in an area that receives at least 5 to 6 hours of direct sunlight every day. When planting it in areas with more extreme temperatures, it should be placed in an area that receives some partial shade throughout the day. It may also need some protection during the hottest time of the day. During the winter, it should receive as much sunlight as possible."
+        },
+        {
+          "id": 7900,
+          "type": "pruning",
+          "description": "False Aster (Boltonia asteroides 'Pink Beauty') should be pruned annually in the spring, just before the new growth begins. Pruning should be done right after flowering, by cutting back the stems to half their original length. This will help to encourage bushiness, fuller growth and more profuse flowering. Deadheading can also be performed to help control the spread of unwanted seedlings. Finally, pinch back the tip of any particularly tall stems to help maintain a neat and uniform shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,120 @@
+{
+  "id": 1357,
+  "common_name": "Siberian bugloss",
+  "scientific_name": [
+    "Brunnera macrophylla 'Spring Yellow'"
+  ],
+  "other_name": [],
+  "family": "Boraginaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Spring Yellow",
+  "variety": null,
+  "species_epithet": "macrophylla",
+  "genus": "Brunnera",
+  "origin": [
+    "Turkey"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1357&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1357&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Deep shade",
+    " Filtered shade",
+    " Part sun/part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "December",
+    "January",
+    "February",
+    "March",
+    "April",
+    "June",
+    "July"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1357&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Slugs",
+    "snails",
+    "  Pest resistant",
+    " Disease resistant",
+    " Deer resistant",
+    " Rabbit resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Siberian bugloss (Brunnera macrophylla ‘Spring Yellow’) is a beautiful perennial plant with bright, showy yellow and green foliage and clusters of white flowers that bloom in mid-spring. The sprawling foliage is perfect for adding color to shaded gardens or borders. It's easy to grow and deer resistant. This hardy plant is ideal for climates with extreme cold temperatures, and it also adapts well to indoor planting. It thrives in moist areas and provides an eye-catching contrast to other green shrubs. Siberian bugloss is the perfect plant for adding bright beauty to shady gardens.",
+  "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/1357_brunnera_macrophylla_spring_yellow/og/blue-spring-forget-me-not-blue-flower.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1357_brunnera_macrophylla_spring_yellow/regular/blue-spring-forget-me-not-blue-flower.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1357_brunnera_macrophylla_spring_yellow/medium/blue-spring-forget-me-not-blue-flower.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1357_brunnera_macrophylla_spring_yellow/small/blue-spring-forget-me-not-blue-flower.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1357_brunnera_macrophylla_spring_yellow/thumbnail/blue-spring-forget-me-not-blue-flower.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

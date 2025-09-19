@@ -1,0 +1,128 @@
+{
+  "id": 1240,
+  "common_name": "Japanese barberry",
+  "scientific_name": [
+    "Berberis 'Tara' EMERALD CAROUSEL"
+  ],
+  "other_name": [],
+  "family": "Berberidaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Tara",
+  "variety": null,
+  "species_epithet": "'Tara'",
+  "genus": "Berberis",
+  "origin": [
+    "Japan"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1240&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1240&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "dark-green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "gray"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1240&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": true,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Japanese barberry (Berberis 'Tara' EMERALD CAROUSEL) is an amazing plant species for both its ornamental characteristics and its hearty nature. It features richly hued foliage ranging from deep purple to intense intens green, creating a striking contrast when displayed against lighter foliage and walls. This multi-season beauty overflows with profusions of soft, white flowers in spring and hosts gorgeous red fruit in summer adding an almost electric color to any traditional landscape. This durable, low-maintenance shrub provides an easy-care beauty to any garden and is sure to be a beautiful addition to any landscape without the fuss.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1240_berberis_tara_emerald_carousel/og/17782339794_aa88a436e4_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1240_berberis_tara_emerald_carousel/regular/17782339794_aa88a436e4_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1240_berberis_tara_emerald_carousel/medium/17782339794_aa88a436e4_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1240_berberis_tara_emerald_carousel/small/17782339794_aa88a436e4_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1240_berberis_tara_emerald_carousel/thumbnail/17782339794_aa88a436e4_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

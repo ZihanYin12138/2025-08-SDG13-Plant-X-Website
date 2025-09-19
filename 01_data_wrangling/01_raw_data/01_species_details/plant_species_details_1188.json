@@ -1,0 +1,114 @@
+{
+  "id": 1188,
+  "common_name": "Malabar spinach",
+  "scientific_name": [
+    "Basella alba"
+  ],
+  "other_name": [],
+  "family": "Basellaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "alba",
+  "genus": "Basella",
+  "origin": [
+    "Tropical Africa and tropical Asia"
+  ],
+  "type": "Vine",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Division"
+  ],
+  "hardiness": {
+    "min": "",
+    "max": ""
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1188&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1188&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1188&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": true,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Malabar spinach (Basella alba) is an amazing plant that is packed with vitamins and minerals such as calcium, magnesium, and iron. It is also low in calories and high in fiber. Plus, it is highly versatile and can be eaten cooked or raw. Plus, it is incredibly easy to grow, even in the most difficult soil conditions. Moreover, it thrives in warm climates, so it's perfect for those looking to add something hearty to their garden. With its amazing nutritional value and its hardiness, you can't go wrong with Malabar spinach.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1188_basella_alba/og/50350821888_88c39f8661_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1188_basella_alba/regular/50350821888_88c39f8661_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1188_basella_alba/medium/50350821888_88c39f8661_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1188_basella_alba/small/50350821888_88c39f8661_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1188_basella_alba/thumbnail/50350821888_88c39f8661_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

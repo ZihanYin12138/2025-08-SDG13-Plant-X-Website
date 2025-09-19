@@ -1,0 +1,127 @@
+{
+  "id": 1249,
+  "common_name": "Japanese barberry",
+  "scientific_name": [
+    "Berberis thunbergii f. atropurpurea 'Helmond Pillar'"
+  ],
+  "other_name": [],
+  "family": "Berberidaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Helmond Pillar",
+  "variety": null,
+  "species_epithet": "thunbergii",
+  "genus": "Berberis",
+  "origin": [
+    "Japan"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 4,
+      "max_value": 5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1249&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1249&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "branches",
+      "color": [
+        "maroon",
+        "brown"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "dark-purple"
+      ]
+    },
+    {
+      "part": "berries",
+      "color": [
+        "bright-red",
+        "red"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1249&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": true,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The Japanese barberry (Berberis thunbergii f. atropurpurea 'Helmond Pillar') is an amazing plant species for any outdoor space. It's a low-maintenance, attractive, densely growing shrub that is perfect for adding height and structure to any garden. It produces deep purple-red foliage in the summer and bright yellow berries in the fall, making it an ornamental feature all year round. Its dense foliage is also excellent for providing privacy, offering temporary shelter for wildlife, and creating spectacular displays with its array of colorful foliage and fruit. With its hardy characteristics and pest- and disease-resistant properties, the Japanese barberry is an ideal choice for any gardener.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1249_berberis_thunbergii_f_atropurpurea_helmond_pillar/og/51143791217_ac4868d281_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1249_berberis_thunbergii_f_atropurpurea_helmond_pillar/regular/51143791217_ac4868d281_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1249_berberis_thunbergii_f_atropurpurea_helmond_pillar/medium/51143791217_ac4868d281_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1249_berberis_thunbergii_f_atropurpurea_helmond_pillar/small/51143791217_ac4868d281_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1249_berberis_thunbergii_f_atropurpurea_helmond_pillar/thumbnail/51143791217_ac4868d281_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

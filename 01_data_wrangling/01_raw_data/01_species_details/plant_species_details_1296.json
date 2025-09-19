@@ -1,0 +1,126 @@
+{
+  "id": 1296,
+  "common_name": "Bismarck palm",
+  "scientific_name": [
+    "Bismarckia nobilis"
+  ],
+  "other_name": [],
+  "family": "Arecaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "nobilis",
+  "genus": "Bismarckia",
+  "origin": [
+    "Madagascar"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 30,
+      "max_value": 40,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Offsets",
+    "Air Layering Propagation",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "10",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1296&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1296&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green-silver"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "gray-brown",
+        "green"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "gray-brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1296&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": true,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The Bismarck palm is an amazing species of palm tree found in Madagascar. Its beautiful silvery-green fronds contrast against its bright blue-gray trunk. Its unique and ornamental shape make it a popular choice for landscaping in tropical climates. It is also highly drought tolerant, making it an ideal choice for arid climates. Its majestic size and striking structure makes it a focal point in many gardens. It is incredibly fast-growing and easy to care for. It's an excellent choice for those looking to add a beautiful and unique touch to their outdoor space.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1296_bismarckia_nobilis/og/25025773182_e4c2abce86_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1296_bismarckia_nobilis/regular/25025773182_e4c2abce86_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1296_bismarckia_nobilis/medium/25025773182_e4c2abce86_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1296_bismarckia_nobilis/small/25025773182_e4c2abce86_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1296_bismarckia_nobilis/thumbnail/25025773182_e4c2abce86_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

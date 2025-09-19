@@ -1,0 +1,137 @@
+{
+  "id": 1278,
+  "common_name": "sugar beet",
+  "scientific_name": [
+    "Beta vulgaris subsp. vulgaris"
+  ],
+  "other_name": [],
+  "family": "Amaranthaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "vulgaris",
+  "genus": "Beta",
+  "origin": [
+    "Europe"
+  ],
+  "type": "Vegetable",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Annual",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Division",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "2",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1278&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1278&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "stems",
+      "color": [
+        "red",
+        "green-red-yellow",
+        "lime-green-red-yellow"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green",
+        "green-maroon"
+      ]
+    },
+    {
+      "part": "midrib",
+      "color": [
+        "red-yellow"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1278&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Sugar beet (Beta vulgaris subsp. vulgaris) is an amazing plant species that packs a nutritional punch. Not only does it contain nutritious sugars, but it also contains dietary fiber, folate, manganese, iron, and magnesium. It's a great source of energy due to its high sugar content, and is widely used for producing pharmaceuticals, ethanol and other chemicals. Its ability to be grown on most soils and in cold climates makes it a very productive crop. The versatile uses and benefits of this versatile crop make it one of the most important plants around!",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1278_beta_vulgaris_subsp_vulgaris/og/24879462575_521a00b451_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1278_beta_vulgaris_subsp_vulgaris/regular/24879462575_521a00b451_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1278_beta_vulgaris_subsp_vulgaris/medium/24879462575_521a00b451_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1278_beta_vulgaris_subsp_vulgaris/small/24879462575_521a00b451_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1278_beta_vulgaris_subsp_vulgaris/thumbnail/24879462575_521a00b451_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

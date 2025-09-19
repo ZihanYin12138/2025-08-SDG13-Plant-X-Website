@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2625,
+      "species_id": 1378,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja davidii 'Niche's Choice'"
+      ],
+      "section": [
+        {
+          "id": 8081,
+          "type": "watering",
+          "description": "Water your Butterfly Bush (Buddleja davidii 'Niche's Choice') once a week, making sure to give it about a gallon of water each time. Water deep enough so that the roots of the plant are well saturated. Make sure to water the plant early in the morning or in the evening so the water has time to penetrate the soil fully and is not evaporated by the sun. After the plant is established, it may need to be watered more frequently during dry heat waves or in drought-like conditions. If possible, set up an automatic watering system to maintain consistent moisture levels throughout the hot summer months."
+        },
+        {
+          "id": 8082,
+          "type": "sunlight",
+          "description": "Butterfly bush (Buddleja davidii 'Niche's Choice') prefers full sun, meaning at least 6-7 hours of direct sunlight per day. This type of butterfly bush also works well in partial shade, but it will bloom more prolifically with more sun. When growing in areas with hot Summers, it is best to provide morning sun and afternoon shade to protect the plant from the heat of the day."
+        },
+        {
+          "id": 8083,
+          "type": "pruning",
+          "description": "Butterfly bush (Buddelja davidii 'Niche's Choice') should be pruned annually, typically in late winter or early spring. Pruning encourages dense branching, which can create a bushier growth habit and more flowers. Start pruning by removing the ‘old wood’—wood that has grown a season or longer—from the center, stems, or base of the plant. These will be more woody, greyish in color, and thin out as you move up the stem. Strive to maintain an equal balance between new growth and old wood. To encourage a taller and bushier plant, cut every stem back to 18-24 inches in height, making sure no stem is cut shorter than this. For a fuller plant, cut stems at different angles between 6-12 inches from the base to promote lateral growth. Finally, as the season progresses, spend a few minutes each week trimming off spent flowers and any excessively formed stems, so as to encourage continuous flowering throughout the season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

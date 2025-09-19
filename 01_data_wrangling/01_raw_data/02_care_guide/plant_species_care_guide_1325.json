@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 577,
+      "species_id": 1325,
+      "common_name": "Brussels sprouts",
+      "scientific_name": [
+        "Brassica oleracea (Gemmifera Group)"
+      ],
+      "section": [
+        {
+          "id": 1730,
+          "type": "watering",
+          "description": "Water Brussels sprouts moderately, about 1 inch of water per week, during dry periods. It is important to keep the soil evenly moist but not soggy as this may lead to disease problems. Water in the morning to minimize leaf diseases. Avoid getting the leaves wet when you water or if you use an overhead sprinkler, water early in the morning before the sun starts to shine."
+        },
+        {
+          "id": 1732,
+          "type": "sunlight",
+          "description": "Depending on where you live, Brussels sprouts typically grow best in full sun for 6 to 8 hours per day during the summertime. During the fall and early spring, your plant may be able to survive with a bit less sunlight, but it’s best to give it the full amount it needs for optimal growth and health. During the winter, your Brussels sprouts should get at least 4 hours of sunlight each day to ensure it stays healthy."
+        },
+        {
+          "id": 1734,
+          "type": "pruning",
+          "description": "For best results, Brussels sprouts should be pruned in early spring before the new growth appears. Pruning should involve removing the old, yellowing leaves as well as any stems that may be weak or damaged. You should also trim the stems and tops of the plants back by up to 1/2 of their size to promote the growth of new shoots. This will ensure that your Brussels sprouts are healthy and producing the maximum possible yield."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

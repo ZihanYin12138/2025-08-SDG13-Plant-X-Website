@@ -1,0 +1,121 @@
+{
+  "id": 1281,
+  "common_name": "sweet birch",
+  "scientific_name": [
+    "Betula lenta"
+  ],
+  "other_name": [
+    "sweet birch",
+    "black birch",
+    "black birch",
+    "Sweet Birch",
+    "Black Birch",
+    "Mountain Mahogany"
+  ],
+  "family": "Betulaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "lenta",
+  "genus": "Betula",
+  "origin": [
+    "Eastern North America"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 40,
+      "max_value": 75,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Seed Propagation",
+    "Root Division"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1281&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1281&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Sun",
+    " Partial Shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1281&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Loam",
+    " Humus Enriched"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Stem borer insects"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Sweet Birch (Betula lenta) is an amazing species of trees for its versatility. With beautiful shades of yellow and white, its bark is particularly striking. Sweet birch has a hard, rot-resistant heartwood, making it an excellent choice for timber. Its flexibility also makes it a great choice for living fences, for example. The edible sap is good for both humans and wildlife. Sweet Birch is also a great source of Vitamin C and a popular flavoring for beverages and candy, as well as being a traditional medicinal remedy. In short, Sweet Birch has so many uses and qualities, it's no wonder why it's so amazing.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1281_betula_lenta/og/30316536233_231e8568d8_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1281_betula_lenta/regular/30316536233_231e8568d8_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1281_betula_lenta/medium/30316536233_231e8568d8_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1281_betula_lenta/small/30316536233_231e8568d8_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1281_betula_lenta/thumbnail/30316536233_231e8568d8_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

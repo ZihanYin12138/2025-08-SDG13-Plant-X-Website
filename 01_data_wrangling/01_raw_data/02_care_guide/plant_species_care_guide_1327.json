@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2583,
+      "species_id": 1327,
+      "common_name": "broccoli",
+      "scientific_name": [
+        "Brassica oleracea (Italica Group)"
+      ],
+      "section": [
+        {
+          "id": 7955,
+          "type": "watering",
+          "description": "Broccoli (Brassica oleracea (Italica Group)) should be watered deeply about once a week. To do this, water your broccoli until the water runs out of the drainage holes. Make sure to not saturate the soil and to avoid watering the leaves directly. During hot, dry weather, extra water may be needed. When in doubt, water your broccoli when the top 1-2 inches of soil are dry."
+        },
+        {
+          "id": 7956,
+          "type": "sunlight",
+          "description": "Broccoli (Brassica oleracea (Italica Group)) prefers full sun exposure for optimal growth and yields. It should receive a minimum of 6 hours of direct or indirect sunlight each day, with more sunlight being beneficial. The best time for broccoli to receive sunlight is during the morning when the sun is starting to rise and the light is at its brightest. This allows the plant to take in all the light’s energy and use it to fuel its growth. Additionally, providing the plant with some shade during the mid to late afternoon can help prevent overheating and wilting in hotter climates."
+        },
+        {
+          "id": 7957,
+          "type": "pruning",
+          "description": "For broccoli, pruning should be limited to harvesting the florets when the head is tight and firm. If growers are not harvesting, then the plant should be lightly pruned every 4 to 6 weeks during the season to encourage the formation of more heads and reduce the chance of disease or pest infestations. Pruning of broccoli should be done early in the morning or late in the evening to reduce the chance of disease. It is important to prune with clean, sharp scissors to avoid damaging the plant or spreading potential disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

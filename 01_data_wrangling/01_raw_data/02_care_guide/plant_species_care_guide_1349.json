@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2601,
+      "species_id": 1349,
+      "common_name": "Siberian bugloss",
+      "scientific_name": [
+        "Brunnera macrophylla 'Dawson's White'"
+      ],
+      "section": [
+        {
+          "id": 8009,
+          "type": "watering",
+          "description": "Siberian bugloss (Brunnera macrophylla 'Dawson's White') should be watered regularly during the growing season. During the spring and summer, it should be watered approximately 1 to 2 times a week, allowing the soil to dry slightly between waterings. During the winter, the plant should be watered only when the soil is completely dry. Be sure to check the soil before watering and water deeply, allowing the excess moisture to drain away. Reduce watering in the winter to avoid root rot."
+        },
+        {
+          "id": 8010,
+          "type": "sunlight",
+          "description": "Siberian bugloss (Brunnera macrophylla 'Dawson's White') requires bright, indirect sunlight to thrive. During the summer months, it should receive about 3 to 5 hours of filtered sunlight daily. During the winter months, it should receive 2 or 3 hours of direct sun per day. In hotter climates, providing partial shade during the hottest part of the day is recommended to prevent scorching. This plant species does well in areas that receive full sun in the morning and partial shade in the afternoon, or only partial shade all day."
+        },
+        {
+          "id": 8011,
+          "type": "pruning",
+          "description": "Siberian bugloss (Brunnera macrophylla 'Dawson's White') should be pruned annually in late winter or early spring every year. Pruning should be done as soon as the plant starts to wake up after experiencing a winter dormancy period. Pruning should remove any dead or dying branches or stems. It can also be used to control the size and shape of the plant. Generally, Siberian bugloss should only have approximately 1 third of the stems cut away during pruning. This encourages the growth of blooms, will help the plant remain healthy and also make it look attractive. Pruning can also be done during summer, to control growth and reshape the plant. However, it is best to avoid pruning during the flowering period, as this can cause the plant to be less productive."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,121 @@
+{
+  "id": 1195,
+  "common_name": "begonia",
+  "scientific_name": [
+    "Begonia benariensis BIG SERIES"
+  ],
+  "other_name": [],
+  "family": "Begoniaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "benariensis",
+  "genus": "Begonia",
+  "origin": [
+    "India"
+  ],
+  "type": "Begonia",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Stem Propagation",
+    "Leaf Cutting",
+    "Division",
+    "Air Layering Propagation",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "10",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1195&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1195&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "dark-green-pink-red"
+      ]
+    },
+    {
+      "part": "stalks",
+      "color": [
+        "pink-green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1195&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": true,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Begonia benariensis BIG SERIES is an amazing plant species. The plant features beautiful bell-shaped blooms in shades of pink, white and purple and lush, large leaves that make it stand out in the garden. It grows well in full sun or partial shade, making it a perfect option for large containers. With minimal maintenance and tending, Begonia benariensis BIG SERIES produces a long-lasting, low-maintenance display of beautiful color. The blooms attract hummingbirds and butterflies to the garden. With its bright colors and ability to bring beauty to your garden or patio, Begonia benariensis BIG SERIES is an excellent option for any gardener.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1195_begonia_benariensis_big_series/og/51286779053_5a7aca2a7b_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1195_begonia_benariensis_big_series/regular/51286779053_5a7aca2a7b_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1195_begonia_benariensis_big_series/medium/51286779053_5a7aca2a7b_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1195_begonia_benariensis_big_series/small/51286779053_5a7aca2a7b_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1195_begonia_benariensis_big_series/thumbnail/51286779053_5a7aca2a7b_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

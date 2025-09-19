@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2587,
+      "species_id": 1332,
+      "common_name": "Chinese cabbage",
+      "scientific_name": [
+        "Brassica rapa (Pekinensis Group)"
+      ],
+      "section": [
+        {
+          "id": 7967,
+          "type": "watering",
+          "description": "Chinese cabbage prefers well-drained soil and partial to full sun. Water the plants deeply and regularly, aiming for an even moisture throughout the soil. In hot climates, it's best to water in the morning so that the leaves can dry out during the day. During the growing season, it's important to keep the soil moist but not soggy. If the soil feels dry a few inches deep, it's time to water. Aim to water about 1 - 1.5 inches per week, but adjust the amount as needed if the weather is hot or very windy."
+        },
+        {
+          "id": 7968,
+          "type": "sunlight",
+          "description": "Chinese cabbage (Brassica rapa (Pekinensis Group)) needs at least 6 hours of direct sunlight for optimal growth. It should be grown in an area that gets full sun, preferably from 8am-4pm each day. This will ensure the plant is able to photosynthesize enough energy to reach its full potential. Plants grown in partial shade may be stunted and spindly due to lack of proper light exposure. Additionally, be sure to irrigate the plants consistently so they don’t dry out."
+        },
+        {
+          "id": 7969,
+          "type": "pruning",
+          "description": "Pruning Chinese cabbage (Brassica rapa Pekinensis Group) should occur soon after the plants reach maturity. Plants should be cut or pinched back when they reach the desired size (about 8-10 inches tall) approximately 7 to 8 weeks after planting. Pruning can occur at any point until the plants start to head up; this is usually when the leaves start to curl and coil upward to form the head. Pruning will encourage more lateral growth and provide for more uniform plants. To prune, simply cut the center stem of the plant about ½ inch above the main leaves. This will allow the plant to bush out and create extra leaves and a more uniform appearance. Depending on the size of the crop, it may be beneficial to prune multiple times throughout the season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2614,
+      "species_id": 1363,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja 'Asian Moon'"
+      ],
+      "section": [
+        {
+          "id": 8048,
+          "type": "watering",
+          "description": "The butterfly bush (Buddleja 'Asian Moon') should be watered about once or twice a week, depending on soil and temperature conditions. It prefers soils with good drainage, and prefers its soil to be kept evenly moist. In warmer weather, it is important to water the plant more frequently, as frequent heat and wind can dry out the soil quickly. In cooler weather, less frequent watering may be needed. During the summer months, water the plant in the mornings to ensure that its roots stay hydrated throughout the day. In addition, during peak heat, be sure to water the plant deeply to ensure that the roots are getting enough water for full absorption."
+        },
+        {
+          "id": 8049,
+          "type": "sunlight",
+          "description": "The butterfly bush (Buddleja 'Asian Moon') should be in full sun for the majority of the day (at least 6 hours) to have the best performance. In warmer climates, the butterfly bush might still flower if given some partial shade. However, in cooler climates, butterfly bush will need 8-10 hours of sunlight for best performance. In addition to providing full sun, the butterfly bush should also have well-drained soil and moderate watering."
+        },
+        {
+          "id": 8050,
+          "type": "pruning",
+          "description": "Butterfly bush (Buddleja 'Asian Moon') should be pruned each year in late winter, before new growth begins. Prune the shrub back to 1 to 2 feet tall, cutting back all stems to a set height to promote branching and promote a new flush of growth. Remove all dead, damaged, and diseased branches. Pruning off spent flowers will also help promote more blooms in the summer."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

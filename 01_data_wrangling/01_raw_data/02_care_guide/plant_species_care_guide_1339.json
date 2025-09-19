@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2593,
+      "species_id": 1339,
+      "common_name": "smooth brome",
+      "scientific_name": [
+        "Bromus inermis 'Skinner's Gold'"
+      ],
+      "section": [
+        {
+          "id": 7985,
+          "type": "watering",
+          "description": "Smooth brome (Bromus inermis 'Skinner's Gold') should be watered at least twice a week. In hot temperatures, the plant must be watered more frequently to keep the soil moist. The amount of water required will vary depending on the soil type, climate, and sunlight exposure, so adjust the water amount as needed. Water deeply, then allow the soil to dry out between watering. Avoid providing too much water, as this may cause the plant to become waterlogged and cause root rot."
+        },
+        {
+          "id": 7986,
+          "type": "sunlight",
+          "description": "Smooth Brome grows best when planted in an area that receives full sun for at least 6 hours a day. However, when the temperatures get too hot, it may need some afternoon shade to protect it from wilting. During the hottest part of the day, temperatures should remain between 70-80°F (21-27°C). In general, it should be grown in full sun in the early morning and late afternoon, with some light shade during the heat of the day."
+        },
+        {
+          "id": 7987,
+          "type": "pruning",
+          "description": "Smooth brome (Bromus inermis 'Skinner's Gold') should be pruned in late winter/early spring when the plant is still dormant. Cutting the grass-like clump down to 1-third of its height will allow the plant to regenerate and encourage fuller growth. For best results, use sharp, clean pruning shears and lightly prune the individual stalks at their base. Avoid shearing or cutting into the center of the clump as this may damage the crown. Removing spent or damaged foliage will also encourage fuller, healthier growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

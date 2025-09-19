@@ -1,0 +1,115 @@
+{
+  "id": 1353,
+  "common_name": "Siberian bugloss",
+  "scientific_name": [
+    "Brunnera macrophylla 'Langtrees'"
+  ],
+  "other_name": [],
+  "family": "Boraginaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Langtrees",
+  "variety": null,
+  "species_epithet": "macrophylla",
+  "genus": "Brunnera",
+  "origin": [
+    "Turkey"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1353&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1353&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Deep shade",
+    " Filtered shade",
+    " Part sun/part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1353&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [
+    "Slugs",
+    "snails",
+    "  Pest resistant",
+    " Disease resistant",
+    " Deer resistant",
+    " Rabbit resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Siberian bugloss (Brunnera macrophylla 'Langtrees') is an amazing low-growing perennial that is great for adding beauty and drama to any garden. Its heart-shaped green leaves are highlighted with silver markings and clusters of bright blue flowers appear in mid to late spring. The blooms are very attractive to bees and other beneficial insects. This hardy plant is named for its glossy foliage and it is very easy to maintain; drought resistant and tolerating short periods of light frost. Its mounding habit pairs nicely with taller shade perennials or it can be used in mixed containers or rock gardens. Great for any garden and perfect for any gardener, Siberian bugloss is a must-have addition!",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1353_brunnera_macrophylla_langtrees/og/Brunnera-macrophhylla-1.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1353_brunnera_macrophylla_langtrees/regular/Brunnera-macrophhylla-1.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1353_brunnera_macrophylla_langtrees/medium/Brunnera-macrophhylla-1.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1353_brunnera_macrophylla_langtrees/small/Brunnera-macrophhylla-1.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1353_brunnera_macrophylla_langtrees/thumbnail/Brunnera-macrophhylla-1.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

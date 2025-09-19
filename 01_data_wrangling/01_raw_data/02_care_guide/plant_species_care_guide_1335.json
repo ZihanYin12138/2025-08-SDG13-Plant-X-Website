@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2590,
+      "species_id": 1335,
+      "common_name": "tat soi",
+      "scientific_name": [
+        "Brassica rapa var. rosularis"
+      ],
+      "section": [
+        {
+          "id": 7976,
+          "type": "watering",
+          "description": "Tat soi is a plant species that requires regular watering in order to thrive. It should be watered well every 7-10 days to prevent the soil from ever drying out completely. On these days, it's important to give the plant plenty of water—enough to allow the excess to begin to drain from the bottom of the pot. When watering, be sure to water the plant at the soil level and not on the leaves. This will help to prevent making the leaves soggy or damp, which can lead to fungal diseases. If you are in an area with a hot and/or dry climate, you may need to water even more frequently, as often as every 3-4 days."
+        },
+        {
+          "id": 7977,
+          "type": "sunlight",
+          "description": "Tatsoi (Brassica rapa var. rosularis) does best when given plenty of direct sunlight. This plant should have at least 6 hours of direct sunlight every day, with 8-12 hours being optimal. Too much direct sunlight can cause sunburn on the leaves and stunted growth, so be sure to locate the plant in an area with some partially shaded areas nearby. Additionally, if temperatures become too hot, the plant may require some additional shading. For optimal growth, the best time for Tatsoi to be out in full sun is between 10am and 4pm when the sun is at its strongest."
+        },
+        {
+          "id": 7978,
+          "type": "pruning",
+          "description": "Tatsoi should be pruned when the plants are 8-12 inches (20-30cm) tall and before the flowers open. For optimal growth, look for the thickest and outer most leaves when pruning, removing them from the base of the plant. This will encourage new foliage growth and ultimately more produce. Pruning Tatsoi a few times during the season should be sufficient. Each time you prune make sure to remove no more than 1 third of the foliage to maintain balance."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

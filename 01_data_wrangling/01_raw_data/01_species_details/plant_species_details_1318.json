@@ -1,0 +1,129 @@
+{
+  "id": 1318,
+  "common_name": "rapeseed",
+  "scientific_name": [
+    "Brassica napus (Oleifera Group)"
+  ],
+  "other_name": [],
+  "family": "Brassicaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "napus",
+  "genus": "Brassica",
+  "origin": [
+    "Europe",
+    "North Africa",
+    "West Asia",
+    "Central Asia",
+    "China"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 2,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Annual",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division"
+  ],
+  "hardiness": {
+    "min": "2",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1318&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1318&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "bright-yellow"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "December",
+    "January",
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1318&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Rapeseed (Brassica napus) is an amazing plant species that offers a plethora of benefits to the planet. It is durable and highly disease-resistant, making it great for growing in rough conditions. In addition, it is the only oilseed crop that tolerates both cold and hot temperatures, making it suitable for a variety of climates. Rich in essential nutrients, rapeseed oil is a healthier alternative to many other seed oils, and the plant itself can be used as a high-quality feed for livestock. Rapeseed is also a great choice for organic farming, as it can fix nitrogen in the soil and suppress weeds. All in all, rapeseed is an environmentally-friendly and highly useful crop.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1318_brassica_napus_oleifera_group/og/52176476596_b973b8482f_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1318_brassica_napus_oleifera_group/regular/52176476596_b973b8482f_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1318_brassica_napus_oleifera_group/medium/52176476596_b973b8482f_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1318_brassica_napus_oleifera_group/small/52176476596_b973b8482f_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1318_brassica_napus_oleifera_group/thumbnail/52176476596_b973b8482f_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

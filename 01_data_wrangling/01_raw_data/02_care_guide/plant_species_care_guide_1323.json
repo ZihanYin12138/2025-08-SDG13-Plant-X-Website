@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2580,
+      "species_id": 1323,
+      "common_name": "cabbage",
+      "scientific_name": [
+        "Brassica oleracea (Capitata Group) 'Frigga'"
+      ],
+      "section": [
+        {
+          "id": 7946,
+          "type": "watering",
+          "description": "Cabbage requires consistent and uniform watering for best growth. Water your cabbage 1 -2 inches deep once per week. During hot and dry weather, have an extra watering - 2-3 inches of water once every 3-4 days. Soak the soil deeply and slowly; avoid runoff. When cabbage is over-watered, its heads may split. Water in the morning to avoid wet leaves at night, when they’re more likely to develop disease."
+        },
+        {
+          "id": 7947,
+          "type": "sunlight",
+          "description": "Cabbage (Brassica oleracea (Capitata Group) 'Frigga') should receive 4 to 8 hours of direct sunlight per day while it is in the growing stage. When it is ready to be harvested, the amount of sunlight can be reduced to 2 hours per day. Providing direct sunlight for more than 8 hours could lead to sunburned or wilted leaves.  Inadequate sunlight results in poor quality or small cabbage heads. For best growing results, ensure your cabbage is in a sunny location and avoid shady areas."
+        },
+        {
+          "id": 7948,
+          "type": "pruning",
+          "description": "Cabbage can be pruned as soon as it reaches 10-12 inches tall, shaping the plant to promote bushy growth. As the plant develops, the outermost leaves may turn yellow and become tough. These leaves should be pruned to keep the plant from becoming top-heavy or to maintain an attractive shape. Pruning cabbage should be done regularly throughout the season as the plant grows. Generally speaking, you will want to prune once a month or more during the growing season. Pruning should also be done after every harvest of the inner heads of cabbage. The remaining outer leaves should be pruned to 5-6 inches back from the main stem, which will encourage the plant to produce new leaf growth. Pruning promotes healthy plants with strong roots and vibrant foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

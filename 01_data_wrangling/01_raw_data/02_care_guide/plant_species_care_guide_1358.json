@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2610,
+      "species_id": 1358,
+      "common_name": "Siberian bugloss",
+      "scientific_name": [
+        "Brunnera 'Silver Charm'"
+      ],
+      "section": [
+        {
+          "id": 8036,
+          "type": "watering",
+          "description": "Siberian bugloss (Brunnera 'Silver Charm') thrives best when kept moist, but not overly saturated. During the growing season in spring and summer, water thoroughly 1-2 times a week to ensure the soil has been evenly moistened. Allow the top inch or 2 to dry out between watering. In the winter, reduce watering to once every 2-3 weeks, allowing the soil to dry to where it is almost completely dry before re-watering."
+        },
+        {
+          "id": 8037,
+          "type": "sunlight",
+          "description": "Siberian bugloss (Brunnera 'Silver Charm') grows best in partial to full sun. For this particular species, it is best to provide morning sun and light afternoon shade, particularly during the hottest times during the day, as this will help avoid sunburn or scalding of the foliage. As a general rule, it is best to give Siberian bugloss at least 4-5 hours of sun per day."
+        },
+        {
+          "id": 8038,
+          "type": "pruning",
+          "description": "Siberian bugloss (Brunnera 'Silver Charm') should be pruned annually in late winter. Pruning should be fairly light and generally should remove no more than a third of the total foliage. This pruning serves to remove spent flowers, dead foliage, and rejuvenate the plant for the upcoming growing season. When pruning, take caution to not remove too much foliage, as it may reduce the overall size and health of the plant. To ensure this does not happen, prune in stages and monitor the health and vigor of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2605,
+      "species_id": 1353,
+      "common_name": "Siberian bugloss",
+      "scientific_name": [
+        "Brunnera macrophylla 'Langtrees'"
+      ],
+      "section": [
+        {
+          "id": 8021,
+          "type": "watering",
+          "description": "Siberian bugloss should be watered thoroughly once or twice per week, depending on the size of the plant. Make sure that the soil stays moist but not soggy. When watering, use enough water that the entire root system can be saturated. Make sure that all excess water is allowed to drain away from the soil. During hot summer months, watering may need to occur more frequently. However, make sure the soil is still moist—not soggy. In winter, water the plant only enough to keep the soil from drying out."
+        },
+        {
+          "id": 8022,
+          "type": "sunlight",
+          "description": "Siberian bugloss requires bright, indirect sunlight for 4-6 hours per day. This plant species prefers to be placed in a location that receives morning sunlight, before it gets too hot in the afternoon. Avoid placing it in a location that receives too much noon/midday sun, as this can be harmful to the perennial. It is best to keep the perennial in a spot where the sun is filtered and not too intensely bright."
+        },
+        {
+          "id": 8023,
+          "type": "pruning",
+          "description": "Siberian bugloss (Brunnera macrophylla 'Langtrees') should ideally be pruned in early spring, as soon as the last frost has left the area. Pruning should be done just once a year. During the pruning process, any dead or diseased stems should be removed. Additionally, young stems can be thinned out and the remaining stems should be cut back by 1/3 to 1/2 of the length. This will encourage the plant to develop fuller, bushier growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

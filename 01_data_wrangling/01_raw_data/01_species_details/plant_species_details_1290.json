@@ -1,0 +1,129 @@
+{
+  "id": 1290,
+  "common_name": "Japanese white birch",
+  "scientific_name": [
+    "Betula platyphylla"
+  ],
+  "other_name": [],
+  "family": "Betulaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "platyphylla",
+  "genus": "Betula",
+  "origin": [
+    "Manchuria",
+    "Korea",
+    "Japan"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 30,
+      "max_value": 40,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1290&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1290&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "bark",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green",
+        "yellow-green"
+      ]
+    },
+    {
+      "part": "trunk",
+      "color": [
+        "white"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "High",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1290&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Japanese white birch is a stunning addition to any garden. Its white bark and distinctive ‘shaggy’ look give it a unique, eye-catching look. It’s also an incredibly versatile tree, growing and thriving in many different environments. It’s tolerant of acidic, dry, alkaline and even cultivation conditions, making it a great choice for all sorts of landscapes. Its gorgeous, delicate foliage adds a touch of serenity to outdoor spaces and its strong roots, even in clay soils, help to bind and strengthen the ground. Enjoy every last aspect of this amazing tree and its picturesque look in any outdoor space.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1290_betula_platyphylla/og/17210016372_4c7c2a3187_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1290_betula_platyphylla/regular/17210016372_4c7c2a3187_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1290_betula_platyphylla/medium/17210016372_4c7c2a3187_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1290_betula_platyphylla/small/17210016372_4c7c2a3187_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1290_betula_platyphylla/thumbnail/17210016372_4c7c2a3187_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

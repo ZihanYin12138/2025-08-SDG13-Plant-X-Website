@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2562,
+      "species_id": 1301,
+      "common_name": "Chinese ground orchid",
+      "scientific_name": [
+        "Bletilla striata f. gebina"
+      ],
+      "section": [
+        {
+          "id": 7892,
+          "type": "watering",
+          "description": "Chinese ground orchids need to be watered thoroughly, but not too frequently. Water roughly every other week during the growing season (spring and summer), and water less frequently during fall and winter. When watering, water deeply so the entire root ball is saturated. Avoid watering the foliage, as this can cause fungal diseases. It is also important to note that Chinese ground orchids prefer to have slightly moist soil. It is possible to check the moistness content of the soil with a moisture meter if preferred."
+        },
+        {
+          "id": 7893,
+          "type": "sunlight",
+          "description": "Chinese ground orchid needs at least 4 hours of direct sunlight every day to thrive. Since this plant needs sunlight to photosynthesize, it needs to have direct access to the sunlight. To ensure growth and flowering, it is best to provide the plant with sunlight early in the morning, typically between 6 am and 10 am, and then again in the mid-afternoon hours between 2 pm and 4 pm. If the plant does not receive enough sunlight, it will not produce the sweet-scented blooms that make it so popular."
+        },
+        {
+          "id": 7894,
+          "type": "pruning",
+          "description": "Chinese ground orchid (Bletilla striata f. gebina) requires pruning at least once a year in fall or early winter when the leaves turn yellow, usually sometime in late November or early December. This species prefers a light pruning, removing only the flower stems, dried leaves, dead or damaged foliage. It's important not to over-prune the plant, as it can stunt its growth. During this pruning, sanitize your pruners with rubbing alcohol or a mixture of 1 part bleach to 9 parts water to prevent the spread of any disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

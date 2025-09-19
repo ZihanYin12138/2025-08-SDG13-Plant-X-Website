@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1023,
+      "species_id": 1340,
+      "common_name": "paper mulberry",
+      "scientific_name": [
+        "Broussonetia papyrifera"
+      ],
+      "section": [
+        {
+          "id": 3054,
+          "type": "watering",
+          "description": "Paper Mulberry plants should be watered heavily once a week in the summer months and every other week in the winter months. The amount of water can vary depending on the type of soil and the size of your plant, but a general guideline is 1 to 2 inches ( 2.5-5 cm) of water per week. Make sure that the soil is saturated but not waterlogged. Additionally, having a drainage system in place is ideal to ensure the roots are not standing in water."
+        },
+        {
+          "id": 3062,
+          "type": "sunlight",
+          "description": "The paper mulberry (Broussonetia papyrifera) requires a minimum of 4 to 6 hours of direct sunlight each day in order to thrive. It is best to give the plant an equal amount of direct sun throughout the day. In regions with longer winters, the plant should receive more sunlight to keep it healthy and vigorous."
+        },
+        {
+          "id": 3072,
+          "type": "pruning",
+          "description": "Paper mulberry plants need to be pruned annually in late winter to early spring once the plants begin to grow again. Prune the branches back to the desired size and shape, being sure to cut at least 1-third of the branches to promote healthy new growth. Remove any dead, broken, or diseased branches to prevent further damage to the plant. If you’d like to encourage more lush foliage, thin overcrowded branches and prune branches back to the desired height. This will not only give it a better shape, but also promote bushier growth at the top."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

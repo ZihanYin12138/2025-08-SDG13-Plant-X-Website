@@ -1,0 +1,133 @@
+{
+  "id": 1196,
+  "common_name": "begonia",
+  "scientific_name": [
+    "Begonia 'Bepared' DRAGON WING RED"
+  ],
+  "other_name": [],
+  "family": "Begoniaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Bepared",
+  "variety": null,
+  "species_epithet": "'Bepared'",
+  "genus": "Begonia",
+  "origin": [
+    "China"
+  ],
+  "type": "Begonia",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Stem Propagation",
+    "Leaf Cutting",
+    "Division",
+    "Air Layering Propagation",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "10",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1196&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1196&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flower",
+      "color": [
+        "bright-red"
+      ]
+    },
+    {
+      "part": "anthers",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "stalk",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "part shade",
+    "full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "August",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1196&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": true,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Begonia 'Bepared' DRAGON WING RED is a beautiful, eye-catching plant that can brighten up any outdoor space. This annual begonia features large, bright red leaves that are shaped like a dragon's wings, up to 10\" in length. The foliage adds a dramatic pop of color to your garden or patio. To top it off, this begonia boasts showy clusters of sweetly-scented pink/white blooms that are attractive to butterflies and other pollinators. Easy to maintain and tolerant of many conditions, Begonia 'Bepared' DRAGON WING RED is a must-have for any garden or landscape.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1196_begonia_bepared_dragon_wing_red/og/52542250837_647bf91a34_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1196_begonia_bepared_dragon_wing_red/regular/52542250837_647bf91a34_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1196_begonia_bepared_dragon_wing_red/medium/52542250837_647bf91a34_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1196_begonia_bepared_dragon_wing_red/small/52542250837_647bf91a34_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1196_begonia_bepared_dragon_wing_red/thumbnail/52542250837_647bf91a34_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

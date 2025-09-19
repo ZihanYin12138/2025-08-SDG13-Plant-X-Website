@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2604,
+      "species_id": 1352,
+      "common_name": "Siberian bugloss",
+      "scientific_name": [
+        "Brunnera macrophylla 'King's Ransom'"
+      ],
+      "section": [
+        {
+          "id": 8018,
+          "type": "watering",
+          "description": "The Siberian bugloss (Brunnera macrophylla 'King's Ransom') should be watered about 1-2 times a week. Make sure the soil is slightly moist, but not soggy. If the soil is dry, water thoroughly until water flows out of the drainage hole. In the summer months, the plant may need more frequent watering. Forgetting to water may result in drooping leaves. Consider using a quality potting soil and adding some mulch to conserve moisture."
+        },
+        {
+          "id": 8019,
+          "type": "sunlight",
+          "description": "Siberian bugloss thrives best in full or partial sun. For best results, a minimum of 4-6 hours of direct sunlight is recommended. This plant may experience stunted growth or weak flower production when grown in full shade. When grown in full sun, Siberian bugloss can tolerate temperatures up to 85°F (29°C). For optimum growth, it should be sheltered from extreme heat. When providing direct sun, the plant should be allowed to receive the sun’s light during either the early morning or late afternoon, as too much direct sun during the middle of the day can cause the foliage to scorch."
+        },
+        {
+          "id": 8020,
+          "type": "pruning",
+          "description": "Siberian bugloss (Brunnera macrophylla 'King's Ransom') needs to be pruned once a year in early spring before the new growth starts. Prune lightly, as too much pruning could compromise the plant's health and ability to produce flowers. For most Siberian bugloss plants, pruning should involve removing dead, damaged, or crowded stems, selecting a few of the oldest shoots, and thinning out the foliage for faster growth. It is also important to prune away any flower buds that may have been affected by late frosts so that only healthy flower buds are left on the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

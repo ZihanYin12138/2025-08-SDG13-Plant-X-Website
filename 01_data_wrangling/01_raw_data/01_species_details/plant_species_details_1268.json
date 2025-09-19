@@ -1,0 +1,106 @@
+{
+  "id": 1268,
+  "common_name": "bergenia",
+  "scientific_name": [
+    "Bergenia 'Silberlicht' SILVERLIGHT"
+  ],
+  "other_name": [],
+  "family": "Saxifragaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Silberlicht",
+  "variety": null,
+  "species_epithet": "'Silberlicht'",
+  "genus": "Bergenia",
+  "origin": [
+    "Germany"
+  ],
+  "type": "Bergenia",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Root Cutting",
+    "Seed Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1268&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1268&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1268&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Bergenia 'Silberlicht' SILVERLIGHT is an amazing plant species for the landscape due to its durability and its ornamental values. SILVERLIGHT produces grey-green foliage with striking silver veins, which glows in full sun. As well as offering dramatic colors and texture to a garden, it also tolerates some serious weather conditions with its strong and leathery foliage, making it an ideal choice for a low-maintenance garden. It produces large vibrant pink or white flowers during the spring, and offers additional evergreen foliage in the Winter months adding color to the land all year long.",
+  "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/1268_bergenia_silberlicht_silverlight/og/bergenia-flower-shrub-flowers.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1268_bergenia_silberlicht_silverlight/regular/bergenia-flower-shrub-flowers.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1268_bergenia_silberlicht_silverlight/medium/bergenia-flower-shrub-flowers.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1268_bergenia_silberlicht_silverlight/small/bergenia-flower-shrub-flowers.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1268_bergenia_silberlicht_silverlight/thumbnail/bergenia-flower-shrub-flowers.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

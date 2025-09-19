@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1208,
+      "species_id": 1331,
+      "common_name": "pak-choi",
+      "scientific_name": [
+        "Brassica rapa (Chinensis Group) 'Violetta'"
+      ],
+      "section": [
+        {
+          "id": 3627,
+          "type": "watering",
+          "description": "Pak-choi should be watered regularly to maintain moisture but avoid excess watering. Generally it is best to water pak-choi deeply about once a week, allowing the soil to dry out slightly between waterings. Water around the base of the plants and avoid wetting the foliage to prevent problems with foliar diseases. In hot weather, you may need to water more frequently. Pak-choi also benefits from occasional misting to provide the higher humidity it prefers."
+        },
+        {
+          "id": 3628,
+          "type": "sunlight",
+          "description": "Pak-choi (Brassica rapa (Chinensis Group) 'Violetta') requires a minimum of 6-8 hours of direct sunlight a day to grow and thrive. Sunlight is an important part of their care as it is necessary for photosynthesis to take place. They do well in full sun but can tolerate a bit of afternoon shade. During the growing season, when temperatures can be high in some areas, some afternoon shade can help your pak-choi keep from wilting and drying out."
+        },
+        {
+          "id": 3629,
+          "type": "pruning",
+          "description": "Pak-choi should be lightly pruned when the plants are about 8-10 inches tall and/or when the outer leaves begin to yellow. Pruning should be done no more than once every few weeks, as it is a very tender plant and regular pruning can damage it. Prune young leaves by about a 1/3 of their length, and remove any dead or damaged leaves. When pruning leaves, be sure to avoid taking too many of the lower leaves, as this will interrupt the production of new leaves and may cause flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

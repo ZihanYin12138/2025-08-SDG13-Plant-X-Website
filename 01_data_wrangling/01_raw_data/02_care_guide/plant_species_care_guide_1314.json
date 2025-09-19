@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2572,
+      "species_id": 1314,
+      "common_name": "Swan River daisy",
+      "scientific_name": [
+        "Brachyscome iberidifolia"
+      ],
+      "section": [
+        {
+          "id": 7922,
+          "type": "watering",
+          "description": "When watering Swan River daisies (Brachyscome iberidifolia), it is recommended to do so only when the soil becomes slightly dry. For best results, water lightly and evenly, and avoid over-saturating the soil. Aim to provide no more than 1 inch of water per week or every 5-7 days. During prolonged dry spells, consider giving the plant an additional 1/4 cup of water to ensure that the plant receives adequate hydration. In most cases, it is better not to let the soil remain soggy, as this may lead to root rot or other health issues."
+        },
+        {
+          "id": 7923,
+          "type": "sunlight",
+          "description": "The Swan River daisy (Brachyscome iberidifolia) is a plant species native to Australia that prefers to grow in full sun. It requires an average of 6-8 hours of direct sunlight per day, preferably in the morning and early afternoon when the sun is at its brightest. This species thrives in hot and dry conditions, and so too much shade or water can harm its growth and health. The ideal location for this species is an area that is exposed to plenty of natural sunlight throughout the day."
+        },
+        {
+          "id": 7924,
+          "type": "pruning",
+          "description": "The best time to prune Swan River daisies is late winter or early spring, when new growth is just beginning. This species of daisy produces a lovely mass of small flowers, and deadheading (removing spent flowers) throughout the flowering period can help keep the plants blooming until autumn. Lightly and sparingly pruning back stems after flowering will help to keep the plants in shape and control their spread. Prune back to a strong branch or bud and avoid taking more than a third of the plant each time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

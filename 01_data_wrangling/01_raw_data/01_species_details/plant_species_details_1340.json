@@ -1,0 +1,131 @@
+{
+  "id": 1340,
+  "common_name": "paper mulberry",
+  "scientific_name": [
+    "Broussonetia papyrifera"
+  ],
+  "other_name": [],
+  "family": "Moraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "papyrifera",
+  "genus": "Broussonetia",
+  "origin": [
+    "Japan",
+    "China"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 40,
+      "max_value": 50,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1340&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1340&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "fruits",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "buds",
+      "color": [
+        "orange"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1340&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": true,
+  "tropical": true,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Paper Mulberry (Broussonetia papyrifera) is an amazing plant species native to Southeast Asia and the Indian sub-continent. It has a fast-growing, wide-spreading, and graceful habit and produces lovely white flowers in summer. Its paper-like bark is its most striking feature. This thin, papery bark can be easily peeled off the trunk and used to make paper and even clothes. The plant also produces edible berries and provides shelter and food for wildlife. Paper Mulberry is an incredibly versatile and fascinating species that is well worth growing in modern gardens.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1340_broussonetia_papyrifera/og/52146433508_e1b8b683ac_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1340_broussonetia_papyrifera/regular/52146433508_e1b8b683ac_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1340_broussonetia_papyrifera/medium/52146433508_e1b8b683ac_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1340_broussonetia_papyrifera/small/52146433508_e1b8b683ac_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1340_broussonetia_papyrifera/thumbnail/52146433508_e1b8b683ac_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,106 @@
+{
+  "id": 1276,
+  "common_name": "Swiss chard",
+  "scientific_name": [
+    "Beta vulgaris (Leaf Beet Group) 'Bright Lights'"
+  ],
+  "other_name": [],
+  "family": "Amaranthaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Bright Lights",
+  "variety": null,
+  "species_epithet": "vulgaris",
+  "genus": "Beta",
+  "origin": [
+    "Switzerland"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 2,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Annual",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "2",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1276&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1276&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1276&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Swiss chard 'Bright Lights' is a truly amazing plant species. Not only it's nutritious - full of vitamins A, C, K, and multiple minerals - but its multi-coloured stems and leaves make it a beneficial addition to your garden. From beautiful green to striking reds, oranges, yellow, and pink, the leaves, full of flavour, add a splash of colour to your plate. Its prolific growth also allows for multiple harvests throughout the season. Additionally, Swiss chard does not require complicated maintenance; it loves sunny areas and doesn't require moisture to thrive. With Swiss chard 'Bright Lights', your garden and your plate will never be dull again.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1276_beta_vulgaris_leaf_beet_group_bright_lights/og/Beta_vulgaris_var._cicla_Bright_Lights_2zz.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1276_beta_vulgaris_leaf_beet_group_bright_lights/regular/Beta_vulgaris_var._cicla_Bright_Lights_2zz.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1276_beta_vulgaris_leaf_beet_group_bright_lights/medium/Beta_vulgaris_var._cicla_Bright_Lights_2zz.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1276_beta_vulgaris_leaf_beet_group_bright_lights/small/Beta_vulgaris_var._cicla_Bright_Lights_2zz.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1276_beta_vulgaris_leaf_beet_group_bright_lights/thumbnail/Beta_vulgaris_var._cicla_Bright_Lights_2zz.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

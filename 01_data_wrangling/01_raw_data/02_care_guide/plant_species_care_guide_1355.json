@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2607,
+      "species_id": 1355,
+      "common_name": "Siberian bugloss",
+      "scientific_name": [
+        "Brunnera macrophylla 'Mr. Morse'"
+      ],
+      "section": [
+        {
+          "id": 8027,
+          "type": "watering",
+          "description": "Siberian bugloss needs to be watered regularly and thoroughly in order to be healthy and vigorous. The best way to water this plant is to give it about 1-2 inches of water a week during the growing season (spring and summer). You can apply the water directly to the soil or to the leaves if the soil is dry. During the winter months, the plant may need less water and you can check the soil every few weeks to see if the soil is dry enough to need water. Make sure to never water the plant too much or it may suffer from root rot."
+        },
+        {
+          "id": 8028,
+          "type": "sunlight",
+          "description": "Siberian bugloss (Brunnera macrophylla 'Mr. Morse') prefers to grow in partial shade and requires bright, indirect sunlight. For optimal growth, this plant species should get 3 to 5 hours of sunlight per day during the growing season (spring through fall). In winter, Siberian bugloss should receive some indirect light, but it is not critical to its growth. Too much direct sunlight can scorch its leaves, so during the summer months it is important to provide some shade for this plant species."
+        },
+        {
+          "id": 8029,
+          "type": "pruning",
+          "description": "When it comes to Siberian bugloss, you should aim to prune it in early spring, just as the new, fresh growth appears. This helps keep the plant healthy and helps it maintain a desirable shape. To ensure your Siberian bugloss looks luscious and maintains its natural beauty, it’s important to limit the amount of pruning you do. Generally, you should only prune out dead, diseased, or dying branches. If there are any overly long branches or branches that are rubbing against each other, you can selectively trim to minimize this."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,154 @@
+{
+  "id": 1351,
+  "common_name": "Siberian bugloss",
+  "scientific_name": [
+    "Brunnera macrophylla 'Jack Frost'"
+  ],
+  "other_name": [],
+  "family": "Boraginaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Jack Frost",
+  "variety": null,
+  "species_epithet": "macrophylla",
+  "genus": "Brunnera",
+  "origin": [
+    "Turkey"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1351&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1351&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "foliage",
+      "color": [
+        "silver-green"
+      ]
+    },
+    {
+      "part": "veins",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "midribs",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "silver-green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "blue"
+      ]
+    },
+    {
+      "part": "stalks",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Deep shade",
+    " Filtered shade",
+    " Part sun/part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "March",
+    "April",
+    "May",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1351&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Slugs",
+    "snails",
+    "  Pest resistant",
+    " Disease resistant",
+    " Deer resistant",
+    " Rabbit resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Siberian bugloss (Brunnera macrophylla ‘Jack Frost’) is an amazing plant species that deserves a spot in any garden. This perennial is a hardy and deer-resistant perennial with beautiful white, blue, and silver foliage. It produces intense sky-blue blooms in spring and is tolerant of a range of growing environments. It’s a great companion plant for hostas in shady gardens and can provide texture and interest all season long. Its ability to remain upright through conditions of both sun and shade make it versatile and easy to maintain. This low-maintenance beauty is a perfect addition to any garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1351_brunnera_macrophylla_jack_frost/og/1130751172_76e8dc0eeb_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1351_brunnera_macrophylla_jack_frost/regular/1130751172_76e8dc0eeb_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1351_brunnera_macrophylla_jack_frost/medium/1130751172_76e8dc0eeb_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1351_brunnera_macrophylla_jack_frost/small/1130751172_76e8dc0eeb_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1351_brunnera_macrophylla_jack_frost/thumbnail/1130751172_76e8dc0eeb_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

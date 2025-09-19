@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 95,
+      "species_id": 1375,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja davidii 'Monum' PETITE PLUM"
+      ],
+      "section": [
+        {
+          "id": 1073,
+          "type": "watering",
+          "description": "Watering a Butterfly Bush (Buddleja davidii 'Monum' PETITE PLUM) should be done regularly and thoroughly. In general, it is best to water the plant thoroughly once or twice a week during the growing season, allowing the soil to dry slightly between watering. It is best to water in the morning, as watering in the evening leaves the plant wet overnight and can cause problems with mildew or fungus. During hot weather, you may need to water more often. In cooler weather, you may only need to water once a week. When in doubt, it is best to check the soil to make sure it is not too dry before you water."
+        },
+        {
+          "id": 1074,
+          "type": "sunlight",
+          "description": "The Butterfly Bush (Buddleja davidii 'Monum' PETITE PLUM) requires full sun to partial shade for at least 8 hours of sunlight each day. When planted in full sun, the plant will bloom for an extended period during the summer months, with some flowering later in the season if conditions are ideal. When in partial shade, the bush will produce fewer flowers but will spread and grow larger than when in direct sun. For best results, plant the Butterfly Bush in an area that receives partial sun in the morning, and full sun in the afternoon."
+        },
+        {
+          "id": 1075,
+          "type": "pruning",
+          "description": "For the Butterfly Bush (Buddleja davidii 'Monum' PETITE PLUM) it is recommended that you prune it hard in late winter to early spring. This should be done about 6 to 8 weeks prior to its typical bloom period. Pruning should be done by removing any dead, damaged, crowded, or crossing branches, and any branches that rub against each other. If the butterfly bush has become overgrown, thin it out by removing 1 third of its branches at their bases. This type of pruning will encourage larger, healthier blooms and additional flower production."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

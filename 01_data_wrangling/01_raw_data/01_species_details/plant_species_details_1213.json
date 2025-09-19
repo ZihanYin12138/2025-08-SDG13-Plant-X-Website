@@ -1,0 +1,148 @@
+{
+  "id": 1213,
+  "common_name": "begonia",
+  "scientific_name": [
+    "Begonia 'Penny Lahn'"
+  ],
+  "other_name": [],
+  "family": "Begoniaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Penny Lahn",
+  "variety": null,
+  "species_epithet": "'Penny",
+  "genus": "Begonia",
+  "origin": [
+    "Germany"
+  ],
+  "type": "Begonia",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Stem Propagation",
+    "Leaf Cutting",
+    "Division",
+    "Air Layering Propagation",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "10",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1213&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1213&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green",
+        "maroon-green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "pink-red",
+        "bright-red"
+      ]
+    },
+    {
+      "part": "stamens",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "stalks",
+      "color": [
+        "red"
+      ]
+    },
+    {
+      "part": "stamen",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "red"
+      ]
+    }
+  ],
+  "sunlight": [
+    "part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1213&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": true,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Begonia 'Penny Lahn' is an amazing plant species. Native to tropical regions, its tall branches can reach heights of 24 inches and boast bright green foliage highlighted by magenta-red petals. The large blooms and bold colors make it a great addition to any garden or outdoor space. The leaves and stems are also quite delicate and the plant is fairly easy to take care of. It's unique look and bright colors make it a standout in any setting - the perfect way to liven up a backyard or potted patio garden. Plus, its low maintenance and easy to care for making it an ideal choice for busy gardeners.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1213_begonia_penny_lahn/og/52496552436_073086053b_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1213_begonia_penny_lahn/regular/52496552436_073086053b_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1213_begonia_penny_lahn/medium/52496552436_073086053b_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1213_begonia_penny_lahn/small/52496552436_073086053b_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1213_begonia_penny_lahn/thumbnail/52496552436_073086053b_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

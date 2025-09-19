@@ -1,0 +1,126 @@
+{
+  "id": 1288,
+  "common_name": "European white birch",
+  "scientific_name": [
+    "Betula pendula"
+  ],
+  "other_name": [
+    "silver birch",
+    "European White Birch"
+  ],
+  "family": "Betulaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "pendula",
+  "genus": "Betula",
+  "origin": [
+    "Europe",
+    "Asia"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 30,
+      "max_value": 40,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Greenwood Cuttings"
+  ],
+  "hardiness": {
+    "min": "2",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1288&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1288&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Sun"
+  ],
+  "pruning_month": [
+    "December",
+    "January",
+    "February",
+    "March",
+    "April",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "High",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1288&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Anthracnose",
+    " Beetles",
+    "weevils",
+    " Fungal leaf spot",
+    " Leaf miner insect",
+    " Rust",
+    " Stem borer insects",
+    " Virus",
+    " Wood deformity",
+    "  Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The European White Birch (Betula pendula) is an amazing species of tree. Its graceful white bark, delicate leaves and graceful pendulum-shaped branches truly stands out in any landscape. This species is also highly adaptable, being able to endure dry or wet conditions and soil temperatures ranging from 8 to 21 degrees Celsius. Unlike other birches, its cream-colored bark does not exfoliate, making it a gorgeous year-round accent tree in any landscape. The European White Birch is a desirable species for its flood tolerance, its ability to attract wildlife, and its unique aesthetic.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1288_betula_pendula/og/13952996937_bf790c084f_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1288_betula_pendula/regular/13952996937_bf790c084f_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1288_betula_pendula/medium/13952996937_bf790c084f_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1288_betula_pendula/small/13952996937_bf790c084f_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1288_betula_pendula/thumbnail/13952996937_bf790c084f_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

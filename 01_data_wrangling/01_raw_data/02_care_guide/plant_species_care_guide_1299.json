@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2560,
+      "species_id": 1299,
+      "common_name": "Chinese ground orchid",
+      "scientific_name": [
+        "Bletilla striata"
+      ],
+      "section": [
+        {
+          "id": 7886,
+          "type": "watering",
+          "description": "Chinese ground orchid (Bletilla striata) should be watered twice a week, using enough water to thoroughly saturate the soil. Allow the soil to dry out slightly between watering. During the spring and summer, when the plant is actively growing, water more frequently, about every 4 days. In the winter months, water every 2 weeks. Avoid overwatering to prevent root rot, as this species prefers to naturally dry out."
+        },
+        {
+          "id": 7887,
+          "type": "sunlight",
+          "description": "Chinese ground orchid plants benefit from bright, indirect light. They can tolerate short periods of direct sun, but in the hottest months of the year, it is best to provide some shade. For optimal blooms and health, these plants should receive 4 to 6 hours of direct sunlight a day, ideally between the hours of 10am and 5pm. During the summer months, it is best to provide shade from the hottest sun of the day, or move the plant out of direct sunlight for the rest of the day. Although they will tolerate some shade, Chinese ground orchid plants prefer bright but indirect light during the day."
+        },
+        {
+          "id": 7888,
+          "type": "pruning",
+          "description": "The Chinese ground orchid (Bletilla striata) should be pruned in late winter or early spring, just before new growth appears. The best time to do this is before the temperature reaches above 60 degrees Fahrenheit. Pruning should focus on removing any dead or dying foliage and stems. Some stems may need to be completely removed to encourage new growth. If the plant is showing signs of overcrowding, a more significant pruning may need to be done. It’s best to only remove 1 third of the flowering stem each time so the plant’s balance is not disturbed. The pruned material should be composted or disposed of properly."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

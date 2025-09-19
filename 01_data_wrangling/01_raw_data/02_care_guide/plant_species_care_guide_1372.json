@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2621,
+      "species_id": 1372,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja davidii 'Ellen's Blue'"
+      ],
+      "section": [
+        {
+          "id": 8069,
+          "type": "watering",
+          "description": "Butterfly bush (Buddleja davidii 'Ellen's Blue') should be watered deeply once per week, in the early morning or evening. During the first year of growth, the soil should be kept consistently moist, but not soggy. Once established, the bush can tolerate occasional short dry spells, but will require regular watering in order to remain healthy. To determine when to water, check the soil down to about 6 inches; if it is dry, it is time to water. When watering, thoroughly drench the soil until moisture begins to run off."
+        },
+        {
+          "id": 8070,
+          "type": "sunlight",
+          "description": "Although Butterfly Bush (Buddleja davidii 'Ellen's Blue') is considered a hardy plant, it does best when grown in full sun. As such, it should be placed in an area in the garden that receives direct sun for at least 4 to 6 hours a day. If this is not possible, then the plant should be placed in an area of the garden that receives at least 6 to 8 hours of partial sun each day. For best results, it is recommended that this plant receive full sun during the summer months when temperatures are warmer."
+        },
+        {
+          "id": 8071,
+          "type": "pruning",
+          "description": "For Butterfly Bush (Buddleja davidii 'Ellen's Blue'), it is recommended to prune lightly in early spring, just as new growth starts to appear. Cut back about 1-third of the previous year's growth with sharp pruning shears to remove any errant branches, and to help encourage the bush to develop into a more pleasing shape. Additionally, prune until just before midsummer to remove spent blooms and encourage further blooming. This is also beneficial for maintaining vigor and a strong growth habit and should result in larger, brighter flowers than the previous year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

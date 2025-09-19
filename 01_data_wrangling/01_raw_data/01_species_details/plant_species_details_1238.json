@@ -1,0 +1,108 @@
+{
+  "id": 1238,
+  "common_name": "barberry",
+  "scientific_name": [
+    "Berberis 'Soft Caress'"
+  ],
+  "other_name": [],
+  "family": "Berberidaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Soft Caress",
+  "variety": null,
+  "species_epithet": "'Soft",
+  "genus": "Berberis",
+  "origin": [
+    "China",
+    "Japan",
+    "Korea",
+    "India"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 4,
+      "max_value": 5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Division",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "7",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1238&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1238&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1238&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Barberry (Berberis 'Soft Caress') is a stunning plant that is loved for its incredible beauty, ease of maintenance, and strong growth. Its unique foliage creates an eye-catching presence in any yard, making it an excellent focal point in any garden. Soft Caress barberry has small, delicate, and soft evergreen foliage that creates an interesting texture without the need for pruning. This stunning slow-growing plant is low maintenance and highly resistant to both diseases and pests. The unique foliage of this plant can add excitement, texture, and visual movement to your outdoor space or garden. With little maintenance and care, barberry makes a perfect addition to any garden and is sure to be a show-stopping addition for years to come.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1238_berberis_soft_caress/og/Berberis_nevinii_2.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1238_berberis_soft_caress/regular/Berberis_nevinii_2.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1238_berberis_soft_caress/medium/Berberis_nevinii_2.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1238_berberis_soft_caress/small/Berberis_nevinii_2.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1238_berberis_soft_caress/thumbnail/Berberis_nevinii_2.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

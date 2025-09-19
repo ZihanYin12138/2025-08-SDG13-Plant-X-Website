@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2563,
+      "species_id": 1303,
+      "common_name": "false aster",
+      "scientific_name": [
+        "Boltonia asteroides"
+      ],
+      "section": [
+        {
+          "id": 7895,
+          "type": "watering",
+          "description": "False aster should be watered regularly, though with a light hand. Water the plant when the soil begins to dry out, usually every 3-5 days. In warm weather, it may need to be watered more frequently as the soil may dry out faster. Be sure to water the plant near the base and avoid wetting the leaves as much as possible. Water slowly so that it has time to soak into the soil rather than running off. Too much water can lead to rot or other problems. Also, try to avoid getting the foliage wet when watering."
+        },
+        {
+          "id": 7896,
+          "type": "sunlight",
+          "description": "False aster (Boltonia asteroides) will flourish in full sun to partial sun, meaning it needs 5 to 6 hours of sunlight each day. Morning sunlight is best as it will help leaves dry quickly and reduce the risk of fungal disease. Avoid afternoon sun, especially during the hottest months of the summer, as this can cause the plants to dry out and become stressed."
+        },
+        {
+          "id": 7897,
+          "type": "pruning",
+          "description": "False aster should be pruned annually in late winter or early spring. Cut back long, straggly stems without a lot of foliage to just above the ground or to healthy leaf buds. This will stimulate new growth and promote larger clusters of flowers. Some gardeners suggest cutting the plant back every 2 years instead of annually, since this can lead to a harder prune and larger flowers."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 541,
+      "species_id": 1295,
+      "common_name": "cross vine",
+      "scientific_name": [
+        "Bignonia capreolata 'Atrosanguinea'"
+      ],
+      "section": [
+        {
+          "id": 1624,
+          "type": "watering",
+          "description": "Cross vine plants require frequent watering during their active growing season, which generally lasts from spring until fall. Water the soil deeply and thoroughly when it is dry to a depth of about 1 to 2 inches. During the warmer months, water the plant every 7 to 10 days. During the winter, this should be reduced to every 3 to 4 weeks. It's important to make sure that the soil is not too wet; avoid overwatering. Also, when watering, use tepid water; cool water can shock the plant."
+        },
+        {
+          "id": 1625,
+          "type": "sunlight",
+          "description": "Cross vines require partial sunlight, with at least 4 hours of direct sun each day. Morning sunlight is more conducive for plant growth as compared to afternoon sunlight. Direct sun during hot summer months may scorch the foliage, so it is best provide the plant with enough shade. During winter, the plant can tolerate full sun provided that the temperature does not fall too low."
+        },
+        {
+          "id": 1626,
+          "type": "pruning",
+          "description": "Cross vine (Bignonia capreolata 'Atrosanguinea') requires minimal pruning, which should take place in late winter or early spring before new growth appears. Pruning is needed to help keep the vine in bounds, renew fruiting wood, or remove dead or damaged branches. When pruning, take off 1/3 or less of the current season growth, all the way down to the main stem or branch. Pruning too much can greatly reduce flowering. Also, do not remove new vines encroaching into nearby trees or shrubs, as this can injure the plants and be nearly impossible to remove."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

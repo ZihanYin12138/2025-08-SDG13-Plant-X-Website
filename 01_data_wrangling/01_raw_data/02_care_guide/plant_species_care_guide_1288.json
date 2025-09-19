@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2551,
+      "species_id": 1288,
+      "common_name": "European white birch",
+      "scientific_name": [
+        "Betula pendula"
+      ],
+      "section": [
+        {
+          "id": 7859,
+          "type": "watering",
+          "description": "European white birch should be watered regularly. Water the soil when the top 1-2 inches of soil are dry to the touch. Aim to provide enough water so the entire soil profile is damp, but not soggy or saturated. A good rule of thumb is to water your birch tree deeply once a week. Monitor your birch during hot summer days and provide additional water if the top 2 inches of soil become dry. In general, established trees need half an inch to an inch of water each week."
+        },
+        {
+          "id": 7860,
+          "type": "sunlight",
+          "description": "European white birch (Betula pendula) requires direct sunlight for a minimum of 4–6 hours daily in the warmer months of spring and summer, and indirect, filtered light for the colder winter months. As a species, birches prefer cooler summer temperatures and full sun in order to perform well. Keep in mind, however, that too much sun—anything over 8 hours per day—can overexpose the tree, damaging the finer branches and leaves, as well as the bark."
+        },
+        {
+          "id": 7861,
+          "type": "pruning",
+          "description": "European white birch (Betula pendula) can be pruned at any time of year. For younger plants, pruning should be done once per year, usually in the late fall or winter when the tree is dormant. For mature European white birches, pruning should be done twice per year; in early spring and then again in late summer. Pruning should only be done if necessary to maintain the desired shape, or when needed to help promote healthy growth. When pruning, it is important to remove dead and damaged branches, as well as those that are growing in an undesirable location. Branches should be pruned back to 2 healthy buds to encourage new growth. In general, no more than 1-third of the total branches should be pruned in a single session."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

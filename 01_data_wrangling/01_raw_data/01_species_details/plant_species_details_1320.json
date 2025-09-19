@@ -1,0 +1,104 @@
+{
+  "id": 1320,
+  "common_name": "kale",
+  "scientific_name": [
+    "Brassica oleracea (Acephala Group) 'Redbor'"
+  ],
+  "other_name": [],
+  "family": "Brassicaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Redbor",
+  "variety": null,
+  "species_epithet": "oleracea",
+  "genus": "Brassica",
+  "origin": [
+    "United Kingdom"
+  ],
+  "type": "Vegetable",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Annual",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Division",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "2",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1320&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1320&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1320&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Kale is a proud member of the Brassica oleracea family, nicknamed \"the Acephala Group\" and known for its dark, reddish-purple leaves and thick, crunchy stalks. It's an amazing, nutritional powerhouse vegetable, packed with vitamins A, C, and K, along with a good dose of calcium, iron, and other essential minerals. Kale also contains powerful antioxidant properties, and studies have shown it can be beneficial for cardiovascular health. With its crunchy texture and deep flavor, it can easily be added to soups, salads, and stir-fries for a nutrient-rich meal. Kale's adaptability and nutritional benefits make it an amazing plant species we all should be consuming.",
+  "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/1320_brassica_oleracea_acephala_group_redbor/og/kohl-kale-red-green-cabbage-redbor.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1320_brassica_oleracea_acephala_group_redbor/regular/kohl-kale-red-green-cabbage-redbor.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1320_brassica_oleracea_acephala_group_redbor/medium/kohl-kale-red-green-cabbage-redbor.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1320_brassica_oleracea_acephala_group_redbor/small/kohl-kale-red-green-cabbage-redbor.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1320_brassica_oleracea_acephala_group_redbor/thumbnail/kohl-kale-red-green-cabbage-redbor.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

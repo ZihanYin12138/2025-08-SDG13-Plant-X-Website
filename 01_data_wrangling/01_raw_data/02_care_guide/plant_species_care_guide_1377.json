@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 442,
+      "species_id": 1377,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja davidii 'Nanho Purple'"
+      ],
+      "section": [
+        {
+          "id": 1328,
+          "type": "watering",
+          "description": "The Butterfly Bush (Buddleja davidii 'Nanho Purple') should be watered deeply and infrequently, allowing the soil to dry out in between waterings. During the summer growing season, it should be watered about once every week or 10 days, possibly even more frequently during very hot and/or dry weather. In the winter, it should be watered less often, about once every two to three weeks. Pay attention to the soil moisture level and adjust the frequency of watering accordingly."
+        },
+        {
+          "id": 1329,
+          "type": "sunlight",
+          "description": "Butterfly bush (Buddleja davidii 'Nanho Purple') prefers full sun for 6-8 hours per day. Morning sun or afternoon sun is fine and the plant may even benefit from a short siesta in the shade during hot summer days. Provide your Butterfly bush with a sunny exposure during the growing season and the flowers will reward you with a profusion of blooms."
+        },
+        {
+          "id": 1330,
+          "type": "pruning",
+          "description": "It is best to prune Butterfly Bushes (Buddleja davidii 'Nanho Purple') in late winter or early spring, just before the buds begin to swell. Pruning should be fairly rigorous, removing about a third of the previous year’s growth. This will keep the bush looking full and bushy. However, remember to avoid pruning too much, as it may cause stress or dieback in the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

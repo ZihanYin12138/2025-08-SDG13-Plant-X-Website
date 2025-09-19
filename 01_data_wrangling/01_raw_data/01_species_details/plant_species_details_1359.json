@@ -1,0 +1,121 @@
+{
+  "id": 1359,
+  "common_name": "buffalo grass",
+  "scientific_name": [
+    "Buchloe dactyloides"
+  ],
+  "other_name": [],
+  "family": "Poaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "dactyloides",
+  "genus": "Buchloe",
+  "origin": [
+    "North America"
+  ],
+  "type": "Ornamental grass",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.25,
+      "max_value": 0.75,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Stolon",
+    "Division",
+    "Vegetative Plugging"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1359&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1359&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "seed",
+      "color": [
+        "pink-green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "December",
+    "January",
+    "March",
+    "April",
+    "May",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1359&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Low",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Buffalo Grass (Buchloe dactyloides) is an amazing and versatile grass species native to the Great Plains of North America. It has a light green colour, fine texture and is exceptionally drought tolerant, making it ideal for a wide variety of landscapes. This hardy grass thrives in a variety of environments and does not require regular mowing, making it a very low-maintenance option for lawns, pastures, and ground covers. Its extensive root system also helps in erosion control and soil stabilization. Buffalo Grass is environmentally friendly and requires very little water, fertilizer, or pesticides, making it an excellent choice for sustainable landscaping. Its beauty and toughness make it an exceptional choice for lawns, parks, and other outdoor spaces.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1359_buchloe_dactyloides/og/8008288268_d2c6bcfdc0_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1359_buchloe_dactyloides/regular/8008288268_d2c6bcfdc0_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1359_buchloe_dactyloides/medium/8008288268_d2c6bcfdc0_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1359_buchloe_dactyloides/small/8008288268_d2c6bcfdc0_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1359_buchloe_dactyloides/thumbnail/8008288268_d2c6bcfdc0_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

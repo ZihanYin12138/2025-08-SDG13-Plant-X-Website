@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2617,
+      "species_id": 1368,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja davidii 'Attraction'"
+      ],
+      "section": [
+        {
+          "id": 8057,
+          "type": "watering",
+          "description": "The butterfly bush should be watered twice a week, or when the top inch of soil becomes dry. During hotter weather, make sure to water deeply every few days to keep the plant's soil damp. When watering, make sure to avoid wetting the leaves as this could lead to fungal diseases. If you are using an irrigation system, it should be set to run for 20 minutes every 3 days. While the bush doesn't need an excessive amount of water, make sure it gets enough to keep its soil consistently moist. By giving it enough water, the bush will be able to develop strong, healthy roots."
+        },
+        {
+          "id": 8058,
+          "type": "sunlight",
+          "description": "Butterfly bush (Buddleja davidii 'Attraction') needs at least 6 hours of sunlight each day for best flowering. This plant should receive full sun in the morning through to early afternoon, although it can tolerate some shade. This means that it should be placed where it will receive direct sunlight for 6 hours or longer each day. During the hottest parts of the year in some climates, it may be beneficial to provide some shade during the afternoon in order to avoid wilting and sunburn."
+        },
+        {
+          "id": 8059,
+          "type": "pruning",
+          "description": "Butterfly bush (Buddleja davidii 'Attraction') should generally be pruned in late winter or early spring, when the plant is still dormant. Pruning will help control the size and shape of the plant, encourage bushier growth, and promote a flush of new growth and blooms. To maintain a compact, natural shape, prune the plant lightly, removing just a few inches of the longer wood and up to 1-third of shrub's entire height. Prune selectively instead of shearing for a more natural look. To promote more blooms, remove the entire flowering stems once the first set of blooms has faded. Be sure to sterilize pruning tools between cuts to prevent the spread of bacteria or diseases."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

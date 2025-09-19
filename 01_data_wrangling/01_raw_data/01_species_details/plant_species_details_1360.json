@@ -1,0 +1,153 @@
+{
+  "id": 1360,
+  "common_name": "buffalo grass",
+  "scientific_name": [
+    "Buchloe dactyloides 'Cody'"
+  ],
+  "other_name": [],
+  "family": "Poaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Cody",
+  "variety": null,
+  "species_epithet": "dactyloides",
+  "genus": "Buchloe",
+  "origin": [
+    "United States"
+  ],
+  "type": "Turfgrass",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.25,
+      "max_value": 0.75,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Stolon",
+    "Division",
+    "Vegetative Plugging"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1360&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1360&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "March",
+    "April",
+    "May",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "March",
+    "April",
+    "May",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "September",
+    "October",
+    "November",
+    "May",
+    "March",
+    "April",
+    "May",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "May",
+    "September",
+    "October",
+    "November"
+  ],
+  "pruning_count": {
+    "amount": 3,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1360&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Low",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Buffalo grass (Buchloe dactyloides 'Cody') is an amazing prairie grass species for any landscape. It forms a durable, low-maintenance grass carpet with dense, blue-green turf. This native grass is deep-rooted, providing resilience against drought and heat while also helping prevent weeds. Plus, its low mowing requirement and slow grow rate makes it ideal for those with busy lifestyles. As an added bonus, its long-lived, with some stands lasting up to 10 years! With its low maintenance and ability to withstand droughts, buffalo grass is a versatile and resilient species to add to any landscape.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1360_buchloe_dactyloides_cody/og/Bouteloua_dactyloides_27Cody27_kz1.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1360_buchloe_dactyloides_cody/regular/Bouteloua_dactyloides_27Cody27_kz1.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1360_buchloe_dactyloides_cody/medium/Bouteloua_dactyloides_27Cody27_kz1.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1360_buchloe_dactyloides_cody/small/Bouteloua_dactyloides_27Cody27_kz1.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1360_buchloe_dactyloides_cody/thumbnail/Bouteloua_dactyloides_27Cody27_kz1.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

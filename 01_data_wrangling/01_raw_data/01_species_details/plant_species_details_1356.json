@@ -1,0 +1,137 @@
+{
+  "id": 1356,
+  "common_name": "Siberian bugloss",
+  "scientific_name": [
+    "Brunnera macrophylla 'Sea Heart'"
+  ],
+  "other_name": [],
+  "family": "Boraginaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Sea Heart",
+  "variety": null,
+  "species_epithet": "macrophylla",
+  "genus": "Brunnera",
+  "origin": [
+    "Turkey"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1356&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1356&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "blue"
+      ]
+    },
+    {
+      "part": "stalks",
+      "color": [
+        "dark-green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Deep shade",
+    " Filtered shade",
+    " Part sun/part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1356&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Slugs",
+    "snails",
+    "  Pest resistant",
+    " Disease resistant",
+    " Deer resistant",
+    " Rabbit resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The Siberian bugloss (Brunnera macrophylla 'Sea Heart') is an amazing plant with many benefits. Its large, heart-shaped leaves help to create appealing texture in the garden. Its delicate foliage is dusted with silver, and as the plant ages, its foliage turns a stunning blue-green. It also produces lovely pale blue and yellow forget-me-not-like flowers in late spring and early summer. This plant is drought and shade tolerant, making it perfect for those hard-to-reach areas where shade and moisture are limited. And if you’re looking for low-maintenance, the Siberian bugloss does not require frequent pruning, deadheading, or fertilizer. With its elegant foliage and charming flowers, the Siberian bugloss is sure to brighten up any garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1356_brunnera_macrophylla_sea_heart/og/52019952548_25059631b8_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1356_brunnera_macrophylla_sea_heart/regular/52019952548_25059631b8_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1356_brunnera_macrophylla_sea_heart/medium/52019952548_25059631b8_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1356_brunnera_macrophylla_sea_heart/small/52019952548_25059631b8_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1356_brunnera_macrophylla_sea_heart/thumbnail/52019952548_25059631b8_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

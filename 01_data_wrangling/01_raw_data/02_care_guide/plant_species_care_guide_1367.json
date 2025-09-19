@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 550,
+      "species_id": 1367,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja davidii 'Adokeep' ADONIS BLUE"
+      ],
+      "section": [
+        {
+          "id": 1645,
+          "type": "watering",
+          "description": "Water your butterfly bush once a week with the equivalent of 1 inch of rainfall. During the hottest summer months, the plant may need to be watered more frequently (every 3-4 days). Make sure to water the plant deeply, letting the soil become moist but not soggy. You can test the soil to ensure proper watering; it should be moist about 2-3 inches below the surface. During the fall and winter months, reduce the amount of water the plant receives, but do not allow the soil to become completely dry."
+        },
+        {
+          "id": 1649,
+          "type": "sunlight",
+          "description": "The butterfly bush (Buddleja davidii 'Adokeep' Adonis Blue) should be placed or grown in a location that receives 8-10 hours of direct, unfiltered sunlight per day for optimal growth and performance. During the months of summer, the sun should be shining on the bush for at least 6-8 hours a day. In winter, the bush should receive 4-6 hours of sunlight each day. Additionally, if possible, the butterfly bush should receive morning sun when possible for the best blooms."
+        },
+        {
+          "id": 1654,
+          "type": "pruning",
+          "description": "Pruning for a Butterfly Bush (Buddleja davidii 'Adokeep' ADONIS BLUE) should be done twice a year - once in early spring, around the end of March or early April, and again in late summer, at the beginning of August. The amount of pruning to do should be more intense in the spring, with about a quarter of the plant being pruned back to promote healthy regrowth. In the late summer, it is beneficial to give the plant another light pruning to keep its shape and reduce size if necessary. Be sure to remove any dead, diseased or damaged branches at this time as well."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

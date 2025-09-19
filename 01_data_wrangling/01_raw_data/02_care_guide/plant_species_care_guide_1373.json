@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2622,
+      "species_id": 1373,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja davidii 'Evil Ways'"
+      ],
+      "section": [
+        {
+          "id": 8072,
+          "type": "watering",
+          "description": "\"Butterfly bush (Buddleja davidii 'Evil Ways') should be watered once a week, using enough water to keep the soil moist without making it overly wet. Initially, the plant should be watered deeply, allowing the water to penetrate the roots. Once the plant is established, you can water the soil until it is damp, but not soggy, to a depth of 3-4 inches. During very hot summer weather, the plant may need to be watered more often (every 4-5 days), in order to keep the soil evenly moist.\""
+        },
+        {
+          "id": 8073,
+          "type": "sunlight",
+          "description": "Butterfly bush (Buddleja davidii 'Evil Ways') should be grown in full sun, receiving at least 6-8 hours of direct sunlight each day. It does best during hot, dry weather, so it should be placed in a well-draining area. During the cooler months, it can tolerate some shade, however, too much shade can lead to spindly growth. For optimal growth and flowering, the bush should be fertilized with a balanced fertilizer throughout the growing season."
+        },
+        {
+          "id": 8074,
+          "type": "pruning",
+          "description": "The optimal time for pruning your Butterfly Bush (Buddleja davidii 'Evil Ways') is in the late winter or early spring, when the plant has just started to show new growth. Pruning consists of cutting back the limbs and flower stalks to shape the plant and control size, and cutting away any dead or diseased stems. This pruning should take out approximately 1/3 of the oldest stems each year, which will ensure that the bush is constantly renewing itself. Generally, it is not necessary to prune overly aggressively, just occasionally snipping off excess growth. Doing this will result in a more compact bush and will also stimulate new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

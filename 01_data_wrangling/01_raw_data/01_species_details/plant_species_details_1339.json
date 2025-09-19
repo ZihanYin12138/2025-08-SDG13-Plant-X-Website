@@ -1,0 +1,139 @@
+{
+  "id": 1339,
+  "common_name": "smooth brome",
+  "scientific_name": [
+    "Bromus inermis 'Skinner's Gold'"
+  ],
+  "other_name": [],
+  "family": "Poaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Skinner",
+  "variety": null,
+  "species_epithet": "inermis",
+  "genus": "Bromus",
+  "origin": [
+    "United States"
+  ],
+  "type": "Ornamental grass",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1.5,
+      "max_value": 2,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Division",
+    "Cutting"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1339&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1339&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green",
+        "yellow-green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "green-yellow",
+        "golden-yellow"
+      ]
+    },
+    {
+      "part": "foliage",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "buds",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1339&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Smooth brome (Bromus inermis 'Skinner's Gold') is an amazing grass species for many reasons. Its rich, golden-brown color has an eye-catching appeal that will add a vibrant look to any landscape. Its upright growth pattern and sturdy clump formation allow it to be used to create beautiful, formal structures in garden or yard. It's also highly tolerant of drought, so its care is very low maintenance. Its easy-to-grow characteristics make it an ideal addition to any space, and it is particularly suited for rock gardens or difficult-to-plant areas. Plus, its short stature and lack of aggressive tendencies make it an excellent choice for edging that adds clean lines and texture to the landscape. In short, Smooth brome is an adaptable and beautiful grass that is worthy of consideration for any garden or landscaping project.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1339_bromus_inermis_skinners_gold/og/52268197340_bb39283a28_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1339_bromus_inermis_skinners_gold/regular/52268197340_bb39283a28_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1339_bromus_inermis_skinners_gold/medium/52268197340_bb39283a28_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1339_bromus_inermis_skinners_gold/small/52268197340_bb39283a28_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1339_bromus_inermis_skinners_gold/thumbnail/52268197340_bb39283a28_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

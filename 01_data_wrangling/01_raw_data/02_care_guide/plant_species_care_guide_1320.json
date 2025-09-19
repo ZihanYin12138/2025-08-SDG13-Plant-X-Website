@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2578,
+      "species_id": 1320,
+      "common_name": "kale",
+      "scientific_name": [
+        "Brassica oleracea (Acephala Group) 'Redbor'"
+      ],
+      "section": [
+        {
+          "id": 7940,
+          "type": "watering",
+          "description": "Water kale plants when the soil is on the dry side. This can be every 5-7 days in summer and every 10-14 days in winter. For container-grown kale plants, it is best to water deeply (by soaking for 1-2 minutes) so the water reaches the entire root system. Once the soil is evenly moist, allow the top inch of soil to dry out before watering again. Keeping your kale watered regularly will help ensure a healthy harvest."
+        },
+        {
+          "id": 7941,
+          "type": "sunlight",
+          "description": "Kale (Brassica oleracea (Acephala Group) 'Redbor') is a cool season crop that requires at least 6-8 hours of direct sunlight each day for optimum growth. For optimal health and yields, kale should be grown in full sun and with plenty of water and rich soil. Kale is a frost-hardy plant that can tolerate light frosts, but extended exposure to freezing temperatures can damage the plant. For this reason, it should ideally be planted in early spring or late summer with temperatures between 45-85 degrees Fahrenheit (7-29 degrees Celsius). Kale will produce best when the soil is moist but not soggy. It is important to ensure your kale is receiving adequate irrigation each day. When grown in full sun and with the right soil conditions, kale is a very productive crop that can produce an abundant harvest."
+        },
+        {
+          "id": 7942,
+          "type": "pruning",
+          "description": "Kale (Brassica oleracea Acephala Group) 'Redbor' should be pruned in late spring, when the plant is actively growing, and before it begins to flower. Pruning should start when the plants are medium-sized, usually when they are 12-20 inches in height. Pruning should be done selectively, removing any dead, diseased, or damaged canes, as well as any smaller, spindly canes. Pruning should leave approximately 5 to 6 canes on the plant, which should then be pruned to just 8 to 10 inches in length. Once the plants have reached their desired size, further pruning should be kept to a minimum, as this will help ensure the plant’s long term health."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

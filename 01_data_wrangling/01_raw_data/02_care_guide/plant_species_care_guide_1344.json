@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1027,
+      "species_id": 1344,
+      "common_name": "angel's trumpet",
+      "scientific_name": [
+        "Brugmansia candida"
+      ],
+      "section": [
+        {
+          "id": 3082,
+          "type": "watering",
+          "description": "When caring for an Angel's Trumpet, it is important to provide adequate water. During the growing season, water your plant regularly, keeping the soil moist, but never soggy, and taking care not to overwater. Water when the top 1-2 inches of soil become dry, approximately once a week. During the winter, reduce watering to every 1-2 weeks as the plant slows its growth and enters dormancy."
+        },
+        {
+          "id": 3087,
+          "type": "sunlight",
+          "description": "During the summer months, Angel's Trumpet should receive at least 6 hours of direct sunlight per day. In the winter, they should get at least 3 to 4 hours of direct sunlight per day, preferably in the morning or late afternoon to reduce the chance of sunburn or wilting. Morning sun is best because the morning sunlight has a higher concentration of blue and red wavelengths of light which are both beneficial to the plant. Avoid late afternoon sun, which is often too intense and can lead to sunburn."
+        },
+        {
+          "id": 3088,
+          "type": "pruning",
+          "description": "Angel’s trumpet should be pruned lightly in the spring or early summer when the plant is beginning to sprout new growth. Any dead or damaged branches should be removed and the stem can be cut back by about 1/3 of its length. Doing this pruning in the spring allows the plant to have enough time to grow back before the arrival of cold weather. Angel’s trumpet may require additional pruning in the fall as it enters dormancy. This will help ensure that it stays healthy and can more easily recover once spring time comes around once again."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

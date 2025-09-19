@@ -1,0 +1,113 @@
+{
+  "id": 1231,
+  "common_name": "Oregon grape-holly",
+  "scientific_name": [
+    "Berberis aquifolium 'Apollo'"
+  ],
+  "other_name": [],
+  "family": "Berberidaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Apollo",
+  "variety": null,
+  "species_epithet": "aquifolium",
+  "genus": "Berberis",
+  "origin": [
+    "United States"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2.5,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1231&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1231&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "February",
+    "June",
+    "July",
+    "March",
+    "April",
+    "February",
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1231&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": true,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": true,
+  "description": "Oregon grape-holly (Berberis aquifolium 'Apollo') is an amazing plant species with tons of benefits. This evergreen shrub boasts beautiful, glossy leaves with large yellow flowers that turn to small blue berries in the late summer. These berries are edible and can be used to make jams and teas. Additionally, the bark and roots of this species are packed with compounds that are known for their high antioxidative effect and can be used for medicinal purposes. Its dense habit helps to provide shelter for wildlife and its deep roots help provide erosion control. With its bright color, and plenty of health benefits, Oregon grape-holly is an amazing plant.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1231_berberis_aquifolium_apollo/og/Mahonia_aquifolium_12C_Kurpark2C_Brilon2C_Germany.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1231_berberis_aquifolium_apollo/regular/Mahonia_aquifolium_12C_Kurpark2C_Brilon2C_Germany.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1231_berberis_aquifolium_apollo/medium/Mahonia_aquifolium_12C_Kurpark2C_Brilon2C_Germany.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1231_berberis_aquifolium_apollo/small/Mahonia_aquifolium_12C_Kurpark2C_Brilon2C_Germany.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1231_berberis_aquifolium_apollo/thumbnail/Mahonia_aquifolium_12C_Kurpark2C_Brilon2C_Germany.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

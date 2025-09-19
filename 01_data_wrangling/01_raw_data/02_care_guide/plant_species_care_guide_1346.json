@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2598,
+      "species_id": 1346,
+      "common_name": "maikoa",
+      "scientific_name": [
+        "Brugmansia suaveolens"
+      ],
+      "section": [
+        {
+          "id": 8000,
+          "type": "watering",
+          "description": "Maikoa should be watered when the top 1 inch of soil feels dry to the touch. Depending on the environment, this typically requires watering every 3-4 days. Water the plant deeply so the entire root system is soaked. Allow any excess water to drain away and ensure the soil is not too soggy; this can lead to root rot. Aim to water until the potting mix is evenly moist."
+        },
+        {
+          "id": 8001,
+          "type": "sunlight",
+          "description": "Maikoa thrive best in full sunlight for at least 6 to 8 hours of direct sunlight every day. This species of plant is native to Central and South America, and naturally grows in environments where they are exposed to plentiful and consistent sunlight. In optimal conditions, Maikoa may tolerate a few hours of direct sunlight in the late afternoon or early morning, but will need at least 6 hours of the available sunshine in order to remain healthy and bloom. Maikoa prefers areas with lots of indirect sunlight as well, so if possible, choose a location that allows the plant to receive full sun from sunrise until late afternoon."
+        },
+        {
+          "id": 8002,
+          "type": "pruning",
+          "description": "Maikoa is a flowering plant that prefers pruning in the winter and early spring months. Pruning should be done when the plant is dormant and not actively growing. Pruning can help to improve the plant's overall shape and promote new growth.\n\nFor Maikoa, it is important to prune they branches back in order to promote new shoots. The ideal time for this is late winter or early spring; this will give the plant the most time to adjust and generate new growth. Prune back as much as required to encourage a symmetry and balanced growth. You can also use pruning to create unique shapes or to reduce the size of the plant's branches.\n\nIt is important to use sharp pruners in order to avoid causing damage to the plant. After pruning, it is recommended to apply a topdressing of compost to help promote further healthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

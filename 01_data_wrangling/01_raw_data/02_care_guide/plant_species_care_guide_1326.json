@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2582,
+      "species_id": 1326,
+      "common_name": "kohlrabi",
+      "scientific_name": [
+        "Brassica oleracea (Gongylodes Group)"
+      ],
+      "section": [
+        {
+          "id": 7952,
+          "type": "watering",
+          "description": "Watering kohlrabi (Brassica oleracea (Gongylodes Group)) plants requires frequent and even watering. To give your kohlrabi plants the moisture they need, water them every 3 - 4 days if the soil becomes dry to a depth of 1 - 2 inches. During hot weather, water your kohlrabi plants more frequently, every 2 days if necessary. Make sure to keep the soil damp, but not soggy, to promote good growth."
+        },
+        {
+          "id": 7953,
+          "type": "sunlight",
+          "description": "Kohlrabi (Brassica oleracea (Gongylodes Group)) requires about 6 to 8 hours of sunlight daily to reach its full growth potential. The plant should be kept in direct sunlight for the majority of the day, with partial shade in the late afternoon. Too little sunlight can result in weak, sparse growth, while too much sunlight can cause the leaves to scorch or turn yellow. To prevent sunburn on the leaves, it is important to gradually increase the amount of sunlight the plant receives and to keep the soil consistently moist throughout hot, sunny days."
+        },
+        {
+          "id": 7954,
+          "type": "pruning",
+          "description": "Kohlrabi (Brassica oleracea (Gongylodes Group)) should be pruned for best harvests. For most varieties of Kohlrabi, pruning should take place after the first true leaves appear. When the seedlings reach about 5-10 cm in height, gardeners should remove the top 2 centimetres of their stems. This will allow the plant to focus its energy on forming its edible bulb rather than its foliage. For larger plants, gardeners should remove the large, succulent leaves at the same time. If these leaves are left, the plant will likely produce a smaller bulb. After pruning, gardeners should monitor and water regularly to ensure the soil remains moist for optimum growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

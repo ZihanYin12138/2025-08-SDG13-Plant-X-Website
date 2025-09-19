@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2577,
+      "species_id": 1319,
+      "common_name": "Siberian kale",
+      "scientific_name": [
+        "Brassica napus (Pabularia Group)"
+      ],
+      "section": [
+        {
+          "id": 7937,
+          "type": "watering",
+          "description": "Siberian kale should be watered twice a week. It is important to water the plants deeply but infrequently. The best way to water them is to thoroughly drench the soil and then wait until the soil has almost completely dried out before watering again. When watering, avoid overhead sprinklers; and instead use a watering can, a hose, or a soaker hose for direct application at the base of the plant. Water in the morning before temperatures rise, as watering in the heat of the day can cause water stress. When temperatures rise, you should water your plants more frequently but in smaller amounts."
+        },
+        {
+          "id": 7938,
+          "type": "sunlight",
+          "description": "Sunlight needs for Siberian kale (Brassica napus (Pabularia Group)) depend on the growing season. Ideally, it should receive at least 6 to 8 hours of direct sunlight each day during the growing season. If planted in partial shade or shade, it may require supplemental light. In the winter, Siberian kale should receive 2 to 4 hours of direct sunlight each day. Additionally, Siberian kale will benefit from supplemental lighting in the winter if it does not receive adequate sunlight."
+        },
+        {
+          "id": 7939,
+          "type": "pruning",
+          "description": "Siberian kale (Brassica napus (Pabularia Group)) requires regular pruning to maintain its shape, encourage bushiness, and encourage new growth. Prune Siberian kale when plants begin to outgrow their space in late spring. When pruning, aim to remove up to 1-third of the canopy to maintain an even shape. Cutting off the oldest, longest shoots first will maintain an overall bushier shape. Also remove any damaged or discolored leaves. Pruning should be done in the morning when temperatures are cooler and the plant is less stressed. While Siberian kale doesn't require frequent fertilizing, frequent pruning may require additional fertilizer to encourage new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

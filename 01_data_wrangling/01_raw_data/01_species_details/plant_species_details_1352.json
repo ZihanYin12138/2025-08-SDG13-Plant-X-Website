@@ -1,0 +1,116 @@
+{
+  "id": 1352,
+  "common_name": "Siberian bugloss",
+  "scientific_name": [
+    "Brunnera macrophylla 'King's Ransom'"
+  ],
+  "other_name": [],
+  "family": "Boraginaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "King",
+  "variety": null,
+  "species_epithet": "macrophylla",
+  "genus": "Brunnera",
+  "origin": [
+    "Turkey"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1352&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1352&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Deep shade",
+    " Filtered shade",
+    " Part sun/part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1352&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Slugs",
+    "snails",
+    "  Pest resistant",
+    " Disease resistant",
+    " Deer resistant",
+    " Rabbit resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Siberian bugloss (Brunnera macrophylla 'King's Ransom') is an absolutely stunning plant. Its lush, bright green foliage is highlighted with large, striking silver variegation and adorned with bright blue, forget-me-not-like flowers that appear in spring. It does best in lightly shaded areas and grows to a mature height of 12-18 inches. It's a low maintenance variety, tolerant of cold temperatures and relatively pest and disease free. Its bold foliage and vibrant flowers make it an excellent choice for borders and container gardens, adding elegant beauty wherever it is planted.  It's the perfect choice for gardeners looking for an eye-catching addition to their landscape.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1352_brunnera_macrophylla_kings_ransom/og/26716286852_152f4cd0aa_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1352_brunnera_macrophylla_kings_ransom/regular/26716286852_152f4cd0aa_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1352_brunnera_macrophylla_kings_ransom/medium/26716286852_152f4cd0aa_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1352_brunnera_macrophylla_kings_ransom/small/26716286852_152f4cd0aa_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1352_brunnera_macrophylla_kings_ransom/thumbnail/26716286852_152f4cd0aa_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

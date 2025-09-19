@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2571,
+      "species_id": 1313,
+      "common_name": "Swan River daisy",
+      "scientific_name": [
+        "Brachyscome (group)"
+      ],
+      "section": [
+        {
+          "id": 7919,
+          "type": "watering",
+          "description": "The Swan River daisy should be watered on a regular basis to ensure it stays healthy and blooms at its best. Water when the soil surface looks dry, and give enough water to penetrate the soil to a depth of 12-15 cm (5-6 inches). The amount of water depends on the weather and how often the soil dries out. If the soil is extremely dry, providing a deep, long soak (at least an hour) can support healthy root development; however, never leave the soil wet for too long. During the hot summer months, water regularly every 2-3 days, depending on the soil type. During the cooler winter months, water less often- generally once a week or less if the soil is consistently damp."
+        },
+        {
+          "id": 7920,
+          "type": "sunlight",
+          "description": "The Swan River Daisy requires at least 6 hours of full sun per day to grow healthy and bloom plentifully. If planted in areas with only partial sunlight, they will not flower and will grow significantly smaller than their full-sun counterparts. This plant species is tolerant of drought and thrives during warm summer days, but adequate direct sunlight is the key to its proper growth and blooming. Position it in your garden to ensure it will get the most sunlight possible, and in cooler climates it is ideal to plant near south or west-facing walls."
+        },
+        {
+          "id": 7921,
+          "type": "pruning",
+          "description": "In general, swan river daisies should be pruned once in late spring or early summer. However, this is not a hard and fast rule as some varieties can benefit from a second light pruning in autumn. Pruning should be light and only to remove dead, diseased or tangled growth. As with all plants, prune swan river daisies back to healthy, green growth or just above a pair of outward-facing leaves. Avoid cutting back too far, as this may weaken or damage the plant. If you need to reduce the size of the plant, gradually reduce the size of the overall shape by pruning over a few years to avoid damaging or shocking the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,110 @@
+{
+  "id": 1363,
+  "common_name": "butterfly bush",
+  "scientific_name": [
+    "Buddleja 'Asian Moon'"
+  ],
+  "other_name": [],
+  "family": "Scrophulariaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Asian Moon",
+  "variety": null,
+  "species_epithet": "'Asian",
+  "genus": "Buddleja",
+  "origin": [
+    "China"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 7,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Hummingbirds",
+    " Butterflies"
+  ],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Division",
+    "Grafting Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1363&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1363&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "June",
+    "July",
+    "August"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1363&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Butterfly bush (Buddleja 'Asian Moon') is an amazing plant species due to its large clusters of fragrant, colorful flowers. This species is drought tolerant and can grow up to 8 feet tall. It blooms in shades of pink, purple, and white, attracting hummingbirds, butterflies, and other beneficial pollinators. The strong, pleasant scent is another great feature of the butterfly bush. These plants are hardy and can thrive in full sun and well-drained soil. This easy-to-grow plant is perfect for gardeners of all experience levels and makes a great addition to any garden.",
+  "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/1363_buddleja_asian_moon/og/butterfly-bush-buddleia-buddleja-lilac.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1363_buddleja_asian_moon/regular/butterfly-bush-buddleia-buddleja-lilac.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1363_buddleja_asian_moon/medium/butterfly-bush-buddleia-buddleja-lilac.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1363_buddleja_asian_moon/small/butterfly-bush-buddleia-buddleja-lilac.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1363_buddleja_asian_moon/thumbnail/butterfly-bush-buddleia-buddleja-lilac.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

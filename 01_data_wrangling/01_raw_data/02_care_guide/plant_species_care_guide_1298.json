@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2559,
+      "species_id": 1298,
+      "common_name": "deer fern",
+      "scientific_name": [
+        "Blechnum spicant"
+      ],
+      "section": [
+        {
+          "id": 7883,
+          "type": "watering",
+          "description": "Deer Ferns should be watered regularly to keep their soil moist but not soggy. Water your Deer Fern about once a week, allowing the top inch or 2 of soil to dry out before watering again. If the weather is very warm and dry, you may need to water more often. It is important to avoid over-watering as this can lead to root-rot. In the winter months, when the weather is cooler, reduce the amount of water you give the plant slightly, as these plants need less water during the winter."
+        },
+        {
+          "id": 7884,
+          "type": "sunlight",
+          "description": "Deer fern, Blechnum spicant, needs medium to bright indirect sunlight for optimum growth. Generally, 4 to 6 hours of sun each day will be beneficial; however, if the sunlight is strong or direct, it can cause the deer fern to become dehydrated and burnt. It is best to provide either morning or late afternoon sun, or otherwise a few hours of bright shade during midday. Additionally, the deer fern may need to be supplemented with artificial light in areas of low light or winter months."
+        },
+        {
+          "id": 7885,
+          "type": "pruning",
+          "description": "Deer ferns (Blechnum spicant) should be pruned in early spring, when theres new growth. To maintain a tidy, tidy look, you can remove any dead or broken fronds and trim off any dried or browning fronds at this time. If your deer fern has become a bit lanky or unruly, you can trim back the outermost fronds up to the main crown of the plant. This will help keep it looking compact and healthy. It is best to avoid pruning after mid-to-late summer so you don’t disturb the new growth cycle that will begin in the fall. Always use clean, sharp pruning shears, and never leave pruning clippings on or near the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

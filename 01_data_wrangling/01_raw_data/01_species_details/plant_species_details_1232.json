@@ -1,0 +1,128 @@
+{
+  "id": 1232,
+  "common_name": "Oregon grape-holly",
+  "scientific_name": [
+    "Berberis aquifolium 'Compacta'"
+  ],
+  "other_name": [],
+  "family": "Berberidaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Compacta",
+  "variety": null,
+  "species_epithet": "aquifolium",
+  "genus": "Berberis",
+  "origin": [
+    "United States"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Division",
+    "Grafting Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1232&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1232&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "blooms",
+      "color": [
+        "purple-yellow"
+      ]
+    },
+    {
+      "part": "foliage",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1232&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": true,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": true,
+  "description": "Oregon grape-holly (Berberis aquifolium 'Compacta') is an amazing evergreen shrub, with incredible year-round color and texture. This hardy species is an excellent choice for small gardens, as it grows very concisely without needing much pruning to stay compact. It requires little maintenance, and in the springtime, bright yellow blossoms cover the stems, adding even more interest. In the fall it becomes even more striking with the arrival of blue-black berries and bright red-purple foliage. The Oregon grape-holly is an ideal choice for a unique and luscious addition to your garden, with its hardy, colorful appeal.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1232_berberis_aquifolium_compacta/og/46446962585_ec2d49706a_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1232_berberis_aquifolium_compacta/regular/46446962585_ec2d49706a_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1232_berberis_aquifolium_compacta/medium/46446962585_ec2d49706a_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1232_berberis_aquifolium_compacta/small/46446962585_ec2d49706a_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1232_berberis_aquifolium_compacta/thumbnail/46446962585_ec2d49706a_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
