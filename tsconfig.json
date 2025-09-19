@@ -19,8 +19,13 @@
     "baseUrl": ".",
     "paths": { "@/*": ["src/*"] },
 
-    "types": ["vite/client"]
+    "types": ["vite/client"],
+
+    "allowJs": true,          // 允许导入 .js
+    "checkJs": false,         // 不对 .js 做类型检查（需要可改为 true）
+    "skipLibCheck": true,     // 跳过第三方声明检查，减少无关报错
+    "noEmit": true            // 仅做类型检查，不产出编译物，避免覆盖手写 .js
   },
-  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.vue"],
+  "include": ["src"],
   "exclude": ["node_modules", "dist"]
 }

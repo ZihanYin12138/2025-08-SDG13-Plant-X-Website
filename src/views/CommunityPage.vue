@@ -5,7 +5,7 @@
 <template>
 <section class="section">
 <div class="container">
-<h2 class="title">Community</h2>
+<h2 class="title">Community (Comming Soon)</h2>
 <p class="lead">Join gardening enthusiasts to share experiences and collaborate on climate-positive actions.</p>
 
 
