@@ -150,20 +150,39 @@ export async function getDiseaseById(id) {
 
 /**
  * 把识别结果扩展成疾病详情（保留概率/置信度）
- * predictions: [{ predicted_id, probability?, confidence? }]
+ * predictions: [{ predicted_id | disease_id | plant_disease_id | id, probability?, confidence? }]
  */
 export async function expandPredictionsToDiseases(predictions = []) {
+  function pickId(p = {}) {
+    const raw =
+      p.predicted_id ??
+      p.disease_id ??
+      p.plant_disease_id ??
+      p.id ??
+      p?.disease?.id ??
+      p?.prediction?.id
+    const n = Number(raw)
+    return Number.isFinite(n) ? n : null
+  }
+
   const uniqueIds = Array.from(
-    new Set(predictions.map(p => Number(p.predicted_id)).filter(n => Number.isFinite(n)))
+    new Set(
+      predictions.map(p => pickId(p)).filter(n => n != null)
+    )
   )
+
   const details = await Promise.all(uniqueIds.map(id => getDiseaseById(id).catch(() => null)))
-  const id2meta = new Map(predictions.map(p => [Number(p.predicted_id), p]))
+  const id2meta = new Map(predictions.map(p => [pickId(p), p]))
 
   return details
     .filter(Boolean)
     .map(d => {
       const m = id2meta.get(Number(d.id)) || {}
-      return { ...d, probability: m.probability ?? null, confidence: m.confidence ?? null }
+      const prob =
+        (m.score != null ? m.score : null) ??
+        (m.probability != null ? m.probability : null) ??
+        (m.confidence != null ? m.confidence : null)
+      return { ...d, probability: prob }
     })
 }
 
