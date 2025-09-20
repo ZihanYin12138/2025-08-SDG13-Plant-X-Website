@@ -1,0 +1,107 @@
+{
+  "id": 1390,
+  "common_name": "butterfly bush",
+  "scientific_name": [
+    "Buddleja 'Miss Molly'"
+  ],
+  "other_name": [],
+  "family": "Scrophulariaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Miss Molly",
+  "variety": null,
+  "species_epithet": "'Miss",
+  "genus": "Buddleja",
+  "origin": [
+    "China"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 4,
+      "max_value": 5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Division",
+    "Grafting Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1390&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1390&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1390&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Butterfly bush (Buddleja 'Miss Molly') is an amazing plant for any garden. Its cascading, fragrant blooms create the perfect home for butterflies, other pollinators, and hummingbirds. It is easy to care for, drought tolerant, and grows in most areas with full sun. It comes in a variety of colors, from pink to purple - perfect for creating an array of colorful displays in the garden. Its nectar-filled blooms attract pollinators while also making a wonderful addition to any landscape. With its simple maintenance and long-lasting beauty, butterfly bush is a must-have for any garden.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1390_buddleja_miss_molly/og/1793px-126_Buddleja_27Miss_Ruby27_2.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1390_buddleja_miss_molly/regular/1793px-126_Buddleja_27Miss_Ruby27_2.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1390_buddleja_miss_molly/medium/1793px-126_Buddleja_27Miss_Ruby27_2.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1390_buddleja_miss_molly/small/1793px-126_Buddleja_27Miss_Ruby27_2.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1390_buddleja_miss_molly/thumbnail/1793px-126_Buddleja_27Miss_Ruby27_2.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

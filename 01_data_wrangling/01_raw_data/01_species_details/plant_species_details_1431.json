@@ -1,0 +1,121 @@
+{
+  "id": 1431,
+  "common_name": "boxwood",
+  "scientific_name": [
+    "Buxus sempervirens 'Furore' Jade Pillar"
+  ],
+  "other_name": [],
+  "family": "Buxaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Furore",
+  "variety": null,
+  "species_epithet": "sempervirens",
+  "genus": "Buxus",
+  "origin": [
+    "Southern Europe",
+    "western Asia",
+    "northern Africa"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 5,
+      "max_value": 15,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Greenwood Cuttings",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1431&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1431&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Deep shade",
+    "Filtered shade",
+    "Full sun only if soil kept moist",
+    "Part sun/part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1431&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Alkaline",
+    " Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Dieback",
+    " Leaf miner insect",
+    " Whitefly",
+    "psyllids",
+    "  Disease resistant",
+    " Deer resistant",
+    " Rabbit resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Boxwood (Buxus sempervirens 'Furore' Jade Pillar) is an amazing evergreen shrub that is truly a standout. Its striking jade green foliage and column shape provide year-round beauty, making it perfect for hedges or as a single specimen in the garden. Its distinctive color provides an eye-catching accent to traditional green boxwood, adding interest in winter and spring months when other shrubs are dormant. It's relatively foolproof and requires minimal maintenance making it a great choice for the novice gardener. With its upright form, it's also great for small spaces and containers. Boxwood is an ideal choice for anyone looking for an attractive low-maintenance evergreen.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1431_buxus_sempervirens_furore_jade_pillar/og/2560px-Buxus_sempervirens_27Pyramidalis27_2019-06-01_02.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1431_buxus_sempervirens_furore_jade_pillar/regular/2560px-Buxus_sempervirens_27Pyramidalis27_2019-06-01_02.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1431_buxus_sempervirens_furore_jade_pillar/medium/2560px-Buxus_sempervirens_27Pyramidalis27_2019-06-01_02.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1431_buxus_sempervirens_furore_jade_pillar/small/2560px-Buxus_sempervirens_27Pyramidalis27_2019-06-01_02.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1431_buxus_sempervirens_furore_jade_pillar/thumbnail/2560px-Buxus_sempervirens_27Pyramidalis27_2019-06-01_02.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

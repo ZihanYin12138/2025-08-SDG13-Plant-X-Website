@@ -1,0 +1,105 @@
+{
+  "id": 1474,
+  "common_name": "million bells",
+  "scientific_name": [
+    "Calibrachoa (group)"
+  ],
+  "other_name": [],
+  "family": "Solanaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "(group)",
+  "genus": "Calibrachoa",
+  "origin": [
+    "Mexico"
+  ],
+  "type": "Flower",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.25,
+      "max_value": 0.75,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Stem Propagation",
+    "Root Cutting",
+    "Division",
+    "Layering Propagation",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "9",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1474&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1474&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1474&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": true,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Million bells, also known as Calibrachoa, is an amazing flowering annual that can easily brighten up your living space. With trumpet-shaped flowers that range in shades of blue, pink, yellow, and more, these blooms will entice butterflies and hummingbirds alike to take a break in your garden and enjoy the beauty of these petite beauties. Despite their small size, the masses of flowers they produce will create a fully-density of lovely blooms that will last throughout the summer season. Requiring minimal effort to get it established, this species is a great choice for gardeners of all levels.",
+  "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/1474_calibrachoa_group/og/flowers-nature-plant-spring.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1474_calibrachoa_group/regular/flowers-nature-plant-spring.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1474_calibrachoa_group/medium/flowers-nature-plant-spring.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1474_calibrachoa_group/small/flowers-nature-plant-spring.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1474_calibrachoa_group/thumbnail/flowers-nature-plant-spring.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

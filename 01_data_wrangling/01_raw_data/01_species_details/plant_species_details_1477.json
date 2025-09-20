@@ -1,0 +1,146 @@
+{
+  "id": 1477,
+  "common_name": "powder puff tree",
+  "scientific_name": [
+    "Calliandra haematocephala"
+  ],
+  "other_name": [],
+  "family": "Fabaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "haematocephala",
+  "genus": "Calliandra",
+  "origin": [
+    "Bolivia"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "9",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1477&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1477&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "red"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "dark-green",
+        "green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "flower",
+      "color": [
+        "red",
+        "pink"
+      ]
+    },
+    {
+      "part": "stalks",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1477&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The Powderpuff Tree, also known as Calliandra haematocephala, is an amazing tropical evergreen species. It has a unique rounded shape with fluffy, pink flowerheads that contrast nicely against the lush, dark green, feathery foliage. The flowers attract many different kinds of birds and butterflies, making them an important part of any wildlife garden. The wood of the Powderpuff tree is strong and durable, making it a popular choice for furniture and other woodworking projects. Perfect for use as a feature tree, it looks beautiful when planted in a container or small garden. Its ease of care and growth make it an attractive choice in any garden or landscape.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1477_calliandra_haematocephala/og/52063600268_834ebc0538_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1477_calliandra_haematocephala/regular/52063600268_834ebc0538_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1477_calliandra_haematocephala/medium/52063600268_834ebc0538_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1477_calliandra_haematocephala/small/52063600268_834ebc0538_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1477_calliandra_haematocephala/thumbnail/52063600268_834ebc0538_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

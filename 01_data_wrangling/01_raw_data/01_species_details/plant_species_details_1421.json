@@ -1,0 +1,140 @@
+{
+  "id": 1421,
+  "common_name": "Japanese boxwood",
+  "scientific_name": [
+    "Buxus microphylla var. japonica 'Winter Gem'"
+  ],
+  "other_name": [
+    "Korean boxwood"
+  ],
+  "family": "Buxaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Winter Gem",
+  "variety": "var. japonica ",
+  "species_epithet": "microphylla",
+  "genus": "Buxus",
+  "origin": [
+    "Eurasia",
+    "tropical and southern Africa",
+    "Caribbean",
+    "and Central America"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1421&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1421&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "brown-green",
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Filtered shade",
+    " Full sun only if soil kept moist",
+    " Part sun/part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July",
+    "June",
+    "July",
+    "May"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1421&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [
+    "Pest resistant",
+    " Disease resistant",
+    " Deer resistant",
+    " Rabbit resistant",
+    " Drought resistant"
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Winter",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Japanese Boxwood (Buxus microphylla var. japonica 'Winter Gem') is an amazing plant species for a variety of reasons. It is highly drought tolerant and can tolerate dense shade, making it an ideal choice for those with limited outdoor space or limited sunshine. Its dense growth and small leaves make it an excellent low-maintenance plant for enhancing the look of any landscape, while its bright green foliage provides excellent color throughout the year. Its resistance to sun and drought make it perfect for use in containers or in locations near walkways and driveways. In addition, its unique form provides visual interest as its branches often twist and turn. With its effortless beauty and ease of maintenance, Japanese Boxwood is a truly amazing species for any garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1421_buxus_microphylla_var_japonica_winter_gem/og/24273252824_eb65abca60_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1421_buxus_microphylla_var_japonica_winter_gem/regular/24273252824_eb65abca60_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1421_buxus_microphylla_var_japonica_winter_gem/medium/24273252824_eb65abca60_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1421_buxus_microphylla_var_japonica_winter_gem/small/24273252824_eb65abca60_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1421_buxus_microphylla_var_japonica_winter_gem/thumbnail/24273252824_eb65abca60_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

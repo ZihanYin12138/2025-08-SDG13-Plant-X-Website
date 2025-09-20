@@ -1,0 +1,112 @@
+{
+  "id": 1481,
+  "common_name": "beautyberry",
+  "scientific_name": [
+    "Callicarpa cathayana"
+  ],
+  "other_name": [],
+  "family": "Lamiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "cathayana",
+  "genus": "Callicarpa",
+  "origin": [
+    "China"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 4,
+      "max_value": 8,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1481&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1481&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "December",
+    "January",
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1481&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Beautyberry (Callicarpa cathayana) is an amazing plant that stands out from the rest. With its bright purple clusters of berry-like drupes, it is a stand-out in the garden. Not only is it beautiful, its foliage is also attractive, with green ovate leaves and a tinge of bronze. This plant is both versatile and hardy, tolerating a variety of well-drained soils, temperatures, and drought conditions. It prefers partial to full sun and is deer resistant, making it an excellent choice for gardens. Plus, its colorful berries can provide food for wildlife. Beautyberry is definitely an amazing addition to any garden.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1481_callicarpa_cathayana/og/1365px-Callicarpa_cathayana_floraison2.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1481_callicarpa_cathayana/regular/1365px-Callicarpa_cathayana_floraison2.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1481_callicarpa_cathayana/medium/1365px-Callicarpa_cathayana_floraison2.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1481_callicarpa_cathayana/small/1365px-Callicarpa_cathayana_floraison2.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1481_callicarpa_cathayana/thumbnail/1365px-Callicarpa_cathayana_floraison2.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

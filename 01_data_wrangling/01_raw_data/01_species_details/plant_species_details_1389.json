@@ -1,0 +1,116 @@
+{
+  "id": 1389,
+  "common_name": "mountain sagewood",
+  "scientific_name": [
+    "Buddleja loricata"
+  ],
+  "other_name": [],
+  "family": "Scrophulariaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "loricata",
+  "genus": "Buddleja",
+  "origin": [
+    "South Africa",
+    "Mozambique"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 4,
+      "max_value": 5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "8",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1389&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1389&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "May",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1389&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Mountain Sagewood (Buddleja loricata) is a native shrub found throughout the forests of the central United States and beyond. The plant's lance-shaped foliage is a tempting bluish-green, which creates a wonderful contrast to both the landscape or garden around it. Best of all, this shrub loves hot and dry climates, making it extremely low maintenance. The stem and young foliage produce a delightful sandalwood aroma, which makes it a great choice for rubbing and scenting clothes and linens. As an added bonus, feeding and breeding birds can be attracted to its bright clusters of white and pink flowers in the spring. Mountain Sagewood really is an amazing plant!",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1389_buddleja_loricata/og/Budd._loricata_flowers.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1389_buddleja_loricata/regular/Budd._loricata_flowers.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1389_buddleja_loricata/medium/Budd._loricata_flowers.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1389_buddleja_loricata/small/Budd._loricata_flowers.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1389_buddleja_loricata/thumbnail/Budd._loricata_flowers.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

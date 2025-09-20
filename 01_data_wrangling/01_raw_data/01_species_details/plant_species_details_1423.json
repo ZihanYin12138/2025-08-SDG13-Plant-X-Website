@@ -1,0 +1,117 @@
+{
+  "id": 1423,
+  "common_name": "boxwood",
+  "scientific_name": [
+    "Buxus sempervirens 'Appalachian Pyramid'"
+  ],
+  "other_name": [],
+  "family": "Buxaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Appalachian Pyramid",
+  "variety": null,
+  "species_epithet": "sempervirens",
+  "genus": "Buxus",
+  "origin": [
+    "Southern Europe",
+    "western Asia",
+    "northern Africa"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 5,
+      "max_value": 15,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Greenwood Cuttings",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1423&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1423&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Deep shade",
+    " Filtered shade",
+    " Full sun only if soil kept moist",
+    " Part sun/part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1423&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Alkaline",
+    " Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [
+    "Dieback",
+    " Leaf miner insect",
+    " Whitefly",
+    "psyllids",
+    "  Disease resistant",
+    " Deer resistant",
+    " Rabbit resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Boxwood (Buxus sempervirens 'Appalachian Pyramid') is an amazing plant species to add to any garden. Its bright green foliage creates an natural box-shape that adds a unique, eye-catching aesthetic to any landscape. It's heat tolerant and grows in a variety of soils and light conditions, making it a hardy and easy-to-care-for option for gardeners of any level. It requires little pruning and is resistant to disease, making it an ideal choice for landscaping and border plantings. Boxwood also makes an ideal privacy screen, masking unattractive views or compact spaces. So, add this amazing species to your garden for an attractive and easy solution for your landscaping needs.",
+  "default_image": null,
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

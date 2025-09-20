@@ -1,0 +1,138 @@
+{
+  "id": 1478,
+  "common_name": "beautyberry",
+  "scientific_name": [
+    "Callicarpa americana"
+  ],
+  "other_name": [],
+  "family": "Lamiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "americana",
+  "genus": "Callicarpa",
+  "origin": [
+    "Southeastern United States"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Division",
+    "Seed Propagation",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "12"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1478&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1478&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "fruits",
+      "color": [
+        "bright-purple",
+        "dark-purple"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green",
+        "purple"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "pale-green",
+        "green"
+      ]
+    },
+    {
+      "part": "petiole",
+      "color": [
+        "purple"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1478&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Beautyberry (Callicarpa Americana) is a stunning deciduous shrub that's native to the southeastern United States. Its amazing, billowing clumps of lilac-purple berries and delicate foliage make it a year-round treat for the eyes. The berries have a tart flavor that is popular for making jellies and jams. Plus, Beautyberry is an excellent choice for wildlife gardens as its fruits are a favorite among birds, such as blue jays, quail, and cardinals. The blooms of this shrub are also a vital source of nectar for butterflies and bees. It's a great addition to any garden and will grace it with its beauty all year round.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1478_callicarpa_americana/og/51661452592_e28f0a0bbc_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1478_callicarpa_americana/regular/51661452592_e28f0a0bbc_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1478_callicarpa_americana/medium/51661452592_e28f0a0bbc_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1478_callicarpa_americana/small/51661452592_e28f0a0bbc_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1478_callicarpa_americana/thumbnail/51661452592_e28f0a0bbc_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

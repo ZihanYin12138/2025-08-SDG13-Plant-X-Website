@@ -1,0 +1,107 @@
+{
+  "id": 1404,
+  "common_name": "boxwood",
+  "scientific_name": [
+    "Buxus 'Cranberry Creek'"
+  ],
+  "other_name": [],
+  "family": "Buxaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Cranberry Creek",
+  "variety": null,
+  "species_epithet": "'Cranberry",
+  "genus": "Buxus",
+  "origin": [
+    "United States"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1404&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1404&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1404&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Boxwood 'Cranberry Creek' is a great choice for anyone looking to bring a unique touch to their landscape. This variety of boxwood features an attractive reddish-brown bark and deep green glossy leaves that turn shades of burgundy in the fall. It produces small white flowers in spring, adding an extra splash of colour to the autumn landscape. As an evergreen shrub its ideal for creating a foundation layer in garden beds, borders and hedges, while its rounded habit makes it a great choice for topiary and sculpting. Boxwood 'Cranberry Creek' can withstand cold temperatures and prefers full sun to part shade, making it easy to care for and maintain.",
+  "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/1404_buxus_cranberry_creek/og/buxus-sunny-shadow.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1404_buxus_cranberry_creek/regular/buxus-sunny-shadow.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1404_buxus_cranberry_creek/medium/buxus-sunny-shadow.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1404_buxus_cranberry_creek/small/buxus-sunny-shadow.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1404_buxus_cranberry_creek/thumbnail/buxus-sunny-shadow.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

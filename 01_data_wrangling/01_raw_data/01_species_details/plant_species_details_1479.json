@@ -1,0 +1,131 @@
+{
+  "id": 1479,
+  "common_name": "beautyberry",
+  "scientific_name": [
+    "Callicarpa bodinieri"
+  ],
+  "other_name": [],
+  "family": "Lamiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "bodinieri",
+  "genus": "Callicarpa",
+  "origin": [
+    "Central and western China"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 6,
+      "max_value": 10,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1479&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1479&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "fruits",
+      "color": [
+        "violet-purple",
+        "purple"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green",
+        "brown"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green",
+        "purple-green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "May",
+    "May",
+    "May"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1479&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Beautyberry (Callicarpa bodinieri) is an amazing plant species because of its impressive, vibrant beauty. Its shrubs are known to be adaptable to a range of soil types, and it produces clusters of bright, petite flashing lavender colored berries that arise from fine, mid-green foliage. Its leaves and stems have a unique texture with tiny hairs that cover the entire plant, adding a soft feel. Its blossoms and foliage attract many different species of birds, other birds, and insects, making it an excellent habitat for wildlife. Beautyberry is the perfect addition to any garden, as its beauty and addicting aroma give it a special place amongst all plant species.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1479_callicarpa_bodinieri/og/8083128825_496da137e8_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1479_callicarpa_bodinieri/regular/8083128825_496da137e8_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1479_callicarpa_bodinieri/medium/8083128825_496da137e8_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1479_callicarpa_bodinieri/small/8083128825_496da137e8_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1479_callicarpa_bodinieri/thumbnail/8083128825_496da137e8_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,125 @@
+{
+  "id": 1405,
+  "common_name": "boxwood",
+  "scientific_name": [
+    "Buxus 'Green Gem'"
+  ],
+  "other_name": [],
+  "family": "Buxaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Green Gem",
+  "variety": null,
+  "species_epithet": "'Green",
+  "genus": "Buxus",
+  "origin": [
+    "China",
+    "Japan",
+    "Korea",
+    "Vietnam"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1405&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1405&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1405&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Boxwood (Buxus 'Green Gem') is an amazing plant species that has been used in landscaping for centuries. It features a glossy, evergreen foliage with a dense growth habit that makes it an ideal choice for low hedges. It's truly drought tolerant, making it a great choice for outdoor plants in dry climates, as well as indoors. This plant is also resistant to deer, and its comparatively slow growth rate means it requires very little maintenance to stay vigorous and healthy. Overall, boxwood is an amazing species, with its great hardiness, adaptability, and neat and tidy appearance making it a winner in any setting.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1405_buxus_green_gem/og/50050401928_d0612ba253_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1405_buxus_green_gem/regular/50050401928_d0612ba253_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1405_buxus_green_gem/medium/50050401928_d0612ba253_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1405_buxus_green_gem/small/50050401928_d0612ba253_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1405_buxus_green_gem/thumbnail/50050401928_d0612ba253_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

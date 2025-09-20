@@ -1,0 +1,138 @@
+{
+  "id": 1464,
+  "common_name": "calamint",
+  "scientific_name": [
+    "Calamintha nepeta"
+  ],
+  "other_name": [],
+  "family": "Lamiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "nepeta",
+  "genus": "Calamintha",
+  "origin": [
+    "Europe",
+    "northern Africa",
+    "western Asia"
+  ],
+  "type": "Herbs",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Layering Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1464&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1464&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "dark-green"
+      ]
+    },
+    {
+      "part": "midribs",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "purple"
+      ]
+    },
+    {
+      "part": "stamens",
+      "color": [
+        "dark-purple"
+      ]
+    },
+    {
+      "part": "stalks",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "November",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1464&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Calamint (Calamintha nepeta) is a delightful and fragrant plant popularly used in gardens. This strong scent is said to have a calming and uplifting effect. What's more, calamint is hardy, low-maintenance, and drought-resistant – ideal for those with a busy lifestyle. It can grow to a height of 75 cm, and blooms in late summer with vibrant purple or white flowers. It also has a long-lasting bloom period that is sure to bring moments of joy throughout the year. Plant calamint in your garden to enjoy delightful scents, breathtaking colours, and the satisfaction of having an easy-to-care-for garden.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1464_calamintha_nepeta/og/35792660106_8364190ec3_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1464_calamintha_nepeta/regular/35792660106_8364190ec3_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1464_calamintha_nepeta/medium/35792660106_8364190ec3_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1464_calamintha_nepeta/small/35792660106_8364190ec3_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1464_calamintha_nepeta/thumbnail/35792660106_8364190ec3_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

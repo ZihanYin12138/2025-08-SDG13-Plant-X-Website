@@ -1,0 +1,138 @@
+{
+  "id": 1448,
+  "common_name": "boxwood",
+  "scientific_name": [
+    "Buxus sempervirens 'Vardar Valley'"
+  ],
+  "other_name": [],
+  "family": "Buxaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Vardar Valley",
+  "variety": null,
+  "species_epithet": "sempervirens",
+  "genus": "Buxus",
+  "origin": [
+    "Southern Europe",
+    "western Asia",
+    "northern Africa"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 5,
+      "max_value": 15,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Greenwood Cuttings",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1448&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1448&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Deep shade",
+    " Filtered shade",
+    " Full sun only if soil kept moist",
+    " Part sun/part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "August",
+    "September",
+    "October",
+    "November",
+    "March",
+    "April",
+    "May",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1448&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Alkaline",
+    " Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [
+    "Dieback",
+    " Leaf miner insect",
+    " Whitefly",
+    "psyllids",
+    "  Disease resistant",
+    " Deer resistant",
+    " Rabbit resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Boxwood (Buxus sempervirens 'Vardar Valley') is an excellent plant species for making hedges and topiaries. It is a hardy evergreen shrub, able to survive in a wide variety of climates from humid to dry, coastal to inland. It grows best in full sun and well-drained soil. Its rich green foliage and dense compact shape make it an attractive addition to any landscape. The 'Vardar Valley' variety is particularly low-maintenance and resistant to common boxwood pests. It is fast-growing, easy to maintain, and makes an excellent hedge for small and medium-sized gardens. With proper care, it will look just as great in 20 years as it did at planting. Boxwood is an ideal choice for those wanting a low-maintenance and beautiful hedge or topiary.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1448_buxus_sempervirens_vardar_valley/og/1280px-Common_Boxwood_Buxus_sempervirens_27Vardar_Valley27_Leaves_Closeup_3008px.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1448_buxus_sempervirens_vardar_valley/regular/1280px-Common_Boxwood_Buxus_sempervirens_27Vardar_Valley27_Leaves_Closeup_3008px.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1448_buxus_sempervirens_vardar_valley/medium/1280px-Common_Boxwood_Buxus_sempervirens_27Vardar_Valley27_Leaves_Closeup_3008px.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1448_buxus_sempervirens_vardar_valley/small/1280px-Common_Boxwood_Buxus_sempervirens_27Vardar_Valley27_Leaves_Closeup_3008px.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1448_buxus_sempervirens_vardar_valley/thumbnail/1280px-Common_Boxwood_Buxus_sempervirens_27Vardar_Valley27_Leaves_Closeup_3008px.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

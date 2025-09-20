@@ -1,0 +1,113 @@
+{
+  "id": 1400,
+  "common_name": "gumbo-limbo",
+  "scientific_name": [
+    "Bursera simaruba"
+  ],
+  "other_name": [],
+  "family": "Burseraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "simaruba",
+  "genus": "Bursera",
+  "origin": [
+    "Southern Florida",
+    "West Indies",
+    "Central America"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 25,
+      "max_value": 40,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds",
+    " Butterflies"
+  ],
+  "propagation": [
+    "Air Layering Propagation",
+    "Cutting",
+    "Grafting Propagation",
+    "Seed Propagation",
+    "Tissue Culture"
+  ],
+  "hardiness": {
+    "min": "10",
+    "max": "12"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1400&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1400&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1400&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": true,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Gumbo-limbo (Bursera simaruba) is an amazing evergreen tree found in the Caribbean and Central America. Its distinctive, lightly mottled bark in red and grey resemble melted chocolate and give it its common name. Growing up to 90 feet tall, it offers a welcome shade in its native habitats. Gumbo-limbo is very resilient, surviving even through hurricanes with few after-effects. It is also an excellent source for timber, offering a much-needed renewable resource that can be harvested without causing damage to the environment. Its unique and beautiful form make it an ideal choice for gardens and landscapes.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1400_bursera_simaruba/og/Bursera_simaruba_15zz.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1400_bursera_simaruba/regular/Bursera_simaruba_15zz.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1400_bursera_simaruba/medium/Bursera_simaruba_15zz.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1400_bursera_simaruba/small/Bursera_simaruba_15zz.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1400_bursera_simaruba/thumbnail/Bursera_simaruba_15zz.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

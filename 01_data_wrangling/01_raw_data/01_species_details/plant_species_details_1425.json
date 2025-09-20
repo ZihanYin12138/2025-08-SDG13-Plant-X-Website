@@ -1,0 +1,126 @@
+{
+  "id": 1425,
+  "common_name": "boxwood",
+  "scientific_name": [
+    "Buxus sempervirens 'Chloe'"
+  ],
+  "other_name": [],
+  "family": "Buxaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Chloe",
+  "variety": null,
+  "species_epithet": "sempervirens",
+  "genus": "Buxus",
+  "origin": [
+    "Southern Europe",
+    "western Asia",
+    "northern Africa"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 5,
+      "max_value": 15,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Greenwood Cuttings",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1425&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1425&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Deep shade",
+    " Filtered shade",
+    " Full sun only if soil kept moist",
+    " Part sun/part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "August",
+    "March",
+    "April",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1425&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Alkaline",
+    " Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Dieback",
+    " Leaf miner insect",
+    " Whitefly",
+    "psyllids",
+    "  Disease resistant",
+    " Deer resistant",
+    " Rabbit resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Boxwood (Buxus sempervirens 'Chloe') is a remarkable evergreen shrub with amazing features. It has glossy, apple-green foliage, and grows in an attractive, neat round shape. It is a slow to moderate grower that is perfect for creating gardens and landscapes. The foliage holds up even in cold climates, making it an ideal choice for adding year-round color and texture. Boxwood 'Chloe' is also easy to maintain as it requires little pruning. It's versatile too, as it can be used both indoors and outdoors to add interest. Boxwood 'Chloe' is a great plant species that can be enjoyed for years to come.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1425_buxus_sempervirens_chloe/og/2560px-Buxus_sempervirens_foliage_1.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1425_buxus_sempervirens_chloe/regular/2560px-Buxus_sempervirens_foliage_1.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1425_buxus_sempervirens_chloe/medium/2560px-Buxus_sempervirens_foliage_1.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1425_buxus_sempervirens_chloe/small/2560px-Buxus_sempervirens_foliage_1.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1425_buxus_sempervirens_chloe/thumbnail/2560px-Buxus_sempervirens_foliage_1.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,134 @@
+{
+  "id": 1403,
+  "common_name": "Balearic boxwood",
+  "scientific_name": [
+    "Buxus balearica"
+  ],
+  "other_name": [],
+  "family": "Buxaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "balearica",
+  "genus": "Buxus",
+  "origin": [
+    "Balearics",
+    "southern Spain",
+    "northern Africa"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 6,
+      "max_value": 12,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division"
+  ],
+  "hardiness": {
+    "min": "8",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1403&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1403&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "buds",
+      "color": [
+        "yellowish-green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "August",
+    "March",
+    "April",
+    "May",
+    "September",
+    "October",
+    "November"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1403&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Balearic boxwood (Buxus balearica) is an amazing evergreen shrub that grows in a rounded or oval form, reaching 1.2 metres in height and width. It is an ideal choice for hedging and topiary, and also makes an excellent container plant or a low-maintenance groundcover. Its foliage is glossy and dark green, with a pleasant oval-shaped leaf. It is very hardy and can tolerate seasonal temperature fluctuations, drought and soil compaction. Perfect for small gardens, Balearic boxwood is mostly disease free and deer resistant. It can also survive exposed conditions when established. With its range of uses and ease of care, Balearic boxwood is an ideal choice for low-maintenance gardens.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1403_buxus_balearica/og/5579804755_bbaf2dbdd9_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1403_buxus_balearica/regular/5579804755_bbaf2dbdd9_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1403_buxus_balearica/medium/5579804755_bbaf2dbdd9_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1403_buxus_balearica/small/5579804755_bbaf2dbdd9_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1403_buxus_balearica/thumbnail/5579804755_bbaf2dbdd9_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

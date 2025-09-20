@@ -1,0 +1,167 @@
+{
+  "id": 1457,
+  "common_name": "angel wings",
+  "scientific_name": [
+    "Caladium bicolor"
+  ],
+  "other_name": [
+    "angel wings"
+  ],
+  "family": "Araceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "bicolor",
+  "genus": "Caladium",
+  "origin": [
+    "Central and northern South America"
+  ],
+  "type": "Bulb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 2.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division"
+  ],
+  "hardiness": {
+    "min": "9",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1457&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1457&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "pink-white",
+        "sliver-green",
+        "mint-green",
+        "green",
+        "yellow-green"
+      ]
+    },
+    {
+      "part": "midrib",
+      "color": [
+        "green",
+        "red-green"
+      ]
+    },
+    {
+      "part": "margin",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "midribs",
+      "color": [
+        "green",
+        "red-green",
+        "red"
+      ]
+    },
+    {
+      "part": "veins",
+      "color": [
+        "green",
+        "red"
+      ]
+    },
+    {
+      "part": "petiole",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "margins",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "part shade",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1457&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": true,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Pest resistant",
+    " Disease resistant",
+    " Deer resistant",
+    " Rabbit resistant"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Angel Wings (Caladium bicolor) provides a vibrant splash of color to gardens and outdoor spaces. It's beautiful gray-green veined leaves come in a variety of hues including pink, white, red and burgundy. The heart-shaped foliage is also perfect as a border plant and as a backdrop in beds and borders. Angel Wings is a native of the tropic and can grow up to 60cm in height and 40cm in width. It is very low maintenance and can thrive in both full sun and part shade. It’s also quite resistant to pests and disease which makes it an ideal choice. A great addition to any garden or outdoor space, Angel Wings is definitely worth having in your garden!",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1457_caladium_bicolor/og/25575875658_d782fb76f1_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1457_caladium_bicolor/regular/25575875658_d782fb76f1_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1457_caladium_bicolor/medium/25575875658_d782fb76f1_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1457_caladium_bicolor/small/25575875658_d782fb76f1_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1457_caladium_bicolor/thumbnail/25575875658_d782fb76f1_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
