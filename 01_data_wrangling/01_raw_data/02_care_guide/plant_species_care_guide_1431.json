@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2672,
+      "species_id": 1431,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Furore' Jade Pillar"
+      ],
+      "section": [
+        {
+          "id": 8222,
+          "type": "watering",
+          "description": "The boxwood (Buxus sempervirens 'Furore' Jade Pillar) is a drought-tolerant evergreen shrub that prefers plenty of moisture for optimal growth. As a rule of thumb, it is recommended to water your boxwood every 2-3 days during periods of active growth (spring and summer). During dry, hot periods you may need to increase frequency to daily or even more often depending on your soil and microclimate. During the winter months, water less frequently, usually every 10-14 days being sufficient. Always water deeply to ensure root zone saturation and avoid saturating the foliage. Additionally, be sure to check the soil moisture below the surface to ensure that the roots remain hydrated."
+        },
+        {
+          "id": 8223,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Furore' Jade Pillar) plants prefer full sun in cooler months, and part sun or light shade in hotter months. It should receive 6 to 8 hours of sunlight a day throughout the year so it can get the nutrients it needs. As the weather warms, the plant should get slightly less sunlight to help prevent it from drying out. During the summer months, it may thrive with a few hours of shade and the afternoon sun. In general, boxwood plants should get their sunlight in the morning or late afternoon, avoiding the heat of midday when possible."
+        },
+        {
+          "id": 8224,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Furore' Jade Pillar) should be pruned in late spring or early summer, avoiding pruning during late summer or fall, when the plant is actively growing. Prune just enough to maintain desired shape and size, taking care not to over-prune. To promote bushiness, prune lightly every year, removing no more than 1-third of the bush's total growth. For larger, more mature plants, an annual trim of no more than 1-third is recommended to keep the plant healthy and vigorous."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

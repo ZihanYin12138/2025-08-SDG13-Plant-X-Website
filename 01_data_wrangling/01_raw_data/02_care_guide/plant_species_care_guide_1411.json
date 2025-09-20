@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2654,
+      "species_id": 1411,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus microphylla 'Apple Green'"
+      ],
+      "section": [
+        {
+          "id": 8168,
+          "type": "watering",
+          "description": "Boxwood (Buxus microphylla 'Apple Green') should be watered once to twice a week, depending on the soil. The soil should feel moist but not soggy when touched. During hot, dry weather, the plant may need more frequent watering. In the winter months, the watering frequency can be decreased to once a week. During cold weather, the soil should never be allowed to dry out completely. After watering, allow the soil to dry out partly before re-watering. If the plant is in a container, always check the root area before watering to be sure that the soil is dry."
+        },
+        {
+          "id": 8169,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus microphylla ‘Apple Green’) does best in full sun or light shade. It needs at least 4 to 6 hours of direct sunlight a day for optimal growth and maximum health. In areas with intense heat and sun exposure, it may need a bit of afternoon shade. When planting, consider the orientation of the plant and the location of the sun so that the leaves do not become sunburnt. When placing your boxwood in more sun exposed locations, be sure to provide some light shade in the afternoon until the shrub is established."
+        },
+        {
+          "id": 8170,
+          "type": "pruning",
+          "description": "Boxwood (Buxus microphylla 'Apple Green') should be pruned lightly in early spring, before new growth begins. When pruning, carefully remove dead or damaged branches and thin overgrown areas to improve air circulation. Avoid severe pruning because this shrub does not tolerate it well. Light and occasional shaping is recommended to promote density, form, and growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

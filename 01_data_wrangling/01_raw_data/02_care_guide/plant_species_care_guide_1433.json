@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2674,
+      "species_id": 1433,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Henry Shaw'"
+      ],
+      "section": [
+        {
+          "id": 8228,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Henry Shaw') should be watered often but not heavily. During the summer months, when temperatures are warm, you should water this plant at least twice a week. In hotter climates or during a longer and more intense drought season, increasing the frequency of watering to 3 or more times a week is recommended. During the winter months, when temperatures are cooler, water the plant once a week. When watering, make sure the soil is evenly moist but not soggy, and that the water is draining away properly. Make sure to never allow the soil to dry out completely."
+        },
+        {
+          "id": 8229,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Henry Shaw') plants prefer full sun, meaning 6 or more hours of direct sunlight per day. Generally, the ideal time of day for the most sunlight is between 8 am and 6 pm. This is the time when the sun is highest and light is at optimum intensity; however, plants can still benefit from morning light as well. It is important to note that while boxwood prefers full sun, it does best with some relief from the direct light during the hottest parts of the day (midday) to prevent scorching of the foliage."
+        },
+        {
+          "id": 8230,
+          "type": "pruning",
+          "description": "Boxwoods (Buxus sempervirens 'Henry Shaw') should be pruned twice a year for optimal growth and visual appeal. Pruning should begin in the early spring, around March or April, and should focus on removing any dead or overcrowded branches. All cut stems should be trimmed back to their base, and any diseased wood should be removed and discarded. Then, late in the summer, around August or September, another pruning should be done to reshape the plant and to keep the desired form. Smaller shoots can be trimmed back to their base, while slightly larger branches can be trimmed to just above a leaf bud or 2. During this time, branches can also be lightly thinned out to increase airflow and light penetration. Always clean and sterilize your pruning tools before and after pruning to prevent the spread of pests and disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

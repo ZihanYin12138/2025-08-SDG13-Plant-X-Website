@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2695,
+      "species_id": 1458,
+      "common_name": "elephant's ear",
+      "scientific_name": [
+        "Caladium 'Burning Heart'"
+      ],
+      "section": [
+        {
+          "id": 8291,
+          "type": "watering",
+          "description": "Elephant's ear plants require regular watering throughout the spring and summer to ensure healthy growth. During the cooler months of fall and winter, water less frequently, so that the soil has time to dry out. During the warm season, water when the soil feels dry about 2 inches from the surface. Be sure to provide enough water that it reaches the roots of the plant. Make sure to check the soil twice a week, and if it’s dry, water until the soil is saturated. Avoid overwatering the plant; allowing it to sit in water can cause root rot, stunted growth, or even death."
+        },
+        {
+          "id": 8292,
+          "type": "sunlight",
+          "description": "Elephant's ear (Caladium 'Burning Heart') grows best in bright, indirect sunlight. It should be provided 6–8 hours of sunlight each day, preferably in the morning or afternoon rather than during the height of the day. During the winter, when the days are shorter and there is less light available, it should receive as much light as possible. When possible, place the plant near a window that faces east, south, or west, as this will give it the perfect balance of light. In locations where there is no natural light, an artificial 1 can be used. A fluorescent bulb can provide enough light for the plant as long as it is kept a few inches away."
+        },
+        {
+          "id": 8293,
+          "type": "pruning",
+          "description": "Elephant's ear (Caladium 'Burning Heart') should be pruned once or twice a year during the mid to late spring season. Pruning is not essential for this plant species but can help maintain a neat, attractive shape. When pruning, trim off any dead or yellowing leaves in order to encourage new growth. Cut back the remaining healthy leaves by up to 1-third of their length. Pruning can also facilitate better air circulation, helping to prevent the plant from becoming too leggy and lanky. Keep in mind that pruning should be done about once every 3-4 months."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2677,
+      "species_id": 1436,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Mary Gamble'"
+      ],
+      "section": [
+        {
+          "id": 8237,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Mary Gamble') should generally be watered once a week during the spring and summer growing season. When watering, soak the soil thoroughly until water runs out of the bottom of the pots. In the winter, water every 2 to 3 weeks. If your climate is particularly dry during the winter months, water once a week. When in doubt, soil should be allowed to dry out in between watering. Too much water can lead to root rot."
+        },
+        {
+          "id": 8238,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Mary Gamble') prefers full to partial sun (at least 4 hours of direct sun daily). During the summer months, boxwood can benefit from some afternoon shade, as prolonged, full midday sun may cause some dieback and leaf burn. However, during cooler months, boxwood prefers full sun exposure to maximize growth."
+        },
+        {
+          "id": 8239,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Mary Gamble') should be pruned at least once a year for best results. Pruning should be done in mid to late spring to ensure maximum growth and health of the plant. The amount of pruning will depend on the age and health of the boxwood, the size and density of the desired shape, and the local climate. Generally, it is best to prune only a quarter to a third of new growth on the boxwood each year. Branches can be pruned all the way back to the trunk for rejuvenation of the plant, while dense shaping can be done be thinning out and removing some branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

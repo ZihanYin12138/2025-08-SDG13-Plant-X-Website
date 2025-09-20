@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2676,
+      "species_id": 1435,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Joy'"
+      ],
+      "section": [
+        {
+          "id": 8234,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Joy') should be watered regularly during its first growing season when getting established. Water deeply to ensure that the entire root system is getting access to moisture. Aim for at least 1 inch of water per week throughout summer, especially when rainfall is low. Allow the soil to dry slightly in between waterings and water only when there is not significant rainfall. During winter, water much less frequently, only when soil becomes completely dry. If temperatures start to drop below freezing, water the plant only very lightly."
+        },
+        {
+          "id": 8235,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Joy') plants require full to partial sun, and should be grown outdoors in zones 6 to 9. When planting in the garden, it's best to choose a spot that gets at least 6 hours of direct sunlight for optimal growth and vigor. For plants grown indoors, a sunny window may provide enough light. If the boxwood does not get enough light, it may become too tall and leggy. During hot summer months, it is best to shield the plant from mid-day and afternoon sun to help prevent scorching of the foliage. It may also be beneficial to move the plant to a location with some afternoon shade during the summer."
+        },
+        {
+          "id": 8236,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Joy') should be pruned twice a year for optimum health.  The amount of pruning depends on how formal of a shape you are looking to achieve and the type of growth you are dealing with.  For example, hedges will require more pruning to maintain a straight line than lone-standing specimens. \n\nTypically it is best to do light pruning in early spring and then heavier pruning in late summer.  In the early spring, when new growth starts to emerge, dead or damaged branches should be removed.  During the late summer, when growth is at its peak, heavier pruning or shaping can be done without having to worry about damaging the plants.  Always prune boxwood strategically, trying to avoid cutting too closely to the center of the plant or cutting entire branches off."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 672,
+      "species_id": 1470,
+      "common_name": "peacock plant",
+      "scientific_name": [
+        "Calathea makoyana"
+      ],
+      "section": [
+        {
+          "id": 2014,
+          "type": "watering",
+          "description": "In general, water the plant thoroughly until water runs through the drainage holes in the pot and then allow the excess water to drain off. During the growing season (spring to fall), water the plant at least once every 7-14 days. Make sure that the top few inches of soil are dry before watering. In the winter months, water the plant only when the top few inches of soil begins to feel dry. Avoid over-watering your Peacock Plant, as too much water will cause root rot. Additionally, always use room-temperature water when watering your plant."
+        },
+        {
+          "id": 2018,
+          "type": "sunlight",
+          "description": "Peacock plant (Calathea makoyana) does best in bright, indirect sunlight. It prefers to receive around 4 to 6 hours of sunlight each day. When giving your plant sunlight, try to expose it gradually in stages rather than providing it with the full daily dosage all at once. When caring for a peacock plant indoors, it’s best to find it a spot close to a window or in a room with good natural lighting. Additionally, consider rotating your plant so it gets a more even level of light through the day."
+        },
+        {
+          "id": 2021,
+          "type": "pruning",
+          "description": "Peacock plant (Calathea makoyana) should be pruned regularly to maintain a healthy shape and prevent it from looking overgrown. It is best to prune the plant in the spring and fall, before the flowering season. Make sure to use sterilized pruning shears or scissors and cut away any overgrown leaves and stems that have grown past the desired size and shape. Trim away any brown or discolored parts of the plant and remove any spent blooms. Prune only enough to maintain the desired shape, avoiding over-pruning that can lead to stress in the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

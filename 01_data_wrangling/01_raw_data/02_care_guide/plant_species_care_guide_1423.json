@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2664,
+      "species_id": 1423,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Appalachian Pyramid'"
+      ],
+      "section": [
+        {
+          "id": 8198,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Appalachian Pyramid') prefers moist, well-draining soil. It should be watered thoroughly and deeply, once per week in spring and summer and once every other week in the fall and winter. If the soil appears dry more than an inch below the surface, then it should be watered. Make sure to not over-water your Boxwood, as this will cause root rot and death of the plant."
+        },
+        {
+          "id": 8199,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Appalachian Pyramid') is a slow-growing evergreen shrub that thrives in full sun to partial shade conditions. It can tolerate both full sun and full shade, but performs best when planted in an area that receives at least 4 hours of direct sunlight a day. In general, the more sunlight the boxwood receives, the more vibrant and healthy it will be. If planted in an area that receives very little sun, boxwood may become sparse and less attractive."
+        },
+        {
+          "id": 8200,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Appalachian Pyramid') should be pruned twice a year, in late winter or early spring and in midsummer. \n\nIn late winter or early spring, before new growth appears, prune away any old, dead or damaged branches. Trim back shoots that have grown longer than the desired shape. Cut back a bit more than half the length of each shoot. If you’re aiming for a particular shape, focus on the shape while pruning instead of worrying about maintaining a particular size. \n\nThe second pruning in midsummer is designed to maintain the desired size of the boxwood as it grows. Trim the boxwood in midsummer to reduce the size by up to 1-third of its original size. Focus on the shape while pruning instead of worrying about a particular size. \n\nWith regular pruning, you can keep the boxwood ‘Appalachian Pyramid’ looking neat and attractive."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

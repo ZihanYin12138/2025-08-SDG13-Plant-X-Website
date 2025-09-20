@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2638,
+      "species_id": 1391,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja 'Miss Ruby'"
+      ],
+      "section": [
+        {
+          "id": 8120,
+          "type": "watering",
+          "description": "Water Butterfly Bush (Buddleja 'Miss Ruby') deeply every 4-5 days in the summer, making sure the entire root zone is soaked. In winter, reduce watering to once a week. When in doubt, feel the soil an inch or 2 deep. If the top of the soil is dry and crumbly, then it’s time to water. Be careful not to over water, which can cause root rot."
+        },
+        {
+          "id": 8121,
+          "type": "sunlight",
+          "description": "Butterfly bush (Buddleja 'Miss Ruby') grows best in areas with full sun exposure, 6 to 8 hours of direct sunlight each day. The sun should be to the plant's south or west, as this will ensure the best flowering. For optimal growth, ensure that the sun strikes the plant during as much of the day as possible. During the summer months when the days are especially long, partial shade may be beneficial to the butterfly bush in order to prevent scorching and yellowing of foliage."
+        },
+        {
+          "id": 8122,
+          "type": "pruning",
+          "description": "Butterfly bushes should be pruned in mid-late spring every year. Pruning should be done while the bush is still dormant, just before any sign of new growth appears. To prune a butterfly bush, start by removing any dead, diseased, or damaged branches. Then, lightly trim back the remaining branches to shape the bush and maintain its desired size. Be sure to keep the centre of the bush open to allow air to circulate and light to reach all parts of the bush. Finally, remove any branches that are growing out of the boundary to prevent it from getting too large and unruly."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

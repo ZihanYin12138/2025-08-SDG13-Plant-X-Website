@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2645,
+      "species_id": 1398,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja weyeriana 'Honeycomb'"
+      ],
+      "section": [
+        {
+          "id": 8141,
+          "type": "watering",
+          "description": "The butterfly bush (Buddleja weyeriana 'Honeycomb') needs to be watered infrequently. Generally, water the plant when the top inch or so of soil feels dry to the touch; in warmer months, it may need to be watered every week or 2. When it is rainy or humid outside, you may not need to water the bush at all. To ensure the best possible health for the bush, water it deeply and slowly until the entire root ball is sufficiently moist. Push your finger into the soil to check the moisture level. Make sure not to over water, however. Too much water can cause root rot and other problems."
+        },
+        {
+          "id": 8142,
+          "type": "sunlight",
+          "description": "The butterfly bush (Buddleja weyeriana 'Honeycomb') grows best in full sunlight. During the summer months, it should receive 8-10 hours of direct sunlight per day, but it can tolerate partial shade. In spring and fall, when the sun is not as strong, some partial shade may be beneficial. If the plant is in a shaded area, it may require additional fertilizer to meet its nutritional needs."
+        },
+        {
+          "id": 8143,
+          "type": "pruning",
+          "description": "Butterfly bush (Buddleja weyeriana 'Honeycomb') typically needs to be pruned twice a year. Pruning in early spring, before new growth begins, removes any dead, damaged, or diseased branches and reshapes the bush if necessary. A more severe pruning in late spring or early summer just after the bush has bloomed will encourage new shoots and flowering. Aim to remove up to approximately 1-third of the bush’s branches and foliage each time. If the bush has not been pruned for several years, it may be necessary to remove more than 1-third of the bush’s branches in order to restore it to a manageable size."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

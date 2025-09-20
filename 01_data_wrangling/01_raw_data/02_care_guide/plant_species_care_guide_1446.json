@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2687,
+      "species_id": 1446,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Silver Beauty'"
+      ],
+      "section": [
+        {
+          "id": 8267,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Silver Beauty') prefers consistently moist, well-drained soil. Water regularly throughout the growing season; once every 1 to 2 weeks is usually sufficient. When watering, saturate the soil until water begins to drain out of the pot's drainage holes. During hot, dry periods, it's important to water more often to compensate for increased evaporation and to keep the soil adequately moist. During winter, reduce the frequency of watering to prevent roots from rotting in cold, wet soil."
+        },
+        {
+          "id": 8268,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Silver Beauty') is a low-growing, evergreen shrub (or hedge plant) that prefers full or partial sunlight and well-draining soil. The boxwood should be planted in an area that receives 8-10 hours of sunlight a day. Boxwood can survive in partial shade, but its healthiest when it is planted in an area that receives direct sunlight for at least 6 hours each day. During the summer months, when the days are long and the trees are in full bloom, boxwood can do best with 8-10 hours of direct sunlight. In the winter months, when days are shorter and trees lack leaves, the boxwood should have as much sunlight as possible. As a general rule, it should receive at least 4-6 hours of sunlight each day."
+        },
+        {
+          "id": 8269,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Silver Beauty') should typically be pruned in early Spring, soon after new growth appears. Prune lightly each year to maintain the shape and desired form. Minor pruning can be done at any time of the year, however, more extensive pruning should only be done in the early Spring. Boxwood is a slow-growing shrub and should never be pruned heavily as it will take years for the plant to recover from major pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

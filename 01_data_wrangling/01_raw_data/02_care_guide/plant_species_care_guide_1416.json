@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 669,
+      "species_id": 1416,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus microphylla 'Peergold' GOLDEN DREAM"
+      ],
+      "section": [
+        {
+          "id": 1997,
+          "type": "watering",
+          "description": "Boxwood (Buxus microphylla 'Peergold' GOLDEN DREAM) should be watered about once a week. This will vary depending on the soil conditions. If the soil is sandy, it will require more frequent watering, as it is not able to hold moisture for as long. During the summer, during times of extreme heat, boxwood might require additional water. The best way to determine whether or not to water is to check the soil; if it still feels damp, it is fine to wait until the next watering."
+        },
+        {
+          "id": 2004,
+          "type": "sunlight",
+          "description": "Boxwood species, such as Buxus microphylla 'Peergold' GOLDEN DREAM, require very bright, indirect light for a minimum of 4 hours of direct sunlight every day. A very sunny, south-facing window is ideal if you have the luxury of space and location. Even in its ideal light conditions, Buxus microphylla 'Peergold' GOLDEN DREAM should be shielded from direct, hot sunlight."
+        },
+        {
+          "id": 2011,
+          "type": "pruning",
+          "description": "Boxwood (Buxus microphylla 'Peergold' GOLDEN DREAM) should be pruned twice a year, during early spring and then in late summer. When pruning boxwood, you should aim to remove only approximately 2-thirds of the new growth each time. When pruning in early spring, it is important to wait until after the last frost and when new growth begins to emerge. This will ensure that your boxwood is not damaged by freezing temperatures. In late summer, you should prune again to keep your plant looking its best. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1033,
+      "species_id": 1456,
+      "common_name": "pride of barbados",
+      "scientific_name": [
+        "Caesalpinia pulcherrima"
+      ],
+      "section": [
+        {
+          "id": 3094,
+          "type": "watering",
+          "description": "Pride of Barbados should be watered 2-3 times a week if the soil is sandy and free draining. If the soil is heavier, water less frequently or consider adding organic material or a course sand for better drainage. During the period of active growth deep soak the soil every 7-14 days. Reduce watering to once a month during the dormant season or if the soil stays consistently damp. Before watering, check the soil moisture by sticking your finger at least 2 inches down into the soil. If it feels dry, it is time to water."
+        },
+        {
+          "id": 3101,
+          "type": "sunlight",
+          "description": "Pride of Barbados (Caesalpinia pulcherrima) thrives in full sun with at least 6 to 8 hours of direct sunlight each day. This tropical plant enjoys a lot of light, and it will do best if grown in an area that receives full sun all day. "
+        },
+        {
+          "id": 3109,
+          "type": "pruning",
+          "description": "Prune your Pride of Barbados in late winter or early spring after any danger of frost has passed. Start out by pruning the dead, diseased, or damaged branches back to a healthy place. Next, cut out any branches that are crossing, rubbing, or otherwise interfering with other limbs. Reduce the overall height and width of the plant with selective pruning, if desired. Remove no more than 1-third of the foliage from the plant each year, as this will allow the plant to heal properly. Regular pruning will also result to more dense foliage and flowers during the blooming season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

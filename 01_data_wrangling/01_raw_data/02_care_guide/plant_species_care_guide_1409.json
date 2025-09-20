@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2653,
+      "species_id": 1409,
+      "common_name": "Harland boxwood",
+      "scientific_name": [
+        "Buxus harlandii"
+      ],
+      "section": [
+        {
+          "id": 8165,
+          "type": "watering",
+          "description": "Harland boxwood should be watered deeply but infrequently, providing plenty of moisture around the roots without overwatering. It is best to water the plant in the early morning, as temperatures are cooler and the sun is not as intense. You should aim to water your Harland boxwood once or twice per week, allowing the top 2-3 inches of soil to dry out each time before providing more moisture. If temperatures are hot and dry, water more often. During winter, it should only be watered enough to keep the soil slightly moist."
+        },
+        {
+          "id": 8166,
+          "type": "sunlight",
+          "description": "Harland boxwood requires full or partial sun and is adaptable to many light conditions. The optimal amount of light for harland boxwood is up to 8 hours of direct sunlight per day, or dappled shade that offers indirect and filtered sunlight throughout the day. When choosing a location in the landscape, consider where a tree or shrub will best provide shade throughout the day, or where a structure or fence will shade the plant. Harland boxwood will also prefer to be sheltered from strong winds and snow."
+        },
+        {
+          "id": 8167,
+          "type": "pruning",
+          "description": "Harland boxwoods (Buxus harlandii) require regular pruning for maintenance and to keep them bushy and thick. These plants should be pruned from spring to early summer, as pruning later in the season can encourage new growth that may not have enough time to harden off and full set before winter. When pruning, it is best to remove no more than 1-third of the foliage in order to keep the plant healthy. If a Harland boxwood becomes extremely overgrown, it can be heavily pruned in late winter or early spring."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2665,
+      "species_id": 1424,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Aurea Pendula'"
+      ],
+      "section": [
+        {
+          "id": 8201,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Aurea Pendula') should be watered every couple days with 1-2 inches of water each time. Be sure to water deeply to prevent shallow-rooted shallow from developing. Ideally, irrigation should be done in the morning so the plant can dry throughout the day. During hot, dry spells, boxwood should be watered every day. The soil should be kept moist but not soggy. Check the soil moisture by inserting your finger up to an inch into the soil. If the soil feels dry to the touch, it's time to water."
+        },
+        {
+          "id": 8202,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Aurea Pendula') needs full sunlight for optimal growth and health. Sunlight should be provided at least 6-8 hours each day. If boxwood is planted in a location that does not receive full sunlight, it should be supplemented with the use of artificial lighting. This can also help to prevent leaf discoloration and other problems that can occur in shade-dwelling plants. Additionally, boxwood should be provided with protection from the intense midday sun, which can cause leaf and fruit burn. To provide adequate sunlight, locate the planting site in a sunny area and, if necessary, use a Supplemental Lighting system to provide adequate light throughout the day."
+        },
+        {
+          "id": 8203,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Aurea Pendula') plants should be pruned twice per year. In early spring, you can create the finished shape of the boxwood by trimming evenly to just above the desired size of the shrub. If you plan to do a more pronounced pruning, it's best to do this before new growth begins in the spring. If you’re looking to shape the boxwood for a more sculpted look, trimming a second time in fall ensures a more dense and vibrant look of the foliage. Be sure to always cut the plant back no more than 1-third of its height, otherwise, pruning could cause the branches to die off or stunt the growth of the boxwood for some time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

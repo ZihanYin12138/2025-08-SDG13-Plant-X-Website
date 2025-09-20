@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2696,
+      "species_id": 1459,
+      "common_name": "feather reed grass",
+      "scientific_name": [
+        "Calamagrostis acutiflora"
+      ],
+      "section": [
+        {
+          "id": 8294,
+          "type": "watering",
+          "description": "Feather reed grass should be watered deeply once a week during the summer months. During the height of summer, the water requirement for this grass increases, so it may need to be watered 2 or 3 times a week. During the cooler fall months, the water needs of the grass decrease and can be watered every 3 to 4 weeks. During the winter, watering should be done once a month. Make sure the soil is thoroughly soaked to a depth of 8 to 10 inches each time you water. It is important to not let the soil dry out completely before watering especially during the peak of summer."
+        },
+        {
+          "id": 8295,
+          "type": "sunlight",
+          "description": "Feather reed grass (Calamagrostis acutiflora) grows best in full sun, meaning it needs at least 6 hours of direct sunlight each day. It can also tolerate light shade for part of the day. However, if given too much shade, the plant may not flower well and the foliage will have a poorer color. Too little sun will also result in the plant growing lanky and weak. Therefore, it is best to provide Feather reed grass with at least 6 hours of direct sunlight per day and a few hours of partial or dappled shade each day."
+        },
+        {
+          "id": 8296,
+          "type": "pruning",
+          "description": "Feather reed grass (Calamagrostis acutiflora) should be pruned in late winter or early spring, around late February or early March. The amount of pruning depends on the size of the plant--for smaller plants, it is recommended to cut the stems back by about a third or even a half of their height. Larger plants may require more drastic pruning, with stems cut back by up to 2 thirds of their height. Additionally, it is important to remove any dead or dying foliage from the plant as well."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

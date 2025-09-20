@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2669,
+      "species_id": 1428,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Elegantissima'"
+      ],
+      "section": [
+        {
+          "id": 8213,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Elegantissima') should be watered about once a week, as it is a slow-growing, drought-tolerant plant. It is important to provide deep and thorough watering that completely saturates the soil and encourages deep root growth. When watering, use a hose or watering can and water slowly and deeply until water is seen draining out of the bottom of the pot. It may be necessary to water more often during hot, dry weather. In winter months, the plant can go without watering for longer periods of time, as it is not actively growing during these months."
+        },
+        {
+          "id": 8214,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Elegantissima') does best when situated in a location that receives full sunlight during most of the day. Ideally, boxwood should receive at least 4 to 6 hours of direct sunlight each day during the summer season. During the winter season, however, it is best to reduce the amount of direct sunlight that the plant receives to 2 to 4 hours each day. The sunlight should also be diffused, meaning that it should not be overly harsh and direct. It is also important to note that while boxwood can tolerate some shade, it does best when it receives the full sunlight that it needs."
+        },
+        {
+          "id": 8215,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Elegantissima') requires pruning once a year in late winter to shape and maintain its form. The pruning should be made just before the new growth begins, so usually late February or early March is most suitable. Pruning boxwood should be done to keep its density and size in check, and to clean out any dead branches. Typically, pruning should remove 10-15% of the plant to avoid damaging the plant and remove up to a third of the leaf tips in order to raise the desired shape. If any branches need to be removed, make sure any pruning cuts are made cleanly and close to the trunk. The tips of any new shoots should also be pruned to encourage a bushy, full growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

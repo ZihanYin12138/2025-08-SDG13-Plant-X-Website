@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2656,
+      "species_id": 1413,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus microphylla 'Curly Locks'"
+      ],
+      "section": [
+        {
+          "id": 8174,
+          "type": "watering",
+          "description": "Boxwood (Buxus microphylla 'Curly Locks') should be watered when the soil feels slightly dry to the touch. It is important not to overwater this type of plant, which can cause root rot. Generally, it's best to water the plant once every week and a half to 2 weeks. To ensure the root system is receiving adequate water, check the soil first to a depth of approximately 2 inches. If the soil is dry, water the plant until water comes out of the drainage holes in the bottom of the pot or container. Make sure to discard any excess water that collects in the saucer or tray."
+        },
+        {
+          "id": 8175,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus microphylla 'Curly Locks') is a shade tolerant species of shrub which does best in full sun to partial shade. The optimal amount of sunlight for Boxwood is at least 5 to 6 hours of direct sunlight during the course of the day. It is important to remember to provide it with ample shade during the hottest part of the day, preferably around midday. Depending on the time of year, Boxwood does not need an excessive amount of sun, and can sustain with as little as 3 to 4 hours of direct sunlight during the summer months. Additionally, if in the right environment (preferably outdoors), providing Boxwood with adjustable artificial sunlight can help maximize the growth and health of the shrub. "
+        },
+        {
+          "id": 8176,
+          "type": "pruning",
+          "description": "Boxwood plants (Buxus microphylla) should be pruned lightly once a year, typically in the early spring. The pruning should be done just as new growth begins. Pruning should be limited to lightly trimming off the outermost tips of the stems and can be done with a pair of hand shears. This will help to maintain the natural shape of the plant while keeping it within the desired bounds. Avoid pruning multiple stems at once as this could create an unbalanced structure that will not be aesthetically pleasing. Pruning this way will also encourage new growth, which is important for keeping the boxwood’s vibrant foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

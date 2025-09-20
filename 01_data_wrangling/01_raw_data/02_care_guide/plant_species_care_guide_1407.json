@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 316,
+      "species_id": 1407,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus 'Green Mountain'"
+      ],
+      "section": [
+        {
+          "id": 502,
+          "type": "watering",
+          "description": "Boxwood (Buxus 'Green Mountain') should be watered thoroughly once per week, or every 5 to 7 days. The amount of water will depend on the temperature and amount of sunlight the plant receives. On hot days, it may require 2-3 gallons of water per plant. On cooler days, the amount of water can be reduced to 1 gallon per plant. It is important to ensure that the soil the boxwood is planted in dries out between waterings. If the soil remains consistently moist, there is a risk of root rot."
+        },
+        {
+          "id": 506,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus 'Green Mountain') is a variety of evergreen shrub that prefers full to partial sun for optimal growth. It should receive at least 4 to 5 hours of direct sunlight per day. This being said, it can also tolerate some partial shade, especially during the hottest months."
+        },
+        {
+          "id": 508,
+          "type": "pruning",
+          "description": "Pruning of boxwood (Buxus 'Green Mountain') should be done twice a year. During the spring season, after the new growth has hardened off in late May or early June, prune lightly to control the size and shape. In the fall season, prune again when the new growth starts to harden off. Pruning should be done lightly and only take off no more than 1 third of the total height at 1 time. If more pruning is necessary, wait until the following season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

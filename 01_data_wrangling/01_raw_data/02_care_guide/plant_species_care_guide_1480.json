@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2710,
+      "species_id": 1480,
+      "common_name": "beautyberry",
+      "scientific_name": [
+        "Callicarpa bodinieri var. giraldii 'Profusion'"
+      ],
+      "section": [
+        {
+          "id": 8336,
+          "type": "watering",
+          "description": "Beautyberry plants should be watered regularly and deeply. In general, aim to keep the soil moist but not soggy,watering the soil until it is thoroughly saturated. During the spring and summer, when the plant is in the active growth period, water the plant every 1-2 weeks. During periods of extreme heat, shower the plants with water every 3-5 days for optimal growth. In the fall and winter, when the plant's growth slows, water the plant every 3-6 weeks or when the soil is dry."
+        },
+        {
+          "id": 8337,
+          "type": "sunlight",
+          "description": "Beautyberry (Callicarpa bodinieri var. giraldii 'Profusion') prefers full sunlight, meaning it should be placed in an area that receives 6 to 8 hours of direct sunlight each day. An ideal location would provide morning or evening sun with filtered sunlight, such as under the canopy of deciduous trees, during the hottest afternoons. If planted in a shady location, it will survive, but may become leggy and less productive. If planted in a spot that gets too much sun, the leaves may scorch and the shrub's growth may slow."
+        },
+        {
+          "id": 8338,
+          "type": "pruning",
+          "description": "Beautyberry (Callicarpa bodinieri var. giraldii 'Profusion') should be pruned after it is done flowering in the spring. Pruning should remove about 1/3 of the current year’s growth, taking care to only remove dead and damaged branches. Pruning should be done lightly and gradually over several years to maintain plant health and vigor. Pruning will help keep the plant compact and promotes more abundant flowering and fruiting."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2660,
+      "species_id": 1419,
+      "common_name": "Japanese boxwood",
+      "scientific_name": [
+        "Buxus microphylla var. japonica 'Morris Midget'"
+      ],
+      "section": [
+        {
+          "id": 8186,
+          "type": "watering",
+          "description": "Japanese boxwood should be watered deeply once a week in the spring and summer and every 10-12 days in the fall and winter. Watering should take place until the water runs out of the bottom of the pot. Ensure that the soil is not wet by using a soil moisture meter if possible, as overwatering can cause root rot. It is also important to remember to water the plant in the morning and not in the evening, as this will reduce the risk of fungal problems."
+        },
+        {
+          "id": 8187,
+          "type": "sunlight",
+          "description": "Japanese boxwood thrives in full sun but can tolerate partial shade. During the summer months, the plant species should receive at least 6-8 hours of direct light per day. In the fall and spring seasons, the sunlight requirement can be reduced to 4 hours per day. It is important to keep in mind that too much sunlight (over 8 hours per day) can damage the plant."
+        },
+        {
+          "id": 8188,
+          "type": "pruning",
+          "description": "Japanese boxwood (Buxus microphylla var. japonica 'Morris Midget') should be pruned twice per year, once in late spring before new growth appears and then again in mid-summer after new growth has stopped. It is best to prune lightly, removing only slightly more than a quarter of growth every time. Pruning encourages dense foliage and should be done by hand with shears or a sharp knife. You may also use a hedge trimmer, but take care not to cut too deeply as this can damage the plant. Avoid pruning during the peak of summer heat, as this can shock the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

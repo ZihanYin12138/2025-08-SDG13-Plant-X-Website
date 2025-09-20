@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2708,
+      "species_id": 1477,
+      "common_name": "powder puff tree",
+      "scientific_name": [
+        "Calliandra haematocephala"
+      ],
+      "section": [
+        {
+          "id": 8330,
+          "type": "watering",
+          "description": "The Powder Puff Tree (Calliandra haematocephala) thrives in full sun and is quite drought-tolerant once established. Therefore, water the tree deeply but infrequently to establish a deep root system without encouraging shallow roots. To water, provide a deep, thorough watering every 2 to 3 weeks throughout spring and summer; adjust the frequency of watering, more during hot weather and less during cool weather. In fall and winter, reduce the watering frequency to once every 6 weeks. When you water, soak the soil deeply to encourage deep root growth; water should reach about 8 inches beneath the surface."
+        },
+        {
+          "id": 8331,
+          "type": "sunlight",
+          "description": "Powder puff trees need full sun to partial shade for the most optimal growth and flowering. They need at least 6-8 hours of direct sun daily. During the hotter months of summer, they prefer some dappled shade in the late afternoon in warm areas to avoid sunburn. The tree can also withstand temperatures as low as 25 – 30°F for a short period so they can be grown in zones 9-11."
+        },
+        {
+          "id": 8332,
+          "type": "pruning",
+          "description": "Powder puff trees (Calliandra haematocephala) need to be pruned regularly to maintain their shape and size. Generally, lightly pruning established plants annually in early spring is recommended. Begin by removing dead, damaged and crossing branches to improve air circulation. Then, selectively prune branches to reduce the overall size of the tree, if desired. When pruning, make sure to cut back to a pair of healthy buds. Using sharp, clean tools to make precise cuts is also recommended."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

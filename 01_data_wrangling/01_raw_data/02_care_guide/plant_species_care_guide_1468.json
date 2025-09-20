@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 220,
+      "species_id": 1468,
+      "common_name": "orchid",
+      "scientific_name": [
+        "Calanthe 'Kozu Spice'"
+      ],
+      "section": [
+        {
+          "id": 788,
+          "type": "watering",
+          "description": "For a Calanthe 'Kozu Spice' orchid, it is best to water 2 times a week. When watering, it is important to use tepid water and to water from the bottom up, allowing the potting medium to become thoroughly moistened. It is also important to water your orchid only when the top 1-2 inches of soil are dry. This will help to retain healthy roots and prevent root rot. Try to avoid over-watering and do not let the orchid sit in standing water."
+        },
+        {
+          "id": 789,
+          "type": "sunlight",
+          "description": "During a normal sun cycle, the orchid will be receiving light from sunrise to mid-afternoon, approximately 6-8 hours a day. It should not be placed in a location that receives more than 6-8 hours of direct sunlight as this can result in the leaves becoming bleached or burnt. In the winter months, the orchid should still receive 6-8 hours of partial light, but it is important to keep in mind that this should not be intense, direct sunlight."
+        },
+        {
+          "id": 790,
+          "type": "pruning",
+          "description": "Orchid pruning is an important part of keeping a healthy Calanthe 'Kozu Spice' orchid. Prune this orchid at least once a year in early spring just before the start of its active growth season. Trim back any unsightly or dead leaves and remove any old flower spikes that haven't already died back. Aim to maintain the overall shape of the orchid and keep it to the desired size. Pruning should take no more than 10-15 minutes per plant. If a major trimming is necessary, take care to avoid cutting too many stems in 1 session."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

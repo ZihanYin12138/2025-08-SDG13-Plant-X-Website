@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2634,
+      "species_id": 1387,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja davidii 'White Profusion'"
+      ],
+      "section": [
+        {
+          "id": 8108,
+          "type": "watering",
+          "description": "The butterfly bush should be watered deeply twice a week. During summer, water deeply every 4-7 days. During winter, water deeply once a week. Make sure to moisten the entire root zone, and then allow the soil to dry slightly before the next watering. To check if the plant needs water, stick your finger about 2 inches into the soil. If it is dry, it is time to water. During extreme heat, you may need to water more frequently to keep the plant healthy."
+        },
+        {
+          "id": 8109,
+          "type": "sunlight",
+          "description": "Butterfly bush (Buddleja davidii 'White Profusion') is a plant species that grows best in bright sunlight. This species should get at least 6 hours of direct sunlight each day to help it reach its full potential. Too much shade can cause the plant to display a slow growth rate and poor flowering. The optimal level of sunlight for 'White Profusion' is 8 to 10 hours of direct sun each day. Plant it in an area of the garden that will receive the early morning sun to help with the development of full flower spikes. This species does best in slightly cooler climates, so a few hours of strong afternoon sun may be too harsh. If planting in an area with hot afternoon temperatures, provide afternoon shade with a structure, such as a trellis or lattice."
+        },
+        {
+          "id": 8110,
+          "type": "pruning",
+          "description": "Butterfly bush (Buddleja davidii 'White Profusion') should be pruned at the beginning of spring to keep its shape and encourage vigorous new growth. It should also be pruned again in early fall if it becomes overgrown. When pruning, remove all dead, damaged, or diseased wood along with any stems that are thinner than a pencil. Cut back the older stems to about 6-8 inches from the base, to promote new shoots and bushier growth. Avoid pruning newly planted bush until the second year of growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

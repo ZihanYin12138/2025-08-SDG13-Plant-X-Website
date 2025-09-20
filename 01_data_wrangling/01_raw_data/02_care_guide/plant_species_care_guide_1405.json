@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2650,
+      "species_id": 1405,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus 'Green Gem'"
+      ],
+      "section": [
+        {
+          "id": 8156,
+          "type": "watering",
+          "description": "When it comes to watering Boxwood 'Green Gem', the frequency and amount of water needed can vary depending on a variety of factors, such as time of year, temperature, and humidity. In general, Boxwoods should be watered on a regular basis, at least 1-2 times per week during summer months and every 10-14 in winter months. When watering, be sure to provide enough water that it drains through the soil and exits through the drainage holes in the bottom of the pot. Additionally, make sure the soil is neither too dry nor too wet, as this can lead to root rot or other problems."
+        },
+        {
+          "id": 8157,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus 'Green Gem') should be placed in an area with at least 6 hours of direct sunlight per day, ideally during the morning hours. It is important to not overwhelm the plant with too much sunlight as the leaves can become scorched if the light is too strong. Aim to provide morning sun with some dappled or filtered light in the afternoons."
+        },
+        {
+          "id": 8158,
+          "type": "pruning",
+          "description": "Boxwood (Buxus 'Green Gem') should be pruned in early spring, before new growth starts. Pruning should be done sparingly, as Buxus 'Green Gem' grows slowly and requires minimal shaping. If clipping is needed, it should be done with sharp secateurs and should include removing dead and overcrowded branches. It is also important to leave a few leaves and buds on each branch, as these are responsible for plant development. To maintain the desired shape and size of Buxus 'Green Gem', pruning should be done annually."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

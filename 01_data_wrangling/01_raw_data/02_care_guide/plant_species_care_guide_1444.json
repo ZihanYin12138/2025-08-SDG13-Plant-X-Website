@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2685,
+      "species_id": 1444,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Saint Genevieve'"
+      ],
+      "section": [
+        {
+          "id": 8261,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Saint Genevieve') should be watered every 5-7 days, depending on the season and the climate in which it’s grown. In spring and summer, it may need to be watered more frequently, while in fall and winter it’s best to water less often. When watering, make sure to water deeply, meaning that the soil should be moistened thoroughly to a depth of 8-10 inches or more. Use a garden hose with a nozzle or a watering can to provide an even, gentle sprinkling, taking care to water only the soil and not the foliage, as damp leaves can become more vulnerable to disease. Avoid over-watering, as this can lead to root rot."
+        },
+        {
+          "id": 8262,
+          "type": "sunlight",
+          "description": "Boxwood, or Buxus sempervirens 'Saint Genevieve', thrive in full to partial sunlight and grow best when exposed to 6 to 8 hours of direct sunlight a day. This species does well in either sun or shade, depending on the region or climate in which it is planted, but it will require some protection from the midday sun in particularly hot areas.\n\nFor best results, choose a planting site with morning sun and afternoon shade. To ensure this, plant boxwood in an west facing location in the northern hemisphere or east facing in the southern hemisphere. It is important to note that boxwood plants have some shade tolerance, but not to the same degree as other plants.\n\nFor optimum growth, do not expose this plant species to temperatures higher than 90 degrees for more than 2 hours. It should also be kept away from very windy or draughty areas. Additionally, keep in mind that boxwood does not need much pruning or trimming and can handle periods of drought without major issues."
+        },
+        {
+          "id": 8263,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Saint Genevieve') is best pruned twice a year to maintain its shape. The first pruning should be done in late spring/early summer, between May and July. In mid-summer (July - August), you'll want to prune again, but this time only remove as much as 1/3 of the growth. This allows the plant to maintain its full, attractive shape, while not over-pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

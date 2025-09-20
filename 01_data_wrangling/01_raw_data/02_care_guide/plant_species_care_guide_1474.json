@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1031,
+      "species_id": 1474,
+      "common_name": "million bells",
+      "scientific_name": [
+        "Calibrachoa (group)"
+      ],
+      "section": [
+        {
+          "id": 3092,
+          "type": "watering",
+          "description": "Million bells should be watered every 2-3 days. During the summer months, watering can increase to every day as needed to keep the soil slightly moist. It's important that the soil is allowed to dry out slightly between waterings in order for the roots to get ample oxygen to thrive. During the winter, the plants are more tolerant of dry conditions and should only be watered when the soil feels dry to the touch."
+        },
+        {
+          "id": 3103,
+          "type": "sunlight",
+          "description": "Million bells require several hours of direct sunlight each day to thrive, particularly in the morning. In most climates, this means 6 to 8 hours of sunlight a day. If you are located in a sunny climate (such as the southwestern US), you may need to adjust the amount of sunlight to ensure your plants don't get sunburned. In more moderate climates, allotting 4 to 6 hours of direct sunlight is usually sufficient. When planning to include million bells in your garden, be sure to select a sunny spot."
+        },
+        {
+          "id": 3110,
+          "type": "pruning",
+          "description": "Million bells require regular pruning throughout the season in order to maintain a bushy, full appearance. Pruning should be performed approximately every 2 weeks, beginning in early spring. To prune simply pinch off or cut back the stem tips. This will encourage fuller branching as well as promote new blooming. While pruning, take care not to cut too far back as this could affect the bloom production. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

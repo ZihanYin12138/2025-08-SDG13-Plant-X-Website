@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2667,
+      "species_id": 1426,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Dee Runk'"
+      ],
+      "section": [
+        {
+          "id": 8207,
+          "type": "watering",
+          "description": "Water Boxwood (Buxus sempervirens 'Dee Runk') deeply and thoroughly at least once a week. Beyond this, pay attention to the soil. If the top 1 inch of soil is dry, then it's time to water again. During times of extreme heat, water every 3-4 days to keep the soil from drying out completely. If watering them in a pot or container, make sure the water is running freely through the drainage holes. Finally, it's important to note that too much water can be detrimental to the plant, so be sure not to overdo it."
+        },
+        {
+          "id": 8208,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens ‘Dee Runk’) grows best in full sun to partial shade. It can tolerate full sun exposure in cooler climates, but it may scorch in hot summer locations. For best results, plant this variety in an area that gets 6-8 hours of direct sunlight per day, including 4 hours of morning sun or afternoon sun. Place the boxwood in a location that receives filtered or indirect sunlight for the remaining hours of the day."
+        },
+        {
+          "id": 8209,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Dee Runk') requires minimal pruning, typically once per year. It is best to prune boxwood during the early spring, right before new growth begins to appear. Pruning at this time will help shape the shrub or hedge while the plant is dormant and will reduce the risk of contracting diseases. When pruning, always use a sharp pair of hand shears and cut back the branches to a desired shape and size. Make sure not to remove more than 1-third of the plant's total growth or it can become disfigured and barren. It is also important to sterilize pruning tools after each use in a bleach solution to prevent the spread of any possible fungal disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

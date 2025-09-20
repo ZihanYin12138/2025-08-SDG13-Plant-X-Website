@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 671,
+      "species_id": 1469,
+      "common_name": "rattlesnake plant",
+      "scientific_name": [
+        "Calathea lancifolia"
+      ],
+      "section": [
+        {
+          "id": 2013,
+          "type": "watering",
+          "description": "Rattlesnake plant (Calathea lancifolia) prefers moist but not soggy soil. Water your plant every 1-2 weeks, allowing the top inch of soil to dry out before watering again. During the summer months, the rattlesnake plant should be watered more regularly to ensure the soil stays moist. In winter, water less often and allow the top of the soil to dry out before watering again."
+        },
+        {
+          "id": 2017,
+          "type": "sunlight",
+          "description": "Rattlesnake plant (Calathea lancifolia) does best in bright, indirect sunlight. A good rule of thumb is to provide up to 4 hours of sunlight per day - ideally in the morning or late afternoon when sun intensity is lower. With more than 4 hours of direct sun per day, the leaves may suffer from too much direct sun and scorch. Keep the rattlesnake plant in a spot where the sun is shaded by something like a fence, tree, or other structure as the direct hot sun for more than 4 hours can cause damage."
+        },
+        {
+          "id": 2024,
+          "type": "pruning",
+          "description": "Generally, this species of plant should not be pruned too often or heavily. Pruning should be done sparingly, and only to remove dead, damaged, or overcrowded parts. Pruning should be done before the plant has a chance to flower. If done during the growing season, pruning should be done in the spring or early summer as buds begin to form. In the autumn, anytime before the end of October is a good time to prune for shape or size.\n\n"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

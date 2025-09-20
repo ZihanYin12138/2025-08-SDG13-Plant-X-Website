@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2675,
+      "species_id": 1434,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Inglis'"
+      ],
+      "section": [
+        {
+          "id": 8231,
+          "type": "watering",
+          "description": "Boxwood plants should be watered deeply once a week if there is no rainfall. Be sure to use a soaker hose or drip irrigation system and water the soil directly near the base of the plant. During hot, dry weather, they may need more frequent watering. A good way to check is by sticking your finger into the soil at a depth of at least 2-3 inches, if it feels dry, then water your plant until the soil is saturated but be sure not to overwater. It is best to water in the morning."
+        },
+        {
+          "id": 8232,
+          "type": "sunlight",
+          "description": "The boxwood, or Buxus sempervirens 'Inglis', is an evergreen shrub and hardy in USDA Plant Hardiness Zones 5 to 9. It prefers at least 6 hours of bright, indirect sunlight per day, and will grow best in full sun. If possible, plant boxwood in an area that receives morning sun and afternoon shade to prevent scorching of the leaves in the hot summer months. In areas with intense sun exposure, some light afternoon shade can help the plant capitalize on the most beneficial parts of the sun's rays without being damaged by the strong midday sun."
+        },
+        {
+          "id": 8233,
+          "type": "pruning",
+          "description": "Pruning boxwood (Buxus sempervirens 'Inglis') should be done twice a year. The first pruning should be done in the early spring (March or April), to remove any dead, dying or diseased branches. The second pruning should occur during the fall (September or October), to shape the plant and encourage healthy growth.\n\nWhen pruning, aim to remove no more than a third of the overall growth. Be sure to keep the natural shape intact and avoid leaving any unsightly bare spots. You may also trim off any new shoots that are growing out of bounds, as this can encourage a fuller and denser shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

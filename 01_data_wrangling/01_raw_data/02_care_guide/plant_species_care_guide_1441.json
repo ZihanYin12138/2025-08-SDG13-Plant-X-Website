@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2682,
+      "species_id": 1441,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Paramus'"
+      ],
+      "section": [
+        {
+          "id": 8252,
+          "type": "watering",
+          "description": "Water your boxwood (Buxus sempervirens 'Paramus') regularly to keep the soil moist. During the first year of its life, water deeply every 4 to 7 days during the summer months. In subsequent years, water your boxwood every 2 to 3 weeks during the summer, providing 2 to 4 inches of water each time. Water your boxwood when the soil feels dry to the touch. In winter, reduce watering significantly; water your plant every 4 to 6 weeks if the area has dry weather."
+        },
+        {
+          "id": 8253,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Paramus') enjoys full sun to part shade in order to thrive. The plant can tolerate some light shade but prefers full sun for at least 3-4 hours of direct sunlight a day, with more sunlight likely to increase the rate of growth and health of the plants. For best results, exposure to morning and/or late afternoon sun is ideal as the plant will benefit from the direct warmth of the sun without the harshness of the midday summer sun."
+        },
+        {
+          "id": 8254,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Paramus') should be pruned twice a year, once in the spring and once in the summer. In the spring, prune away dead, diseased and weak growth and encouraged denser growth. Remove approximately 1-third of the length of the branches of the boxwood to ensure the shrub maintains good shape. In the summer, trim the shrub lightly to control the size and shape and remove any leftover dead wood. Pruning boxwoods is important to keep the plant healthy and looking its best."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

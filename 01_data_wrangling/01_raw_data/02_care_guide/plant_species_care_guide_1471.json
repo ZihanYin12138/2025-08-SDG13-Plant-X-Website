@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 673,
+      "species_id": 1471,
+      "common_name": "zebra plant",
+      "scientific_name": [
+        "Calathea zebrina"
+      ],
+      "section": [
+        {
+          "id": 2015,
+          "type": "watering",
+          "description": "The Zebra Plant (Calathea zebrina) is a tropical plant that enjoys humid, moist conditions. As such, it needs to be watered regularly and adequately. The best practice is to water your Zebra Plant slowly, using lukewarm water. To keep the plant in optimum condition, water the soil thoroughly until it is damp, but not saturated. You will need to water the plant every 7-10 days. However, if temperatures are hot and the environment is very dry, then the plant may need to be watered as often as twice a week. "
+        },
+        {
+          "id": 2019,
+          "type": "sunlight",
+          "description": "The zebra plant species (Calathea zebrina) prefers bright, indirect sunlight. Your best bet is to provide the plant with filtered sunlight through a sheer curtain or an east-facing window. In the wild, these plants are typically found growing beneath canopy trees, so try to mimic that environment indoors. This plant will do best with 4 to 6 hours of bright, indirect sunlight each day. Avoid direct sunlight, as this can cause the foliage to become faded and brittle."
+        },
+        {
+          "id": 2022,
+          "type": "pruning",
+          "description": "Pruning magnitude and timing will depend on how you want to shape the zebra plant. Generally speaking, the plant should be pruned in the spring just before it starts actively growing. If the plant has become too sprawling and leggy, you can prune it back by several inches from the top and sides. This will encourage new growth along the sides and top, thus making the plant look fuller. You can also prune off any yellow, dry, or wilted leaves. Additionally, it is beneficial to regularly pinch off any new growth at the tips to encourage bushiness and denser foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

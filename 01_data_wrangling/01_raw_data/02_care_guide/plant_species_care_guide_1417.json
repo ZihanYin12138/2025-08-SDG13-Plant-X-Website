@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1190,
+      "species_id": 1417,
+      "common_name": "Japanese boxwood",
+      "scientific_name": [
+        "Buxus microphylla var. japonica"
+      ],
+      "section": [
+        {
+          "id": 3559,
+          "type": "watering",
+          "description": "Japanese boxwood should be watered regularly to prevent it from becoming over-stressed. Aim to keep the soil evenly moist, but not soaked. Water deeply once a week, while feeling the soil for moisture and monitoring the health of the plant. In hotter months, an additional deep watering every 3-5 days may be necessary. In colder months, water every 2 weeks, and mist the leaves with water at least 2-3 times a week to counteract the drying effects of the cold. Additionally, mulching around the base of the plant will help to conserve soil moisture."
+        },
+        {
+          "id": 3560,
+          "type": "sunlight",
+          "description": "Japanese boxwood (Buxus microphylla var. japonica) prefers partial to full sunlight and flourishes with an average of around 4 to 5 hours of direct sunlight each day. It does best when some of the direct sunlight is in the late morning and early afternoon when the rays are not as intense. These bright-tolerant evergreen shrubs also do well in areas with some light shade, such as beneath trees or on the north side of a building. This plant does not fare well with too much direct sunlight and will start to suffer if it gets too much. It is also important to make sure that the soil around the Japanese boxwood remains moist, as this will help it to thrive."
+        },
+        {
+          "id": 3561,
+          "type": "pruning",
+          "description": "Pruning Japanese boxwood should take place annually in late winter or early spring. For best results, only light pruning is recommended, with the goal of shaping your shrub or hedge, removing any damaged or diseased branches and minimizing the density of your hedges. When pruning, you should remove no more than 1/3 of the plant’s current foliage. This may be as small as a few leaves, or as large as entire branches. Pruning should be done with sharp, clean pruning shears. It is always best to prune the Japanese boxwood before new growth emerges in the spring."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2692,
+      "species_id": 1451,
+      "common_name": "Korean boxwood",
+      "scientific_name": [
+        "Buxus sinica var. insularis 'Tide Hill'"
+      ],
+      "section": [
+        {
+          "id": 8282,
+          "type": "watering",
+          "description": "Korean boxwood (Buxus sinica var. insularis 'Tide Hill') should be watered every 2 to 3 days in the spring and summer months, and every 4 to 7 days in the fall and winter months. Water deeply until the roots are thoroughly moistened, and avoid overwatering. When the soil is completely dry, additional water is needed. During very hot temperatures, you may need to water more often. Ensure the soil remains evenly moist but not soggy."
+        },
+        {
+          "id": 8283,
+          "type": "sunlight",
+          "description": "Korean boxwood (Buxus sinica var. insularis 'Tide Hill' ) should receive full sun for at least 6 hours a day. This can be achieved by placing the plant in an area with direct sunlight from sunrise to noon and/or from midday to early afternoon. This plant requires full sun to Partial shade, meaning direct sunlight should be limited during the mid-day hours as it can cause burning or scorching. During the spring and summer months, the sun’s intensity is strong enough to ensure that this plant receives enough sunlight - in the fall and winter months, supplemental lighting may be necessary in shadier places."
+        },
+        {
+          "id": 8284,
+          "type": "pruning",
+          "description": "Korean boxwood (Buxus sinica var. insularis 'Tide Hill') should be pruned 2-3 times per year; in late winter/early spring (end of February/beginning of March), late spring/early summer (end of June/beginning of July) and late summer/early fall (end of August/beginning of September). Pruning should be light, removing only 1-third to 1-half of the total growth each time, to maintain desired shape or size. Avoid any heavy pruning as this will disturb the natural growth pattern and can cause shock to the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
