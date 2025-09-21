@@ -1,5 +1,14 @@
 <script setup>
+import { onMounted } from 'vue'
+import { useRouter } from 'vue-router'
 import ThemeToggle from './components/ThemeToggle.vue'
+
+const router = useRouter()
+
+onMounted(() => {
+  console.log('Vue app started')
+  console.log('Current route:', router.currentRoute.value.path)
+})
 </script>
 
 <template>
@@ -17,10 +26,10 @@ import ThemeToggle from './components/ThemeToggle.vue'
       <RouterLink to="/" style="font-weight:800;">Plant'X</RouterLink>
 
       <nav style="margin-left:auto;display:flex;gap:.99rem;font-size:larger;">
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/garden">Garden</RouterLink>
-        <!-- <RouterLink to="/urbanwild">Urban & Wild</RouterLink>
-        <RouterLink to="/community">Community</RouterLink> -->
+        <RouterLink to="/" @click="() => console.log('Clicked Home')">Home</RouterLink>
+        <RouterLink to="/garden" @click="() => console.log('Clicked Garden')">Garden</RouterLink>
+        <RouterLink to="/urbanwild" @click="() => console.log('Clicked UrbanWild')">Urban & Wild</RouterLink>
+        <RouterLink to="/community" @click="() => console.log('Clicked Community')">Community</RouterLink>
       </nav>
 
       <ThemeToggle />
@@ -30,7 +39,7 @@ import ThemeToggle from './components/ThemeToggle.vue'
   <main class="container" style="padding:1.25rem 1rem;">
     <RouterView v-slot="{ Component, route }">
       <Transition name="page" mode="out-in">
-        <!-- ✅ 统一包一层元素，保证可动画的是“单一元素根节点” -->
+        <!-- ✅ Wrap in a single element to ensure animatable "single element root node" -->
         <div class="route-shell" :key="route.fullPath">
           <component :is="Component" />
         </div>
@@ -47,7 +56,7 @@ import ThemeToggle from './components/ThemeToggle.vue'
 </template>
 
 <style scoped>
-/* 过渡动画（可按需调整时长/缓动） */
+/* Transition animations (adjust duration/easing as needed) */
 .page-enter-active,
 .page-leave-active {
   transition: opacity 0.2s ease, transform 0.2s ease;
@@ -58,12 +67,12 @@ import ThemeToggle from './components/ThemeToggle.vue'
   transform: translateY(6px);
 }
 
-/* 让 shell 作为路由页的单一根节点容器 */
+/* Let shell be the single root node container for route pages */
 .route-shell {
   display: block;
 }
 
-/* 可选：为当前激活的路由添加下划线/高亮（如果使用了 RouterLink 的 active-class 可移除） */
+/* Optional: Add underline/highlight for current active route (can be removed if using RouterLink's active-class) */
 a.router-link-active {
   text-decoration: underline;
 }
