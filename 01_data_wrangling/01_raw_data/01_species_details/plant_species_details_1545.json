@@ -1,0 +1,136 @@
+{
+  "id": 1545,
+  "common_name": "Adriatic bellflower",
+  "scientific_name": [
+    "Campanula garganica 'Dickson's Gold'"
+  ],
+  "other_name": [],
+  "family": "Campanulaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Dickson",
+  "variety": null,
+  "species_epithet": "garganica",
+  "genus": "Campanula",
+  "origin": [
+    "Italy"
+  ],
+  "type": "Flower",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.25,
+      "max_value": 0.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Layering Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1545&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1545&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "light-blue-purple"
+      ]
+    },
+    {
+      "part": "stamens",
+      "color": [
+        "dark-purple"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "May",
+    "December",
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1545&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Adriatic bellflower (Campanula garganica 'Dickson's Gold') is an excellent choice for gardeners seeking vibrant and eye-catching plants. Its beautiful, bright yellow-gold flowers look absolutely stunning against lush green foliage. It blooms for an extended period and is a delight in the garden from late spring to early summer. It’s hardy and low-maintenance, requiring little pruning or deadheading. Deer and rabbit resistant, it’s well-suited to cottage and rock gardens, combining wonderfully with other sun-loving plants. It's drought tolerant too as long as it's planted in a well-drained soil. Truly a magnificent addition to any garden.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1545_campanula_garganica_dicksons_gold/og/51765369977_d73847f8f2_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1545_campanula_garganica_dicksons_gold/regular/51765369977_d73847f8f2_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1545_campanula_garganica_dicksons_gold/medium/51765369977_d73847f8f2_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1545_campanula_garganica_dicksons_gold/small/51765369977_d73847f8f2_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1545_campanula_garganica_dicksons_gold/thumbnail/51765369977_d73847f8f2_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

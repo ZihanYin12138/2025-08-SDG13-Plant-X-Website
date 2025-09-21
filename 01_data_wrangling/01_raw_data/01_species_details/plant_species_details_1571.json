@@ -1,0 +1,139 @@
+{
+  "id": 1571,
+  "common_name": "bluebell",
+  "scientific_name": [
+    "Campanula rotundifolia"
+  ],
+  "other_name": [
+    "Bluebell",
+    "Scotch Bellflower",
+    "Bluebell Of Scotland",
+    "Scotch Bellflower",
+    "Bluebell Of Scotland"
+  ],
+  "family": "Campanulaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "rotundifolia",
+  "genus": "Campanula",
+  "origin": [
+    "Temperate Northern Hemisphere"
+  ],
+  "type": "Flower",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Hummingbirds"
+  ],
+  "propagation": [
+    "Division",
+    "Layering Propagation",
+    "Seed Propagation",
+    "Cutting"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1571&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1571&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "petals",
+      "color": [
+        "light-blue-violet"
+      ]
+    },
+    {
+      "part": "anthers",
+      "color": [
+        "yellow-purple"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stalks",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Sun",
+    " Partial Shade"
+  ],
+  "pruning_month": [
+    "August"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1571&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Loamy Rocky"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Bluebell (Campanula rotundifolia) is an amazing flowering plant species, native to Britain and Europe. It produces delicate, bell-shaped, deep blue blooms in the late spring that hang gracefully from thin stems. The beautiful flowers look amazing when planted as a border or grown in masses as a ground cover. Bluebells are easy to grow, preferring partial shade along with moist and well-drained soil. Once established, the plants require very little maintenance, making them ideal for gardeners with busy lives. In addition to their beauty, bluebells attract pollinators and are known for their sweet scent. Bluebells truly stand out in any garden and will bring once small space to life with their dazzling blooms and captivating fragrance.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1571_campanula_rotundifolia/og/52225170051_f3ac817741_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1571_campanula_rotundifolia/regular/52225170051_f3ac817741_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1571_campanula_rotundifolia/medium/52225170051_f3ac817741_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1571_campanula_rotundifolia/small/52225170051_f3ac817741_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1571_campanula_rotundifolia/thumbnail/52225170051_f3ac817741_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

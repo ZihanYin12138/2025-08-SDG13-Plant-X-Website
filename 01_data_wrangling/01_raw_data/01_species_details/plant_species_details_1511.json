@@ -1,0 +1,165 @@
+{
+  "id": 1511,
+  "common_name": "marsh marigold",
+  "scientific_name": [
+    "Caltha palustris"
+  ],
+  "other_name": [
+    "Wild Calla Lily",
+    "Yellow Marsh Marigold",
+    "Yellow Marsh Marigold"
+  ],
+  "family": "Ranunculaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "palustris",
+  "genus": "Caltha",
+  "origin": [
+    "Northern temperate regions"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Birds",
+    " Butterflies"
+  ],
+  "propagation": [
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1511&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1511&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "bright-yellow",
+        "yellow"
+      ]
+    },
+    {
+      "part": "anthers",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "petals",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "stamens",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "dark-green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Sun",
+    " Partial Shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1511&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Loamy Humus"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Mildew",
+    " Rust",
+    "  Pest resistant",
+    " Deer resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Spring",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": true,
+  "description": "The marsh marigold (Caltha palustris) is an amazing wetland plant with bright yellow blossoms that make a cheerful addition to any landscape. Growing best in moist habitats, the marsh marigold provides important habitat refuge and pollen for pollinators from late spring to early summer. One of its most outstanding features is its open stems that unfold like umbrellas when its day blooming flowers open to the sky. When the petals fall, the dark centers with their intricate patterns remain as a reminder. A hardy species, Caltha palustris is sure to bring smiles to any gardener.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1511_caltha_palustris/og/51997588079_70c80507a9_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1511_caltha_palustris/regular/51997588079_70c80507a9_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1511_caltha_palustris/medium/51997588079_70c80507a9_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1511_caltha_palustris/small/51997588079_70c80507a9_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1511_caltha_palustris/thumbnail/51997588079_70c80507a9_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

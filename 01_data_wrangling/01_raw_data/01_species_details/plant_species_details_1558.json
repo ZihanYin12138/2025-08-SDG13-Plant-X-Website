@@ -1,0 +1,147 @@
+{
+  "id": 1558,
+  "common_name": "willow bell",
+  "scientific_name": [
+    "Campanula persicifolia 'Alba'"
+  ],
+  "other_name": [
+    "peach-leaved bellflower"
+  ],
+  "family": "Campanulaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Alba",
+  "variety": null,
+  "species_epithet": "persicifolia",
+  "genus": "Campanula",
+  "origin": [
+    "Europe",
+    "northern Africa",
+    "northern and western Asia"
+  ],
+  "type": "Flower",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1.5,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Greenwood Cuttings"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1558&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1558&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "stamens",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1558&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Mites",
+    " Slugs",
+    "snails",
+    "  Deer resistant",
+    " Rabbit resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Willow bell, also known as Campanula persicifolia 'Alba', is an incredible perennial flower. It blooms in mid to late summer with large white star-like flowers that dance in the breeze. This delicate beauty won't take up a lot of space; it typically grows between 12 to 24 inches tall making it perfect for the garden or as an accent piece in landscaping. Its gorgeous white blooms and slender leaves add a vibrant and graceful look to any outdoor area. Its rapid spread and prolific blooms make it a great addition to any garden as it will fill the space with its fragrance and beauty. The mayflies, hummingbirds, and butterflies that are attracted to its colors, are just an added bonus.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1558_campanula_persicifolia_alba/og/33702550795_3be331a09e_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1558_campanula_persicifolia_alba/regular/33702550795_3be331a09e_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1558_campanula_persicifolia_alba/medium/33702550795_3be331a09e_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1558_campanula_persicifolia_alba/small/33702550795_3be331a09e_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1558_campanula_persicifolia_alba/thumbnail/33702550795_3be331a09e_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

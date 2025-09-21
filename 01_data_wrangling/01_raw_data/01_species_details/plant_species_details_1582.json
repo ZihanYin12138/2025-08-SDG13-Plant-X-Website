@@ -1,0 +1,158 @@
+{
+  "id": 1582,
+  "common_name": "trumpetcreeper",
+  "scientific_name": [
+    "Campsis radicans 'Apricot'"
+  ],
+  "other_name": [
+    "common trumpet creeper",
+    "Trumpet Vine",
+    "Cow Vine",
+    "Cow Itch"
+  ],
+  "family": "Bignoniaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Apricot",
+  "variety": null,
+  "species_epithet": "radicans",
+  "genus": "Campsis",
+  "origin": [
+    "Southeastern United States"
+  ],
+  "type": "Vine",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 25,
+      "max_value": 40,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Hummingbirds"
+  ],
+  "propagation": [
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1582&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1582&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flower",
+      "color": [
+        "orange"
+      ]
+    },
+    {
+      "part": "buds",
+      "color": [
+        "orange"
+      ]
+    },
+    {
+      "part": "stalks",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "orange"
+      ]
+    },
+    {
+      "part": "foliage",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "lime-green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Sun",
+    " Partial Shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "High",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1582&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Loamy Clay Rocky"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": true,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Fungal leaf spot",
+    " Scale insects"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Trumpetcreeper (Campsis radicans 'Apricot') is an amazing plant species that can bring life to even the smallest garden. This beautiful vine grows quickly and it’s easy to care for. It has colorful apricot blooms that bloom during the summer months. Its trumpet-shaped flowers make it perfect for attracting butterflies and hummingbirds to your garden. This perennial vine is also fast growing and can reach heights of up to 25 feet so it can cover vertical spaces quickly. Not only that, this vine is also evergreen, so it’ll look attractive all year round. Trumpetcreeper is the perfect choice for gardeners who want beauty and boldness.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1582_campsis_radicans_apricot/og/36279095901_81f9d22f19_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1582_campsis_radicans_apricot/regular/36279095901_81f9d22f19_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1582_campsis_radicans_apricot/medium/36279095901_81f9d22f19_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1582_campsis_radicans_apricot/small/36279095901_81f9d22f19_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1582_campsis_radicans_apricot/thumbnail/36279095901_81f9d22f19_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

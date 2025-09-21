@@ -1,0 +1,146 @@
+{
+  "id": 1564,
+  "common_name": "Serbian bellflower",
+  "scientific_name": [
+    "Campanula poscharskyana"
+  ],
+  "other_name": [
+    "Serbian bellflower"
+  ],
+  "family": "Campanulaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "poscharskyana",
+  "genus": "Campanula",
+  "origin": [
+    "Southeastern Europe"
+  ],
+  "type": "Flower",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 1,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Layering Propagation",
+    "Seed Propagation",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1564&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1564&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flower",
+      "color": [
+        "deep-blue"
+      ]
+    },
+    {
+      "part": "stigma",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "sepal",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1564&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Deer resistant",
+    " Rabbit resistant"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The Serbian bellflower (Campanula poscharskyana) is an amazing plant species esteemed for its beauty and adaptability. These low-growing perennials have lush foliage and delicate bell-shaped flowers with shades ranging from intense violet to white, often with a lavender hue. Blooms from late spring to early summer create a delightful display in borders and rock gardens. Its foliage remains evergreen in mild climates and cold hardy for more northern regions. Requires very little maintenance and can even handle some drought. A Swiss botanist named it after Poschar, a well-known 19th century Serbian botanist. A stunning addition to any garden!",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1564_campanula_poscharskyana/og/9200950810_01009796cd_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1564_campanula_poscharskyana/regular/9200950810_01009796cd_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1564_campanula_poscharskyana/medium/9200950810_01009796cd_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1564_campanula_poscharskyana/small/9200950810_01009796cd_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1564_campanula_poscharskyana/thumbnail/9200950810_01009796cd_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

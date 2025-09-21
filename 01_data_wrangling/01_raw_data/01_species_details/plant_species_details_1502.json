@@ -1,0 +1,122 @@
+{
+  "id": 1502,
+  "common_name": "bottlebrush bush",
+  "scientific_name": [
+    "Callistemon 'Woodlander's Hardy'"
+  ],
+  "other_name": [],
+  "family": "Myrtaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Woodlander",
+  "variety": null,
+  "species_epithet": "'Woodlander's",
+  "genus": "Callistemon",
+  "origin": [
+    "Australia"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 6,
+      "max_value": 8,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds",
+    " Hummingbirds",
+    " Butterflies"
+  ],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "7",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1502&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1502&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flower",
+      "color": [
+        "deep-red"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "December",
+    "January"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1502&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Bottlebrush Bush (Callistemon 'Woodlander's Hardy') is an amazing plant species to add to any garden. It produces many spectacular, deep red flowers measuring up to 6 inches in length, and can reach heights of up to 5 feet. It requires little maintenance and is extremely hardy in most soils and climates. Its delightful foliage and beautiful flowers make it a wonderful addition to any garden, and it will attract birds and other wildlife. Bottlebrush Bush is also an ideal plant for creating low hedging or barriers in a garden. Perfect for anyone looking to add a hardy and striking addition to their garden!",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1502_callistemon_woodlanders_hardy/og/51099405068_31a9920928_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1502_callistemon_woodlanders_hardy/regular/51099405068_31a9920928_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1502_callistemon_woodlanders_hardy/medium/51099405068_31a9920928_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1502_callistemon_woodlanders_hardy/small/51099405068_31a9920928_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1502_callistemon_woodlanders_hardy/thumbnail/51099405068_31a9920928_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
