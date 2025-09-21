@@ -1,0 +1,116 @@
+{
+  "id": 1572,
+  "common_name": "bluebell",
+  "scientific_name": [
+    "Campanula rotundifolia 'Olympica'"
+  ],
+  "other_name": [
+    "Bluebell",
+    "Scotch Bellflower",
+    "Bluebell Of Scotland",
+    "Scotch Bellflower",
+    "Bluebell Of Scotland"
+  ],
+  "family": "Campanulaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Olympica",
+  "variety": null,
+  "species_epithet": "rotundifolia",
+  "genus": "Campanula",
+  "origin": [
+    "Temperate Northern Hemisphere"
+  ],
+  "type": "Flower",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [
+    "Hummingbirds"
+  ],
+  "propagation": [
+    "Division",
+    "Layering Propagation",
+    "Seed Propagation",
+    "Cutting"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1572&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1572&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Sun",
+    " Partial Shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1572&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Loamy Rocky"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Bluebell (Campanula rotundifolia 'Olympica') is an amazing flower that deserves a place in your garden. It's a beautiful 2-3 foot tall perennial with deep purple bell-shaped flowers that bloom from May to July. The bright, vibrant blooms attract butterflies and bees, making it a great addition to any garden. Once established, it’s drought-tolerant and low-maintenance, so you won’t have to spend much time caring for it. Plus, the flowers can be dried for later use in crafts and decorations. Whether you’re looking for an eye-catching plant or a beautiful flower that will last throughout the summer, Bluebell is a great option.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1572_campanula_rotundifolia_olympica/og/Campanula_rotundifolia_001.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1572_campanula_rotundifolia_olympica/regular/Campanula_rotundifolia_001.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1572_campanula_rotundifolia_olympica/medium/Campanula_rotundifolia_001.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1572_campanula_rotundifolia_olympica/small/Campanula_rotundifolia_001.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1572_campanula_rotundifolia_olympica/thumbnail/Campanula_rotundifolia_001.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

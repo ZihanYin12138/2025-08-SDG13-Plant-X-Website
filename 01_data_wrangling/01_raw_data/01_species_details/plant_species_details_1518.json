@@ -1,0 +1,105 @@
+{
+  "id": 1518,
+  "common_name": "Carolina allspice",
+  "scientific_name": [
+    "Calycanthus 'Venus'"
+  ],
+  "other_name": [],
+  "family": "Calycanthaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Venus",
+  "variety": null,
+  "species_epithet": "'Venus'",
+  "genus": "Calycanthus",
+  "origin": [
+    "United States"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 5,
+      "max_value": 7,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1518&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1518&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1518&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Carolina allspice (Calycanthus 'Venus') is an amazing plant species that is native to the Southeastern United States, from Virginia to Florida. It is a fragrant shrub with flowers that range from yellow to red to brown. It grows to 4-10 feet tall, and it’s foliage is densely packed in clusters of 3-5 leaflets. It’s fragrant red blooms have a distinct smell that many compare to the scent of a tropical fruit. This plant prefers partially shaded areas, making it an ideal choice for planting in outdoor areas with some sunlight. In addition to its sweet smelling blooms, the Carolina allspice is also drought tolerant and low maintenance, making ideal for busy landscapes.",
+  "default_image": {
+    "license": 9,
+    "license_name": "Public Domain Dedication (CC0)",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/1518_calycanthus_venus/og/52950239990_e06992052d_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1518_calycanthus_venus/regular/52950239990_e06992052d_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1518_calycanthus_venus/medium/52950239990_e06992052d_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1518_calycanthus_venus/small/52950239990_e06992052d_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1518_calycanthus_venus/thumbnail/52950239990_e06992052d_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

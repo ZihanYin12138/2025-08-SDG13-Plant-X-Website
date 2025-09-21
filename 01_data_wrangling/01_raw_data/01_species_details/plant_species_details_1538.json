@@ -1,0 +1,148 @@
+{
+  "id": 1538,
+  "common_name": "camellia",
+  "scientific_name": [
+    "Camellia sasanqua"
+  ],
+  "other_name": [],
+  "family": "Theaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "sasanqua",
+  "genus": "Camellia",
+  "origin": [
+    "Japan"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 6,
+      "max_value": 10,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "7",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1538&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1538&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "pink"
+      ]
+    },
+    {
+      "part": "stamens",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green",
+        "dark-green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    " Part sun/part shade",
+    " Sheltered"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1538&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Acidic",
+    " Well-drained"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Anthracnose",
+    " Canker",
+    "sap rot",
+    " Dieback",
+    " Mites",
+    " Root rot",
+    "  Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Autumn",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Camellia sasanqua is an amazing plant species that offers both beauty and hardiness. It blooms in a variety of colors from white, pink, and red, which can provide a stunning backdrop for any garden. It prefers full sun or partial shade, making this highly adaptable to any environment. These evergreen shrubs are relatively low maintenance and drought-resistant, requiring no pruning unless desired. With its stunning blooms, this plant is sure to add color and life to any garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1538_camellia_sasanqua/og/50783612473_142e1c9d26_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1538_camellia_sasanqua/regular/50783612473_142e1c9d26_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1538_camellia_sasanqua/medium/50783612473_142e1c9d26_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1538_camellia_sasanqua/small/50783612473_142e1c9d26_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1538_camellia_sasanqua/thumbnail/50783612473_142e1c9d26_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

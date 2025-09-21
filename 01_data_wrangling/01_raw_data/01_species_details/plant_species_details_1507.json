@@ -1,0 +1,163 @@
+{
+  "id": 1507,
+  "common_name": "Scotch heather",
+  "scientific_name": [
+    "Calluna vulgaris 'Spring Torch'"
+  ],
+  "other_name": [],
+  "family": "Ericaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Spring Torch",
+  "variety": null,
+  "species_epithet": "vulgaris",
+  "genus": "Calluna",
+  "origin": [
+    "Northern North America",
+    "northern Eurasia"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 2,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1507&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1507&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "anthers",
+      "color": [
+        "orange",
+        "brown"
+      ]
+    },
+    {
+      "part": "fronds",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stalks",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "August",
+    "May"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1507&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Acidic",
+    " Rocky ",
+    " gravelly ",
+    " dry",
+    " Well-drained"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Mites",
+    " Root rot",
+    "  Pest resistant",
+    " Deer resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Scotch Heather (Calluna Vulgaris 'Spring Torch') is an amazing plant to have in any garden. It features delicate clusters of bright pink flowers that bloom in early spring, closely followed by deep green foliage. In the summer the foliage turns to a bright bronze colour and remains that way through winter. It's low growing, and makes a great choice for containers, rock or gravel gardens and even as a ground cover. Its low water needs make it an ideal choice for a xeriscape or low water garden. The drought tolerant foliage and seemingly eternal colour makes it a great choice for any garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1507_calluna_vulgaris_spring_torch/og/51961847247_65e0c7b6e7_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1507_calluna_vulgaris_spring_torch/regular/51961847247_65e0c7b6e7_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1507_calluna_vulgaris_spring_torch/medium/51961847247_65e0c7b6e7_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1507_calluna_vulgaris_spring_torch/small/51961847247_65e0c7b6e7_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1507_calluna_vulgaris_spring_torch/thumbnail/51961847247_65e0c7b6e7_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

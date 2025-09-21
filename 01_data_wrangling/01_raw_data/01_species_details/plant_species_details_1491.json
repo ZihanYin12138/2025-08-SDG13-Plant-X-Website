@@ -1,0 +1,135 @@
+{
+  "id": 1491,
+  "common_name": "black wattle",
+  "scientific_name": [
+    "Callicoma serratifolia"
+  ],
+  "other_name": [],
+  "family": "Cunoniaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "serratifolia",
+  "genus": "Callicoma",
+  "origin": [
+    "Australia"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 16,
+      "max_value": 40,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "9",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1491&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1491&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "dark-green",
+        "green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "brown-green"
+      ]
+    },
+    {
+      "part": "buds",
+      "color": [
+        "green-white"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "green-brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1491&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Autumn",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The black wattle (Callicoma serratifolia) is a stunning evergreen shrub native to Australia that provides an amazing array of benefits. Its eye-catching leaves have a lacy-like texture and ruffled edges and display striking bronze and purplish hues. The foliage is paired with clusters of ball-shaped, velvety blooms, making this a beautiful addition to any garden. Not only is it attractive, but it also provides a windbreak and natural habitat for wildlife. Its wood can be used for fuel, tannin, and charcoal, and its unusually high nitrogen content makes it a valuable addition to the compost pile. All in all, the black wattle makes for an amazing addition to the landscape.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1491_callicoma_serratifolia/og/6075978469_129d324aef_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1491_callicoma_serratifolia/regular/6075978469_129d324aef_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1491_callicoma_serratifolia/medium/6075978469_129d324aef_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1491_callicoma_serratifolia/small/6075978469_129d324aef_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1491_callicoma_serratifolia/thumbnail/6075978469_129d324aef_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

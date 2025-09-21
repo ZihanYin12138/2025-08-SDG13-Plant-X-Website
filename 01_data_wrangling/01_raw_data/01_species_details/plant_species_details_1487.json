@@ -1,0 +1,128 @@
+{
+  "id": 1487,
+  "common_name": "beautyberry",
+  "scientific_name": [
+    "Callicarpa dichotoma 'Shiji Murasaki' WINE SPRITZER"
+  ],
+  "other_name": [],
+  "family": "Lamiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Shiji Murasaki",
+  "variety": null,
+  "species_epithet": "dichotoma",
+  "genus": "Callicarpa",
+  "origin": [
+    "Japan"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 4,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds",
+    " Butterflies"
+  ],
+  "propagation": [
+    "Stem Propagation",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1487&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1487&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "berries",
+      "color": [
+        "purple"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "maroon",
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1487&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "‘Beautyberry’ is an extraordinary plant species that never ceases to amaze with its exotic beauty. It is a low-maintenance plant that, once established, will thrive in almost any conditions. The callicarpa dichotoma 'Shiji Murasaki' WINE SPRITZER has stunning deep purple foliage, and its branches are covered in a multitude of delicate, deep purple, eye-catching berries. This combination makes the beautyberry an engaging addition to any garden. It is most-adored for its vibrant colors in autumn and winter months, making a spectacular statement all year round.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1487_callicarpa_dichotoma_shiji_murasaki_wine_spritzer/og/52312086886_59f835089c_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1487_callicarpa_dichotoma_shiji_murasaki_wine_spritzer/regular/52312086886_59f835089c_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1487_callicarpa_dichotoma_shiji_murasaki_wine_spritzer/medium/52312086886_59f835089c_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1487_callicarpa_dichotoma_shiji_murasaki_wine_spritzer/small/52312086886_59f835089c_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1487_callicarpa_dichotoma_shiji_murasaki_wine_spritzer/thumbnail/52312086886_59f835089c_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
