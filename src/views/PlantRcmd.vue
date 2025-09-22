@@ -100,7 +100,7 @@
             <template v-else>
               <RouterLink
                 v-for="p in rcmdPlants"
-                :key="p.id_type==='general' ? `g-${p.general_plant_id}` : `t-${p.threatened_plant_id}`"
+                :key="`g-${p.general_plant_id}`"
                 :to="toFor(p)"
                 style="text-decoration: none;"
               >
@@ -141,8 +141,8 @@
 import { ref, reactive, computed, onMounted, onBeforeUnmount } from 'vue'
 import 'leaflet/dist/leaflet.css'
 
-import { getRecommendations } from '@/api/plantrcmd'     // ← 使用 GET 获取推荐ID
-import { getPlantsForCardsByIds } from '@/api/plants'    // 批量按ID拿卡片信息
+import { getRecommendations } from '@/api/plantrcmd'     // GET：后端聚合天气 + 推荐 IDs
+import { getPlantsForCardsByIds } from '@/api/plants'    // 批量按 ID 取卡片信息
 import PlantCard from '@/components/PlantCard.vue'
 import PlantCardSkeleton from '@/components/CardSkeleton.vue'
 
@@ -162,7 +162,7 @@ const latInput = ref('')
 const lngInput = ref('')
 const inputError = ref('')
 
-/* ========== KPI（Open-Meteo 六项聚合指标） ========== */
+/* ========== KPI：直接使用后端 aggregated_weather ========== */
 const metrics = reactive({
   extreme_max_temp: null,
   extreme_min_temp: null,
@@ -184,31 +184,6 @@ const kpiList = [
   { key: 'avg_relative_humidity',   label: 'Avg Rel. Humidity', format: v => v==null?'—':`${v.toFixed(0)}%` },
 ]
 
-/* —— Open-Meteo：拉 16 天并计算聚合 —— */
-async function fetchWeatherMetrics(lat, lng){
-  const url = `https://api.open-meteo.com/v1/forecast?latitude=${encodeURIComponent(lat)}&longitude=${encodeURIComponent(lng)}&daily=precipitation_sum,sunshine_duration,uv_index_max,temperature_2m_max,temperature_2m_min,relative_humidity_2m_mean&timezone=auto&forecast_days=16`
-  const res = await fetch(url)
-  if (!res.ok) throw new Error(`Open-Meteo failed: ${res.status}`)
-  const data = await res.json()
-
-  const d = (data && data.daily) || {}
-  const arr = k => Array.isArray(d[k]) ? d[k].map(Number).filter(n=>Number.isFinite(n)) : []
-
-  const tmax = arr('temperature_2m_max')
-  const tmin = arr('temperature_2m_min')
-  const sunshine = arr('sunshine_duration')        // 秒
-  const uvmax = arr('uv_index_max')
-  const precip = arr('precipitation_sum')          // mm
-  const rhmean = arr('relative_humidity_2m_mean')  // %
-
-  metrics.extreme_max_temp        = tmax.length ? Math.max(...tmax) : null
-  metrics.extreme_min_temp        = tmin.length ? Math.min(...tmin) : null
-  metrics.avg_sunshine_duration   = sunshine.length ? (sunshine.reduce((a,b)=>a+b,0)/sunshine.length)/3600 : null
-  metrics.avg_max_uv_index        = uvmax.length ? (uvmax.reduce((a,b)=>a+b,0)/uvmax.length) : null
-  metrics.avg_daily_precipitation = precip.length ? (precip.reduce((a,b)=>a+b,0)/precip.length) : null
-  metrics.avg_relative_humidity   = rhmean.length ? (rhmean.reduce((a,b)=>a+b,0)/rhmean.length) : null
-}
-
 /* ====== 推荐卡片（与 PlantSearch 卡一致） ====== */
 const PAGE_SIZE = 8
 const rcmdIds = ref([])            // 后端返回的推荐ID全集
@@ -226,6 +201,10 @@ const totalPages = computed(() => Math.max(1, Math.ceil(total.value / PAGE_SIZE)
 const startIndex = computed(() => total.value ? (page.value - 1) * PAGE_SIZE + 1 : 0)
 const endIndex   = computed(() => total.value ? Math.min(total.value, page.value * PAGE_SIZE) : 0)
 
+/* 小工具：安全转数字 */
+function toNum(x){ const n = Number(x); return Number.isFinite(n) ? n : null }
+
+/* 详情路由定位（带 from=rcmd，便于 PlantDetail 返回推荐页） */
 function toFor(p){
   return {
     name: 'PlantDetail',
@@ -281,7 +260,7 @@ function goToPage(p){
 function nextPage(){ goToPage(page.value + 1) }
 function prevPage(){ goToPage(page.value - 1) }
 
-/* —— 刷新：并行请求天气 + 推荐ID → 再加载卡片 —— */
+/* —— 刷新：后端一次性返回聚合天气 + 推荐ID → 再加载卡片 —— */
 async function refresh(){
   if (!point.value) return
   kpiLoading.value = true
@@ -290,13 +269,24 @@ async function refresh(){
   cardsError.value = ''
 
   try{
-    // 1) 天气
-    await fetchWeatherMetrics(point.value.lat, point.value.lng)
-
-    // 2) 后端推荐ID（GET）
     const { lat, lng } = point.value
     const bundle = await getRecommendations(lat, lng)
 
+    // KPI
+    const w =
+      bundle?.aggregated_weather ||
+      bundle?.weather ||
+      bundle?.metrics ||
+      bundle?.kpi ||
+      {}
+    metrics.extreme_min_temp        = toNum(w.extreme_min_temp ?? w.min_temp_c)
+    metrics.extreme_max_temp        = toNum(w.extreme_max_temp ?? w.max_temp_c)
+    metrics.avg_sunshine_duration   = toNum(w.avg_sunshine_duration ?? w.sun_hours_avg)
+    metrics.avg_max_uv_index        = toNum(w.avg_max_uv_index ?? w.uv_index_max ?? w.uv_max ?? w.avg_uv_index)
+    metrics.avg_daily_precipitation = toNum(w.avg_daily_precipitation ?? w.total_rain_mm ?? w.rain_avg_mm)
+    metrics.avg_relative_humidity   = toNum(w.avg_relative_humidity ?? w.humidity_avg)
+
+    // IDs
     const ids =
       (Array.isArray(bundle?.recommended_plant_ids) && bundle.recommended_plant_ids) ||
       (Array.isArray(bundle?.recommended_ids) && bundle.recommended_ids) ||
@@ -304,6 +294,8 @@ async function refresh(){
       (Array.isArray(bundle?.ids) && bundle.ids) || []
 
     rcmdIds.value = ids.map(n => Number(n)).filter(n => Number.isFinite(n) && n > 0)
+    total.value   = Number(bundle?.total_recommendations ?? rcmdIds.value.length)
+
     page.value = 1
     pageInput.value = 1
     await loadCards()
@@ -492,7 +484,7 @@ function setMarker(lat, lng){
 .kpi-value{ font-weight: 700; }
 .kpi-label{ margin-top: 6px; color: var(--muted); }
 
-/* ====== 新增的卡片区样式（与 PlantSearch 保持一致） ====== */
+/* ====== 卡片区样式（与 PlantSearch 保持一致） ====== */
 .list-toolbar{ display:flex; align-items:center; justify-content:space-between; gap:.75rem; margin: .5rem 0 1rem; }
 .list-toolbar.bottom{ margin-top: 1rem; justify-content: center; }
 .results-meta{ color: var(--muted); }
