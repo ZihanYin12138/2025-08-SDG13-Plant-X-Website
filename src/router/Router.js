@@ -1,3 +1,4 @@
+// src/router/index.js
 import { createRouter, createWebHistory } from 'vue-router'
 
 const routes = [
@@ -13,12 +14,22 @@ const routes = [
     component: () => import('../views/GardenPage.vue'),
     meta: { title: "Garden · Plant'X" }
   },
-  // 直接重定向到带锚点的 Garden
   {
     path: '/disease',
     name: 'DiseaseSearch',
     redirect: { name: 'Garden', hash: '#diseases' },
     meta: { title: "Diseases · Plant'X" }
+  },
+  { path: '/diseases',     redirect: { name: 'Garden', hash: '#diseases' } },
+  { path: '/plants',       redirect: { name: 'Garden', hash: '#plantsearch' } },
+  { path: '/plantsearch',  redirect: { name: 'Garden', hash: '#plantsearch' } },
+  { path: '/rcmd',         redirect: { name: 'Garden', hash: '#plantrcmd' } },
+
+  {
+    path: '/plantrcmd',
+    name: 'PlantRcmd',
+    component: () => import('../views/PlantRcmd.vue'),
+    meta: { title: "Plant Recommendation · Plant'X" }
   },
   {
     path: '/urbanwild',
@@ -54,39 +65,46 @@ const routes = [
   }
 ]
 
-const HEADER_OFFSET = 15;
+const HEADER_OFFSET = 15
+
+function normalizeHash(hash) {
+  const h = (hash || '').toLowerCase()
+  const map = {
+    '#plants': '#plantsearch',
+    '#plant': '#plantsearch',
+    '#rcmd': '#plantrcmd',
+    '#disease': '#diseases'
+  }
+  return map[h] || h
+}
 
 function scrollToHash(hash) {
-  const el = document.querySelector(hash);
-  if (!el) return false;
-
-  const rect = el.getBoundingClientRect();
-  const absoluteTop = rect.top + window.scrollY - HEADER_OFFSET;
-  window.scrollTo({ top: absoluteTop, left: 0, behavior: 'smooth' });
-  return true;
+  const el = document.querySelector(hash)
+  if (!el) return false
+  const rect = el.getBoundingClientRect()
+  const absoluteTop = rect.top + window.scrollY - HEADER_OFFSET
+  window.scrollTo({ top: absoluteTop, left: 0, behavior: 'smooth' })
+  return true
 }
 
 const router = createRouter({
   history: createWebHistory(),
   routes,
   async scrollBehavior(to, from, savedPosition) {
-    if (savedPosition) return savedPosition;
+    if (savedPosition) return savedPosition
 
     if (to.hash) {
-      // 最多等 1s，每 50ms 检查一次目标是否出现
+      const targetHash = normalizeHash(to.hash)
       for (let i = 0; i < 20; i++) {
-        await new Promise(r => setTimeout(r, 50));
-        if (scrollToHash(to.hash)) return false; // 我们自己滚动了
+        await new Promise(r => setTimeout(r, 50))
+        if (scrollToHash(targetHash)) return false
       }
-      // 兜底
-      return { left: 0, top: 0 };
+      return { left: 0, top: 0 }
     }
 
-    return { left: 0, top: 0 };
+    return { left: 0, top: 0 }
   }
 })
-
-
 
 router.afterEach((to) => {
   document.title = (to.meta && to.meta.title) || "Plant'X"

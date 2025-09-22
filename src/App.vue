@@ -19,8 +19,8 @@ import ThemeToggle from './components/ThemeToggle.vue'
       <nav style="margin-left:auto;display:flex;gap:.99rem;font-size:larger;">
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/garden">Garden</RouterLink>
-        <!-- <RouterLink to="/urbanwild">Urban & Wild</RouterLink>
-        <RouterLink to="/community">Community</RouterLink> -->
+        <RouterLink to="/urbanwild">Urban & Wild</RouterLink>
+        <!-- <RouterLink to="/community">Community</RouterLink> -->
       </nav>
 
       <ThemeToggle />
@@ -30,7 +30,6 @@ import ThemeToggle from './components/ThemeToggle.vue'
   <main class="container" style="padding:1.25rem 1rem;">
     <RouterView v-slot="{ Component, route }">
       <Transition name="page" mode="out-in">
-        <!-- ✅ 统一包一层元素，保证可动画的是“单一元素根节点” -->
         <div class="route-shell" :key="route.fullPath">
           <component :is="Component" />
         </div>
@@ -47,7 +46,6 @@ import ThemeToggle from './components/ThemeToggle.vue'
 </template>
 
 <style scoped>
-/* 过渡动画（可按需调整时长/缓动） */
 .page-enter-active,
 .page-leave-active {
   transition: opacity 0.2s ease, transform 0.2s ease;
@@ -58,13 +56,14 @@ import ThemeToggle from './components/ThemeToggle.vue'
   transform: translateY(6px);
 }
 
-/* 让 shell 作为路由页的单一根节点容器 */
+
 .route-shell {
   display: block;
 }
 
-/* 可选：为当前激活的路由添加下划线/高亮（如果使用了 RouterLink 的 active-class 可移除） */
+
 a.router-link-active {
   text-decoration: underline;
 }
+
 </style>
