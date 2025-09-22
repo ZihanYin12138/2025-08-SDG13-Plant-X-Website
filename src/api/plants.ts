@@ -242,7 +242,7 @@ export async function getPlantsForCardsByIds(ids: number[]): Promise<PlantCardSi
   return details
     .filter((d): d is PlantDetail => !!d)
     .map(d => {
-      const cover = Array.isArray(d.image_urls) && d.image_urls.length ? d.image_urls[0] : ''
+      const cover = Array.isArray(d.image_urls) && d.image_urls.length ? d.image_urls[1] : ''
       return {
         general_plant_id: d.general_plant_id,
         common_name: d.common_name,
