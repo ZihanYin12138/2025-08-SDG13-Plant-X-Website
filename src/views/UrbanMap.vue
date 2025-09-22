@@ -84,15 +84,16 @@
         </div>
 
         <!-- 阻断滚轮向地图冒泡，确保侧栏可用滚轮下滑 -->
-        <div class="trees-list" @wheel.stop @touchmove.stop>
+        <div class="trees-list" @wheel.stop @touchmove.stop ref="treesListEl">
           <div
             v-for="tree in trees"
             :key="tree.com_id"
             class="tree-card"
             :class="{ active: selectedTreeId === tree.com_id }"
-            @click="selectTree(tree)"
+            @click="selectTree(tree, 'card')"
             @mouseenter="hoverTree(tree)"
             @mouseleave="unhoverTree(tree)"
+            :ref="el => setCardRef(el, tree.com_id)"
           >
             <div class="tree-info">
               <h4>{{ tree.common_name || 'Unknown Tree' }}</h4>
@@ -155,6 +156,7 @@ export default {
     const circleLayer = ref(null)
     const centerMarkerRef = ref(null)
     const sidebarEl = ref(null)
+    const treesListEl = ref(null)
 
     // 读取 :root CSS 变量（支持暗/亮主题切换）
     function cssVar(name, fallback = '') {
@@ -186,19 +188,20 @@ export default {
       'Unknown': '#777777'
     }
 
-    // 用于直接定位 marker 的索引表：com_id -> marker
-    const markerIndex = ref(new Map())
-    const pulseLayer = ref(null) // 临时脉冲圈
+    // 索引
+    const markerIndex = ref(new Map())        // com_id -> marker
+    const cardRefs = ref(Object.create(null)) // com_id -> card element
+    const pulseLayer = ref(null)              // 临时脉冲圈
 
-    function clearError() {
-      searchError.value = ''
+    // 供 v-for 回调 ref 使用
+    function setCardRef(el, id) {
+      const key = String(id)
+      if (el) cardRefs.value[key] = el
+      else delete cardRefs.value[key]
     }
 
-    function clearAll() {
-      searchQuery.value = ''
-      searchError.value = ''
-      searchType.value = ''
-    }
+    function clearError() { searchError.value = '' }
+    function clearAll() { searchQuery.value = ''; searchError.value = ''; searchType.value = '' }
 
     function parseCoordinates(input) {
       if (!input || typeof input !== 'string') return null
@@ -226,9 +229,7 @@ export default {
       armOverlayEventGuards()
     })
 
-    onUnmounted(() => {
-      if (map.value) map.value.remove()
-    })
+    onUnmounted(() => { if (map.value) map.value.remove() })
 
     function initMap() {
       if (!mapContainer.value) return
@@ -327,8 +328,8 @@ export default {
       loading.value = true
       trees.value = []
       selectedTreeId.value = ''
-      markerIndex.value.clear()        // 重建索引
-      markers.value?.clearLayers()     // 清空旧 marker
+      markerIndex.value.clear()
+      markers.value?.clearLayers()
 
       try {
         const coordinates = parseCoordinates(searchQuery.value)
@@ -395,13 +396,11 @@ export default {
           fillOpacity: 0.9
         })
 
-        // 点击 marker 同步选中卡片
-        marker.on('click', () => selectTree(tree))
+        // 点击 marker：偏移避开侧栏 + 滚动侧栏卡片居中
+        marker.on('click', () => selectTree(tree, 'marker'))
 
-        // hover 效果
         marker.on('mouseover', () => marker.setStyle({ weight: 4 }))
         marker.on('mouseout',  () => {
-          // 若不是已选中，再回到常态
           if (selectedTreeId.value !== tree.com_id) marker.setStyle({ weight: 2 })
         })
 
@@ -418,48 +417,62 @@ export default {
         marker.bindPopup(popupContent)
 
         markers.value.addLayer(marker)
-        // 建立索引：com_id -> marker
-        if (tree.com_id != null) {
-          markerIndex.value.set(String(tree.com_id), marker)
-        }
+        if (tree.com_id != null) markerIndex.value.set(String(tree.com_id), marker)
       })
     }
 
-    // 视图偏移：让选中点避开右侧侧栏
+    // 视图偏移：让选中点避开右侧侧栏（用于 marker 点击）
     function panToWithSidebarOffset(latlng) {
       const m = map.value
       if (!m) return
       const zoom = Math.max(m.getZoom(), 18)
       const p = m.project(latlng, zoom)
       const sidebarWidth = (sidebarEl.value?.offsetWidth || 260)
-      // 右侧侧栏：将目标点向左偏移侧栏宽度的一半再加点留白
       const offsetX = -(sidebarWidth / 2 + 30)
       const pOffset = L.point(p.x + offsetX, p.y)
       m.setView(m.unproject(pOffset, zoom), zoom, { animate: true })
+    }
+
+    // 视图居中（用于卡片点击）
+    function panToCenter(latlng) {
+      const m = map.value
+      if (!m) return
+      const zoom = Math.max(m.getZoom(), 18)
+      m.setView(latlng, zoom, { animate: true })
+    }
+
+    // 将对应卡片滚动到侧栏中间（仅 marker 点击时使用）
+    function scrollCardIntoView(comId) {
+      const el = cardRefs.value[String(comId)]
+      if (!el) return
+      if (el.scrollIntoView) {
+        el.scrollIntoView({ block: 'center', inline: 'nearest', behavior: 'smooth' })
+        return
+      }
+      const list = treesListEl.value
+      if (!list) return
+      const listRect = list.getBoundingClientRect()
+      const elRect = el.getBoundingClientRect()
+      const delta = (elRect.top - listRect.top) - (list.clientHeight / 2 - el.clientHeight / 2)
+      list.scrollBy({ top: delta, behavior: 'smooth' })
     }
 
     // 高亮 marker + 打开 popup + 轻量脉冲
     function highlightMarker(marker, latlng) {
       const brand = cssVar('--brand', '#2cb67d')
 
-      // 先恢复所有 marker 的常态
       markers.value?.eachLayer((layer) => {
-        if (layer instanceof L.CircleMarker) {
-          layer.setStyle({ weight: 2 })
-        }
+        if (layer instanceof L.CircleMarker) layer.setStyle({ weight: 2 })
       })
 
-      // 再高亮选中的
       marker.setStyle({ weight: 5, color: brand, fillColor: brand })
       marker.bringToFront()
       marker.openPopup()
 
-      // 清除旧的脉冲
       if (pulseLayer.value) {
         map.value?.removeLayer(pulseLayer.value)
         pulseLayer.value = null
       }
-      // 创建一个短暂的脉冲圈
       pulseLayer.value = L.circle(latlng, {
         radius: 18,
         color: brand,
@@ -476,16 +489,23 @@ export default {
       }, 900)
     }
 
-    function selectTree(tree) {
+    async function selectTree(tree, source = 'card') {
       selectedTreeId.value = tree.com_id
       const marker = markerIndex.value.get(String(tree.com_id))
       const latlng = L.latLng(tree.latitude, tree.longitude)
 
       if (marker) {
         highlightMarker(marker, latlng)
-        panToWithSidebarOffset(latlng)
+        if (source === 'marker') {
+          panToWithSidebarOffset(latlng)
+          await nextTick()
+          scrollCardIntoView(tree.com_id)  // 仅 marker 点击时滚动侧栏
+        } else {
+          panToCenter(latlng)              // 卡片点击：让 Popup 到地图正中
+          // 不滚动侧栏
+        }
       } else {
-        // 兜底：老逻辑（极少数没有 com_id 的情况）
+        // 兜底：无索引时按经纬度匹配
         markers.value?.eachLayer((layer) => {
           if (layer instanceof L.CircleMarker) {
             const ll = layer.getLatLng()
@@ -496,11 +516,16 @@ export default {
             }
           }
         })
-        map.value?.setView(latlng, Math.max(map.value.getZoom(), 18))
+        if (source === 'marker') {
+          panToWithSidebarOffset(latlng)
+          await nextTick()
+          scrollCardIntoView(tree.com_id)
+        } else {
+          panToCenter(latlng)
+        }
       }
     }
 
-    // 卡片 Hover：给对应 marker 轻量加粗
     function hoverTree(tree) {
       const marker = markerIndex.value.get(String(tree.com_id))
       if (marker && selectedTreeId.value !== tree.com_id) marker.setStyle({ weight: 4 })
@@ -575,9 +600,11 @@ export default {
       clearAll,
       useMyLocation,
       sidebarEl,
+      treesListEl,
       selectTree,
       hoverTree,
-      unhoverTree
+      unhoverTree,
+      setCardRef
     }
   }
 }
@@ -618,7 +645,7 @@ export default {
   display: flex;
   gap: 8px;
   align-items: center;
-  min-width: 320px;
+  min-width: 300px;
   flex: 1;
 }
 
@@ -632,7 +659,7 @@ export default {
   color: var(--fg);
   transition: border-color .2s, box-shadow .2s;
   outline: none;
-  max-width: 600px;
+  max-width: 500px;
 }
 .search-input:focus-visible { outline: var(--ring); outline-offset: 2px; }
 .search-input.error {
@@ -670,7 +697,7 @@ export default {
 
 .radius-control { display: flex; flex-direction: column; gap: 6px; }
 .radius-control label { font-size: 12px; color: var(--muted); }
-.radius-control.compact { min-width: 250px; }
+.radius-control.compact { min-width: 270px; }
 .radius-slider { width: 100%; accent-color: var(--brand); }
 
 .geo-btn {
@@ -825,4 +852,44 @@ export default {
 :deep(.tree-popup) { min-width: 200px; background: var(--card); color: var(--fg); }
 :deep(.tree-popup h4) { margin: 0 0 8px 0; color: var(--fg); }
 :deep(.tree-popup p) { margin: 4px 0; font-size: 12px; color: var(--muted); }
+
+
+
+:deep(.leaflet-popup-content-wrapper) {
+  background: var(--card);
+  color: var(--fg);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-md);
+  border-radius: 10px;
+}
+
+:deep(.leaflet-popup-content) {
+  margin: 10px 12px;
+  color: var(--fg);
+}
+
+:deep(.leaflet-popup-tip) {
+  background: var(--card);
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--border);
+}
+
+:deep(.leaflet-container a.leaflet-popup-close-button) {
+  color: var(--muted);
+  font-weight: 600;
+}
+:deep(.leaflet-container a.leaflet-popup-close-button:hover) {
+  color: var(--fg);
+  background: var(--hover);
+  border-radius: 6px;
+}
+:deep(.leaflet-popup-content h1),
+:deep(.leaflet-popup-content h2),
+:deep(.leaflet-popup-content h3),
+:deep(.leaflet-popup-content h4) { color: var(--fg); margin-top: 0; }
+:deep(.leaflet-popup-content p),
+:deep(.leaflet-popup-content li),
+:deep(.leaflet-popup-content span) { color: var(--fg); }
+:deep(.leaflet-popup-content a) { color: var(--brand-strong); text-decoration: none; }
+:deep(.leaflet-popup-content a:hover) { text-decoration: underline; }
 </style>

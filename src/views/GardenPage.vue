@@ -121,13 +121,13 @@ const thumbStyle = computed(() => {
   border: 1.5px solid var(--border);
   background: var(--card);
   box-shadow: var(--shadow-sm);
-  overflow: hidden; /* 让滑块圆角生效 */
+  overflow: hidden;
 }
 .seg-item{
   position: relative;
-  z-index: 1; /* 让文字在滑块之上 */
+  z-index: 1;
   height: 44px;
-  border: 0;
+  border: 1px solid var(--border);
   background: transparent;
   color: var(--fg);
   cursor: pointer;
