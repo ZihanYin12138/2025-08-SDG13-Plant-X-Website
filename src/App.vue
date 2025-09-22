@@ -21,7 +21,7 @@ function submit () {
     sessionStorage.setItem('gate:ok', '1')
     checkUnlocked()
   } else {
-    err.value = '密码不正确'
+    err.value = 'Wrong Password'
   }
 }
 function lock () {
