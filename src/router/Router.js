@@ -15,23 +15,6 @@ const routes = [
     meta: { title: "Garden · Plant'X" }
   },
   {
-    path: '/disease',
-    name: 'DiseaseSearch',
-    redirect: { name: 'Garden', hash: '#diseases' },
-    meta: { title: "Diseases · Plant'X" }
-  },
-  { path: '/diseases',     redirect: { name: 'Garden', hash: '#diseases' } },
-  { path: '/plants',       redirect: { name: 'Garden', hash: '#plantsearch' } },
-  { path: '/plantsearch',  redirect: { name: 'Garden', hash: '#plantsearch' } },
-  { path: '/rcmd',         redirect: { name: 'Garden', hash: '#plantrcmd' } },
-
-  {
-    path: '/plantrcmd',
-    name: 'PlantRcmd',
-    component: () => import('../views/PlantRcmd.vue'),
-    meta: { title: "Plant Recommendation · Plant'X" }
-  },
-  {
     path: '/urbanwild',
     name: 'UrbanWild',
     component: () => import('../views/UrbanWild.vue'),
@@ -62,46 +45,14 @@ const routes = [
     component: () => import('../views/DiseaseDetail.vue'),
     props: true,
     meta: { title: "Disease Detail · Plant'X" }
-  },
-]
-
-const HEADER_OFFSET = 15
-
-function normalizeHash(hash) {
-  const h = (hash || '').toLowerCase()
-  const map = {
-    '#plants': '#plantsearch',
-    '#plant': '#plantsearch',
-    '#rcmd': '#plantrcmd',
-    '#disease': '#diseases'
   }
-  return map[h] || h
-}
-
-function scrollToHash(hash) {
-  const el = document.querySelector(hash)
-  if (!el) return false
-  const rect = el.getBoundingClientRect()
-  const absoluteTop = rect.top + window.scrollY - HEADER_OFFSET
-  window.scrollTo({ top: absoluteTop, left: 0, behavior: 'smooth' })
-  return true
-}
+]
 
 const router = createRouter({
   history: createWebHistory(),
   routes,
-  async scrollBehavior(to, from, savedPosition) {
+  scrollBehavior(to, from, savedPosition) {
     if (savedPosition) return savedPosition
-
-    if (to.hash) {
-      const targetHash = normalizeHash(to.hash)
-      for (let i = 0; i < 20; i++) {
-        await new Promise(r => setTimeout(r, 50))
-        if (scrollToHash(targetHash)) return false
-      }
-      return { left: 0, top: 0 }
-    }
-
     return { left: 0, top: 0 }
   }
 })

@@ -1,7 +1,7 @@
 <script>
 import { ref, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
-import UrbanMap from '@/components/UrbanMap.vue'
+import UrbanMap from '@/views/UrbanMap.vue'
 
 export default {
   name: 'UrbanWild',
@@ -14,14 +14,14 @@ export default {
 
     const testResults = ref('')
     const isTesting = ref(false)
-    
+
     // Coordinate debug data
     const clickCoords = ref({
       lat: null,
       lon: null,
       time: null
     })
-    
+
     const apiResponse = ref({
       center: null,
       total: 0,
@@ -33,7 +33,7 @@ export default {
     async function testGET() {
       isTesting.value = true
       testResults.value = 'Testing GET request...\n'
-      
+
       try {
         const response = await fetch('https://ky21h193r2.execute-api.us-east-1.amazonaws.com/test/TreeLocator?com_id=1049657', {
           method: 'GET',
@@ -41,7 +41,7 @@ export default {
             'Accept': 'application/json'
           }
         })
-        
+
         const data = await response.json()
         testResults.value += `GET request successful!\nStatus code: ${response.status}\nResponse: ${JSON.stringify(data, null, 2)}\n\n`
       } catch (error) {
@@ -54,7 +54,7 @@ export default {
     async function testPOST() {
       isTesting.value = true
       testResults.value += 'Testing POST request...\n'
-      
+
       try {
         const response = await fetch('https://ky21h193r2.execute-api.us-east-1.amazonaws.com/test/TreeLocator', {
           method: 'POST',
@@ -69,7 +69,7 @@ export default {
             search: "eucalyptus"
           })
         })
-        
+
         const data = await response.json()
         testResults.value += `POST request successful!\nStatus code: ${response.status}\nResponse: ${JSON.stringify(data, null, 2)}\n\n`
       } catch (error) {
@@ -82,7 +82,7 @@ export default {
     async function testOPTIONS() {
       isTesting.value = true
       testResults.value += 'Testing OPTIONS request...\n'
-      
+
       try {
         const response = await fetch('https://ky21h193r2.execute-api.us-east-1.amazonaws.com/test/TreeLocator', {
           method: 'OPTIONS',
@@ -91,12 +91,12 @@ export default {
             'Access-Control-Request-Headers': 'Content-Type'
           }
         })
-        
+
         const headers = {}
         response.headers.forEach((value, key) => {
           headers[key] = value
         })
-        
+
         testResults.value += `OPTIONS request successful!\nStatus code: ${response.status}\nCORS headers: ${JSON.stringify(headers, null, 2)}\n\n`
       } catch (error) {
         testResults.value += `OPTIONS request failed: ${error.message}\n\n`
@@ -157,80 +157,28 @@ export default {
     <div class="container">
       <h2 class="title">Urban & Wild</h2>
       <p class="lead">Explore native and resilient species in urban and wild landscapes, supporting biodiversity and climate resilience.</p>
-      <p style="color: #28a745; font-weight: bold;">✅ Page loaded successfully! If you see this message, routing is working properly.</p>
-      <p style="color: #007bff; font-weight: bold;">🔧 Debug info: Current URL = {{ $route.fullPath }}</p>
-      <button @click="testNavigation" style="background: #007bff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; margin: 10px 0;">
-        Test Navigation
-      </button>
-      
-      <!-- Coordinate Debug Info -->
-      <div class="coords-debug-container">
-        <div>
-          <h3>📍 Click Coordinates</h3>
-          <div class="coords-info">
-            <div><strong>Latitude:</strong> {{ clickCoords.lat || 'Not clicked' }}</div>
-            <div><strong>Longitude:</strong> {{ clickCoords.lon || 'Not clicked' }}</div>
-            <div><strong>Time:</strong> {{ clickCoords.time || 'Not clicked' }}</div>
-          </div>
-        </div>
-        
-        <div>
-          <h3>🌳 API Response Coordinates</h3>
-          <div class="coords-info">
-            <div><strong>Search Center:</strong> {{ apiResponse.center ? `${apiResponse.center.lat}, ${apiResponse.center.lon}` : 'No data' }}</div>
-            <div><strong>Search Radius:</strong> {{ apiResponse.center ? `${apiResponse.center.radius}m` : 'No data' }}</div>
-            <div><strong>Plants Found:</strong> {{ apiResponse.total || 0 }} trees</div>
-            <div><strong>Last Updated:</strong> {{ apiResponse.time || 'No data' }}</div>
-          </div>
-        </div>
+
+  <hr class="divider-red" aria-hidden="true" />
       </div>
-    </div>
-  </section>
+      </section>
 
 
-  <!-- API Testing Area -->
-  <section class="container">
-    <div class="section-box">
-      <h2>API Testing Tool</h2>
-      <p>Test TreeLocator API GET, POST and OPTIONS requests to verify CORS configuration.</p>
-      
-      <div class="test-controls">
-        <div class="test-buttons">
-          <button @click="testGET" :disabled="isTesting" class="test-btn get-btn">
-            {{ isTesting ? 'Testing...' : 'Test GET Request' }}
-          </button>
-          <button @click="testPOST" :disabled="isTesting" class="test-btn post-btn">
-            {{ isTesting ? 'Testing...' : 'Test POST Request' }}
-          </button>
-          <button @click="testOPTIONS" :disabled="isTesting" class="test-btn options-btn">
-            {{ isTesting ? 'Testing...' : 'Test OPTIONS Request' }}
-          </button>
-          <button @click="clearResults" class="test-btn clear-btn">
-            Clear Results
-          </button>
-        </div>
-        
-        <div class="test-results" v-if="testResults">
-          <h3>Test Results:</h3>
-          <pre class="results-text">{{ testResults }}</pre>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- Map Component -->
   <section class="container">
     <div class="section-box">
       <h2>Tree Distribution Map</h2>
       <p>Click anywhere on the map or use the search function to explore trees in that area.</p>
-      
-      <UrbanMap 
-        ref="mapRef" 
+
+      <UrbanMap
+        ref="mapRef"
         @map-click="handleMapClick"
         @api-response="handleApiResponse"
       />
     </div>
   </section>
+
+
 </template>
 
 <style scoped>
@@ -395,14 +343,22 @@ export default {
   .test-buttons {
     flex-direction: column;
   }
-  
+
   .test-btn {
     width: 100%;
   }
-  
+
   .coords-debug-container {
     grid-template-columns: 1fr;
     gap: 15px;
   }
+}
+
+
+.divider-red {
+  border: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #ff3b3b, #ff9a3b);
+  margin: 0;
 }
 </style>

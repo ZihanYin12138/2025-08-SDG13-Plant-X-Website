@@ -135,7 +135,7 @@ const chemicalTreatText = computed(() => {
 
 /** 返回列表（回到 Garden 的 diseases 区域） */
 function backToList() {
-  router.push({ name: 'Garden', hash: '#diseases' })
+  router.push({ name: 'Garden', query: { tab: 'disease' } })
 }
 
 /** 加载详情 */
@@ -160,7 +160,7 @@ onMounted(async () => {
   <section class="section container">
     <!-- 面包屑 -->
     <nav class="breadcrumb" aria-label="Breadcrumb">
-      <RouterLink class="breadcrumb__link" :to="{ name: 'Garden', hash: '#diseases' }">Diseases</RouterLink>
+      <RouterLink class="breadcrumb__link" :to="{ name: 'Garden', query: { tab: 'disease' } }">Diseases</RouterLink>
       <span class="breadcrumb__sep">›</span>
       <span class="breadcrumb__current">{{ displayName || '...' }}</span>
     </nav>

@@ -15,17 +15,38 @@
         <!-- 滑块 -->
         <div class="seg-thumb" :style="thumbStyle" aria-hidden="true"></div>
 
-        <button role="tab" :aria-selected="active==='disease'" class="seg-item" @click="setActive('disease')">Disease</button>
-        <button role="tab" :aria-selected="active==='plants'"  class="seg-item" @click="setActive('plants')">Plant</button>
-        <button role="tab" :aria-selected="active==='rcmd'"    class="seg-item" @click="setActive('rcmd')">Recommend</button>
+        <button
+          role="tab"
+          :aria-selected="active==='disease'"
+          class="seg-item"
+          @click="setActive('disease')"
+        >Disease</button>
+
+        <button
+          role="tab"
+          :aria-selected="active==='plants'"
+          class="seg-item"
+          @click="setActive('plants')"
+        >Plant</button>
+
+        <button
+          role="tab"
+          :aria-selected="active==='rcmd'"
+          class="seg-item"
+          @click="setActive('rcmd')"
+        >Recommend</button>
       </div>
     </div>
   </section>
 
-  <!-- 内容区：动态组件 + 左右滑动动画 -->
+  <!-- 内容区：左右滑动动画 + 明确渲染组件 -->
   <section class="container">
     <Transition :name="transitionName" mode="out-in">
-      <component :is="currentComponent" :key="active" />
+      <div :key="active">
+        <DiseaseSearch v-if="active==='disease'" />
+        <PlantRcmd     v-else-if="active==='rcmd'" />
+        <PlantSearch   v-else />
+      </div>
     </Transition>
   </section>
 </template>
@@ -40,55 +61,47 @@ import PlantRcmd from '@/views/PlantRcmd.vue'
 const route = useRoute()
 const router = useRouter()
 
-const order = ['disease', 'plants', 'rcmd'] // 左→右顺序
-const idMap = { disease: 'diseases', plants: 'plantsearch', rcmd: 'plantrcmd' }
-const aliasToKey = {
-  '#diseases': 'disease',
-  '#disease':  'disease',     // 兼容旧别名
-  '#plantsearch': 'plants',
-  '#plants':      'plants',   // 兼容旧别名
-  '#plantrcmd':   'rcmd',
-  '#rcmd':        'rcmd'      // 兼容旧别名
-}
+/** 左→右顺序用于决定动画方向 */
+const order = ['disease', 'plants', 'rcmd']
 
+/** 当前激活的分段 */
 const active = ref('plants')
 const lastIndex = ref(order.indexOf(active.value))
 const transitionName = ref('slide-left')
 
-/** 统一的切换函数（可选择是否写回 hash，避免 watch 里循环） */
-function activate(key, { writeHash = true } = {}) {
+/** 切换核心（可选择是否把 tab 写回到 URL 的 query） */
+function activate(key, { writeQuery = true } = {}) {
   const newIdx = order.indexOf(key)
   transitionName.value = newIdx > lastIndex.value ? 'slide-left' : 'slide-right'
   lastIndex.value = newIdx
   active.value = key
 
-  if (writeHash) {
-    const hash = '#' + idMap[key]
-    if (route.hash !== hash) router.replace({ hash })
+  if (writeQuery) {
+    const nextQuery = { ...route.query, tab: key }
+    // 避免重复 replace 造成不必要的导航
+    if (String(route.query.tab || '') !== key) {
+      router.replace({ query: nextQuery })
+    }
   }
 }
 function setActive(key) {
-  activate(key, { writeHash: true })
+  if (!order.includes(key)) return
+  activate(key, { writeQuery: true })
 }
 
-/** 根据 hash 同步当前页（用于首次进入 & 之后的 hash 变化） */
-function syncFromHash(h) {
-  const key = aliasToKey[(h || '').toLowerCase()] || 'plants'
-  activate(key, { writeHash: false })
+/** 从 URL 的 ?tab= 读取并应用 */
+function applyTabFromQuery() {
+  const tab = String(route.query.tab || '').toLowerCase()
+  if (order.includes(tab)) {
+    activate(tab, { writeQuery: false }) // 外部驱动，不回写，防循环
+  }
 }
 
-/** 监听路由 hash 变化（包括 RouterLink 跳转、浏览器前进/后退等） */
-watch(() => route.hash, (h) => { syncFromHash(h) })
+/** 首次进入根据 ?tab 定位；其后监听 ?tab 变化（前进/后退等） */
+onMounted(() => { applyTabFromQuery() })
+watch(() => route.query.tab, () => { applyTabFromQuery() })
 
-/** 初次进入按 hash 定位 */
-onMounted(() => { syncFromHash(route.hash) })
-
-/* ===== 动态渲染与滑块样式 ===== */
-const currentComponent = computed(() => {
-  if (active.value === 'disease') return DiseaseSearch
-  if (active.value === 'rcmd')    return PlantRcmd
-  return PlantSearch
-})
+/** 滑块位移样式 */
 const thumbStyle = computed(() => {
   const idx = order.indexOf(active.value)
   return { transform: `translateX(${idx * 100}%)` }
@@ -108,10 +121,11 @@ const thumbStyle = computed(() => {
   border: 1.5px solid var(--border);
   background: var(--card);
   box-shadow: var(--shadow-sm);
+  overflow: hidden; /* 让滑块圆角生效 */
 }
 .seg-item{
   position: relative;
-  z-index: 1;
+  z-index: 1; /* 让文字在滑块之上 */
   height: 44px;
   border: 0;
   background: transparent;
@@ -119,10 +133,15 @@ const thumbStyle = computed(() => {
   cursor: pointer;
   font: inherit;
 }
-.seg-item[aria-selected="true"]{ font-weight: 700; }
+.seg-item[aria-selected="true"]{
+  font-weight: 700;
+}
 .seg-thumb{
-  position: absolute; z-index: 0; top: 0; left: 0;
-  width: calc(100% / 3); height: 100%;
+  position: absolute;
+  z-index: 0;
+  top: 0; left: 0;
+  width: calc(100% / 3);
+  height: 100%;
   background: color-mix(in oklab, var(--brand) 16%, var(--surface));
   box-shadow: 0 0 0 2px color-mix(in oklab, var(--brand) 18%, transparent) inset;
   transition: transform .25s cubic-bezier(.22,.61,.36,1);
