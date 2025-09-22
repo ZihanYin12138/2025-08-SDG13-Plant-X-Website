@@ -1,0 +1,115 @@
+{
+  "id": 1645,
+  "common_name": "sallow sedge",
+  "scientific_name": [
+    "Carex lurida"
+  ],
+  "other_name": [
+    "Sallow Sedge",
+    "Lurid Sedge",
+    "Lurid Sedge"
+  ],
+  "family": "Cyperaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "lurida",
+  "genus": "Carex",
+  "origin": [
+    "North and South America"
+  ],
+  "type": "Rush or Sedge",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1.5,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Rhizome Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1645&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1645&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun",
+    "part sun/part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1645&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Clay",
+    " Sand",
+    " Loam"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Sallow Sedge (Carex lurida) is a unique and amazing plant species. It's light tan inflorescences along the tall stems contrast nicely with the bright green leaves, creating an eye-catching combination. It prefers wet habitats and can be found growing in marshes, moist woods, and along streams. It also has a long flowering period stretching from the early part of the summer to late fall, creating stunning visuals all season long. What's more, it's a very hardy plant and has a long lifespan, making it a great choice for a long-term garden feature. Whether planted in large groups for dramatic impact or included as a detail in a meadow, Sallow Sedge is a beautiful and versatile plant.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1645_carex_lurida/og/51178147282_2dba5552a9_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1645_carex_lurida/regular/51178147282_2dba5552a9_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1645_carex_lurida/medium/51178147282_2dba5552a9_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1645_carex_lurida/small/51178147282_2dba5552a9_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1645_carex_lurida/thumbnail/51178147282_2dba5552a9_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

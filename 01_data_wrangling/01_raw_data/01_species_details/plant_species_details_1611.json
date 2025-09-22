@@ -1,0 +1,122 @@
+{
+  "id": 1611,
+  "common_name": "Cardiandra",
+  "scientific_name": [
+    "Cardiandra alternifolia"
+  ],
+  "other_name": [],
+  "family": "Hydrangeaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "alternifolia",
+  "genus": "Cardiandra",
+  "origin": [
+    "Japan"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 2.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Division"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1611&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1611&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "purple-white-pink"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "maroon"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Part shade"
+  ],
+  "pruning_month": [
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1611&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Cardiandra alternifolia, commonly known as Cardiandra, is a remarkable ornamental plant and a great addition to any garden. It is an evergreen shrub that produces an abundance of white, star-shaped flowers from spring to early summer. The flowers are followed by small, green fruits that turn yellow when ripe. Its compact growth habit and slender, drooping branches make it an ideal choice for container gardens and low hedges. Cardiandra is extremely versatile, whether it's planted in a sunny or partially shaded location. Plus, it is quite hardy and resistant to pest and diseases. Cardiandra is a great choice for landscaping, especially when combined with other flowering plants to create an exotic look. Its resilience and beauty make Cardiandra an amazing ornamental plant.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1611_cardiandra_alternifolia/og/Cardiandra_alternifolia_kusaazsi03.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1611_cardiandra_alternifolia/regular/Cardiandra_alternifolia_kusaazsi03.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1611_cardiandra_alternifolia/medium/Cardiandra_alternifolia_kusaazsi03.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1611_cardiandra_alternifolia/small/Cardiandra_alternifolia_kusaazsi03.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1611_cardiandra_alternifolia/thumbnail/Cardiandra_alternifolia_kusaazsi03.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

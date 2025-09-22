@@ -1,0 +1,122 @@
+{
+  "id": 1634,
+  "common_name": "Bowles' golden sedge",
+  "scientific_name": [
+    "Carex elata 'Aurea'"
+  ],
+  "other_name": [],
+  "family": "Cyperaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Aurea",
+  "variety": null,
+  "species_epithet": "elata",
+  "genus": "Carex",
+  "origin": [
+    "Europe"
+  ],
+  "type": "Rush or Sedge",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1.5,
+      "max_value": 2.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1634&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1634&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "lime-geen"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "dark-brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1634&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Bog"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Mites",
+    "  Pest resistant",
+    " Deer resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Bowles' golden sedge (Carex elata 'Aurea') is an amazing plant species, well worth adding to your garden. It is an evergreen perennial with bright golden-yellow blades that make a striking feature in the garden. It prefers full sun or partial shade and is resistant to most common pests, diseases, and drought. It has a mounding habit of arching foliage that ripples in the wind and is ideal for creating lawns, edging, and rockeries. It is a great alternative to grass as it requires very little maintenance and its beautiful color brings life to any space. Bowles' golden sedge is a must-have for any garden.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1634_carex_elata_aurea/og/27192153993_c9f54d0276_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1634_carex_elata_aurea/regular/27192153993_c9f54d0276_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1634_carex_elata_aurea/medium/27192153993_c9f54d0276_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1634_carex_elata_aurea/small/27192153993_c9f54d0276_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1634_carex_elata_aurea/thumbnail/27192153993_c9f54d0276_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

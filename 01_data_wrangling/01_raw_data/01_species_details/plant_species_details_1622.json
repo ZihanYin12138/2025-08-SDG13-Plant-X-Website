@@ -1,0 +1,110 @@
+{
+  "id": 1622,
+  "common_name": "sedge",
+  "scientific_name": [
+    "Carex cherokeensis"
+  ],
+  "other_name": [],
+  "family": "Cyperaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "cherokeensis",
+  "genus": "Carex",
+  "origin": [
+    "Southeastern United States"
+  ],
+  "type": "Rush or Sedge",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 1,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Stolon",
+    "Rhizome Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1622&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1622&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1622&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Sedge (Carex cherokeensis) is an amazing yetoften underrated native grass species that produces spectacular yellow blooms in early spring. Its upright, sword-like foliage thrives in wet and boggy conditions, providing a stunning garden display that is ideal to brighten up any damp corner of a garden. On top of its attractive yellow foxtail-like blooms, this plant is also a great solution to erosion control problems as its dense grassy foliage spreads quickly, forming an abundant, mounded root system. Carex cherokeensis is one of nature’s most valuable resources, versatile enough to be planted for both functional and decorative purposes.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1622_carex_cherokeensis/og/Brown_Fox_Sedge_28Carex_vulpinoidea29_in_wet_meadow_at_the_Morton_Arboretum_-_Flickr_-_Jay_Sturner_28229.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1622_carex_cherokeensis/regular/Brown_Fox_Sedge_28Carex_vulpinoidea29_in_wet_meadow_at_the_Morton_Arboretum_-_Flickr_-_Jay_Sturner_28229.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1622_carex_cherokeensis/medium/Brown_Fox_Sedge_28Carex_vulpinoidea29_in_wet_meadow_at_the_Morton_Arboretum_-_Flickr_-_Jay_Sturner_28229.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1622_carex_cherokeensis/small/Brown_Fox_Sedge_28Carex_vulpinoidea29_in_wet_meadow_at_the_Morton_Arboretum_-_Flickr_-_Jay_Sturner_28229.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1622_carex_cherokeensis/thumbnail/Brown_Fox_Sedge_28Carex_vulpinoidea29_in_wet_meadow_at_the_Morton_Arboretum_-_Flickr_-_Jay_Sturner_28229.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

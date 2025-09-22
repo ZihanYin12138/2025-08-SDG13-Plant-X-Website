@@ -1,0 +1,139 @@
+{
+  "id": 1619,
+  "common_name": "leatherleaf sedge",
+  "scientific_name": [
+    "Carex buchananii"
+  ],
+  "other_name": [],
+  "family": "Cyperaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "buchananii",
+  "genus": "Carex",
+  "origin": [
+    "New Zealand"
+  ],
+  "type": "Rush or Sedge",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 2,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1619&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1619&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "red-brown"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "maroon"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "foliage",
+      "color": [
+        "maroon-pink"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1619&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Crown rot",
+    " Rust",
+    "  Pest resistant",
+    " Disease resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Leatherleaf sedge (Carex buchananii) is an amazing species that is tolerant of harsh climates and growing conditions. Its leathery, dark green foliage is capable of thriving in poor soils, both wet and dry. It is very resilient, often persisting in very extreme temperatures and drought, yet also tolerates temperatures as cold as -30°C. Its stunning form with arching evergreen leaves and tawny flowerheads, make it an exquisite landscape feature, adding texture and interest to dull areas. Its easy establishment and low maintenance needs make it a must have species for any garden or landscape.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1619_carex_buchananii/og/369731358_7bc6e3f67d_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1619_carex_buchananii/regular/369731358_7bc6e3f67d_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1619_carex_buchananii/medium/369731358_7bc6e3f67d_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1619_carex_buchananii/small/369731358_7bc6e3f67d_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1619_carex_buchananii/thumbnail/369731358_7bc6e3f67d_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

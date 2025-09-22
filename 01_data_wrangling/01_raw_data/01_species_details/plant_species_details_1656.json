@@ -1,0 +1,119 @@
+{
+  "id": 1656,
+  "common_name": "sedge",
+  "scientific_name": [
+    "Carex oshimensis 'CarFit01' EVERCOLOR EVEREST"
+  ],
+  "other_name": [],
+  "family": "Cyperaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "CarFit01",
+  "variety": null,
+  "species_epithet": "oshimensis",
+  "genus": "Carex",
+  "origin": [
+    "Japan"
+  ],
+  "type": "Rush or Sedge",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Layering Propagation",
+    "Stolon",
+    "Rhizome Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1656&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1656&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "creamy-green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "June",
+    "July",
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1656&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Carex oshimensis 'CarFit01' EVERCOLOR EVEREST is an amazing sedge that stands out from the rest. It is ideal for adding a touch of both mystique and color to your garden as it produces striking green and white-striped foliage. Its evergreen habit means that it does not become brown and wither through the winter, and its mounded shape adds a graceful look to any landscape. This plant is also extremely tolerant of harsh city conditions, which makes it an ideal choice for any urban garden. In addition, it thrives in full sun or partial shade and its low-maintenance care requirements make it a great choice for the busy gardener.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1656_carex_oshimensis_carfit01_evercolor_everest/og/Carex_oshimensis_Evergold_3zz.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1656_carex_oshimensis_carfit01_evercolor_everest/regular/Carex_oshimensis_Evergold_3zz.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1656_carex_oshimensis_carfit01_evercolor_everest/medium/Carex_oshimensis_Evergold_3zz.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1656_carex_oshimensis_carfit01_evercolor_everest/small/Carex_oshimensis_Evergold_3zz.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1656_carex_oshimensis_carfit01_evercolor_everest/thumbnail/Carex_oshimensis_Evergold_3zz.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

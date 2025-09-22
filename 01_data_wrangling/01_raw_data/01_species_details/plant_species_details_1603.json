@@ -1,0 +1,108 @@
+{
+  "id": 1603,
+  "common_name": "ornamental pepper",
+  "scientific_name": [
+    "Capsicum annuum 'Purple Flash'"
+  ],
+  "other_name": [],
+  "family": "Solanaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Purple Flash",
+  "variety": null,
+  "species_epithet": "annuum",
+  "genus": "Capsicum",
+  "origin": [
+    "Mexico"
+  ],
+  "type": "Fruit",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Division",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "11",
+    "max": "12"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1603&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1603&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1603&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": true,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Summer",
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Ornamental pepper (Capsicum annuum 'Purple Flash') is an amazing plant species with eye-catching purple foliage and stems. In addition to it's beautiful foliage, it produces small purple fruit with a brilliant lime green interior. Popular among gardeners for its ornamental beauty, it is easy to care for and drought tolerant. It grows best in light, well-drained soils and will thrive in full sun or partial shade. Ornamental pepper is a great choice for adding dramatic color to gardens and containers and can even be used in cooking for a unique flavor.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1603_capsicum_annuum_purple_flash/og/1536px-Capsicum_annuum_27Peruvian_Purple27_kz01.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1603_capsicum_annuum_purple_flash/regular/1536px-Capsicum_annuum_27Peruvian_Purple27_kz01.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1603_capsicum_annuum_purple_flash/medium/1536px-Capsicum_annuum_27Peruvian_Purple27_kz01.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1603_capsicum_annuum_purple_flash/small/1536px-Capsicum_annuum_27Peruvian_Purple27_kz01.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1603_capsicum_annuum_purple_flash/thumbnail/1536px-Capsicum_annuum_27Peruvian_Purple27_kz01.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

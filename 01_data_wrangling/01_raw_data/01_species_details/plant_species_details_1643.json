@@ -1,0 +1,120 @@
+{
+  "id": 1643,
+  "common_name": "sedge",
+  "scientific_name": [
+    "Carex laxiculmis 'Hobb' BUNNY BLUE"
+  ],
+  "other_name": [],
+  "family": "Cyperaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Hobb",
+  "variety": null,
+  "species_epithet": "laxiculmis",
+  "genus": "Carex",
+  "origin": [
+    "United States"
+  ],
+  "type": "Sedge",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 1,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1643&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1643&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "foliage",
+      "color": [
+        "green-brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Deciduous Shade (Spring Sun)"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1643&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Clay"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Sedge (Carex laxiculmis 'Hobb' BUNNY BLUE) is an amazing plant species that will bring a bright and cheerful atmosphere to your garden. Growing to only 50 cm tall by 50 cm wide, it forms a low, rounded mound of blue-grey foliage with delicate grassy flowers in summer. It's ideal for groundcover and as an edging to planting beds and containers. Deer-resistant and drought tolerant, it requires little maintenance and is tolerant of a wide range of soil conditions. Its attractive blue foliage will shine in container and rock gardens and its bright yellow flowers will bring vivid summer colour and attract bees. Sedge (Carex laxiculmis 'Hobb' BUNNY BLUE) is a great choice for any garden, perfect for providing year-round interest and colour.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1643_carex_laxiculmis_hobb_bunny_blue/og/52519074141_315128e12b_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1643_carex_laxiculmis_hobb_bunny_blue/regular/52519074141_315128e12b_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1643_carex_laxiculmis_hobb_bunny_blue/medium/52519074141_315128e12b_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1643_carex_laxiculmis_hobb_bunny_blue/small/52519074141_315128e12b_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1643_carex_laxiculmis_hobb_bunny_blue/thumbnail/52519074141_315128e12b_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,110 @@
+{
+  "id": 1628,
+  "common_name": "sedge",
+  "scientific_name": [
+    "Carex cristatella"
+  ],
+  "other_name": [],
+  "family": "Cyperaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "cristatella",
+  "genus": "Carex",
+  "origin": [
+    "North America"
+  ],
+  "type": "Rush or Sedge",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Squirrels",
+    " Birds",
+    " Butterfly Larvae"
+  ],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Layering Propagation",
+    "Stolon",
+    "Rhizome Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1628&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1628&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Sun",
+    " Partial Shade"
+  ],
+  "pruning_month": [],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1628&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Loam"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Sedge (Carex cristatella) is an amazing species of plant. It is often found in low, wet or marshy areas in Scotland and across Europe. It is a herbaceous perennial that brings a stunning dimension to any wetland environment. It provides habitat for small animals and birds, and its bright green leaves with striking white margins are a stunning visual feature. The leaves can be dried and used in floral arrangements and crafts. Its spreading culms have a plethora of uses throughout the year, making it an invaluable addition to any wild garden.",
+  "default_image": {
+    "license": 44,
+    "license_name": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "original_url": "https://perenual.com/storage/species_image/1628_carex_cristatella/og/eb2cfe174c38854f4e115c244e50af95e442af3c.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1628_carex_cristatella/regular/eb2cfe174c38854f4e115c244e50af95e442af3c.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1628_carex_cristatella/medium/eb2cfe174c38854f4e115c244e50af95e442af3c.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1628_carex_cristatella/small/eb2cfe174c38854f4e115c244e50af95e442af3c.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1628_carex_cristatella/thumbnail/eb2cfe174c38854f4e115c244e50af95e442af3c.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
