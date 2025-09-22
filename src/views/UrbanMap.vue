@@ -168,7 +168,7 @@ export default {
     const trees = ref([])
     const loading = ref(false)
     const searchQuery = ref('')
-    const radius = ref(100)
+    const radius = ref(150)
     const selectedTreeId = ref('')
     const currentCenter = ref([-37.81793, 144.96478])  // 初始中心：CBD
     const searchError = ref('')
