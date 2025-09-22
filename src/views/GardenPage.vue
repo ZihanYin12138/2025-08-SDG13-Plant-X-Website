@@ -20,21 +20,21 @@
           :aria-selected="active==='disease'"
           class="seg-item"
           @click="setActive('disease')"
-        >Disease</button>
+        >Plant Disease Search</button>
 
         <button
           role="tab"
           :aria-selected="active==='plants'"
           class="seg-item"
           @click="setActive('plants')"
-        >Plant</button>
+        >Plant Search</button>
 
         <button
           role="tab"
           :aria-selected="active==='rcmd'"
           class="seg-item"
           @click="setActive('rcmd')"
-        >Recommend</button>
+        >Plant Recommendations</button>
       </div>
     </div>
   </section>

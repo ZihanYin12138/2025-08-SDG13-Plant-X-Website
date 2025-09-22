@@ -623,6 +623,8 @@ export default {
   flex-direction: column;
   background: var(--card);
   color: var(--fg);
+  z-index: 0;
+  isolation: isolate;
 }
 
 .top-toolbar {

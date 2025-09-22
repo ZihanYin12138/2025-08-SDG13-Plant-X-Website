@@ -1,5 +1,5 @@
 <script setup>
-import PlantRcmd from './PlantRcmd.vue';
+
 </script>
 
 <template>
@@ -8,7 +8,7 @@ import PlantRcmd from './PlantRcmd.vue';
 <h2 class="title">Community (Comming Soon)</h2>
 <p class="lead">Join gardening enthusiasts to share experiences and collaborate on climate-positive actions.</p>
 
-<PlantRcmd />
+
 
 
 </div>
