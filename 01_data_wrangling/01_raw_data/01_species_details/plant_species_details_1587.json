@@ -1,0 +1,112 @@
+{
+  "id": 1587,
+  "common_name": "camptosema",
+  "scientific_name": [
+    "Camptosema praeandinum"
+  ],
+  "other_name": [],
+  "family": "Fabaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "praeandinum",
+  "genus": "Camptosema",
+  "origin": [
+    "Argentina",
+    "Bolivia"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 4,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Hummingbirds"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Division"
+  ],
+  "hardiness": {
+    "min": "8",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1587&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1587&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1587&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Camptosema praeandinum is truly an amazing plant species. Native to South America, it's a species of bean that is highly valued for its strong, sweet flavor and nutty aroma. Furthermore, it is highly drought-tolerant and will thrive in areas with little rain and soil with low nutrient levels. Its vigorous growing habit means it can grow rapidly, providing a good choice for short rotations on agricultural land. Plus, it has an impressively short harvest time of just 60 days, making it a great option for those looking for a quick yield. With its robust flavor and resilient qualities, Camptosema praeandinum is an excellent addition to any garden.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1587_camptosema_praeandinum/og/Crista-de-galo_28Camptosema_grandiflora292C_brazilian_native._Sao_Paulo_Botanical_garden7.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1587_camptosema_praeandinum/regular/Crista-de-galo_28Camptosema_grandiflora292C_brazilian_native._Sao_Paulo_Botanical_garden7.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1587_camptosema_praeandinum/medium/Crista-de-galo_28Camptosema_grandiflora292C_brazilian_native._Sao_Paulo_Botanical_garden7.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1587_camptosema_praeandinum/small/Crista-de-galo_28Camptosema_grandiflora292C_brazilian_native._Sao_Paulo_Botanical_garden7.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1587_camptosema_praeandinum/thumbnail/Crista-de-galo_28Camptosema_grandiflora292C_brazilian_native._Sao_Paulo_Botanical_garden7.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

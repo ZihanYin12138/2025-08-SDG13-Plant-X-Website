@@ -1,0 +1,111 @@
+{
+  "id": 1662,
+  "common_name": "sedge",
+  "scientific_name": [
+    "Carex pensylvanica 'Straw Hat'"
+  ],
+  "other_name": [
+    "Pennsylvania Sedge"
+  ],
+  "family": "Cyperaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Straw Hat",
+  "variety": null,
+  "species_epithet": "pensylvanica",
+  "genus": "Carex",
+  "origin": [
+    "Eastern North America"
+  ],
+  "type": "Rush or Sedge",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 1,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1662&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1662&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Sun",
+    " Partial Shade",
+    " Shade"
+  ],
+  "pruning_month": [],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1662&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Clay",
+    " Sand",
+    " Loam"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Easy",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Sedge (Carex pensylvanica 'Straw Hat') is an amazing plant species for any green space. This sedge is straightforward to maintain, needing very little water or sunlight. It's also an evergreen, meaning it will stay colourful and lush all year round. The fluffy, bright golden flowers make a stunning display when in bloom throughout early summer, providing a wonderful visual contrast to whatever else is nearby. Plus, it has a great texture and lacks any significant insect or disease problems. All in all, it's an excellent addition to your garden, providing both colour and substance throughout the year.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1662_carex_pensylvanica_straw_hat/og/2560px-2015.08.22_11.09.12_IMG_0257_-_Flickr_-_andrey_zharkikh.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1662_carex_pensylvanica_straw_hat/regular/2560px-2015.08.22_11.09.12_IMG_0257_-_Flickr_-_andrey_zharkikh.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1662_carex_pensylvanica_straw_hat/medium/2560px-2015.08.22_11.09.12_IMG_0257_-_Flickr_-_andrey_zharkikh.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1662_carex_pensylvanica_straw_hat/small/2560px-2015.08.22_11.09.12_IMG_0257_-_Flickr_-_andrey_zharkikh.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1662_carex_pensylvanica_straw_hat/thumbnail/2560px-2015.08.22_11.09.12_IMG_0257_-_Flickr_-_andrey_zharkikh.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
