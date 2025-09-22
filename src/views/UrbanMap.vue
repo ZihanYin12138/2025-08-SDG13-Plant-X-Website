@@ -4,17 +4,10 @@
     <div class="top-toolbar" role="search" aria-label="Tree search toolbar">
       <div class="toolbar-row">
         <div class="search-input-group">
-          <input
-            v-model="searchQuery"
-            type="text"
-            placeholder="Search tree names, IDs or enter coordinates (e.g.: -37.81793,144.96478)"
-            class="search-input"
-            :class="{ 'error': searchError }"
-            @keyup.enter="performSearch"
-            @input="clearError"
-            @keydown.esc="clearAll"
-            aria-label="Search trees by text or coordinates"
-          />
+          <input v-model="searchQuery" type="text"
+            placeholder="Search tree names or enter coordinates (e.g.: -37.81793,144.96478)" class="search-input"
+            :class="{ 'error': searchError }" @keyup.enter="performSearch" @input="clearError" @keydown.esc="clearAll"
+            aria-label="Search trees by text or coordinates" />
           <button @click="performSearch" class="search-btn" aria-label="Search">Search</button>
           <button v-if="searchQuery" @click="clearAll" class="clear-btn" aria-label="Clear search">×</button>
         </div>
@@ -22,15 +15,8 @@
         <div class="toolbar-actions">
           <div class="radius-control compact" aria-label="Search radius (meters)">
             <label>Radius: <strong>{{ radius }}m</strong></label>
-            <input
-              v-model.number="radius"
-              type="range"
-              min="50"
-              max="1000"
-              step="50"
-              class="radius-slider"
-              @input="onRadiusChange"
-            />
+            <input v-model.number="radius" type="range" min="50" max="1000" step="50" class="radius-slider"
+              @input="onRadiusChange" />
           </div>
           <!-- <button class="geo-btn" @click="useMyLocation" aria-label="Use my location">Use my location</button> -->
         </div>
@@ -68,16 +54,8 @@
       </div>
 
       <!-- Trees List (保持为地图上的侧栏浮层) -->
-      <div
-        class="trees-sidebar"
-        v-if="trees.length > 0"
-        ref="sidebarEl"
-        @click.stop
-        @mousedown.stop
-        @dblclick.stop
-        @contextmenu.stop
-        @touchstart.stop
-      >
+      <div class="trees-sidebar" v-if="trees.length > 0" ref="sidebarEl" @click.stop @mousedown.stop @dblclick.stop
+        @contextmenu.stop @touchstart.stop>
         <div class="sidebar-header">
           <h3>Found {{ trees.length }} trees</h3>
           <button @click="closeSidebar" class="close-btn" aria-label="Close sidebar">×</button>
@@ -85,16 +63,9 @@
 
         <!-- 阻断滚轮向地图冒泡，确保侧栏可用滚轮下滑 -->
         <div class="trees-list" @wheel.stop @touchmove.stop ref="treesListEl">
-          <div
-            v-for="tree in trees"
-            :key="tree.com_id"
-            class="tree-card"
-            :class="{ active: selectedTreeId === tree.com_id }"
-            @click="selectTree(tree, 'card')"
-            @mouseenter="hoverTree(tree)"
-            @mouseleave="unhoverTree(tree)"
-            :ref="el => setCardRef(el, tree.com_id)"
-          >
+          <div v-for="tree in trees" :key="tree.com_id" class="tree-card"
+            :class="{ active: selectedTreeId === tree.com_id }" @click="selectTree(tree, 'card')"
+            @mouseenter="hoverTree(tree)" @mouseleave="unhoverTree(tree)" :ref="el => setCardRef(el, tree.com_id)">
             <div class="tree-info">
               <h4>{{ tree.common_name || 'Unknown Tree' }}</h4>
               <p class="scientific-name">{{ tree.scientific_name }}</p>
@@ -400,7 +371,7 @@ export default {
         marker.on('click', () => selectTree(tree, 'marker'))
 
         marker.on('mouseover', () => marker.setStyle({ weight: 4 }))
-        marker.on('mouseout',  () => {
+        marker.on('mouseout', () => {
           if (selectedTreeId.value !== tree.com_id) marker.setStyle({ weight: 2 })
         })
 
@@ -663,7 +634,12 @@ export default {
   outline: none;
   max-width: 500px;
 }
-.search-input:focus-visible { outline: var(--ring); outline-offset: 2px; }
+
+.search-input:focus-visible {
+  outline: var(--ring);
+  outline-offset: 2px;
+}
+
 .search-input.error {
   border-color: color-mix(in oklab, #dc3545 70%, var(--border));
   box-shadow: 0 0 0 2px color-mix(in oklab, #dc3545 12%, transparent);
@@ -680,8 +656,14 @@ export default {
   transition: transform .05s ease-in-out, box-shadow .2s, background .15s;
   box-shadow: var(--shadow-sm);
 }
-.search-btn:hover { background: var(--brand-strong); }
-.search-btn:active { transform: translateY(1px); }
+
+.search-btn:hover {
+  background: var(--brand-strong);
+}
+
+.search-btn:active {
+  transform: translateY(1px);
+}
 
 .clear-btn {
   padding: 8px 12px;
@@ -693,14 +675,36 @@ export default {
   font-size: 16px;
   line-height: 1;
 }
-.clear-btn:hover { background: var(--hover); }
 
-.toolbar-actions { display: flex; gap: 12px; align-items: center; }
+.clear-btn:hover {
+  background: var(--hover);
+}
 
-.radius-control { display: flex; flex-direction: column; gap: 6px; }
-.radius-control label { font-size: 12px; color: var(--muted); }
-.radius-control.compact { min-width: 270px; }
-.radius-slider { width: 100%; accent-color: var(--brand); }
+.toolbar-actions {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.radius-control {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.radius-control label {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.radius-control.compact {
+  min-width: 270px;
+}
+
+.radius-slider {
+  width: 100%;
+  accent-color: var(--brand);
+}
 
 .geo-btn {
   padding: 10px 12px;
@@ -711,9 +715,18 @@ export default {
   font-size: 14px;
   color: var(--fg);
 }
-.geo-btn:hover { background: var(--hover); }
 
-.feedback { margin-top: 8px; display: flex; gap: 8px; flex-wrap: wrap; }
+.geo-btn:hover {
+  background: var(--hover);
+}
+
+.feedback {
+  margin-top: 8px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
 .chip {
   padding: 4px 8px;
   font-size: 12px;
@@ -722,11 +735,27 @@ export default {
   background: var(--surface);
   color: var(--fg);
 }
-.chip-blue  { background: color-mix(in oklab, var(--brand) 12%, var(--surface)); color: var(--fg); }
-.chip-green { background: color-mix(in oklab, var(--brand) 18%, var(--surface)); color: var(--fg); }
-.chip-error { background: color-mix(in oklab, #b00020 18%, var(--surface)); color: var(--fg); }
 
-.map-container { position: relative; width: 100%; flex: 1; }
+.chip-blue {
+  background: color-mix(in oklab, var(--brand) 12%, var(--surface));
+  color: var(--fg);
+}
+
+.chip-green {
+  background: color-mix(in oklab, var(--brand) 18%, var(--surface));
+  color: var(--fg);
+}
+
+.chip-error {
+  background: color-mix(in oklab, #b00020 18%, var(--surface));
+  color: var(--fg);
+}
+
+.map-container {
+  position: relative;
+  width: 100%;
+  flex: 1;
+}
 
 .legend {
   position: absolute;
@@ -741,13 +770,43 @@ export default {
   width: 200px;
   border: 1px solid var(--border);
 }
-.legend h4 { margin: 0 0 8px 0; font-size: 14px; color: var(--fg); }
-.legend-item { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; font-size: 12px; }
-.legend-color { width: 12px; height: 12px; border-radius: 50%; display: inline-block; }
-.legend-color.juvenile    { background: #5C8E2F; }
-.legend-color.semi-mature { background: #A6A43A; }
-.legend-color.mature      { background: #F3A24A; }
-.legend-color.unknown     { background: #777777; }
+
+.legend h4 {
+  margin: 0 0 8px 0;
+  font-size: 14px;
+  color: var(--fg);
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 4px;
+  font-size: 12px;
+}
+
+.legend-color {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.legend-color.juvenile {
+  background: #5C8E2F;
+}
+
+.legend-color.semi-mature {
+  background: #A6A43A;
+}
+
+.legend-color.mature {
+  background: #F3A24A;
+}
+
+.legend-color.unknown {
+  background: #777777;
+}
 
 .trees-sidebar {
   position: absolute;
@@ -762,6 +821,7 @@ export default {
   flex-direction: column;
   color: var(--fg);
 }
+
 .sidebar-header {
   padding: 14px 12px;
   border-bottom: 1px solid var(--border-weak);
@@ -769,7 +829,13 @@ export default {
   justify-content: space-between;
   align-items: center;
 }
-.sidebar-header h3 { margin: 0; font-size: 16px; color: var(--fg); }
+
+.sidebar-header h3 {
+  margin: 0;
+  font-size: 16px;
+  color: var(--fg);
+}
+
 .close-btn {
   background: none;
   border: none;
@@ -777,7 +843,10 @@ export default {
   cursor: pointer;
   color: var(--muted);
 }
-.close-btn:hover { color: var(--fg); }
+
+.close-btn:hover {
+  color: var(--fg);
+}
 
 .trees-list {
   flex: 1;
@@ -798,36 +867,90 @@ export default {
   background: var(--card);
   color: var(--fg);
 }
+
 .tree-card:hover {
   background: var(--surface);
   border-color: var(--brand);
   transform: translateY(-1px);
 }
+
 .tree-card.active {
   background: color-mix(in oklab, var(--brand) 14%, var(--surface));
   border-color: var(--brand);
   box-shadow: var(--shadow-sm);
 }
 
-.tree-info h4 { margin: 0 0 4px 0; font-size: 14px; color: var(--fg); }
-.scientific-name { margin: 0 0 8px 0; font-size: 12px; color: var(--muted); font-style: italic; }
-.tree-details { display: flex; justify-content: space-between; align-items: center; font-size: 11px; }
+.tree-info h4 {
+  margin: 0 0 4px 0;
+  font-size: 14px;
+  color: var(--fg);
+}
+
+.scientific-name {
+  margin: 0 0 8px 0;
+  font-size: 12px;
+  color: var(--muted);
+  font-style: italic;
+}
+
+.tree-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 11px;
+}
+
 .maturity {
   padding: 2px 6px;
   border-radius: 4px;
   color: #fff;
   font-weight: 500;
 }
-.maturity.juvenile    { background: #5C8E2F; }
-.maturity.semi-mature { background: #A6A43A; }
-.maturity.mature      { background: #F3A24A; }
-.maturity.unknown     { background: #777777; }
-.distance { color: var(--muted); }
 
-.tree-extra-info { margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--border-weak); }
-.info-row { display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 11px; }
-.info-row .label { color: var(--muted); font-weight: 500; }
-.info-row .value { color: var(--fg); text-align: right; max-width: 60%; word-break: break-word; }
+.maturity.juvenile {
+  background: #5C8E2F;
+}
+
+.maturity.semi-mature {
+  background: #A6A43A;
+}
+
+.maturity.mature {
+  background: #F3A24A;
+}
+
+.maturity.unknown {
+  background: #777777;
+}
+
+.distance {
+  color: var(--muted);
+}
+
+.tree-extra-info {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px solid var(--border-weak);
+}
+
+.info-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 4px;
+  font-size: 11px;
+}
+
+.info-row .label {
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.info-row .value {
+  color: var(--fg);
+  text-align: right;
+  max-width: 60%;
+  word-break: break-word;
+}
 
 .loading-overlay {
   position: absolute;
@@ -840,6 +963,7 @@ export default {
   z-index: 2000;
   color: var(--fg);
 }
+
 .spinner {
   width: 40px;
   height: 40px;
@@ -848,12 +972,39 @@ export default {
   border-radius: 50%;
   animation: spin 1s linear infinite;
 }
-@keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
 
-:deep(.center-marker-inner) { font-size: 20px; text-align: center; line-height: 1; }
-:deep(.tree-popup) { min-width: 200px; background: var(--card); color: var(--fg); }
-:deep(.tree-popup h4) { margin: 0 0 8px 0; color: var(--fg); }
-:deep(.tree-popup p) { margin: 4px 0; font-size: 12px; color: var(--muted); }
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+:deep(.center-marker-inner) {
+  font-size: 20px;
+  text-align: center;
+  line-height: 1;
+}
+
+:deep(.tree-popup) {
+  min-width: 200px;
+  background: var(--card);
+  color: var(--fg);
+}
+
+:deep(.tree-popup h4) {
+  margin: 0 0 8px 0;
+  color: var(--fg);
+}
+
+:deep(.tree-popup p) {
+  margin: 4px 0;
+  font-size: 12px;
+  color: var(--muted);
+}
 
 
 
@@ -880,18 +1031,33 @@ export default {
   color: var(--muted);
   font-weight: 600;
 }
+
 :deep(.leaflet-container a.leaflet-popup-close-button:hover) {
   color: var(--fg);
   background: var(--hover);
   border-radius: 6px;
 }
+
 :deep(.leaflet-popup-content h1),
 :deep(.leaflet-popup-content h2),
 :deep(.leaflet-popup-content h3),
-:deep(.leaflet-popup-content h4) { color: var(--fg); margin-top: 0; }
+:deep(.leaflet-popup-content h4) {
+  color: var(--fg);
+  margin-top: 0;
+}
+
 :deep(.leaflet-popup-content p),
 :deep(.leaflet-popup-content li),
-:deep(.leaflet-popup-content span) { color: var(--fg); }
-:deep(.leaflet-popup-content a) { color: var(--brand-strong); text-decoration: none; }
-:deep(.leaflet-popup-content a:hover) { text-decoration: underline; }
+:deep(.leaflet-popup-content span) {
+  color: var(--fg);
+}
+
+:deep(.leaflet-popup-content a) {
+  color: var(--brand-strong);
+  text-decoration: none;
+}
+
+:deep(.leaflet-popup-content a:hover) {
+  text-decoration: underline;
+}
 </style>
