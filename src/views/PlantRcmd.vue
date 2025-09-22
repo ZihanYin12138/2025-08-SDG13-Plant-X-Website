@@ -137,8 +137,9 @@
 
 <script setup>
 import { ref, reactive, computed, onMounted, onBeforeUnmount } from 'vue'
-import { fetchWeatherAggregate, fetchRecommendations } from '@/api/plantrcmd'
 import 'leaflet/dist/leaflet.css'
+import { postCoordinates } from '@/api/plantrcmd'
+import { getPlantById } from '@/api/plants'
 
 /* 地图与点位 */
 let leaflet = null
@@ -176,7 +177,7 @@ const kpiList = [
   { key: 'wind_kph_avg',  label: 'Wind',         format: v => v==null?'—':`${v.toFixed(1)} kph` },
 ]
 
-/* 推荐 */
+/* 推荐（沿用你原表格结构） */
 const recommendations = ref([])
 const rcmdLoading = ref(false)
 const rcmdError = ref('')
@@ -185,39 +186,68 @@ const displayCoord = computed(() => pendingPoint.value || point.value)
 
 function fmtScore(s){ return (typeof s === 'number') ? s.toFixed(0) : (s ?? '—') }
 
-/* 仅当 point（已提交）存在时才刷新 */
-async function refresh(){
+/* —— 一次 POST：拿天气 + 推荐ID，再按 ID 拉详情并映射到表格 —— */
+async function refresh () {
   if (!point.value) return
-  await Promise.all([loadKPI(point.value), loadRcmd(point.value)])
-}
-async function loadKPI(p){
   kpiLoading.value = true
-  kpiError.value = ''
-  try{
-    const res = await fetchWeatherAggregate(p.lat, p.lng)
-    metrics.max_temp_c    = toNum(res && res.max_temp_c)
-    metrics.min_temp_c    = toNum(res && res.min_temp_c)
-    metrics.avg_temp_c    = toNum((res && res.avg_temp_c) ?? avg([res && res.max_temp_c, res && res.min_temp_c]))
-    metrics.total_rain_mm = toNum(res && res.total_rain_mm)
-    metrics.sun_hours_avg = toNum(res && res.sun_hours_avg)
-    metrics.wind_kph_avg  = toNum(res && res.wind_kph_avg)
-  }catch(e){
-    kpiError.value = e && e.message ? e.message : String(e)
-    Object.keys(metrics).forEach(k=> (metrics[k]=null))
-  }finally{
-    kpiLoading.value = false
-  }
-}
-async function loadRcmd(p){
   rcmdLoading.value = true
+  kpiError.value = ''
   rcmdError.value = ''
-  try{
-    const res = await fetchRecommendations(p.lat, p.lng)
-    recommendations.value = Array.isArray(res && res.items) ? res.items : (res || [])
-  }catch(e){
-    rcmdError.value = e && e.message ? e.message : String(e)
+  try {
+    const bundle = await postCoordinates(point.value.lat, point.value.lng)
+
+    // weather 兼容映射
+    const w = bundle.weather || {}
+    metrics.max_temp_c    = toNum(w.max_temp_c ?? w.maxTempC)
+    metrics.min_temp_c    = toNum(w.min_temp_c ?? w.minTempC)
+    metrics.avg_temp_c    = toNum((w.avg_temp_c ?? w.avgTempC) ?? avg([w.max_temp_c ?? w.maxTempC, w.min_temp_c ?? w.minTempC]))
+    metrics.total_rain_mm = toNum(w.total_rain_mm ?? w.rain_mm ?? w.totalRainMm)
+    metrics.sun_hours_avg = toNum(w.sun_hours_avg ?? w.sun_hours ?? w.sunHours)
+    metrics.wind_kph_avg  = toNum(w.wind_kph_avg ?? w.wind_kph ?? w.windKph)
+
+    // 推荐ID + 可选元信息（理由/分数）
+    const ids =
+      (Array.isArray(bundle.recommended_ids) && bundle.recommended_ids) ||
+      (Array.isArray(bundle.plant_ids) && bundle.plant_ids) ||
+      (Array.isArray(bundle.ids) && bundle.ids) || []
+
+    const metaList =
+      (Array.isArray(bundle.items) && bundle.items) ||
+      (Array.isArray(bundle.recommendations) && bundle.recommendations) || []
+
+    const metaMap = new Map()
+    for (const m of metaList) {
+      const mid = m?.id ?? m?.plant_id ?? m?.general_plant_id
+      if (mid != null) metaMap.set(Number(mid), m)
+    }
+
+    // 拉详情并映射到表格字段
+    const details = await Promise.all(
+      ids.map(id => getPlantById(id).catch(() => null))
+    )
+    recommendations.value = details.filter(Boolean).map(d => {
+      const id = d.general_plant_id ?? d.id ?? d.plant_id
+      const meta = metaMap.get(Number(id)) || {}
+      return {
+        id,
+        id_type: 'general',
+        common_name: d.common_name || '',
+        scientific_name: d.scientific_name || '',
+        category: d.category || d.type || '',
+        sun: d.sunlight || d.sun_exposure || d.sun || '',
+        watering: d.watering || '',
+        fit_score: toNum(meta.fit_score ?? meta.score ?? meta.rank),
+        reason: meta.reason || meta.explanation || ''
+      }
+    })
+  } catch (e) {
+    const msg = e && e.message ? e.message : String(e)
+    kpiError.value = msg
+    rcmdError.value = msg
+    Object.keys(metrics).forEach(k => (metrics[k] = null))
     recommendations.value = []
-  }finally{
+  } finally {
+    kpiLoading.value = false
     rcmdLoading.value = false
   }
 }
@@ -310,6 +340,7 @@ function toNum(x){ const n = Number(x); return Number.isFinite(n) ? n : null }
 function avg(arr){ const ns = arr.map(toNum).filter(n=>Number.isFinite(n)); return ns.length? ns.reduce((a,b)=>a+b,0)/ns.length : null }
 </script>
 
+
 <style scoped>
 .twocol{
   display: grid;
@@ -363,8 +394,8 @@ function avg(arr){ const ns = arr.map(toNum).filter(n=>Number.isFinite(n)); retu
 }
 .map-hint{
   position: absolute; inset: auto 10px 10px auto;
-  background: color-mix(in oklab, var(--bg) 70%, transparent);
-  border: 1px dashed color-mix(in oklab, var(--fg) 30%, transparent);
+  background: color-mix(in oklab, var(--bg) 80%, transparent);
+  border: 1px dashed color-mix(in oklab, var(--fg) 20%, transparent);
   border-radius: 10px; padding: 6px 10px; color: var(--muted);
 }
 :deep(.leaflet-container),
