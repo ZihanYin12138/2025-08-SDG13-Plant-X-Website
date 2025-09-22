@@ -311,8 +311,6 @@ function avg(arr){ const ns = arr.map(toNum).filter(n=>Number.isFinite(n)); retu
 </script>
 
 <style scoped>
-
-/* 70/30 双列布局（小屏下单列） */
 .twocol{
   display: grid;
   grid-template-columns: 8fr 2fr;

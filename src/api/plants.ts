@@ -129,7 +129,7 @@ export function searchPlants(): Promise<PlantListResp>
 export function searchPlants(search: string): Promise<PlantListResp>
 export function searchPlants(params: SearchPlantsParams): Promise<PlantListResp>
 
-// 单个实现
+/** 单个实现 */
 export function searchPlants(arg?: string | SearchPlantsParams): Promise<PlantListResp> {
   // 兼容字符串 / 对象 / 未传参数
   const params: SearchPlantsParams =
@@ -195,7 +195,39 @@ export function getThreatenedById(id: number) {
   return apiGet<PlantDetail>(BASE_URL, { threatened_plant_id: id })
 }
 
-/** ===== 卡片简化类型与批量获取 ===== */
+/** ===== 解析“ID 查询”工具（可选导出，供页面复用） =====
+ * 支持：
+ *   - "#1,2,3"   => general
+ *   - "ids:1,2"  => general
+ *   - "t#4,5"    => threatened
+ *   - "threat:6" => threatened
+ */
+export function parseIdQuery(raw: string): { kind: 'none' | 'general' | 'threatened', ids: number[] } {
+  const q = (raw || '').trim()
+  if (!q) return { kind: 'none', ids: [] }
+
+  const tMatch = q.match(/^(?:t#|t:\s*|threat(?:ened)?\s*:\s*)(.+)$/i)
+  if (tMatch) return { kind: 'threatened', ids: splitIds(tMatch[1]) }
+
+  const gMatch = q.match(/^(?:#|ids:\s*)(.+)$/i)
+  if (gMatch) return { kind: 'general', ids: splitIds(gMatch[1]) }
+
+  return { kind: 'none', ids: [] }
+}
+
+/** 拆分多个 ID，去重并过滤非法值 */
+export function splitIds(s: string): number[] {
+  return Array.from(
+    new Set(
+      (s || '')
+        .split(/[\s,，;；]+/)
+        .map(x => parseInt(x, 10))
+        .filter(n => Number.isFinite(n) && n > 0)
+    )
+  )
+}
+
+/** ===== 卡片简化类型与批量获取（general） ===== */
 export type PlantCardSimple = {
   general_plant_id: number
   common_name: string
@@ -203,16 +235,53 @@ export type PlantCardSimple = {
   image_url: string
 }
 
+/** 批量按 general_plant_id 拉取卡片展示所需最小信息 */
 export async function getPlantsForCardsByIds(ids: number[]): Promise<PlantCardSimple[]> {
   const uniq = Array.from(new Set(ids)).slice(0, 12)
-  const details = await Promise.all(uniq.map(id => getPlantById(id)))
-  return details.map(d => {
-    const cover = Array.isArray(d.image_urls) && d.image_urls.length ? d.image_urls[0] : ''
-    return {
-      general_plant_id: d.general_plant_id,
+  const details = await Promise.all(uniq.map(id => getPlantById(id).catch(() => null)))
+  return details
+    .filter((d): d is PlantDetail => !!d)
+    .map(d => {
+      const cover = Array.isArray(d.image_urls) && d.image_urls.length ? d.image_urls[0] : ''
+      return {
+        general_plant_id: d.general_plant_id,
+        common_name: d.common_name,
+        scientific_name: d.scientific_name,
+        image_url: cover,
+      }
+    })
+}
+
+/** ===== （可选）批量按 threatened_plant_id 拉取卡片（与 PlantCardItem 兼容） ===== */
+export async function getThreatenedCardsByIds(ids: number[]): Promise<PlantThreatCard[]> {
+  const uniq = Array.from(new Set(ids)).slice(0, 12)
+  const details = await Promise.all(uniq.map(id => getThreatenedById(id).catch(() => null)))
+  return details
+    .filter((d): d is PlantDetail => !!d)
+    .map(d => ({
+      id_type: 'threatened' as const,
+      threatened_plant_id: (typeof d.threatened_plant_id === 'number' ? d.threatened_plant_id : d.plant_id)!,
       common_name: d.common_name,
       scientific_name: d.scientific_name,
-      image_url: cover,
-    }
-  })
+      image_url: Array.isArray(d.image_urls) && d.image_urls.length ? d.image_urls[0] : null
+    }))
+}
+
+/** ===== （可选）统一方法：按类型批量拉取，直接得到列表用的 PlantCardItem[] ===== */
+export async function getCardsByIds(
+  ids: number[],
+  kind: 'general' | 'threatened' = 'general'
+): Promise<PlantCardItem[]> {
+  if (kind === 'general') {
+    const simple = await getPlantsForCardsByIds(ids)
+    return simple.map(s => ({
+      id_type: 'general' as const,
+      general_plant_id: s.general_plant_id,
+      common_name: s.common_name,
+      scientific_name: s.scientific_name,
+      image_url: s.image_url || null
+    }))
+  } else {
+    return getThreatenedCardsByIds(ids)
+  }
 }

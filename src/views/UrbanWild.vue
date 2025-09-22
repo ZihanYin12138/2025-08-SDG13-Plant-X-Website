@@ -153,15 +153,13 @@ export default {
 </script>
 
 <template>
-  <section class="section">
-    <div class="container">
+
+  <section class="container">
       <h2 class="title">Urban & Wild</h2>
-      <p class="lead">Explore native and resilient species in urban and wild landscapes, supporting biodiversity and climate resilience.</p>
-
-  <hr class="divider-red" aria-hidden="true" />
-      </div>
-      </section>
-
+      <p class="lead">
+        Explore native and resilient species in urban and wild landscapes, supporting biodiversity and climate resilience.
+      </p>
+  </section>
 
 
   <!-- Map Component -->
@@ -169,7 +167,6 @@ export default {
     <div class="section-box">
       <h2>Tree Distribution Map</h2>
       <p>Click anywhere on the map or use the search function to explore trees in that area.</p>
-
       <UrbanMap
         ref="mapRef"
         @map-click="handleMapClick"
@@ -182,178 +179,12 @@ export default {
 </template>
 
 <style scoped>
-/* Section box styles */
-.section-box {
+.section-box{
   border: 1.5px solid var(--border);
   border-radius: 14px;
-  padding: 20px;
-  background: transparent;
-  margin-bottom: 20px;
-}
-
-.title {
-  margin: 0 0 0.5rem;
-  color: var(--fg);
-}
-
-.lead {
-  color: var(--muted);
-  margin-bottom: 2rem;
-}
-
-
-/* API testing styles */
-.test-controls {
-  margin-top: 20px;
-}
-
-.test-buttons {
-  display: flex;
-  gap: 12px;
-  margin-bottom: 20px;
-  flex-wrap: wrap;
-}
-
-.test-btn {
-  padding: 10px 16px;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-  font-size: 14px;
-  font-weight: 500;
-  transition: all 0.2s ease;
-  min-width: 120px;
-}
-
-.test-btn:disabled {
-  opacity: 0.6;
-  cursor: not-allowed;
-}
-
-.get-btn {
-  background: #28a745;
-  color: white;
-}
-
-.get-btn:hover:not(:disabled) {
-  background: #218838;
-  transform: translateY(-1px);
-}
-
-.post-btn {
-  background: #007bff;
-  color: white;
-}
-
-.post-btn:hover:not(:disabled) {
-  background: #0056b3;
-  transform: translateY(-1px);
-}
-
-.options-btn {
-  background: #ffc107;
-  color: #212529;
-}
-
-.options-btn:hover:not(:disabled) {
-  background: #e0a800;
-  transform: translateY(-1px);
-}
-
-.clear-btn {
-  background: #6c757d;
-  color: white;
-}
-
-.clear-btn:hover:not(:disabled) {
-  background: #545b62;
-  transform: translateY(-1px);
-}
-
-.test-results {
-  background: #f8f9fa;
-  border: 1px solid #dee2e6;
-  border-radius: 8px;
   padding: 16px;
-  margin-top: 16px;
+  background: transparent;
 }
-
-.test-results h3 {
-  margin: 0 0 12px 0;
-  color: var(--fg);
-  font-size: 16px;
-}
-
-.results-text {
-  background: #212529;
-  color: #e9ecef;
-  padding: 12px;
-  border-radius: 6px;
-  font-family: 'Courier New', monospace;
-  font-size: 12px;
-  line-height: 1.4;
-  overflow-x: auto;
-  white-space: pre-wrap;
-  word-break: break-word;
-  margin: 0;
-  max-height: 400px;
-  overflow-y: auto;
-}
-
-/* Coordinate debug container styles */
-.coords-debug-container {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-  margin: 20px 0;
-}
-
-.coords-debug-container > div {
-  border-radius: 8px;
-  padding: 15px;
-  background: #f8f9fa;
-}
-
-.coords-debug-container > div:first-child {
-  border: 2px solid #007bff;
-}
-
-.coords-debug-container > div:first-child h3 {
-  margin: 0 0 10px 0;
-  color: #007bff;
-}
-
-.coords-debug-container > div:last-child {
-  border: 2px solid #28a745;
-}
-
-.coords-debug-container > div:last-child h3 {
-  margin: 0 0 10px 0;
-  color: #28a745;
-}
-
-.coords-debug-container .coords-info {
-  font-family: monospace;
-  font-size: 14px;
-  line-height: 1.4;
-}
-
-/* Responsive design */
-@media (max-width: 768px) {
-  .test-buttons {
-    flex-direction: column;
-  }
-
-  .test-btn {
-    width: 100%;
-  }
-
-  .coords-debug-container {
-    grid-template-columns: 1fr;
-    gap: 15px;
-  }
-}
-
 
 .divider-red {
   border: 0;

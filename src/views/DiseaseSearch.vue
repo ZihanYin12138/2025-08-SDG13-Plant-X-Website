@@ -59,11 +59,29 @@
         No matching diseases were found for this image. Try another photo (clear, single subject), or search by name/keyword.
       </p>
 
-      <!-- 预览 -->
+      <!-- 预览（右侧展示预测置信度） -->
       <div v-if="dPreviewUrl" class="preview">
+
         <img :src="dPreviewUrl" alt="preview" />
-        <span class="preview__name">{{ dPreviewName }}</span>
-        <button class="link" @click="clearDiseasePreview">Remove</button>
+
+        <div class="preview__right">
+          <div class="preview__top">
+            <span class="preview__name">{{ dPreviewName }}</span>
+            <button class="link" @click="clearDiseasePreview">Remove</button>
+          </div>
+          </div>
+
+          <!-- 预测结果（置信度） -->
+          <div class="predbox">
+            <p class="pred-name">Prediction results</p>
+          <ul v-if="dPreds.length" class="pred-list">
+            <li v-for="p in dPreds" :key="p.id" class="pred-item">
+              <span class="pred-name">{{ p.name || ('#' + p.id) }}</span>
+              <span class="pred-score">{{ formatProb(p.score) }}</span>
+            </li>
+          </ul>
+          </div>
+
       </div>
 
       <!-- 疾病上传弹窗（点击遮罩关闭 + ESC 关闭） -->
@@ -173,6 +191,8 @@ import PlantCardSkeleton from '@/components/CardSkeleton.vue'
 const D_PAGE_SIZE = 8
 const diseasePlaceholder = 'Search For A Disease'
 const MAX_MB = 3
+/** 特殊ID到名称映射（后端 0 表示健康） */
+const SPECIAL_DISEASE_LABELS: Record<number, string> = { 0: 'Healthy' }
 
 /** 查询与列表 */
 const diseaseQ = ref('')
@@ -185,6 +205,14 @@ const diseasePageInput = ref(1)
 /** 识别与“无匹配”提示 */
 const dRecognizing = ref(false)
 const dNoImageMatches = ref(false)
+
+/** 预测侧栏：id/名称/置信度（0~1 或 0~100 皆可） */
+const dPreds = ref<Array<{ id: number; name?: string; score: number | null }>>([])
+function formatProb(s: number | null) {
+  if (s == null || Number.isNaN(s)) return '—'
+  const pct = s <= 1 ? s * 100 : s
+  return `${pct.toFixed(1)}%`
+}
 
 /** 真实总数（若后端返回），否则用软总数兜底 */
 const dTotal = ref<number | null>(null)
@@ -294,6 +322,9 @@ async function processDiseaseFile(file:File){
   dPreviewUrl.value=URL.createObjectURL(file)
   dUploadOpen.value=false
 
+  // 清空旧预测
+  dPreds.value = []
+
   // —— 疾病识别：显示全屏 Loading
   dRecognizing.value = true
   diseaseLoading.value = true
@@ -302,18 +333,43 @@ async function processDiseaseFile(file:File){
   try{
     // 1) 上传
     const up = await uploadDiseaseImage(file)
-    // 2) 识别得到 id 列表
+    // 2) 识别得到 id + 分数
     const pred = await predictDiseaseByS3Key(up.key, D_PAGE_SIZE)
-    const ids: number[] = (pred.results || [])
-      .map((r:any)=> r?.plant_disease_id ?? r?.disease_id ?? r?.predicted_id)
-      .filter((id:any)=> typeof id === 'number')
+
+    const rawPreds = (pred.results || [])
+      .map((r:any) => {
+        const id =
+          r?.plant_disease_id ??
+          r?.disease_id ??
+          r?.predicted_id
+        const score = (typeof r?.score === 'number') ? r.score : null
+        return (typeof id === 'number') ? { id, score } : null
+      })
+      .filter(Boolean) as Array<{id:number; score:number|null}>
+
+    // 预测 id 列表（用于拉详情）；0=Healthy，不需要查详情
+    const ids: number[] = rawPreds.map(p => p.id).filter(id => id !== 0)
 
     if (!ids.length){
+      // 只有特殊标签（如 Healthy）或完全无结果
+      const nameMap = new Map<number, string>()
+      Object.entries(SPECIAL_DISEASE_LABELS).forEach(([k, v]) => nameMap.set(Number(k), v))
+
+      dPreds.value = rawPreds
+        .map(p => ({ ...p, name: nameMap.get(p.id) || ('#' + p.id) }))
+        .sort((a, b) => {
+          const sa = (a.score == null ? -1 : a.score)
+          const sb = (b.score == null ? -1 : b.score)
+          return sb - sa
+        })
+
       diseaseItems.value = []
       dTotal.value = 0
       diseasePage.value = 1
       diseasePageInput.value = 1
-      dNoImageMatches.value = true
+
+      // rawPreds 为空才算“无匹配”；若有 id=0（Healthy）则不是无匹配
+      dNoImageMatches.value = rawPreds.length === 0
       return
     }
 
@@ -326,11 +382,27 @@ async function processDiseaseFile(file:File){
     diseasePageInput.value = 1
     dTotal.value = diseaseItems.value.length
 
+    // 将预测与详情名称对齐，生成右侧列表
+    const nameMap = new Map<number, string>()
+    // 先放入特殊映射（0 -> Healthy）
+    Object.entries(SPECIAL_DISEASE_LABELS).forEach(([k, v]) => nameMap.set(Number(k), v))
+    for (const d of diseaseItems.value) {
+      nameMap.set(Number(d.id), d.name || d.scientific_name || String(d.id))
+    }
+    dPreds.value = rawPreds
+      .map(p => ({ ...p, name: nameMap.get(p.id) || ('#' + p.id) }))
+      .sort((a, b) => {
+        const sa = (a.score == null ? -1 : a.score)
+        const sb = (b.score == null ? -1 : b.score)
+        return sb - sa
+      })
+
     // 回到疾病块顶部
     const el = document.getElementById('diseases')
     if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' })
   }catch(e:any){
     diseaseError.value = e?.message || String(e)
+    dPreds.value = []
   }finally{
     diseaseLoading.value = false
     dRecognizing.value = false
@@ -340,6 +412,7 @@ function clearDiseasePreview(){
   if (dPreviewUrl.value) URL.revokeObjectURL(dPreviewUrl.value)
   dPreviewUrl.value=''
   dPreviewName.value=''
+  dPreds.value = []         // 清空预测显示
 }
 
 /** 初次进入：展示第一页（pdisease 内部会处理空查询） */
@@ -380,11 +453,34 @@ onBeforeUnmount(() => {
 .btn:disabled { opacity: .6; cursor: not-allowed; }
 .btn:hover { background: var(--hover); }
 
-/* ====== 预览 ====== */
-.preview { display: flex; align-items: center; gap: 10px; margin: 8px 0 16px; color: var(--muted); }
-.preview img { width: 44px; height: 44px; object-fit: cover; border-radius: 8px; }
+/* ====== 预览（右侧预测列表） ====== */
+.preview {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin: 8px 0 16px;
+  color: var(--muted);
+}
+.preview img { width: 100px; height: 100px; object-fit: cover; border-radius: 8px; }
+.preview__right { flex: 1; min-width: 0; }
+.preview__top { display: flex; align-items: center; gap: 10px; margin-bottom: 4px; }
 .preview__name { max-width: 40vw; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .link { color: var(--muted); background: none; border: none; cursor: pointer; }
+
+.pred-list {
+  margin: 0;
+  padding: 6px 8px;
+  list-style: none;
+  border: 1px dashed color-mix(in oklab, var(--fg) 30%, transparent);
+  border-radius: 8px;
+  background: var(--surface);
+  display: flex;
+  gap: 8px;
+  width: 100%;
+}
+.pred-item { display: flex; justify-content: space-between; align-items: center; padding: 4px 0; }
+.pred-name { color: var(--fg); font-weight: 600; margin-right: 8px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.pred-score { color: var(--muted); font-variant-numeric: tabular-nums; }
 
 /* ====== 弹窗 ====== */
 .modal-mask { position: fixed; inset: 0; background: var(--backdrop); display: grid; place-items: start center; padding-top: 48px; z-index: 50; }

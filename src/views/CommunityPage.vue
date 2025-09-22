@@ -1,7 +1,5 @@
 <script setup>
 import PlantRcmd from './PlantRcmd.vue';
-
-
 </script>
 
 <template>

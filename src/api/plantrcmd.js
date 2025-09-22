@@ -1,27 +1,38 @@
 // src/api/plantrcmd.js
-// 可按你的 axios 实例风格改写；这里用 fetch 示例。
-// 后端路由仅作示例，请按实际接口名调整。
+// 约定后端返回：{ weather: {...}, recommended_ids: [1,2,3,...] }
+// 若字段名不同（如 plant_ids / ids / kpi / metrics），下方会做兼容映射。
 
-const JSON_HEADERS = { 'Content-Type': 'application/json' }
+const RCMD_ENDPOINT = '/api/plantrcmd' // ← 修改为你的真实接口路径
 
-// 1) 16 天聚合天气
-export async function fetchWeatherAggregate (lat, lng) {
-  const resp = await fetch('/api/plantrcmd/aggregate-weather', {
-    method: 'POST',
-    headers: JSON_HEADERS,
-    body: JSON.stringify({ lat, lng, horizon_days: 16 })
-  })
-  if (!resp.ok) throw new Error(`HTTP ${resp.status}`)
-  return await resp.json()
+function normalizeBundle(json = {}) {
+  // 天气聚合字段兼容
+  const weather = json.weather || json.kpi || json.metrics || {}
+  // 推荐 ID 列表兼容
+  const ids =
+    json.recommended_ids ||
+    json.plant_ids ||
+    json.ids ||
+    (Array.isArray(json.items) ? json.items.map(it => it.id) : []) ||
+    []
+
+  return { weather, recommended_ids: Array.isArray(ids) ? ids : [] }
 }
 
-// 2) 植物推荐
-export async function fetchRecommendations (lat, lng) {
-  const resp = await fetch('/api/plantrcmd/recommendations', {
+/**
+ * POST 经纬度，返回 { weather, recommended_ids }
+ * @param {number} lat
+ * @param {number} lng
+ */
+export async function postCoordinates(lat, lng) {
+  const res = await fetch(RCMD_ENDPOINT, {
     method: 'POST',
-    headers: JSON_HEADERS,
-    body: JSON.stringify({ lat, lng, horizon_days: 16 })
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ lat, lng })
   })
-  if (!resp.ok) throw new Error(`HTTP ${resp.status}`)
-  return await resp.json()
+  if (!res.ok) {
+    const text = await res.text().catch(() => '')
+    throw new Error(text || `Request failed: ${res.status}`)
+  }
+  const json = await res.json()
+  return normalizeBundle(json)
 }

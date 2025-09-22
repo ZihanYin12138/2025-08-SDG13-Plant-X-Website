@@ -284,6 +284,7 @@ import { ref, reactive, onMounted, onBeforeUnmount, computed, watch } from 'vue'
 import {
   searchPlants,
   getPlantById,
+  getPlantsForCardsByIds,
   type PlantDetail,
   type PlantCardItem
 } from '@/api/plants'
