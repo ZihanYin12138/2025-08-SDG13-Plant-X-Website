@@ -1,38 +1,34 @@
 // src/api/plantrcmd.js
-// 约定后端返回：{ weather: {...}, recommended_ids: [1,2,3,...] }
-// 若字段名不同（如 plant_ids / ids / kpi / metrics），下方会做兼容映射。
+// GET /plant_recommendation?lat=..&lon=..
+// 返回中可能字段名不同，这里统一归一到 recommended_plant_ids
 
-const RCMD_ENDPOINT = '/api/plantrcmd' // ← 修改为你的真实接口路径
+const BASE_URL =
+  'https://ky21h193r2.execute-api.us-east-1.amazonaws.com/plantx/plant_recommendation'
 
-function normalizeBundle(json = {}) {
-  // 天气聚合字段兼容
-  const weather = json.weather || json.kpi || json.metrics || {}
-  // 推荐 ID 列表兼容
+function normalizeIds(json = {}) {
   const ids =
+    json.recommended_plant_ids ||
     json.recommended_ids ||
     json.plant_ids ||
     json.ids ||
     (Array.isArray(json.items) ? json.items.map(it => it.id) : []) ||
     []
-
-  return { weather, recommended_ids: Array.isArray(ids) ? ids : [] }
+  return Array.isArray(ids) ? ids : []
 }
 
 /**
- * POST 经纬度，返回 { weather, recommended_ids }
+ * GET 推荐植物ID
  * @param {number} lat
  * @param {number} lng
+ * @returns {Promise<{ recommended_plant_ids: number[] } & any>}
  */
-export async function postCoordinates(lat, lng) {
-  const res = await fetch(RCMD_ENDPOINT, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ lat, lng })
-  })
+export async function getRecommendations(lat, lng) {
+  const url = `${BASE_URL}?lat=${encodeURIComponent(lat)}&lon=${encodeURIComponent(lng)}`
+  const res = await fetch(url, { method: 'GET' })
   if (!res.ok) {
     const text = await res.text().catch(() => '')
     throw new Error(text || `Request failed: ${res.status}`)
   }
-  const json = await res.json()
-  return normalizeBundle(json)
+  const json = await res.json().catch(() => ({}))
+  return { ...json, recommended_plant_ids: normalizeIds(json) }
 }

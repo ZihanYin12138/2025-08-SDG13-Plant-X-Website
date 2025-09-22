@@ -45,7 +45,12 @@ const routes = [
     component: () => import('../views/DiseaseDetail.vue'),
     props: true,
     meta: { title: "Disease Detail · Plant'X" }
-  }
+  },
+  {
+  path: '/plantrcmd',
+  name: 'PlantRcmd',
+  component: () => import('../views/PlantRcmd.vue'),
+}
 ]
 
 const router = createRouter({

@@ -2,7 +2,12 @@
   <section class="section container">
     <!-- 面包屑 -->
     <nav class="breadcrumb" aria-label="Breadcrumb">
-      <RouterLink class="breadcrumb__link" to="/garden">Species</RouterLink>
+      <RouterLink
+        class="breadcrumb__link"
+        :to="backTo"
+      >
+        {{ backCrumbLabel }}
+      </RouterLink>
       <span class="breadcrumb__sep">›</span>
       <span class="breadcrumb__current">
         {{ plant?.common_name || preload?.common_name || '...' }}
@@ -93,7 +98,9 @@
   </section>
 
   <div class="center">
-    <RouterLink class="btn btn-ghost" to="/garden">Going Back to Garden</RouterLink>
+    <RouterLink class="btn btn-ghost" :to="backTo">
+      {{ backButtonLabel }}
+    </RouterLink>
   </div>
 </template>
 
@@ -102,6 +109,9 @@ import { ref, computed, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import { getPlantById, getThreatenedById, type PlantDetail } from '@/api/plants'
 import threatenedImg from '@/assets/placeholder.jpg'
+
+/* 解决 “Extraneous non-props attributes (id)” —— 接住 router-view 透传的 id */
+const props = defineProps<{ id?: string | number }>()
 
 type PreloadCard = {
   general_plant_id?: number
@@ -126,6 +136,25 @@ const route = useRoute()
 const loading = ref(true)
 const error = ref('')
 const plant = ref<PlantDetail | null>(null)
+
+/** ====== 从哪里来：rcmd（推荐）或默认（搜索） ====== */
+const fromSource = computed(() =>
+  String(route.query.from || '') ||
+  (window as any)?.history?.state?.from ||
+  ''
+)
+/* 用路径而非路由名，避免 “No match for { name:'PlantRcmd' }” */
+const backTo = computed(() =>
+  fromSource.value === 'rcmd'
+    ? '/plantrcmd'
+    : '/garden#plantsearch'
+)
+const backCrumbLabel = computed(() =>
+  fromSource.value === 'rcmd' ? 'Recommendations' : 'Species'
+)
+const backButtonLabel = computed(() =>
+  fromSource.value === 'rcmd' ? '← Back to Recommendations' : 'Going Back to Garden'
+)
 
 const isThreatened = computed(() => {
   const t = String(route.query.type || '').toLowerCase()
@@ -291,6 +320,18 @@ const careLevelLabel = computed(() =>
   (plant.value as any)?.threatened?.care_guide?.propagation_level ? 'Propagation Level' : 'Care Level'
 )
 
+/** 是否显示 Conservation 卡片（补上，避免未定义） */
+const conservationAny = computed(() =>
+  !!(conservationStatus.value
+    || provenance.value
+    || localBenefits.value
+    || hortPotential.value
+    || propagationMethods.value
+    || propagationLevel.value
+    || cultivationNote.value
+    || soilText.value)
+)
+
 /* -------------------------
  * 加载流程
  * ------------------------- */
@@ -312,8 +353,9 @@ onMounted(async () => {
   }
 
   try {
-    const idParam = route.params.id
-    const id = typeof idParam === 'string' ? parseInt(idParam, 10) : Number(idParam)
+    // 优先用 props.id，兼容 router-view 透传；否则回退到路由参数
+    const rawId = props.id ?? route.params.id
+    const id = typeof rawId === 'string' ? parseInt(rawId, 10) : Number(rawId)
 
     const data = (String(route.query.type || '').toLowerCase() === 'threatened')
       ? await getThreatenedById(id)
