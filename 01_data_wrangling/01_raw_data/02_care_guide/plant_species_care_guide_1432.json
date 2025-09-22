@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2673,
+      "species_id": 1432,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Graham Blandy'"
+      ],
+      "section": [
+        {
+          "id": 8225,
+          "type": "watering",
+          "description": "For boxwood (Buxus sempervirens 'Graham Blandy'), it is best to water it every 4 to 7 days, depending on weather and soil conditions. It is important to not allow the soil to become too dry, as this can negatively affect the health of the plant. A good guide is to check if the soil feels too dry just under the top 1 inch of soil. If it does, then water the plant. Water should be applied directly to the ground and it is best to water in the early morning or in the evening in order to minimize leaf burn from the sun. Overwatering should also be avoided; water until the soil is moist but not soggy. In dryer climates and summer months, boxwood plants need to be watered more frequently."
+        },
+        {
+          "id": 8226,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Graham Blandy') plants prefer 5 to 6 hours of direct sunlight per day. If planted in an area with less than 5 hours of sunlight, it is best to supplement the sunlight with broad spectrum artificial lighting for at least 4 hours each day. In areas with too much sun, like direct sunlight all day, it is important to provide some shade to the plant. Placing it in a spot that gets morning light and afternoon shade is ideal for boxwood plants. If the plant is exposed to intense sunlight for long periods, it can cause the leaves to discolor and wilt, leading to unhealthy growth."
+        },
+        {
+          "id": 8227,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Graham Blandy') should be pruned twice a year, once in spring and once in fall. During the spring prune each branch by 1/3 to 1/2 of its original size to maintain an even shape. In the fall, remove any dead or broken branches and thin them out if necessary. This will promote new growth and help the plant retain a nice shape. Pruning should only be done when necessary; if the plant is not overgrown, it does not need to be pruned."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

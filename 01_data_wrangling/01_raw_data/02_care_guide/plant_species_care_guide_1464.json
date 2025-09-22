@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2700,
+      "species_id": 1464,
+      "common_name": "calamint",
+      "scientific_name": [
+        "Calamintha nepeta"
+      ],
+      "section": [
+        {
+          "id": 8306,
+          "type": "watering",
+          "description": "Calamint should be watered regularly but without over-watering, as this can cause the plant to develop root rot or other diseases. Aim to water the plant thoroughly once a week, allowing the top 1”-2” (2.5-5 cm) of soil to dry out in-between waterings. In the summer months or during times of high temperatures, the plant may need to be watered more frequently. Signs that the plant may need more water include wilting, yellowing, or drooping of the leaves. Additionally, make sure to water at the base of the plant and not on the leaves. Doing so may promote fungal or bacterial growth."
+        },
+        {
+          "id": 8307,
+          "type": "sunlight",
+          "description": "Calamint plants are generally sensitive to the intensity and duration of sunlight. Generally, for optimum growth and flowering, calamint plants should be exposed to at least 6-8 hours of full sun a day. Calamint plants grown in partial shade may produce larger plants, but will not form the same abundant flowers as those that receive full sunlight. During the summer months when the sunlight is at its strongest, plants may need some shade to protect them from the potentially damaging effects of too much direct exposure. Additionally, when temperatures rise, plants should be either given some extra shade or watered more regularly to prevent burnout. In the fall and early spring, calamint plants will benefit from an increase in sunlight exposure."
+        },
+        {
+          "id": 8308,
+          "type": "pruning",
+          "description": "Pruning of a Calamint (Calamintha nepeta) plant should be done in late autumn or early spring. The objective of pruning is to maintain a neat and tidy appearance, encourage bushier growth, and to remove the flowers and fruits that form after flowering. Pruning Calamint should be done lightly as over-pruning can damage the plant. The amount of pruning should focus on removing any dead or damaged branches. If the bush is overgrown, some of the oldest, larger, and thicker stems can be removed to the base of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

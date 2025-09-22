@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2686,
+      "species_id": 1445,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Salicifolia'"
+      ],
+      "section": [
+        {
+          "id": 8264,
+          "type": "watering",
+          "description": "Water boxwood plants deeply when the soil is dry to the touch, about once every 7-10 days in average weather conditions. During periods of extreme heat, water the plants more often, as they will use more water. The soil should feel moist to an inch below the surface after watering. Be careful not to overwater, as this can cause root rot and other diseases. If your plant is in a container, water until you see water come out of the bottom."
+        },
+        {
+          "id": 8265,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Salicifolia') is a type of evergreen shrub that thrives in sunny to partially shady areas. It will do best when given direct sunlight for at least 4-6 hours a day. When growing boxwood in full sun, it should be given a few hours of shade from the hottest midday sun to protect it from sun scorch and leaf burn. In the spring and summer months, boxwood will also need some afternoon shade to protect it from the intense heat. In colder seasons the boxwood will benefit from some morning sun but should be protected from the afternoon sun to prevent leaf burn."
+        },
+        {
+          "id": 8266,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Salicifolia') is a beautiful slow-growing shrub that can be used for hedging, forming borders, or as a feature in a garden bed. Pruning is an important part of keeping boxwood looking its best. Generally, boxwood should be pruned twice a year - once in the spring and again in the fall.\n\nIn the spring (March/April), boxwood should be shaped and thinned as needed. This pruning gives the boxwood a defined shape and allows light and air to penetrate all parts of the bush. Prune out any dead, damaged, or diseased parts of the bush. Look for any weak or crossed limbs and prune them back as needed to the main branch to open up the plant and make it look tidy.\n\nIn the fall, boxwood should be lightly trimmed to neaten up the shape. It’s best to avoid hard pruning at this time, as it can lead to damage and encourage new growth late in the season. If necessary, prune lightly, removing only the tips of the branches.\n\nWhen pruning, clean and sharpened tools should be used to make sure the boxwood's branches are cut cleanly and evenly. Also, be sure to sterilize the pruning tools between plants to avoid spreading diseases."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

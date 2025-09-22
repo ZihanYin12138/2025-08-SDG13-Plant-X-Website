@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2713,
+      "species_id": 1483,
+      "common_name": "beautyberry",
+      "scientific_name": [
+        "Callicarpa dichotoma 'Early Amethyst'"
+      ],
+      "section": [
+        {
+          "id": 8345,
+          "type": "watering",
+          "description": "Water beautyberry plants once each week during the summer months. Soak the soil deeply, allowing the water to travel several inches below the root area. In the winter, water less frequently, about every 2 weeks, or when the soil starts to dry out. Never let the soil become totally dry. Incorporate a 2-inch layer of organic mulch around the base of the plant to keep the soil cool and moist during hot weather."
+        },
+        {
+          "id": 8346,
+          "type": "sunlight",
+          "description": "Beautyberry (Callicarpa dichotoma 'Early Amethyst') should be exposed to full sun at least 6 hours a day to thrive best. Early morning sun and afternoon shade is ideal, as beautyberry does not tolerate extended, midday heat well. This plant should also receive some sun in the winter, which is important for flowering and fruiting."
+        },
+        {
+          "id": 8347,
+          "type": "pruning",
+          "description": "Beautyberry (Callicarpa dichotoma 'Early Amethyst') is best pruned in late winter or early spring before growth begins. This is particularly important for pruning of this variety, which blooms on new growth so you don't want to prune them too much. While it is important to remove any dead or diseased foliage, be careful not to over-prune your beautyberry; it is best to err on the side of less pruning rather than more. Fruiting branches should be left intact, since the fruit is a major part of the plant’s ornamental appeal. Some shaping can be done if desired; depending on the size of the beautyberry, prune back straggly branches and canes that are competing for the same space, or remove branches that are growing in toward the center of the shrub."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

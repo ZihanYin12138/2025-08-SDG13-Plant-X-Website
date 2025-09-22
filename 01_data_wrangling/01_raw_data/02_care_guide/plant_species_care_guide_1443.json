@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2684,
+      "species_id": 1443,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Rochester'"
+      ],
+      "section": [
+        {
+          "id": 8258,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Rochester') should be watered once a week, allowing the soil to get slightly dry before re-watering. The amount of water should be enough to moisten the entire root system, but should be limited so that you do not see standing water in the pot. Consistent moisture is important, but it is best to gradually reduce the amount of water during periods of cooler temperatures. If the leaves of your boxwood are wilting, it is a sign that it needs additional water."
+        },
+        {
+          "id": 8259,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Rochester') is a member of the Buxaceae family and is a shade-tolerant evergreen shrub. It prefers sites with partial to full sun exposure and should get about 4 to 6 hours of direct sunlight a day for optimal growth and health. This usually translates to morning sunshine and partial afternoon shade. Too much direct midday sun can cause leaf scorch. During hot summer months, it is beneficial to provide some afternoon or dappled shade."
+        },
+        {
+          "id": 8260,
+          "type": "pruning",
+          "description": "Pruning boxwood (Buxus sempervirens 'Rochester') is best done during the late spring or early summer months. Avoid pruning during periods of extreme heat or extreme cold. Generally, boxwood should receive a light trim each year to maintain a desired shape and size. During this trim, remove weak or dead branches and thin them by removing a few of the older stems, allowing new branches to soar and creating light within the shrub. If you are looking to reduce the size of a boxwood, you can do a more aggressive pruning, removing 1/3 to 1/2 of the shrub’s oldest branches and stems. Make sure you are making clean cuts as to not tear at the boxwood."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

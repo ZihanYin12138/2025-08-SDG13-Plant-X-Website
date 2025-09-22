@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2640,
+      "species_id": 1393,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja nivea"
+      ],
+      "section": [
+        {
+          "id": 8126,
+          "type": "watering",
+          "description": "Water butterfly bush (Buddleja nivea) once a week in summer—about 1 to 2 inches—and once every 10 to 14 days in winter. Do not allow the soil to dry out completely between waterings. Allow the soil to get slightly dry before watering again. Discontinue watering in winter when temperatures drop below freezing and resume watering when the temperatures rise."
+        },
+        {
+          "id": 8127,
+          "type": "sunlight",
+          "description": "Butterfly bush (Buddleja nivea) prefers full sun in order to flower and thrive. This means that it should be exposed to at least 6 hours of direct sunlight each day for optimal growth. During the summer months, direct sunlight for more than 8 hours each day is preferred. During the cooler months, some shade during the hottest part of the day – around 2 to 3 pm – would be beneficial. It is best to avoid planting butterfly bushes in deep shade as this may inhibit its flowering and growth."
+        },
+        {
+          "id": 8128,
+          "type": "pruning",
+          "description": "Butterfly bush should be pruned twice a year--in late spring and again in late summer--to promote a more vigorous, bushy growth. In late spring, prune back the Butterfly Bush to 12-18 inches above the ground. This encourages new growth and helps to reduce the risk of disease. In late summer, prune a second time being more selective in removing only the stems that have grown too tall (new growth should remain untouched). Be sure to make cuts just above a leaf node to further encourage new growth. Butterfly Bush responds best to pruning, so do not be afraid to be aggressive when pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

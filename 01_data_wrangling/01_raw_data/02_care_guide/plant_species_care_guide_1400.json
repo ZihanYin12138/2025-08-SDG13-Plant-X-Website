@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1028,
+      "species_id": 1400,
+      "common_name": "gumbo-limbo",
+      "scientific_name": [
+        "Bursera simaruba"
+      ],
+      "section": [
+        {
+          "id": 3083,
+          "type": "watering",
+          "description": "Gumbo-limbo (Bursera simaruba) plants should be watered deeply about once a week during summer months, allowing the soil to become mostly dry between waterings. In the winter months, the frequency of watering should be reduced to every 2 to 3 weeks; the soil should remain slightly moist, not dry out completely between waterings. If the soil remains excessively wet for long periods of time, especially during winter, the plant may develop root rot."
+        },
+        {
+          "id": 3086,
+          "type": "sunlight",
+          "description": "Gumbo-limbo trees prefer full sun when grown in the landscape. When grown in its native range, which includes areas of the Caribbean, Central and South America, and Mexico, the tree typically receives up to 8 hours of direct sunlight daily. In the United States, the gumbo-limbo tree can benefit from protection from intense afternoon sun, especially during the summer months in areas with moderate climates. In cooler zones, the tree may appreciate being planted in a spot with some afternoon shade. Generally, the more sun a gumbo-limbo tree is provided (while not overwatering it), the healthier and more vigorous the tree will be."
+        },
+        {
+          "id": 3089,
+          "type": "pruning",
+          "description": "The best time to prune a Gumbo-limbo (Bursera simaruba) is during late winter or early spring, just before the new growth appears. Generally, light and selective pruning is recommended, cutting off any dead or diseased branches or twigs that may weaken the integrity of the tree. Pruning should also be done to ensure that the tree has an aesthetically pleasing shape and structure. As the Gumbo-limbo is a fast-growing tree, it may need to be pruned more often than other trees. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

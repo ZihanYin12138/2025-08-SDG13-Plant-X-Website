@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2644,
+      "species_id": 1397,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja weyeriana 'Golden Glow'"
+      ],
+      "section": [
+        {
+          "id": 8138,
+          "type": "watering",
+          "description": "Water your butterfly bush (Buddleja weyeriana 'Golden Glow') weekly, and provide enough water to saturate the soil to a depth of 8-10 inches. Water early in the day, whenever possible, so excess moisture doesn't remain on the foliage overnight. When rainfall is lacking, water deeply and thoroughly at least twice a month to encourage deep root growth. Reduce watering frequency in winter, when the plant enters dormancy."
+        },
+        {
+          "id": 8139,
+          "type": "sunlight",
+          "description": "The butterfly bush (Buddleja weyeriana 'Golden Glow') requires at least 4-6 hours of direct sunlight each day to promote vibrant blooms. This sun-loving plant should not be planted in full shade, as it will not produce the same colorful blooms and growth. During the peak summer months, it's best to place the bush in the early morning sun or dappled light in the afternoon to protect it from the harsh light of the afternoon sun. In the winter months, the butterfly bush can take more direct sun exposure, as the days get shorter and the sun’s rays are not as strong."
+        },
+        {
+          "id": 8140,
+          "type": "pruning",
+          "description": "For butterfly bush (Buddleja weyeriana 'Golden Glow'), it is important to prune the plant regularly to keep it thriving. Pruning should start in early spring before the shrub begins to break dormancy. This will encourage fresh new growth with more flowers appearing on the plant. Trim away any dead or damaged branches, then shape the shrub by cutting back about 1-third of the oldest branches. Cut each branch at a 45-degree angle, just above a leaf node. This will help encourage new shoots and stronger branching. Pruning butterfly bush in this manner each year will help maintain a compact habit and increase bloom production. If the plant begins to get too leggy, lightly reduce the length of all the branches back to a desired size to create a fuller shape. Re-pruning can also be performed in late summer to prolong flowering into the later months."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

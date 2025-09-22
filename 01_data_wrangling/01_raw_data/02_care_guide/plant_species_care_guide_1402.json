@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 96,
+      "species_id": 1402,
+      "common_name": "South American jelly palm",
+      "scientific_name": [
+        "Butia capitata"
+      ],
+      "section": [
+        {
+          "id": 1076,
+          "type": "watering",
+          "description": "South American jelly palms should be watered regularly and deeply, about once a week during the growing season. Make sure the soil is moist but not soggy. During the winter months, reduce the watering to once a month, allowing the soil to dry out slightly between waterings. During the summer months, water more frequently if the temperature is particularly hot, or if the area is not receiving enough rain. "
+        },
+        {
+          "id": 1077,
+          "type": "sunlight",
+          "description": "South American jelly palm (Butia capitata) grows best in full sun. It requires at least 6-8 hours of direct sunlight every day. The plant will thrive in the summer months when the days are longer and there is more direct sunlight but can also tolerate some shade. During the winter months in areas where the sun sets earlier, the plant may do better with at least 4-5 hours of direct sunlight every day."
+        },
+        {
+          "id": 1078,
+          "type": "pruning",
+          "description": "The South American jelly palm is a slow growing, graceful palm with a terminal crown of arching fronds. Pruning is recommended to maintain the plant’s shape and health. South American jelly palm should be pruned lightly throughout the year, removing only dead fronds and shoots. Pruning too heavily or too often can lead to the plant becoming stunted in growth.\n\nIn the early spring and late fall, the South American jelly palm can be pruned more extensively, focusing on removing old and diseased fronds, and shaping the crown. Prune back fronds to an equal length to maintain a uniform look. This will help light reach to the crown and allow airflow between the fronds. Heavy pruning should also be done in the early spring to encourage new growth. It is recommended to prune 1/3 of the palm at a time, allowing it to recover between cuts."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

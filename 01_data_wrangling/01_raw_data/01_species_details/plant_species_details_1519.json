@@ -1,0 +1,107 @@
+{
+  "id": 1519,
+  "common_name": "shrubby evening primrose",
+  "scientific_name": [
+    "Calylophus serrulatus"
+  ],
+  "other_name": [],
+  "family": "Onagraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "serrulatus",
+  "genus": "Calylophus",
+  "origin": [
+    "Canada and western United States"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Division"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1519&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1519&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July",
+    "May",
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1519&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Shrubby evening primrose (Calylophus serrulatus) is an amazing species of plant that blooms in the evening. Its stunning yellow daisy-like flowers will appear each night and stay open until the heat of the following day. It will often self-sow and provide visual interest to the landscape year-round. Additionally, its low-maintenance and drought-tolerant nature makes it perfect for novice gardeners and water-wise gardens. It's certainly a sight to behold and can be an eye-catching attraction for any garden!",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1519_calylophus_serrulatus/og/D096D0BED0B2D182D0B5D186D18C_D196D0BBD196D180D196D0B9D181D18CD0BAD0B8D0B9_D0BDD0B0_D181D182D0B5D0BFD0BED0B2D0BED0BCD183_D181D185D0B8D0BBD196_D0B4D0BED0BBD0B8D0BDD0B8_D180D196D187D0BAD0B8_D0AFD182D180D0B0D0BDD18C.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1519_calylophus_serrulatus/regular/D096D0BED0B2D182D0B5D186D18C_D196D0BBD196D180D196D0B9D181D18CD0BAD0B8D0B9_D0BDD0B0_D181D182D0B5D0BFD0BED0B2D0BED0BCD183_D181D185D0B8D0BBD196_D0B4D0BED0BBD0B8D0BDD0B8_D180D196D187D0BAD0B8_D0AFD182D180D0B0D0BDD18C.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1519_calylophus_serrulatus/medium/D096D0BED0B2D182D0B5D186D18C_D196D0BBD196D180D196D0B9D181D18CD0BAD0B8D0B9_D0BDD0B0_D181D182D0B5D0BFD0BED0B2D0BED0BCD183_D181D185D0B8D0BBD196_D0B4D0BED0BBD0B8D0BDD0B8_D180D196D187D0BAD0B8_D0AFD182D180D0B0D0BDD18C.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1519_calylophus_serrulatus/small/D096D0BED0B2D182D0B5D186D18C_D196D0BBD196D180D196D0B9D181D18CD0BAD0B8D0B9_D0BDD0B0_D181D182D0B5D0BFD0BED0B2D0BED0BCD183_D181D185D0B8D0BBD196_D0B4D0BED0BBD0B8D0BDD0B8_D180D196D187D0BAD0B8_D0AFD182D180D0B0D0BDD18C.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1519_calylophus_serrulatus/thumbnail/D096D0BED0B2D182D0B5D186D18C_D196D0BBD196D180D196D0B9D181D18CD0BAD0B8D0B9_D0BDD0B0_D181D182D0B5D0BFD0BED0B2D0BED0BCD183_D181D185D0B8D0BBD196_D0B4D0BED0BBD0B8D0BDD0B8_D180D196D187D0BAD0B8_D0AFD182D180D0B0D0BDD18C.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

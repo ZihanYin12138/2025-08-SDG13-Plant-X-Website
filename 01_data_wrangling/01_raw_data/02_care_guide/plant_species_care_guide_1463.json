@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1548,
+      "species_id": 1463,
+      "common_name": "reed grass",
+      "scientific_name": [
+        "Calamagrostis brachytricha"
+      ],
+      "section": [
+        {
+          "id": 4726,
+          "type": "watering",
+          "description": "Reed grass (Calamagrostis brachytricha) should be watered moderately, approximately twice per week during the growing season with 1-2 inches of water. Watering should be done in the morning to allow the foliage to dry quickly which helps to prevent fungal disease. During dry spells, increase the frequency of water to about 3-4 times per week. In winter, reduce watering to once per week or less. Be sure not to over water your Reed Grass, as this can cause root rot and other serious conditions."
+        },
+        {
+          "id": 4727,
+          "type": "sunlight",
+          "description": "Reed grass is a shade-tolerant species that performs best when grown in a location that receives partial or full sunlight. It prefers at least 4 hours of direct sunlight each day, but will still thrive in locations that only receive 2 or 3 hours of sunlight on most days. When given too much sun, reed grass may become sparse and yellow. "
+        },
+        {
+          "id": 4728,
+          "type": "pruning",
+          "description": "Reed grass (Calamagrostis brachytricha) should be pruned twice a year, once in late fall or early winter and again in late spring. In late fall or early winter, cut the reed grass back to 6 inches or less of its original height. This will give the plant a chance to promote bushier growth during the spring and summer months. When late spring arrives, cut it back again to 6 inches or less. This will encourage fresh growth and help maintain a healthy and attractive plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

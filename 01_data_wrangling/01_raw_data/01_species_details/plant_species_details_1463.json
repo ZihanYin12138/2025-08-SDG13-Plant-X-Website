@@ -1,0 +1,131 @@
+{
+  "id": 1463,
+  "common_name": "reed grass",
+  "scientific_name": [
+    "Calamagrostis brachytricha"
+  ],
+  "other_name": [],
+  "family": "Poaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "brachytricha",
+  "genus": "Calamagrostis",
+  "origin": [
+    "Central",
+    "eastern Asia"
+  ],
+  "type": "Ornamental grass",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Seed Propagation",
+    "Cutting",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1463&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1463&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "flower",
+      "color": [
+        "pink-beige"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun"
+  ],
+  "pruning_month": [
+    "December",
+    "January",
+    "May",
+    "December",
+    "January",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "May"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1463&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Reed grass (Calamagrostis brachytricha) is truly something special. It has elegant, feathery foliage that sways gracefully in the wind, giving the garden a soft, tranquil feel. The grass provides good ground cover and grows in a neat, uniform clump. When in bloom, long, purple-tinged spikes shoot up from the foliage, adding a stunning pop of color. Growing quickly and easily in all climates, this hardy grass requires little maintenance and thrives with little water, making it a great choice for landscaping in dryer regions. With its graceful shapes and colors, Reed Grass makes a beautiful addition to any garden.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1463_calamagrostis_brachytricha/og/52387252870_3b93bf7c6a_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1463_calamagrostis_brachytricha/regular/52387252870_3b93bf7c6a_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1463_calamagrostis_brachytricha/medium/52387252870_3b93bf7c6a_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1463_calamagrostis_brachytricha/small/52387252870_3b93bf7c6a_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1463_calamagrostis_brachytricha/thumbnail/52387252870_3b93bf7c6a_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

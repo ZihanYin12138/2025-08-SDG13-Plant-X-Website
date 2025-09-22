@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2661,
+      "species_id": 1420,
+      "common_name": "Japanese boxwood",
+      "scientific_name": [
+        "Buxus microphylla var. japonica 'National'"
+      ],
+      "section": [
+        {
+          "id": 8189,
+          "type": "watering",
+          "description": "Japanese boxwood should be watered every 2-3 weeks, approximately 2-3 inches per watering. During the hotter summer months, the plant should be watered more frequently, as much as once a week. It's best to water slowly, allowing the soil to absorb the water rather than letting it run off. Make sure the soil is damp but not soggy. During the colder winter months, it's best to reduce the frequency of watering and ensure that the soil is not left wet."
+        },
+        {
+          "id": 8190,
+          "type": "sunlight",
+          "description": "Japanese boxwood (Buxus microphylla var. japonica 'National') prefers full sun or partial shade. It does best when exposed to at least 6 hours of direct sunlight each day. If grown in full shade, it will not thrive and may even die. To maximize growth and protect it from too much sun, it may be beneficial to locate in a location that gets dappled sunlight or morning sun but is sheltered from the hot afternoon sun."
+        },
+        {
+          "id": 8191,
+          "type": "pruning",
+          "description": "Japanese boxwood ( Buxus microphylla var. japonica 'National' ) should be pruned twice a year, once in late summer and once in late winter. In late summer, pruning should occur to control the shape of the plant, removing dead or unruly branches or stems and thinning out any overcrowded areas. The pruning should be limited to no more than 1 third of the total growth and during the pruning season avoid removing more than 5 of the growth tips. In late winter, Japanese boxwood should be pruned to stimulate new growth and encourage flowering, but it should be noted that pruning at this time will shorten or delay the flowering period for the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

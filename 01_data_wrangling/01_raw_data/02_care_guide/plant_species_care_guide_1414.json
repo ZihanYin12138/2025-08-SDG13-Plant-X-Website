@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2657,
+      "species_id": 1414,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus microphylla 'Green Pillow'"
+      ],
+      "section": [
+        {
+          "id": 8177,
+          "type": "watering",
+          "description": "Water 'Green Pillow' boxwood when the soil feels dry to the touch, usually every 7 to 10 days. You can check the soil by sticking your finger about 2 inches down into it. If it's damp, wait a few days before watering again. The amount of water you should apply will vary depending on the size of the plant, the temperature outside, and the amount of sun and wind it is exposed to. Generally, soak the ground until the water starts to seep into the ground 1 to 2 feet away from the plant. Letting the water run slowly over the foliage for a few minutes is also beneficial."
+        },
+        {
+          "id": 8178,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus microphylla 'Green Pillow') is a plant species that generally grows best in full, direct sunlight. It requires 6 to 8 hours of sunlight each day, ideally during the morning or the early afternoon when the sun is not at its hottest. To keep the plant from drying out too quickly, indirect sunlight or filtered sunlight is also acceptable. Morning sunlight should be avoided as it can cause sunburn on tender young foliage.  Planting in the shade will result in fewer flowers and less vigorous growth."
+        },
+        {
+          "id": 8179,
+          "type": "pruning",
+          "description": "For boxwood (Buxus microphylla 'Green Pillow') pruning, it should be done in late winter or early spring. Prune lightly, removing no more than 1-third of the total growth. This will help ensure more compact growth and a healthy plant. Be sure to use sharp, clean pruning tools and make clean, flat-topped cuts. Avoid over-pruning, as this can stress the plant and damage its appearance. Always remove dead, diseased, or crossing branches as you prune."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

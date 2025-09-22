@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2648,
+      "species_id": 1403,
+      "common_name": "Balearic boxwood",
+      "scientific_name": [
+        "Buxus balearica"
+      ],
+      "section": [
+        {
+          "id": 8150,
+          "type": "watering",
+          "description": "Water the Balearic boxwood (Buxus balearica) once every week or 2, providing around 10-20 gallons of water. Soak the soil thoroughly, making sure not to drown the roots, and water until you see some runoff. In dry weather, provide sufficient irrigation to moisten the soil completely. During periods of extreme heat and drought, water it more often. In the winter months, reduce the amount of water and wait until the top 1–2 inches of soil dries out before watering again."
+        },
+        {
+          "id": 8151,
+          "type": "sunlight",
+          "description": "Balearic boxwood (Buxus balearica) plants do best if they receive at least 6 hours of direct sunlight per day. Full sun is preferred, but they can also do well in partial sun or part shade. The ideal time of day for these plants is from 8am to 2pm, when the sun is highest in the sky. If your Balearic boxwood is not getting enough sun, then it may become stunted and produce fewer flowers. To ensure optimal growth, make sure your Balearic boxwood is getting at least 6 hours of direct sun per day and the best time of day for this is from 8am to 2pm."
+        },
+        {
+          "id": 8152,
+          "type": "pruning",
+          "description": "Balearic boxwood (Buxus balearica) should be pruned lightly in the spring and more heavily in the late summer or early fall, as needed to maintain desired shape and size. When pruning in the spring, remove dead or damaged branches, as well as any overly long or vigorous new growth. In autumn, use hedgers shears to trim the boxwood into desired shape, focusing on cutting the sides of the plant, if necessary. When cutting through a branch, always position the shears so the cut angle is about 45 degrees and facing outward."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

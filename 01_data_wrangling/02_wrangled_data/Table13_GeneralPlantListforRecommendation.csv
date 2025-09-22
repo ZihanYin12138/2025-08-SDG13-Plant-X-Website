@@ -1,0 +1,1009 @@
+general_plant_id,sunlight,watering,drought_tolerant,absolute_min_temp_c
+398,"[""full sun"", ""part shade""]",Average,True,-17.8
+399,"[""full sun"", ""part shade""]",Average,False,-23.3
+400,"[""full sun"", ""part shade""]",Average,True,-28.9
+401,"[""Full sun"", ""part shade""]",Average,False,-23.3
+402,"[""full sun"", ""part shade""]",Average,True,-28.9
+403,"[""full sun"", ""part shade""]",Average,False,-23.3
+404,"[""full sun"", ""part shade""]",Average,False,-23.3
+405,"[""full sun"", ""part shade""]",Average,False,-23.3
+406,"[""full sun"", ""part shade""]",Average,False,-28.9
+407,"[""full sun"", ""part shade""]",Average,False,-34.4
+408,"[""full sun"", ""part shade""]",Average,False,-23.3
+409,"[""full sun""]",Average,True,-28.9
+410,"[""full sun""]",Frequent,True,-45.6
+411,"[""Full sun""]",Average,False,-45.6
+412,"[""Full sun""]",Average,True,-12.2
+413,"[""full sun""]",Average,True,-6.7
+414,"[""full sun""]",Average,False,-40.0
+415,"[""full sun"", ""part sun/part shade""]",Average,False,-40.0
+416,"[""part sun/part shade"", ""full sun""]",Average,False,-40.0
+417,"[""Full sun"", ""part shade""]",Average,False,-23.3
+418,"[""full sun""]",Average,False,-28.9
+419,"[""full sun""]",Average,False,-34.4
+420,"[""full sun"", ""part shade""]",Average,False,-28.9
+421,"[""full sun"", ""part shade""]",Average,False,-34.4
+422,"[""full sun"", ""part shade""]",Average,False,-34.4
+423,"[""full sun"", ""part shade""]",Average,False,-34.4
+424,"[""full sun""]",Average,True,-23.3
+425,"[""full sun"", ""part shade""]",Frequent,True,-6.7
+426,"[""full sun"", ""part shade""]",Average,True,-6.7
+427,"[""full sun"", ""part shade""]",Average,True,-6.7
+428,"[""full sun""]",Average,True,-6.7
+429,"[""full sun"", ""part shade""]",Average,True,-6.7
+431,"[""full sun""]",Average,True,-6.7
+432,"[""full sun""]",Average,True,-28.9
+433,"[""full sun"", ""part shade""]",Average,False,-1.1
+434,"[""full sun"", ""part shade""]",Frequent,False,-1.1
+435,"[""full sun""]",Average,True,-34.4
+436,"[""full sun"", ""part shade""]",Average,True,-28.9
+437,"[""full sun"", ""part shade""]",Average,False,-17.8
+438,"[""part sun/part shade"", ""full sun""]",Average,True,-17.8
+439,"[""full sun"", ""part shade""]",Minimum,True,-17.8
+440,"[""full sun"", ""part shade""]",Average,True,-17.8
+441,"[""full sun"", ""part shade""]",Average,False,-28.9
+442,"[""full sun"", ""part shade""]",Average,True,-23.3
+443,"[""full sun"", ""part shade""]",Minimum,True,-12.2
+457,"[""full sun"", ""part shade""]",Average,False,-28.9
+458,"[""full sun"", ""part shade""]",Average,False,-28.9
+459,"[""full sun"", ""part shade""]",Average,False,-28.9
+471,"[""full sun""]",Average,False,-40.0
+472,"[""full sun""]",Minimum,False,-40.0
+473,"[""full sun"", ""part shade""]",Average,False,-40.0
+474,"[""Full sun""]",Minimum,True,-40.0
+475,"[""full sun""]",Average,True,-40.0
+476,"[""full sun""]",Frequent,True,-40.0
+477,"[""full sun""]",Frequent,True,-40.0
+478,"[""full sun""]",Average,True,-40.0
+479,"[""full sun""]",Average,True,-40.0
+480,"[""full sun""]",Average,True,-40.0
+481,"[""full sun""]",Average,True,-40.0
+482,"[""full sun""]",Average,True,-40.0
+483,"[""full sun""]",Average,False,-40.0
+484,"[""full sun""]",Average,True,-40.0
+485,"[""full sun"", ""part sun/part shade""]",Average,False,-40.0
+486,"[""full sun""]",Average,True,-40.0
+487,"[""Full sun""]",Average,False,-40.0
+488,"[""full sun"", ""part sun/part shade""]",Average,True,-40.0
+489,"[""full sun"", ""part shade""]",Average,False,-40.0
+490,"[""full sun""]",Average,True,-40.0
+491,"[""full sun"", ""part shade""]",Frequent,True,-40.0
+492,"[""full sun"", ""part shade""]",Minimum,True,-40.0
+493,"[""full sun""]",Average,True,-28.9
+494,"[""full sun""]",Average,True,-28.9
+495,"[""full sun""]",Average,False,-28.9
+496,"[""full sun"", ""part sun/part shade""]",Average,True,-40.0
+497,"[""full sun""]",Average,True,-40.0
+498,"[""full sun""]",Average,True,-40.0
+499,"[""full sun"", ""part sun/part shade""]",Average,True,-40.0
+500,"[""full sun""]",Average,False,-40.0
+501,"[""full sun""]",Average,False,-40.0
+502,"[""part shade""]",Average,False,-1.1
+503,"[""full sun""]",Average,False,-17.8
+504,"[""full sun""]",Frequent,False,-6.7
+505,"[""full sun"", ""part shade""]",Average,False,-34.4
+506,"[""full sun""]",Average,True,-40.0
+507,"[""full sun"", ""part shade""]",Average,True,-40.0
+508,"[""full sun"", ""part shade""]",Average,False,-40.0
+509,"[""full sun"", ""part shade""]",Average,False,-34.4
+510,"[""part shade"", ""filtered shade""]",Average,False,-40.0
+511,"[""full sun"", ""part shade""]",Average,False,-40.0
+512,"[""full sun"", ""part shade""]",Average,False,-34.4
+513,"[""full sun"", ""part shade""]",Frequent,True,-34.4
+514,"[""full sun"", ""part shade""]",Average,True,-34.4
+515,"[""full sun"", ""part shade""]",Frequent,True,-23.3
+516,"[""full sun"", ""part shade""]",Average,True,-28.9
+517,"[""part shade"", ""part sun/part shade""]",Average,True,-28.9
+518,"[""full sun"", ""part shade""]",Average,True,-28.9
+519,"[""full sun"", ""part shade""]",Average,True,-28.9
+520,"[""full sun"", ""part shade""]",Average,True,-28.9
+521,"[""part shade"", ""full shade""]",Average,True,-34.4
+522,"[""full sun"", ""part sun/part shade""]",Average,False,-34.4
+523,"[""part shade"", ""part sun/part shade""]",Average,True,-34.4
+524,"[""part sun/part shade""]",Frequent,False,-40.0
+525,"[""part shade"", ""part sun/part shade"", ""full sun""]",Average,True,-34.4
+526,"[""part shade""]",Average,True,-40.0
+527,"[""full sun"", ""part shade""]",Average,False,-40.0
+528,"[""part shade"", ""part sun/part shade""]",Average,True,-34.4
+529,"[""filtered shade"", ""part sun/part shade"", ""full sun""]",Average,True,-40.0
+530,"[""deep shade"", ""filtered shade"", ""part sun/part shade""]",Average,True,-40.0
+531,"[""deep shade"", ""filtered shade"", ""part sun/part shade""]",Average,True,-40.0
+532,"[""filtered shade"", ""part sun/part shade"", ""full sun""]",Average,True,-40.0
+533,"[""deep shade"", ""filtered shade"", ""part sun/part shade""]",Average,True,-40.0
+534,"[""full sun"", ""part shade""]",Frequent,True,-40.0
+535,"[""full sun"", ""part shade""]",Average,True,-40.0
+536,"[""Full sun""]",Average,False,-12.2
+537,"[""full sun"", ""part shade""]",Average,True,-34.4
+538,"[""full sun"", ""part shade""]",Average,False,-40.0
+540,"[""full sun""]",Minimum,True,4.4
+541,"[""full sun"", ""part shade""]",Average,True,-40.0
+542,"[""full sun""]",Average,True,-40.0
+543,"[""part shade"", ""part sun/part shade""]",Average,False,-28.9
+544,"[""part shade"", ""part sun/part shade""]",Average,True,-12.2
+545,"[""part sun/part shade"", ""part shade""]",Average,False,-40.0
+546,"[""part shade""]",Average,True,-1.1
+547,"[""full sun"", ""part shade""]",Average,True,-23.3
+548,"[""full sun""]",Average,True,-1.1
+549,"[""part sun/part shade""]",Average,True,-1.1
+550,"[""full sun""]",Frequent,False,-34.4
+551,"[""full sun"", ""part shade""]",Average,True,-1.1
+552,"[""part shade"", ""full sun""]",Average,True,-1.1
+560,"[""full sun"", ""part shade""]",Average,True,-28.9
+564,"[""part shade"", ""full sun""]",Average,True,-34.4
+565,"[""part shade"", ""full shade""]",Average,True,-34.4
+566,"[""part shade"", ""full shade""]",Average,False,-34.4
+567,"[""full sun"", ""part shade""]",Average,True,-34.4
+568,"[""part shade"", ""full sun"", ""part sun/part shade""]",Minimum,False,-17.8
+570,"[""full sun"", ""part sun/part shade""]",Average,True,-6.7
+571,"[""full sun""]",Average,True,-45.6
+572,"[""full sun""]",Average,True,-12.2
+573,"[""full sun"", ""part shade""]",Average,True,-28.9
+574,"[""part shade""]",Average,True,-28.9
+575,"[""full sun"", ""part shade""]",Average,True,-23.3
+576,"[""full sun"", ""part shade""]",Average,False,-17.8
+577,"[""full sun"", ""part shade""]",Average,False,-17.8
+578,"[""full sun"", ""part shade""]",Average,True,-17.8
+579,"[""full sun"", ""part shade""]",Average,True,-23.3
+580,"[""full sun"", ""part sun/part shade""]",Average,False,-23.3
+581,"[""full sun""]",Average,True,-28.9
+582,"[""full sun""]",Average,False,-23.3
+583,"[""full sun""]",Average,False,-28.9
+584,"[""full sun"", ""part sun/part shade""]",Frequent,True,-28.9
+585,"[""full sun"", ""part sun/part shade""]",Average,True,-28.9
+586,"[""full sun"", ""part shade""]",Average,True,-28.9
+587,"[""full sun"", ""part shade""]",Average,True,-28.9
+588,"[""full sun""]",Frequent,True,-23.3
+589,"[""full sun"", ""part sun/part shade""]",Average,False,-34.4
+590,"[""full sun""]",Average,True,-28.9
+591,"[""full sun""]",Average,True,-23.3
+592,"[""full sun"", ""part sun/part shade""]",Average,True,-45.6
+593,"[""full sun""]",Average,False,-23.3
+594,"[""full sun""]",Average,True,-23.3
+595,"[""full sun""]",Average,True,-23.3
+596,"[""full sun"", ""part shade""]",Average,True,-28.9
+597,"[""full sun"", ""part shade""]",Average,False,-28.9
+598,"[""full sun"", ""part shade""]",Average,True,-28.9
+599,"[""full sun"", ""part shade""]",Average,True,-23.3
+600,"[""full sun""]",Frequent,True,-23.3
+601,"[""full sun""]",Average,False,-23.3
+602,"[""Full sun""]",Average,True,-23.3
+603,"[""full sun""]",Average,True,-28.9
+604,"[""full sun""]",Average,False,-23.3
+605,"[""full sun""]",Average,False,-28.9
+606,"[""full sun"", ""sheltered""]",Minimum,True,-12.2
+607,"[""full sun"", ""part shade""]",Minimum,True,-1.1
+608,"[""full sun""]",Average,True,-6.7
+609,"[""full sun"", ""part shade""]",Average,True,-12.2
+610,"[""full sun""]",Minimum,False,-6.7
+611,"[""full sun""]",Minimum,True,-17.8
+612,"[""full sun""]",Minimum,True,-17.8
+613,"[""full sun""]",Minimum,True,-17.8
+614,"[""full sun""]",Average,True,-12.2
+615,"[""full sun""]",Average,True,-12.2
+616,"[""full sun""]",Average,False,-6.7
+617,"[""full sun""]",Minimum,True,-12.2
+618,"[""full sun""]",Minimum,True,-12.2
+619,"[""full sun"", ""part shade""]",Average,True,-40.0
+620,"[""full sun"", ""part shade""]",Frequent,True,-40.0
+621,"[""part sun/part shade"", ""full sun""]",Average,True,-45.6
+622,"[""part sun/part shade"", ""full sun""]",Average,False,-45.6
+623,"[""full sun""]",Average,True,-1.1
+624,"[""full sun"", ""part shade""]",Average,True,-1.1
+625,"[""part shade"", ""full shade""]",Average,True,-1.1
+626,"[""part shade"", ""full shade""]",Average,True,-1.1
+627,"[""part sun/part shade"", ""part shade""]",Average,True,-1.1
+628,"[""part shade"", ""full shade""]",Average,True,-1.1
+629,"[""full sun"", ""part sun/part shade""]",Average,True,-40.0
+630,"[""full sun"", ""part sun/part shade""]",Average,True,-40.0
+632,"[""full sun"", ""part shade""]",Average,True,-28.9
+633,"[""full sun"", ""part shade""]",Average,True,-28.9
+634,"[""part sun/part shade""]",Average,True,-40.0
+635,"[""full sun"", ""part sun/part shade""]",Average,True,-40.0
+636,"[""part sun/part shade"", ""filtered shade""]",Average,True,-40.0
+637,"[""part sun/part shade"", ""part shade""]",Average,False,-40.0
+638,"[""full sun"", ""part sun/part shade""]",Average,True,-40.0
+639,"[""part sun/part shade"", ""full sun""]",Average,True,-40.0
+640,"[""full sun"", ""part sun/part shade""]",Average,True,-40.0
+641,"[""part sun/part shade"", ""full sun""]",Frequent,True,-40.0
+642,"[""part sun/part shade"", ""full sun""]",Average,True,-40.0
+643,"[""full sun"", ""part sun/part shade""]",Average,True,-40.0
+644,"[""full sun"", ""part sun/part shade""]",Average,True,-40.0
+645,"[""full sun"", ""part sun/part shade""]",Average,True,-40.0
+646,"[""full sun"", ""part sun/part shade""]",Average,True,-40.0
+647,"[""full sun"", ""part sun/part shade""]",Average,True,-40.0
+648,"[""part shade"", ""part sun/part shade""]",Average,True,-28.9
+649,"[""full sun"", ""part shade""]",Frequent,True,-34.4
+650,"[""full sun""]",Average,True,-17.8
+651,"[""full sun"", ""part shade""]",Minimum,False,-17.8
+653,"[""full sun"", ""part shade""]",Average,False,-45.6
+654,"[""full sun"", ""part shade""]",Average,False,-45.6
+655,"[""full sun"", ""part shade""]",Average,True,-45.6
+656,"[""part sun/part shade""]",Average,True,-34.4
+657,"[""part sun/part shade"", ""filtered shade""]",Average,False,-40.0
+658,"[""full sun"", ""part shade""]",Average,False,-40.0
+659,"[""full sun"", ""part shade""]",Average,False,-40.0
+661,"[""full sun"", ""part sun/part shade""]",Frequent,True,-28.9
+662,"[""full sun"", ""part sun/part shade""]",Frequent,False,-1.1
+663,"[""full sun""]",Average,True,-23.3
+664,"[""full sun"", ""part sun/part shade""]",Average,False,-34.4
+665,"[""full sun"", ""part shade""]",Average,False,-28.9
+666,"[""full sun"", ""part sun/part shade""]",Average,True,-28.9
+667,"[""full sun""]",Average,False,-28.9
+668,"[""full sun"", ""part sun/part shade""]",Average,True,-34.4
+669,"[""full sun"", ""part shade""]",Average,True,-34.4
+670,"[""full sun""]",Average,False,-34.4
+671,"[""full sun""]",Frequent,False,-23.3
+672,"[""full sun""]",Average,False,-34.4
+673,"[""full sun""]",Average,True,-28.9
+674,"[""full sun"", ""part shade""]",Average,True,-23.3
+675,"[""full sun""]",Average,False,-34.4
+676,"[""full sun""]",Average,False,-28.9
+677,"[""full sun"", ""part shade""]",Average,True,-34.4
+678,"[""full sun""]",Average,True,-28.9
+679,"[""full sun"", ""part shade""]",Average,True,-28.9
+680,"[""full sun"", ""part shade""]",Average,True,-40.0
+681,"[""full sun""]",Average,True,-34.4
+682,"[""full sun""]",Average,True,-34.4
+683,"[""full sun""]",Average,True,-34.4
+684,"[""full sun""]",Average,False,-34.4
+685,"[""full sun"", ""part shade""]",Frequent,True,-34.4
+686,"[""full sun"", ""part shade""]",Average,True,-34.4
+687,"[""full sun"", ""part sun/part shade""]",Average,True,-28.9
+688,"[""full sun"", ""part shade""]",Average,True,-34.4
+689,"[""full sun"", ""part shade""]",Average,True,-34.4
+690,"[""full sun"", ""part shade""]",Average,True,-40.0
+691,"[""full sun"", ""part shade""]",Average,True,-34.4
+692,"[""full sun"", ""part shade""]",Minimum,True,-34.4
+693,"[""full sun""]",Average,True,-34.4
+694,"[""full sun""]",Minimum,True,-40.0
+695,"[""full sun"", ""part shade""]",Average,True,-28.9
+696,"[""full sun"", ""part shade""]",Average,True,-34.4
+697,"[""full sun"", ""part shade""]",Average,True,-40.0
+698,"[""full sun"", ""part shade""]",Average,False,-28.9
+699,"[""full sun"", ""part shade""]",Frequent,True,-6.7
+700,"[""full sun"", ""part shade""]",Average,True,-6.7
+710,"[""part shade"", ""part sun/part shade""]",Average,True,-1.1
+711,"[""part shade""]",Frequent,False,-1.1
+712,"[""part shade""]",Average,False,-6.7
+713,"[""full sun"", ""part shade""]",Average,True,-1.1
+714,"[""full sun"", ""part shade""]",Average,False,-17.8
+715,"[""part shade""]",Average,True,-6.7
+716,"[""full sun"", ""part shade""]",Average,False,-6.7
+717,"[""full sun"", ""part shade""]",Average,True,-17.8
+718,"[""part sun/part shade""]",Average,True,-6.7
+719,"[""full sun"", ""part shade""]",Average,False,-17.8
+720,"[""full sun""]",Average,False,-6.7
+721,"[""part shade"", ""part sun/part shade""]",Minimum,True,-6.7
+722,"[""full sun"", ""part shade""]",Average,False,-6.7
+723,"[""full sun"", ""part sun/part shade""]",Average,True,-6.7
+724,"[""full sun"", ""part shade""]",Average,True,-1.1
+725,"[""full sun""]",Minimum,True,-6.7
+726,"[""full sun""]",Minimum,True,-6.7
+728,"[""full sun""]",Minimum,True,-1.1
+729,"[""full sun""]",Average,True,-12.2
+730,"[""Full sun""]",Minimum,True,-12.2
+731,"[""full sun"", ""part shade""]",Average,False,4.4
+732,"[""full sun"", ""part sun/part shade""]",Average,True,-12.2
+733,"[""Full sun"", ""part shade""]",Average,True,-12.2
+734,"[""part shade"", ""part sun/part shade""]",Average,True,-12.2
+735,"[""full sun"", ""part shade""]",Average,False,-17.8
+736,"[""full sun"", ""part shade""]",Average,False,-12.2
+737,"[""full sun"", ""part shade""]",Average,False,-17.8
+738,"[""full sun"", ""part shade""]",Average,False,-17.8
+739,"[""full sun"", ""part shade""]",Average,False,-17.8
+740,"[""full sun"", ""part shade""]",Average,False,-28.9
+741,"[""full sun"", ""part shade""]",Average,True,-12.2
+742,"[""full sun"", ""part shade""]",Average,False,-12.2
+743,"[""full sun"", ""part shade""]",Average,False,-28.9
+744,"[""full sun"", ""part shade""]",Average,False,-12.2
+745,"[""full sun"", ""part shade""]",Frequent,True,-6.7
+746,"[""full sun"", ""part shade""]",Average,True,-1.1
+747,"[""full sun"", ""part shade""]",Frequent,False,-1.1
+748,"[""full sun"", ""part shade""]",Average,True,-1.1
+749,"[""full sun""]",Frequent,False,-40.0
+750,"[""full sun""]",Average,True,-23.3
+751,"[""Full sun""]",Frequent,True,-17.8
+752,"[""full sun""]",Average,True,-34.4
+753,"[""full sun"", ""part shade""]",Average,True,-45.6
+754,"[""full sun"", ""part shade""]",Average,True,-45.6
+755,"[""full sun""]",Average,True,-45.6
+756,"[""full sun""]",Average,True,-45.6
+757,"[""full sun""]",Average,True,-45.6
+765,"[""full sun"", ""part shade""]",Average,True,-40.0
+766,"[""full sun"", ""part shade""]",Average,True,-28.9
+767,"[""Full sun"", ""part shade""]",Average,True,-34.4
+768,"[""full sun""]",Average,False,-45.6
+769,"[""full sun""]",Average,True,-34.4
+770,"[""full sun"", ""part shade""]",Average,False,-28.9
+771,"[""part shade"", ""part sun/part shade""]",Average,True,-23.3
+772,"[""full sun"", ""part shade""]",Frequent,True,-34.4
+773,"[""full sun"", ""part shade""]",Average,True,-34.4
+774,"[""full sun"", ""part shade""]",Average,True,-34.4
+775,"[""full sun"", ""part shade""]",Average,True,-34.4
+776,"[""full sun"", ""part shade""]",Average,True,-28.9
+777,"[""full sun"", ""part shade""]",Average,False,-28.9
+778,"[""full sun"", ""part shade""]",Frequent,True,-28.9
+779,"[""full sun"", ""part shade""]",Minimum,True,-28.9
+780,"[""full sun"", ""part shade""]",Average,True,-28.9
+781,"[""full sun"", ""part shade""]",Minimum,False,-28.9
+782,"[""full sun"", ""part shade""]",Frequent,True,-34.4
+783,"[""full sun"", ""part shade""]",Average,True,-28.9
+784,"[""full sun"", ""part shade""]",Average,True,-34.4
+785,"[""full sun"", ""part shade""]",Average,True,-40.0
+786,"[""full sun"", ""part shade""]",Average,True,-34.4
+787,"[""full sun"", ""part shade""]",Average,True,-28.9
+788,"[""full sun"", ""part shade""]",Frequent,True,-40.0
+789,"[""full sun"", ""part shade""]",Average,True,-40.0
+790,"[""full sun""]",Average,True,-12.2
+791,"[""full sun""]",Frequent,True,4.4
+792,"[""full sun""]",Frequent,False,-6.7
+793,"[""part sun/part shade""]",Frequent,True,4.4
+794,"[""full sun"", ""part sun/part shade""]",Frequent,True,-40.0
+795,"[""full sun"", ""part shade""]",Frequent,True,-40.0
+796,"[""full sun"", ""part shade""]",Frequent,True,-40.0
+797,"[""full sun"", ""part shade""]",Average,False,-40.0
+798,"[""full sun"", ""part shade""]",Average,True,-40.0
+799,"[""full sun"", ""part shade""]",Frequent,True,-23.3
+800,"[""full sun"", ""part sun/part shade""]",Average,True,-34.4
+801,"[""part sun/part shade"", ""full sun""]",Average,True,-34.4
+802,"[""full sun"", ""part sun/part shade""]",Minimum,True,-34.4
+803,"[""full sun"", ""part sun/part shade""]",Minimum,False,-34.4
+804,"[""Full sun""]",Minimum,True,-28.9
+805,"[""part shade""]",Frequent,True,-40.0
+806,"[""full sun"", ""part shade""]",Average,True,-28.9
+807,"[""full sun"", ""part shade""]",Average,True,-28.9
+808,"[""full sun"", ""part shade""]",Frequent,True,-28.9
+809,"[""full sun"", ""part shade""]",Average,True,-28.9
+810,"[""full sun"", ""part shade""]",Average,True,-40.0
+811,"[""full sun"", ""part shade""]",Average,False,-17.8
+812,"[""full sun"", ""part sun/part shade""]",Average,True,-34.4
+813,"[""full sun"", ""part shade""]",Average,True,-34.4
+814,"[""full sun"", ""part shade""]",Average,False,-28.9
+815,"[""full sun"", ""part shade""]",Average,False,-28.9
+816,"[""full sun"", ""part shade""]",Frequent,True,-28.9
+817,"[""full sun"", ""part shade""]",Average,True,-28.9
+818,"[""full sun"", ""part shade""]",Average,True,-34.4
+819,"[""full sun"", ""part shade""]",Average,False,-34.4
+820,"[""full sun"", ""part shade""]",Average,True,-28.9
+821,"[""full sun"", ""part shade""]",Average,False,-34.4
+822,"[""full sun"", ""part shade""]",Average,True,-34.4
+823,"[""full sun"", ""part shade""]",Average,False,-34.4
+824,"[""part shade""]",Average,True,-28.9
+825,"[""Full sun"", ""part shade""]",Average,True,-34.4
+826,"[""full sun"", ""part shade""]",Average,True,-28.9
+827,"[""full sun"", ""part shade""]",Average,False,-28.9
+828,"[""full sun"", ""part shade""]",Average,False,-28.9
+829,"[""Partial Shade""]",Average,True,-40.0
+830,"[""Full sun"", ""part shade""]",Average,False,-28.9
+831,"[""full sun"", ""part sun/part shade""]",Average,True,-34.4
+832,"[""full sun"", ""part shade""]",Average,True,-34.4
+833,"[""Full sun"", ""part shade""]",Minimum,True,-45.6
+834,"[""full sun"", ""part shade""]",Average,True,-45.6
+835,"[""full sun"", ""part shade""]",Frequent,False,-28.9
+836,"[""Full sun"", ""part shade""]",Frequent,True,-34.4
+837,"[""Full sun""]",Average,True,-6.7
+838,"[""Full sun""]",Average,True,-6.7
+839,"[""Full sun"", ""part shade""]",Average,True,-1.1
+840,"[""full sun""]",Average,True,-6.7
+841,"[""full sun""]",Average,True,-17.8
+843,"[""full sun"", ""part shade""]",Average,False,-1.1
+844,"[""Full sun""]",Average,False,-12.2
+845,"[""Full sun"", ""part shade""]",Average,True,-6.7
+846,"[""Full sun""]",Minimum,False,-40.0
+847,"[""full sun"", ""part shade""]",Minimum,False,-40.0
+848,"[""Full sun"", ""part shade""]",Minimum,True,-28.9
+849,"[""full sun"", ""part shade""]",Minimum,True,-40.0
+850,"[""full sun""]",Frequent,True,-40.0
+851,"[""Full sun""]",Minimum,True,-40.0
+852,"[""Full sun""]",Minimum,True,-40.0
+853,"[""Full sun""]",Minimum,True,-40.0
+854,"[""Full sun""]",Average,False,-34.4
+855,"[""part sun/part shade""]",Average,False,4.4
+856,"[""full sun"", ""part shade""]",Frequent,False,-1.1
+857,"[""full sun""]",Average,True,-12.2
+858,"[""Full sun""]",Average,False,-28.9
+859,"[""Full sun""]",Average,True,-17.8
+860,"[""Full sun""]",Average,True,-12.2
+861,"[""part shade"", ""full shade""]",Average,True,4.4
+862,"[""full sun"", ""filtered shade""]",Average,False,-40.0
+863,"[""full sun"", ""part shade""]",Average,False,-40.0
+864,"[""full sun"", ""part shade""]",Average,False,-40.0
+865,"[""Partial Shade""]",Minimum,False,-34.4
+866,"[""Full sun"", ""part shade""]",Frequent,True,-23.3
+867,"[""Full sun"", ""part shade""]",Average,False,-40.0
+868,"[""Full sun"", ""part shade""]",Average,False,-40.0
+869,"[""Full sun"", ""part shade""]",Average,False,-40.0
+870,"[""Full sun"", ""part shade""]",Average,False,-40.0
+871,"[""Sun"", "" Partial Shade""]",Minimum,False,-40.0
+872,"[""Sun"", "" Partial Shade""]",Minimum,False,-40.0
+873,"[""Sun"", "" Partial Shade""]",Minimum,False,-40.0
+874,"[""Full sun"", ""part shade""]",Average,False,-34.4
+875,"[""Full sun"", ""part shade""]",Average,False,-40.0
+876,"[""Full sun"", ""part shade""]",Average,False,-40.0
+877,"[""Full sun"", ""part shade""]",Average,False,-40.0
+878,"[""Full sun"", ""part shade""]",Average,False,-40.0
+879,"[""Full sun"", ""part shade""]",Average,True,-34.4
+880,"[""Full sun"", ""part shade""]",Average,False,-40.0
+881,"[""Full sun"", ""part shade""]",Average,False,-40.0
+882,"[""Full sun"", ""part shade""]",Average,True,-40.0
+883,"[""Full sun"", ""part shade""]",Average,False,-28.9
+884,"[""full sun"", ""part shade""]",Average,False,-40.0
+885,"[""Full sun"", ""part shade""]",Average,False,-40.0
+886,"[""Full sun"", ""part shade""]",Average,False,-40.0
+887,"[""Full sun"", ""part shade""]",Average,False,
+888,"[""Full sun"", ""part shade""]",Average,False,-40.0
+889,"[""Full sun"", ""part shade""]",Average,False,-40.0
+890,"[""full sun"", ""part shade""]",Average,False,-40.0
+891,"[""Full sun"", ""part shade""]",Average,False,-40.0
+892,"[""Full sun"", ""part shade""]",Average,False,-34.4
+893,"[""Full sun"", ""part shade""]",Average,False,-28.9
+894,"[""Full sun"", ""part shade""]",Average,False,-40.0
+895,"[""Full sun"", ""part shade""]",Average,False,-40.0
+896,"[""full sun""]",Average,False,-40.0
+897,"[""Sun""]",Average,False,-40.0
+898,"[""Sun""]",Average,False,-40.0
+899,"[""part sun/part shade"", ""full sun""]",Average,False,-40.0
+900,"[""Sun""]",Average,False,-40.0
+901,"[""Sun""]",Average,False,-40.0
+902,"[""Sun""]",Average,False,-40.0
+903,"[""full sun"", ""part shade""]",Average,False,-40.0
+904,"[""Sun""]",Average,False,-40.0
+905,"[""Full sun"", ""part shade""]",Average,False,-40.0
+906,"[""Sun""]",Minimum,True,-34.4
+907,"[""Sun""]",Minimum,True,-34.4
+908,"[""full sun"", ""part shade""]",Minimum,True,-34.4
+909,"[""Full sun""]",Average,True,-45.6
+910,"[""Part shade"", ""full shade""]",Frequent,True,-23.3
+911,"[""Full sun"", ""part shade""]",Average,True,-17.8
+912,"[""Part shade""]",Average,True,-34.4
+913,"[""Part shade""]",Average,False,-34.4
+914,"[""Partial sun Shade""]",Average,True,-40.0
+915,"[""full sun"", ""part shade""]",Average,True,-34.4
+916,"[""Full sun""]",Average,True,-1.1
+917,"[""Part shade""]",Average,True,-6.7
+918,"[""Full sun""]",Average,False,-17.8
+920,"[""Full sun Partial sun""]",Minimum,True,-45.6
+921,"[""part sun/part shade""]",Average,False,-45.6
+922,"[""Full sun Partial sun""]",Minimum,True,-45.6
+923,"[""Full sun Partial sun""]",Minimum,False,-45.6
+924,"[""Full sun""]",Average,False,-6.7
+925,"[""part shade"", ""part sun/part shade""]",Average,False,-12.2
+926,"[""Part shade"", ""full shade""]",Average,True,-12.2
+927,"[""Full sun""]",Average,False,-6.7
+928,"[""Full sun""]",Minimum,False,-45.6
+929,"[""Full sun""]",Average,True,-1.1
+930,"[""Part shade"", ""full shade""]",Frequent,False,-23.3
+931,"[""part shade"", ""part sun/part shade""]",Frequent,False,-28.9
+932,"[""Part shade"", ""full shade""]",Frequent,False,-28.9
+933,"[""part shade"", ""part sun/part shade""]",Average,True,-28.9
+934,"[""Part shade"", ""full shade""]",Frequent,False,-23.3
+935,"[""part sun/part shade""]",Frequent,False,-28.9
+936,"[""Part shade"", ""full shade""]",Frequent,False,-28.9
+937,"[""Deciduous Shade (Spring Sun)""]",Frequent,True,-34.4
+938,"[""Full sun"", ""part shade""]",Average,True,-6.7
+939,"[""full sun"", ""part shade""]",Average,False,-23.3
+940,"[""Full sun"", ""part shade""]",Average,True,-1.1
+941,"[""Full sun"", ""part shade""]",Average,False,-6.7
+942,"[""Full sun"", ""part shade""]",Average,True,-34.4
+943,"[""full sun"", ""part shade""]",Average,False,-17.8
+944,"[""Full sun"", ""part shade""]",Average,False,-28.9
+945,"[""Full sun""]",Minimum,True,-34.4
+946,"[""Full sun""]",Minimum,False,-40.0
+947,"[""full sun""]",Frequent,True,-34.4
+948,"[""Full sun""]",Minimum,True,-34.4
+949,"[""Full sun""]",Minimum,False,-34.4
+950,"[""Full sun""]",Minimum,True,-34.4
+951,"[""Full sun""]",Minimum,True,-34.4
+952,"[""Full sun""]",Minimum,True,-23.3
+953,"[""Full sun""]",Minimum,True,-23.3
+954,"[""full sun""]",Average,True,-34.4
+955,"[""Full sun"", ""part shade""]",Average,True,-40.0
+956,"[""full sun""]",Average,True,-40.0
+957,"[""full sun"", ""part shade"", ""full shade""]",Average,True,-34.4
+958,"[""full sun"", ""part shade""]",Average,True,-34.4
+959,"[""full sun"", ""part shade""]",Average,True,-40.0
+960,"[""Sun"", "" Partial Shade""]",Frequent,True,-40.0
+961,"[""Sun"", "" Partial Shade""]",Frequent,True,-40.0
+962,"[""Sun"", "" Partial Shade""]",Frequent,True,-40.0
+963,"[""Sun"", "" Partial Shade""]",Frequent,True,-40.0
+964,"[""Sun"", ""Partial Shade""]",Frequent,False,-40.0
+965,"[""Sun"", "" Partial Shade""]",Frequent,True,-40.0
+966,"[""full sun"", ""part shade""]",Frequent,True,-40.0
+967,"[""full sun""]",Average,False,-40.0
+968,"[""full sun"", ""part shade""]",Average,True,-34.4
+969,"[""Sun""]",Minimum,True,-34.4
+970,"[""Full sun""]",Minimum,False,-34.4
+971,"[""Full sun""]",Minimum,True,-23.3
+972,"[""Full sun"", ""part shade""]",Minimum,True,-17.8
+973,"[""Full sun""]",Minimum,True,-28.9
+974,"[""full sun"", ""part shade""]",Average,True,-40.0
+975,"[""full sun"", ""part shade""]",Minimum,True,-40.0
+976,"[""Sun""]",Minimum,True,-40.0
+977,"[""full sun"", ""part sun/part shade""]",Average,True,-40.0
+978,"[""Full sun""]",Minimum,False,-34.4
+979,"[""full sun"", ""part shade""]",Minimum,True,-28.9
+980,"[""Full sun""]",Minimum,True,-34.4
+981,"[""Full sun""]",Minimum,True,-28.9
+982,"[""Full sun""]",Minimum,True,-23.3
+983,"[""Full sun""]",Minimum,True,-28.9
+984,"[""full sun"", ""part shade""]",Average,True,-40.0
+985,"[""full sun"", ""part shade""]",Minimum,True,-40.0
+986,"[""full sun"", ""part shade""]",Minimum,True,-40.0
+987,"[""Part shade""]",Minimum,True,-12.2
+988,"[""full sun"", ""part shade""]",Average,True,-1.1
+989,"[""Full sun""]",Frequent,True,-1.1
+990,"[""part sun/part shade""]",Average,False,-28.9
+991,"[""Part shade"", ""full shade""]",Average,False,-28.9
+992,"[""Full sun"", ""part shade""]",Frequent,True,-40.0
+993,"[""Full sun"", ""part shade""]",Frequent,True,-34.4
+994,"[""Full sun"", ""part shade""]",Frequent,True,-40.0
+995,"[""Full sun"", ""part shade""]",Frequent,True,-34.4
+996,"[""Full sun"", ""part shade""]",Frequent,True,-34.4
+997,"[""Full sun"", ""part shade""]",Frequent,True,-34.4
+998,"[""Part shade""]",Average,True,4.4
+999,"[""full sun""]",Average,False,-28.9
+1000,"[""Full sun"", ""part shade""]",Frequent,True,-23.3
+1001,"[""full sun"", ""part shade""]",Average,True,-23.3
+1002,"[""Partial Shade"", "" Shade""]",Frequent,False,-34.4
+1003,"[""Shade""]",Average,True,-17.8
+1004,"[""Part shade"", ""full shade""]",Frequent,False,-34.4
+1005,"[""Part shade"", ""full shade""]",Frequent,True,-23.3
+1006,"[""Part shade"", ""full shade""]",Frequent,True,-28.9
+1007,"[""full sun""]",Average,True,-6.7
+1008,"[""Sun""]",Minimum,True,-34.4
+1009,"[""Sun""]",Frequent,False,-40.0
+1010,"[""Sun""]",Frequent,True,-40.0
+1011,"[""Sun""]",Frequent,True,-40.0
+1012,"[""Sun""]",Frequent,False,-40.0
+1013,"[""Full sun""]",Minimum,True,-40.0
+1014,"[""Full sun"", ""part shade""]",Minimum,False,-28.9
+1015,"[""Full sun""]",Minimum,True,-40.0
+1016,"[""Full sun""]",Frequent,True,-40.0
+1017,"[""Sun""]",Minimum,True,-40.0
+1018,"[""Full sun Partial sun""]",Minimum,False,-40.0
+1019,"[""Full sun Partial sun""]",Minimum,True,-40.0
+1020,"[""Full sun Partial sun""]",Minimum,False,-40.0
+1021,"[""Full sun"", ""part shade""]",Minimum,False,-34.4
+1022,"[""Full sun""]",Minimum,True,-28.9
+1023,"[""part shade""]",Average,True,-6.7
+1024,"[""part shade""]",Average,False,-6.7
+1025,"[""part shade""]",Minimum,False,-6.7
+1026,"[""Full sun""]",Average,False,-40.0
+1027,"[""Full sun""]",Average,False,-40.0
+1028,"[""Full sun""]",Average,False,-40.0
+1029,"[""Full sun""]",Average,False,-40.0
+1030,"[""Full sun"", ""part shade""]",Average,False,-6.7
+1031,"[""part shade""]",Frequent,True,-6.7
+1032,"[""Full sun""]",Minimum,True,-28.9
+1033,"[""Full sun""]",Average,False,-28.9
+1034,"[""Full sun""]",Average,False,-23.3
+1035,"[""Full sun"", ""part shade""]",Average,True,-23.3
+1036,"[""part shade"", ""full shade""]",Average,True,-12.2
+1037,"[""Part shade"", ""full shade""]",Average,True,-34.4
+1038,"[""full sun"", ""part shade"", ""full shade""]",Average,False,-1.1
+1039,"[""Partial Shade"", "" Shade""]",Minimum,False,-40.0
+1040,"[""Deep shade"", "" Filtered shade"", "" Full sun"", "" Part sun/part shade""]",Average,False,-28.9
+1041,"[""Deep shade"", "" Filtered shade"", "" Full sun"", "" Part sun/part shade""]",Average,True,-28.9
+1042,"[""Deep shade"", "" Filtered shade"", "" Full sun"", "" Part sun/part shade""]",Average,False,-28.9
+1043,"[""Part shade"", ""full shade""]",Average,True,-28.9
+1044,"[""Full sun""]",Average,False,-28.9
+1045,"[""Full sun""]",Average,True,-34.4
+1046,"[""Full sun"", ""part shade""]",Average,False,-28.9
+1047,"[""Full sun"", ""part shade""]",Average,False,-28.9
+1048,"[""Full sun"", ""part shade""]",Average,True,-28.9
+1049,"[""Full sun"", ""part shade""]",Average,True,-28.9
+1050,"[""Full sun""]",Average,False,-34.4
+1051,"[""Full sun""]",Average,False,-40.0
+1052,"[""Full sun""]",Average,False,-34.4
+1053,"[""Full sun""]",Average,True,-34.4
+1054,"[""Full sun""]",Average,True,-34.4
+1055,"[""Full sun""]",Average,True,-12.2
+1056,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1057,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1058,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1059,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1060,"[""Part shade"", ""full shade""]",Average,False,-28.9
+1061,"[""Part shade"", ""full shade""]",Average,False,-40.0
+1062,"[""Part shade"", ""full shade""]",Average,False,-40.0
+1063,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1064,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1065,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1066,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1067,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1068,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1069,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1070,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1071,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1072,"[""part shade""]",Average,False,-34.4
+1073,"[""Part shade"", ""full shade""]",Minimum,False,-34.4
+1074,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1075,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1076,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1077,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1078,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1079,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1080,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1081,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1082,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1083,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1084,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1085,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1086,"[""Part shade"", ""full shade""]",Average,False,-40.0
+1087,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1088,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1089,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1090,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1091,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1092,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1093,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1094,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1095,"[""Part shade"", ""full shade""]",Average,True,-28.9
+1096,"[""full sun"", ""part shade""]",Minimum,True,-40.0
+1097,"[""Sun""]",Average,True,-40.0
+1098,"[""full sun"", ""filtered shade""]",Minimum,True,-40.0
+1099,"[""Part shade""]",Frequent,False,-34.4
+1100,"[""Part shade""]",Frequent,False,-34.4
+1101,"[""full sun"", ""part shade""]",Frequent,False,-34.4
+1102,"[""full sun"", ""part shade""]",Frequent,False,-34.4
+1103,"[""full sun"", ""part shade""]",Frequent,False,-34.4
+1104,"[""full sun"", ""part shade""]",Frequent,False,-34.4
+1105,"[""full sun"", ""part shade""]",Frequent,False,-34.4
+1106,"[""full sun"", ""part shade""]",Frequent,False,-34.4
+1107,"[""full sun"", ""part shade""]",Frequent,False,-34.4
+1108,"[""full sun"", ""part shade""]",Frequent,False,-34.4
+1109,"[""Part shade""]",Frequent,False,-28.9
+1110,"[""Part shade""]",Frequent,False,-34.4
+1111,"[""part shade"", ""full sun""]",Frequent,False,-34.4
+1112,"[""Full sun""]",Minimum,True,-17.8
+1113,"[""Part shade"", ""full shade""]",Average,False,-28.9
+1114,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1115,"[""Partial Shade"", "" Shade""]",Average,False,-34.4
+1116,"[""Partial Shade"", "" Shade""]",Average,False,-34.4
+1117,"[""Partial Shade"", "" Shade""]",Average,False,-34.4
+1118,"[""Partial Shade"", "" Shade""]",Average,False,-34.4
+1119,"[""Partial Shade"", "" Shade""]",Average,False,-34.4
+1120,"[""Partial Shade"", "" Shade""]",Average,False,-34.4
+1121,"[""Partial Shade"", "" Shade""]",Average,False,-34.4
+1122,"[""Partial Shade"", "" Shade""]",Average,False,-34.4
+1123,"[""part shade"", ""full shade""]",Average,False,-34.4
+1124,"[""part shade"", ""full shade""]",Average,False,-34.4
+1125,"[""Partial Shade"", "" Shade""]",Average,False,-34.4
+1126,"[""Partial Shade"", "" Shade""]",Average,False,-34.4
+1127,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1128,"[""Part shade"", ""full shade""]",Average,False,-40.0
+1129,"[""Part shade"", ""full shade""]",Average,False,-28.9
+1130,"[""deep shade"", ""filtered shade"", ""part sun/part shade""]",Average,False,-40.0
+1131,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,False,-40.0
+1132,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,False,-40.0
+1133,"[""deep shade"", ""filtered shade"", ""part sun/part shade""]",Average,False,-40.0
+1134,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,False,-40.0
+1135,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,False,-40.0
+1136,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,False,-40.0
+1137,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,False,-40.0
+1138,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,False,-40.0
+1139,"[""Part shade"", ""full shade""]",Average,True,-34.4
+1140,"[""Part shade"", ""full shade""]",Average,True,-28.9
+1141,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1142,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1143,"[""Part shade"", ""full shade""]",Average,False,-28.9
+1144,"[""full sun"", ""part shade""]",Average,True,-45.6
+1145,"[""full sun"", ""part shade""]",Average,False,-28.9
+1146,"[""Part shade"", ""full shade""]",Average,True,-23.3
+1147,"[""full shade"", ""part shade""]",Frequent,True,-23.3
+1148,"[""Part shade""]",Average,True,-23.3
+1149,"[""part sun/part shade"", ""full sun""]",Average,True,-23.3
+1150,"[""part shade""]",Average,True,-23.3
+1151,"[""full sun"", ""part shade""]",Minimum,True,-34.4
+1152,"[""full sun"", ""part shade""]",Minimum,True,-34.4
+1153,"[""full sun"", ""part shade""]",Minimum,True,-34.4
+1154,"[""Full sun""]",Frequent,True,-1.1
+1155,"[""full sun"", ""part shade""]",Average,True,-1.1
+1156,"[""Full sun"", ""part shade""]",Average,False,-12.2
+1157,"[""full sun"", ""part shade""]",Average,True,-12.2
+1158,"[""Full sun"", ""part shade""]",Average,True,-12.2
+1159,"[""full sun"", ""part shade""]",Frequent,False,-17.8
+1160,"[""Full sun""]",Frequent,True,-12.2
+1161,"[""Full sun""]",Frequent,False,-28.9
+1162,"[""Full sun"", ""part shade""]",Minimum,True,-12.2
+1163,"[""full sun"", ""part shade""]",Average,True,-17.8
+1164,"[""Full sun"", ""part shade""]",Average,True,-6.7
+1165,"[""full sun"", ""part shade""]",Minimum,True,-28.9
+1166,"[""full sun"", ""part shade""]",Minimum,False,-28.9
+1167,"[""full sun"", ""part shade""]",Minimum,True,-28.9
+1168,"[""full sun"", ""part shade""]",Minimum,True,-40.0
+1169,"[""full sun"", ""part shade""]",Minimum,True,-40.0
+1170,"[""Full sun"", ""part shade""]",Minimum,True,-34.4
+1171,"[""Full sun"", ""part shade""]",Minimum,True,-40.0
+1172,"[""Full sun""]",Minimum,False,-28.9
+1173,"[""Full sun"", ""part shade""]",Minimum,True,-34.4
+1174,"[""Full sun"", ""part shade""]",Minimum,True,-34.4
+1175,"[""Full sun"", ""part shade""]",Minimum,True,-34.4
+1176,"[""Full sun"", ""part shade""]",Minimum,True,-34.4
+1177,"[""Full sun""]",Minimum,True,-23.3
+1178,"[""Full sun"", ""part shade""]",Minimum,True,-34.4
+1179,"[""Full sun"", ""part shade""]",Minimum,False,-34.4
+1180,"[""Full sun""]",Minimum,True,-17.8
+1181,"[""Full sun"", ""part shade""]",Minimum,True,-34.4
+1182,"[""Full sun"", ""part shade""]",Minimum,False,-34.4
+1183,"[""Full sun"", ""part shade""]",Minimum,True,-28.9
+1184,"[""Full sun"", ""part shade""]",Minimum,True,-28.9
+1185,"[""Sun""]",Minimum,True,-40.0
+1186,"[""Full sun"", ""part shade""]",Minimum,False,-34.4
+1187,"[""full sun"", ""part shade""]",Average,True,-6.7
+1188,"[""full sun""]",Frequent,True,
+1189,"[""full sun""]",Average,False,
+1190,"[""full sun"", ""part shade""]",Average,True,-45.6
+1191,"[""Full sun"", ""part shade""]",Average,True,-6.7
+1192,"[""part sun/part shade""]",Average,True,-1.1
+1193,"[""Part shade"", ""full shade""]",Average,True,-23.3
+1194,"[""full sun"", ""part shade""]",Frequent,False,-1.1
+1195,"[""full sun"", ""part shade""]",Average,False,-1.1
+1196,"[""part shade"", ""full sun""]",Average,False,-1.1
+1197,"[""full sun"", ""part sun/part shade""]",Average,False,-12.2
+1198,"[""part shade""]",Average,False,-1.1
+1199,"[""part shade"", ""part sun/part shade""]",Average,False,-1.1
+1200,"[""part shade"", ""full sun""]",Average,False,-1.1
+1201,"[""part shade"", ""part sun/part shade""]",Average,False,-1.1
+1202,"[""part shade"", ""full shade""]",Average,False,-1.1
+1203,"[""part shade"", ""part sun/part shade""]",Average,False,-1.1
+1204,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Frequent,False,-23.3
+1205,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Frequent,False,-23.3
+1206,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Frequent,False,-23.3
+1207,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Frequent,False,-23.3
+1208,"[""part shade"", ""part sun/part shade""]",Average,False,-1.1
+1209,"[""part sun/part shade"", ""full sun""]",Average,False,-12.2
+1210,"[""part shade"", ""part sun/part shade""]",Average,False,-1.1
+1211,"[""part shade"", ""part sun/part shade""]",Average,False,-1.1
+1212,"[""part sun/part shade"", ""filtered shade""]",Average,False,4.4
+1213,"[""part shade"", ""full shade""]",Average,False,-1.1
+1214,"[""part shade"", ""part sun/part shade""]",Average,False,-1.1
+1215,"[""part shade"", ""part sun/part shade""]",Average,False,-1.1
+1216,"[""part shade"", ""part sun/part shade""]",Average,False,-1.1
+1217,"[""part shade"", ""part sun/part shade""]",Average,False,-1.1
+1218,"[""part shade"", ""part sun/part shade""]",Average,False,-1.1
+1219,"[""part shade"", ""filtered shade""]",Average,False,-1.1
+1220,"[""part shade"", ""part sun/part shade""]",Frequent,False,-1.1
+1221,"[""part sun/part shade"", ""filtered shade""]",Average,False,-1.1
+1222,"[""part shade"", ""part sun/part shade""]",Average,False,-1.1
+1223,"[""part shade""]",Minimum,False,-1.1
+1224,"[""part shade"", ""part sun/part shade""]",Average,False,-1.1
+1225,"[""part shade"", ""part sun/part shade""]",Average,False,-1.1
+1226,"[""part sun/part shade"", ""full sun""]",Average,False,-6.7
+1227,"[""full sun"", ""part shade""]",Average,True,-34.4
+1228,"[""full sun"", ""part shade""]",Average,True,-34.4
+1229,"[""full sun"", ""part shade""]",Average,True,-45.6
+1230,"[""Part shade"", ""full shade""]",Average,True,-28.9
+1231,"[""Part shade"", ""full shade""]",Average,True,-28.9
+1232,"[""Part shade"", ""full shade""]",Average,True,-28.9
+1233,"[""Part shade"", ""full shade""]",Average,True,-28.9
+1234,"[""Full sun"", ""part shade""]",Average,True,-17.8
+1235,"[""Full sun"", ""part shade""]",Minimum,True,-17.8
+1236,"[""Full sun"", ""part shade""]",Minimum,True,-28.9
+1237,"[""Full sun"", ""part shade""]",Minimum,True,-28.9
+1238,"[""Part shade""]",Minimum,True,-17.8
+1239,"[""Full sun""]",Minimum,True,-23.3
+1240,"[""Full sun""]",Minimum,True,-34.4
+1241,"[""Full sun""]",Minimum,True,-34.4
+1242,"[""Full sun""]",Minimum,True,-34.4
+1243,"[""Full sun""]",Minimum,True,-34.4
+1244,"[""Full sun""]",Minimum,True,-34.4
+1245,"[""Full sun""]",Minimum,True,-34.4
+1246,"[""Full sun""]",Minimum,True,-34.4
+1247,"[""Full sun""]",Minimum,True,-34.4
+1248,"[""Full sun""]",Minimum,True,-34.4
+1249,"[""Full sun""]",Minimum,True,-34.4
+1250,"[""full sun"", ""part shade""]",Average,True,-34.4
+1251,"[""Full sun""]",Minimum,True,-34.4
+1252,"[""Full sun""]",Minimum,False,-34.4
+1253,"[""Full sun""]",Minimum,True,-34.4
+1254,"[""Full sun""]",Minimum,True,-34.4
+1255,"[""Full sun""]",Minimum,True,-34.4
+1256,"[""full sun"", ""part shade""]",Minimum,True,-23.3
+1257,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1258,"[""Part shade"", ""full shade""]",Average,True,-28.9
+1259,"[""Part shade"", ""full shade""]",Average,True,-40.0
+1260,"[""Part shade"", ""full shade""]",Average,True,-34.4
+1261,"[""Part shade"", ""full shade""]",Average,True,-34.4
+1262,"[""Part shade"", ""full shade""]",Average,True,-34.4
+1263,"[""part shade"", ""full shade""]",Average,False,-34.4
+1264,"[""Part shade"", ""full shade""]",Average,False,-34.4
+1265,"[""Part shade"", ""full shade""]",Average,True,-40.0
+1266,"[""Part shade"", ""full shade""]",Average,True,-34.4
+1267,"[""Part shade"", ""full shade""]",Average,True,-34.4
+1268,"[""Part shade"", ""full shade""]",Average,True,-34.4
+1269,"[""Full sun""]",Minimum,True,-34.4
+1270,"[""full sun""]",Frequent,True,-34.4
+1271,"[""Full sun""]",Minimum,True,-23.3
+1272,"[""part shade"", ""part sun/part shade""]",Frequent,False,4.4
+1273,"[""Full sun"", ""part shade""]",Average,True,-45.6
+1274,"[""Full sun"", ""part shade""]",Average,False,-45.6
+1275,"[""Full sun"", ""part shade""]",Average,True,-45.6
+1276,"[""Full sun"", ""part shade""]",Average,False,-45.6
+1277,"[""Full sun"", ""part shade""]",Average,False,-45.6
+1278,"[""Full sun""]",Average,False,-45.6
+1280,"[""Full sun"", ""part shade""]",Average,False,-45.6
+1285,"[""Full sun"", ""part shade""]",Frequent,True,-34.4
+1294,"[""Full sun""]",Average,False,-28.9
+1295,"[""full sun"", ""part shade""]",Average,True,-28.9
+1297,"[""full sun"", ""part shade""]",Average,True,-40.0
+1298,"[""Part shade"", ""full shade""]",Average,True,-28.9
+1299,"[""Part shade""]",Average,False,-28.9
+1300,"[""Part shade""]",Average,True,-28.9
+1301,"[""Part shade""]",Average,False,-28.9
+1302,"[""Full sun""]",Average,False,-1.1
+1303,"[""Partial Shade""]",Average,True,-40.0
+1304,"[""Partial Shade""]",Average,True,-40.0
+1305,"[""Partial Shade""]",Average,True,-40.0
+1306,"[""Partial Shade""]",Average,True,-40.0
+1308,"[""full sun"", ""part shade""]",Average,True,-45.6
+1309,"[""Sun"", "" Partial Shade""]",Minimum,True,-34.4
+1310,"[""Full sun""]",Minimum,True,-40.0
+1311,"[""Full sun""]",Minimum,True,-40.0
+1312,"[""Full sun""]",Minimum,True,-40.0
+1313,"[""Full sun""]",Average,True,-45.6
+1314,"[""Full sun""]",Average,True,-45.6
+1315,"[""full sun"", ""part shade""]",Average,True,-45.6
+1316,"[""full sun"", ""part shade""]",Average,True,-45.6
+1317,"[""full sun"", ""part shade""]",Average,False,-45.6
+1318,"[""full sun""]",Average,True,-45.6
+1319,"[""full sun"", ""part shade""]",Average,True,-45.6
+1320,"[""full sun"", ""part shade""]",Average,True,-45.6
+1321,"[""full sun""]",Frequent,False,-45.6
+1322,"[""full sun""]",Average,False,-45.6
+1323,"[""full sun""]",Average,False,-45.6
+1324,"[""full sun""]",Average,False,-45.6
+1325,"[""full sun""]",Average,False,-45.6
+1326,"[""full sun""]",Average,True,-45.6
+1327,"[""full sun""]",Average,True,-45.6
+1328,"[""full sun"", ""part shade""]",Average,False,-45.6
+1329,"[""full sun"", ""part shade""]",Average,True,-45.6
+1330,"[""full sun"", ""part shade""]",Average,False,-45.6
+1331,"[""full sun"", ""part shade""]",Average,False,-45.6
+1332,"[""full sun""]",Average,True,-45.6
+1333,"[""full sun""]",Average,True,-45.6
+1334,"[""full sun"", ""part shade""]",Average,True,-45.6
+1335,"[""full sun"", ""part shade""]",Average,True,-45.6
+1336,"[""full sun"", ""part shade""]",Average,True,-1.1
+1337,"[""Full sun"", ""part shade""]",Minimum,True,-23.3
+1338,"[""Full sun""]",Average,True,-34.4
+1339,"[""full sun"", ""part shade""]",Minimum,False,-28.9
+1342,"[""Full sun"", ""part shade""]",Average,True,-6.7
+1343,"[""Full sun"", ""part shade""]",Average,False,-1.1
+1344,"[""full sun""]",Average,False,-12.2
+1345,"[""Full sun""]",Average,False,-12.2
+1346,"[""Full sun""]",Average,False,-12.2
+1347,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,True,-40.0
+1348,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,True,-40.0
+1349,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,False,-40.0
+1350,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,True,-40.0
+1351,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,False,-40.0
+1352,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,True,-40.0
+1353,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,True,-40.0
+1354,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,True,-40.0
+1355,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,True,-40.0
+1356,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,True,-40.0
+1357,"[""Deep shade"", "" Filtered shade"", "" Part sun/part shade""]",Average,True,-40.0
+1358,"[""Part shade""]",Average,False,-40.0
+1359,"[""Full sun""]",Minimum,True,-34.4
+1360,"[""Full sun""]",Minimum,True,-40.0
+1361,"[""Full sun""]",Frequent,True,-40.0
+1362,"[""Full sun"", ""part shade""]",Average,True,-28.9
+1363,"[""Full sun""]",Average,True,-28.9
+1364,"[""Full sun""]",Average,False,-23.3
+1365,"[""Full sun""]",Average,True,-28.9
+1366,"[""full sun""]",Average,True,-28.9
+1367,"[""full sun""]",Average,True,-28.9
+1368,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1369,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1370,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1371,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1372,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1373,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1374,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1375,"[""full sun"", ""part sun/part shade""]",Average,True,-28.9
+1376,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1377,"[""full sun"", ""part sun/part shade""]",Average,True,-28.9
+1378,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1379,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1380,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1381,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1382,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1383,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1384,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1385,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1386,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1387,"[""Sun"", "" Partial Shade""]",Average,True,-28.9
+1388,"[""Full sun""]",Average,True,-23.3
+1389,"[""Full sun""]",Average,True,-12.2
+1390,"[""Full sun""]",Average,True,-28.9
+1391,"[""Full sun""]",Average,True,-28.9
+1392,"[""Full sun""]",Average,True,-28.9
+1393,"[""Full sun""]",Average,False,-17.8
+1394,"[""Full sun""]",Average,True,-28.9
+1395,"[""Full sun""]",Minimum,False,-12.2
+1396,"[""Full sun""]",Average,True,-28.9
+1397,"[""Full sun""]",Average,True,-23.3
+1398,"[""Full sun""]",Average,True,-28.9
+1399,"[""Full sun""]",Minimum,False,-6.7
+1402,"[""full sun"", ""part shade""]",Average,True,-6.7
+1403,"[""Full sun"", ""part shade""]",Average,False,-12.2
+1404,"[""Full sun"", ""part shade""]",Average,True,-28.9
+1405,"[""Full sun"", ""part shade""]",Average,False,-34.4
+1406,"[""Full sun"", ""part shade""]",Average,False,-28.9
+1407,"[""Full sun"", ""part shade""]",Average,False,-28.9
+1408,"[""Full sun"", ""part shade""]",Average,False,-28.9
+1409,"[""Full sun"", ""part shade""]",Average,True,-17.8
+1410,"[""part sun/part shade"", ""full sun""]",Average,True,-23.3
+1411,"[""Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,True,-23.3
+1412,"[""Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-23.3
+1413,"[""Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-23.3
+1414,"[""Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-23.3
+1415,"[""Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,True,-23.3
+1416,"[""filtered shade"", ""full sun only if soil kept moist"", ""part sun/part shade""]",Average,False,-23.3
+1417,"[""part sun/part shade""]",Average,True,-23.3
+1418,"[""Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-23.3
+1419,"[""Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-23.3
+1420,"[""Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-23.3
+1421,"[""Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-23.3
+1422,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1423,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,True,-28.9
+1424,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1425,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1426,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1427,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1428,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1429,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1430,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1431,"[""Deep shade"", ""Filtered shade"", ""Full sun only if soil kept moist"", ""Part sun/part shade""]",Average,True,-28.9
+1432,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,True,-28.9
+1433,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1434,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1435,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1436,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1437,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1438,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1439,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1440,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1441,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1442,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1443,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1444,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1445,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1446,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1447,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1448,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1449,"[""Deep shade"", "" Filtered shade"", "" Full sun only if soil kept moist"", "" Part sun/part shade""]",Average,False,-28.9
+1450,"[""Full sun"", ""part shade""]",Average,True,-34.4
+1451,"[""Full sun"", ""part shade""]",Average,True,-28.9
+1452,"[""Full sun"", ""part shade""]",Average,True,-34.4
+1453,"[""full sun"", ""part sun/part shade""]",Frequent,False,-23.3
+1455,"[""full sun"", ""part sun/part shade""]",Frequent,True,-12.2
+1456,"[""full sun""]",Frequent,True,-6.7
+1457,"[""part shade"", ""part sun/part shade""]",Average,False,-6.7
+1458,"[""Part shade""]",Average,True,-12.2
+1459,"[""Full sun""]",Frequent,True,-28.9
+1460,"[""Full sun""]",Frequent,True,-28.9
+1461,"[""Full sun""]",Frequent,True,-28.9
+1462,"[""Full sun""]",Frequent,True,-34.4
+1463,"[""full sun""]",Frequent,True,-34.4
+1464,"[""Full sun""]",Minimum,True,-28.9
+1465,"[""Full sun""]",Minimum,True,-28.9
+1466,"[""Full sun""]",Minimum,True,-28.9
+1467,"[""Full sun""]",Frequent,True,-23.3
+1468,"[""part sun/part shade"", ""filtered shade""]",Frequent,False,-17.8
+1469,"[""part shade"", ""part sun/part shade""]",Average,False,4.4
+1470,"[""part shade"", ""part sun/part shade""]",Average,False,4.4
+1471,"[""part shade"", ""part sun/part shade""]",Average,False,4.4
+1472,"[""Part shade"", ""full shade""]",Average,True,-1.1
+1473,"[""full sun""]",Average,False,-45.6
+1474,"[""full sun""]",Frequent,False,-6.7
+1475,"[""Full sun""]",Average,True,-6.7
+1476,"[""part shade"", ""full shade""]",Average,False,-45.6
+1477,"[""Full sun""]",Average,True,-6.7
+1478,"[""Full sun"", ""part shade""]",Average,False,-23.3
+1479,"[""full sun""]",Average,True,-23.3
+1480,"[""Full sun"", ""part shade""]",Average,False,-23.3
+1481,"[""Full sun"", ""part shade""]",Average,True,-28.9
+1482,"[""Full sun"", ""part shade""]",Average,True,-28.9
+1483,"[""Full sun"", ""part shade""]",Average,True,-28.9
+1484,"[""Full sun"", ""part shade""]",Average,True,-28.9

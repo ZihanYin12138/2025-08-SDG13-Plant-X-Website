@@ -62,7 +62,7 @@ const routes = [
     component: () => import('../views/DiseaseDetail.vue'),
     props: true,
     meta: { title: "Disease Detail · Plant'X" }
-  }
+  },
 ]
 
 const HEADER_OFFSET = 15

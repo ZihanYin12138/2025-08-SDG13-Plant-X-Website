@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2683,
+      "species_id": 1442,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Pullman'"
+      ],
+      "section": [
+        {
+          "id": 8255,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Pullman') requires moderate watering. It prefers regularly moist, well-drained soil, but it will not tolerate constantly soggy soil. During the summer, this shrub should be watered every 5-7 days, or when the top 3 to 4 inches of soil is dry. Water deeply enough to fully saturate the soil and allow it to dry out slightly between waterings. During winter, reduce watering if the temperatures drop below freezing and make sure to avoid over-watering. It’s also important to provide supplemental irrigation during extended dry spells."
+        },
+        {
+          "id": 8256,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Pullman') plants thrive in partial to full sun conditions. When grown in partial sun, these plants need at least 4 hours of direct sunlight per day. When grown in full sun, this species needs 6 to 8 hours of direct sun, or 8 to 10 hours of filtered sun each day. For the best results, aim to provide boxwood with at least 6 hours of direct sun per day."
+        },
+        {
+          "id": 8257,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Pullman') should be pruned between late winter and early spring. It is important to prune boxwood once a year if possible. Pruning should remove no more than 1 third of the total growth of the plant, and should be done as the shrub is developing new growth. Pruning should be done lightly and gradually over time, rather than all in 1 go. Make sure to use sharp pruning shears to prevent splitting or tearing the plants branches. This particular boxwood flourishes when pruned regularly, so never feel hesitant to do so."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

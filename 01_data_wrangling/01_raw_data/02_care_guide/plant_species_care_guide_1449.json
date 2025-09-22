@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2690,
+      "species_id": 1449,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Variegata'"
+      ],
+      "section": [
+        {
+          "id": 8276,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Variegata') is a slow-growing shrub that can withstand a variety of climates. It prefers moist, well-draining soil and requires regular watering to remain healthy.\n\nWatering should be done on a weekly basis, and more during particularly hot or dry weather. You should aim to keep the soil evenly moist, but not soggy. A good guideline is to water the soil until the first few inches are moist. Allow the soil to dry out slightly in between watering to prevent root and stem rot. During the winter months, it is best to water only when the soil is actively drying out.\n\nIn general, boxwood requires about 1” of water per week. This can be done by hand or by using a soaker hose. In times of extreme heat or drought, this amount can be increased to ensure the shrub gets enough water.\n\nIt is important to note that overwatering boxwood is just as detrimental to its growth as underwatering, so be careful to follow the appropriate guidelines."
+        },
+        {
+          "id": 8277,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Variegata') is a plant species that enjoys full sun or partial shade. The amount of sun should be determined by the environment and locale in which it is planted. For best growth, full sun (at least 6 hours of direct sunlight) is recommended. During the hot summer months, it should be placed in an area that receives direct morning sunlight but is shaded from the intense afternoon sun. Variegata Boxwood can also be grown in more shady areas, however this can cause the foliage of the plant to become less vibrant."
+        },
+        {
+          "id": 8278,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Variegata') should be lightly pruned twice a year, once in mid-summer, and again in late winter/early spring before active growth resumes. Pruning in summer prevents the plant from becoming too overgrown or leggy, while the winter/early spring pruning improves airflow and allows for better shaping. Only remove up to 1-third of the average growth of the plant, as too much pruning can shock it. Hand-shears or specialized boxwood shears work well for trimming. To keep it looking tidy, cut off any dead branches."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

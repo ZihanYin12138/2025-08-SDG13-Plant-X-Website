@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2699,
+      "species_id": 1462,
+      "common_name": "feather reed grass",
+      "scientific_name": [
+        "Calamagrostis acutiflora 'Overdam'"
+      ],
+      "section": [
+        {
+          "id": 8303,
+          "type": "watering",
+          "description": "Feather reed grass (Calamagrostis acutiflora 'Overdam') should be watered thoroughly once a week. It will need more water during the hot and dry summer months. In general, during the growing season, it should get about 1 inch of water per week. To ensure adequate soil moisture, you can use a soaker hose or drip irrigation to water. This helps the grass to receive water at a slow and steady rate. During especially dry periods, water this grass more frequently, but do not water it to the point of saturation or sogginess."
+        },
+        {
+          "id": 8304,
+          "type": "sunlight",
+          "description": "Feather reed grass (Calamagrostis acutiflora 'Overdam') requires full sun for optimal performance. It should receive at least 6 hours of sunlight each day, ideally in the morning hours when the sun is not as strong. If this grass species is grown in shade, it will grow much less vigorously and the flower stems will be shorter."
+        },
+        {
+          "id": 8305,
+          "type": "pruning",
+          "description": "Feather Reed Grass (Calamagrostis acutiflora 'Overdam') should be pruned in late winter (February or March) before new growth begins. Pruning should approximately remove 1-third of the foliage to encourage new, healthy growth. Be sure to remove any dead or damaged foliage during pruning, and look for signs of disease. Pruning too early can result in a loss of winter interest, so prune before new growth begins, late winter being the ideal time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

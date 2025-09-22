@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2642,
+      "species_id": 1395,
+      "common_name": "South African sage wood",
+      "scientific_name": [
+        "Buddleja salviifolia"
+      ],
+      "section": [
+        {
+          "id": 8132,
+          "type": "watering",
+          "description": "South African sage wood should be watered regularly, as it prefers moist soil. During the warmer months, this plant should be watered every 2 to 3 days to ensure that the soil does not completely dry out. In the cooler months watering should be reduced to once every 5-7 days. When watering, be sure to thoroughly saturate the soil and then allow it to drain before watering again. In very hot climates, additional misting with a spray bottle may be required. During the winter months, it is important to make sure the soil is not overly saturated as this may cause the roots of the plant to rot. Ensure that the soil is well draining."
+        },
+        {
+          "id": 8133,
+          "type": "sunlight",
+          "description": "South African sage wood (Buddleja salviifolia) thrives best in full sun and needs direct sunlight for at least 4 to 6 hours per day to grow and flower optimally. It will tolerate light shade with less flowering and decreased vigor, so at least 3 hours of direct sunlight are recommended. In areas with consistently hot temperatures, it is beneficial to provide lightly dappled shade in the afternoon to protect it from the intense sunlight."
+        },
+        {
+          "id": 8134,
+          "type": "pruning",
+          "description": "South African sage wood (Buddleja salviifolia) should be pruned in late winter to early spring, once the threat of a severe frost has passed. Pruning should be done to thin branches, remove dead or damaged branches, and help encourage flowering. To achieve the desired shape, prune off 1-third of the previous year's growth from the stems and tips. This will help to maintain a compact form and encourage more abundant, colorful flowers. Be sure to use clean, sharp pruning shears or bypass pruners when pruning to avoid damaging the stems."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

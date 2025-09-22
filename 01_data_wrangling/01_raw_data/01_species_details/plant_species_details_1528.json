@@ -1,0 +1,160 @@
+{
+  "id": 1528,
+  "common_name": "camellia",
+  "scientific_name": [
+    "Camellia japonica"
+  ],
+  "other_name": [
+    "Japanese camellia"
+  ],
+  "family": "Theaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "japonica",
+  "genus": "Camellia",
+  "origin": [
+    "Japan",
+    "China",
+    "Korea"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 7,
+      "max_value": 12,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Greenwood Cuttings",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "7",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1528&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1528&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flower",
+      "color": [
+        "pink"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "dark-green"
+      ]
+    },
+    {
+      "part": "flowers",
+      "color": [
+        "pink"
+      ]
+    },
+    {
+      "part": "petals",
+      "color": [
+        "pink"
+      ]
+    },
+    {
+      "part": "stamens",
+      "color": [
+        "creamy-white"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1528&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Acidic",
+    " Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Abiotic disorder",
+    " Beetles",
+    "weevils",
+    " Mealybugs",
+    " Mold",
+    " Scale insects",
+    "  Pest resistant",
+    " Disease resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Winter",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Camellia (Camellia japonica) is an amazing plant that delights the senses with its vibrant bloom. It's prized for its lush, evergreen foliage, stunning flowers, and delectable, fragrant aroma. The blooms come in a variety of colors, ranging from white to pink to bright red, lasting from late winter to early spring when few other plants are in bloom. The glossy foliage is an attractive feature from spring to fall. Camellia japonica is a popular landscaping choice because it grows well in full to partial shade, requiring little maintenance and is tolerant of drought. Its hardiness makes it a fantastic choice for any flower lover!",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1528_camellia_japonica/og/52004427553_97092899b4_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1528_camellia_japonica/regular/52004427553_97092899b4_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1528_camellia_japonica/medium/52004427553_97092899b4_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1528_camellia_japonica/small/52004427553_97092899b4_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1528_camellia_japonica/thumbnail/52004427553_97092899b4_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

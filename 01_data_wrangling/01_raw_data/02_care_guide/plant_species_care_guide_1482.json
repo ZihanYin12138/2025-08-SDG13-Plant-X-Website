@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2712,
+      "species_id": 1482,
+      "common_name": "beautyberry",
+      "scientific_name": [
+        "Callicarpa dichotoma"
+      ],
+      "section": [
+        {
+          "id": 8342,
+          "type": "watering",
+          "description": "Beautyberry should be watered regularly with about an inch of water every 7-10 days. Do not overwater as this can lead to root rot and leaf drop. During the warmer months, it is okay to keep the soil moist but not overly wet. If the soil starts to feel dry to the touch, add more water. During the winter, you should reduce the amount of water given as the plant does go into a dormant period. However, it’s important to provide enough water to keep the soil from completely drying out. Monitor your plant’s water needs, and adjust as needed."
+        },
+        {
+          "id": 8343,
+          "type": "sunlight",
+          "description": "Beautyberry needs around 5 hours of sunlight spread across the day to thrive. While it can handle direct sunlight exposure for that time period, it's best to limit it to morning and late afternoon exposure to ensure it is not too overwhelmed. Additionally, during periods of extreme heat, it should be shaded in the afternoon to prevent sunburn. Beautyberry is a deciduous plant, meaning it loses its leaves in the winter season, so it is important to increase the amount of sunlight it gets in the winter to compensate."
+        },
+        {
+          "id": 8344,
+          "type": "pruning",
+          "description": "Beautyberry (Callicarpa dichotoma) can be pruned to shape it or thin it without causing significant damage to the plant. Pruning should be done in the late winter or early spring before new growth begins. If pruning is done in summer, it can damage the flowers or interfere with the development of the fruit. Pruning beautyberry should be done carefully, as it can be pruned easily back to the base of the plant. Prune out dead, diseased, or injured branches, crossing branches, and any branches that interfere with the shape of the plant. Be sure to prune back only the branch tips that are needed, as they are a food source for birds. Pruning beautyberry shrubs does not require any special tools or care."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

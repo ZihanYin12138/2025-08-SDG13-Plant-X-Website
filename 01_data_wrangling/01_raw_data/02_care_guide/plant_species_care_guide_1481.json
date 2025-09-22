@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2711,
+      "species_id": 1481,
+      "common_name": "beautyberry",
+      "scientific_name": [
+        "Callicarpa cathayana"
+      ],
+      "section": [
+        {
+          "id": 8339,
+          "type": "watering",
+          "description": "The beautyberry plant should be watered once every 5-7 days. As with many plants, the amount of water needed depends on several factors such as the weather, temperature and soil type. Water the plant enough so that the soil feels moist but not soggy. During dry periods, an additional watering may be needed. Newly planted beautyberry plants should be watered more often until established. When in doubt, it is better to water less than to water too much as overwatering may lead to root rot."
+        },
+        {
+          "id": 8340,
+          "type": "sunlight",
+          "description": "Beautyberry (Callicarpa cathayana) requires 4–6 hours of direct sunlight per day. This amount of sunlight is best provided in the morning and early afternoon, before the heat of the day. Too much direct sun can damage beautyberries, so placing them in a partially shaded area can help protect them. Also, allowing the soil to dry out between waterings will help keep the plant healthy."
+        },
+        {
+          "id": 8341,
+          "type": "pruning",
+          "description": "Beautyberry (Callicarpa cathayana) should be pruned in late winter or very early spring before new growth begins. Pruning should be minimal and moderate - only selectively prune older branches and stems that are crowding or rubbing against each other. To keep the plant compact and bushy, remove up to 1-third of large, old branches. Prune out any sections affected by disease, insect infestation, or damage, and also cut out any winter-killed branches. Avoid pruning the ends of branches as this reduces flowering and berry production, but pinch off any twiggy branches to help promote bushier growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

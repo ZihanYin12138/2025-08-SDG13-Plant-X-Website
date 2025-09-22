@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2709,
+      "species_id": 1478,
+      "common_name": "beautyberry",
+      "scientific_name": [
+        "Callicarpa americana"
+      ],
+      "section": [
+        {
+          "id": 8333,
+          "type": "watering",
+          "description": "Beautyberry should be watered once or twice a week in the spring and summer. In the winter, the plant needs much less water and can do with just a few waterings a month. When watering, be sure to thoroughly soak the root zone, allowing water to penetrate the soil down to 8-12 inches. It is important to ensure good drainage when watering beautyberry, since the plant will not tolerate sitting in wet soil. Watering can be reduced if soils remain moist, and the frequency should be reduced in winter. During dormant periods, beautyberry will survive on rainfall alone."
+        },
+        {
+          "id": 8334,
+          "type": "sunlight",
+          "description": "Beautyberry (Callicarpa americana) grows best in full sunlight and requires 6 to 8 hours of direct sunlight each day for optimal growth. However, the plant will also tolerate partial shade, particularly during the hottest hours of the day. While the species is native to North America, it can be found growing in many parts of the world, each of which may feature different levels of sunlight exposure. In more temperate climates, it is best for beautyberry to receive full sun; however, in more tropical regions, some light shade can help the shrub avoid heat stress."
+        },
+        {
+          "id": 8335,
+          "type": "pruning",
+          "description": "Beautyberry (Callicarpa americana) is an easy-to-care-for shrub that requires minimal pruning. The best time for pruning is after the shrub has finished flowering in late summer or early fall. Pruning should be kept to a minimum, with no more than 15-20 percent of the plant removed at any 1 time. This helps prevent damage to the root system and encourage healthy regrowth. Focus on removing any dead, diseased, or broken branches. Prune off any crossed branches, as well as those that are overgrown or very weak. Remove any sucker growth that appears at the base of the plant or near the ground. You can also lightly trim the top of the plant to encourage a rounded shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

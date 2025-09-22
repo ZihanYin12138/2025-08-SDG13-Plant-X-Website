@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2659,
+      "species_id": 1418,
+      "common_name": "Japanese boxwood",
+      "scientific_name": [
+        "Buxus microphylla var. japonica 'Green Beauty'"
+      ],
+      "section": [
+        {
+          "id": 8183,
+          "type": "watering",
+          "description": "Water Japanese boxwood (Buxus microphylla var. japonica 'Green Beauty') deeply but infrequently during the spring, summer, and fall months. During warm weather, aim to water the plant every 7-14 days. During the winter, water only when the soil has dried out completely, about once a month. Monitor the moisture level before each watering. Stick your finger up to the second knuckle in the soil before deciding to water. If the soil is damp below the surface, the plant does not need additional water. When watering, give the plant enough to moisten the root zone, but avoid saturating and pooling water in the saucer or pot. Aim to water the plant until it is evenly moist but not soggy."
+        },
+        {
+          "id": 8184,
+          "type": "sunlight",
+          "description": "Japanese boxwood (Buxus microphylla var. japonica 'Green Beauty') is a usually a shade-tolerant evergreen shrub that grows best when planted in full sun. It prefers 4 to 6 hours of direct sunlight a day which should be spread out over the day. This can be accomplished by placing the plant in a location where it receives morning sun as well as late afternoon sun. Planting in an area with part sunlight or dappled shade can also be beneficial. Too much direct sunlight can cause the leaves to become scorched and dried out."
+        },
+        {
+          "id": 8185,
+          "type": "pruning",
+          "description": "Japanese boxwood is best pruned in late winter or early spring. In general, boxwood hedges should be pruned 1-third of their height and width each year. To keep the shrubs healthy, it’s important to remove no more than 1-third of the foliage at 1 time. Remove any diseased or damaged branches to improve air flow and sunlight penetration to the inner parts of the shrub. Pruning lightly in the late winter prevents over pruning. After the spring pruning, you can lightly prune at any time- but avoid heavy pruning in the warmer months."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

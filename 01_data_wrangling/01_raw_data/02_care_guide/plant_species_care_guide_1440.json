@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2681,
+      "species_id": 1440,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Nish'"
+      ],
+      "section": [
+        {
+          "id": 8249,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Nish') should be watered every 5-7 days, providing sufficient water to dampen the soil beneath the surface. During the summer, they may need to be watered a little more frequently, and during the winter, a little less. It's important not to overwater, as this can cause root rot or fungal diseases. Throughout the growing season, hose them off every few weeks to keep leaves clean and reduce the spread of pests and disease. If you experience a dry spell, water more frequently."
+        },
+        {
+          "id": 8250,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Nish') requires full sun, which is at least 6-8 hours of direct sunlight per day. During spring and summer, it can tolerate longer amounts of sun exposure. In the fall and winter months, it should be exposed to more indirect or filtered sunlight as it is more prone to cold damage. It is important to make sure the area in which the boxwood is growing is well-drained and not in standing water."
+        },
+        {
+          "id": 8251,
+          "type": "pruning",
+          "description": "Pruning is an important part of caring for a Boxwood plant (Buxus sempervirens 'Nish'). Pruning should be done in the spring, just after the vegetative growth begins. It will encourage healthy growth and maintain a pleasant shape. Prune lightly, removing no more than 1-quarter of the foliage. If the plant appears to be overgrown, trim it back in stages over the course of a few weeks. Make sure to cut back to just above a bud or the branch collar, which is the swollen area where branch meets trunk. Prune out any dead, weak, or crossing branches as well. Rejuvenation pruning can also be done on older boxwoods. This involves removing 1-third of the oldest, outermost growth, focusing on damaged or diseased parts. This stimulates vigorous new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

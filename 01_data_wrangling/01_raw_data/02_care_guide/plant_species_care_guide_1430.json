@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2671,
+      "species_id": 1430,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Flora Place'"
+      ],
+      "section": [
+        {
+          "id": 8219,
+          "type": "watering",
+          "description": "For Boxwood (Buxus sempervirens 'Flora Place'), proper watering is essential for healthy growth. Water should be supplied evenly and regularly throughout the season, with a light soak once a week. This will keep the roots cool and moist, but not overly saturated or dry. During hot, dry weather, a light watering every 3-4 days may be necessary. Avoid over-watering as this can lead to root rot. In cooler months, only water when the top 3-4 inches of soil feel dry. In late winter and early spring, water lightly, about once every 10-14 days."
+        },
+        {
+          "id": 8220,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Flora Place') is best grown in full sun to partial shade. When grown in full sun, the boxwood plant will thrive and produce strong foliage growth. However, in areas with extreme summer heat, plants may need some afternoon shade for protection from the heat. Aim for around 6-8 hours of direct, unfiltered sunlight each day, preferably morning sun, for optimal plant growth and health."
+        },
+        {
+          "id": 8221,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Flora Place') should be pruned in early spring, typically around March or April. It is important to avoid pruning too often, as this can result in a loss of density and can even ruin the natural shape of the plant. Prune only to remove dead, weak, diseased or crossing branches, and to thin and shape for desired look. Make sure to leave room for growth on the top and sides, as this species does not tolerate severe pruning. Shear the sides and top lightly once in the early spring. This species can also be pruned lightly during the summer to help maintain shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

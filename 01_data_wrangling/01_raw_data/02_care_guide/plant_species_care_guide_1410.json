@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1189,
+      "species_id": 1410,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus microphylla"
+      ],
+      "section": [
+        {
+          "id": 3556,
+          "type": "watering",
+          "description": "For best results, boxwood should be watered about once per week. The amount will depend on the particular boxwood, soil type, climate, and other factors. Generally, the boxwood should get enough water so that the topsoil feels moist but not soggy. If the soil dries out completely, it is important to water deeply to ensure the entire boxwood root system is hydrated. In hot and dry climates, additional watering may be necessary."
+        },
+        {
+          "id": 3557,
+          "type": "sunlight",
+          "description": "Boxwood is a popular ornamental evergreen shrub reachable in a variety of sizes and shapes. Boxwood needs full sun to partial shade to thrive best, especially if planting in a warmer climate. In the winter months, boxwood needs about 4-5 hours of direct sunlight for optimal growth. In the summer months, they can tolerate a little more sun but should not be placed in full, direct sun for more than 6 hours per day."
+        },
+        {
+          "id": 3558,
+          "type": "pruning",
+          "description": "Boxwood (Buxus microphylla) should be pruned in spring and autumn. During the spring pruning, remove dead, dying, and crossing branches in order to open up the canopy and stimulate new growth. In autumn, prune lightly, focusing only on shaping and thinning out crowded areas. Prune no more than 1/3 of the total volume of the plant when pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

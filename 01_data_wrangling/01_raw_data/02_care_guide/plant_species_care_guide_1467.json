@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2703,
+      "species_id": 1467,
+      "common_name": "Cumberland reed grass",
+      "scientific_name": [
+        "Calamovilfa arcuata"
+      ],
+      "section": [
+        {
+          "id": 8315,
+          "type": "watering",
+          "description": "Cumberland reed grass should be watered regularly in order to ensure it remains healthy and vigorous. During the growing season, provide the grass with 1 to 2 inches of water per week from either rainfall or irrigation. If rainfall is not sufficient, then weekly supplemental watering should be provided. If the soil is very sandy, then more frequent watering is necessary. During periods of active growth, Cumberland reed grass should be watered deeply, soaking the entire root zone. During periods of drought, water the grass deeply once or twice every 2 to 3 weeks. During the winter months, water should be provided to the grass only if there is a prolonged drought or little to no precipitation."
+        },
+        {
+          "id": 8316,
+          "type": "sunlight",
+          "description": "Cumberland reed grass requires at least 8 hours of direct sunlight per day, preferably in the morning, to maintain proper health and growth. It is especially important that this grass species is exposed to adequate sunlight if it is being grown for ornamental purposes, as this will increase the grass' photosynthetic efficiency and overall appearance. Additionally, Cumberland reed grass should be exposed to indirect, filtered sunlight during the afternoon, as direct sunlight during this time of day can cause leaf burn."
+        },
+        {
+          "id": 8317,
+          "type": "pruning",
+          "description": "Cumberland reed grass is best pruned when it is actively growing in the late spring and early summer months. Prune the grass to about 6 inches above the ground, cutting the stems back to ground level. This removes dead or brown foliage and helps to encourage new, healthy growth. Prune lightly and more frequently (every 3-4 weeks) for the best results. Pruning regularly will also help to create a denser, healthier grass stand."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

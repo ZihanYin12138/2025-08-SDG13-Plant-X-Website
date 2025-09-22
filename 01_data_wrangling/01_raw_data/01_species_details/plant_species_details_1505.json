@@ -1,0 +1,154 @@
+{
+  "id": 1505,
+  "common_name": "Scotch heather",
+  "scientific_name": [
+    "Calluna vulgaris 'Beoley Gold'"
+  ],
+  "other_name": [],
+  "family": "Ericaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Beoley Gold",
+  "variety": null,
+  "species_epithet": "vulgaris",
+  "genus": "Calluna",
+  "origin": [
+    "Northern North America",
+    "northern Eurasia"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 2,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1505&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1505&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "anthers",
+      "color": [
+        "orange"
+      ]
+    },
+    {
+      "part": "fronds",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stalks",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "August",
+    "March",
+    "April",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1505&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Acidic",
+    " Rocky ",
+    " gravelly ",
+    " dry",
+    " Well-drained"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [
+    "Mites",
+    " Root rot",
+    "  Pest resistant",
+    " Deer resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Scotch Heather (Calluna vulgaris 'Beoley Gold') is an amazing evergreen shrub. Its bright golden foliage is a bright contrast to its deep pink flowers that bloom from summer through the following autumn. This plant is both efficient and easy to care for; it requires minimal water, is salt and wind resistant, and is deer resistant. Plant it in well-drained soil for best success. An added bonus of Scotch Heather is that it makes a great choice for a low-maintenance ground cover. It’s an ideal choice for large, sunny spaces where you want to bring a bit of low-growing color and texture.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1505_calluna_vulgaris_beoley_gold/og/51944451736_d549d3cbf7_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1505_calluna_vulgaris_beoley_gold/regular/51944451736_d549d3cbf7_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1505_calluna_vulgaris_beoley_gold/medium/51944451736_d549d3cbf7_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1505_calluna_vulgaris_beoley_gold/small/51944451736_d549d3cbf7_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1505_calluna_vulgaris_beoley_gold/thumbnail/51944451736_d549d3cbf7_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

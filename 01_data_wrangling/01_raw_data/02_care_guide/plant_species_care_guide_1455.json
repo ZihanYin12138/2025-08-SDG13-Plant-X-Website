@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1034,
+      "species_id": 1455,
+      "common_name": "poinciana",
+      "scientific_name": [
+        "Caesalpinia gilliesii"
+      ],
+      "section": [
+        {
+          "id": 3095,
+          "type": "watering",
+          "description": "Poinciana (Caesalpinia gilliesii) should be watered thoroughly during the summer months. This should be done twice a week, in the early morning. During the cooler months, watering should be done no more than once a week. In both cases, it should be done until the soil is moist, but not soaked. Furthermore, it should be watered deeply, with a light spray of water at the base of the plant. An occasional misting of the foliage will help keep the plant healthy."
+        },
+        {
+          "id": 3100,
+          "type": "sunlight",
+          "description": "Poinciana (Caesalpinia gilliesii) needs full sun to thrive, so it should be planted in a spot with at least 6 hours of direct sunlight a day. But these plants can also tolerate partial sun - about 4-5 hours of direct sunlight a day. It may be ready to tolerate even lower amounts of sunlight when it is mature, making it a good choice for gardeners who need to pick a spot with only partial sun."
+        },
+        {
+          "id": 3108,
+          "type": "pruning",
+          "description": "Pruning for poinciana (Caesalpinia gilliesii) should occur at least once each year, generally during the late winter or early spring months. Pruning should involve removing dead, diseased, or damaged branches, as well as any crossing or interfering branches that might be preventing light from getting to the lower parts of the plant. In addition, it is important to shape and control the overall size and shape of the plant by removing excess growth, as well as thinning out larger branches. This will encourage bushier, more attractive and productive branching. Pruning should be done sparingly, as these plants will become sparse if over-pruned. The best technique is to remove no more than 1/3 of the sideshoot tips during any single pruning session."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

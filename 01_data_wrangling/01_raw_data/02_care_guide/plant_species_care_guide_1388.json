@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2635,
+      "species_id": 1388,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja 'Lochinch'"
+      ],
+      "section": [
+        {
+          "id": 8111,
+          "type": "watering",
+          "description": "For best growth, the Butterfly Bush should be watered about once per week, or whenever the top inch of soil feels dry to the touch. Water deeply until it begins to run through the drainage holes of the pot or the soil is saturated. After watering, allow the excess water to drain out of the pot before placing it back in its location. During the warmer months, you may need to water more frequently. Avoid leaving the soil continually saturated or overwatering, as this can lead to root rot or other plant problems."
+        },
+        {
+          "id": 8112,
+          "type": "sunlight",
+          "description": "Butterfly bush (Buddleja 'Lochinch') requires full sun for best results – at least 6 hours a day of direct, unfiltered light. This can be achieved by planting in an area with a full day of direct sun or by supplementing the natural sunlight with a grow light. If plants are grown in less than full sun, they will not perform as well. In hot climates, some afternoon shade may be beneficial to avoid leaf scorch, but overall, the plants perform best when grown in bright and sunny spots."
+        },
+        {
+          "id": 8113,
+          "type": "pruning",
+          "description": "Pruning butterfly bush (Buddleja 'Lochinch') is important to maintain good form and promote more flowers. For optimum results, prune it twice a year - once in late winter or early spring and again in early summer.\n\nIn late winter or early spring, prune more heavily by cutting back stems by 1-third to 1-half of their length. Make sure to remove any dead or damaged stems, as well as deadheading the flowers.\n\nIn early summer, lightly snip back branch tips and cut out any stems that have become woody or crowded. This will help keep the plant bushy and attractive, with more blooms. \n\nAvoid pruning after early summer to ensure the plant has enough time to set new flower buds for the next season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

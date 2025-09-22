@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 670,
+      "species_id": 1457,
+      "common_name": "angel wings",
+      "scientific_name": [
+        "Caladium bicolor"
+      ],
+      "section": [
+        {
+          "id": 1998,
+          "type": "watering",
+          "description": "Angel Wings should be watered regularly, approximately every 7–10 days. It is best to water the plants in the morning, when the sunlight and temperature are lower so that the water can be absorbed properly. Make sure the soil is consistently damp but not overly wet to prevent root rot. Aim for about 1-2 inches of water every 7-10 days."
+        },
+        {
+          "id": 2005,
+          "type": "sunlight",
+          "description": "For the angel wings plant species, Caladium bicolor, exposure to sunlight is necessary for optimal growth and development. However, it is important not to over-expose the plant to direct sunlight since the leaves can get sunburned and the colors of the leaves may fade. It is best to provide the angel wings with indirect or filtered sunlight, such as dappled light or light that is filtered through a sheer fabric. During the summer months, the angel wings should receive between 4 to 8 hours of indirect sunlight per day. During the winter months, reduce the amount of sunlight it receives to 3 to 4 hours of indirect sunlight per day."
+        },
+        {
+          "id": 2012,
+          "type": "pruning",
+          "description": "Generally, faded and dried leaves should be removed as needed throughout the growing season of the plant. If needed, prune your angel wings in early spring before new growth begins to appear. Remove whole foliages down to the ground when pruning old leaves. Pruning can help to encourage the plants to redirect their focus to other growth areas."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

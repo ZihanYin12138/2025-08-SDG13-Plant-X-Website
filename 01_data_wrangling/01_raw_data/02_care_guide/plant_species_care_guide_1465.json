@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2701,
+      "species_id": 1465,
+      "common_name": "calamint",
+      "scientific_name": [
+        "Calamintha nepeta 'Montrose White'"
+      ],
+      "section": [
+        {
+          "id": 8309,
+          "type": "watering",
+          "description": "Calamint (Calamintha nepeta 'Montrose White') should be watered once a week in the morning, providing 1-1.5 inches of water at a time. Depending on the level of humidity and temperatures in the surrounding environment, frequency of watering may need to be adjusted. The soil should never be allowed to dry out completely, and during periods of intense heat, it might be necessary to water more frequently. It is also important to ensure that the soil drains properly, as Calamint does not tolerate being in waterlogged soil for long periods of time."
+        },
+        {
+          "id": 8310,
+          "type": "sunlight",
+          "description": "Calamint (Calamintha nepeta 'Montrose White') grows best in full sun, meaning it needs at least 6 hours of direct sunlight every day. It can tolerate partial shade in well-drained soil, but its blooms will be fewer and the overall size of the plant will be smaller. Ideally, it should receive full sunlight for the majority of the day, starting in early morning and lasting until late afternoon. Additionally, Calamint appreciates consistent moisture in its soil."
+        },
+        {
+          "id": 8311,
+          "type": "pruning",
+          "description": "Calamint (Calamintha nepeta 'Montrose White') should be given minimal to moderate pruning in order to maintain its compact and bushy shape. Pruning may be done in spring before flowering or in late-summer after flowering. Before pruning, you should remove any broken, dead, or diseased branches or stems. It is also important to remove any weak or crossing branches, too. When it comes to how much pruning to do, you should follow the basic rule of not removing more than 1-third of the plant's branches at a time. If you need to do a more extensive pruning, it is best to do it over several years."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

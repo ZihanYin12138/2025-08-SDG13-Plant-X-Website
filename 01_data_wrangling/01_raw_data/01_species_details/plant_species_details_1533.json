@@ -1,0 +1,107 @@
+{
+  "id": 1533,
+  "common_name": "camellia",
+  "scientific_name": [
+    "Camellia japonica 'Korean Fire'"
+  ],
+  "other_name": [],
+  "family": "Theaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Korean Fire",
+  "variety": null,
+  "species_epithet": "japonica",
+  "genus": "Camellia",
+  "origin": [
+    "Korea"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 10,
+      "max_value": 15,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1533&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1533&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Part shade"
+  ],
+  "pruning_month": [
+    "May",
+    "May",
+    "June",
+    "July"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1533&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Camellia japonica 'Korean Fire' is an amazing and beautiful plant to have in any garden. Its flowers are a vibrant, fiery red, and it has glossy, deep-green leaves which give the garden dramatic color contrast. Its flowers bloom all year round, giving your garden spring and winter flowering and months of color. It also has a moderate growth habit, making it ideal for areas where space is limited. Its evergreen foliage provides excellent privacy, and its low water requirements make it very easy to maintain. All in all, the 'Korean Fire' Camellia is a stunning and hardy addition to any landscape.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1533_camellia_japonica_korean_fire/og/Camellia.japonica.cv.Ashiya.7166.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1533_camellia_japonica_korean_fire/regular/Camellia.japonica.cv.Ashiya.7166.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1533_camellia_japonica_korean_fire/medium/Camellia.japonica.cv.Ashiya.7166.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1533_camellia_japonica_korean_fire/small/Camellia.japonica.cv.Ashiya.7166.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1533_camellia_japonica_korean_fire/thumbnail/Camellia.japonica.cv.Ashiya.7166.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

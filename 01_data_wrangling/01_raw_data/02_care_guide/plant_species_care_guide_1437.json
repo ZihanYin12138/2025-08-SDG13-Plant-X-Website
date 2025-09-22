@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2678,
+      "species_id": 1437,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Memorial'"
+      ],
+      "section": [
+        {
+          "id": 8240,
+          "type": "watering",
+          "description": "Boxwood, a type of evergreen shrub, will require moderate watering on a regular basis. Depending on the environment, boxwood can require more or less water. As general guidelines, these plants should be watered once or twice a week during the summer to keep the soil around the roots evenly moist. During milder seasons, such as spring and fall, boxwood should be watered every 2-3 weeks. In winter, water your boxwood only if the soil is very dry. To check if a plant needs to be watered, insert your finger into the soil up to the first knuckle; if it is dry, water the plant, otherwise leave it alone. It is best to water Boxwood as early as possible in the day when the temperatures are cooler, and the water will not evaporate as quickly."
+        },
+        {
+          "id": 8241,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Memorial') thrives in an area of direct sunlight for at least 6-8 hours a day. If grown in a shady location, it may become sparse, thin, and/or leggy with little to no flowering. Full sun or partial sun is the optimal environment for this species, as long as it has protection from hot afternoon sun; this will help the foliage retain its beautiful, vivid color."
+        },
+        {
+          "id": 8242,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Memorial') should be pruned yearly in early spring, immediately before new growth begins. Pruning should remove all dead, broken, diseased, or out-of-shape branches. Avoid pruning back to bare wood, as this can reduce the health of the plant. Instead, selectively prune branches to retain the plants' natural shape. Summer pruning may be necessary to keep the shrub in a desired size and shape. As well, light fertilization in spring may be necessary to replenish nutrients used by the plant throughout the growing season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

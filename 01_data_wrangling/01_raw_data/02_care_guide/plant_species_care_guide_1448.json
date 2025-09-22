@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2689,
+      "species_id": 1448,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Vardar Valley'"
+      ],
+      "section": [
+        {
+          "id": 8273,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Vardar Valley') should be watered every 1-2 weeks. The amount of water depends on the environment and the size of the plant. During the summer months, water deeply and thoroughly enough that the soil is slightly moist, but not soggy. In the winter, water less frequently, usually every 2 weeks. Check the soil both to ensure that it is damp but not extremely wet. Err on the side of caution; too much water can cause root rot."
+        },
+        {
+          "id": 8274,
+          "type": "sunlight",
+          "description": "The boxwood (Buxus sempervirens 'Vardar Valley') prefers a spot in full sun, but can tolerate partial shade. They require at least 4 hours of direct sunlight per day, especially in areas with hot summers. Morning sun is best – too much late afternoon sun can cause the leaves to scorch. In winter, boxwoods may require less sun, especially if temperatures drop near freezing. Too little sunlight can cause a boxwood to become \"leggy,\" or stretch towards the light. Also, too much shade can cause the shrub to be prone to disease."
+        },
+        {
+          "id": 8275,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Vardar Valley') should be pruned twice a year, typically in the spring and in the late summer or autumn. During the spring, prune only lightly to shape and to remove any dead or damaged stems. This is the time to also reduce the overall size of the plant if needed. In late summer or autumn, prune more heavily to prepare the plant for winter. Be aware that too much pruning in late summer can discourage fall growth of the boxwood, so be sure to check for new growth before undertaking heavier pruning. When pruning, try to cut back to a nearby set of buds as this is the area where new growth will come from. Also, remember to sanitize pruning tools after each cut to avoid transferring any disease or pests from 1 plant to another."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2636,
+      "species_id": 1389,
+      "common_name": "mountain sagewood",
+      "scientific_name": [
+        "Buddleja loricata"
+      ],
+      "section": [
+        {
+          "id": 8114,
+          "type": "watering",
+          "description": "Mountain Sage wood requires well-draining soil and plenty of bright sunlight. Water it regularly, about once or twice per week depending on the season, to keep the soil evenly moist. During the summer months, the plant should be watered more frequently as the soil will dry out faster. In the winter months, the frequency of watering should be reduced so the soil doesn't saturate and cause root rot or fungal diseases. Make sure to check the soil moisture levels often and water the plant when the soil is just slightly damp or dry, but not wet. With the proper care, Mountain Sage wood will thrive and produce beautiful, fragrant flowers."
+        },
+        {
+          "id": 8115,
+          "type": "sunlight",
+          "description": "Mountain sagewood or Buddleja loricata, native to the lower regions of the Andes mountains, needs full sunlight of at least 6 hours or more per day to thrive. As it is native to a generally dry area, it is recommended to not overwater plant as it is not used to too much moisture in its natural habitat. If it is grown in a cooler climate, it should receive sun from mid-morning through late afternoon. In a warmer climate, it may require some afternoon shade during the hottest part of the day."
+        },
+        {
+          "id": 8116,
+          "type": "pruning",
+          "description": "Mountain sagewood (Buddleja loricata) should be pruned in late winter or early spring when the plants are still actively growing and have not yet bloomed. Prune the plants back to 2-3 buds from the woody, older stems. Pruning young plants may require removing entire portions of stems in order to enourage new growth. Pruning back established plants will help to maintain their shape, and can also be done to reduce the spread of the plant. If you have a specimen that you want to keep at a specific size, you may need to prune it more frequently to keep it in check. Pruning off dead or diseased branches should be done throughout the growing season as needed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

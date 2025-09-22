@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2702,
+      "species_id": 1466,
+      "common_name": "calamint",
+      "scientific_name": [
+        "Calamintha nepeta subsp. nepeta"
+      ],
+      "section": [
+        {
+          "id": 8312,
+          "type": "watering",
+          "description": "Calamint should be watered every 3-4 days in the summer months, and once a week in the winter months. The soil should be kept moist but not wet. If the soil appears dry, increase the frequency or amount of water you give it. The plant should be watered from the top and allowed to drain through the bottom, and any standing water should be removed. As the plant becomes established, you can reduce the frequency of watering."
+        },
+        {
+          "id": 8313,
+          "type": "sunlight",
+          "description": "Calamint (Calamintha nepeta subsp. nepeta) prefers full sun or partial shade. This species does best in an area that receives 6-8 hours of sunlight per day. A few hours of morning sun is ideal, but too much afternoon sun may cause the leaves to scorch. Adequate amounts of sunlight allows the plant to produce its characteristic white flowers. If the location is too shady, the plant may become leggy and need staking to remain upright."
+        },
+        {
+          "id": 8314,
+          "type": "pruning",
+          "description": "Calamint should be pruned annually in early spring, just before the new growth appears. During this time, you should prune back dead and dying branches, as well as any overly long or leggy branches. Any diseased branches should also be pruned. When pruning, you should lop off no more than a third of the total growth. If you are looking to shape the plant and promote new growth, lightly trim the shoots to the desired shape. This type of pruning does not require a large amount of cutting, and should be done with the utmost care. Care should be taken to avoid cutting new growth buds. If there is a need to thin out the overall shape of the plant, shortening the branches may be necessary. Be sure to check for any signs of disease or infestation prior to pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2637,
+      "species_id": 1390,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja 'Miss Molly'"
+      ],
+      "section": [
+        {
+          "id": 8117,
+          "type": "watering",
+          "description": "The butterfly bush (Buddleja 'Miss Molly') should be watered once a week, providing 1-2 inches of moisture each time. The soil should be evenly moist but not soggy. If it is not watered often enough, the plant may become unruly and the blooms may fail to produce. During hot summer days, you may need to water more often to keep the soil moist, but be careful not to over-water. In winter, the plant can dry out more than usual, so monitor the soil closely to determine if additional watering is necessary."
+        },
+        {
+          "id": 8118,
+          "type": "sunlight",
+          "description": "Butterfly bush (Buddleja 'Miss Molly') thrives in full sun, or at least 6 to 8 hours of direct sunlight per day. The flowering shrub does best when given plenty of light for long periods of time. In especially hot climates, it may be beneficial to provide some afternoon shade when temperatures are especially high. During the heat of the summer months, some protection from the midday sun may be needed in order to keep the plant looking its best."
+        },
+        {
+          "id": 8119,
+          "type": "pruning",
+          "description": "Butterfly bush (Buddleja 'Miss Molly') should be pruned in early spring. This should be done before new growth begins. Removal of the entire shrub should be avoided if possible, as it can cause the plant to become overgrown or unhealthy. Pruning should be done in a way to promote a rounded shape and reduce the size if necessary. Trim branches that cross over or rub against each other, as well as those that are dead or diseased. Cutting back the upper third of the shrub by up to 5 feet (1.5 m) should be done for established shrubs over 4–5 years old. This will help to improve air circulation and promote fresh growth. Pruning should be done judiciously as too much can cause harm to the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

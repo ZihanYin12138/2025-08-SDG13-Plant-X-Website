@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2651,
+      "species_id": 1406,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus 'Green Mound'"
+      ],
+      "section": [
+        {
+          "id": 8159,
+          "type": "watering",
+          "description": "Boxwood (Buxus 'Green Mound') should be watered once every 3 weeks in order to maintain proper level of moisture. During the summer, it’s best to water more often, about every 2 weeks. On hot, dry days, additional watering may be required. Soak the soil thoroughly until water comes out of the drainage holes in the bottom of the pot. Be careful not to overwater, as this can cause root rot and other problems with the plant."
+        },
+        {
+          "id": 8160,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus 'Green Mound') prefers full sun to partial shade but can tolerate more shade in warmer climates. Six to 8 hours of sun per day is optimal, but plants can do well with 4 or 5 hours of direct sunlight. Avoiding afternoon sun is ideal, as it can scorch the plant if done in excess."
+        },
+        {
+          "id": 8161,
+          "type": "pruning",
+          "description": "Boxwood (Buxus 'Green Mound') should be pruned twice a year, once in early spring before new growth begins and again in mid to late summer. Pruning should remove faded flower heads and dead or broken branches, and should also take into account any desired shape or size for the plant in question.When pruning Green Mound in spring, prune to slightly reduce its size by removing thin branches and shaping the sides of the plant. When pruning in late summer, remove any excessive or wild new growth by shearing it back to the desired shape. Shearing should be done very lightly and not come more than 1/3 of the way down the plant. During this time, you can also remove any crossed or rubbing branches as well."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

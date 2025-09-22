@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2639,
+      "species_id": 1392,
+      "common_name": "butterfly bush",
+      "scientific_name": [
+        "Buddleja 'Miss Violet'"
+      ],
+      "section": [
+        {
+          "id": 8123,
+          "type": "watering",
+          "description": "Water Butterfly Bush (Buddleja 'Miss Violet') regularly; aim for about an inch of water per week. During the first year, ensure that the soil remains moist, particularly during periods of heat, but not soggy or waterlogged. Established plants are more drought tolerant and can be watered every 10–14 days. Avoid overwatering as this can cause root rot, especially in cool, wet environments or in clay soils. Water plants in the late afternoon to reduce the risk of fungal diseases."
+        },
+        {
+          "id": 8124,
+          "type": "sunlight",
+          "description": "The butterfly bush (Buddleja ‘Miss Violet’) is a perennial flowering shrub that thrives in full sun. It requires at least 6 to 8 hours of sunlight per day to produce its vibrant, purple blooms. While some filtered shade is okay for this bush, too much shade will decrease its flowering potential. It is also important to select a spot with good air circulation because it can be prone to mildew and other fungal infections. The butterfly bush fares well in most soil types but prefers well-draining, slightly acidic soil."
+        },
+        {
+          "id": 8125,
+          "type": "pruning",
+          "description": "Butterfly bush (Buddleja 'Miss Violet') should be pruned in late winter or early spring before new growth begins. Prune back any stems, if desired, to desired shape and size. Remove any dead or damaged stems. Prune out about 1-third of the oldest stems at the ground level and any stems thinner than a pencil. Also cut back portions of the larger, more vigorous stems by about 1-third. Be sure to cut back each stem to a set of healthy buds. Performing this kind of maintenance pruning will promote healthy new growth and flowering throughout the season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2668,
+      "species_id": 1427,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Edgar Anderson'"
+      ],
+      "section": [
+        {
+          "id": 8210,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Edgar Anderson') should be watered thoroughly twice a week. For each watering, aim to moisten the entire root ball down to a depth of 8-12 inches. An even balance of water and air in the soil is key, as boxwoods may become distressed from over- or under-watering. To check soil moisture, use your finger to feel the top 2 inches of soil; if it is dry, it's time to water. During hot summer months, give your boxwood an extra watering or 2 to keep its soil consistently moist."
+        },
+        {
+          "id": 8211,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Edgar Anderson') does best in full sunlight to lightly shaded locations. It will tolerate full sun in USDA Hardiness Zones 8-10, but in zones 6-7 it prefers some light afternoon shade. Varieties found in zone 5 may need full afternoon shade. As a general rule, boxwoods require at least 4 hours of direct sunlight per day; however, it is best to avoid prolonged direct sun during hot summer months. To keep your boxwood healthy and promote new growth, it is important to provide the proper amount of sunlight and to protect its foliage from strong winds."
+        },
+        {
+          "id": 8212,
+          "type": "pruning",
+          "description": "The best time to prune boxwood (Buxus sempervirens 'Edgar Anderson') has been found to be in the late winter or early spring. Although pruning of this species can be done in late summer as well, it is generally better to hold off until the following winter for the sake of its overall health and vitality.\n\nAs for how much to prune, most of the time simply removing dead, damaged, or dying branches, as well as thinning the top of the shrub, is sufficient. However, if you're looking to shape the boxwood, you can cut away a bit more. The important thing is to avoid removing more than 1-third of the plant's living green foliage—doing so can be very damaging to the boxwood. Also, make sure to cut just above the leaf node in order to get a cleaner, straighter cut."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2646,
+      "species_id": 1399,
+      "common_name": "orange bulbine",
+      "scientific_name": [
+        "Bulbine frutescens"
+      ],
+      "section": [
+        {
+          "id": 8144,
+          "type": "watering",
+          "description": "Orange bulbine should be watered deeply once a week, allowing the soil to dry out between watering. During warmer, dry periods, water a bit more frequently. Never allow the soil to become completely bone dry or soggy. If your climate is very warm and dry, the plant may need an additional watering every few days to help keep the soil from drying out quickly. In winter, water requirements are much lower, usually just every 2-3 weeks.\n\n"
+        },
+        {
+          "id": 8145,
+          "type": "sunlight",
+          "description": "Orange bulbine is a succulent plant that prefers to be grown in full sun for at least 6 hours a day. With too little light, the plant's leaves will become pale and leggy, and can eventually die off. During the hotter months, the plant benefits from some afternoon shade to prevent sunburn, but at least 6 hours of direct sunlight should still be provided. When it is cold or overcast, the plant does not need as much sunlight, but will still require 4 to 6 hours to stay healthy."
+        },
+        {
+          "id": 8146,
+          "type": "pruning",
+          "description": "Orange bulbine requires light pruning throughout the year. Pruning encourages denser growth and helps maintain the desired shape of the plant, so it’s important to prune regularly. In late spring or early summer, prune faded flower heads and any old, straggly growth to promote new growth and encourage flowering. At the end of summer, lightly trim out any shoots that have grown too tall and out of shape to keep the plant looking neat and compact. Pruning should be done with clean, sharp shears and should generally only include the removal of 1/3 of the plant at any 1 time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2680,
+      "species_id": 1439,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Natchez'"
+      ],
+      "section": [
+        {
+          "id": 8246,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Natchez') should be watered thoroughly when the soil appears dry. Water about every 7-10 days during the summer, allowing the soil to dry out a little between watering. In winter, however, watering should be reduced, as boxwoods are semi-dormant and need less water. In the cooler months, water about every 14-21 days. Always check the soil before watering, as overwatering can lead to root rot."
+        },
+        {
+          "id": 8247,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Natchez') grows best in full sun to part shade. At least 6 hours of direct sunlight are recommended for optimal growth. However, too much sunlight can cause burning and may stunt growth. In regions with hot summers, afternoon shade is beneficial. Boxwood are broadleaf evergreens that do best in cooler climates. In warmer areas, they should be provided with some form of shade."
+        },
+        {
+          "id": 8248,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Natchez') is best pruned during the late spring season, when the new growth has just begun to appear. The severity of pruning depends on the desired shape of the boxwood and how much it needs to be thinned, so it is important to be conservative with pruning at first to achieve the desired result. When pruning, it is important to remove dead, damaged or diseased branches to promote healthy growth. When thinning out the plant, no more than 1 third of the hedge should be pruned away, or the remaining branches will be too sparse and subjected to sunscald. To prevent the boxwood from becoming too tall or wide, tip-prune the lateral branches and shorten the branches on the top of boxwood to desired lengths. To maintain a desired shape, prune the sides of the boxwood to the desired shape or size."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

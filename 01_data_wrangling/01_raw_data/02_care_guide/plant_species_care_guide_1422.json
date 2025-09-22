@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2663,
+      "species_id": 1422,
+      "common_name": "common box",
+      "scientific_name": [
+        "Buxus sempervirens"
+      ],
+      "section": [
+        {
+          "id": 8195,
+          "type": "watering",
+          "description": "Common box (Buxus sempervirens) prefers frequent but shallow watering. Water deeply and thoroughly about every 10 days during the growing season (April through September), and reduce watering to once a month in winter. Allow the top 2 inches of soil to dry before watering again. Avoid over-watering, as this can cause root rot and other diseases."
+        },
+        {
+          "id": 8196,
+          "type": "sunlight",
+          "description": "Common box prefers to grow in well-drained soil in full sun or partial shade. In very warm climates, it is best protected from the direct midday and afternoon sun. It can grow in full sun to partial shade, however it will need 4-6 hours of direct sunlight to thrive. In areas where temperatures are cooler it will tolerate full sun quite well. For optimal growth, aim to give your plants at least 3-4 hours of direct sun each day.\n\nAs it is a slow-growing species, it rarely requires additional fertilizing. However, if you wish to do so, a balanced, slow-release fertilizer is recommended."
+        },
+        {
+          "id": 8197,
+          "type": "pruning",
+          "description": "Common box plants should be pruned twice a year, once in early summer and again in late winter. In early summer, it should be trimmed to maintain a tidy shape. All stems should be pruned to a strong laterals. Pruning in late winter should be slightly more severe, with approximately 1-third to 1-half of the growth of the previous summer being removed. This will encourage dense and bushy growth and help control its ultimate size. Different plants may require different levels of pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

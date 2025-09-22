@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2705,
+      "species_id": 1473,
+      "common_name": "marigold",
+      "scientific_name": [
+        "Calendula officinalis"
+      ],
+      "section": [
+        {
+          "id": 8321,
+          "type": "watering",
+          "description": "Water Marigolds (Calendula officinalis) moderately. On particularly hot days, water more frequently - up to 3 times a week. Watering should be done early in the morning so that the plant has time to dry off before the evening. During the hotter months, deeper waterings will help promote full root development and flowering. Once soil is worked into the plant’s root system, it is important to be consistent with waterings."
+        },
+        {
+          "id": 8322,
+          "type": "sunlight",
+          "description": "Marigolds (Calendula officinalis) thrive when they receive 8-10 hours of direct sunlight per day. They should be planted in an area that receives full sun, where they’ll enjoy bright, direct light from morning to mid-afternoon. Avoid providing too much shade, as that will discourage blooms and cause the plants to become spindly. Aim for a consistent and reliable amount of sunshine to ensure that marigolds grow and bloom properly throughout the growing season."
+        },
+        {
+          "id": 8323,
+          "type": "pruning",
+          "description": "Marigold (Calendula officinalis) benefits from regular pruning for optimal health. Pruning can prevent overgrowth and encourage new flower growth. In general, the best time to prune Marigold is in the late summer or early fall. This is when the plant has started to slow down its growth and will be preparing for winter dormancy. Pruning should be done in moderation as too much can result in decreased flowering. Before pruning, wait for flowers to go to seed and the foliage to turn yellow. When pruning, use sharp gardening scissors or shears and remove up to 1-third of the plant’s foliage. This includes small stems, leaves, and flower heads. After pruning, feed the plant with an all-purpose fertilizer to encourage new flower growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

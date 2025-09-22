@@ -1,0 +1,119 @@
+{
+  "id": 1411,
+  "common_name": "boxwood",
+  "scientific_name": [
+    "Buxus microphylla 'Apple Green'"
+  ],
+  "other_name": [
+    "Korean boxwood"
+  ],
+  "family": "Buxaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Apple Green",
+  "variety": null,
+  "species_epithet": "microphylla",
+  "genus": "Buxus",
+  "origin": [
+    "Eurasia",
+    "tropical and southern Africa",
+    "Caribbean",
+    "and Central America"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 4,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1411&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1411&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Filtered shade",
+    " Full sun only if soil kept moist",
+    " Part sun/part shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1411&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Pest resistant",
+    " Disease resistant",
+    " Deer resistant",
+    " Rabbit resistant",
+    " Drought resistant"
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Boxwood (Buxus microphylla 'Apple Green') is an amazing evergreen shrub due to its unique green foliage, compact growth habit and versatility. With deep green leaves that are often tinted with yellow or gray-green, it is a beautiful addition to any garden. It is a low-maintenance shrub, making it a great choice for gardeners of all skill levels. Boxwood is often used to line walkways and garden beds, topiary sculptures and more. Not only is it an attractive feature in a landscape, but it is also an essential plant for wildlife, providing food and shelter for birds and other animals.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1411_buxus_microphylla_apple_green/og/1536px-Buxus_microphylla_27Korean_Compact27_2019-06-01_01.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1411_buxus_microphylla_apple_green/regular/1536px-Buxus_microphylla_27Korean_Compact27_2019-06-01_01.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1411_buxus_microphylla_apple_green/medium/1536px-Buxus_microphylla_27Korean_Compact27_2019-06-01_01.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1411_buxus_microphylla_apple_green/small/1536px-Buxus_microphylla_27Korean_Compact27_2019-06-01_01.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1411_buxus_microphylla_apple_green/thumbnail/1536px-Buxus_microphylla_27Korean_Compact27_2019-06-01_01.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

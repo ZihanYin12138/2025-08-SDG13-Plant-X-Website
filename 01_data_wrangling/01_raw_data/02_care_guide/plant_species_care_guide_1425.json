@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2666,
+      "species_id": 1425,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Chloe'"
+      ],
+      "section": [
+        {
+          "id": 8204,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Chloe') should be given 1 inch of water per week during the first growing season to help promote root growth. During the peak of growing season, water boxes more often as needed to maintain an evenly moist soil (not wet) around the root zone. Once established, boxwood can tolerate some periods of drought, but for best appearance, water it during prolonged dry spells. Avoid wetting the foliage when you water the plant."
+        },
+        {
+          "id": 8205,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Chloe') should be planted in a location that receives at least 4-6 hours of direct sunlight a day. Morning sunlight is best for boxwood as this helps to dry the foliage after overnight dews, thus helping to reduce disease potential. Avoid planting boxwood in an overly shaded location as this can reduce overall health and vibrancy of the plants."
+        },
+        {
+          "id": 8206,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Chloe') should be pruned twice per year; once in early spring and another light pruning in late summer. Before pruning, it is important to inspect your boxwoods for any disease and pests. \n\nIn early spring, remove any dead, diseased, or damaged branches as well as any overlong or superfluous limbs. Pruning should remove no more than 10-15% of the entire plant. Thin out the crown if it appears too dense, allowing 1⁄2 to 1 inch spacing between branches and stems.\n\nIn late summer, lightly prune the boxwood in order to maintain a desired shape. Prune with shears or hand clippers to create a uniform height and/or width. Do not exceed 10-15% of the entire plant during this pruning. While pruning, take care to not harm the bud, as this can cause damage to the shrub.\n\nIn general, it is best to prune boxwoods to thinner, more fine-textured foliage as opposed to thick and coarse. Additionally, avoid heavy pruning as this can cause damage to the shrub and affect its health."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

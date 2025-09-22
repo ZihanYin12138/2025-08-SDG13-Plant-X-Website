@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2670,
+      "species_id": 1429,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Fastigiata'"
+      ],
+      "section": [
+        {
+          "id": 8216,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Fastigiata') is a very drought-tolerant evergreen shrub that requires little supplemental watering to remain healthy. Water deeply and infrequently, usually every 2-3 weeks throughout the year, or when the soil is dry to the touch. Make sure to not overwater the plant, as this can cause root rot and other issues. For optimum health, water your boxwood deeply enough to moisten the entire root zone without creating puddles. In times of hot, dry weather, water more frequently; make sure to water thoroughly to ensure adequate soil moisture."
+        },
+        {
+          "id": 8217,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Fastigiata') prefers full sun to partial shade, and is more likely to thrive when it gets 6-8 hours of direct sunlight each day. Morning sun is best, as too much afternoon sun can damage the foliage. Sensitive to extreme temperatures, boxwood will benefit from the dappled shade of nearby tall trees during hot summer months, and will appreciate shelter from cold winter winds when planted in cooler climates."
+        },
+        {
+          "id": 8218,
+          "type": "pruning",
+          "description": "Boxwood (Buxus sempervirens 'Fastigiata') usually benefits from pruning at least once each year. Pruning in early spring is best, as it helps to define the shape of the plant, promotes air circulation, and reduces the chances of fungal infection. When pruning, remove up to 1/3 of the total height of the plant, making sure to thin out the interior of the shrub to allow adequate airflow. Additionally, prune off any dead or diseased branches and remove any damaged or crossed branches. Finally, prune off any errant growth that is growing outside of the desired shape of the boxwood."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

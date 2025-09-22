@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2652,
+      "species_id": 1408,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus 'Green Velvet'"
+      ],
+      "section": [
+        {
+          "id": 8162,
+          "type": "watering",
+          "description": "Boxwood (Buxus 'Green Velvet') requires regular waterings in order to remain healthy. Water the plant when the soil has mostly dried out, but the leaves are still slightly wilted. This usually means watering once every 3 to 4 days, or roughly every other day during periods of high heat and low humidity. Water until the soil is damp enough that water runs out the drainage holes in the pot. Do not allow the pot to sit in water for an extended period of time, as this can cause root rot. In addition, do not over water as this can also lead to plant health issues."
+        },
+        {
+          "id": 8163,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus 'Green Velvet') needs an average of 6 to 8 hours of full sunlight each day. Ideally, they should be located in areas that get morning sunlight and afternoon shade, to avoid sunburn. If they are located in a shadier area, they should still be in a spot that receives ample direct light throughout the day."
+        },
+        {
+          "id": 8164,
+          "type": "pruning",
+          "description": "Boxwood (Buxus 'Green Velvet') should be pruned in early spring before new growth begins. Pruning should be light to moderate, removing no more than 1-third of the total foliage each year. Dead and damaged wood should be cut back to healthy new shoots. Overall, the goal should be to maintain the natural shape of the plant. Heavy pruning should be avoided since new growth can be weak and unable to support the weight of the plant. Periodic thinning of the center of the shrub is suggested to encourage good air circulation. If boxwood is overgrown, it can be pruned down to the desired size all at once. However, try to avoid making drastic cuts all at once since this will require more recovery time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

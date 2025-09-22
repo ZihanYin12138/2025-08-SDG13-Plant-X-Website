@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2707,
+      "species_id": 1476,
+      "common_name": "water arum",
+      "scientific_name": [
+        "Calla palustris"
+      ],
+      "section": [
+        {
+          "id": 8327,
+          "type": "watering",
+          "description": "Water arum should be watered once per week, with enough water to saturate the soil fully, but not waterlogged. The soil should be completely dry before watering again. It's best to water in the morning, as doing so in the evening can create a favorable environment for diseases. During the hottest months of the year, the water arum may require more frequent waterings, such as once every 3 to 4 days. To help maintain soil moisture, a thick layer of mulch is recommended."
+        },
+        {
+          "id": 8328,
+          "type": "sunlight",
+          "description": "Water arum (Calla palustris) thrives in wet areas, such as marshes, ditches, and shallow streams. In order to thrive, water arum requires plenty of sunlight, but the amount and type of sunlight depends on the location of the plant. \n\nIn full sun, the water arum needs at least 6 hours of direct sunlight per day. If the plant is in partial shade, 4 to 6 hours of indirect sunlight per day should suffice. It is best to avoid planting water arum in direct shade, since it will not receive enough light and will not grow to its potential.\n\nWater arum is a seasonal plant, so the amount of sun it receives changes with the seasons. During its growing season (spring and early summer), the water arum needs plenty of sunlight; the more sunlight it gets, the better off it will be. During the winter, direct sunlight can damage the plant, and it is best for the plant to receive indirect light. \n\nWhile water arum needs plenty of light to thrive, it is important to avoid extreme sunlight, as the plant can experience sunburn if it is overexposed to intense sunlight. For this reason, it is best to ensure that your water arum is in an area of the garden that is not naturally prone to intense sunlight."
+        },
+        {
+          "id": 8329,
+          "type": "pruning",
+          "description": "Water arum should be pruned in late winter or early spring, right before the start of its growing season. Pruning should be kept to a minimum, and only the dead, sick, or broken foliage should be removed. Occasionally, 1 may need to lightly shape the plant by cutting away a few of the longer stems to reduce the overall size of the plant. It is important to use clean, sharp garden shears for pruning to prevent infection. Furthermore, removing the flower spikes at the end of its blooming period will help to increase and prolong flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

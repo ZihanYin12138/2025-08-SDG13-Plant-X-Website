@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2647,
+      "species_id": 1401,
+      "common_name": "flame of the forest",
+      "scientific_name": [
+        "Butea monosperma"
+      ],
+      "section": [
+        {
+          "id": 8147,
+          "type": "watering",
+          "description": "Flame of the forest plants require frequently. Water them regularly when the soil feels dry to the touch. Miniature plants should be watered every few days, while mature plants can tolerate weekly waterings. During the hottest months of summer, check the soil 2 to 3 times a week. During cooler months like winter reduce watering to once a week. If the flame of the forest is planted in the ground, water the soil directly at the base of the tree. If the flame of the forest is in a container, thoroughly water the pot until moisture begins to drip from the drainage hole."
+        },
+        {
+          "id": 8148,
+          "type": "sunlight",
+          "description": "Flame of the forest, otherwise known as Butea monosperma, requires full sun or partial shade and prefers 6-8 hours of sunlight daily for optimal growth. The optimal time for its exposure to sunlight is 8 am to noon and 2 pm to 6 pm. Early morning sun is essential for the plant, as it helps it to harden for the season. If the hours of sunlight are limited, the plant may suffer from poor growth or die."
+        },
+        {
+          "id": 8149,
+          "type": "pruning",
+          "description": "Pruning is an important part of caring for the Butea monosperma plant, also known as Flame of the Forest. Pruning helps promote healthy new growth, maintain shape and overall health of the plant, and minimize disease. Prune your Flame of the Forest plant in early spring before any new growth appears. Use sharp pruning shears or loppers to remove dead, diseased, or damaged branches and suckers. Don’t remove more than 1-third of the plant at a time. Regular pruning will help promote vigorous new growth and prevent excessive leggy growth. Additionally, removing flower heads after flowering will also help encourage new growth and keep the plant looking its best."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

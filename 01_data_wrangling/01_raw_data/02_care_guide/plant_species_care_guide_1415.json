@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2658,
+      "species_id": 1415,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus microphylla 'John Baldwin'"
+      ],
+      "section": [
+        {
+          "id": 8180,
+          "type": "watering",
+          "description": "Boxwood can be watered every 10-14 days depending on the season and weather. In general, cardboard should receive about an inch of water per week. During the hot summer months, boxwood may need more frequent watering up to twice a week, as long as the soil has time to completely dry out between sessions. In the winter months, it may be necessary to water less or not at all depending on the local climate and conditions. When watering, use a slow and steady stream of water and try to avoid overwatering, as this can cause root rot. Additionally, ensure that the plant is getting adequate drainage and allowing the water to completely soak in."
+        },
+        {
+          "id": 8181,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus microphylla 'John Baldwin') prefers full sun, but can tolerate light shade. For best growth and most benefit from the sun, plant this species in an area of full sun or partial shade with at least 5-6 hours of direct sunlight each day. If planted in an area of full shade, boxwood may not grow or thrive. In hot, humid climates, some afternoon shade may be beneficial."
+        },
+        {
+          "id": 8182,
+          "type": "pruning",
+          "description": "For boxwood (Buxus microphylla 'John Baldwin'), pruning should be done on a regular basis. Depending on how fast it grows, pruning can be done every 1 to 3 years. Late winter is usually the best time to prune, before new growth begins. Start by removing any damaged, diseased or dead branches. Prune again in the summer, trimming the plant back further. Shape the plant by removing any inner or outer branches that spoil the uniform look, and also remove any branches crossing over each other or rubbing against each other. Prune just above a bud to encourage branching. If needed, prune again in the fall when the plant has finished flowering. Pruning should aim to maintain the desired shape and size."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

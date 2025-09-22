@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2715,
+      "species_id": 1485,
+      "common_name": "beautyberry",
+      "scientific_name": [
+        "Callicarpa dichotoma f. albifructa 'Duet'"
+      ],
+      "section": [
+        {
+          "id": 8351,
+          "type": "watering",
+          "description": "Beautyberry plants (Callicarpa dichotoma f. albifructa 'Duet') should be watered once a week during Spring and Summer, providing a deep soaking to the soil to allow the water to penetrate the roots. During the Autumn and Winter months, it is best to cut back on the amount of water, providing only enough water to keep the soil slightly moist. To ensure the correct amount of water is provided, check the top 2 inches of soil to determine if it is dry, if so water until the soil is thoroughly wet but not soggy. In addition, the soil should be checked for signs of over-watering, such as wilting or yellowing leaves."
+        },
+        {
+          "id": 8352,
+          "type": "sunlight",
+          "description": "Beautyberry (Callicarpa dichotoma f. albifructa 'Duet') prefers full sun in order to thrive. This means direct light from the sun for at least 6 hours per day during the growing season, which consists of late spring, summer and early fall. In warmer climate conditions, this species will also tolerate partial shade in the afternoon to avoid any potential sunscald. It is important to take into account seasonal changes in daylight hours, because in winter this plant will need less sunlight than when in the evenings the days are much longer. Watering should be done regularly and deeply, as beauty berry is very resilient to drought."
+        },
+        {
+          "id": 8353,
+          "type": "pruning",
+          "description": "Beautyberry (Callicarpa dichotoma f. albifructa 'Duet') should be pruned in late winter or early spring. The best time to prune is when the plant is still dormant, which will help prevent shock and damage to the foliage. Pruning should be kept to a minimum, as this is a delicate shrub with an open, airy structure. Large, older branches should be trimmed at the base to ground level. Removal of spent flower clusters encourages reblooming and helps maintain an attractive shape. Deadheading or removal of seed heads can also be done in mid- to late summer."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

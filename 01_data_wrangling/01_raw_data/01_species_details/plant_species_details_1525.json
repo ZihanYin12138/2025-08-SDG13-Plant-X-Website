@@ -1,0 +1,153 @@
+{
+  "id": 1525,
+  "common_name": "wild hyacinth",
+  "scientific_name": [
+    "Camassia scilloides"
+  ],
+  "other_name": [
+    "Atlantic Camas"
+  ],
+  "family": "Asparagaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "scilloides",
+  "genus": "Camassia",
+  "origin": [
+    "Central and eastern North America"
+  ],
+  "type": "Bulb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Butterflies",
+    " Bees"
+  ],
+  "propagation": [
+    "Division",
+    "Seed Propagation",
+    "Cormlet Propagation",
+    "Offsets"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1525&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1525&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "light-blue-white",
+        "white"
+      ]
+    },
+    {
+      "part": "anthers",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "buds",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "filaments",
+      "color": [
+        "white"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Partial Shade",
+    " Shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1525&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Clay",
+    " Sand",
+    " Humus Enriched"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Wild Hyacinth, or Camassia scilloides, is an amazing plant species that blossoms early in the spring and provides a stunning display of purple, white, and blue starburst flowers. Its narrow, grass-like leaves also add texture and color to the surrounding area. This native species is comparatively drought-tolerant compared to other garden flowers, and will continue to grow and bloom for years without needed to be replanted. Wild Hyacinth is also a great pollinator attractor that will wow any outdoor space with its effortless beauty and rarity.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1525_camassia_scilloides/og/52018796365_365b605111_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1525_camassia_scilloides/regular/52018796365_365b605111_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1525_camassia_scilloides/medium/52018796365_365b605111_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1525_camassia_scilloides/small/52018796365_365b605111_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1525_camassia_scilloides/thumbnail/52018796365_365b605111_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

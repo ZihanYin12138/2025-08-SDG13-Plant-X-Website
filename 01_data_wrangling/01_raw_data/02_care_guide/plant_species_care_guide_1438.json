@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2679,
+      "species_id": 1438,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus sempervirens 'Myrtifolia'"
+      ],
+      "section": [
+        {
+          "id": 8243,
+          "type": "watering",
+          "description": "Boxwood (Buxus sempervirens 'Myrtifolia') requires regular watering throughout the growing season. During spring and summer, this plant should be watered deeply once a week, allowing the soil to dry slightly between waterings. In the fall and winter, water this plant deeply only when the soil is completely dry. Always check the soil moisture level with your fingertips or a moisture meter to ensure the plant is getting enough water."
+        },
+        {
+          "id": 8244,
+          "type": "sunlight",
+          "description": "Boxwood (Buxus sempervirens 'Myrtifolia') does best with about 6 hours of sunlight each day. It should be planted in an area that receives full sun for at least part of the day and also receives some shade during the hottest part of the day. Early morning and late afternoon/evening sunlight is preferable. If the temperatures become too hot, the leaves may start to scorch or turn yellow. Ideally, the sunlight should be dappled or indirect and filtered through trees or other foliage. If planted in a spot with too much direct sun, it is very important to make sure it is well-watered throughout the day to prevent dehydration."
+        },
+        {
+          "id": 8245,
+          "type": "pruning",
+          "description": "For boxwoods, pruning should occur once or twice each year. Pruning in late winter or early spring will help maintain size and shape, while pruning in the summer or fall will reduce winter damage. When pruning, remove no more than 1-third of the leaves and branches at any given time. Leaves and branches that cross or rub against 1 another, are longer than the other branches, or are dead, dying, or diseased should all be removed. When done carefully, pruning can promote strong, healthy growth with a desired shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
