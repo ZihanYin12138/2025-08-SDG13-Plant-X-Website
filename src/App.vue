@@ -7,7 +7,7 @@ import ThemeToggle from './components/ThemeToggle.vue'
 const router = useRouter()
 
 
-const PASSWORD = '123456'
+const PASSWORD = 'GROUP21password!'
 const pwd = ref('')
 const err = ref('')
 const unlocked = ref(false)
