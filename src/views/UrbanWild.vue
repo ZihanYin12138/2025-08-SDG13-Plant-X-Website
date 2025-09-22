@@ -166,7 +166,7 @@ export default {
   <section class="container">
     <div class="section-box">
       <h2>Tree Distribution Map</h2>
-      <p>Click anywhere on the map or use the search function to explore trees in that area.</p>
+      <p>Click anywhere on the map (Melbourne CBD Area) or use the search function to explore trees in that area.</p>
       <UrbanMap
         ref="mapRef"
         @map-click="handleMapClick"
