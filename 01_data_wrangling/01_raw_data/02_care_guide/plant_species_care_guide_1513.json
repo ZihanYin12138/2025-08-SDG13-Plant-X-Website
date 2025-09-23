@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2743,
+      "species_id": 1513,
+      "common_name": "Carolina allspice",
+      "scientific_name": [
+        "Calycanthus floridus"
+      ],
+      "section": [
+        {
+          "id": 8435,
+          "type": "watering",
+          "description": "Carolina allspice can thrive in moist, well-draining, acidic soil with plenty of organic matter. It should be watered regularly, about once per week for new plants and established plants. The amount of water depends on the type of soil you have; sandy, well-draining soils should receive 1-2 inches of water per week, while heavier, clay soil may need up to 3 inches of water per week. Water until the ground is saturated, but not so much that puddles form. Allow the soil to dry out slightly between waterings; do not keep the soil constantly wet, as this can cause root rot. During periods of extended drought, increase watering as needed to prevent the plant from going into distress."
+        },
+        {
+          "id": 8436,
+          "type": "sunlight",
+          "description": "Carolina allspice (Calycanthus floridus) requires full sun for optimal growth and flowering. It typically does best with 6-8 hours of direct sunlight each day. When grown in areas where it does not get at least 6 hours of direct sunlight daily, it will tend to form a more open, leggy habit and will not flower as prolifically. During the summer months, Carolina allspice should be located in a sunny spot to ensure that it receives the amount of light it needs. However, in areas with very hot summers, some afternoon shade can help protect it from the intense heat."
+        },
+        {
+          "id": 8437,
+          "type": "pruning",
+          "description": "Carolina allspice should be pruned annually in late winter to ensure optimal health and shape. When pruning, cutting branches and removing dead or damaged wood is critical to allow for more air circulation and to remove any blighted areas. Additionally, pruning will reduce the size of the shrub and help to encourage more flowering. Before pruning, remove any weeds or debris from the base of the plant. Begin pruning by taking out any dead or damaged branches. Next, trim branches slightly larger than 1/4-inch (6 millimeters) in diameter until the desired shape is achieved. When finished, clean up all pruning debris and cut any remaining branches at least ½ inch (13 millimeters) above the collar. With proper pruning, Carolina allspice can make a beautiful addition to any landscape!"
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

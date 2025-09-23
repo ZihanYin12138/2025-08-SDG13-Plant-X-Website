@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2794,
+      "species_id": 1565,
+      "common_name": "Serbian bellflower",
+      "scientific_name": [
+        "Campanula poscharskyana 'Stella'"
+      ],
+      "section": [
+        {
+          "id": 8588,
+          "type": "watering",
+          "description": "The Serbian bellflower (Campanula poscharskyana ‘Stella’) should be watered regularly to keep the soil moist. Water from the bottom up by filling a water tray or planting container with a few inches of water and then setting the plant in the water. Allow the plant to sit in the water for a few minutes until the water is absorbed. Water often enough to keep the soil moist, but not soggy, and never let the plant sit in standing water. If grown in containers, water when the top inch of soil is dry and during the summer, they may need to be watered every 1-2 days. If grown outdoors, then water when the soil feels dry to the touch."
+        },
+        {
+          "id": 8589,
+          "type": "sunlight",
+          "description": "Serbian bellflower (Campanula poscharskyana 'Stella') should receive full sun for at least 6 to 8 hours during the day. This plant species can also tolerate some partial shade during the morning or late afternoon if it is particularly sunny. However, Serbian bellflower does need some direct sunlight for photosynthesis to occur and the more exposure to sunlight it receives, the better the flowers will bloom."
+        },
+        {
+          "id": 8590,
+          "type": "pruning",
+          "description": "Serbian bellflower (Campanula poscharskyana 'Stella') should be pruned annually in late winter or early spring. This should be done before the plant begins to bud for the new season, as pruning done after the buds have begun to form will reduce the amount of flowering. Start by removing dead branches and evenly trimming stray and overly long stems. Take care not to remove more than a third of the plant's growth each year. Pruning helps to keep your plant compact and tidy, encouraging a denser flower growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

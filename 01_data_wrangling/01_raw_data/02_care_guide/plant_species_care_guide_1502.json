@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2732,
+      "species_id": 1502,
+      "common_name": "bottlebrush bush",
+      "scientific_name": [
+        "Callistemon 'Woodlander's Hardy'"
+      ],
+      "section": [
+        {
+          "id": 8402,
+          "type": "watering",
+          "description": "To keep the Callistemon 'Woodlander's Hardy' healthy, it should be watered regularly with 1 inch of water per week. Watering should take place in the morning, allowing the foliage to dry before nightfall, as evening water can encourage fungal problems on the foliage. During warmer months, the bush may require more frequent watering. Also, during dry spells or periods of hotter weather, the bush may require more frequent watering. To check the soil for moisture, stick your finger into the soil near the base of the bush; if it is dry to a depth of 2 inches, it is time to water the bush. Additionally, mulching the base of the bush will help to conserve moisture."
+        },
+        {
+          "id": 8403,
+          "type": "sunlight",
+          "description": "Bottlebrush bush (Callistemon 'Woodlander's Hardy') should be planted in an area that gets full sun for 5 to 6 hours a day. It does best in direct, morning light as this gives it the best combination of warmth and light. It will tolerate some light shade, but will produce more blooms if it is situated in full sun."
+        },
+        {
+          "id": 8404,
+          "type": "pruning",
+          "description": "Bottlebrush Bushes (Callistemon 'Woodlander's Hardy') should be pruned in late fall or early winter. Pruning should be done moderately, removing no more than 1-third of the material to keep the bush from becoming leggy. Prune dead, diseased, or broken branches at any time of the year. If the bush is used as a hedge, it should be selectively pruned to maintain the desired height and width."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

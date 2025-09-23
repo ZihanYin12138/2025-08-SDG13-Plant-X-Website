@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2750,
+      "species_id": 1521,
+      "common_name": "Cusick's camass",
+      "scientific_name": [
+        "Camassia cusickii"
+      ],
+      "section": [
+        {
+          "id": 8456,
+          "type": "watering",
+          "description": "Cusick's camass should be watered regularly throughout its growing season, from spring until autumn. Water the plant deeply once weekly to a depth of 6 to 12 inches, soaking the entire root zone. Watering more frequently may be necessary during periods of extended heat and drought. In winter, water is needed only sporadically during dry periods."
+        },
+        {
+          "id": 8457,
+          "type": "sunlight",
+          "description": "Cusick's camass (Camassia cusickii) grows best in areas with plenty of sunlight. The species thrives in full sun, meaning it should receive 6 or more hours of direct light each day. They can also tolerate some light shade, but the leaves tend to bleach in too much shade. Planting in a sunny, open site will give the best blooms and promote the fastest growth. Water regularly during dry spells, but Camassia cusickii is considered drought tolerant and will require light irrigation through most seasons."
+        },
+        {
+          "id": 8458,
+          "type": "pruning",
+          "description": "Cusick's camass (Camassia cusickii) should only be lightly pruned when necessary to remove overgrown foliage and dead stems. Prune in early spring before the plant begins to grow and bloom. Late summer and early fall pruning can also be done to remove unwanted seedheads or dead foliage. Use sharp pruners to cut the stems close to the base. Avoid pruning when the plant is in bloom as it will reduce the number of flowers."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

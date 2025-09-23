@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2744,
+      "species_id": 1514,
+      "common_name": "Carolina allspice",
+      "scientific_name": [
+        "Calycanthus floridus 'Athens'"
+      ],
+      "section": [
+        {
+          "id": 8438,
+          "type": "watering",
+          "description": "This plant species should be watered weekly during the growing season of spring and summer. During hot or dry spells, water more frequently, making sure to saturate the soil but not waterlog it. During the cooler months of fall and winter you can decrease watering to every 2 weeks or even monthly. Make sure to avoid overhead watering to avoid disease. A good rule of thumb is 1 to 2 inches of water, once or twice a week."
+        },
+        {
+          "id": 8439,
+          "type": "sunlight",
+          "description": "Carolina Allspice is an evergreen shrub that grows best in full sun to partial shade. It does well in both sandy and clay soil, and a well-drained moist soil is ideal. This plant will thrive in sunlight for 8-10 hours a day. Direct sun in the morning and early afternoon is best as too much afternoon sun may cause scorching. If the plant gets too much shade, the foliage will not be as full or dense."
+        },
+        {
+          "id": 8440,
+          "type": "pruning",
+          "description": "Pruning of Carolina allspice should be done during late winter while the plant is not actively growing. Carilia allspice can handle heavy pruning, so it's best to remove 1/3 to 1/2 of the canopy. This includes removing dead branches and crossing branches. Young plants may need additional shaping for good structure. Remove branches growing toward the center of the plant to prevent overcrowding as the plant matures. If desired, prune branches back to encourage more branching and to keep the shrub more compact."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2784,
+      "species_id": 1555,
+      "common_name": "milky bellflower",
+      "scientific_name": [
+        "Campanula lactiflora 'Pouffe'"
+      ],
+      "section": [
+        {
+          "id": 8558,
+          "type": "watering",
+          "description": "When watering the milky bellflower (Campanula lactiflora ‘Pouffe’), it is important to ensure that the soil is moist but not wet. It is best to water the plant once a week, but ensure the soil dries out in between waterings. In spring and summer, the plant will need more regular waterings as these are the active growth months. During winter, the plant should be watered less as this is the dormant season. When watering a milky bellflower, use lukewarm water and water the soil slowly to ensure deep penetration."
+        },
+        {
+          "id": 8559,
+          "type": "sunlight",
+          "description": "Milky bellflower (Campanula lactiflora 'Pouffe') thrives in full sun to partial shade, meaning it needs around 6 to 8 hours of sunlight per day. If planted in an area with mostly direct sunlight, this plant should be watered more frequently. It is also important to choose an area where the soil drains properly and is well-aerated. In regions with a hot climate, milky bellflower should receive some protection from afternoon sunlight. This will help it avoid too much heat and prevent it from drying out. Also, if possible, avoid leaving it exposed to strong winds."
+        },
+        {
+          "id": 8560,
+          "type": "pruning",
+          "description": "Milky bellflower (Campanula lactiflora 'Pouffe') is typically pruned in the spring after the danger of frost has passed. Prune these perennial plants at the end of their blooming cycle, which generally occurs in the middle of summer. It is best to remove any dead or diseased stems before pruning. Begin by cutting away unhealthy or otherwise damaged branches to the nearest healthy bud. Then, thin out the remaining stems to allow for air circulation. Finally, cut away the top third of the remaining stems to encourage a fuller, bushier look. This will ensure that the plant will continue to flower for future blooming cycles."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

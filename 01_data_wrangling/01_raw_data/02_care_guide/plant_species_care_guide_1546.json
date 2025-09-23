@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2775,
+      "species_id": 1546,
+      "common_name": "clustered bellflower",
+      "scientific_name": [
+        "Campanula glomerata"
+      ],
+      "section": [
+        {
+          "id": 8531,
+          "type": "watering",
+          "description": "Clustered bellflower needs to be watered approximately twice a week, depending on the weather. It prefers moist soil and needs to be watered deeply so that the moisture can reach its roots. During warmer, drier periods, more frequent watering may be needed. However, during cooler weather it’s important to reduce the amount of watering to avoid excessive moisture that can lead to rot. Additionally, it’s important to monitor the top layer of soil to ensure that it doesn’t dry out completely in between watering sessions."
+        },
+        {
+          "id": 8532,
+          "type": "sunlight",
+          "description": "Clustered bellflowers are heliotropic plants, meaning they turn and bend towards the sun to maximize their ability to photosynthesize. To have thriving, healthy growth, they require at least 4 to 6 hours of direct sunlight every day. During the summer months when the sun is at its highest, the plants should receive 6 to 8 hours of indirect light to keep them blooming. It's important to keep in mind that too much light can cause the foliage of the clustered bellflower can become scorched or dry up. During the cooler winter months, the plant should receive no more than 4 hours of sunlight every day."
+        },
+        {
+          "id": 8533,
+          "type": "pruning",
+          "description": "This species of bellflower needs to be pruned back to the ground each year in late winter or early spring prior to the new growth period. Clustered bellflower typically forms a clump about 30 cm tall; leave any new growth at the base intact as the flowers will appear on the top of this basal growth. Cut the old stems down to the ground in 1 short, sharp motion. Remove any wilted or decaying foliage, as well as any dead basal growth. Prune any unruly shoots with hand clippers if needed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2725,
+      "species_id": 1495,
+      "common_name": "fringed poppy mallow",
+      "scientific_name": [
+        "Callirhoe digitata"
+      ],
+      "section": [
+        {
+          "id": 8381,
+          "type": "watering",
+          "description": "Fringed poppy mallow requires moderate amounts of water, but prefers it to be infrequent. It’s best to water your plant deeply – about twice a week in summer and once every 7-10 days in the winter months. To water this plant correctly, ensure that the soil remains moist but definitely not soggy or waterlogged to prevent root rot. It is essential to water your fringed poppy mallow when the top 1 to 2 inches of soil has dried out completely."
+        },
+        {
+          "id": 8382,
+          "type": "sunlight",
+          "description": "Fringed poppy mallow (Callirhoe digitata) is a sun loving plant, so it needs full sun to bloom its best. It thrives in sunny days and should be planted in a spot that receives direct sunlight. Depending on the region you live in, the daily amount of sunlight for fringed poppy mallow will vary. In warmer climates, the plant will likely require 8 to 10 hours of direct sunlight each day, with some afternoon shade if possible. In more temperate climates, 6-8 hours with some afternoon shade is best. To ensure that the plant remains healthy and blooms optimally, look for a spot that receives full sun in the morning, and partial shade in the afternoon."
+        },
+        {
+          "id": 8383,
+          "type": "pruning",
+          "description": "Fringed poppy mallow should be pruned in early spring when new growth begins to appear. Pruning can help the plant maintain its natural shape and encourage healthier growth. Remove dead, damaged, or diseased stems, as well as any spent flowers. If the plant has become too large, some of the older stems can be removed to maintain the desired size and shape. Trimming back the stems can also promote bushier growth. Generally, pruning should stay light, with no more than 1-third of the stems removed at a time. It is best to make the cuts close to the base of the stem so that the wound is small and won’t make the plant vulnerable to fungal infections."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

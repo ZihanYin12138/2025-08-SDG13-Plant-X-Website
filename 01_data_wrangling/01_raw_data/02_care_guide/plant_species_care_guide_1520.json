@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1416,
+      "species_id": 1520,
+      "common_name": "prairie camas",
+      "scientific_name": [
+        "Camassia angusta"
+      ],
+      "section": [
+        {
+          "id": 4282,
+          "type": "watering",
+          "description": "Prairie camas plants should be watered deeply and infrequently. To ensure that the roots are receiving enough moisture, the soil should be saturated every 7-10 days in the hot, summer months and every 14-21 days in the cooler, winter months. To properly water, it is best to avoid spraying water onto the foliage. Instead, provide a thorough soaking of the soil and the roots until water begins to puddle at the plant’s base. After this initial water, the soil should be allowed to dry out some before the next watering. Prairie camas plants prefer well drained soil so it is important to avoid overwatering. To keep the soil moisturized between waterings, consider a top-dressing of mulch around the base."
+        },
+        {
+          "id": 4283,
+          "type": "sunlight",
+          "description": "Prairie camas (Camassia angusta) thrives in full sun, with at least 7 to 8 hours of direct sunlight per day to ensure healthy growth and blooming. In the northernmost parts of its range, prairie camas is most likely to flower when planted in an area that has 8 to 10 hours of direct sunlight. In more temperate or southern regions, however, prairie camas may only need 6 to 8 hours of direct sunlight to flower and produce seeds."
+        },
+        {
+          "id": 4284,
+          "type": "pruning",
+          "description": "Prairie Camas should be pruned in late winter or early spring before the plant begins to develop shoots and flowers. This will ensure that the plant maintains an attractive appearance, and that its growth remains healthy. To prune prairie camas, cut down the old foliage to the ground and discard it. This will encourage renewal growth and help to keep the plant compact. Also remove any dead or diseased stems at this time. Removing any wilting flowers should also be done to encourage reblooming. Pruning should be done when the plant is dormant, so no more than 2 or 3 inches should be taken from the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

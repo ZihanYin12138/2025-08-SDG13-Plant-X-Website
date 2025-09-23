@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2806,
+      "species_id": 1577,
+      "common_name": "bellflower",
+      "scientific_name": [
+        "Campanula takesimana 'Elizabeth'"
+      ],
+      "section": [
+        {
+          "id": 8624,
+          "type": "watering",
+          "description": "The bellflower (Campanula takesimana 'Elizabeth') should be watered regularly and evenly. The ideal amount of water for this plant is about 1–2 inches per week during the growing season. However, during summer months when temperatures are high, you may need to water more frequently. It's also important to make sure that the soil does not become too dry, as this can cause the bellflower to wilt and die. During the winter months, when temperatures are lower and the plant is dormant, water less often. About once every 2 weeks should suffice. It is best to check the soil and determine if it needs watering, rather than on a strict schedule."
+        },
+        {
+          "id": 8625,
+          "type": "sunlight",
+          "description": "Bellflowers (Campanula takesimana 'Elizabeth') prefer full sun or part shade. In areas with strong summer sunshine, bellflowers will need a few afternoon hours of shade to prevent leaf scorching. For best flowering, choose a site that receives at least 6 hours of direct sunlight each day. Bellflowers should not be grown in areas that are shaded for more than half of the day. In the hottest summer climates, bellflowers may benefit from a light shade cloth for protection from the hottest sun."
+        },
+        {
+          "id": 8626,
+          "type": "pruning",
+          "description": "It is best to prune your bellflower (Campanula takesimana 'Elizabeth') in mid-spring through early summer after it has finished flowering. Pruning can help to control the size and shape of the plant, as well as keep it looking neat and tidy. Using sharp, sterilized pruning shears, cut back the bellflower to the desired shape, leaving at least half of the height of the flower stalk remaining. Be sure to make clean cuts and don’t leave any jagged edges. If any dead branches exist, it is important to prune those as well since they could become disease ridden. In addition, removing dead or diseased foliage can help to prevent spread of disease throughout the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2789,
+      "species_id": 1560,
+      "common_name": "willow bell",
+      "scientific_name": [
+        "Campanula persicifolia 'Grandiflora Caerulea'"
+      ],
+      "section": [
+        {
+          "id": 8573,
+          "type": "watering",
+          "description": "Water Willow bell plants when the top 2 to 3 inches of soil are dry. It is important to water deeply, to saturate the roots. During the summer months, even established plants may need to be watered every 2 to 3 days during dry spells. During the cooler seasons, cut back watering to once a week. Avoid watering too frequently, as it's possible to over-water these plants."
+        },
+        {
+          "id": 8574,
+          "type": "sunlight",
+          "description": "Willow bell (Campanula persicifolia 'Grandiflora Caerulea') thrives best in full sun, though it can tolerate some shade. It needs at least 6 hours of direct sunlight a day to produce its best show of blooms. It should be planted in a location that gets full sun to ensure a bright, beautiful display of flowers. For optimal results, aim to give the plant 8-10 hours of sunlight a day, with partial shade in the hottest part of the day. This plant should receive the most amount of light during the spring and summer months when it is actively blooming. In the autumn and winter months, some shade is needed to protect the plant from cold temperatures."
+        },
+        {
+          "id": 8575,
+          "type": "pruning",
+          "description": "Willow Bells, or Campanula persicifolia 'Grandiflora Caerulea', do not require much pruning as they tend to naturally grow into a mounded, flowering shape. However, if desired, the plant can be lightly pruned in early spring right before it puts out new growth. This can encourage fuller blooms and help with plant shape as desired. During pruning, it is best to remove any older, woody stems or flowering stalks. Additionally, unwanted, errant, or sickly branches can be snipped off as needed to improve overall plant health."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

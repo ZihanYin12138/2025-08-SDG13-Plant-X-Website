@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2772,
+      "species_id": 1543,
+      "common_name": "tussock bellflower",
+      "scientific_name": [
+        "Campanula carpatica f. alba 'Weisse Clips' WHITE CLIPS"
+      ],
+      "section": [
+        {
+          "id": 8522,
+          "type": "watering",
+          "description": "Tussock bellflower should be watered regularly and thoroughly, taking care to avoid overwatering. Water the plant when the top 1-2 inches of soil is dry to the touch. During especially hot and dry periods, Tussock bellflower may need to be watered twice or even 3 times a week. During cooler months, once a week is typically sufficient. In addition to watering, Tussock bellflower should be misted with a spray bottle 1-2 times weekly to increase humidity."
+        },
+        {
+          "id": 8523,
+          "type": "sunlight",
+          "description": "Tussock bellflower (Campanula carpatica f. alba 'Weisse Clips' WHITE CLIPS) prefers 6 to 8 hours of full sun a day. The plant should be shaded slightly in warmer climates or in the afternoon if temperatures exceed 80 degrees Fahrenheit. It will do well in partial shade in climates with cooler summers - afternoon shade is beneficial in hot climates though. During the cooler months, this plant prefers more sunlight, ideally 5 to 8 hours each day."
+        },
+        {
+          "id": 8524,
+          "type": "pruning",
+          "description": "Tussock bellflower (Campanula carpatica f. alba 'Weisse Clips' WHITE CLIPS) should be pruned in the springtime when new growth begins appearing. Start pruning when about 2-3 shoots have grown from the base of the plant. Prune off any dead or damaged foliage as well as any old, woody growth. Prune back the shoots to keep the plant full, removing no more than 1/3 of the shoots and foliage. After pruning, trim the stems back to a height of 6-8 inches to encourage bushier, fuller new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

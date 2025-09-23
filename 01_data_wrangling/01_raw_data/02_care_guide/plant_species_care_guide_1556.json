@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2785,
+      "species_id": 1556,
+      "common_name": "bellflower",
+      "scientific_name": [
+        "Campanula latifolia"
+      ],
+      "section": [
+        {
+          "id": 8561,
+          "type": "watering",
+          "description": "Bellflower plants should be watered every 7-10 days to a depth of 6-8 inches. During the warmer months, water more frequently if the top inch of soil is dry. In the winter, reduce water only slightly as the plant may be losing some water through its leaves. When watering bellflowers, soak the area thoroughly for deep root penetration."
+        },
+        {
+          "id": 8562,
+          "type": "sunlight",
+          "description": "The bellflower (Campanula latifolia) thrives best in areas with full sun or partial sun. In full sun, the bellflower should receive at least 6 hours of sunlight per day, while it should only receive a few hours of direct sun in partial sun. During the summer, bellflowers should receive the most direct sunlight, however, it is important to make sure that the bellflower is not in bright sun during the hottest parts of the day, since this can cause the plant to become stressed and scorched. During the winter, the bellflower should not receive any direct sunlight. Instead, it should receive soft light in order to ensure proper growth."
+        },
+        {
+          "id": 8563,
+          "type": "pruning",
+          "description": "Pruning of bellflower (Campanula latifolia) should be done in the late winter or early spring, when the plant is dormant. Prune away any dead, diseased, or crossing stems to maintain a full, attractive shape; trim off any stems that are longer than the desired height, in order to keep the plant neat and compact. When trimming, try to remove no more than 1-third of the total stems from the plant to reduce shock and stress. Alternatively, bellflowers can be cut back during the summer by about 2-thirds, which helps to keep the foliage fresh and encourage new growth.\n\nIn general, pruning of bellflowers should be done minimally, since the plants are not highly vigorous growers. Too much aggressive pruning could result in a leggy and sparse-looking plant that fails to produce many blooms."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

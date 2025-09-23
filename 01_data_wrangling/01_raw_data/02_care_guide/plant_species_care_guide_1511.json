@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2741,
+      "species_id": 1511,
+      "common_name": "marsh marigold",
+      "scientific_name": [
+        "Caltha palustris"
+      ],
+      "section": [
+        {
+          "id": 8429,
+          "type": "watering",
+          "description": "Marsh marigolds (Caltha palustris) require plenty of moisture to remain healthy, so they should be watered often. Generally, the plants should receive 1-2 inches of water per week, either from rainfall or manual irrigation. The soil should not be allowed to dry out completely and when watering, avoid getting the foliage wet to prevent fungal problems. In hot summer months, the plants may need additional water."
+        },
+        {
+          "id": 8430,
+          "type": "sunlight",
+          "description": "Marsh marigolds prefer full sun or partial shade. They will tolerate full shade but will become leggy and stems may become intertwined to seek out light. Plant in moist, humus-rich soil for optimum growth. Full sun exposure can be either 4-6 hours of direct sunlight in spring, summer and early fall, or filtered sunlight for 8-10 hours of indirect light during the winter months."
+        },
+        {
+          "id": 8431,
+          "type": "pruning",
+          "description": "Marsh Marigold should be pruned once a year in late winter or early spring when it is still dormant. Pruning should be minimal amount to remove any dead, dying, damaged, or diseased stems, leaving the strongest branches and best natural shape. To shape the plant, selectively remove up to 1-third of the flowering stems. Clip just above a bud or leaf node, which should encourage lateral branching and create a more vigorous and attractive plant. Do not clip too low as it can damage the plant and reduce flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

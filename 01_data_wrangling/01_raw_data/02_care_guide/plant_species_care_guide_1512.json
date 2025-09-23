@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2742,
+      "species_id": 1512,
+      "common_name": "Chinese sweetshrub",
+      "scientific_name": [
+        "Calycanthus chinensis"
+      ],
+      "section": [
+        {
+          "id": 8432,
+          "type": "watering",
+          "description": "Chinese sweetshrub should be watered regularly every 1-2 weeks throughout its growing season (May-September). It prefers moist, but not soaked conditions, so the best way to water is to soak the soil deeply, allowing the top few inches to dry out before watering again. During periods of drought, it will require a bit more water, so be sure to keep an eye on the soil and water when necessary. In the winter months, Chinese sweetshrub can go more than a month between waterings, so water sparingly at this time."
+        },
+        {
+          "id": 8433,
+          "type": "sunlight",
+          "description": "Chinese sweet shrub typically prefers to grow in a location that receives full sun for at least 6-8 hours each day. It can, however, tolerate a bit of partial sun or partial shade, especially in hot climates. If planted in partial shade, the Chinese sweet shrub may not reach its full potential in terms of size or flower production. To maximize the size and flowering capabilities of the Chinese sweet shrub, it is best to plant it in an area that receives the full sun for most of the day."
+        },
+        {
+          "id": 8434,
+          "type": "pruning",
+          "description": "Pruning Chinese sweetshrub (Calycanthus chinensis) is best carried out in late winter or early spring when the plant is still dormant. The goal when pruning isto improve flowering and to maintain a compact natural shape or hedged look. Deadheading of flowers may also be done after flowers fade. Prune out any dead, diseased, or damaged branches back to the healthy wood.Remove any shoots which are growing vertically, especially from the center of a mature shrub, as they will detract from a naturally compact shape.Where necessary, thin out branches to open up the shrub's center and give it a light airy look. Finally, lightly shape the plant as needed to keep it looking neat and tidy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

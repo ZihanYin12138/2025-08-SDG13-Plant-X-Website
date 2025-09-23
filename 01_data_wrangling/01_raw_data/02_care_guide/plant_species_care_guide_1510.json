@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2740,
+      "species_id": 1510,
+      "common_name": "roostertree",
+      "scientific_name": [
+        "Calotropis procera"
+      ],
+      "section": [
+        {
+          "id": 8426,
+          "type": "watering",
+          "description": "The roostertree (Calotropis procera) is a drought tolerant plant and does not require frequent watering. Watering should be done deeply once every 2-3 weeks, allowing the soil to dry out between waterings. When watering, make sure to use room temperature water and water the soil around the root zone, avoiding getting the foliage wet. In periods of high temperatures and drought, it is advisable to increase the frequency of watering to weekly."
+        },
+        {
+          "id": 8427,
+          "type": "sunlight",
+          "description": "Roostertree (Calotropis procera) requires full sun to thrive. It should receive at least 6 to 8 hours of direct sunlight daily in order to continue to grow and flower. If placed in a shaded area, the plant will not produce fruits and flowers as expected, and may even become stunted in growth. It is best to place roostertree in an area with direct sunlight between the hours of 10am and 4pm when the intensity of the sun's rays is highest."
+        },
+        {
+          "id": 8428,
+          "type": "pruning",
+          "description": "Roostertrees require moderate occasional pruning at least once a year in late winter or early spring. Prune out dead, damaged, and diseased branches, along with any overly long and lanky branches. This will help to encourage new growth and reduce the chances of disease. Pruning should also be done to shape the tree into a desired shape and to help create a thicker canopy. Additionally, selective pruning should be done in late summer to remove any flower buds that have developed in order to increase flower production the following year. Lastly, if the size of the roostertree becomes too much for its location, it can be pruned to reduce its size."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

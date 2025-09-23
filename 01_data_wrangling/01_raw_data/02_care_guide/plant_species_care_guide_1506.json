@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2736,
+      "species_id": 1506,
+      "common_name": "Scotch heather",
+      "scientific_name": [
+        "Calluna vulgaris 'Gold Haze'"
+      ],
+      "section": [
+        {
+          "id": 8414,
+          "type": "watering",
+          "description": "For best results, Scotch heather should be watered thoroughly once per week during the summer months. Allow the soil to dry slightly between waterings. During warmer months, Scotch heather should be given approximately 1 inch of water per week. During cooler months (November through March), the plant can go 3 - 4 weeks between waterings. Moisten the soil throughout the root zone for the best results."
+        },
+        {
+          "id": 8415,
+          "type": "sunlight",
+          "description": "The Scotch heather (Calluna vulgaris 'Gold Haze') prefers bright, full sun for at least 5 to 6 hours a day. When grown in indirect light, it may become weak and leggy with less blooms. The plant will thrive in an area that gets direct sun, such as the south-facing side of a building, in the morning or late afternoon. If exposed to too much sun in the middle of the day, it can suffer from sunburn. To reduce its vulnerability, provide some afternoon shade during the hottest part of the day."
+        },
+        {
+          "id": 8416,
+          "type": "pruning",
+          "description": "Scotch heather (Calluna vulgaris 'Gold Haze') does not require annual pruning, but can benefit from pruning every 1-2 years. It is best to prune in early spring, before the new growth season begins. Make sure to remove any dead, unhealthy, crossing or excessively long stems. Old, woody branches thicker than your thumb should be cut back by 1/3rd to 1/2, as should stems which can become spindly. Additionally, it may be beneficial to remove a handful of interior stems to thin the plant out and let more light in. Take care to ensure some younger growth is still present."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

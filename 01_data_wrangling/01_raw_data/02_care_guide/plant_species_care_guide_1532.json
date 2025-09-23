@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2761,
+      "species_id": 1532,
+      "common_name": "camellia",
+      "scientific_name": [
+        "Camellia japonica 'April Tryst'"
+      ],
+      "section": [
+        {
+          "id": 8489,
+          "type": "watering",
+          "description": "Camellia japonica 'April Tryst' requires regular watering during its growing season in order to promote healthy growth. When watering, the goal is to keep the soil moist, but not soggy. When the top 1-2 inches of soil becomes dry, go ahead and water the plant. During the warmer months water the plant 2 to 3 times a week, and during the cooler months aim for once a week. In addition to regular watering, make sure to check the soil before you water and if it is still moist wait a bit longer to give it more time to absorb the moisture. Lastly, make sure to check for adequate drainage in your soil so the roots do not become waterlogged."
+        },
+        {
+          "id": 8490,
+          "type": "sunlight",
+          "description": "Camellia (Camellia japonica 'April Tryst') requires moderate to bright sunlight during the morning, which should make up between 3 and 4 hours of direct sun exposure, and shade during the heat of the day. It can be grown in full sun in cool climate areas, but will require more shade in warmer climates. During the winter months, camellia should receive as much morning sunshine as possible. When young, a camellia should be gradually introduced to sun to avoid sunburn, especially when planted in a warmer climate. During summer months, it is beneficial for the plant to receive indirect sunshine for the remainder of the day."
+        },
+        {
+          "id": 8491,
+          "type": "pruning",
+          "description": "This cultivar of Camellia japonica is a low-maintenance shrub, making it ideal for both beginners and experienced gardeners. Pruning this variety of Camellia is best done in late winter or early spring before new growth appears. Prune lightly, removing any dead or damaged branches, as well as any that are growing in a bizarre fashion. You can also remove any suckers – growth that comes from the base of the bush, as well as trim overly long branches. Avoid cutting into the older, woody parts of the bush if possible, as this may affect the flowering potential of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

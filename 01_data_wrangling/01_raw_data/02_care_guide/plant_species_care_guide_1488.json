@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2718,
+      "species_id": 1488,
+      "common_name": "Japanese beautyberry",
+      "scientific_name": [
+        "Callicarpa japonica"
+      ],
+      "section": [
+        {
+          "id": 8360,
+          "type": "watering",
+          "description": "Japanese Beautyberry should be watered once per week, using about a gallon of water per week for each plant. It is important to remember to water only in the morning so the foliage can dry off before evening and prevent any fungal diseases. During the summer months, water more frequently. For periods of extreme heat (over 80 degrees), you may need to water twice per week. During winter, you should reduce your watering to once every 2 weeks unless there is a prolonged dry spell and the surrounding climate is extremely arid."
+        },
+        {
+          "id": 8361,
+          "type": "sunlight",
+          "description": "Japanese beautyberry (Callicarpa japonica) is a remarkably hardy shrub; it thrives in full sun to part shade exposure and can tolerate a wide variety of soils. It is best to give Japanese beautyberry full sun during the morning hours, but partial shade during the afternoon. Japanese beautyberry can handle direct sunlight for several hours a day, but it does prefer some indirect light during the hottest part of the day. This plant will benefit from a few hours of direct sunlight in the morning that can then be shaded during the hottest part of the day. Conversely, if Japanese beautyberry is being grown in a shady spot, it should be given as much light as possible from the early morning until as late in the afternoon as possible, while still leaving it in the shade."
+        },
+        {
+          "id": 8362,
+          "type": "pruning",
+          "description": "Pruning of Japanese Beautyberry (Callicarpa japonica) should be done yearly in late winter or early spring. Pruning will depend on the desired shape and look of the particular plant, but it is recommended that 1/3 of the older branches be removed each year as they lose their vigor and flower production. This will allow for new growth leading to a denser shrub. After the 1/3 is removed, the plant should be shaped up by removing any straggly outreaching branches. The blooms will be most productive if the plant is not pruned too harshly and parts of old growth are maintained."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2748,
+      "species_id": 1518,
+      "common_name": "Carolina allspice",
+      "scientific_name": [
+        "Calycanthus 'Venus'"
+      ],
+      "section": [
+        {
+          "id": 8450,
+          "type": "watering",
+          "description": "Carolina allspice (Calycanthus 'Venus’) is an easy-to-care for and fragrant flowering shrub that grows best with regular but moderate watering. The soil around the shrub should be kept moist but not soggy by watering deeply once a week when there is no rainfall. During the times of the year when the plants are actively growing, you may need to increase the watering schedule to twice a week. During the hottest summer months, the plant may need to be watered 3 times a week, especially if the soil is sandy. Be sure to check the soil moisture before watering; if it still feels damp, the plant does not need additional water."
+        },
+        {
+          "id": 8451,
+          "type": "sunlight",
+          "description": "Carolina allspice prefers full sun to partial shade, but it will need at least 4 to 6 hours of direct sunlight when planted outdoors. It does best in areas with direct morning sunlight and protection from hot afternoon sun. If you are able to provide more hours of direct sun exposure, such as 6-7 hours of sun per day, then your Carolina allspice will be even more vibrant and full. Be sure to keep the soil consistently moist, and mulch around the base of the plant to help retain moisture and protect roots from extreme temperatures."
+        },
+        {
+          "id": 8452,
+          "type": "pruning",
+          "description": "Carolina allspice (Calycanthus 'Venus') is a low-maintenance shrub that does not require a lot of pruning, but can be pruned to maintain its size and shape or to remove any dead or diseased branches. Pruning is best done in the late winter when the plant is still dormant. Start by removing any dead or damaged branches, as well as any crossed branches. After that, it is best to prune no more than 1-third of the plant’s height and width, as cutting too much could cause damage to the plant. If you are pruning for shape, focus on removing any branches that jut out unaturally and that look out of place. Finally, if you want to encourage more blooming or create a fuller, bushier plant, prune any of the new growth in half. This will help the plant focus its energy on the creation of new branches, instead of on creating flowers."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

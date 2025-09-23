@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2756,
+      "species_id": 1527,
+      "common_name": "camellia",
+      "scientific_name": [
+        "Camellia edithae"
+      ],
+      "section": [
+        {
+          "id": 8474,
+          "type": "watering",
+          "description": "Camellia edithae should be watered on a regular basis to keep the soil slightly moist. Water the soil until it is evenly moist, but not soggy. In general, water your camellia once a week during the growing season (spring through fall). During the winter months, reduce watering to once every 2 or 3 weeks. If the soil becomes too dry, then increase the amount of water added during watering. The frequency of watering may also depend on the climate. In hot, dry climates, the plant may need to be watered more often while in more humid regions, the plant may require less. Monitor the soil and adjust the watering as needed."
+        },
+        {
+          "id": 8475,
+          "type": "sunlight",
+          "description": "Camellia edithae plants are best grown in indirect to partial sunlight. They prefer several hours of morning or late afternoon sun, but not more than 6 hours per day total. This will allow them to receive the sunlight they need without becoming too hot and damaged. Ideally, they should be placed in east-facing windows for optimum growth. During their flowering period, they may need more than 6 hours of sun exposure each day. If your camellias are being grown indoors, make sure to place them near a window that will provide them with adequate sunlight for their daily needs."
+        },
+        {
+          "id": 8476,
+          "type": "pruning",
+          "description": "Camellia edithae should typically be pruned during late winter or early spring before new growth begins. This species of camellia responds well to trimming or pruning, although it should be done with caution. When pruning, remove any deadwood or diseased branches and any shoots that are growing in the wrong direction or overcrowding. Keep the shape of the Camellia edithae balanced by removing any overly long or misplaced stems. Old, unproductive wood should also be removed. Light pruning can help promote new blooms in the plant. However, do not prune more than 1-third of the growth at once."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

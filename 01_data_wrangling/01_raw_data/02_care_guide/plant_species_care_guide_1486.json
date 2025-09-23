@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2716,
+      "species_id": 1486,
+      "common_name": "beautyberry",
+      "scientific_name": [
+        "Callicarpa dichotoma 'Issai'"
+      ],
+      "section": [
+        {
+          "id": 8354,
+          "type": "watering",
+          "description": "Beautyberry (Callicarpa dichotoma 'Issai') prefers moist yet well-drained soil and should be watered regularly and consistently in order to ensure sufficient moisture. During the growing season (spring through summer), water the beautyberry when the top inch of soil is dry. A general rule of thumb is to water the plant with about 1 inch of water per week. During the winter season, beautyberry will need less water; water the plant only when the top 3 inches of soil are dry. Monitor the weather conditions and adjust the watering accordingly. If there has been ample rainfall, you may need to water less frequently."
+        },
+        {
+          "id": 8355,
+          "type": "sunlight",
+          "description": "Beautyberry (Callicarpa dichotoma 'Issai') thrives best in full sun to partial shade. This plant species can tolerate longer periods of direct morning sunshine with the benefits of afternoon shade. During the summer, the plant needs about 4 to 6 hours of sunlight a day, which generally means 4 to 6 hours of direct sunlight. During the winter, the plant may benefit from some protection from the direct sunlight as it is more likely to be at its most cold-sensitive."
+        },
+        {
+          "id": 8356,
+          "type": "pruning",
+          "description": "Beautyberry plants should be pruned in late winter or early spring. Prune away any dead, broken, or diseased wood, as well as any crossing branches and any branches that are growing inward. Keep in mind that Beautyberry plants have rather fragile branches, so don’t over-prune or take too much off at once. Pruning Beautyberry plants occasionally will help to keep them healthy and promote strong, dense growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

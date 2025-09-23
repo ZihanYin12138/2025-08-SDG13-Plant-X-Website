@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2730,
+      "species_id": 1500,
+      "common_name": "lemon bottlebrush",
+      "scientific_name": [
+        "Callistemon pallidus"
+      ],
+      "section": [
+        {
+          "id": 8396,
+          "type": "watering",
+          "description": "Water the lemon bottlebrush every 7-10 days. Provide enough water to thoroughly saturate the root system but avoid over-watering, allowing the soil to dry out between waterings. Lemon bottlebrush prefers consistently moist soil and should not be allowed to dry out completely. In late summer and fall, reduce watering to encourage the plant to enter dormancy with minimal stress."
+        },
+        {
+          "id": 8397,
+          "type": "sunlight",
+          "description": "The lemon bottlebrush prefers full sun, and does best in areas where it will receive at least 6 to 8 hours of direct sunlight each day. To achieve optimal growth, the plant should be placed in an area that will receive direct sun in the morning, before 10am, and in the late afternoon and early evening, after 4pm. During midday, when the sun is the most intense, the leaves of the plant should be shaded to protect from sunburn. This species is also very drought tolerant, and should not be over watered."
+        },
+        {
+          "id": 8398,
+          "type": "pruning",
+          "description": "Lemon bottlebrush should be pruned in late spring or early summer, usually when the new growth starts to appear. To prune, remove any dead, diseased, or damaged branches, as well as any weak, spindly growth. Cut away any suckers coming from the base of the plant with a pair of clean pruning shears. Cut back the tallest branches to just above a pair of healthy buds, cutting to a perfect angle so that the water won't collect and create disease on the cut surface. Pruning should only remove up to a third of the total topgrowth. This will improve the overall shape of the plant and help keep it neat and tidy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2755,
+      "species_id": 1526,
+      "common_name": "camellia",
+      "scientific_name": [
+        "Camellia crapnelliana"
+      ],
+      "section": [
+        {
+          "id": 8471,
+          "type": "watering",
+          "description": "Camellias (Camellia crapnelliana) enjoy an ample amount of water but should never be overwatered. Aim to water your camellia once or twice a week, ultimately depending on how warm or dry your environment is. A good way to tell when it’s time to water is by allowing your soil to become somewhat dry before watering again, but always avoid allowing the soil to dry completely. Never water your plant’s leaves or leave standing water. Camellias also benefit from misting, which can be done every couple of days or as needed."
+        },
+        {
+          "id": 8472,
+          "type": "sunlight",
+          "description": "Camellia crapnelliana is best grown in a spot that receives full to partial sun, such as a filtered location that is in dappled shade for much of the day. In general, this species of camellia requires at least 4 hours of sunlight per day, though ideally it should receive 6 to 8 hours of direct sunlight. If too little sunlight is provided, the leaves will tend to be pale and bleached and the camellia may not bloom. On the other hand, in areas with prolonged direct sun, the leaves may yellow or become scorched."
+        },
+        {
+          "id": 8473,
+          "type": "pruning",
+          "description": "Camellia crapnelliana should be pruned in mid-winter to mid-spring when growth is at its slowest. Pruning should be kept to a minimum, concentrating on removing any dead, diseased, or crossing branches. You should also remove any scrubby undergrowth and thin out congested branches. This will help promote good air and light circulation. Aim to reduce the overall tree size by around a third of its height each year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

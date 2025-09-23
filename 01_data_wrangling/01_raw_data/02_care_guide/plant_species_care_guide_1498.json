@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2728,
+      "species_id": 1498,
+      "common_name": "bottlebrush bush",
+      "scientific_name": [
+        "Callistemon acuminatus"
+      ],
+      "section": [
+        {
+          "id": 8390,
+          "type": "watering",
+          "description": "Water the bottlebrush bush deeply once per week in the summer, and once every 2 weeks in the fall and winter months. Increase frequency of watering when the weather is particularly hot or dry. In general, your bottlebrush bush will need 1-2 inches of water per week. It's important to water thoroughly, so the water is deeply absorbed into the soil, allowing excess water to drain away. In addition to this weekly watering, feel free to mist the bottelbrush bush from time to time. This provides extra humidity that helps keep the leaves vibrant and healthy. Avoid overwatering, as this can cause problems with root rot."
+        },
+        {
+          "id": 8391,
+          "type": "sunlight",
+          "description": "Bottlebrush bush (Callistemon acuminatus) needs full sun exposure of at least 6 hours per day for optimal growth and health. If grown in a warmer climate like USDA Hardiness Zones 8 to 11, it can tolerate partial shade, but still performs better in full sun. The best hours for sunlight for the bottlebrush bush are from 10:00 a.m. to 4:00 p.m., when the sun is highest in the sky and casting the most direct light on the plant."
+        },
+        {
+          "id": 8392,
+          "type": "pruning",
+          "description": "Bottlebrush bush (Callistemon acuminatus) should be pruned regularly for best performance. Pruning during spring and late autumn is typically recommended, but prompt pruning any time of year can also be beneficial. In the spring, prune off all dead branches or branches that are growing in an undesired direction. For heavy pruning, this should be done when the bush is almost dormant (during winter). Additionally, remove any flowers that have withered and up to 1-third of the older wood, but leave the newer growth untouched. In late autumn, trim any errant branches and lightly prune to encourage new growth and a rounder shape. Pruning should also be done if the bush needs to be reduced in size."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2798,
+      "species_id": 1569,
+      "common_name": "rampion bellflower",
+      "scientific_name": [
+        "Campanula rapunculoides"
+      ],
+      "section": [
+        {
+          "id": 8600,
+          "type": "watering",
+          "description": "Rampion bellflower should be watered once per week, though amounts of water should vary based on weather conditions and humidity. The soil should be sufficiently moist- not soaked, but not completely dry- and more water should be given during hot and dry spells. During the summer, when temperatures are warm and daylight is plentiful, Rampion bellflower needs more water than during cooler months. About 1 to 1.5 inches of water should be applied at a time."
+        },
+        {
+          "id": 8601,
+          "type": "sunlight",
+          "description": "Rampion bellflower, also known as Campanula rapunculoides, thrives best in full sun with 6 to 8 hours of direct sunlight each day. This plant tends to need the most shade when temperatures are at their warmest, typically when the sun is highest in the sky in mid-day. For this reason, it is ideal to place your rampion bellflower in a spot that receives morning and evening sun, so that it does not need to absorb the peak intensity of the sun. On the few days of the year when temperatures reach extreme heat, your rampion bellflower may benefit from some partial shade in order to protect it from heat stress."
+        },
+        {
+          "id": 8602,
+          "type": "pruning",
+          "description": "For pruning rampion bellflower (Campanula rapunculoides), it is best to prune about 1 half to 2-thirds of the foliage back in the spring after flowering is complete. Doing this will ensure all the energy and nutrients the plant needs is focused on the new growth for the season. While pruning, it is important to make sure to only remove weak or dead foliage, as this will help to ensure that the plant is able to bloom in the coming months. To avoid stressing the plant, it is best to avoid cutting off the flower stalks until after they have withered away."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

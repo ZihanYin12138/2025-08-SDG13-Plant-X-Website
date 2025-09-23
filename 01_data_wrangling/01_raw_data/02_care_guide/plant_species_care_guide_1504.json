@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2734,
+      "species_id": 1504,
+      "common_name": "Scotch heather",
+      "scientific_name": [
+        "Calluna vulgaris"
+      ],
+      "section": [
+        {
+          "id": 8408,
+          "type": "watering",
+          "description": "Scotch heather (Calluna vulgaris) is a hardy, evergreen shrub that requires regular water to keep it looking its best and produce the most vibrant flowers. As a native species to northern climates, it is adapted to dry conditions and does not require over-watering. Water Scotch heather regularly but cautiously, as too much water can cause root rot and other fungal diseases.\n\nFor established Scotch heather, water the plant deeply only when the top 2-3 inches (5-7.5 cm) of soil is dry, or approximately every 1-2 weeks, depending on climate and soil conditions. Avoid overwatering, which could otherwise encourage fungal problems. Provide a deep, thorough watering to ensure that the water reaches the roots of the plant.\n\nYounger heather plants will need more frequent watering as their root systems aren’t yet established. Water when the soil is slightly dry and make sure each plant has enough water to keep the soil evenly moist but not soggy.\n\nWater Scotch heather in the morning as the sun’s heat will not evaporate the moisture too quickly and give the plants time to absorb the moisture and benefit from it all day."
+        },
+        {
+          "id": 8409,
+          "type": "sunlight",
+          "description": "Scotch heather (Calluna vulgaris) grows best in full sunlight. It prefers at least 5 to 6 hours of direct sun each day, although it can tolerate a little less sunlight. In milder climates, the plant will flourish in part shade, dappled sun or filtered light. In areas where summers are hot and sunny, Scotch heather should be placed in a shadier spot to avoid scalding or scorching. Good air circulation and some light shade (such as beneath deciduous trees) can also help to protect the plant from summer heat."
+        },
+        {
+          "id": 8410,
+          "type": "pruning",
+          "description": "Scotch heather (Calluna vulgaris) should be pruned once in spring, after flowering. Pruning should be minimal, removing only up to a third of the oldest branches and no more than 4 inches from the top. This encourages the plant to maintain a compact form while keeping a good amount of foliage. Pruning too late in the season may reduce flowering or even kill the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

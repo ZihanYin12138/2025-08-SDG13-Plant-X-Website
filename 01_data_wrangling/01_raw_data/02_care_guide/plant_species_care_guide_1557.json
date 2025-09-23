@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2786,
+      "species_id": 1557,
+      "common_name": "willow bell",
+      "scientific_name": [
+        "Campanula persicifolia"
+      ],
+      "section": [
+        {
+          "id": 8564,
+          "type": "watering",
+          "description": "Watering willow bell (Campanula persicifolia) plants is fairly easy. They should be watered regularly from when they are planted through the growing season (spring and summer). Water them deeply, allowing the soil to become moist but not soggy. In general, about 1 inch of water should be provided once a week. Water the soil, not the leaves, as wet foliage can lead to fungal diseases. During really hot weather, you may need to water more frequently—every few days. If rainfall is sparse, you will need to water more often to keep the plants looking their best."
+        },
+        {
+          "id": 8565,
+          "type": "sunlight",
+          "description": "Willow bell (Campanula persicifolia) prefers to grow in sunny areas with good air circulation. It needs between 6 to 8 hours of direct sunlight every day. The best time for the plant to receive sunlight is between 10am and 4pm when the sun is at its highest and the intensity of the sun’s rays are strongest. While Willow Bell benefits from full sun, it is still able to thrive in partial shade. When it is in partial shade it may need more sunlight than the recommended 6 to 8 hours."
+        },
+        {
+          "id": 8566,
+          "type": "pruning",
+          "description": "Pruning the Willow Bell (Campanula persicifolia) is an important part of its culture and maintenance. Pruning this species should be done once a year in late winter or early spring. This will give the plant time to regrow and flower in the late spring or early summer.\n\nWhen pruning, start by cutting back any flower heads that are spent or dead. Next, trim away any of the older, woodier branches, taking care to not remove too much of the plant all at once. Finally, thin out the healthy branches by a third or 2-thirds to open up the plant and improve air circulation. Prune out any crossed or damaged branches and always clean up and discard of any debris."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

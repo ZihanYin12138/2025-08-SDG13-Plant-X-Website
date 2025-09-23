@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2723,
+      "species_id": 1493,
+      "common_name": "prairie poppy mallow",
+      "scientific_name": [
+        "Callirhoe alcaeoides 'Logan Calhoun'"
+      ],
+      "section": [
+        {
+          "id": 8375,
+          "type": "watering",
+          "description": "Prairie poppy mallow (Callirhoe alcaeoides 'Logan Calhoun') should be watered once every 7–10 days during the warmer months of the year. The amount of water needed depends on the temperature and the soil type, but it should be enough to moisten the soil to a depth of 8 inches. When watering, it is important to ensure that the water reaches the roots of the plant, so avoid wetting the foliage. During the cooler months, water less often but still keep the soil moist. Always check the soil before watering to make sure it is not already saturated."
+        },
+        {
+          "id": 8376,
+          "type": "sunlight",
+          "description": "The prairie poppy mallow (Callirhoe alcaeoides 'Logan Calhoun') prefers a full sun environment with at least 6 hours of direct sunlight each day. This plant can tolerate some shade but full sun will help it to flower more profusely and achieve its maximum growth potential. Because it is a warm-weather species, it should receive its sunshine from mid to late morning to late afternoon for best results."
+        },
+        {
+          "id": 8377,
+          "type": "pruning",
+          "description": "Prairie Poppy Mallow (Callirhoe alcaeoides 'Logan Calhoun') should be pruned in late winter or early spring after any hard frosts. Remove any winter-damaged stems and dead foliage. This allows the plant to grow healthy and vigorous new shoots throughout the summer months. Prune to keep the plant neat by removing any overly long or leggy stems and stems that are crossing or growing into each other. Additionally, you can trim back the top of the plant to encourage a bushier form and more flowers. Avoid pruning more than 1-third of the plant at a time and take care not to damage any fresh green stems."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

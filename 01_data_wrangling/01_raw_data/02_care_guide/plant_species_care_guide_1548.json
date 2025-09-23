@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2777,
+      "species_id": 1548,
+      "common_name": "clustered bellflower",
+      "scientific_name": [
+        "Campanula glomerata 'Caroline'"
+      ],
+      "section": [
+        {
+          "id": 8537,
+          "type": "watering",
+          "description": "The clustered bellflower (Campanula glomerata 'Caroline') needs to be watered deeply and infrequently. During its active growing period, which is typically during the spring and summer months, it should be watered at least twice a week (every 3 days). During times of drought, it can also handle being watered once a week. The soil should be allowed to dry out between watering sessions. In the winter months, you can refrain from watering the plant altogether."
+        },
+        {
+          "id": 8538,
+          "type": "sunlight",
+          "description": "Clustered bellflower (Campanula glomerata 'Caroline') prefers full to part sun. This plant does best in an area of the garden that receives 6 to 8 hours of sunlight each day, with some light afternoon shade to protect it from the harsh afternoon sun. It will still bloom in more shade, but won’t be as vigorous or as floriferous. It’s a great choice for those small sections of sun-dappled water gardens for zones 4 to 8."
+        },
+        {
+          "id": 8539,
+          "type": "pruning",
+          "description": "The best time to prune clustered bellflower (Campanula glomerata 'Caroline') is in late spring after the flowers have faded. Pruning out the old, faded flower heads should be done to encourage new growth and prevent the spread of diseases that could be spread through the plant. Pruning should be done sparingly - no more than 1/4 of the entire plant should be removed in a single pruning session. If more than this is removed, the plant won't get enough energy to sustain itself and new growth won't come in. If there is heavy dieback, it's best to prune back the dead sections and not the entire plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

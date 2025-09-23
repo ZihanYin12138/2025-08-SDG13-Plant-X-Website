@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2781,
+      "species_id": 1552,
+      "common_name": "bellflower",
+      "scientific_name": [
+        "Campanula incurva"
+      ],
+      "section": [
+        {
+          "id": 8549,
+          "type": "watering",
+          "description": "Water regularly for Bellflower. This perennial plant should be watered when the soil is starting to feel dry to the touch; about 1 inch (3 cm) down. If planted in a container, water when the soil surface appears dry. In general, water only when the top 2 inches (5 cm) of soil is dry. This plant will benefit from an occasional deep soaking during dry periods. Avoid overwatering as this can cause the plants to rot."
+        },
+        {
+          "id": 8550,
+          "type": "sunlight",
+          "description": "Bellflower is a perennial plant species that grows best in sunny conditions. An ideal amount of sunlight for bellflower is 6 to 8 hours of direct sunlight per day. That said, partial shade or morning sun with afternoon shade is also beneficial. To protect the plant from excessive heat, it's important to provide shade for bellflower during times of extreme heat in the middle of the day. Doing so will help to keep the plant from going into stress and from drying out. Additionally, providing bellflower with some afternoon shade will also help to protect the blooms from fading in the heat of the day."
+        },
+        {
+          "id": 8551,
+          "type": "pruning",
+          "description": "Bellflower (Campanula incurva) should be pruned once a year in late winter or early spring. Pruning encourages new growth and flower production. Start by removing any dead, damaged, diseased, or crossing branches. This will help promote air circulation and healthy growth. Remove any flowers that were missed during the season and any spent flower stalks to reduce potential disease. Lightly prune the remaining stems to shape the plant. This will ensure bushier growth and fuller flowers next season. Make sure to leave a few inches for new growth to form. Finally, you can cut back any overlong stems to a desired length."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

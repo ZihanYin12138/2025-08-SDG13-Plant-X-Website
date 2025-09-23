@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2764,
+      "species_id": 1535,
+      "common_name": "yellow camellia",
+      "scientific_name": [
+        "Camellia petelotii var. petelotii"
+      ],
+      "section": [
+        {
+          "id": 8498,
+          "type": "watering",
+          "description": "The yellow camellia (Camellia petelotii var. petelotii) is a hardy evergreen shrub that does best in moist but well-drained acidic soil.\n\nWhen watering yellow camellia, it is important to keep the soil consistently moist but never soggy. Water the soil thoroughly until it is moist, but not sopping wet, once every 7-10 days during the growing season, depending on your climate and the weather conditions. In the winter, allow the soil to become slightly dry between waterings. Also, during the growing season, apply a layer 1-2 inches of mulch to the soil to help retain moisture. Avoid overwatering, as this will cause root rot."
+        },
+        {
+          "id": 8499,
+          "type": "sunlight",
+          "description": "Yellow Camellia (Camellia petelotii var. petelotii) enjoys a strong but dappled sunlight for 6 to 8 hours a day. In areas with high sunlight exposure, provide sun protection with shades or filters to prevent foliage scorching and leaf burn. It will need protection from direct midday and afternoon sun to prevent damage to the soft foliage. In winter, Camellia petelotii var. petelotii will require slightly more light than in summer."
+        },
+        {
+          "id": 8500,
+          "type": "pruning",
+          "description": "Yellow Camellias should be pruned when they are actively growing in the spring and in late summer. When pruning, remove old and damaged branches first and then shape the plant to the desired height and shape. Make sure you use sharp pruners and take out no more than 1-third of the total height of the shrub. You should avoid severely pruning the plant as this can cause damage and reduce flowering. If you need to reduce the size of the shrub significantly, it is best to do it over 2 or 3 years rather than all at once."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2805,
+      "species_id": 1576,
+      "common_name": "bellflower",
+      "scientific_name": [
+        "Campanula takesimana 'Beautiful Trust'"
+      ],
+      "section": [
+        {
+          "id": 8621,
+          "type": "watering",
+          "description": "This bellflower should be watered about 2 - 3 times per week. Water thoroughly, until water begins to seep out of the drainage holes, and then allow the soil to dry slightly before watering again. During summer, its watering needs may increase because of the warmer temperatures, so be sure to keep an eye on the soil moisture level. In winter, the bellflower can go for 2 weeks without needing to be watered. As a general rule, however, it should not be left without water for any longer than that."
+        },
+        {
+          "id": 8622,
+          "type": "sunlight",
+          "description": "Bellflowers, like all plants, require sunlight for optimum growth. The Campanula takesimana 'Beautiful Trust' variety of bellflower prefers full sun to part shade, which equates to around 6-8 hours of direct sunlight each day. For successful growth and flowering, this bellflower variety should be planted in high light areas or in sunny exposures. Additionally, it grows best in moist and well-drained soils. Since this variety is an alpine native, they are best planted in an area with cooler temperatures and a relatively more consistent climate."
+        },
+        {
+          "id": 8623,
+          "type": "pruning",
+          "description": "If you decide to prune your bellflower (Campanula takesimana 'Beautiful Trust') it is recommended to do so in early spring, before new growth emerges. Pruning bellflower at this time helps to control the size and shape of the plant and can help make it look more attractive. When pruning, you should remove any dead or damaged stems and cut back the foliage to just above a healthy bud or pair of leaves. Pruning bellflower back to the ground can also help encourage strong, new growth and help promote fullness and blooming. Be sure to avoid pruning too much of the top growth as this may prevent flowering. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

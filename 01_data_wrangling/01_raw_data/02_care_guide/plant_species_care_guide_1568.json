@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2797,
+      "species_id": 1568,
+      "common_name": "spotted bellflower",
+      "scientific_name": [
+        "Campanula punctata 'Pink Chimes'"
+      ],
+      "section": [
+        {
+          "id": 8597,
+          "type": "watering",
+          "description": "For Spotted Bellflower, water when the top inch of soil is dry, providing about 1-2 inches of water a week. During extreme summer heat, you may need to water even more frequently. Make sure to avoid over-watering, as these plants do not like very wet soil. To make sure you provide enough water and the soil is draining properly, consider using a pot with drainage holes and watering from the top, rather than using watering from the bottom."
+        },
+        {
+          "id": 8598,
+          "type": "sunlight",
+          "description": "Spotted bellflower plants thrive in full sun, receiving at least 6-8 hours of direct sunlight each day, and the more, the better. During the summer months in the northern hemisphere, when the sun is at its highest intensity, spacing plants greater distances apart will reduce the effect of afternoon temperatures, and will help ensure that they receive their optimal amount of sun. In the cooler months, as the sun’s intensity weakens, spoted bellflowers can take advantage of the extended day length by getting more light than they would in the summer months."
+        },
+        {
+          "id": 8599,
+          "type": "pruning",
+          "description": "When to Prune: Spotted bellflower (Campanula punctata 'Pink Chimes') is best pruned in late winter or early spring as long as frost is not expected.\n\nHow Much to Prune: Spotted bellflower should be pruned back by 1/3-1/2 of its total height for best results. All dead, diseased, and crowded branches should also be removed. Pruning according to these guidelines will help to keep the plant healthy and promote the best flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

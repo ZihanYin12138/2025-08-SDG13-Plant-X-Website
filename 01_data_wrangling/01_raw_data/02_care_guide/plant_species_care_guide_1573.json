@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2802,
+      "species_id": 1573,
+      "common_name": "bellflower",
+      "scientific_name": [
+        "Campanula 'Sarastro'"
+      ],
+      "section": [
+        {
+          "id": 8612,
+          "type": "watering",
+          "description": "Bellflower plants generally require moderate to regular watering, depending on the season and local climate. Water your bellflower plant when the top 1-2 inches of soil is dry. During hot summer days, bellflower may need to be watered more frequently. During the winter season, bellflower plants require less water; it is best to only water the plant once every 2 weeks. When you do water, be sure to soak the soil thoroughly and water until water runs out of the drainage holes."
+        },
+        {
+          "id": 8613,
+          "type": "sunlight",
+          "description": "Bellflower (Campanula 'Sarastro') requires 6-7 hours of direct sunlight per day in order to thrive. It grows best in full sun, or in partial shade with plenty of light, in a spot sheltered from strong winds. During hot, sunny days, the plant may need some shade to protect its leaves from scorching. Bellflower should not be overwatered, as it is a drought-tolerant plant. Water it when the surface of the soil is dry, making sure to avoid wetting its leaves. It is best to water it in the morning so that the soil has time to dry out before the sun sets."
+        },
+        {
+          "id": 8614,
+          "type": "pruning",
+          "description": "Bellflower (Campanula 'Sarastro') is best pruned in the late spring or early summer. Pruning this plant should involve cutting back about 1-third of the stems, removing any dead or damaged stems, and cutting off any flowering stalks that have completed blooming. It is best to do this pruning just after the bellflower's blooming period as it encourages vigorous growth and more blossoms for future seasons. When pruning, be sure to use sharp pruning shears and provide a clean cut at an angle just above the node (base) of each branch. This will allow for new growth points and help to keep the plant's size and shape under control."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

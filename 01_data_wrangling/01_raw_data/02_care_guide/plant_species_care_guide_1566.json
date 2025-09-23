@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2795,
+      "species_id": 1566,
+      "common_name": "spotted bellflower",
+      "scientific_name": [
+        "Campanula punctata"
+      ],
+      "section": [
+        {
+          "id": 8591,
+          "type": "watering",
+          "description": "The spotted bellflower should be watered lightly once a week, making sure the soil remains lightly moist but not soggy. Allow the top layer of soil to dry out slightly between waterings. Avoid watering on a regular schedule, as this can encourage fungal diseases. Instead, water in response to the moisture content of the soil and ensure that no water pools on the leaves."
+        },
+        {
+          "id": 8592,
+          "type": "sunlight",
+          "description": "Spotted bellflower plants prefer full sun to partial shade. They should receive 4 to 6 hours of direct sunlight a day, ideally in the morning. Too much direct sunlight can cause the plants to dry out, so it is important to provide them with adequate water and shade during the hottest part of the day. If grown in full sun, the soil should be kept consistently moist but never soggy. In partial shade, they will need less water."
+        },
+        {
+          "id": 8593,
+          "type": "pruning",
+          "description": "Spotted bellflower (Campanula punctata) should be pruned in late spring, about 3 weeks after blooming. Pruning should be light to moderate. Cut away any dead flowers and stems and thin the plant to encourage new growth. Remove any stems or foliage that are tangling or crowding the plant. Since spotted bellflower is an evergreen, it may also benefit from an annual pruning in late winter. Remove any weaker or dead stems or foliage but be sure to leave enough foliage to maintain the desired shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2724,
+      "species_id": 1494,
+      "common_name": "Bush's poppy mallow",
+      "scientific_name": [
+        "Callirhoe bushii"
+      ],
+      "section": [
+        {
+          "id": 8378,
+          "type": "watering",
+          "description": "Bush's poppy mallow requires regular waterings that should be adjusted depending on the weather conditions in your area. In general, provide enough water to keep the soil moist but not soggy. During the summer, this species will require watering twice a week, and once a week during the winter. In addition, a deeper watering once a month is recommended. During periods of extreme heat, provide supplemental waterings at least once a week, and in times of prolonged drought, increase waterings to keep the soil from drying out."
+        },
+        {
+          "id": 8379,
+          "type": "sunlight",
+          "description": "Bush’s poppy mallow (Callirhoe bushii) needs full sun, preferably 6 to 8 hours per day. This plant can tolerate partial shade, but too much shade will stunt its growth and reduce flowering. Bush’s poppy mallow also has ideal growing temperatures between 70-85 degrees Fahrenheit, so planting in areas that get too hot or too cold may also affect its growth."
+        },
+        {
+          "id": 8380,
+          "type": "pruning",
+          "description": "Bush's poppy mallow (Callirhoe bushii) should be pruned once a year, in late winter or early spring. Pruning is only necessary if the plant has become too overgrown or unruly, or if you wish to shape the plant. If pruning is desired, the best practice is to cut off only the end pieces of the branches and stems, while leaving most of the older parts of the plant intact. This encourages new growth and helps keep the plant looking tidy. Cutting back too much can reduce flowering or even kill the plant, so it’s important to be careful when pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

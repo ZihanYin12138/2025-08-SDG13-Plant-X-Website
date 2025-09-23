@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2752,
+      "species_id": 1523,
+      "common_name": "camass",
+      "scientific_name": [
+        "Camassia leichtlinii subsp. suksdorfii 'Blauwe Donau' BLUE DANUBE"
+      ],
+      "section": [
+        {
+          "id": 8462,
+          "type": "watering",
+          "description": "Camassia leichtlinii subsp. suksdorfii 'Blue Danube' should be watered every 3 days during the growing season which is typically spring and summer. The soil should remain moist, but not waterlogged. Reduce the amount of watering during the winter when the plant is dormant. Water the Camassia at the base of the plant near the crown with lukewarm water, and avoid getting the foliage wet.If the foliage becomes wet try to alleviate the water as soon as possible. Avoid overhead watering to reduce the risk of fungal infection on the plant."
+        },
+        {
+          "id": 8463,
+          "type": "sunlight",
+          "description": "Camassia leichtlinii subsp. suksdorfii 'Blauwe Donau' or Blue Danube needs full sun for optimal growth and flowering. It is an early bloomer and will begin to flower when the nights are still semi-term. Therefore, it should be planted in an area with direct sun exposure to take advantage of the longest period of exposure. On average, the plant requires 6 to 8 hours of direct sunlight each day during the height of its flowering season. If this is not possible, then placing the plant in a sunny, south-facing location will provide it with the best light for growth and flowering."
+        },
+        {
+          "id": 8464,
+          "type": "pruning",
+          "description": "This hybrid species of camass can be safely pruned anytime from early spring to late summer. Removing all dead and damaged foliage and flowers will improve the overall appearance and health of the plant. Pinch out spent flower stems and any dead foliage at the base of the stems. If needed, pruning out a few of the larger stems to make the plant bushier and fuller will also help create a denser plant. The most important thing to remember when pruning this species is not to remove more than 1-third of the total foliage and never cut into the crown of the camass. When finished, apply a light application of fertilizer to the base of the plant to help encourage new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

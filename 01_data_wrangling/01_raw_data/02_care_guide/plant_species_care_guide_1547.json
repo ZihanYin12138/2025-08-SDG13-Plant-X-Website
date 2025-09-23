@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2776,
+      "species_id": 1547,
+      "common_name": "clustered bellflower",
+      "scientific_name": [
+        "Campanula glomerata BELLEFLEUR BLUE"
+      ],
+      "section": [
+        {
+          "id": 8534,
+          "type": "watering",
+          "description": "Water Clustered Bellflower often enough to keep the soil consistently moist, but not soggy. Water when the top 1-2 inches of soil feel dry and give the plant about 1-inch of water each time. During the summer months, you may need to water once or twice a week. In the cooler months, reduce watering to once every 2 weeks. Make sure to check the soil moisture level to ensure you're not overwatering."
+        },
+        {
+          "id": 8535,
+          "type": "sunlight",
+          "description": "Clustered bellflower (Campanula glomerata BELLEFLEUR BLUE) plant species requires at least 6 hours of sunshine a day for maximized growth and flowering. While performing best when planted in full sun, the clustered bellflower can still flourish in partially shaded areas. In areas with a lot of hot, direct sunlight, the clustered bellflower should have some shade to protect it from the heat of the day. The best time of day for the clustered bellflower to get its direct sunlight is in the early morning or late afternoon when the sun is not as intense."
+        },
+        {
+          "id": 8536,
+          "type": "pruning",
+          "description": "Clustered bellflower (Campanula glomerata BELLEFLEUR BLUE) should be pruned annually to keep the plant healthy. Pruning should take place in early spring before new growth begins; dead and straggly stems can be cut back to the base of the plant. Pruning can also be done in late summer after the plant has finished blooming; this helps to promote new growth and blooms in the following year. Pruning by 1-third of the height of the plant is recommended to control the size of the plant and keep it looking neat and compact. Dead, diseased or damaged stems should also be removed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

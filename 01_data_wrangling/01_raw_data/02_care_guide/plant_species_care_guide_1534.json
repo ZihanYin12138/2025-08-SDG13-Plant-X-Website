@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2763,
+      "species_id": 1534,
+      "common_name": "camellia",
+      "scientific_name": [
+        "Camellia oleifera"
+      ],
+      "section": [
+        {
+          "id": 8495,
+          "type": "watering",
+          "description": "Camellias (Camellia oleifera) should be watered deeply 2-3 times a week. The best time to water your camellia is in the morning, when temperatures are still cool. Make sure to water the soil in the root zone thoroughly, about 1-2 inches (2.5-5 cm) below the surface. During hot or dry periods, increase the watering frequency to prevent wilting. Between watering, let the top 3-4 inches (7.5-10 cm) of soil dry out before irrigating again."
+        },
+        {
+          "id": 8496,
+          "type": "sunlight",
+          "description": "Camellias, like all plants, need moderate amounts of natural sunlight to thrive. For camellia (Camellia oleifera) plants, the best place to provide sunlight would be in bright, indirect or filtered light, or even in partial shade. This species will do well if it receives around 3-5 hours of sunlight per day. It is important to avoid direct sunlight for prolonged periods so as to not affect the blooms of the plants. Additionally, avoid intense or prolonged midday light as this can damage the foliage of this species."
+        },
+        {
+          "id": 8497,
+          "type": "pruning",
+          "description": "Camellia (Camellia oleifera) should be pruned twice a year, during early spring and early summer. During the spring pruning, any dead, diseased or broken branches should be removed. In addition, any branches that are crossing over 1 another should also be removed. During the early summer pruning, only stems that are thinner than a pencil should be removed. This helps to thin the dense canopy and encourages new growth. Additionally, any wayward sprouts or shoots with multiple branches should also be removed. Pruning should be done gently to avoid damage and to maintain the natural shape of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

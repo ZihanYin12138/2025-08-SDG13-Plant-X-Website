@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2787,
+      "species_id": 1558,
+      "common_name": "willow bell",
+      "scientific_name": [
+        "Campanula persicifolia 'Alba'"
+      ],
+      "section": [
+        {
+          "id": 8567,
+          "type": "watering",
+          "description": "Willow Bell (Campanula persicifolia 'Alba') should be watered regularly. Water it once or twice a week in its growing season (spring and summer) and consider increasing to 3 times or more in times of particularly hot and dry weather. In the winter, the amount of water should be slightly less, only once a week or even every 2 weeks. Make sure that the soil does not dry out completely between watering; check the soil by inserting your finger into the pot's soil up to the first knuckle. If it feels dry, it’s time to water."
+        },
+        {
+          "id": 8568,
+          "type": "sunlight",
+          "description": "Willow bell (Campanula persicifolia 'Alba') thrives in full sun to partial shade, with the optimal amount of light being 6-8 hours of direct sunlight each day. It blooms in the summer and therefore prefers direct light during this time of year. This plant is quite resilient and can tolerate more or less sun, but flowering may be inhibited in too much shade. For optimal growth and flowering, it is best to place the Willow Bell in a spot where it will get at least 6 hours of full sun each day from the morning to mid-afternoon in the Northern Hemisphere."
+        },
+        {
+          "id": 8569,
+          "type": "pruning",
+          "description": "Willow bell (Campanula persicifolia ‘Alba’) should be pruned during the late winter or early spring, just before growth begins for the new season. Pruning can be light or more severe, depending on the size and shape desired by the gardener. To maintain a compact form, it is important to remove up to 1-third of the stems each year. This will encourage new growth as well as larger flowers. Deadheading spent blooms is a good practice and should be done regularly to increase more blooms on the plant. After blooming is finished, it is also beneficial to trim off the tips of each stem to encourage branching."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

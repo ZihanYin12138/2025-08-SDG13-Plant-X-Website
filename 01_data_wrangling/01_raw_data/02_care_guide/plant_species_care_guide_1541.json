@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2770,
+      "species_id": 1541,
+      "common_name": "tall bellflower",
+      "scientific_name": [
+        "Campanula americana"
+      ],
+      "section": [
+        {
+          "id": 8516,
+          "type": "watering",
+          "description": "The Tall Bellflower should be watered regularly to ensure that the soil is always moist but not soggy. When watering, water deeply once or twice a week so that the water can reach the roots. Watering frequency varies depending on the weather and temperature, but generally, during the growing season it should be watered either in the morning or evening when the sun is not too hot. Also, always check the soil before watering and if the top of the soil is still wet, there is usually no need to water. In the winter, water every 2 to 4 weeks or less, depending on the weather and temperature."
+        },
+        {
+          "id": 8517,
+          "type": "sunlight",
+          "description": "The tall bellflower (Campanula americana) is an adaptable, hardy perennial that thrives in full sun to partial shade. It can tolerate temperatures ranging from -30 degrees Fahrenheit to as high as 80 degrees Fahrenheit. The plant blooms from mid-summer to early fall, so it needs at least 6 hours of direct sunlight every day during this period. When planted in full sun, the tall bellflower produces the most vibrant flowers with the longest blooming period. Though it can technically tolerate high temperatures, direct sunlight for extended periods of time can be especially detrimental. To prevent too much light from damaging the plant, it’s best to provide some shade throughout the hottest part of the day."
+        },
+        {
+          "id": 8518,
+          "type": "pruning",
+          "description": "Tall bellflower (Campanula americana) should be pruned once a year in late fall or early winter. For best results, pruning should be done when the plant is dormant. Pruning should be done carefully, removing no more than 1-third of the total height of the plant. Any dead, damaged or diseased stems should be removed completely. Pruning is important to maintain the desired shape and encourage vigorous new growth in the spring."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

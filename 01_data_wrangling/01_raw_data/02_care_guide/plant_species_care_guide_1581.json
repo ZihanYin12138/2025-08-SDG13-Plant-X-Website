@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2810,
+      "species_id": 1581,
+      "common_name": "trumpetcreeper",
+      "scientific_name": [
+        "Campsis radicans"
+      ],
+      "section": [
+        {
+          "id": 8636,
+          "type": "watering",
+          "description": "Trumpetcreepers require fairly regular watering with a soil that is kept moist, but not soggy. They should be watered thoroughly once a week during the growing season, and about every other week in the winter. Water deeply so that it reaches about 6 inches (15 cm) down into the soil, and allow the soil to dry out a bit between waterings. If the soil remains completely saturated for any length of time, the roots may become waterlogged and rot."
+        },
+        {
+          "id": 8637,
+          "type": "sunlight",
+          "description": "Trumpetcreeper thrives in full sun, although it can tolerate some partial shade. It does best in locations that get at least 6 hours of direct sunlight each day. The sunniest, warmest spots, such as south or west facing walls or exposed clearings are best. Trumpetcreeper thrives in the summer months when there is an abundance of sunlight, however the plant can also tolerate lower levels of sunlight in the winter."
+        },
+        {
+          "id": 8638,
+          "type": "pruning",
+          "description": "Trumpet creeper should be pruned annually in early spring. Its shoots should be cut back to the ground level during this period, since any shoots more than 1-2 years old will never bloom. Pruning should also be done to control the size of the plant and to maintain its shape. Additionally, trumpet creeper should be pruned when the foliage need to be thinned out or to remove dead branches. Pruning should begin when the trumpet creeper is in active growth, before the start of summer. If pruning is delayed, new growth will not have time for proper hardening before the winter, increasing the risk of winter kill."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

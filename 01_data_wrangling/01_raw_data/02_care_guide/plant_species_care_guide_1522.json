@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2751,
+      "species_id": 1522,
+      "common_name": "large camas",
+      "scientific_name": [
+        "Camassia leichtlinii"
+      ],
+      "section": [
+        {
+          "id": 8459,
+          "type": "watering",
+          "description": "Water large camas (Camassia leichtlinii) deeply and thoroughly but infrequently. Watering should take place every 7 to 14 days during the periods of active growth and flowering in spring and summer. During fall and winter, reduce watering to once every 4 to 6 weeks, making sure the soil is completely dry in between. Avoid overwatering which can lead to large plants collapsing due to insufficient structure support. Watering should occur in the morning and soaking the entire plant area to a depth of 8-10 inches."
+        },
+        {
+          "id": 8460,
+          "type": "sunlight",
+          "description": "Large camas (Camassia leichtlinii) typically require at least 6 hours of sunlight per day. The best practice is to ensure the plant receives full, direct sunlight on a daily basis during the growing season. However, the plant can also survive in somewhat shaded areas with more indirect sunlight, as long as the total amount of sunlight per day remains above the minimum of 6 hours. The plant prefers the most sunlight during the summer months, when the days are longer and the sun is at its highest in the sky. In autumn, the amount of sunlight for large camas should be reduced, as a lack of chilling temperatures can leads to issues with flowering."
+        },
+        {
+          "id": 8461,
+          "type": "pruning",
+          "description": "Large camas (Camassia leichtlinii) requires minimal pruning. If you choose to do so, this should be done in the late winter months, when the plant is completely dormant. This will ensure that no new growth will be lost during the pruning process. Pruning of large camas may include removing dead or damaged stems, cutting back overly long or leggy stems, and thinning out the center of the plant to promote better air circulation and more vigorous flowering in the upcoming year. When pruning, always use clean, sharp pruning shears and make sure to make clean cuts."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

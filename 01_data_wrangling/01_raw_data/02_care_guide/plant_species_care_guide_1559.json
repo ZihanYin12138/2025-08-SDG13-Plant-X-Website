@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2788,
+      "species_id": 1559,
+      "common_name": "peach-leaved bellflower",
+      "scientific_name": [
+        "Campanula persicifolia 'Chettle Charm'"
+      ],
+      "section": [
+        {
+          "id": 8570,
+          "type": "watering",
+          "description": "Watering the Peach-leaved Bellflower (Campanula persicifolia 'Chettle Charm') should be done consistently and thoroughly. During the first few weeks after planting, it is important to water regularly and deeply so that the root system is established. This means that the plant should be watered once or twice a week, making sure the soil is saturated. As the plant matures, less frequent but deep watering is necessary, with the soil watered at least 2 to 3 inches deep. In summer, when the temperatures are hot, watering drops to once or twice a week. In winter, watering can reduce to once a week. Be aware of the temperature and moisture in the soil; it should not be waterlogged, which can encourage rot. Also, during periods of heavy rainfall, you can reduce the amount of water you give the plant."
+        },
+        {
+          "id": 8571,
+          "type": "sunlight",
+          "description": "Peach-leaved bellflower (Campanula persicifolia 'Chettle Charm') is a plant species that thrives in full sun locations. Ideally, it should receive at least 6-8 hours of direct sunlight each day. During the spring and summer months, when the sun is strong, it should receive some protection from the midday sun. If grown in a container, the plant should be placed in an area that receives dappled sun during the hottest part of the day as direct sunlight can be too intense for the plant. The plant can tolerate partial shade, but it will produce a fuller, more compact flower display if grown in full sun."
+        },
+        {
+          "id": 8572,
+          "type": "pruning",
+          "description": "Peach-leaved bellflower (Campanula persicifolia 'Chettle Charm') should be pruned in early spring. This may be as early as February, or even late winter in more temperate climates. Pruning should primarily be used to maintain the shape of the plant, as it can become rather leggy, and should focus on removing weak or dead stems as well as the occasional crossing stems. If the plant is in need of a more drastic overhaul, it can be cut back to 3 to 4 inches above the ground."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2733,
+      "species_id": 1503,
+      "common_name": "China aster",
+      "scientific_name": [
+        "Callistephus chinensis"
+      ],
+      "section": [
+        {
+          "id": 8405,
+          "type": "watering",
+          "description": "China aster plants require regular watering to maintain healthy growth, but be careful not to overwater. They need to be watered every 3 to 5 days, ensuring that the soil is kept evenly moist. During warm months, water about once a week and more often during hot weather, while during cool months water less often. Before watering make sure to check the soil's moisture level to determine if it's necessary. Allow the soil to dry out slightly between waterings, then deeply soak the soil so the water reaches the roots. Be sure to avoid getting the foliage wet during watering to prevent diseases."
+        },
+        {
+          "id": 8406,
+          "type": "sunlight",
+          "description": "The China aster (Callistephus chinensis) is a plant species that thrives best in full sun. This means it should ideally receive at least 6 hours of direct sunlight a day. However, this plant can also tolerate some partial shade, so it may still grow healthily with up to 4 hours of direct sunlight a day. This will depend on how much shade the aster is receiving. It is also important to note that the China aster should be in a position to receive even levels of sunlight throughout the day; dark spots within a plant’s canopy can cause it to produce flower buds unevenly. As a result, it is best to keep the aster in a sunny spot that is evenly illuminated."
+        },
+        {
+          "id": 8407,
+          "type": "pruning",
+          "description": "China Aster should be pruned just when flowering has finished, and sparingly - only remove spent flowers and overly long stems. Pruning should be done carefully as too much can stunt growth the following year. Deadheading (removing spent flowers) is beneficial as it will encourage further blooms, though too much pruning will shorten their life span. Pruning should be done no later than the start of autumn, as this will give the plant time to harden off before winter."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

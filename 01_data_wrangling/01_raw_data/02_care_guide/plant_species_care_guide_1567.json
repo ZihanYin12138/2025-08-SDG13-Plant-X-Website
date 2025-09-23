@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2796,
+      "species_id": 1567,
+      "common_name": "spotted bellflower",
+      "scientific_name": [
+        "Campanula punctata 'Cherry Bells'"
+      ],
+      "section": [
+        {
+          "id": 8594,
+          "type": "watering",
+          "description": "Spotted bellflower (Campanula punctata 'Cherry Bells') is a drought-resistant plant that requires regular moisture for optimum growth and flowering. This species should be watered on a regular basis during its active growth periods. In the spring and summer months, the plant should be watered at least once a week or more often if there is no rainfall in your area. Make sure to water the soil deeply, as this will encourage the development of a strong root system. In multiple-week dry periods of summer, water the plant's root zone twice a week. In the autumn and winter months the frequency of watering should be reduced, with soil only needing to be watered every 2 to 3 weeks. However, if the soil is completely dry then it should be rehydrated with water."
+        },
+        {
+          "id": 8595,
+          "type": "sunlight",
+          "description": "Spotted bellflower (Campanula punctata 'Cherry Bells') does best in full sun to partial shade. This species prefers at least 6-8 hours of direct sunlight each day. For those in cooler climates, the bellflower prefers filtered sunlight, especially when temperatures are extreme. It does not do well in deep shade. During the heat of the day, some shade is recommended."
+        },
+        {
+          "id": 8596,
+          "type": "pruning",
+          "description": "Spotted bellflower (Campanula punctata 'Cherry Bells') should be pruned in the spring, after it has flowered. This species typically blooms from late spring to mid-summer, so the best time for pruning is in late spring when the flowering period has ended. Pruning should be limited to deadheading any spent flowers and removing any damaged or broken stems. Prune lightly, removing only about 1-third of the stems to promote denser and more compact growth. Avoid excessive pruning, as it may cause harm to the health and appearance of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

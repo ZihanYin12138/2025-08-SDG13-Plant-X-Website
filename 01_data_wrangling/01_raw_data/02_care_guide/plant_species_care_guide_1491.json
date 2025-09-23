@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2721,
+      "species_id": 1491,
+      "common_name": "black wattle",
+      "scientific_name": [
+        "Callicoma serratifolia"
+      ],
+      "section": [
+        {
+          "id": 8369,
+          "type": "watering",
+          "description": "Black Wattle needs to be watered weekly to ensure the soil does not dry out completely. Water deeply, so that the water penetrates deeply into the soil. This can be done in the morning or late afternoon, as long as it is done consistently. Allow the area around the plant to dry out a little between waterings. Keep the soil evenly moist but not soggy, as black wattle is not tolerant of standing water and can quickly develop root rot."
+        },
+        {
+          "id": 8370,
+          "type": "sunlight",
+          "description": "Black wattle (Callicoma serratifolia) is a small tree that thrives in full sun and humid climates. It should be planted in a sunny location with well-draining soil and receives at least 6-8 hours of direct sunlight each day. Additionally, Black wattle grows well in temperatures ranging from 13°C to 35°C and requires high humidity to remain healthy. It should be protected from cold temperatures and direct wind exposure during the winter months."
+        },
+        {
+          "id": 8371,
+          "type": "pruning",
+          "description": "Black Wattle should be pruned once a year in late spring or early summer. Pruning should be done when the tree is still young to encourage the development of strong structure and long branches. Pruning should involve removal of any weak or diseased wood, and removing branches that are crossing or growing too close together. In addition, remove any branches that are not necessary to the overall shape of the tree. Pruning should only remove as much as necessary, aiming to maintain a pleasing, natural shape. It is best to remove no more than 1-third of the existing canopy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

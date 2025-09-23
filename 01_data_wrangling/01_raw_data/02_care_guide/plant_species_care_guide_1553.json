@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2782,
+      "species_id": 1553,
+      "common_name": "bellflower",
+      "scientific_name": [
+        "Campanula kemulariae"
+      ],
+      "section": [
+        {
+          "id": 8552,
+          "type": "watering",
+          "description": "Bellflower (Campanula kemulariae) is a beautiful plant species that does best when given adequate water. Water the bellflower when the soil is slightly dry, but not completely dry. This will generally be about once a week when temperatures are warm. If the weather is particularly hot, water the bellflower twice a week. In cooler climates, water the bellflower every 10-14 days. When watering, be sure to saturate the soil so that the water is able to reach the roots. Allow the excess water to drain from the container, and do not overwater."
+        },
+        {
+          "id": 8553,
+          "type": "sunlight",
+          "description": "Bellflower (Campanula kemulariae) thrives best in full sun at least 6 to 8 hours a day. This plant species also prefers cooler temperatures during the day, so during the hottest summer months it is best to provide some shade in order to protect the foliage from being burnt by the extreme temperatures. To ensure optimal growth, it is important to maintain consistent temperatures and provide adequate light for the bellflower during the year."
+        },
+        {
+          "id": 8554,
+          "type": "pruning",
+          "description": "Bellflower should be pruned in late spring, just after bloom, to ensure lots of blooms in the coming season. Cut off the dead flower stalks at the base, or just above, a leaf or leaf node. Pinch each stem lightly back just after flowering as well. This will cause branching and more compact growth, as well as encouraging additional buds and blooms. If a bellflower stem becomes hard and woody, it should be pruned all the way down to the ground. If the plant shows signs of legginess, reduce some of the taller stems to the height of the bush. Bellflowers will benefit from an annual pruning to keep them healthy and blooming."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

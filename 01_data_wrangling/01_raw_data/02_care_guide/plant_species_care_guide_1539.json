@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2768,
+      "species_id": 1539,
+      "common_name": "tea",
+      "scientific_name": [
+        "Camellia sinensis"
+      ],
+      "section": [
+        {
+          "id": 8510,
+          "type": "watering",
+          "description": "Tea plants should be watered deeply every week or 2, depending on the season. During the growing season (March-November in most climates), water thoroughly once a week with 1-2 inches of water, depending on the weather and soil. During the winter season (November-March), water every 2 weeks or less often. Test the soil before watering and do not water if it’s wet. In summer, tea plants may need more frequent watering during hot, dry spells. Avoid overhead watering, as the leaves of tea plants may be susceptible to sunburn."
+        },
+        {
+          "id": 8511,
+          "type": "sunlight",
+          "description": "Tea plants require full sun in order to grow and produce their leaves. Tea plants thrive best in locations that experience at least 6–8 hours of direct sunlight daily during the growing season. For optimal growth and production, more ideal climates may need up to 10 hours of sunlight per day. Tea plants are also sensitive climate–wise and may corrode if the temperature drops below -4°C or if temperatures remain consistently cold."
+        },
+        {
+          "id": 8512,
+          "type": "pruning",
+          "description": "Pruning tea plants (Camellia sinensis) is an important step in maintaining their health and promoting optimal yields. Pruning should be done on an annual basis, preferably in late winter or early spring, before the new flush of growth begins. Tea bushes should be vigorously pruned, taking away the older, less productive branches and leaving only the strong, woody ones with many buds. Major pruning should be done every 2 to 3 years, while smaller, lighter pruning can be done more often. Pruning should also be done at harvest time to remove any spent flowers and foliage. For optimal yields, keep tea plant canopy height even and trim away any overgrown or dying branches to maintain good air circulation throughout the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2759,
+      "species_id": 1530,
+      "common_name": "camellia",
+      "scientific_name": [
+        "Camellia japonica 'April Rose'"
+      ],
+      "section": [
+        {
+          "id": 8483,
+          "type": "watering",
+          "description": "Camellia (Camellia japonica 'April Rose') should be watered every 7-10 days, depending on the weather. Generally, aim at providing each plant with 1/4 gallon to 1 gallon of water at each watering. During the cooler months, water less often but ensure the soil is evenly saturated when watered. During the warmer months, water as often as needed to keep the soil evenly moist. When the weather is especially hot, it is important to check the soil more often to ensure the roots are not drying out. When the temperatures begin to cool down, reduce the watering frequency accordingly. With proper watering and attention to its environment, camellias (Camellia japonica 'April Rose') can thrive."
+        },
+        {
+          "id": 8484,
+          "type": "sunlight",
+          "description": "Camellia japonica 'April Rose' is a popular plant species which prefers full sunlight and should receive a minimum of 4 hours per day. However, depending on where in the world it is planted, the intensity of sunlight during these hours can vary greatly. If planted in an area with higher UV index, the plant should be given less intense sunlight for a longer duration. In those areas, 6 to 8 hours of sunlight, but with softer intensities, should be given to optimize the growth and overall health of the plant.\n\nWhen planting in cooler climates with less sunlight, the 'April Rose' should receive direct sun throughout the day with a minimum of 4 hours per day, or should enjoy a warm, bright spot in a sunny window. Exposure to bright sunlight stimulates flowering, deepens the color of blooms, and encourages plant growth. Too little sunlight may result in fewer blooms and leaves that are lighter in color, so it is important to ensure that the plant is getting enough sunlight on a daily basis."
+        },
+        {
+          "id": 8485,
+          "type": "pruning",
+          "description": "The best time to prune Camellia japonica ‘April Rose’ is in late winter or early spring, just before new growth emerges. This will prevent the plant from losing too many flowers next season and, depending on how much pruning you do in 1 session, will help to maintain its desired shape. Generally, it’s best to prune to maintain the shape of the plant, and remove dead or diseased branches as necessary. It's also important to avoid pruning too deeply into green wood as this can cause some damage. The amount of pruning that’s needed depends on the shape of the plant and on personal preference. In general, it’s best to remove no more than 1-third of the total plant material in any 1 pruning session."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

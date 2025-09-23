@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2765,
+      "species_id": 1536,
+      "common_name": "camellia",
+      "scientific_name": [
+        "Camellia reticulata 'Dataohung' CRIMSON ROBE"
+      ],
+      "section": [
+        {
+          "id": 8501,
+          "type": "watering",
+          "description": "Camellia reticulata 'Dataohung' CRIMSON ROBE is a low to medium water-use plant. To ensure that this plant remains in its best condition, water it regularly and deeply. It requires an average of 1.2 inches (3 cm) of water each week, depending on the local weather conditions. It’s best to water your Camellia reticulata 'Dataohung' CRIMSON ROBE plants at the base of the plant, or ideally deeper if possible. Water early in the morning, when the water is able to reach the roots without evaporating in the sun. Avoid wetting the foliage as much as possible, as this can encourage fungal diseases. This plant may not need to be watered as often in cooler months."
+        },
+        {
+          "id": 8502,
+          "type": "sunlight",
+          "description": "Camellia reticulata ‘Dataohung' CRIMSON ROBE is best grown in full sun to partial shade. Ideally, it should receive around 6-8 hours of direct sunlight each day, with some afternoon shade if needed. This species does best with morning sun and afternoon shade, especially in hot climates. During the flowering season, Camellia reticulata ‘Dataohung’ CRIMSON ROBE can tolerate full sun, though it may need some protection if temperatures get too high. When temperatures stay near or below 80°F (27°C), direct sunlight should not be an issue. In cold climates, however, Camellia reticulata ‘Dataohung’ CRIMSON ROBE can tolerate full sun if temperatures stay below freezing for only a short time."
+        },
+        {
+          "id": 8503,
+          "type": "pruning",
+          "description": "Camellia reticulata 'Dataohung' CRIMSON ROBE should be pruned lightly twice a year. Pruning in late spring (right after the bloom cycle is finished) and in late summer (just before the new buds form) is best for this plant species. This helps to maintain its size, as well as encourage healthy new growth. Be sure to not overprune Camellia reticulata 'Dataohung' CRIMSON ROBE. Remove no more than 1/4 of the plant's total growth in each pruning session. This will help keep it healthy and vigorous."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

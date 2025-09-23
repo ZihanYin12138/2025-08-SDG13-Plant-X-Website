@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2773,
+      "species_id": 1544,
+      "common_name": "bellflower",
+      "scientific_name": [
+        "Campanula collina"
+      ],
+      "section": [
+        {
+          "id": 8525,
+          "type": "watering",
+          "description": "Bellflower should be watered about once a week during the growing season (spring and summer). Water until the soil is moist, allowing the first few inches of soil to dry out before providing more water. This will prevent the plant from becoming waterlogged and encourage root growth. Avoid over-watering, as this can lead to root rot and make the plant more susceptible to other diseases. In winter, water much less frequently, allowing the soil to dry out completely in between waterings."
+        },
+        {
+          "id": 8526,
+          "type": "sunlight",
+          "description": "Bellflower (Campanulacollina) prefers to grow in locations that receive full sun for at least 6 to 8 hours per day, and partial shade for the remaining daylight hours. It does not tolerate full shade as it needs direct sunlight for maximum blooming. During its growing season, which lasts from early spring to late autumn, bellflower needs sun for at least 6 to 8 hours a day. For optimum flowering, it should receive 5 to 6 hours of direct sunlight per day. Although bellflower can survive in dry and hot conditions during summer, it is best to give it some light shade from noon until afternoon, as its foliage can easily dry out during the day."
+        },
+        {
+          "id": 8527,
+          "type": "pruning",
+          "description": "Bellflowers may be pruned annually in early spring before the new growth appears. Remove any dead or diseased branches and then shape as desired. For a bushier, fuller plant, prune 1/3 of the old, woody stems and thin out overly crowded areas to promote new growth. Remove any spent flower stems. Pruning can be done lightly throughout the growing season as needed to keep an attractive shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

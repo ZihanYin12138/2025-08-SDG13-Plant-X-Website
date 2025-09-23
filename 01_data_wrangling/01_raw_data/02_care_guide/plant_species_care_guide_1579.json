@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2808,
+      "species_id": 1579,
+      "common_name": "Chinese trumpet creeper",
+      "scientific_name": [
+        "Campsis grandiflora"
+      ],
+      "section": [
+        {
+          "id": 8630,
+          "type": "watering",
+          "description": "Chinese trumpet creeper prefers moist soil, so water regularly to keep soil evenly moist. During the growing season, water once or twice a week, making sure the soil is thoroughly saturated. In more arid climates, the plants may require more frequent watering. During the dormant period in winter, water sparingly, allowing the upper 2 inches of the soil to dry out before rewatering. Deep watering once a week should be sufficient to keep the plant healthy."
+        },
+        {
+          "id": 8631,
+          "type": "sunlight",
+          "description": "Chinese trumpet creeper prefers to grow in full sun or partial shade. It needs at least 6 hours of direct sunlight daily for optimum flowering. It is best to place the plant in a location that gets morning sun and afternoon shade. During the winter, some afternoon sun is beneficial, especially when temperatures are mild."
+        },
+        {
+          "id": 8632,
+          "type": "pruning",
+          "description": "For Chinese trumpet creeper, it is recommended to prune it back to about 2-3ft in the late winter or very early spring. This will help to ensure that it blooms more vigorously and will also help to maintain the desired size and shape of the plant. Pruning can also be done in the summer months, where selective pruning of dead, diseased or damaged growth can remove deadwood and promote healthy new shoots. It is also helpful to remove any downward facing branches, as these can block sunlight to the interior of the plant. All of this can help encourage the plant to maintain a neat and tidy shape and encourages larger bloom clusters come summer."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

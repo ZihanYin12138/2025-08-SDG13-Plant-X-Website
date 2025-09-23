@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2791,
+      "species_id": 1562,
+      "common_name": "willow bell",
+      "scientific_name": [
+        "Campanula persicifolia 'Telham Beauty'"
+      ],
+      "section": [
+        {
+          "id": 8579,
+          "type": "watering",
+          "description": "Willow bell plants should be watered deeply and thoroughly, about once a week. This should be done in the morning before the temperature starts to rise, so that the soil has time to dry out during the day. If the temperature is very hot, you may need to water more often. Water at the base of the plant, avoiding the foliage, and make sure the soil is soaked. Check the soil near the base of the plant to ensure that your Willow bell is getting enough moisture."
+        },
+        {
+          "id": 8580,
+          "type": "sunlight",
+          "description": "Willow bell (Campanula persicifolia 'Telham Beauty') is a versatile wildflower with wide-spreading, deep-purple bell-like flowers blooming from early summer to late spring. This plant species requires at least 6 hours of sun per day, ideally direct sunlight in the morning with some shade in the afternoon. It will also tolerate partial shade throughout the day and will still produce abundant blooms. The sunnier the site, the more prolific the flowers and the longer they will last. Additionally, some shelter from strong winds may be beneficial as well."
+        },
+        {
+          "id": 8581,
+          "type": "pruning",
+          "description": "Willow bells (Campanula persicifolia 'Telham Beauty') can be pruned in the late winter or very early spring. Pruning in late winter or early spring will encourage healthy buds to form and new growth when the spring temperatures warm up. During pruning, remove any stems that are weak, damaged, or dead. Cut back the flowers and foliage to about 4-6 inches above the base of the bush. Try to keep the bush's natural shape as much as possible. Pruning is especially important to maintain a full and balanced shape so that the plant does not become too thick and overwhelming. Finally, if you desire a more compact shape, pinch off the tips of every stem or branch by pinching with your fingers or using a pair of pruning shears."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

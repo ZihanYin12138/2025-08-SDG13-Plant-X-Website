@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2767,
+      "species_id": 1538,
+      "common_name": "camellia",
+      "scientific_name": [
+        "Camellia sasanqua"
+      ],
+      "section": [
+        {
+          "id": 8507,
+          "type": "watering",
+          "description": "Camellia sasanqua requires regular watering during the summer months. Generally, this plant should be watered every 1 to 2 weeks for optimal growth. In warmer climates, it may need extra water during the warmer months, but it should not be watered every day.\n\nIn cooler temperatures, Camellia sasanqua should be watered once every 2 to 3 weeks. During this time, the soil should be kept moist, but not soggy. If the soil is dry approximately 1 inch below the surface, it’s time to water.\n\nIn periods of extreme heat, Camellia sasanqua needs to be watered more frequently to ensure proper hydration and to prevent burning of the foliage. During these times, you should water the plant every week to ensure proper hydration.\n\nIn the winter, Camellia sasanqua does not need as much water, and can even tolerate some dry conditions. The soil should be kept on the dry side, and only watered when you can feel a slight amount of moisture in the soil. In general, you should be watering only once every 2-3 weeks during cool months."
+        },
+        {
+          "id": 8508,
+          "type": "sunlight",
+          "description": "Camellia sasanqua requires at least 6 hours of direct sunlight in order to thrive. During the warmer months, it may require up to 8 hours of direct sunlight. During the spring and fall seasons, the plant will also benefit from some afternoon shade or filtered sunlight. In the colder months Camellia sasanqua will not need as much sunlight and will generally do just fine with 4-5 hours of sunlight each day. This range of sunlight can also help to protect the plant in the winter from frost."
+        },
+        {
+          "id": 8509,
+          "type": "pruning",
+          "description": "Camellia sasanqua should be pruned twice a year, once in the spring and once in the fall. In the spring, pruning should be light, removing dead or damaged branches, and just a few of the oldest branches. In the fall, pruning should be heavier, removing up to 1-third of the oldest branches. When pruning, always use sharp pruning sheers and make cuts just above a leaf node. Succulent shoots should be removed to maintain the size and shape of the Camellia sasanqua."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

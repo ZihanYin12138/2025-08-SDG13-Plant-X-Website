@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2727,
+      "species_id": 1497,
+      "common_name": "clustered poppy mallow",
+      "scientific_name": [
+        "Callirhoe triangulata"
+      ],
+      "section": [
+        {
+          "id": 8387,
+          "type": "watering",
+          "description": "Clustered poppy mallow plants need to be watered whenever the soil feels dry. This usually ranges from about once a week to once every 3 weeks depending on the amount of light and warmth the plant is getting. The best way to water it is to soak the soil thoroughly and then wait until it's dry before watering again. Over-watering can cause the roots to rot, so it's important to not over-water. Generally, a good rule of thumb for watering is to provide 1-1.5 inches of water each time it is watered."
+        },
+        {
+          "id": 8388,
+          "type": "sunlight",
+          "description": "Clustered poppy mallow plants thrive in full sunlight throughout the day. For optimal health and growth, they should receive at least 4-6 hours of direct sunlight every day. During the summer months, the sun is intense and clustered poppy mallow should be placed in a slightly shady spot to protect them from scorching. In cooler months, however, the plants can be placed in a sunnier area to help them grow. Additionally, the clustered poppy mallow should be rotated every few weeks throughout the growing season to ensure they receive light evenly all around their stems."
+        },
+        {
+          "id": 8389,
+          "type": "pruning",
+          "description": "Clustered poppy mallow should be pruned in late winter or early spring, just before or as new growth begins. It is best to prune back old, woody growth by about 1-third to 1-half the plant size to encourage fresh, new growth. If pruning is needed throughout the season, it is best to selectively remove individual flower stems to encourage re-bloom. Pruning of clustered poppy mallow in late summer may damage flower buds."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

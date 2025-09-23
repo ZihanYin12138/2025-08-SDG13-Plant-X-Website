@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2807,
+      "species_id": 1578,
+      "common_name": "nettle-leaved bellflower",
+      "scientific_name": [
+        "Campanula trachelium"
+      ],
+      "section": [
+        {
+          "id": 8627,
+          "type": "watering",
+          "description": "Nettle-leaved bellflower should be watered frequently with small amounts of water rather than large infrequent waterings. Water about once a week when soil is dry to the touch, making sure not to soak the root system. If water is left to stand on the foliage or buds for long periods, it can cause fungus issues. During the flowering and fruiting period, water more regularly, making sure that the soil does not dry out completely between waterings. Too little water will cause the leaves to turn yellow and the plant to flower, and possibly fruit, poorly."
+        },
+        {
+          "id": 8628,
+          "type": "sunlight",
+          "description": "Nettle-leaved bellflower (Campanula trachelium) is a herbaceous perennial that prefers sunny positions, roughly 6-8 hours of direct sunlight every day. Sunlight is essential for the plant to perform biological functions, such as photosynthesis, necessary for growth. Sunlight also helps the plants to produce flowers; without adequate sunlight, the flowering period will be reduced and the flowers may be fewer. In climates with long summer days, nettle-leaved bellflower may be able to grow and flower without any shade. For climates with shorter days and cooler summers, a light amount of shade during the heat of the day may be beneficial for growth and flowering."
+        },
+        {
+          "id": 8629,
+          "type": "pruning",
+          "description": "Nettle-leaved bellflower should be pruned in early spring before new growth begins. Pruning should not be excessive and should focus on removing dead or diseased growth, as well as deadheading any faded flowers. Pruning in this way will help promote healthy and vigorous new growth. Depending on the growth habits of the plant, pruning can be done annually or biennially."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

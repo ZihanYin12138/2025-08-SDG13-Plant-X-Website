@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2760,
+      "species_id": 1531,
+      "common_name": "camellia",
+      "scientific_name": [
+        "Camellia japonica 'April Snow'"
+      ],
+      "section": [
+        {
+          "id": 8486,
+          "type": "watering",
+          "description": "Camellias should be watered regularly and evenly. This species in particular (Camellia japonica 'April Snow') do not need to be watered more than once a week during the growing season. During the winter, watering should be reduced to once every 2 weeks. It's important to monitor the soil to ensure it remains moist yet not overly wet, as overly wet soil can cause root rot. You should water until the soil is saturated, and then wait until the top inch or so of soil is slightly dried out before our next watering."
+        },
+        {
+          "id": 8487,
+          "type": "sunlight",
+          "description": "Camellia japonica 'April Snow' plants prefer partial to full sun with as many as 6 hours per day. Morning sun is preferable, as it helps the leaves to dry off after night time dew to reduce the risk of fungal disease. The largest and most prolific blooms occur when the plant receives maximum sunlight; however, providing too much sunlight can damage the leaves. This type of camellia will tolerate some shade, but not full shade, so it's best to provide them with some sun exposure to prevent stunted growth."
+        },
+        {
+          "id": 8488,
+          "type": "pruning",
+          "description": "Camellia (Camellia japonica 'April Snow' is best pruned during the late winter season, after it has bloomed and before buds have started to form for the next season. Pruning of Camellia should be done lightly and judiciously. To maintain a natural shape, remove only quickly growing branches, and occasionally lightly thin the plant overall. To thin the plant, select 1 or 2 stems at a time to cut back to an outward facing bud. Avoid pruning branches larger than a pencil in diameter. Thanks to its broad range of cultivars, Camellia can take on a wide variety of shapes and sizes. To ensure these shapes are maintained, pruning should be done each year as needed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2811,
+      "species_id": 1582,
+      "common_name": "trumpetcreeper",
+      "scientific_name": [
+        "Campsis radicans 'Apricot'"
+      ],
+      "section": [
+        {
+          "id": 8639,
+          "type": "watering",
+          "description": "Trumpetcreeper (Campsis radicans \"Apricot\") is a hardy, woody, and drought tolerant vine that should be watered when the soil around it is dry or slightly moist to the touch. This species prefers full sun and well-drained, nutrient-rich soil, so you should water the plant regularly in dry periods. During the spring and summer months, when the plant is actively growing, you should provide enough water to keep the soil around the roots slightly moist but not soggy; doing so will help the plant thrive. In the fall and winter, you should cut back on watering slightly, allowing the soil to almost dry out before re-watering. Additionally, supplemental irrigation in the summer months can help the plant cope with the heat and drought conditions."
+        },
+        {
+          "id": 8640,
+          "type": "sunlight",
+          "description": "Trumpet Creeper (Campsis radicans 'Apricot') can grow best when given full sun. This plant will do best in an area with 5 to 6 hours of direct sunlight each day. It can tolerate some afternoon shade, but this species needs at least 4 to 5 hours of full sun in order to thrive. Too little sunlight will result in poor flower production and sparse foliage."
+        },
+        {
+          "id": 8641,
+          "type": "pruning",
+          "description": "The apricot Trumpet Creeper (Campsis radicans 'Apricot') typically requires minimal pruning. Plant pruning should be done in the late winter or early spring, before it blooms. During this pruning, gently remove any dead or damaged stems and branches. To encourage more blooms, selectively prune 1-third of the oldest, thickest branches closest to the ground. For plants that have become overgrown, prune them hard, removing about 1 third of the stems to promote better health and air circulation. Discard all clippings."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

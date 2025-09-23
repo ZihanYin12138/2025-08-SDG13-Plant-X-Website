@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2762,
+      "species_id": 1533,
+      "common_name": "camellia",
+      "scientific_name": [
+        "Camellia japonica 'Korean Fire'"
+      ],
+      "section": [
+        {
+          "id": 8492,
+          "type": "watering",
+          "description": "Camellia japonica 'Korean Fire' should be watered on a regular basis but not overly so. Water thoroughly when the soil has nearly dried out completely - generally once every week to 10 days will be sufficient. Make sure to avoid over-watering as this can easily lead to root rot and other issues. In wintertime, decrease the watering frequency to once every 2 weeks, while during the summer, water slightly more if needed. The soil should not be soggy but moist instead. You can assess the water needs of the plant by poking your finger into the soil up to 1 inch deep; if the soil is dry at this depth, it's time to water."
+        },
+        {
+          "id": 8493,
+          "type": "sunlight",
+          "description": "Camellia japonica 'Korean Fire' is a plant species that prefers bright, indirect sunlight in order to thrive. It should be positioned in a well-lit spot that receives several hours of indirect light a day such as near an east-facing window or filtered sunlight through a sheer curtain. During the summer months, it needs between 4 and 5 hours of sunlight a day, while in the winter months it can get away with 2 to 3 hours a day. Avoid direct, strong sunlight as this can scorch the leaves of the plant and cause damage."
+        },
+        {
+          "id": 8494,
+          "type": "pruning",
+          "description": "When pruning Camellia japonica 'Korean Fire', the goal should be to maintain the desired shape of the plant as well as removing any dead, diseased, crossing, or excessively long branches. Generally, Camellias respond well to pruning and can handle up to a third of their total branches being removed without any problem. Although it may not be necessary to prune Camellia japonica 'Korean Fire' every year, it is best to prune as soon as possible after the flowering season, usually in late spring or early summer."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

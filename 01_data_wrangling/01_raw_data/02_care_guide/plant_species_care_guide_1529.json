@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2758,
+      "species_id": 1529,
+      "common_name": "camellia",
+      "scientific_name": [
+        "Camellia japonica 'April Dawn'"
+      ],
+      "section": [
+        {
+          "id": 8480,
+          "type": "watering",
+          "description": "Camellia japonica 'April Dawn' should be watered regularly, about twice a week. Water the plant deeply so that it penetrates the roots. Keep the soil moist but not wet. If the temperature is above 72 degrees, you may need to water more often, up to 3 times a week. During the hot months, water the plant more often. Check the soil moisture before watering to ensure it is not too wet or too dry. During winter months, water less frequently. Allow the soil to dry out between waterings and reduce the amount of water used for each application."
+        },
+        {
+          "id": 8481,
+          "type": "sunlight",
+          "description": "Camellia japonica 'April Dawn' is a shade loving plant and will thrive in partial shade with indirect light from the sun. This variety of camellia will do best with 3-4 hours of sunlight each day in the early morning or late afternoon, and should ideally be kept out of direct sun at midday when light intensity is highest and temperature the warmest."
+        },
+        {
+          "id": 8482,
+          "type": "pruning",
+          "description": "Camellia (Camellia japonica 'April Dawn') should be pruned once per year, preferably in late winter or early spring. Pruning should be light and only done when necessary to remove bulky plants or crowding branches. Prune back long shoots to create a rounded canopy, and cutting back the overall height of the bush if desired. Remove dead, diseased, crossing or damaged branches and old flowers. For best bloom, do not prune any later than spring, as bud and flower initiation occurs in the late summer of the previous year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

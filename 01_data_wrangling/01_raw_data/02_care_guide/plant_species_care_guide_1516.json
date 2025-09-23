@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2746,
+      "species_id": 1516,
+      "common_name": "Carolina allspice",
+      "scientific_name": [
+        "Calycanthus raulstonii 'Hartlage Wine'"
+      ],
+      "section": [
+        {
+          "id": 8444,
+          "type": "watering",
+          "description": "The Carolina allspice should be watered every 1-2 weeks, depending on the weather. If the weather is warm, or if the soil appears to be dry, you should increase the frequency of your watering. On average, you should provide between 1 and 2 inches of water per session. It is important to check the soil moisture before each watering to avoid overwatering. The soil should remain slightly moist but not soggy as overwatering can damage the plant. Water the Carolina allspice until you begin to see water draining from the drainage holes located in the pot. If the pot does not have any drainage holes, reduce the amount of water and avoid soaking the soil to prevent root rot."
+        },
+        {
+          "id": 8445,
+          "type": "sunlight",
+          "description": "Carolina allspice (Calycanthus raulstonii 'Hartlage Wine') grows best in full-sun to partial-shade locations. It prefers at least 6 hours of direct sun each day, and will thrive when given full sun all day long. For best health and blooming potential, this plant should be placed in a sunny spot, with a little afternoon shade if temperatures are extreme. In areas with extremely hot summers, it is best to keep it in a sheltered location and provide some afternoon shade to avoid sunscald."
+        },
+        {
+          "id": 8446,
+          "type": "pruning",
+          "description": "Carolina allspice (Calycanthus raulstonii ‘Hartlage Wine’) should generally be pruned in late winter to early spring (late February to mid-March). This plant does not require much pruning, and it may be better off with only minimal pruning – so it is important to give careful consideration before pruning. Dead, diseased, or damaged branches should be removed at any time, as this will help promote healthier growth. The goal of pruning should be to maintain natural form while controlling the size and density of the plant. Light pruning is recommended to thin out congested or overlapping branches, as well as to remove some of the older wood. This should result in a denser, more evenly distributed canopy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

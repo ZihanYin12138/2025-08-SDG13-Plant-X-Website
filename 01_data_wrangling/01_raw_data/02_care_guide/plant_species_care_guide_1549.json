@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2778,
+      "species_id": 1549,
+      "common_name": "clustered bellflower",
+      "scientific_name": [
+        "Campanula glomerata 'Church Bells'"
+      ],
+      "section": [
+        {
+          "id": 8540,
+          "type": "watering",
+          "description": "Clustered bellflower (Campanula glomerata 'Church Bells') should be watered once every 7 to 10 days during the growing season. During the summer, the soil should be kept slightly moist, while in the winter, the soil should be allowed to dry out slightly between waterings. Be sure to water all the way to the bottom of the soil and ensure no water pools on the surface. For best results, use a moisture meter to determine when the plant is short of water, and water thoroughly when needed."
+        },
+        {
+          "id": 8541,
+          "type": "sunlight",
+          "description": "Clustered bellflower (Campanula glomerata 'Church Bells') grows best in full to half sun. Ideally, the plant should be exposed to approximately 4-6 hours of sun each day during the growing season. This is especially important during the hottest days of mid-summer when a bit of extra shade can help the flowering stems from wilting. In colder climates, some afternoon shade helps to protect the plants from frost."
+        },
+        {
+          "id": 8542,
+          "type": "pruning",
+          "description": "Clustered bellflower can be pruned twice a year. The first pruning should be done after flowering, in late spring. This will help remove the spent flowering stems and will keep the plant tidy. The second pruning should occur in fall, removing any old or congested stems. Both prunings should be done lightly, with a pair of clean scissors or sharp pruners, removing no more than 1/3 of the total stems each time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2809,
+      "species_id": 1580,
+      "common_name": "Chinese trumpet creeper",
+      "scientific_name": [
+        "Campsis grandiflora 'Morning Calm'"
+      ],
+      "section": [
+        {
+          "id": 8633,
+          "type": "watering",
+          "description": "Chinese trumpet creeper requires frequent watering, especially during the summer months. It should be watered at least once a week, allowing the top 2 inches of soil to dry out slightly between watering sessions. During periods of intense heat, it may require more frequent watering--up to twice a week. Ensure you provide adequate water at the base of the plant and not along its leaves as this can lead to disease formation. It should be watered deeply and slowly, and never watered to the point of soil saturation or standing water. In the winter months, Chinese trumpet creeper may only need to be watered every 2-3 weeks as the cooler temperatures cause the plant to become dormant."
+        },
+        {
+          "id": 8634,
+          "type": "sunlight",
+          "description": "Chinese trumpet creeper requires full sun for best growth. It should receive at least 6 hours of direct sunlight per day when planted outdoors. In warmer climates, exposure to afternoon sun is beneficial, while in cooler climates it is preferable to give the plant a more shaded area in the afternoon. If planted indoors, the plant should receive the brightest light available and must be placed near a window that receives plenty of light."
+        },
+        {
+          "id": 8635,
+          "type": "pruning",
+          "description": "Chinese trumpet creeper can be pruned in late winter or early spring. Pruning should be kept to a minimum to avoid adversely affecting flower production.Shoots should be pruned back to lateral buds or leaves that show signs of new growth. Avoid pruning too severely and don't leave any single branches too short. Pruning at the wrong time can significantly reduce the number of blooms the vine will produce."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

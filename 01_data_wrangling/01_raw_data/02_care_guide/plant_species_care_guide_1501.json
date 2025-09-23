@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2731,
+      "species_id": 1501,
+      "common_name": "stiff bottlebrush",
+      "scientific_name": [
+        "Callistemon rigidus"
+      ],
+      "section": [
+        {
+          "id": 8399,
+          "type": "watering",
+          "description": "Stiff bottlebrush (Callistemon rigidus) plants should be watered when the soil is dry to the touch. Water thoroughly each time, ensuring that the entire root system is saturated. Allow the soil to dry out between watering, and avoid over-watering. During the growing season (spring and summer), water as often as once a week; apply enough water to keep the top soil from drying out completely for approximately 7-10 days. During cooler months, water every 2 weeks."
+        },
+        {
+          "id": 8400,
+          "type": "sunlight",
+          "description": "Stiff bottlebrush (Callistemon rigidus) will do best in full sun or at least 6 hours of sunlight per day. The hottest part of the day optimizes flowering. This plant also benefits from some afternoon shade in areas with very hot summers. The morning sun helps the plant dry out after rainfall, which helps to prevent fungal diseases from forming. Planting the stiff bottlebrush in sun or partial shade is recommended in areas with hot and dry climates."
+        },
+        {
+          "id": 8401,
+          "type": "pruning",
+          "description": "Stiff bottlebrush (Callistemon rigidus) is a dense, woody shrub that typically reaches up to 2 meters in height and width. Pruning this species is beneficial for keeping its shape and size. It is recommended to do a light pruning in late winter, just before growth starts. Pruning should be done before new shoots develop and flower buds begin to form. Remove any dead, diseased or broken branches and shape the tree into desired form. Heavy pruning could also be performed in late winter and early spring. However, it is suggested to prune only 20% of the plant during heavy pruning."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

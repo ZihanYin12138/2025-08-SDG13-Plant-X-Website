@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2749,
+      "species_id": 1519,
+      "common_name": "shrubby evening primrose",
+      "scientific_name": [
+        "Calylophus serrulatus"
+      ],
+      "section": [
+        {
+          "id": 8453,
+          "type": "watering",
+          "description": "Water shrubby evening primrose plants moderately but deeply throughout the growing season, about once a week if rainfall is lacking. Water the plants in the early morning so that the leaves can dry out throughout the day. Ensure that the soil is kept moist, but not soggy, to avoid root rot. During the summer months, watch the plants for any signs of wilting and water when needed. In the fall and winter months, reduce the amount of watering as the plant begins to go dormant."
+        },
+        {
+          "id": 8454,
+          "type": "sunlight",
+          "description": "Shrubby evening primrose is a sun-loving plant species, and it thrives best in full, direct sunlight. During the day, it should receive 6-8 hours of sunlight, and more is better in areas with truly hot summers. The plant should be shielded from the hot afternoon sun in areas with extreme summer temperatures. In areas with milder summers, enjoy the beauty of evening primrose with long days of full sun and partial shade in the afternoon."
+        },
+        {
+          "id": 8455,
+          "type": "pruning",
+          "description": "The shrubby evening primrose (Calylophus serrulatus) is best pruned right after it has finished blooming, usually in the late spring or early summer. You should remove any dead or dying flower stems and any thin or spindly branches from the plant. To maintain the shrub's shape, you can also prune back the branches to desired size and shape. You may want to lightly prune older plants in the late winter to promote new blooms. However, it is best to avoid pruning any more than necessary in order to maintain the natural beauty of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

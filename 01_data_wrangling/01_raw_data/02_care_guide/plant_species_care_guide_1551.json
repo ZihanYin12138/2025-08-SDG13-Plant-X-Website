@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2780,
+      "species_id": 1551,
+      "common_name": "Odessa bellflower",
+      "scientific_name": [
+        "Campanula glomerata var. dahurica 'Odessa'"
+      ],
+      "section": [
+        {
+          "id": 8546,
+          "type": "watering",
+          "description": "The Odessa bellflower should be watered approximately once a week depending on the season and the soil type. During the summer months, the plant may require more frequent waterings as soil tends to dry out more quickly and the plant is actively growing. During the cooler months, waterings can be spaced out a bit more as the plant growth is slower and the soil tends to remain more moist. When watering, ensure that the soil is moistened but not saturated, as this can lead to root rot. Water at the base of the plant to avoid wetting the leaves, as this can also encourage fungal diseases."
+        },
+        {
+          "id": 8547,
+          "type": "sunlight",
+          "description": "Odessa bellflower prefers full sun to partial shade, meaning it needs at least 6 hours of direct sunlight each day. During the summer months, when the daylight hours are so long, it is best tosite the plants in an area where they will receive morning sun and some shade in the afternoon to protect them from the harsh afternoon rays. In mild winter climates, Odessa bellflower may prefer an area with afternoon sun for the day. In cold winter climates, however, they may need protection from strong sun or even grow best in partial shade."
+        },
+        {
+          "id": 8548,
+          "type": "pruning",
+          "description": "For Odessa bellflower, it is recommended to prune back the stems after blooming is finished. This will help promote additional healthy blooms in the current season. To encourage bushiness, prune stems back to a length of 4 to 8 inches. Pruning during the growing season should be done in late spring or early summer. Additionally, any dead or damaged stems should be removed as soon it is noticed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

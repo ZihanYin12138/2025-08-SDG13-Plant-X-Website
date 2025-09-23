@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2801,
+      "species_id": 1572,
+      "common_name": "bluebell",
+      "scientific_name": [
+        "Campanula rotundifolia 'Olympica'"
+      ],
+      "section": [
+        {
+          "id": 8609,
+          "type": "watering",
+          "description": "Bluebells (Campanula rotundifolia 'Olympica') should be watered once every 7 to 10 days, depending on soil type and time of year. During the summer months, when temperatures and sun are higher, water more frequently. In spring and fall, water less. Make sure soil is consistently moist but not overly saturated. Allow soil to dry out slightly between waterings, and adjust watering accordingly. During hot weather, try to water in the morning."
+        },
+        {
+          "id": 8610,
+          "type": "sunlight",
+          "description": "Bluebells need full sun for at least 6 to 8 hours a day. This species of plant is native to Northern Europe and grows well when it gets direct sun from early morning to mid-afternoon in the summer. During the cooler months, bluebells should receive as much sun as possible in order to thrive. If your bluebells don't get enough sun, their flowers will be pale and few in number."
+        },
+        {
+          "id": 8611,
+          "type": "pruning",
+          "description": "Bluebells should be pruned lightly in late winter or early spring, before or shortly after new growth begins. It is important to prune carefully to remove any dead, diseased or damaged stems but to also leave healthy shoots. Pruning should be done to maintain the desired size and shape of the bush and to remove any overhanging or crossing branches. You can prune off up to a third of the bush each year without damaging it; it's advisable to start with a smaller amount pruning and work your way up if needed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

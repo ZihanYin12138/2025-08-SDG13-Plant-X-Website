@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2783,
+      "species_id": 1554,
+      "common_name": "bellflower",
+      "scientific_name": [
+        "Campanula 'Kent Belle'"
+      ],
+      "section": [
+        {
+          "id": 8555,
+          "type": "watering",
+          "description": "Bellflower (Campanula 'Kent Belle') is a hardy and easy to grow variety of Campanula. It enjoys full sun to partial shade and its ideal watering schedule is a deep soaking every 7-10 days. During the hot summer months, increase the watering frequency to every 5 days or so and make sure the soil around the plant stays moist. Water at the base of the plant and avoid getting the foliage wet. During winter, cut back on watering to every 10-14 days, but never let the soil completely dry out. If the weather is particularly hot or dry, extra watering may be needed."
+        },
+        {
+          "id": 8556,
+          "type": "sunlight",
+          "description": "Bellflower (Campanula 'Kent Belle') does best in full sun, which means it should receive at least 6 hours of direct, unfiltered sunlight each day in order to thrive. This can be achieved either by planting the bellflower in a spot that gets direct sunlight for the majority of the day, or by supplying some supplemental light with a grow light after the sun sets. If the bellflower is placed in an area where it receives dappled shade or filtered sun for most of the day, it will not get enough sunlight and the plant will fail to thrive."
+        },
+        {
+          "id": 8557,
+          "type": "pruning",
+          "description": "Bellflower (Campanula 'Kent Belle') should be pruned annually, preferably in late spring or early summer. Pruning should be done after flowering, as the plant produces flowers on the new growth. Deadheading should be of any flowers that have wilted and falling off the stem. To reduce the size of the plant, lightly prune back up to 1/3 of all stems, cutting to just above a bud eye on the stem. Pruning also helps to maintain an even shape and encourages side shoots and blooms. To encourage an even denser habit, all weakly stems should also be removed as they grow. If flower production drops off, a more thorough pruning can be performed in late summer or autumn. Pinch or prune back the stems to encourage bushy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

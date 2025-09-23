@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2799,
+      "species_id": 1570,
+      "common_name": "rampion",
+      "scientific_name": [
+        "Campanula rapunculus"
+      ],
+      "section": [
+        {
+          "id": 8603,
+          "type": "watering",
+          "description": "When watering your rampion, you should aim to keep its soil constantly moist. During its growing season in the spring and summer, water the rampion twice a week, adding 2-3 inches of water when watering. Don't let the soil become too soggy. During the autumn and winter season, reduce the watering frequency to once a week, but still make sure that the soil stays moist. If the soil looks dry about 1 inch deep, it is time to add some water."
+        },
+        {
+          "id": 8604,
+          "type": "sunlight",
+          "description": "Rampion (Campanula rapunculus) prefers full Sun to light shade positions, meaning it should get 4-6 hours of sunlight a day. While it can tolerate filtered sunlight, direct, midday sun is the best for allowing the plant to achieve its optimum flowering, rather than providing partial shade. This also applies in winter, but remember to protect it from strong and frosty winds."
+        },
+        {
+          "id": 8605,
+          "type": "pruning",
+          "description": "Rampion (Campanula rapunculus) should be pruned in late winter or early spring, just before new growth starts. Pruning should be done when new growth begins, as older growth is less likely to regenerate. Start by removing all of the dead and damaged branches and stems. Cut the stems back to just above a bud or to the desired shape. Additionally, cut back any overly long stems as they can become weak and/or become less visible when in bloom. Finally, prune back any stems that appear to be outgrowing the surrounding ones. As a general rule, it is best to prune no more than a quarter of the healthy stems. Rampion can also be lightly pruned in mid-summer to remove leggy growth or dead flower heads."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2735,
+      "species_id": 1505,
+      "common_name": "Scotch heather",
+      "scientific_name": [
+        "Calluna vulgaris 'Beoley Gold'"
+      ],
+      "section": [
+        {
+          "id": 8411,
+          "type": "watering",
+          "description": "Scotch heather is a hardy, evergreen shrub that requires regular watering, especially during periods of extended hot, dry weather. Watering should be done early in the morning, before the sun is up, when possible. Aim to provide 1-1.5 inches of water per week. In hotter months, you may have to increase the frequency of watering to twice per week. If the soil around the plant is dry and crumbly, add more water. Allow any excess water to drain away. Do not allow the plant to sit in waterlogged soil. Withholding water can also be beneficial to the plant in terms of promoting flowering and encouraging a denser foliage."
+        },
+        {
+          "id": 8412,
+          "type": "sunlight",
+          "description": "Scotch heather (Calluna vulgaris 'Beoley Gold') prefers sunny or partially shaded spots with good air circulation, and benefits from at least 6 hours of sunlight a day. It is tolerant of a range of soil types, but requires fertile, well-drained soils. Morning sun is the best for this species, as too much afternoon sunlight may cause scorching. Placing in a spot with some protection from strong winds is ideal."
+        },
+        {
+          "id": 8413,
+          "type": "pruning",
+          "description": "Scotch Heather (Calluna vulgaris 'Beoley Gold') should be pruned twice a year: once in early spring and once in late summer. In early spring, prune the plant back to about half its size. This allows the new growth to appear in full. In late summer, prune the tips of branches back to help with flowering and to keep the heather in a neat shape. Remove any dead blooms or leaves to promote new growth. Be sure to sterilize your pruning tools with rubbing alcohol or diluted bleach solution before and after each pruning session, which helps to avoid disease spread."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

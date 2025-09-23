@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2771,
+      "species_id": 1542,
+      "common_name": "bellflower",
+      "scientific_name": [
+        "Campanula bononiensis"
+      ],
+      "section": [
+        {
+          "id": 8519,
+          "type": "watering",
+          "description": "Water your bellflower plants regularly during the growing season. Water when the top 1-2 inches of soil becomes dry. You should water your plants deeply, thoroughly saturating the soil to promote healthy root growth. During hot, dry conditions, you may need to water your bellflowers daily. In the winter, when they are dormant, reduce the frequency of watering. When necessary, water enough to keep the soil lightly moist."
+        },
+        {
+          "id": 8520,
+          "type": "sunlight",
+          "description": "Bellflowers should receive 5-6 hours of direct sunlight each day for optimum growth and flowering, usually during the middle of the day when the sun is the strongest. They do well in full sun areas but can also tolerate partial shade, especially during hot summers, when it is best to provide protection from the intense midday sun. While the bells need full sunlight for best growth, avoid too much direct sunlight, as this can cause leaf scorch and faded flower color."
+        },
+        {
+          "id": 8521,
+          "type": "pruning",
+          "description": "When it comes to pruning bellflower (Campanula bononiensis), it should be done judiciously and only on a need-to basis. If the plant is overgrowing its space, then pruning should be done in order to allow for better air circulation and more access to sunlight. \n\nThe best time to prune bellflower is in early spring. This way, the new growth is able to set before the growing season resumes. Prune off any dead or damaged stems as soon as possible, as well as any weak or leggy growth. Also, prune to maintain its shape, to direct its growth, and to ensure it will have a strong and healthy frame. \n\nWhen it comes to how much to prune bellflowers, it's important to leave sufficient foliage for the plant to receive enough light. It’s generally best to remove no more than 1/3 of the total plant matter during pruning. Generally, try to avoid pruning bellflower more than once per year. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

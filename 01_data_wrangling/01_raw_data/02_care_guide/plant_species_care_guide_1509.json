@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2739,
+      "species_id": 1509,
+      "common_name": "giant milkweed",
+      "scientific_name": [
+        "Calotropis gigantea"
+      ],
+      "section": [
+        {
+          "id": 8423,
+          "type": "watering",
+          "description": "Watering for a giant milkweed plant should be done 2-3 times per week with a sprinkle or light shower of water. Make sure the soil is moist but not saturated. In summer months, the plant may need a bit more water. During winter months reduce the watering somewhat, but still maintain a constant level of moisture in the soil. When possible, use a drip irrigation system or soaker hoses to deliver water to the roots of the plant, instead of applying water directly to the leaves."
+        },
+        {
+          "id": 8424,
+          "type": "sunlight",
+          "description": "Giant milkweed (Calotropis gigantea) prefers full or partial sun, usually receiving 5 to 6 hours of direct sunlight each day. When growing in partial shade, the plant tends to be more sparse and leggy. When provided with adequate sunlight, this species produces large, heart-shaped leaves and showy clusters of white and purple flowers. For best growth and flowering, irrigate deeply but infrequently. During the warmer months, water the plant about once or twice a week, although this will depend upon local weather conditions and the type of soil it is planted in."
+        },
+        {
+          "id": 8425,
+          "type": "pruning",
+          "description": "Giant milkweed (Calotropis gigantea) should be pruned at least twice a year. The best time to prune this species of plant is in late spring and late summer. \n\nIn the late spring, prune back dead, damaged, and diseased growth. This will help promote healthy growth and blooming during the summer. This may involve cutting the plant back by up to half its size. \n\nIn the late summer, prune the plant back lightly to promote growth and flowering for the upcoming season. This will involve cutting back up to a quarter of the size. \n\nIt is important to avoid over-pruning this species of milkweed, as it may reduce flowering significantly. When pruning, be sure to use clean, sharp shears or loppers as this will help promote healthy growth and prevent infection."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

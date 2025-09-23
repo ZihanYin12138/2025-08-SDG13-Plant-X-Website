@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2812,
+      "species_id": 1583,
+      "common_name": "trumpetcreeper",
+      "scientific_name": [
+        "Campsis radicans f. flava"
+      ],
+      "section": [
+        {
+          "id": 8642,
+          "type": "watering",
+          "description": "Trumpet Creeper is a drought tolerant plant that typically only requires watering once per week. During the summer months, when temperatures are high, extra water may be needed to keep the soil slightly moist but avoid overwatering. Aim to water the soil lightly but thoroughly, allowing excess water to drain away. During the cooler months, the frequency of watering can be reduced, however avoid letting the plant become too dry. A good rule of thumb is to water the soil when the top 2 inches becomes dry."
+        },
+        {
+          "id": 8643,
+          "type": "sunlight",
+          "description": "Trumpetcreeper plants require full sunlight for optimal growth, which includes 8 to 10 hours of direct sunlight each day. It is important that Trumpetcreeper plants are not exposed to too much shade since they need plenty of sun to flower each year. During the months of May through August when temperatures are usually lower, it is even more important to ensure the plant gets adequate sunlight. If it is not in direct enough sunlight, the foliage may become a dull green instead of the vibrant yellow shades that appear when it is in direct sunlight. It is best to avoid transplanting Trumpetcreepers during the summer months if possible since direct sunlight can cause heat damage."
+        },
+        {
+          "id": 8644,
+          "type": "pruning",
+          "description": "Trumpetcreeper should be pruned in late winter or early spring before new growth begins. Pruning should be done selectively, removing dead, damaged, and crossing branches to promote better air circulation. Prune back shoots to maintain its shape and remove any suckers that are sprouting from the base. This will also keep it from becoming invasive. Take care that only a third of the plant is removed each year, as this helps it to maintain its beautiful flowering quality."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

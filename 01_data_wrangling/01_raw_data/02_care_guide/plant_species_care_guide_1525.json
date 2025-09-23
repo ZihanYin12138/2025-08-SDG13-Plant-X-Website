@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2754,
+      "species_id": 1525,
+      "common_name": "wild hyacinth",
+      "scientific_name": [
+        "Camassia scilloides"
+      ],
+      "section": [
+        {
+          "id": 8468,
+          "type": "watering",
+          "description": "Wild hyacinth requires moist soil during the warm summer months, and it should be watered deeply. It is essential that the soil doesn't dry out too much, so ensure regular watering. A general rule of thumb is to water thoroughly on a weekly basis, but check the soil moisture to determine how often you should water. This will depend on the weather conditions and how much the soil has dried out. During hot and dry weather, wild hyacinth may need to be watered twice a week."
+        },
+        {
+          "id": 8469,
+          "type": "sunlight",
+          "description": "Wild hyacinth is best grown in an area with full sun, ideally 8-10 hours of sunlight a day. It can tolerate some partial shade, but full sun will help produce the best blooms. It prefers moist, well-drained soil, and will bloom from late spring to mid-summer. With its preference for full sun and well-drained soil, wild hyacinth is an ideal choice for gardens with hot and dry climates."
+        },
+        {
+          "id": 8470,
+          "type": "pruning",
+          "description": "Wild hyacinth can be pruned in late winter or early spring before it begins to bloom. Pruning should be minimal, as wild hyacinth does not require extensive pruning. By removing any dead or discolored leaves, and gently removing faded flowers, it helps to maintain a fresh, tidy look in the garden. It is also important to prune off any fruited stems, by cutting them back to a junction with a healthy stem. Doing so prevents the plant from expending too much energy, ensuring the best bloom the following season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

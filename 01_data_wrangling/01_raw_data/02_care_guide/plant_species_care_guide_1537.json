@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2766,
+      "species_id": 1537,
+      "common_name": "camellia",
+      "scientific_name": [
+        "Camellia rosiflora"
+      ],
+      "section": [
+        {
+          "id": 8504,
+          "type": "watering",
+          "description": "Camellia (Camellia rosiflora) is an evergreen shrub that thrives in moist and slightly acidic soil. It prefers partial shade or filtered sunlight to full sun. For better results, the soil should be kept moderately moist, although Camellias are not tolerant of periodic drought. Water with a watering can or hose at least once a week for best results. Aim to keep the soil moist but not saturated and avoid over-watering as this can result in root rot. During hot summers, more frequent watering (up to every 3-4 days) may be needed. Water early in the morning to reduce the risk of fungal disease. Do not allow the soil to dry out completely and avoid overwatering which can cause root rot."
+        },
+        {
+          "id": 8505,
+          "type": "sunlight",
+          "description": "Camellia rosiflora is a shade-tolerant evergreen shrub that can thrive in full sun or partial shade. It grows best in 90 per cent shade and will happily receive light dappled shade for most of the day. It requires at least some direct sunlight, however, for 4-6 hours per day to produce its best blooms. The sunlight should be indirect, and it should not be exposed to full, hot, direct sunlight for more than 2-3 hours daily. If the camellia is exposed to too much sun, the foliage can become scorched and the leaves may turn yellow, with the flower clusters suffering too. Therefore Camellia rosiflora should be grown in a location that receives morning or late afternoon sunshine, with shade in-between."
+        },
+        {
+          "id": 8506,
+          "type": "pruning",
+          "description": "Camellia rosiflora, a large evergreen shrub of the Camellia genus, does best when pruned annually. Pruning should take place in late winter to early spring before new growth begins. Start by removing any dead, diseased, or damaged branches. It is then beneficial to thin the interior of the shrub, allowing the branch tips to receive light and air. Pruning can be done to shape and size the Camellia rosiflora, since the plant responds to heavy pruning. It is important to use sharp tools when pruning to ensure a clean cut that can ward off fungal infection. If done correctly, pruning can help a Camellia rosiflora look its best."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

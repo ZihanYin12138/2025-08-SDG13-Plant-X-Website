@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2769,
+      "species_id": 1540,
+      "common_name": "camellia",
+      "scientific_name": [
+        "Camellia transnokoensis"
+      ],
+      "section": [
+        {
+          "id": 8513,
+          "type": "watering",
+          "description": "Camellia transnokoensis, or April snow camellia, is an evergreen shrub with abundant showy white flowers and glossy green leaves. It requires well-drained acidic soil with a pH between 5.0 and 6.5, and does best in full sun to partial shade.\n\nWhen it comes to watering, Camellia transnokoensis should be kept consistently moist. It should only be allowed to dry out slightly between waterings, not completely. To help ensure even moisture, apply a layer of mulch to the soil, such as bark chips or wood chips, to help retain moisture and reduce weeds. During the spring and summer months, plants should be watered regularly - about once a week. During the fall and winter months, allow the top inch of soil to dry out before watering. When in doubt, it is best to water before plants display signs of wilting or yellowing."
+        },
+        {
+          "id": 8514,
+          "type": "sunlight",
+          "description": "Camellia transnokoensis is a plant species that prefers bright, indirect light. To ensure optimal health and development, it is best to provide this plant with at least 4 hours of sunlight per day. However, too much direct sunlight can be damaging, so the ideal exposure duration and intensity will depend on the location of the plant. If the plant is in a direct southern or western exposure, it should receive shorter bouts of sunshine no longer than 3-4 hours per day, and the intensity of the sun should be filtered through an opaque or sheer curtain. If the plant is in a location with less intense sunshine, it can be exposed to the direct sunlight for a longer duration up to 6 hours per day."
+        },
+        {
+          "id": 8515,
+          "type": "pruning",
+          "description": "Pruning of Camellia transnokoensis plants should generally occur in early spring before flowering. Prune off any dead, weak, or crossing branches. Also, thin any overcrowded areas to increase air circulation and promote healthy new growth. Disbudding will help encourage more flower buds, as well as reducing the amount of potential insect infestations. Most of the pruning should be done on branches that are less than 3-4 years old, as older branches may not be able to properly heal. Aim to thin the plant by 15 to 20 percent each season. Lastly, suckers should be removed from any shoots coming from the base or roots of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

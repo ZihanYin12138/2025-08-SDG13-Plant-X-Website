@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2804,
+      "species_id": 1575,
+      "common_name": "bellflower",
+      "scientific_name": [
+        "Campanula 'Summertime Blues'"
+      ],
+      "section": [
+        {
+          "id": 8618,
+          "type": "watering",
+          "description": "Bellflower (Campanula 'Summertime Blues') should be watered once or twice a week. Water thoroughly so that the plant is moist to the touch, but be sure to not overwater - you should let the top few inches of soil dry out between waterings. This is especially important in winter when the plant is not actively growing. Be sure to use lukewarm water, as cold water can shock the plant. In addition, be sure to fertilize the plant every few weeks with a balanced fertilizer during the spring and summer months."
+        },
+        {
+          "id": 8619,
+          "type": "sunlight",
+          "description": "Bellflower (Campanula 'Summertime Blues') should receive about 4 to 6 hours of direct sunlight each day. This plant prefers bright, indirect morning or evening sunlight to the intensity of full midday sun. If placed in full sun, the plant may become pallid and the flowers may not open properly. Placing the bellflower in partial shade helps to ensure an abundance of captivating blooms during the spring and summer."
+        },
+        {
+          "id": 8620,
+          "type": "pruning",
+          "description": "To properly prune Bellflower (or Campanula 'Summertime Blues') it is best to wait until blooming is finished for the season. This is usually in late summer when the flowers start to wilt and fade. If allowing the plant to reseed, don't prune until the seeds have fully formed and the finished blooms have dropped off. Prune the blooms and seed heads back to the basal lower foliage for a full and lush habit the following season. Depending on the look desired, pruning can be done as shorter or more lightly for a thinner growth habit. In either case, do not prune any further than the lower foliage as this could damage the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2800,
+      "species_id": 1571,
+      "common_name": "bluebell",
+      "scientific_name": [
+        "Campanula rotundifolia"
+      ],
+      "section": [
+        {
+          "id": 8606,
+          "type": "watering",
+          "description": "Water bluebells regularly and deeply throughout the growing season (late spring to early fall). Water to keep the soil evenly moist; this usually means providing 1 inch of water per week. During periods of extreme heat or drought, water more frequently. Water the soil rather than the leaves, as moist leaves can become diseased. Stop watering a few weeks before the end of the season to prepare the plants for winter."
+        },
+        {
+          "id": 8607,
+          "type": "sunlight",
+          "description": "Bluebells (Campanula rotundifolia) prefer to receive direct sunlight for approximately 4 to 6 hours a day. They prefer full sun in the morning and some afternoon shade, but can also tolerate partial shade throughout the day. For optimal growth, bluebells need at least 6 hours of direct sunlight each day. Bluebells typically bloom in late spring to early summer."
+        },
+        {
+          "id": 8608,
+          "type": "pruning",
+          "description": "Bluebell (Campanula rotundifolia) should be pruned after it flowers in late summer or early fall. Carefully remove any dead, damaged, or diseased stems or branches, then cut across the top half of the plant, tapering the sides to create a rounded shape. Make sure you avoid cutting into the basal foliage, as this is where new growth will come from. Pruning any additional stems back to the basal foliage will promote a bushy and compact growth in the coming season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

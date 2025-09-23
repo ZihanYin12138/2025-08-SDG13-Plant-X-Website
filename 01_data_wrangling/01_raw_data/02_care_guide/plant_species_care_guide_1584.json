@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2813,
+      "species_id": 1584,
+      "common_name": "trumpetcreeper",
+      "scientific_name": [
+        "Campsis radicans 'Indian Summer'"
+      ],
+      "section": [
+        {
+          "id": 8645,
+          "type": "watering",
+          "description": "Trumpet creeper (Campsis radicans 'Indian Summer') should be watered about once or twice a week, depending on the weather conditions. During the spring and summer months, it will need more frequent watering to account for warmer temperatures and more exposure to direct sunlight. During the autumn and winter months, water less frequently as the plant is dormant and will require much less moisture. As a general rule, water when the top inch or 2 of soil is dry. Depending on soil type, wind, and other factors, this could mean that the plant needs to be watered every 2-4 days. It is important to not let the soil stay soggy or completely dry out for periods of time, as either condition can cause root rot or other destructive issues."
+        },
+        {
+          "id": 8646,
+          "type": "sunlight",
+          "description": "Trumpet Creeper (Campsis radicans 'Indian Summer') requires full sun, which is defined as 6 or more hours of direct sunlight each day. This species thrives in temperatures between 70-85°F and should be grown in well-drained soil. While in the northern portion of its range, Trumpet Creeper may require protection from winter weather, in the south it can survive with minimal protection. Depending on the site and size of the plant, pruning may be necessary at some point during the growing season."
+        },
+        {
+          "id": 8647,
+          "type": "pruning",
+          "description": "Trumpet Creeper (Campsis radicans 'Indian Summer') should be pruned twice per year for best results. The first pruning should occur in late winter or early spring, when new growth begins, by removing about a third of the previous year's growth. This encourages lateral growth and denser foliage. The second pruning should occur in early summer, after the flowers have finished blooming. Remove any dead or diseased stems, and prune back any long or unruly shoots. Pruning trumpet creeper too severely or too often may reduce flowering and/or inhibit the plant's growth, so it's important to be judicious in how much is removed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

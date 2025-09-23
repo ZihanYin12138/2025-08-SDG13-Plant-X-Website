@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2720,
+      "species_id": 1490,
+      "common_name": "shikoku beautyberry",
+      "scientific_name": [
+        "Callicarpa shikokiana"
+      ],
+      "section": [
+        {
+          "id": 8366,
+          "type": "watering",
+          "description": "Shikoku Beautyberry plants need regular watering while in active growth during the spring and summer months, but should not be overwatered. During this time, water the plant thoroughly and allow the soil to dry out to a depth of about an inch between waterings. In spring and summer, water your Shikoku Beautyberry plant about once a week except in periods of cold weather or drought, when you might want to water it more often. During the fall and winter months, reduce watering to just enough to keep the soil from drying out completely."
+        },
+        {
+          "id": 8367,
+          "type": "sunlight",
+          "description": "Shikoku beautyberry plants need at least 6 hours of direct sunlight per day to thrive. However, they can also tolerate partial shade and will tolerate far less sunlight in winter, when light levels are naturally lower. Avoid direct sunlight for extended periods during the hottest times of the day in the middle of summer, as this can lead to leaf burn. Instead, provide bright light but with some shade, like from a parasol or an arbor. During the winter months, sunlight should be provided by a south-facing window or near a sunroom wall. In climates with lower light levels, such as the Pacific Northwest, some supplemental lighting may be beneficial."
+        },
+        {
+          "id": 8368,
+          "type": "pruning",
+          "description": "Shikoku beautyberry (Callicarpa shikokiana) should be pruned in early spring or late winter before the start of active growth.Dead, damaged, and diseased branches can be pruned any time of year when noticed. Pruning can be done by hand or with pruning shears, and should be done to a moderate degree to maintain desired shape or size without damage to the plant. Lightly prune away dead or broken branches and excess stems. Prune more heavily to reduce the size or shape of the Callicarpa shikokiana."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
