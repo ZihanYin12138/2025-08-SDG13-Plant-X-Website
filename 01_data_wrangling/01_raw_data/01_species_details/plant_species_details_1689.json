@@ -1,0 +1,130 @@
+{
+  "id": 1689,
+  "common_name": "shellbark hickory",
+  "scientific_name": [
+    "Carya laciniosa"
+  ],
+  "other_name": [
+    "Kingnut Hickory",
+    "Bigleaf",
+    "Bottom Shellbark",
+    "Big Shagbark Hickory",
+    "Big Shellbark Hickory"
+  ],
+  "family": "Juglandaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "laciniosa",
+  "genus": "Carya",
+  "origin": [
+    "Eastern and central North America"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 60,
+      "max_value": 80,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Squirrels",
+    " Bees"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Cutting",
+    "Budding"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1689&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1689&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stalks",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "November",
+    "December"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1689&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Loamy Clay"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": true,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Shellbark hickory (Carya laciniosa) is an incredible tree species that stands out among the hickory family. It is attractive in every season, boasting attractive green leaves in the spring with bright yellow fall foliage. The bark is rough but unique, with big ridges and a bright brown or gray coloring. It is also a great bee tree, providing excellent honey for beekeepers. Shellbark hickory is also noted for its incredibly tough wood, which is the reason it's become so popular for use in furniture, flooring, and even tools. It is a resilient species and is able to withstand drought, cold weather, and flooding. It is no wonder why Shellbark hickory has become so popular; it’s a gorgeous and reliable species with a multitude of uses.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1689_carya_laciniosa/og/35359612770_43b6e0bd1e_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1689_carya_laciniosa/regular/35359612770_43b6e0bd1e_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1689_carya_laciniosa/medium/35359612770_43b6e0bd1e_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1689_carya_laciniosa/small/35359612770_43b6e0bd1e_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1689_carya_laciniosa/thumbnail/35359612770_43b6e0bd1e_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

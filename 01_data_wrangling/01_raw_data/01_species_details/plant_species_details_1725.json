@@ -1,0 +1,112 @@
+{
+  "id": 1725,
+  "common_name": "California lilac",
+  "scientific_name": [
+    "Ceanothus pallidus 'Marie Simon'"
+  ],
+  "other_name": [],
+  "family": "Rhamnaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Marie Simon",
+  "variety": null,
+  "species_epithet": "pallidus",
+  "genus": "Ceanothus",
+  "origin": [
+    "United States",
+    "California"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1725&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1725&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1725&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "California lilac (Ceanothus pallidus 'Marie Simon') is an amazing, drought-resistant native shrub. Its beautiful white flowers bloom late in spring to early summer, adding showy blooms to any garden. It thrives in full sun and just moderate amounts of water. The foliage of this species is an attractive light green, and it can turn a lovely shade of yellow in the fall. It produces excellent groundcover, and its dense texture is great for erosion control. Pruning is not necessary, and this species can easily reach its maximum potential, reaching heights of up to 8 feet tall. California lilac is sure to add beautiful structure and vibrant flowers to any garden!",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1725_ceanothus_pallidus_marie_simon/og/Ceanothus_pallidus_Marie_Simon_A.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1725_ceanothus_pallidus_marie_simon/regular/Ceanothus_pallidus_Marie_Simon_A.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1725_ceanothus_pallidus_marie_simon/medium/Ceanothus_pallidus_Marie_Simon_A.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1725_ceanothus_pallidus_marie_simon/small/Ceanothus_pallidus_Marie_Simon_A.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1725_ceanothus_pallidus_marie_simon/thumbnail/Ceanothus_pallidus_Marie_Simon_A.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

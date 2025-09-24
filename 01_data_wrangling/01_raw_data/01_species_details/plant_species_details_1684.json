@@ -1,0 +1,117 @@
+{
+  "id": 1684,
+  "common_name": "oriental hornbeam",
+  "scientific_name": [
+    "Carpinus orientalis"
+  ],
+  "other_name": [],
+  "family": "Betulaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "orientalis",
+  "genus": "Carpinus",
+  "origin": [
+    "Western Asia",
+    "southeastern Europe"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 15,
+      "max_value": 25,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1684&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1684&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July",
+    "December",
+    "January",
+    "February",
+    "November",
+    "December",
+    "January",
+    "February",
+    "June",
+    "July",
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1684&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Oriental hornbeam (Carpinus orientalis) is an amazing plant species because it has multiple unique features. It is a deciduous tree known for its remarkable durability and resistance to drought and disease. Its leaves are deep green in color and have veins which a distinct, zig-zag pattern. The bark of the tree is a unique and interesting light gray in color, and its nuts are typically small and dark in color. Oriental hornbeam is a great addition to any garden as it is both hardy and visually eye-catching, making it an excellent choice for landscaping. It is also a good choice for areas of the garden that are in need of a touch of shade and color. For these reasons, the Oriental Hornbeam is an amazing plant species.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1684_carpinus_orientalis/og/2527px-Carpinus_orientalis_multi-stemmed.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1684_carpinus_orientalis/regular/2527px-Carpinus_orientalis_multi-stemmed.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1684_carpinus_orientalis/medium/2527px-Carpinus_orientalis_multi-stemmed.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1684_carpinus_orientalis/small/2527px-Carpinus_orientalis_multi-stemmed.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1684_carpinus_orientalis/thumbnail/2527px-Carpinus_orientalis_multi-stemmed.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,123 @@
+{
+  "id": 1731,
+  "common_name": "cedar of Lebanon",
+  "scientific_name": [
+    "Cedrus libani 'Hedgehog'"
+  ],
+  "other_name": [],
+  "family": "Pinaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Hedgehog",
+  "variety": null,
+  "species_epithet": "libani",
+  "genus": "Cedrus",
+  "origin": [
+    "Southwestern Asia",
+    "Syria"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 50,
+      "max_value": 50,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "6"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1731&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1731&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+    "January"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1731&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Rocky ",
+    " gravelly ",
+    " dry"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": true,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Blight",
+    "needle cast",
+    "  Pest resistant",
+    " Disease resistant",
+    " Drought resistant "
+  ],
+  "flowers": true,
+  "flowering_season": "Summer",
+  "cones": true,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Cedar of Lebanon (Cedrus libani 'Hedgehog') is a beautiful coniferous evergreen tree with stunning vivid colour foliage. Its foliage changes from light green to black-green as the season progresses, offering a soft contrast to harsh landscapes. The wood of the tree is highly resistant to rot and insects, making it an ideal choice for outdoor furniture, decks, and fences. It is also a suitable tree for topiary gardens and can be trimmed to create a unique hedge or topiary design. Its roots are strong and resistant to drought, and the tree itself is known to live for hundreds of years. With its vibrant colours and resilience, Cedar of Lebanon is truly an amazing and timeless species.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1731_cedrus_libani_hedgehog/og/2560px-Cedrus_libani_foliage_PAN.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1731_cedrus_libani_hedgehog/regular/2560px-Cedrus_libani_foliage_PAN.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1731_cedrus_libani_hedgehog/medium/2560px-Cedrus_libani_foliage_PAN.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1731_cedrus_libani_hedgehog/small/2560px-Cedrus_libani_foliage_PAN.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1731_cedrus_libani_hedgehog/thumbnail/2560px-Cedrus_libani_foliage_PAN.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

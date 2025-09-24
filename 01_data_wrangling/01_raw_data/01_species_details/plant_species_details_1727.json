@@ -1,0 +1,111 @@
+{
+  "id": 1727,
+  "common_name": "blue mountain lilac",
+  "scientific_name": [
+    "Ceanothus thyrsiflorus 'Skylark'"
+  ],
+  "other_name": [],
+  "family": "Rhamnaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Skylark",
+  "variety": null,
+  "species_epithet": "thyrsiflorus",
+  "genus": "Ceanothus",
+  "origin": [
+    "United States"
+  ],
+  "type": "Broadleaf evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 4,
+      "max_value": 5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds",
+    " Butterflies"
+  ],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Grafting Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "7",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1727&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1727&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1727&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "High",
+  "drought_tolerant": false,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Blue Mountain Lilac (Ceanothus thyrsiflorus 'Skylark') is a showy shrub that's perfect for decorating any landscape. Its blooms are a deep indigo-blue hue, contrasted by bright silver-green foliage. This species is low maintenance and can tolerate some drought conditions. It's drought-resistant, deer-resistant, and fast-growing, making it ideal for gardens with limited space. Its blooms attract a variety of beneficial insects like butterflies and bees, helping to promote biodiversity in the area. Blue Mountain Lilac offers stunning winter interest with its creamy white bark and persistent clusters of deep pink seed pods. Enjoy its beautiful blooms and stunning foliage all season long.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1727_ceanothus_thyrsiflorus_skylark/og/Ceanothus_thyrsiflorus_27Skylark27_kz3.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1727_ceanothus_thyrsiflorus_skylark/regular/Ceanothus_thyrsiflorus_27Skylark27_kz3.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1727_ceanothus_thyrsiflorus_skylark/medium/Ceanothus_thyrsiflorus_27Skylark27_kz3.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1727_ceanothus_thyrsiflorus_skylark/small/Ceanothus_thyrsiflorus_27Skylark27_kz3.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1727_ceanothus_thyrsiflorus_skylark/thumbnail/Ceanothus_thyrsiflorus_27Skylark27_kz3.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

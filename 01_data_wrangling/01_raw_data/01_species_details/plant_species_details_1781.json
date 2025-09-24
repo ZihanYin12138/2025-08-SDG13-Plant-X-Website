@@ -1,0 +1,120 @@
+{
+  "id": 1781,
+  "common_name": "Texas redbud",
+  "scientific_name": [
+    "Cercis canadensis var. texensis 'Oklahoma'"
+  ],
+  "other_name": [
+    "Redbud",
+    "Judas Tree",
+    "Love Tree",
+    "Eastern Redbud",
+    "Judas Tree"
+  ],
+  "family": "Fabaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Oklahoma",
+  "variety": "var. texensis ",
+  "species_epithet": "canadensis",
+  "genus": "Cercis",
+  "origin": [
+    "Eastern North America"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 30,
+      "max_value": 30,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "5"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1781&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1781&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Partial Shade",
+    " Shade",
+    " Deciduous Shade (Spring Sun)"
+  ],
+  "pruning_month": [
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1781&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Humus rich",
+    " Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [
+    "Canker",
+    "sap rot",
+    " Scale insects",
+    " Wilt"
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Texas redbud (Cercis canadensis var. texensis 'Oklahoma') is a stunning plant species that is native to the prairies of Texas. Its vivid, deep red buds appear in the early spring providing a captivating contrast to its bright green, heart-shaped foliage. Through fall and winter, Texas redbud expresses its beauty with clusters of pink flowers for all to admire. This hardy shrub provides brilliant color and an interesting structure to any landscape, making it an amazing addition to any garden. Above all, Texas redbud adds a unique sense of character and vibrance that is sure to wow onlookers.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1781_cercis_canadensis_var_texensis_oklahoma/og/2560px-Cercis_canadensis_var._texensis_Oklahoma_2zz.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1781_cercis_canadensis_var_texensis_oklahoma/regular/2560px-Cercis_canadensis_var._texensis_Oklahoma_2zz.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1781_cercis_canadensis_var_texensis_oklahoma/medium/2560px-Cercis_canadensis_var._texensis_Oklahoma_2zz.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1781_cercis_canadensis_var_texensis_oklahoma/small/2560px-Cercis_canadensis_var._texensis_Oklahoma_2zz.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1781_cercis_canadensis_var_texensis_oklahoma/thumbnail/2560px-Cercis_canadensis_var._texensis_Oklahoma_2zz.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

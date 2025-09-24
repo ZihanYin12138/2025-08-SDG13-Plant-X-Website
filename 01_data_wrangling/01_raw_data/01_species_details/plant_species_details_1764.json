@@ -1,0 +1,154 @@
+{
+  "id": 1764,
+  "common_name": "snow-in-summer",
+  "scientific_name": [
+    "Cerastium tomentosum 'Olympia'"
+  ],
+  "other_name": [
+    "Dusty Miller"
+  ],
+  "family": "Caryophyllaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Olympia",
+  "variety": null,
+  "species_epithet": "tomentosum",
+  "genus": "Cerastium",
+  "origin": [
+    "Italy",
+    "Sicily"
+  ],
+  "type": "Shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 0.5,
+      "max_value": 1,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Herbaceous Perennial",
+  "attracts": [],
+  "propagation": [
+    "Division",
+    "Cutting",
+    "Seed Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1764&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1764&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flower",
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "part": "center",
+      "color": [
+        "yellow",
+        "green"
+      ]
+    },
+    {
+      "part": "filaments",
+      "color": [
+        "white",
+        "light-yellow"
+      ]
+    },
+    {
+      "part": "anthers",
+      "color": [
+        "light-yellow",
+        "yellow"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "June",
+    "July",
+    "August",
+    "March",
+    "April",
+    "August",
+    "August"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1764&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Rocky ",
+    " gravelly ",
+    " dry",
+    " Well-drained"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Easy",
+  "pest_susceptibility": [
+    "Drought resistant"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Summer",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Snow-in-Summer (Cerastium tomentosum 'Olympia') is an amazing plant that boasts an abundance of beautiful blooms during the summer months. Its medium-green foliage gives it a striking look in contrast to its white flowers. This perennial grows well in full sun and prefers dry soils, making it perfect for growing in rockeries and steep banks. During warm days, the flowers open up for a spectacle of white blooms, and the night brings a delightful scent to the garden. The drought tolerance of this plant makes it a great choice for areas that receive little rainfall. Snow-in-summer is a gorgeous and fragrant addition to any garden that is sure to bring plenty of beauty throughout the summer months.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1764_cerastium_tomentosum_olympia/og/52013582323_a2ff3a4baf_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1764_cerastium_tomentosum_olympia/regular/52013582323_a2ff3a4baf_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1764_cerastium_tomentosum_olympia/medium/52013582323_a2ff3a4baf_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1764_cerastium_tomentosum_olympia/small/52013582323_a2ff3a4baf_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1764_cerastium_tomentosum_olympia/thumbnail/52013582323_a2ff3a4baf_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

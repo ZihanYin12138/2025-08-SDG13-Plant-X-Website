@@ -1,0 +1,134 @@
+{
+  "id": 1737,
+  "common_name": "feather celosia",
+  "scientific_name": [
+    "Celosia argentea (Plumosa Group) 'New Look'"
+  ],
+  "other_name": [],
+  "family": "Amaranthaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "New Look",
+  "variety": null,
+  "species_epithet": "argentea",
+  "genus": "Celosia",
+  "origin": [
+    "India"
+  ],
+  "type": "Herb",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 1,
+      "max_value": 1.5,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Annual",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Division"
+  ],
+  "hardiness": {
+    "min": "2",
+    "max": "11"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1737&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1737&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "red"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "pink-green",
+        "green"
+      ]
+    },
+    {
+      "part": "flower",
+      "color": [
+        "red"
+      ]
+    },
+    {
+      "part": "veins",
+      "color": [
+        "red"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+  },
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1737&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Feather celosia is a beautiful and unique plant that will add vibrant texture to any garden. With its dramatic, fern-like foliage, its clusters of tall and feathery flowers, available in shades of yellow, orange, and red, will add a colorful pop to any space. The flowers look like a bouquet of fluffy plumes that sway and dance in the breeze. Plus, Feather Celosia is a delightfully easy plant to grow and it requires minimal effort, making it an ideal choice for both professional and novice gardeners. Its hearty nature also makes it one of the most versatile and reliable annuals for many climates.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1737_celosia_argentea_plumosa_group_new_look/og/25239758668_5a07eb9a24_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1737_celosia_argentea_plumosa_group_new_look/regular/25239758668_5a07eb9a24_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1737_celosia_argentea_plumosa_group_new_look/medium/25239758668_5a07eb9a24_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1737_celosia_argentea_plumosa_group_new_look/small/25239758668_5a07eb9a24_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1737_celosia_argentea_plumosa_group_new_look/thumbnail/25239758668_5a07eb9a24_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

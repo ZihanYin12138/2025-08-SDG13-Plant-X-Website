@@ -1,0 +1,111 @@
+{
+  "id": 1744,
+  "common_name": "weeping Japanese hackberry",
+  "scientific_name": [
+    "Celtis sinensis 'Green Cascade'"
+  ],
+  "other_name": [],
+  "family": "Cannabaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Green Cascade",
+  "variety": null,
+  "species_epithet": "sinensis",
+  "genus": "Celtis",
+  "origin": [
+    "Japan"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 15,
+      "max_value": 20,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "7",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1744&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1744&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun",
+    "part shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "December",
+    "January",
+    "February"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1744&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Weeping Japanese Hackberry (Celtis sinensis 'Green Cascade') is an amazing ornamental tree that makes a stunning statement in the landscape. It has a beautiful cascading form with arching branches that are covered in delicate, heart-shaped bright green leaves. In the springtime it produces clusters of small, white flowers. In the fall, the green foliage turns a rich yellow-gold color. It is a fast growing tree and can reach heights of 30-40 feet in just a few years and its foliage can spread to over 8 feet wide. It is low maintenance and drought tolerant. This tree is ideal for growing in containers or as a feature tree for windbreaks, screens, and privacy hedges. Its unique and beautiful cascading form makes it a great choice in any landscape.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1744_celtis_sinensis_green_cascade/og/800px-Celtis_sinensis_in_Hackfalls_Arboretum_28429.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1744_celtis_sinensis_green_cascade/regular/800px-Celtis_sinensis_in_Hackfalls_Arboretum_28429.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1744_celtis_sinensis_green_cascade/medium/800px-Celtis_sinensis_in_Hackfalls_Arboretum_28429.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1744_celtis_sinensis_green_cascade/small/800px-Celtis_sinensis_in_Hackfalls_Arboretum_28429.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1744_celtis_sinensis_green_cascade/thumbnail/800px-Celtis_sinensis_in_Hackfalls_Arboretum_28429.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

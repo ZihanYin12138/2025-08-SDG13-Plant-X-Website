@@ -1,0 +1,139 @@
+{
+  "id": 1766,
+  "common_name": "St. John's bread",
+  "scientific_name": [
+    "Ceratonia siliqua"
+  ],
+  "other_name": [],
+  "family": "Fabaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "siliqua",
+  "genus": "Ceratonia",
+  "origin": [
+    "Mediterranean",
+    "Arabia",
+    "Somalia"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 30,
+      "max_value": 50,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "9",
+    "max": "10"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1766&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1766&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Minimum",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "lime-green"
+      ]
+    },
+    {
+      "part": "veins",
+      "color": [
+        "yellow"
+      ]
+    },
+    {
+      "part": "twigs",
+      "color": [
+        "light-brown"
+      ]
+    },
+    {
+      "part": "branch",
+      "color": [
+        "light-brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "June",
+    "July",
+    "August",
+    "February",
+    "June",
+    "July"
+  ],
+  "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+  },
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1766&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Autumn",
+  "leaf": true,
+  "edible_leaf": true,
+  "cuisine": true,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "St. John's bread (Ceratonia siliqua) is an amazing tree species native to the Mediterranean region. Its sweet, edible pods are very nutritious and have been a staple of the Mediterranean diet for centuries. Rich in calium, phosphorus, iron, and other nutrients, it's perfect for keeping your energy levels up. This hardy tree can survive in harsh climates, and even after being cut down, will re-sprout quickly. Plus, the pods make a great mulch, providing nutrition to surrounding plants! Whether it's as a snack, a fertilizer, or a source of income, St. John's bread has a lot to offer.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1766_ceratonia_siliqua/og/51727496702_12a8e930cb_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1766_ceratonia_siliqua/regular/51727496702_12a8e930cb_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1766_ceratonia_siliqua/medium/51727496702_12a8e930cb_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1766_ceratonia_siliqua/small/51727496702_12a8e930cb_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1766_ceratonia_siliqua/thumbnail/51727496702_12a8e930cb_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

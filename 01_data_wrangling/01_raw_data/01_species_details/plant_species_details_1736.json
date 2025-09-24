@@ -1,0 +1,149 @@
+{
+  "id": 1736,
+  "common_name": "American bittersweet",
+  "scientific_name": [
+    "Celastrus scandens"
+  ],
+  "other_name": [
+    "Climbing Bittersweet",
+    "False Bittersweet",
+    "Climbing Orangeroot",
+    "Fevertwig",
+    "Staffvine",
+    "Jacob's Ladder",
+    "False Bittersweet",
+    "Climbing Orangeroot",
+    "Fevertwig",
+    "Staffvine",
+    "Jacob's Ladder"
+  ],
+  "family": "Celastraceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "scandens",
+  "genus": "Celastrus",
+  "origin": [
+    "North America"
+  ],
+  "type": "Vine",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 15,
+      "max_value": 20,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial.",
+  "attracts": [
+    "Birds"
+  ],
+  "propagation": [
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "3",
+    "max": "8"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1736&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1736&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "berries",
+      "color": [
+        "orange",
+        "yellow"
+      ]
+    },
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "brown",
+        "gray"
+      ]
+    },
+    {
+      "part": "foliage",
+      "color": [
+        "dark-green"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Sun",
+    " Partial Shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1736&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Loamy Clay Rocky"
+  ],
+  "growth_rate": "High",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": true,
+  "invasive": true,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [
+    "Deer resistant",
+    " Drought resistant"
+  ],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": true,
+  "description": "American bittersweet is a unique and amazing plant species! It is a deciduous, woody vine with glossy green, heart-shaped leaves and showy, yellow-orange berries in early autumn. Its reddish-orange fall color is beautiful, making it ideal for adding a touch of color to any landscape. The berries are also a great food source for birds in the winter, supporting a variety of species. This vigorous grower is easy to establish, is low maintenance and rarely suffers from pests or diseases. American bittersweet is a truly remarkable species that adds beauty and nourishment to any outdoors.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1736_celastrus_scandens/og/9054601510_525c180013_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1736_celastrus_scandens/regular/9054601510_525c180013_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1736_celastrus_scandens/medium/9054601510_525c180013_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1736_celastrus_scandens/small/9054601510_525c180013_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1736_celastrus_scandens/thumbnail/9054601510_525c180013_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,120 @@
+{
+  "id": 1755,
+  "common_name": "buttonbush",
+  "scientific_name": [
+    "Cephalanthus occidentalis"
+  ],
+  "other_name": [
+    "Common Buttonbush",
+    "Button Willow",
+    "Button Ball",
+    "Button Willow",
+    "Button Ball"
+  ],
+  "family": "Rubiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "occidentalis",
+  "genus": "Cephalanthus",
+  "origin": [
+    "North America"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 5,
+      "max_value": 12,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Hummingbirds",
+    " Butterflies"
+  ],
+  "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Division",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1755&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1755&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": "\"2-3\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Partial Shade",
+    " Shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1755&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Loamy Clay Humus Rocky"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": false,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": true,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Buttonbush (Cephalanthus occidentalis) is an amazing shrub species as it thrives in various types of soil and is highly adaptable to different landscape settings. It’s an extremely attractive plant with its round, fragrant clusters of white flowers and bright green foliage which turns shades of yellow and red during fall. This native North American plant is extremely low-maintenance as it doesn’t require pruning or special fertilizers and is also easy to propagate by taking cuttings of stems. It’s an excellent insect repellent for mosquitoes and other pests and attracts birds and butterflies. It’s an ideal choice for gardeners looking to add some diversity to their gardens.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1755_cephalanthus_occidentalis/og/52140527402_128a8af17f_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1755_cephalanthus_occidentalis/regular/52140527402_128a8af17f_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1755_cephalanthus_occidentalis/medium/52140527402_128a8af17f_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1755_cephalanthus_occidentalis/small/52140527402_128a8af17f_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1755_cephalanthus_occidentalis/thumbnail/52140527402_128a8af17f_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,110 @@
+{
+  "id": 1693,
+  "common_name": "bluebeard",
+  "scientific_name": [
+    "Caryopteris clandonensis 'Arthur Simmonds'"
+  ],
+  "other_name": [],
+  "family": "Lamiaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Arthur Simmonds",
+  "variety": null,
+  "species_epithet": "clandonensis",
+  "genus": "Caryopteris",
+  "origin": [
+    "China"
+  ],
+  "type": "Deciduous shrub",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 2,
+      "max_value": 3,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Cutting",
+    "Layering Propagation",
+    "Division",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1693&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1693&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"3-4\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "June",
+    "July",
+    "August",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1693&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": true,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Bluebeard (Caryopteris clandonensis 'Arthur Simmonds') is an incredible garden plant. Its deep purple-blue flowers contrast beautifully with its light green foliage for an eye-catching look that won't go unnoticed. It blooms from mid-summer to fall, providing your garden with a must-have look for months to come. Not to mention, this plant is versatile and deer resistant – making it a great choice for any landscape. Its long-lasting clusters of flowers attract pollinators like butterflies and bees, which in turn will make your garden even more alive and vibrant. Its drought tolerant characteristics also make it an easy-care plant for any garden. This hard-to-beat plant is definitely one to have in your landscape.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1693_caryopteris_clandonensis_arthur_simmonds/og/2560px-Caryopteris_x_clandonensis_Dark_Knight_8zz.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1693_caryopteris_clandonensis_arthur_simmonds/regular/2560px-Caryopteris_x_clandonensis_Dark_Knight_8zz.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1693_caryopteris_clandonensis_arthur_simmonds/medium/2560px-Caryopteris_x_clandonensis_Dark_Knight_8zz.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1693_caryopteris_clandonensis_arthur_simmonds/small/2560px-Caryopteris_x_clandonensis_Dark_Knight_8zz.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1693_caryopteris_clandonensis_arthur_simmonds/thumbnail/2560px-Caryopteris_x_clandonensis_Dark_Knight_8zz.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

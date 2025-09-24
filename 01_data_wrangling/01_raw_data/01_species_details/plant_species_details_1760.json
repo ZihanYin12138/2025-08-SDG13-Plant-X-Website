@@ -1,0 +1,110 @@
+{
+  "id": 1760,
+  "common_name": "cow's tail pine",
+  "scientific_name": [
+    "Cephalotaxus harringtonia 'Nana'"
+  ],
+  "other_name": [],
+  "family": "Taxaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Nana",
+  "variety": null,
+  "species_epithet": "harringtonia",
+  "genus": "Cephalotaxus",
+  "origin": [
+    "Japan",
+    "Taiwan",
+    "China"
+  ],
+  "type": "Needled evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 6,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Seed Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1760&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1760&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [],
+  "sunlight": [
+    "Part shade",
+    "full shade"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1760&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": false,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Cow’s tail pine (Cephalotaxus harringtonia 'Nana') is an amazing evergreen shrub that makes a great addition to any garden. It has highly decorative, glossy dark foliage and upright cones that resemble cow’s tails, hence the name. It is a low maintenance plant, ideal for low-growing hedges, slopes, and rock gardens. This hardy evergreen is cold tolerant and generally pest- and disease-resistant. It is also shade, drought and wind tolerant. This ancient species can live over 100 years and stands out with its unique foliage which has a unique twisted texture and forks at the end of each branch. With its compact size, this amazing shrub adds a burst of vibrant colour to any garden.",
+  "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/1760_cephalotaxus_harringtonia_nana/og/Cephalotaxus_harringtonia_var._nana_5.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1760_cephalotaxus_harringtonia_nana/regular/Cephalotaxus_harringtonia_var._nana_5.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1760_cephalotaxus_harringtonia_nana/medium/Cephalotaxus_harringtonia_var._nana_5.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1760_cephalotaxus_harringtonia_nana/small/Cephalotaxus_harringtonia_var._nana_5.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1760_cephalotaxus_harringtonia_nana/thumbnail/Cephalotaxus_harringtonia_var._nana_5.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

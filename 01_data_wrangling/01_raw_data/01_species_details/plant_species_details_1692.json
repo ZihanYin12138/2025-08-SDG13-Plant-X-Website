@@ -1,0 +1,145 @@
+{
+  "id": 1692,
+  "common_name": "mockernut",
+  "scientific_name": [
+    "Carya tomentosa"
+  ],
+  "other_name": [],
+  "family": "Juglandaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "tomentosa",
+  "genus": "Carya",
+  "origin": [
+    "United States"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 60,
+      "max_value": 80,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Squirrels"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Budding"
+  ],
+  "hardiness": {
+    "min": "4",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1692&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1692&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green-yellow"
+      ]
+    },
+    {
+      "part": "stalk",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "brown"
+      ]
+    },
+    {
+      "part": "trunk",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Sun"
+  ],
+  "pruning_month": [
+    "December",
+    "January",
+    "February",
+    "May",
+    "December",
+    "January",
+    "February",
+    "March",
+    "April",
+    "June",
+    "July",
+    "August"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1692&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sand",
+    " Loam"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Medium",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Mockernut (Carya tomentosa) is an amazing tree species with many wonderful qualities. It boasts smooth, grey bark, and leaves that turn yellow and orange in autumn. Mockernut trees produce an abundance of edible, pecan-like nuts, making them a great choice for wildlife enthusiasts and home gardeners. These trees are also incredibly hardy, and can survive in almost any soil condition. In addition, mockernut is known for its tolerance to drought and for having shallow roots that make it easy to transplant. Whether you're looking for a beautiful addition to your garden or a reliable nut source for wildlife, mockernut is the perfect tree for the job.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1692_carya_tomentosa/og/52487088885_5bec97cef5_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1692_carya_tomentosa/regular/52487088885_5bec97cef5_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1692_carya_tomentosa/medium/52487088885_5bec97cef5_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1692_carya_tomentosa/small/52487088885_5bec97cef5_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1692_carya_tomentosa/thumbnail/52487088885_5bec97cef5_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

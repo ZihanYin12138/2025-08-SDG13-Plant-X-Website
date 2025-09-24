@@ -1,0 +1,146 @@
+{
+  "id": 1780,
+  "common_name": "Texas redbud",
+  "scientific_name": [
+    "Cercis canadensis var. texensis"
+  ],
+  "other_name": [
+    "Redbud",
+    "Judas Tree",
+    "Love Tree",
+    "Eastern Redbud",
+    "Judas Tree"
+  ],
+  "family": "Fabaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": "var. texensis",
+  "species_epithet": "canadensis",
+  "genus": "Cercis",
+  "origin": [
+    "Eastern North America"
+  ],
+  "type": "tree",
+  "dimensions": [
+    {
+      "type": "Height",
+      "min_value": 30,
+      "max_value": 30,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Butterflies"
+  ],
+  "propagation": [
+    "Seed Propagation",
+    "Grafting Propagation"
+  ],
+  "hardiness": {
+    "min": "5",
+    "max": "5"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1780&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1780&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "flowers",
+      "color": [
+        "pink-purple"
+      ]
+    },
+    {
+      "part": "twigs",
+      "color": [
+        "brown-gray"
+      ]
+    },
+    {
+      "part": "branches",
+      "color": [
+        "brown-gray"
+      ]
+    },
+    {
+      "part": "trunks",
+      "color": [
+        "gray"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Partial Shade",
+    " Shade",
+    " Deciduous Shade (Spring Sun)"
+  ],
+  "pruning_month": [
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1780&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Humus rich",
+    " Well-drained"
+  ],
+  "growth_rate": "Moderate",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [
+    "Canker",
+    "sap rot",
+    " Scale insects",
+    " Wilt"
+  ],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": false,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The Texas Redbud is a beautiful plant species native to the Lone Star State. It is a deciduous shrub or small tree with a dense spreading crown, and features gorgeous heart-shaped leaves. Its vibrant rosy-pink flowers come in clusters, appearing in early spring before the foliage unfolds. This dazzling beauty also provides plenty of wildlife benefits: birds and pollinators are attracted to the foliage and nectar-rich flowers, and its edible bean-like pods provide a great source of food for small animals. Its tolerance for a range of soil types and drought conditions makes the Texas Redbud an easy to care for and appealing addition to any garden.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1780_cercis_canadensis_var_texensis/og/2328250369_126279c898_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1780_cercis_canadensis_var_texensis/regular/2328250369_126279c898_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1780_cercis_canadensis_var_texensis/medium/2328250369_126279c898_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1780_cercis_canadensis_var_texensis/small/2328250369_126279c898_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1780_cercis_canadensis_var_texensis/thumbnail/2328250369_126279c898_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

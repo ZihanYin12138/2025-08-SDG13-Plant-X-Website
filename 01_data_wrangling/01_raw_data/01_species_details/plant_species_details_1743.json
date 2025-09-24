@@ -1,0 +1,162 @@
+{
+  "id": 1743,
+  "common_name": "hackberry",
+  "scientific_name": [
+    "Celtis occidentalis"
+  ],
+  "other_name": [
+    "Bastard Elm",
+    "Nettle Tree",
+    "Sugarberry",
+    "Northern Hackberry",
+    "Western Hackberry",
+    "Georgia Hackberry",
+    "Nettle Tree",
+    "Sugarberry",
+    "Northern Hackberry",
+    "Western Hackberry",
+    "Georgia Hackberry"
+  ],
+  "family": "Cannabaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": null,
+  "variety": null,
+  "species_epithet": "occidentalis",
+  "genus": "Celtis",
+  "origin": [
+    "Central and northeastern North America"
+  ],
+  "type": "Tree",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 40,
+      "max_value": 60,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [
+    "Birds",
+    " Butterflies"
+  ],
+  "propagation": [
+    "Air Layering Propagation",
+    "Cutting",
+    "Grafting Propagation",
+    "Seed Propagation",
+    "Tissue Culture"
+  ],
+  "hardiness": {
+    "min": "2",
+    "max": "9"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1743&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1743&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Frequent",
+  "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "veins",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "berries",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "stem",
+      "color": [
+        "brown",
+        "green"
+      ]
+    },
+    {
+      "part": "berry",
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "part": "bark",
+      "color": [
+        "gray-brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Sun",
+    " Partial Shade"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April"
+  ],
+  "pruning_count": [],
+  "seeds": true,
+  "maintenance": "Low",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1743&key=sk-kMpx68b02586bb61112084",
+  "soil": [
+    "Sandy Loamy Clay Rocky"
+  ],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": false,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": null,
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": "Spring",
+  "cones": false,
+  "fruits": true,
+  "edible_fruit": true,
+  "harvest_season": "Fall",
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "Hackberry (Celtis occidentalis) is an amazing tree. It’s native to North America and grows in wet and poorly drained soils. It grows a wide network of strong, deep roots that make it wind tolerant and long-lasting, making it perfect for landscaping. It grows fast and can reach up to 20 meters tall with thick, heart-shaped leaves and long-lasting, creamy-yellow berries that give an autumn presence to your yard. Not to mention, it’s an excellent habitat for birds and wildlife, providing abundant food and shelter. Hackberry's resilience and hardiness make it an incredible addition to any yard or garden.",
+  "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1743_celtis_occidentalis/og/43766978374_11f4749216_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1743_celtis_occidentalis/regular/43766978374_11f4749216_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1743_celtis_occidentalis/medium/43766978374_11f4749216_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1743_celtis_occidentalis/small/43766978374_11f4749216_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1743_celtis_occidentalis/thumbnail/43766978374_11f4749216_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,123 @@
+{
+  "id": 1729,
+  "common_name": "blue atlas cedar",
+  "scientific_name": [
+    "Cedrus atlantica (Glauca Group) 'Glauca Pendula'"
+  ],
+  "other_name": [],
+  "family": "Pinaceae",
+  "hybrid": null,
+  "authority": null,
+  "subspecies": null,
+  "cultivar": "Glauca Pendula",
+  "variety": null,
+  "species_epithet": "atlantica",
+  "genus": "Cedrus",
+  "origin": [
+    "Morocco",
+    "Algeria",
+    "Tunisia",
+    "Libya",
+    "Egypt"
+  ],
+  "type": "Needled evergreen",
+  "dimensions": [
+    {
+      "type": null,
+      "min_value": 3,
+      "max_value": 12,
+      "unit": "feet"
+    }
+  ],
+  "cycle": "Perennial",
+  "attracts": [],
+  "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation"
+  ],
+  "hardiness": {
+    "min": "6",
+    "max": "7"
+  },
+  "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=1729&size=og&key=sk-kMpx68b02586bb61112084",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1729&size=og&key=sk-kMpx68b02586bb61112084'></iframe>"
+  },
+  "watering": "Average",
+  "watering_general_benchmark": {
+    "value": "\"7-10\"",
+    "unit": "days"
+  },
+  "plant_anatomy": [
+    {
+      "part": "leaves",
+      "color": [
+        "green-blue"
+      ]
+    },
+    {
+      "part": "stems",
+      "color": [
+        "brown"
+      ]
+    }
+  ],
+  "sunlight": [
+    "Full sun"
+  ],
+  "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "pruning_count": [],
+  "seeds": false,
+  "maintenance": "Moderate",
+  "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1729&key=sk-kMpx68b02586bb61112084",
+  "soil": [],
+  "growth_rate": "Low",
+  "drought_tolerant": true,
+  "salt_tolerant": true,
+  "thorny": false,
+  "invasive": false,
+  "tropical": false,
+  "indoor": false,
+  "care_level": "Moderate",
+  "pest_susceptibility": [],
+  "flowers": true,
+  "flowering_season": null,
+  "cones": true,
+  "fruits": false,
+  "edible_fruit": false,
+  "harvest_season": null,
+  "leaf": true,
+  "edible_leaf": false,
+  "cuisine": false,
+  "medicinal": false,
+  "poisonous_to_humans": false,
+  "poisonous_to_pets": false,
+  "description": "The blue atlas cedar is an amazing plant species. It’s a slow growing evergreen conifer with an unmistakable pendulous shape and a bright steel-blue foliage. Growing to an average of 10 metres tall with a spread of 4-6 metres wide, its flowing branches and foliage provide a unique aesthetic. It makes for a great feature tree or hedge and is very tolerant of air pollution. It takes well to pruning and when cared for properly can live for up to 80 years. Also deer resistant, it’s the perfect evergreen for garden beds, parks or large walkways.",
+  "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/1729_cedrus_atlantica_glauca_group_glauca_pendula/og/49401485092_4eb861b2a5_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/1729_cedrus_atlantica_glauca_group_glauca_pendula/regular/49401485092_4eb861b2a5_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/1729_cedrus_atlantica_glauca_group_glauca_pendula/medium/49401485092_4eb861b2a5_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/1729_cedrus_atlantica_glauca_group_glauca_pendula/small/49401485092_4eb861b2a5_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/1729_cedrus_atlantica_glauca_group_glauca_pendula/thumbnail/49401485092_4eb861b2a5_b.jpg"
+  },
+  "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+  "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
