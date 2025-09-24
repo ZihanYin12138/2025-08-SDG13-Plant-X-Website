@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2841,
+      "species_id": 1622,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex cherokeensis"
+      ],
+      "section": [
+        {
+          "id": 8729,
+          "type": "watering",
+          "description": "Watering your Sedge (Carex cherokeensis) depends on your climate and the condition of your soil. In general, be sure to provide enough water for the plant to thrive, but be careful to avoid overwatering.\n\nIf you live in a warm climate, you should water your Sedge a few times a week, or more as needed. Consider giving the plant a deep soak about once every 2 weeks, ensuring that it is adequately hydrated but with minimal flooding. Make sure that the soil dries a bit in between watering.\n\nIn a cooler or drier climate, then you should only water your Sedge once a week. Monitor soil moisture levels and adjust your watering accordingly. Again, be sure to avoid overwatering and provide thorough, but infrequent, waterings for your Sedge."
+        },
+        {
+          "id": 8730,
+          "type": "sunlight",
+          "description": "The amount and timing of sunlight for the plant species called sedge (Carex cherokeensis) is best when it is in light shade to full sun. This plant grows best when it is exposed to 6-8 hours of sunlight per day during the growing season, which is from mid-spring to mid-summer. In the cooler fall and winter months, it is recommended to reduce the amount of light the sedge is exposed to so that it doesn’t become weakened by overexposure to sunlight. An additional benefit to reducing the amount of light in coastal areas is that it will protect the newly established sedges from the harsh salt spray of the ocean."
+        },
+        {
+          "id": 8731,
+          "type": "pruning",
+          "description": "Prune Carex cherokeensis (sedge) in late winter or early spring before the new growth begins. Prune by removing old dead or dying leaves or stems and cutting back any stems that have become too tall. The best way to prune is to prune only 25–30% of the existing foliage growth in order to maintain healthy growth. If it is necessary to remove more than this, split the pruning over several years. Pruning may also be done in the early summer to remove any seed heads or dead foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

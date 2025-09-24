@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 685,
+      "species_id": 1598,
+      "common_name": "ornamental pepper",
+      "scientific_name": [
+        "Capsicum annuum 'Chinese Five Color'"
+      ],
+      "section": [
+        {
+          "id": 2057,
+          "type": "watering",
+          "description": "Ornamental peppers require a moderate amount of water, about twice a week. During the growing season, water the plants thoroughly and allow the soil to dry out slightly between waterings. In the winter, you can water less often, allowing the soil to dry out more before watering again. Avoid over-watering, as this can lead to problems such as root rot and plant death."
+        },
+        {
+          "id": 2066,
+          "type": "sunlight",
+          "description": "Ornamental pepper typically requires full sunlight for optimal growth, although it can tolerate some periods of shade. It should receive around 6-8 hours of direct sunlight each day for best results."
+        },
+        {
+          "id": 2076,
+          "type": "pruning",
+          "description": "Ornamental peppers, or Capsicum annuum 'Chinese Five Color' should be pruned in late winter to early spring. Begin pruning by removing any diseased, damaged, or dead branches. This helps reduce the chance of spreading disease or pests to other areas of the plant. Once the dead and unhealthy branches have been cut, prune off any branches that are crossed or rubbing against each other. You can also prune away portions of the plant to control its size and shape. Keep in mind that this variety of pepper plants is a heavy producer, so don’t prune too much or else you may reduce yield. Pruning should occur as needed throughout the growing season, but the main pruning should take place in the late winter or early spring."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

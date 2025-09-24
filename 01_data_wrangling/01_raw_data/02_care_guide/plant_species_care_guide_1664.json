@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2874,
+      "species_id": 1664,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex phyllocephala 'Sparkler'"
+      ],
+      "section": [
+        {
+          "id": 8828,
+          "type": "watering",
+          "description": "Sedge (Carex phyllocephala 'Sparkler') should ideally be watered on a weekly basis. The amount of water that they will need to be watered will depend on the nursery's recommendations for the specific soil type they are planted in. Generally, this species will thrive with around 1 inch of water per week. Make sure to water deeply so that it is soaking deep into the soil. If the soil is very sandy or dry, give it additional water to ensure it stays hydrated. Avoid overwatering, as wet soil conditions can lead to root rot or other issues. Do not water if the soil is still moist. During extreme heat or if you experience a period of dry weather, the plants may require additional water."
+        },
+        {
+          "id": 8829,
+          "type": "sunlight",
+          "description": "Sedge (Carex phyllocephala 'Sparkler') is a hardy plant species that tolerates full sun to part shade. It requires a minimum of 4 hours of direct sunlight per day to thrive and flourish. In hot climates, it is best to position this plant in a spot where it will receive partial shade during the hottest part of the day. This will prevent the foliage from scorching. The optimal time of day for this plant to receive full sun is 8am-noon, however it may still benefit if the sun hits it until 4pm. If placed in partial shade, late afternoon sun is beneficial."
+        },
+        {
+          "id": 8830,
+          "type": "pruning",
+          "description": "Sedge (Carex phyllocephala 'Sparkler') should be pruned in late spring after the new growth has occurred. Pruning should be done to shape and maintain the desired size of the plant and to remove any dead or damaged foliage. Generally, pruning should only be done to remove dead and damaged foliage, as it can stimulate new growth.\n\nTo maintain the desired size, lightly prune the new spring growth right back to the desired shape. To remove dead or damaged foliage, cut it back to the base of the plant. Avoid pruning into old wood, as this will damage or kill the plant.\n\nOverall, be sure to only prune when necessary and keep the pruning to a minimum. Pruning too much or too often can lead to weakened, unhealthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

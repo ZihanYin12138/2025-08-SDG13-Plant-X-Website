@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1423,
+      "species_id": 1644,
+      "common_name": "oval sedge",
+      "scientific_name": [
+        "Carex leporina"
+      ],
+      "section": [
+        {
+          "id": 4303,
+          "type": "watering",
+          "description": "Oval sedge needs moist soil and regular watering. It should be watered when the top inch of soil begins to dry and should not be allowed to dry out completely. During hot summer months, watering should be done twice per week, and in cooler, wet months, watering can be done once per week. Additionally, if the plant is in a container, adding water to the saucer can help keep the container permanently moist. It’s important to avoid over-watering and ensure that the soil drainage is adequate to prevent root rot. It is generally recommended to wait until the soil is dry before re-watering."
+        },
+        {
+          "id": 4304,
+          "type": "sunlight",
+          "description": "Oval sedge (Carex leporina) grows best when exposed to full sun or partial sun most of the day, especially in the late afternoon. It can tolerate some shade, but will not thrive in continuous shade. For the optimal health and growth of the plant, it needs at least 4-6 hours of direct sunlight each day. In general, oval sedge will perform best when planted in a spot that receives direct sunlight for a majority of the day, especially in the late afternoon when sunlight is most intense."
+        },
+        {
+          "id": 4305,
+          "type": "pruning",
+          "description": "The best time to prune oval sedge (Carex leporina) is in the early spring after the last frost has passed. Pruning should be done carefully and with caution as removing too much of the foliage can result in damaging the plant. Pruning should be done to maintain the shape of the plant and remove any dead, sick, or faded foliage as well as weak or spindly stems. When pruning, make sure to not cut down too close to the ground as the growth of the sedge can be compromised. The amount of pruning should depend on the desired look. If looking to maintain a bushier growth, only remove up to a third of the foliage yearly. However, if looking to restrict the growth of the plant, pruning up to 2/3 of the foliage can be done."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

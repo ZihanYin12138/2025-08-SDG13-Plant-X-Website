@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 674,
+      "species_id": 1597,
+      "common_name": "ornamental pepper",
+      "scientific_name": [
+        "Capsicum annuum 'Black Pearl'"
+      ],
+      "section": [
+        {
+          "id": 2016,
+          "type": "watering",
+          "description": "Ornamental pepper plants should be watered deeply twice a week. Ensure that the soil is evenly moist but not soggy. If the soil is allowed to dry out between watering, it can cause the pepper plant to develop wilting or yellowing foliage. A general rule of thumb is to water the plant until the top 2-3 inches of soil is completely saturated. Be careful not to overwater, as this can cause root rot, which can lead to the plant's death."
+        },
+        {
+          "id": 2020,
+          "type": "sunlight",
+          "description": "Ornamental pepper needs at least 6 hours of direct sunlight per day. This should be spread out throughout the day, with the plants forming a complete rainbow of colors in your garden. They also prefer sunlight during the morning hours, so try to provide this when possible. Be sure to water the plant when the soil feels dry to the touch and remove any dead or dying leaves as soon as you notice them. Additionally, if the soil is at all crumbly, mix in some organic matter or compost to keep the soil moist and fertile."
+        },
+        {
+          "id": 2023,
+          "type": "pruning",
+          "description": "Ornamental peppers may be pruned to maintain a desired shape or size. Smaller varieties of ornamental peppers, such as Black Pearl, should be pruned during the early spring or late fall when the plants are actively growing. The amount of pruning depends on the shape and size desired. For taller plants, it is best to only prune off the dead or damaged branches, whereas for bushy plants it is best to selectively cut off the tallest and most vigorous branches in order to promote less top-heavy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

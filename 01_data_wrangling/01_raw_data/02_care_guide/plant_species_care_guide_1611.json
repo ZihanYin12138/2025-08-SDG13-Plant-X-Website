@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2831,
+      "species_id": 1611,
+      "common_name": "Cardiandra",
+      "scientific_name": [
+        "Cardiandra alternifolia"
+      ],
+      "section": [
+        {
+          "id": 8699,
+          "type": "watering",
+          "description": "Cardiandra (Cardiandra alternifolia) is relatively drought-tolerant and should be watered only when necessary, which usually depends on the current soil moisture levels. During the growing season, the plant should be given 1 to 2 inches of water every week. Inspect the soil prior to watering and only water when the top 2 inches of soil are dry. In hot or dry climates, plants may need to be watered more often. In cooler temperatures, Cardiandra plants will require less water. During the winter months when plant growth slows down, this plant requires much less water and can go weeks at a time without being watered."
+        },
+        {
+          "id": 8700,
+          "type": "sunlight",
+          "description": "Cardiandra alternifolia, commonly known as the Cardiandra plant, prefers plenty of sunlight when it is growing. Its ideal environment is 1 with bright light throughout the day with some direct sunlight, such as a south-facing window. In order to maintain its fertility, it is ideal to expose it to 6 or more hours of sunlight each day. If direct sunlight is not available, the bright indirect light from a south-facing window is also acceptable. This plant should not be subjected to too much intense light, however, as it may suffer from leaf burn. If the plant is placed in a window receiving strong light, be sure to move it to a more suitable location to prevent undue stress and damage."
+        },
+        {
+          "id": 8701,
+          "type": "pruning",
+          "description": "Cardiandra, also known as False Holly, should be pruned during the late spring and early fall months. Pruning during this time will encourage new growth and promote healthy and vigorous flowering. To prune this species, start by removing any dead, yellowed, or damaged foliage. Then, lightly prune back the longest stems, cutting them back to their side shoots. Additionally, you can remove any crossing branches and excess foliage to allow for more air circulation and light penetration. Lastly, prune any stems that are overly thick or long to maintain a neat and compact shape. It's important to not prune too aggressively or drastically, as this could cause undue stress to the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

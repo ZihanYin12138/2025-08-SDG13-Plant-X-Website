@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1418,
+      "species_id": 1629,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex crus-corvi"
+      ],
+      "section": [
+        {
+          "id": 4288,
+          "type": "watering",
+          "description": "Sedge (Carex crus-corvi) should be watered regularly and deeply. The frequency and amount of watering needed depends on a variety of factors, including the plant’s location, time of year, soil type, and surrounding environment. Generally speaking, this species will require 1-2 inches of water every 7-10 days. During particularly dry spells, waterings may need to be increased. Always check the soil before watering to ensure the root system is not overly saturated. Too much water can be damaging, as this species can suffer from root rot or mold if overwatered."
+        },
+        {
+          "id": 4289,
+          "type": "sunlight",
+          "description": "Sedge (Carex crus-corvi) plants do best in bright light, but should not be exposed to direct, intense sunlight for extended periods of time. A plant should receive intense direct sunlight for no more than 6 hours a day. During the rest of the day, they should be placed in bright, diffused light to prevent potential damage to the leaves and to encourage larger blooms. To prevent sunburn, it would be best to keep sedge (Carex crus-corvi) in partial shade during the hottest parts of the day and make sure the plant has plenty of moisture to keep the foliage cool and healthy."
+        },
+        {
+          "id": 4290,
+          "type": "pruning",
+          "description": "For the sedge species Carex crus-corvi, it's recommended to prune in late spring or early summer. Prune the plants lightly or heavily, depending on the desired look. Light thinning is ideal for a natural look while cutting back the taller shoots more evenly will create a more uniform look. If desired, shearing can be used to achieve a more square or compact look. In general, it is advised to cut back up to 1-third of the older or tallest stems to the ground, and a few of the newer ones if desired. This will provide plenty of space for new growth and a healthier overall look. As always, remove any dead or damaged stems as soon as they're spotted."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

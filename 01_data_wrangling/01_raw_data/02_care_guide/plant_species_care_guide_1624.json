@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2843,
+      "species_id": 1624,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex comans"
+      ],
+      "section": [
+        {
+          "id": 8735,
+          "type": "watering",
+          "description": "Water sedge weekly or more often during periods of heat and less during cooler, wetter weather. In general, this drought-tolerant species should be watered every 5 to 7 days, though more frequent watering may be needed in hot, dry conditions. When watering, make sure the soil is thoroughly soaked to a depth of 6 inches, but make sure not to overwater. If you are using a container, water until you see water dripping out of the bottom. Uneven watering may lead to brown foliage or foliage drop. Allow the top 2 inches of soil in the container to dry out before watering again. Provide enough water so that soil remains moist but not soggy."
+        },
+        {
+          "id": 8736,
+          "type": "sunlight",
+          "description": "Sedge (Carex comans) is a plant species that thrives in full sun to partial shade. It needs at least 6 hours of direct sunlight per day for best growth and at least 4 hours of direct sunlight per day for adequate growth. For best results, the plant should receive direct sunlight in the morning when the sun is low in the sky, and some indirect sunlight in the afternoon when the sun is higher. To ensure that the plant receives the optimal amount of light, it should be placed in an area where it will receive direct sunlight for as much of the day as possible."
+        },
+        {
+          "id": 8737,
+          "type": "pruning",
+          "description": "Sedge (Carex comans) should be pruned in late spring. This should be done after the main flush of growth has occurred, typically late March to late May. Pruning can help to remove the previous season's dead stems while encouraging new growth. To prune, carefully remove any dead or injured stems, leaving healthy stems behind. It is best to cut the stems down to close to the ground. If hedge-like planting is desired, prune to shape and maintain desired appearance. If the plant is clumping, start by cutting stems that appear dead, too long, or out of shape, and then remove any side shoots or outward-growing foliage to limit spread. Pruning encourages plant health; however, excessive pruning may reduce overall size of plant and negatively impact flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

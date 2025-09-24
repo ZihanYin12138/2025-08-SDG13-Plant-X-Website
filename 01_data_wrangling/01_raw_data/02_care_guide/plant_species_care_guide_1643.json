@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2857,
+      "species_id": 1643,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex laxiculmis 'Hobb' BUNNY BLUE"
+      ],
+      "section": [
+        {
+          "id": 8777,
+          "type": "watering",
+          "description": "Bunny Blue sedge (Carex laxiculmis 'Hobb') should be watered twice a week, targeting approximately 1 inch of water each time. Water deeply so that the entire root system is moistened. Allow the soil to dry out slightly between waterings. This will help to encourage vigorous root growth. In very hot weather, additional watering may be needed to keep the plant's soil from drying out completely."
+        },
+        {
+          "id": 8778,
+          "type": "sunlight",
+          "description": "Sedge (Carex laxiculmis 'Hobb' BUNNY BLUE) requires full sun for optimal growth and thriving. If planted in partial shade, growth may be lower and the vigor of the plant may be reduced. The ideal growing period for this plant species is at least 8 hours daily of sunshine. If planted in an area which receives less amounts of sun - ideally 5-6 hours - the plant can still thrive, however it is likely to flower less profusely. When a plant is placed in an area of partial shade, it is important to check the soil moisture levels and adjust according to the plant’s needs. Finally, it is essential to remember to shield your sedge plant from strong wind where possible, as this can damage and even kill it."
+        },
+        {
+          "id": 8779,
+          "type": "pruning",
+          "description": "Sedge (Carex laxiculmis 'Hobb' BUNNY BLUE) needs regular pruning to maintain its shape and health. Pruning should be done in late winter to early spring, when the plant is still actively growing. Start by removing any dead, diseased, or damaged growth with a sharp pair of pruning shears. Then thin out the center of the clump, cutting at the base of the stem to reduce overcrowding and encourage better air flow. The plant may need to be cut down significantly in spring to reduce height and promote new growth. Finally, give the plant a final trim in early summer to encourage growth and limit potential seeding."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1059,
+      "species_id": 1604,
+      "common_name": "pepper",
+      "scientific_name": [
+        "Capsicum chinense"
+      ],
+      "section": [
+        {
+          "id": 3178,
+          "type": "watering",
+          "description": "Pepper (Capsicum chinense) plants should be watered regularly; however, how much and when will depend on various factors such as the time of year, the temperature, and the soil type. Generally, peppers prefer moist but well drained soil that is kept evenly moist but not soggy. During warmer weather, peppers should be watered more frequently, up to every 3-5 days. During cooler weather, the water will need to be reduced and the soil should be allowed to dry between waterings. Watering in the morning is best to help protect foliage from fungal diseases. Always check the soil before watering; if the soil is still moist, then the plants don’t need any more water yet."
+        },
+        {
+          "id": 3179,
+          "type": "sunlight",
+          "description": "For pepper plants (Capsicum chinense) to thrive, they need 8-10 hours of sunlight per day on average. To avoid burning the pepper plants, watch the leaves for signs of too much sunlight, such as yellowing, light foliage, or sunburn spots, and adjust the amount of sunlight accordingly."
+        },
+        {
+          "id": 3180,
+          "type": "pruning",
+          "description": "Pruning of a Pepper plant is best done when the plant is in its early stages of growth. If the plant has grown to at least 8\" in length, it is safe to prune it. To prune a pepper plant, remove any dead growth, as well as any branches that are crossing over each other or growing in an unnatural direction. Prune the tips of the branches that have grown beyond an appropriate length to encourage bushier growth. Prune off no more than a 1/3 of the total branches in a given pruning session. Pruning a pepper plant can help it produce more fruits and have a more aesthetically pleasing shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

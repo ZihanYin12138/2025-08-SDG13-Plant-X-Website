@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2823,
+      "species_id": 1594,
+      "common_name": "caper",
+      "scientific_name": [
+        "Capparis spinosa var. inermis"
+      ],
+      "section": [
+        {
+          "id": 8675,
+          "type": "watering",
+          "description": "Caper plants should be watered when the soil is dry to the touch, about once per week. Water at the base of the plant and avoid getting moisture on the leaves. When the top inch or 2 of soil is dry, gently water the soil until it is damp. Water deeply -- about 2.5-3 cm -- to ensure proper growth. During the heat of the summer, water more frequently, as the plants will lose moisture quickly from their leaves. In cooler temperatures, you can cut back slightly on watering. Overwatering can lead to root rot, so make sure to err on the side of caution."
+        },
+        {
+          "id": 8676,
+          "type": "sunlight",
+          "description": "Caper plants require a lot of sunlight for optimal growth. During spring, summer and early fall, the plant should be in a location that gets at least 8 hours of direct sunlight a day. It is recommended that this plant is grown in areas with a minimum of Zone 8 and the USDA Hardiness Zone should be between 9 and 11. In winter, the plant should still be able to access a minimum of 6 hours of sunlight a day to keep growing. During these months, the plant should be in an area with complete sun protection to help prevent frost damage."
+        },
+        {
+          "id": 8677,
+          "type": "pruning",
+          "description": "Caper plants (Capparis spinosa var. inermis) should be pruned regularly to maintain their shape and promote vigorous growth. Pruning should be done in the late winter or early spring, before the new growth begins. Start by cutting out the oldest, weakest, and most unproductive branches back to just above where there is a juncture of 2 healthy shoots. Then, gently prune any overly long or erratic shoots to keep the plant compact and manageable. Pruning should be done sparingly though, as the leaves and stems on this plant are highly acidic and are used as a defense against predators. Pruning should be limited to 3 or 4 times a year, with heavier pruning done in the spring and light pruning in the summer."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

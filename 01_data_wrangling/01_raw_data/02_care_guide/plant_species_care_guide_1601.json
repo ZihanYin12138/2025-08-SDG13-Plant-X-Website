@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 686,
+      "species_id": 1601,
+      "common_name": "ornamental pepper",
+      "scientific_name": [
+        "Capsicum annuum 'Onyx Red'"
+      ],
+      "section": [
+        {
+          "id": 2058,
+          "type": "watering",
+          "description": "Ornamental pepper plants require moderate amounts of water. Water your Ornamental Pepper about once every week to 10 days to make sure the soil stays moist without becoming oversaturated. Look for any signs of wilting or drooping leaves that indicate a need for water. Give your Ornamental Pepper plant a thorough watering, until the excess water begins to drain from the bottom of the pot. During hotter and drier months in summer, you may be required to water more frequently."
+        },
+        {
+          "id": 2068,
+          "type": "sunlight",
+          "description": "Ornamental pepper plants need at least 6 hours of direct sunlight every day, preferably in the early morning or late afternoon. During the summer, they can handle up to 8 hours of direct sunlight per day. Placing them in shadier spots can reduce yields and cause stunted growth."
+        },
+        {
+          "id": 2077,
+          "type": "pruning",
+          "description": "Ornamental pepper (Capsicum annuum 'Onyx Red') should be pruned regularly for optimal growth and flowering. Pruning is best done in spring, after all danger of frost is past, when new growth is emerging. To maintain a desirable shape and encourage healthy foliage and blooming, remove all old or withered stems from the base. You may choose to prune for size and shaping. Pruning should be done lightly, taking off no more than 1-third of the existing growth. Prune stems back to 2 to 3 buds above the original base."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

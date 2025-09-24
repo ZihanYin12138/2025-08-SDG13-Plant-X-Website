@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2835,
+      "species_id": 1615,
+      "common_name": "white-tinged sedge",
+      "scientific_name": [
+        "Carex albicans"
+      ],
+      "section": [
+        {
+          "id": 8711,
+          "type": "watering",
+          "description": "White-tinged sedge requires regular watering to thrive. It should be watered consistently, about twice a week so that the soil remains consistently moist but not saturated. In the summer months, if the temperature reaches high levels or there is not enough rainfall, the plant may require more frequent watering. In the winter months, keep the soil lightly moist, no more than twice a month. If you are in an area with cooler temperatures, you may be able to reduce watering even more. During extreme weather conditions, such as heat waves or prolonged periods of cold temperatures, the plant may require more frequent watering. Take care not to overwater as it can lead to root rot or stunted growth."
+        },
+        {
+          "id": 8712,
+          "type": "sunlight",
+          "description": "White-tinged sedge (Carex albicans) thrives in areas with partial to full sun exposure, with at least 6 hours of direct sunlight each day. It can tolerate some periods of shade, but does best with consistent sun exposure throughout the day. To encourage strong growth and health, provide white-tinged sedge with a good amount of direct sunlight between 10 am and 4 pm. Additionally, white-tinged sedge grows best when exposed to direct sunlight for at least 8 to 9 hours every day."
+        },
+        {
+          "id": 8713,
+          "type": "pruning",
+          "description": "White-tinged sedge should be pruned throughout the growing season, starting in late spring. It is best to prune these plants when the new shoots are approximately 3 to 4 inches tall. Pruning should involve cutting the old, dead or faded leaves and stems and removing any dead blooms. To prevent overcrowding, you should prune out the center of the plant, which will encourage the remaining shoots to grow outward. Pruning should be done lightly, as over-pruning may damage the plant. After pruning, be sure to water and mulch the plants to provide plenty of moisture."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

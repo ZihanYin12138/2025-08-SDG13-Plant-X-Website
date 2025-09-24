@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1422,
+      "species_id": 1641,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex 'Ice Dance'"
+      ],
+      "section": [
+        {
+          "id": 4300,
+          "type": "watering",
+          "description": "Watering for Carex 'Ice Dance' is relatively simple. It needs to be kept consistently moist at all times, and it is best to check the moisture level by feeling the soil before watering. Colder temperatures and shade require less frequent waterings than warmer temperature and full sun. In general, it is recommended to water Carex 'Ice Dance' at least once a week, ensuring that the soil is moist to a depth of 1-2 inches but not soggy. If you live in an area with high temperatures and dry conditions, supplementing with waterings every 3-4 days may be necessary."
+        },
+        {
+          "id": 4301,
+          "type": "sunlight",
+          "description": "Carex 'Ice Dance' prefers full sun to part shade, receiving indirect sunlight or part shade for mild climates, but if located in a hot and humid region, more shade is recommended. It is said that 6 to 8 hours of direct sunlight each day is ideal for this plant species. "
+        },
+        {
+          "id": 4302,
+          "type": "pruning",
+          "description": "For optimal growth of sedge (Carex 'Ice Dance'), regular pruning is recommended. Pruning should be done in spring and late summer to early fall. Remove only damaged or dead stems and divide up clumps to reduce overcrowding. This can be done by cutting through the roots at the base of the plant or by division of the plant as a whole. Pruning should also be done to sculpt and shape the plant to create a desired appearance. Also, cut back any dead or brown stems to the ground to promote new growth in the spring. For mass plantings, pruning can be done with a string trimmer or hedge shears to maintain the desired size and shape. This should be done every 6-12 weeks."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

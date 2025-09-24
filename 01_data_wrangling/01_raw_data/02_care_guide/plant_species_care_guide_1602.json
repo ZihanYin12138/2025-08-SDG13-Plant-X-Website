@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2825,
+      "species_id": 1602,
+      "common_name": "sweet bell pepper",
+      "scientific_name": [
+        "Capsicum annuum 'Park's Early Thickset'"
+      ],
+      "section": [
+        {
+          "id": 8681,
+          "type": "watering",
+          "description": "Sweet bell pepper plants (Capsicum annuum 'Park's Early Thickset') do best when they receive regular, consistent watering. Aim to give your plants 1-2 inches of water per week, either from rainfall or a watering can.Water your peppers early in the morning, so they have time to dry before nightfall. Avoid getting the foliage wet as much as possible since wet foliage can lead to diseases. If you are growing your peppers in containers, monitor the soil moisture and adjust your watering as needed. The soil should be evenly moist but not soggy."
+        },
+        {
+          "id": 8682,
+          "type": "sunlight",
+          "description": "Sweet bell peppers (Capsicum annuum 'Park's Early Thickset') require full sunlight in order to grow and thrive. They will need at least 6-8 hours of direct sunlight each day. If the sun exposure is inadequate, the plant may suffer from decreased yields or paleness of the fruit. Remember that indirect light (such as shade) is not a substitute for direct sunlight. It is also important to remember that this plant prefers cooler temperatures and should be protected from high temperatures, especially in the afternoon."
+        },
+        {
+          "id": 8683,
+          "type": "pruning",
+          "description": "Pruning sweet bell peppers (Capsicum annuum 'Park's Early Thickset') should begin once the plant is established and the main stem is about a foot long. Generally, the plant should be pruned around 2-3 times a year. The process includes removing any stalks or branches that appear frail, weak, or lacking in leaves or stems. This helps stimulate new growth and encourages more fruit production. It is also recommended to remove any stems or limbs that have reached the top of the canopy, as this will allow for more airflow and sunlight to the lower parts of the plant. When pruning, be sure not to remove more than ⅔ of the foliage, as this can negatively affect growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

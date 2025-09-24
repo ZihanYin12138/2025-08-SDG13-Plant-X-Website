@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2882,
+      "species_id": 1674,
+      "common_name": "tussock sedge",
+      "scientific_name": [
+        "Carex stricta"
+      ],
+      "section": [
+        {
+          "id": 8852,
+          "type": "watering",
+          "description": "Tussock sedge (Carex stricta) requires consistently moist, well-draining soil and can tolerate flooding for short periods. It should be watered deeply and thoroughly when the soil begins to dry out, about once every 2-3 weeks. To water, slowly pour water over the soil until it runs out of the drainage holes. Allow the soil to dry completely in between watering. During the summer months, the plant may need to be watered more frequently during hot, dry spells. Be sure to check the soil daily if the plant is located in full sun to ensure that it doesn’t dry out too quickly."
+        },
+        {
+          "id": 8853,
+          "type": "sunlight",
+          "description": "Tussock sedge (Carex stricta) grows best in full sun to partial shade. For this species of sedge, full sun is ideal, as it will promote growth and allow the plant to get plenty of light. It should be given at least 6 hours of direct sunlight each day, preferably throughout the middle of the day. In areas that experience morning sun and afternoon shade, the plant will still benefit. Too much shade can weaken the plant and cause it to become sparse and patchy. When given enough sunlight, the tussock sedge will have a healthy, wide-spreading growth."
+        },
+        {
+          "id": 8854,
+          "type": "pruning",
+          "description": "Tussock sedge (Carex stricta) should be pruned back once a year in late winter or early spring (March/April). Cut the stems down to about 1/2 to 3/4 of their original height, aiming to reduce both the height and width of the plant. Discard any dead or damaged foliage, and avoid pruning healthy shoots. Pruning tussock sedge can help to promote vigorous new growth and discourage disease and pests."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

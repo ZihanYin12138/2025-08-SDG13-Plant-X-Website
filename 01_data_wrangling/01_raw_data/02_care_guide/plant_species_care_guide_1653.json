@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2865,
+      "species_id": 1653,
+      "common_name": "black sedge",
+      "scientific_name": [
+        "Carex nigra"
+      ],
+      "section": [
+        {
+          "id": 8801,
+          "type": "watering",
+          "description": "Black sedge should be watered 2 to 3 times a week during its active growing season (spring to fall). During this time, the soil should be kept moist but not soggy. Each irrigation should last for about 15 minutes and should use enough water so that it penetrates the soil about 6 inches deep. During winter months, the amount of water should be reduced, and watering should be done about once every 2 weeks."
+        },
+        {
+          "id": 8802,
+          "type": "sunlight",
+          "description": "Black sedge (Carex nigra) is an evergreen, sun-loving species of sedge found throughout much of the US. It does best when grown in moist, well-draining soils in full sunlight to partial shade. In general, full sun is preferable to partial shade for this species. If grown in partial shade, it may become spindly and may become prone to disease. To ensure the best growth, provide 6-8 hours of direct sunlight each day."
+        },
+        {
+          "id": 8803,
+          "type": "pruning",
+          "description": "Black sedge is a fast-growing perennial often used in gardens for its attractive foliage. Pruning of black sedge should be done in the late winter or early spring before new growth appears. It is best to prune back the plants to 1-2 inches of the soil line. The exact amount of pruning that should take place depends on the size and shape desired for the finished look of the plant. Pruning back too much can reduce the plants vigor so if possible, try to minimize the amount of foliage removed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2875,
+      "species_id": 1665,
+      "common_name": "clustered field sedge",
+      "scientific_name": [
+        "Carex praegracilis"
+      ],
+      "section": [
+        {
+          "id": 8831,
+          "type": "watering",
+          "description": "Clustered field sedge prefers moist soil and will require frequent watering. It should be watered at least once a week or every other week, depending on the climate and soil type. During the warm season, water it evenly and deeply once a week, and water it more often in hotter climates. During the winter months, be sure to continue watering, although at a slightly less frequent rate than the warm months, so that the soil does not dry out too much. Make sure to check the soil moisture before watering as overwatering can easily damage this species."
+        },
+        {
+          "id": 8832,
+          "type": "sunlight",
+          "description": "Clustered field sedge (Carex praegracilis) is a species of plant that prefers full sun or light shade and thrives when given around 8 hours of direct sunlight each day. Clustered field sedge should be planted in a protected area to ensure it is not shaded by other plants or buildings, as too little sunlight can cause stunted growth. When grown in its ideal light conditions, clustered field sedge typically blooms in May or June with a long flowering period."
+        },
+        {
+          "id": 8833,
+          "type": "pruning",
+          "description": "Clustered Field Sedge should be pruned twice a year. In the early spring season (March-April), lightly prune the plants to remove any dead foliage and stems, and to give the plants a more even shape. This also stimulates the plant to produce new growth. In the late summer season (July-August), lightly prune the plants again to remove any dead or damaged foliage; this will promote healthier and more robust growth in the upcoming season. Always use sharp, clean tools when pruning and remove no more than 1-third of the plants foliage and stems."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

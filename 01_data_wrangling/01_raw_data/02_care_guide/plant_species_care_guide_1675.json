@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2883,
+      "species_id": 1675,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex swanii"
+      ],
+      "section": [
+        {
+          "id": 8855,
+          "type": "watering",
+          "description": "For Carex swanii, watering should be moderate and frequent. Water when the top layer of soil becomes dry, about once every 1-2 weeks, making sure to never let the soil become completely dry or start to become soggy. You may need to adjust the frequency of watering based on the season; during the warmer months, the plant may require watering more often than in the cooler months. Additionally, misting the foliage of the plant weekly can help to keep the leaves hydrated and looking fresh and healthy."
+        },
+        {
+          "id": 8856,
+          "type": "sunlight",
+          "description": "Carex swanii is a perennial sedge that thrives in moist to wet soils and partial sun. This species prefers light shade, with only a few hours of direct sunlight in the morning or late afternoon. Most of the day should be spent in light shade or indirect sunlight. It can grow in full shade as well, but for optimum growth it should receive some sun. Even winter sun is important for the Carex swanii sedge, as it helps the plant produce more food and remain greener throughout the colder months."
+        },
+        {
+          "id": 8857,
+          "type": "pruning",
+          "description": "When it comes to pruning sedge (Carex swanii), it's important to do so on an as-needed basis. The ideal time for pruning is in the late spring or early summer after your plant has finished flowering. During this time, you should remove any dead, broken, or damaged foliage, as well as any dead flower stems. You may also prune to shape your plant or to encourage a bushier growth, though this can be done at any time of the year. You may also need to remove any stolons (runners) that are taking up too much space and present a hazard to your garden's other plants. How much to prune depends on the size of the plant; for a small sedge, prune away no more than 1-third of the foliage. For a larger sedge, take away no more than 1-half of the foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

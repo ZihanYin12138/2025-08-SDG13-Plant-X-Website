@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2873,
+      "species_id": 1662,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex pensylvanica 'Straw Hat'"
+      ],
+      "section": [
+        {
+          "id": 8825,
+          "type": "watering",
+          "description": "The Sedge (Carex pensylvanica 'Straw Hat') should be watered every 2-3 days, using 1-2 inches of water each time. Water in the early morning or late evening, avoiding the heat of the day. Soak the soil, and do not let it dry completely between waterings. In the summer, a 2- to 3-week period of excessive heat may require an increase in watering frequency. During cooler winter weather, watering should be reduced, allowing the top couple inches of soil to dry out between waterings."
+        },
+        {
+          "id": 8826,
+          "type": "sunlight",
+          "description": "Sedge (Carex pensylvanica 'Straw Hat') requires medium to full sun to grow and promote healthy growth. This variety of sedge prefers full sun for 4-6 hours daily, in order to receive adequate amounts of nutrients and energy to thrive. Too much direct sunlight can damage this species, so be sure to avoid prolonged exposure throughout the day. For best results, provide full to partial sun in the morning to early afternoon hours in order to provide the desired light duration."
+        },
+        {
+          "id": 8827,
+          "type": "pruning",
+          "description": "Sedge (Carex pensylvanica 'Straw Hat') requires minimal pruning, and only the most overgrown plants need to be shaped or cut back. When needed, pruning should be done in the late fall, after the plant has gone dormant. Before pruning, inspect the plant carefully for any dead or damaged stems, and cut these away first. Then, if it needs shaping, cut back the tips of some of the lower growth to retain the desired aesthetic. Be sure not to trim too heavily, as too much pruning can prevent the plant from flowering and can cause it to become more vulnerable to disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

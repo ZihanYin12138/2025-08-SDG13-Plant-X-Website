@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2884,
+      "species_id": 1676,
+      "common_name": "Berkeley sedge",
+      "scientific_name": [
+        "Carex tumulicola"
+      ],
+      "section": [
+        {
+          "id": 8858,
+          "type": "watering",
+          "description": "Berkeley sedge (Carex tumulicola) should be watered regularly throughout the growing season to ensure that the soil remains moist, but not soggy. During the warmer months, water the sedge about once a week, in the morning, to give it the water it needs. During cooler weather, water it less often and in the evening, as this will avoid the water from burning the leaves in the heat of the day. Make sure to spread the water over a wide area, to avoid causing root rot through pooling water. Soak the soil to a depth of about an inch, and then wait for it to dry out before watering again. In the summer, and in dry soil, Berkeley sedge may require more frequent watering."
+        },
+        {
+          "id": 8859,
+          "type": "sunlight",
+          "description": "Berkeley sedge (Carex tumulicola) typically prefers full sun, but can tolerate some light shade. In summer, it needs approximately 6 hours of direct sun each day; in the winter and fall months, 4 hours of direct sun each day is usually enough. Berkeley sedge should be placed in an area that gets a combination of morning and afternoon sun. It enjoys full sun but should also be shielded from mid-day sun, as the intense heat of direct sunlight can burn the foliage."
+        },
+        {
+          "id": 8860,
+          "type": "pruning",
+          "description": "Berkeley sedgeshould be pruned in early spring or late autumn when the plant is emerging from or entering dormancy. Pruning should be minimal. Pruning should include removing dead, damaged and crowded or overly dense stems. It is best to leave the foliage around the stems for as long as possible before pruning, so that the plant can feed on its energy reserves. Make sure not to prune more than 50% of the current foliage at 1 time."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

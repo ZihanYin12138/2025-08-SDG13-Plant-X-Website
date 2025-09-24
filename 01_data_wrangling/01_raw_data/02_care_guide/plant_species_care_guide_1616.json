@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2836,
+      "species_id": 1616,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex annectens"
+      ],
+      "section": [
+        {
+          "id": 8714,
+          "type": "watering",
+          "description": "Sedge (Carex annectens) needs to be watered regularly for optimal growth. The exact amount and frequency of water can vary based on a variety of factors, such as the type of soil, the amount of sunlight the plant receives, and the climate.\n\nAs a general rule, water sedge deeply about once a week. It should be watered until the soil around the plant is moist but not soggy. During periods of high temperatures or intense sunlight, it may need to be watered more frequently. In areas with cooler climates, it may need to be watered less often. In addition, sedge should be fertilized every few weeks in order to provide it with the nutrients it needs to stay healthy.\n\nOverall, sedge requires consistent but moderate watering to thrive. Paying attention to the needs of the individual plant and your local climate is the best way to ensure that your sedge stays healthy and beautiful."
+        },
+        {
+          "id": 8715,
+          "type": "sunlight",
+          "description": "Sunlight for sedge (Carex annectens) should be plentiful during the growing season, which is typically spring through fall. It prefers full sun, which means at least 4 hours of direct sunlight each day; however, it can tolerate some light shade as well. In Southern regions with very hot summers, partial shade may be necessary to prevent scorching. In colder regions, some morning or evening sun is beneficial. Too much sun may cause the foliage to dry out and turn brown."
+        },
+        {
+          "id": 8716,
+          "type": "pruning",
+          "description": "Sedge (Carex annectens) should typically be pruned once every 2 to 3 years in late winter or early spring, before the plant begins actively growing in the warmer weather. Pruning should be done when actively growing plants have reached a height of 1 or 2 feet and when the foliage is mature. Snip off the dead or declining foliage at the base of the plant with shears or pruning clippers. Deadheading of any seed heads can also be done at this time for aesthetic reasons. If the plant has become too large, it may need to be thinned out for increased air circulation or shaped. Be sure to remove no more than 1-third of the foliage in any 1 pruning session in order to maintain the health of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

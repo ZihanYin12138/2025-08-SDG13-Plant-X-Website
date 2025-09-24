@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1549,
+      "species_id": 1668,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex siderosticha 'Banana Boat'"
+      ],
+      "section": [
+        {
+          "id": 4729,
+          "type": "watering",
+          "description": "During the growing season, water Sedge (Carex siderosticha 'Banana Boat') at least once a week. It should be watered deeply, soaking the soil to a depth of 12 inches (30 cm). During hot weather, increase watering to twice per week. In winter, reduce the watering to only once during longer dry spells, leaving the soil slightly damp. Be sure not to over-water, as this can cause root rot."
+        },
+        {
+          "id": 4730,
+          "type": "sunlight",
+          "description": "Sedge (Carex siderosticha 'Banana Boat') should receive 4-6 hours of direct sunlight each day in order to thrive. This will ensure the plant remains healthy and vigorous. This species of sedge, however, is tolerant of more shade than other grass-like plants, so you can give it partial shade and still expect it to grow well. In some cases, providing too much direct sunlight can be detrimental and cause the plant to burn."
+        },
+        {
+          "id": 4731,
+          "type": "pruning",
+          "description": "For Carex siderosticha 'Banana Boat' sedges, pruning should be done with a sharp pair of pruners in the early spring, before the new growth begins to appear. The sedge should be pruned lightly, removing only the dead, damaged, or overgrown foliage above the soil line. To maintain the desired height, remove the top 2 inches of the stems. If the sedge is becoming overgrown, more aggressive pruning may be needed. Trim off the longest stems back to just a few inches instead of shearing the top. Over time, this will help to control the size of the sedge and promote new, healthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

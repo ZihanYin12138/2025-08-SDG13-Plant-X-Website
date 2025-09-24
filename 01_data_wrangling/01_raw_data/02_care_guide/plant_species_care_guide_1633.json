@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1421,
+      "species_id": 1633,
+      "common_name": "tufted sedge",
+      "scientific_name": [
+        "Carex elata"
+      ],
+      "section": [
+        {
+          "id": 4297,
+          "type": "watering",
+          "description": "Tufted sedge requires moderate to regular watering. Deep irrigation should be done twice a week during the growing season, with a light irrigation on the other days. During the hottest summer months, it will require more frequent irrigation to ensure the plant does not dry out. During the winter months, when the temperatures drop, the amount of water needed will decrease significantly. In some climates, the tufted sedge may be drought tolerant and may not require watering until the temperatures rise."
+        },
+        {
+          "id": 4298,
+          "type": "sunlight",
+          "description": "Tufted Sedge (Carex elata) prefers full, bright sunlight for optimal growth, with a minimum of 8 hours of sunlight each day. The plant can tolerate partial shade, but will likely grow best if given full light each day. In the summer, tufted sedge should be exposed to direct sunlight as much as possible to achieve its fullest growth potential. For winter months, a little less direct sun is needed. This can be achieved by providing indirect sunlight, such as through windows or under shade trees. When not exposed to enough sunlight, tufted sedge produces fewer flowers and can experience a lack in the overall vigor of the plant."
+        },
+        {
+          "id": 4299,
+          "type": "pruning",
+          "description": "Tufted Sedge should be pruned in the Fall, as part of a general garden clean-up. Pruning this plant will help to keep its growth in check and encourage the formation of thicker tufts, making for a fuller looking plant. To prune, simply cut back or remove any stalks or flower heads that have bloomed. If the plant appears to be getting too tall or too dense, take out some of the newest leaves and/or stalks; this should help add more airflow and light to the plant's environment. It is best to prune in small amounts, as each plant is unique and may require different amounts of maintenance. Over-pruning can be detrimental to the plant and should be avoided."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1427,
+      "species_id": 1666,
+      "common_name": "eastern star sedge",
+      "scientific_name": [
+        "Carex radiata"
+      ],
+      "section": [
+        {
+          "id": 4315,
+          "type": "watering",
+          "description": "Eastern Star Sedge should be watered regularly, depending on the time of year. In winter, the sedge should be watered only when the soil becomes completely dry and should be done about twice per month. In summer, however, more frequent watering is needed; water the sedge every 10-14 days. Make sure to thoroughly water the soil, so that the water reaches the roots of the plant. It is also essential to avoid overwatering the sedge as it hates being soggy."
+        },
+        {
+          "id": 4316,
+          "type": "sunlight",
+          "description": "Eastern Star sedge is a species of grass-like perennial that enjoys full sun to part shade. To ensure optimal growth, this plant species should be provided with 6 to 8 hours of direct sunlight per day. Eastern Star sedge is also relatively drought-tolerant and can survive in a wide range of light conditions, as long as there is adequate water and moisture in the soil. As with most plants, the best time of day to provide sunshine to eastern star sedge is in the morning and early afternoon. Avoid exposing it to bright, scorching mid-day sun as this can damage the plant's foliage. To ensure the best possible conditions for the plant, it's best to place it in a spot that receives partial sun or filtered shade."
+        },
+        {
+          "id": 4317,
+          "type": "pruning",
+          "description": "Eastern Star Sedge should be pruned lightly in early spring and late summer, as needed. Pruning should be done by removing any dead or damaged foliage as well as any stems or foliage that are overcrowding, or interfering with other plants. When pruning, make sure to use clean, sharp pruning shears and remove foliage at the base of the plant. It is best to prune just above a new growth bud, ensuring that it won’t grow back in an unattractive fashion. Some pruning during the active summer season may be necessary, but it should be kept to a minimum to avoid stressing the plant. Pruning too much foliage will reduce growth and make the plant look thin and wispy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

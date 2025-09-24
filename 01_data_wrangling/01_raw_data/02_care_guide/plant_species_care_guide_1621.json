@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2840,
+      "species_id": 1621,
+      "common_name": "Bush's sedge",
+      "scientific_name": [
+        "Carex bushii"
+      ],
+      "section": [
+        {
+          "id": 8726,
+          "type": "watering",
+          "description": "Bush's sedge should be watered regularly and lightly to maintain a moderate moisture level in the soil. During the growing season (spring through fall), the soil should be kept uniformly moist, but not soggy, about once a week or every 7-10 days depending on weather conditions. During the fall and winter months when the plant is dormant, water should be given only when necessary, typically once every 2 to 3 weeks, depending on the climate. In hotter climates with low humidity, more frequent watering may be required."
+        },
+        {
+          "id": 8727,
+          "type": "sunlight",
+          "description": "Bush's sedge (Carex bushii) needs full to partial sun. It prefers at least 4 hours of direct sunlight per day, but the amount of sunlight can be adjusted depending on the intensity of the sun at the plant’s location. In hotter areas, avoiding the midday sun and orienting the plant to the east or north will help shield it from the strongest midday sun. In contrast, the plant may benefit from additional sunlight in cooler climates, so orienting the plant towards the south will allow it to receive more solar exposure. In general, the best approach is to observe the effect of the sun on the plant and adjust accordingly."
+        },
+        {
+          "id": 8728,
+          "type": "pruning",
+          "description": "Bush's sedge should be pruned in the spring, right before new growth appears. Pruning should be kept to a minimum and should not remove more than 10% of the plant at a time. You can remove any dead, dying, or diseased stems, as well as any old stems that are no longer producing foliage. You may also want to thin out some of the interior growth to encourage new shoots. Avoid aggressively pruning our Bush's sedge as it may cause new growth to be disfigured."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

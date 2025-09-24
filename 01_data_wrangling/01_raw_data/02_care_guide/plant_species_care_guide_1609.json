@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2829,
+      "species_id": 1609,
+      "common_name": "bitter cress",
+      "scientific_name": [
+        "Cardamine pratensis"
+      ],
+      "section": [
+        {
+          "id": 8693,
+          "type": "watering",
+          "description": "Bitter cress should be watered regularly but not excessively. It should be watered when the soil has become slightly dry, meaning that the top 1-2 inches of soil should appear dry before a deep watering is necessary. This should be done twice a week, allowing the soil to become dry between waterings. Additionally, the water should be at room temperature to ensure that your bitter cress stays healthy. Lastly, be sure to avoid over-watering your plant as this can cause the roots to rot and the plant to die."
+        },
+        {
+          "id": 8694,
+          "type": "sunlight",
+          "description": "Bitter cress (Cardamine pratensis) needs at least 6 hours of direct sunlight each day to thrive and grow to its fullest extent. Too much direct sunlight can cause the plant to overheat and wilt, so it should be kept in a spot that gets indirect afternoon sunlight. Full sun exposure in the morning and partial shade in the afternoon is ideal. Providing adequate sunlight can help the plant bloom with white 4-petal flowers. On the other hand, if the amount of sunlight is insufficient, the plant might not bloom."
+        },
+        {
+          "id": 8695,
+          "type": "pruning",
+          "description": "Bitter cress (Cardamine pratensis) should be pruned to promote growth and blooming. Pruning should be done in early spring before the new leaves emerge. Cut all stems and leaves back to around 6 inches (15 cm) in height. This will encourage vigorous growth. It is also a good idea to thin out the plant by snipping off smaller stems to promote air circulation and light penetration. Additionally, prune off any old or diseased stems to help the plant remain healthy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

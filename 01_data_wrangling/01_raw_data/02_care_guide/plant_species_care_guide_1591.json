@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2820,
+      "species_id": 1591,
+      "common_name": "canna",
+      "scientific_name": [
+        "Canna 'Striata'"
+      ],
+      "section": [
+        {
+          "id": 8666,
+          "type": "watering",
+          "description": "Canna 'Striata' should be watered whenever the soil feels dry to the touch (up to 1 inch deep). During the growing season, water thoroughly once a week, saturating the soil to its full capacity. During the hottest months, it may need to be watered every 3 or 4 days. In the winter, reduce watering to once a month. Make sure to check the soil moisture level before watering; dry when deep. Soil that is constantly wet will cause the plant's roots to rot."
+        },
+        {
+          "id": 8667,
+          "type": "sunlight",
+          "description": "Canna 'Striata' plant species prefer full sun for 6-8 hours per day, especially during the growing season for maximum flowering. When not in the growing season, 3-4 hours of direct sun per day is sufficient. However, if kept in partial shade or indoors, Canna 'Striata' should be given several hours of direct sun per day, up to 8 hours depending on local intensity levels."
+        },
+        {
+          "id": 8668,
+          "type": "pruning",
+          "description": "Canna 'Striata' should be pruned in late winter when the plant is still dormant. Pruning should be done lightly, removing only a third of the top growth at most. If more pruning is desired, it should be spaced out over a few days rather than done all at once. Remove any dead or broken stems as well as those that are the most crowded or congested. Fertilize after pruning to encourage new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

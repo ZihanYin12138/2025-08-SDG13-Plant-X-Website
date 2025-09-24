@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2846,
+      "species_id": 1627,
+      "common_name": "fringed sedge",
+      "scientific_name": [
+        "Carex crinita"
+      ],
+      "section": [
+        {
+          "id": 8744,
+          "type": "watering",
+          "description": "Fringed sedge plants should be watered about once a week when the soil is dry to the touch. Water thoroughly so that the ground is saturated, but allow the soil to dry out between waterings. Water the soil around the plant, rather than on the leaves, as this can promote fungal diseases. Moderate amounts of water are best; avoid over-watering, which can cause rot and other diseases. When temperatures are very high, dense foliage can benefit from light misting with a spray bottle, but avoid wetting the leaves too often."
+        },
+        {
+          "id": 8745,
+          "type": "sunlight",
+          "description": "Fringed sedge requires full to partial sunlight for optimal growth. When grown in full sun, the Carex crinita will grow best in an area that experiences 8-10 hours of direct sunlight a day. It should however, also receive some shade in the afternoon when the temperatures are at their warmest. This reduces the chance of the plant getting sunburnt. When grown in partial sunlight, Carex crinita only requires 4-6 hours of direct sunlight daily."
+        },
+        {
+          "id": 8746,
+          "type": "pruning",
+          "description": "Fringed sedge (Carex crinita) should be lightly trimmed once a year in late winter or early spring. Prune off any dead or diseased growth. When pruning, only cut to the above ground foliage, not into the roots. This will help to maintain the species' graceful mounding form. Deadheading throughout the year is also beneficial, as it helps to maintain the plant's vigor and encourages the growth of more foliage."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

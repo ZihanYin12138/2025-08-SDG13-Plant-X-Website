@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 687,
+      "species_id": 1603,
+      "common_name": "ornamental pepper",
+      "scientific_name": [
+        "Capsicum annuum 'Purple Flash'"
+      ],
+      "section": [
+        {
+          "id": 2059,
+          "type": "watering",
+          "description": "Ornamental peppers should be watered deeply, 1-2 times per week, in order to deliver water directly to the roots. Allow the top 1 inch of soil to become dry before watering again to ensure that the roots are getting adequate moisture. Depending on the climatic conditions, more frequent watering may be necessary. For best results, water in the morning to give the plant time to absorb moisture throughout the day. It is also a good idea to water the plant at the base instead of on the leaves. The key is to keep the soil evenly moist but never soggy or wet."
+        },
+        {
+          "id": 2069,
+          "type": "sunlight",
+          "description": "Ornamental pepper is a plant species that thrives best in direct sunlight, with 6 to 8 hours of sunlight a day. This species does not do well in areas with a lot of shade or overcast conditions, and should be kept away from obstructions such as buildings or trees, which can shade the area. "
+        },
+        {
+          "id": 2078,
+          "type": "pruning",
+          "description": "Ornamental peppers should be pruned in early spring by removing any dead, diseased, or broken stems and branches, as well as any stems that are more than twice the diameter of the main stem. Pruning helps to improve air circulation and light penetration, and can also reduce the spread of any disease to other plants. Additionally, pruning will keep the shape of the plant more compact and promote new growth. Avoid pruning any stems by more than a third of their length to avoid stressing the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

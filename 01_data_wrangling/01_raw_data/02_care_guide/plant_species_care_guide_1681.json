@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2889,
+      "species_id": 1681,
+      "common_name": "common hornbeam",
+      "scientific_name": [
+        "Carpinus betulus 'Columnaris Nana'"
+      ],
+      "section": [
+        {
+          "id": 8873,
+          "type": "watering",
+          "description": "Common hornbeams prefer regular watering, but should not be over-watered. Saturate the soil when watering, and allow the top layer of soil to dry out between waterings. In general, hornbeams should be watered 2 to 3 times a week during the growing season and less often in the winter. Before watering, check the soil for moisture and water when the top 2 inches of soil is dry. If temperatures are hot or windy, the plants may need to be watered more often."
+        },
+        {
+          "id": 8874,
+          "type": "sunlight",
+          "description": "Common hornbeam (Carpinus betulus 'Columnaris Nana') is a moderately large deciduous, conical shaped tree that can grow in sun, semi-shade or shade prone areas. It prefers full sun for best results, although it can withstand some light shade. It needs at least 6 hours of sunlight per day in order to thrive and reach its full potential. Morning sun is preferable, as this will help the tree to dry off early in the day and reduce the chances of fungal diseases. Hornbeam can also benefit from some additional, indirect sunlight in the afternoon. Hornbeams are moderately tolerant in terms of soil preference, but they require well-drained medium to wet soils for optimal growth."
+        },
+        {
+          "id": 8875,
+          "type": "pruning",
+          "description": "Common hornbeam, or Carpinus betulus 'Columnaris Nana', requires pruning when the tree is young to shape it and encourage branching, with the most critical period occurring in the tree's first 3-5 years. For more mature trees, pruning should take place every 3-5 years to reduce the size, stimulate new growth, and remove dead and weak branches. Pruning should occur in late winter or early spring (February-March) before the tree breaks its dormancy. Established trees should be pruned by no more than 1-third of their total size, and care should be taken to ensure that all cuts are clean and level to the tree's branch structure."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
