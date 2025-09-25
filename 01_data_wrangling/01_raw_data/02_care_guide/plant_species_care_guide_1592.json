@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2821,
+      "species_id": 1592,
+      "common_name": "caper",
+      "scientific_name": [
+        "Capparis sandwichiana"
+      ],
+      "section": [
+        {
+          "id": 8669,
+          "type": "watering",
+          "description": "Caper plants (Capparis sandwichiana) should be watered on a regular basis to maintain healthy growth. Water deeply and slowly when the soil begins to dry out, providing enough water for the plant to soak up at least 6-10 inches deep. Generally, you should water these plants every 5-7 days, depending on the weather and how much light the plant is getting. During the hot summer months, you may need to increase the watering frequency, being sure to give the soil a thorough soaking each time. In the winter, however, you should reduce the amount of water, as the plant will be dormant. It is important to note that too much water can be just as detrimental to a caper plant as too little."
+        },
+        {
+          "id": 8670,
+          "type": "sunlight",
+          "description": "Caper (Capparis sandwichiana) requires plenty of sunlight to thrive and to produce a good crop of edible flower buds. It prefers a minimum of 4-5 hours of full sun per day, with more sun being even better. It is a tropical plant and may even also benefit from reflected light (for example, from a reflection off a wall). Additionally, it can still grow well in partial shade, especially during warm or hot summers. Year-round, caper should be exposed to plenty of sunshine to promote healthy growth."
+        },
+        {
+          "id": 8671,
+          "type": "pruning",
+          "description": "Caper (Capparis sandwichiana) plants should be pruned regularly throughout the growing season. Early in the spring when the plant is starting to flower, snip off any dead or disease foliage. During summer months, lightly prune the plant when it is actively growing, removing overly crowded branches and removing any weak or diseased stems. When pruning, make sure to leave the center of the plant untouched as it will help ensure even growth. During late summer, prune the plant more aggressively to limit height and prevent overly lush growth. If pruning heavily, it is best to do it late in the season when the plant is no longer actively growing. Pruning late also helps maintain the plant's shape into the fall. Finally, lightly prune the plant in late fall to shape it in preparation for the winter months."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2863,
+      "species_id": 1651,
+      "common_name": "palm sedge",
+      "scientific_name": [
+        "Carex muskingumensis 'Oehme'"
+      ],
+      "section": [
+        {
+          "id": 8795,
+          "type": "watering",
+          "description": "Palm sedge should be watered once to twice a week and given 1 inch to 2 inches of water per session. It is best to use room temperature water and avoid over-watering, which can lead to root-rot. Water directly on the soil near the base of the plant, avoiding wetting the foliage to prevent potential disease. For maintenance, reduce watering during the winter months when the plant is in a dormant stage."
+        },
+        {
+          "id": 8796,
+          "type": "sunlight",
+          "description": "Palm sedge (Carex muskingumensis 'Oehme') prefers partial sun to full sun, and should be planted in an area that receives several hours of sunlight daily. These plants will perform best when they are exposed to 3 to 6 hours of direct sunlight with some shade in the afternoon, preferably from 3pm onwards. In the warmest summer months, like July and August, this plant may need additional shade in order to avoid leaf scorch or sunburn. This species does not tolerate very cold temperatures, so during the winter it should be grown in an area with some protection from winter winds."
+        },
+        {
+          "id": 8797,
+          "type": "pruning",
+          "description": "Palm sedge (Carex muskingumensis 'Oehme') should be pruned once a year in the late winter or early spring to help keep the plant in the desired shape and size. Pruning should be done as the new growth is beginning to emerge. The clumps of foliage should be cut back to a uniform height of 6-7 inches. Remove any dead, brown, or dying foliage throughout the entire plant. This will help stimulate new growth and aid the plant in keeping its desired shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

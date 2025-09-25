@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1032,
+      "species_id": 1605,
+      "common_name": "habanero pepper",
+      "scientific_name": [
+        "Capsicum chinense 'Roulette'"
+      ],
+      "section": [
+        {
+          "id": 3093,
+          "type": "watering",
+          "description": "Habanero pepper plants prefer evenly moist soil, so it is important to water them frequently and consistently. Water regularly, providing at least 1 inch of water a week that soaks deeply into the soil. During particularly hot periods, you may need to water more often. If possible, water in the morning for best results. As the plants approach maturity, you may need to decrease the amount of water you give the plants as too much water can reduce the flavor of the peppers."
+        },
+        {
+          "id": 3102,
+          "type": "sunlight",
+          "description": "Habanero pepper plants require a minimum of 6 to 8 hours of direct sunlight each day, with as much sun as possible being preferable. Due to their sensitivity to cool temperatures and shade, they should never be grown in partial shade. Habanero peppers should be planted in late spring or early summer when the sun is the strongest and temperatures are consistently warm."
+        },
+        {
+          "id": 3111,
+          "type": "pruning",
+          "description": "Habanero peppers should be pruned regularly throughout the growing season. This will help ensure a larger crop of peppers in the fall. Pruning should begin once the peppers become established and begin to develop a few branches. Start by removing any dead or diseased branches. Then, thin out any overcrowded branches to allow for better air circulation. Once the plants reach about 6 inches tall, you can pinch out the growing tips, as this will encourage lateral, bushier growth and more peppers. In addition, when flowering begins, you can also pinch off the flowers, or small fruits, from the ends of each branch. This will help to ensure that the plant puts energy into producing larger peppers instead of smaller, immature ones."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

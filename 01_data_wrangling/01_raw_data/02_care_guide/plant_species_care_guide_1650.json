@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2862,
+      "species_id": 1650,
+      "common_name": "palm sedge",
+      "scientific_name": [
+        "Carex muskingumensis"
+      ],
+      "section": [
+        {
+          "id": 8792,
+          "type": "watering",
+          "description": "Palm sedge should be watered regularly in order to stay healthy and thrive. During the active growth period in spring and summer, water your palm sedge lightly but frequently, typically every 7-10 days. Avoid over-watering and allow the soil to dry out slightly between waterings. In autumn and winter, reduce the frequency of watering, allowing the soil to dry out almost completely between waterings. If you're not sure when to water, another good rule of thumb is to water when the top 1 to 2 inches of soil feels dry."
+        },
+        {
+          "id": 8793,
+          "type": "sunlight",
+          "description": "Palm sedge (Carex muskingumensis) thrives in full sun, meaning it should receive at least 4 to 6 hours of direct sunlight every day. It is best to provide the plant with morning or midday sun, as palm sedge can tolerate afternoon heat better than most other plants. Additionally, palm sedge prefers consistently moist soil, so it important to water your plants whenever the surface of the soil is dry to the touch."
+        },
+        {
+          "id": 8794,
+          "type": "pruning",
+          "description": "Palm sedge plants should be pruned in the early spring before growth begins. A light pruning of dead leaves should be done in late winter or early spring to create an even look. Pruning should be done in moderation, and only the dead material, crossed or broken branches should be removed. Pruning should never exceed 1/3 of the plant's total foliage and the remaining foliage should be symmetrically distributed. To encourage vigorous new growth, some branching, and fuller growth, palm sedges may also benefit from an additional light pruning in late August."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

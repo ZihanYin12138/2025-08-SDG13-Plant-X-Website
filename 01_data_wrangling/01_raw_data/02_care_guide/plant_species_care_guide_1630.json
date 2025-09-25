@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1419,
+      "species_id": 1630,
+      "common_name": "Davis's sedge",
+      "scientific_name": [
+        "Carex davisii"
+      ],
+      "section": [
+        {
+          "id": 4291,
+          "type": "watering",
+          "description": "Davis's sedge requires regular watering. It should be watered once a week during the summer and every 2 weeks in the winter. Water should initially penetrate the top 2 - 3 inches of soil, then additional water should be added until the soil is damp to a depth of 6 - 8 inches. When watering, allow the water to slowly soak into the soil. If the soil is too dry, the roots of the plants may suffer from dehydration and the leaves may start to wilt. It is important to avoid over-watering, as this may cause root rot."
+        },
+        {
+          "id": 4292,
+          "type": "sunlight",
+          "description": "Davis's sedge (Carex davisii) should be exposed to full sun or partial shade, which should be at least 4 hours of direct sunlight per day. It is best adapted to cool coastal regions, so it may need more shade during the hot afternoon sun in hotter climates. To ensure good growth, place it in an area that receives direct sunlight in the morning and afternoon and partial shade during the midday when the sun is the strongest."
+        },
+        {
+          "id": 4293,
+          "type": "pruning",
+          "description": "Davis's sedge (Carex davisii) should be pruned in late spring or early summer, once flowering has finished. Pruning should be done to remove dead, weak, or damaged stems, as well as any stems that grow too long. The extent of pruning depends on the desired size and shape of the plant, but a light pruning will encourage even bushier growth and keep the plant looking its best. Once the dead and weak stems have been pruned, they should be disposed of to reduce the risk of pests and disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

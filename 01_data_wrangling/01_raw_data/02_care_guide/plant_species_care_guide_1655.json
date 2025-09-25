@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2867,
+      "species_id": 1655,
+      "common_name": "greater straw sedge",
+      "scientific_name": [
+        "Carex normalis"
+      ],
+      "section": [
+        {
+          "id": 8807,
+          "type": "watering",
+          "description": "Water the Greater Straw Sedge every 1-2 weeks during the growing season (April-July) and every 3-4 weeks during the dormant season (August-March). Water it thoroughly until water runs through the drainage hole; be sure to empty the drainage tray so that no water remains standing in it. The plant should have access to moisture at all times, and it is essential to avoid letting the soil dry out completely, as this can harm the plant."
+        },
+        {
+          "id": 8808,
+          "type": "sunlight",
+          "description": "The greater straw sedge (Carex normalis) generally prefers partial shade to full sun, however it can also tolerate full sunlight. It does best with 6-8 hours of direct sunlight each day during the summer months. It benefits from dappled or indirect sunlight during the hottest part of the day, and less sun during the cooler times of the year. It can adjust to an increase or decrease in the amount of sunlight, but it should still receive 6-8 hours of full sun daily for optimal growth."
+        },
+        {
+          "id": 8809,
+          "type": "pruning",
+          "description": "Greater straw sedge (Carex normalis) should be pruned in the spring after the plants have fully emerged from the ground. Pruning should be done to remove dead foliage and create a fuller and healthier plant. When pruning, ensure that only dead or diseased foliage is removed and only a minimal amount of healthy foliage is taken off. Care should be taken to only take off 2-3 inches of the foliage. Pruning more than this may cause injury to the crown of the plant, stunting or killing it completely."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

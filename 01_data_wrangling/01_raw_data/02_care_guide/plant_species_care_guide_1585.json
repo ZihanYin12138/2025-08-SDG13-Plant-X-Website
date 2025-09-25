@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2814,
+      "species_id": 1585,
+      "common_name": "trumpet creeper",
+      "scientific_name": [
+        "Campsis tagliabuana"
+      ],
+      "section": [
+        {
+          "id": 8648,
+          "type": "watering",
+          "description": "Trumpet creeper thrive in full sun and require frequent watering during the summer months. Water the plant deeply once or twice a week, making sure to saturate the soil thoroughly. In the winter, reduce watering to once every 2 to 4 weeks. Soil should remain lightly moist, but not soggy. Check soil moisture levels often by sticking your finger in the soil. If the top part of the soil feels dry, it is time to water."
+        },
+        {
+          "id": 8649,
+          "type": "sunlight",
+          "description": "Trumpet creeper (Campsis tagliabuana) prefers full sunlight and should receive at least 8 hours of direct sunlight daily for optimum health and flowering. If grown in a location with partial shade, trumpet creeper may require supplemental lighting or a move to a more sunlit area. This durable vine should be given 4-5 hours of direct sunlight during the hottest part of the day, between 10 am and 2 pm, for optimal growth and flowering. Additionally, trumpet creeper will benefit from the morning hours of sunlight that sets off the day and is generally better for this species with sunlight covering the entire day and if grown in full sun."
+        },
+        {
+          "id": 8650,
+          "type": "pruning",
+          "description": "Trumpet Creeper (Campsis tagliabuana) requires minimal pruning, typically done in late winter or early spring. Pruning should focus on removing dead or crowded branches to open up the center of the plant and encourage the growth of new shoots. Pruning is also done to maintain the desired size and shape of the plant. It’s best to cut back only the tips of each branch in order to retain its natural shape. To determine how much to prune, look for branches that are dead, diseased, or growing toward the center of the plant. These parts should be removed. Pruning the wrong parts of the plant could traumatize the plant and cause it to die."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

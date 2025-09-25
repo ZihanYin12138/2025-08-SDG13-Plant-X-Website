@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1426,
+      "species_id": 1663,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex 'Phoenix Green'"
+      ],
+      "section": [
+        {
+          "id": 4312,
+          "type": "watering",
+          "description": "Sedge (Carex 'Phoenix Green') should be watered on a regular basis to ensure healthy growth. As this species is suitable for well-draining soil, it will need more frequent watering than plants that prefer lower-draining soils. Water deeply at least once a week in warm months, and every 2 to 3 weeks in winter. Soak the soil until water reaches 4-6 inches (10-15 cm) deep. Allow the top 1 inch (2.5 cm) of soil to dry out between waterings. Never let the soil become soggy and never let it dry out either.\n\nFor areas with extreme heat, cucumbers should be watered more frequently. Make sure the soil stays evenly moist. Do not let it become soggy or dry out."
+        },
+        {
+          "id": 4313,
+          "type": "sunlight",
+          "description": "Sedge (Carex 'Phoenix Green') is a small, hardy, evergreen perennial that thrives in many types of light. In order to promote healthy growth and nutrient uptake, it is optimal for the plant to receive full sun when possible. When not in direct sun, this sedge species can tolerate partial sun or a minimum of 4 hours of direct or indirect light each day. Exposure to direct sunlight for greater than 6 hours will create the best conditions for this plant to thrive. The overall color of the plant will also become more vibrant with an increase in sun exposure."
+        },
+        {
+          "id": 4314,
+          "type": "pruning",
+          "description": "For the Carex 'Phoenix Green' sedge, it's best to prune the foliage near the stems in late winter or early spring before new growth emerges. If you wait too long and the new growth has already started sprouting, it's best to leave it alone. Prune the foliage from around the stem down to the basal rosette (clumps of leaves). This can be done annually to help promote new growth and maintain the desired size and shape of the plant. "
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

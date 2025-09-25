@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2838,
+      "species_id": 1618,
+      "common_name": "brome-like sedge",
+      "scientific_name": [
+        "Carex bromoides"
+      ],
+      "section": [
+        {
+          "id": 8720,
+          "type": "watering",
+          "description": "Brome-like sedge (Carex bromoides) should be watered thoroughly, but only when the top inch or so of the soil feels dry to the touch. During the growing season (April–October) the plants should be watered approximately every 7-10 days. In the winter (November–March) when the plants are dormant, water them once every 2–3 weeks or only when the soil starts to dry out. When watering, the soil should be moistened to a depth of about 12 inches."
+        },
+        {
+          "id": 8721,
+          "type": "sunlight",
+          "description": "Brome-like sedge (Carex bromoides) grows best in partial shade to full sun. If grown in full sun, plants should be watered more frequently to prevent drying out. It should be noted that direct sun may be too intense for this species, and could cause it to suffer if exposed to long hours of direct sunlight. In regions with hot, dry summers, shade will be beneficial for this sedge. In general, the best light requirements for brome-like sedge are a few hours of sun in the morning and early afternoon for best growth."
+        },
+        {
+          "id": 8722,
+          "type": "pruning",
+          "description": "When pruning Carex bromoides, it should be done in late spring or early summer. This species benefits from being cut back to the ground level after reaching a height of 12-15 inches. Care should be taken to avoid cutting away any flower heads or sheaths. After cutting, the area should be raked to remove dead foliage and debris. To ensure a healthy and dense plant, the grass should be cut to a maximum of 2 or 3 inches in height. Cutting too short may result in a sparse appearance and weakened structure. Pruning the sedge should be done twice a year to maintain its bushy, lush look."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

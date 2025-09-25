@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2866,
+      "species_id": 1654,
+      "common_name": "black sedge",
+      "scientific_name": [
+        "Carex nigra 'Variegata'"
+      ],
+      "section": [
+        {
+          "id": 8804,
+          "type": "watering",
+          "description": "Black sedge should be watered 1-2 times a week, providing the soil with approximately 1/2 to 1 inch of water. This should be done in the morning or evening to prevent water from evaporating too quickly and to prevent any fungal diseases that can be caused by foliage and soil that stays wet overnight. The frequency of watering should increase during warmer, summer months. During the hot summer, the soil around the black sedge may need to be checked with a moisture meter or your finger to determine how often it should be watered. Additionally, matted mulch around the base of the plant can help keep soil moist and regulate soil temperature."
+        },
+        {
+          "id": 8805,
+          "type": "sunlight",
+          "description": "The black sedge (Carex nigra 'Variegata') plant species prefers partial shade with a maximum of 4 hours of direct sun in the morning or afternoon each day. Sunlight should be avoided during the hottest part of the day, typically between noon and 3:00pm. Additionally, ensure that the black sedge does not receive too much direct sun in the summer, when temperatures are high. The plant will benefit from a shadier spot during hot weather."
+        },
+        {
+          "id": 8806,
+          "type": "pruning",
+          "description": "Black sedge (Carex nigra 'Variegata') should be pruned in early to mid-spring before new growth begins in order to promote a full and dense growth habit. Pruning should be light, removing only a few of the oldest canes to make room for new growth. As a general rule, pruning back no more than 30 percent of the foliage is ideal. Be sure to sterilize your pruning tool with rubbing alcohol between each cut in order to avoid spreading disease. Be sure to leave room for multiple trunks when pruning if desired."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

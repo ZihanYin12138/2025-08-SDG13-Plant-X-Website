@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2877,
+      "species_id": 1669,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex siderosticha 'Kisokaido' SPRING SNOW"
+      ],
+      "section": [
+        {
+          "id": 8837,
+          "type": "watering",
+          "description": "Sedge (Carex siderosticha 'Kisokaido' SPRING SNOW) thrive best with regular moisture. Water your plant deeply and evenly once a week in the spring and summer months and once every 2 weeks in the fall and winter months. Reduce the amount of watering in the late summer, as the plant may become dormant. If the soil doesn’t feel moist, add a little extra water. Pull up a little soil to check the moisture - if it’s dry near the surface, give a deeper, thorough watering. Be sure to never let the soil become soggy as this can lead to root rot."
+        },
+        {
+          "id": 8838,
+          "type": "sunlight",
+          "description": "Sedge (Carex siderosticha 'Kisokaido' SPRING SNOW) should receive full sunlight during the spring and summer months, or at least 4 to 6 hours of direct sunlight each day. During the winter, this species should receive indirect sunlight, such as from a south- or east-facing window. Partial shade is also acceptable, as long as the plant receives at least a few hours of direct sunlight. This species should be kept away from drafts or windy locations to protect its delicate foliage."
+        },
+        {
+          "id": 8839,
+          "type": "pruning",
+          "description": "Pruning of Carex siderosticha 'Kisokaido' SPRING SNOW should take place once a year, in late winter or early spring. During this time, remove any dead, diseased, or out-of-scale stems from the plant. Additionally, trim back up to 1-third of the stems to maintain an attractive shape and size. It is important to remove no more than 1-third of the plant at any 1 time in order to avoid any shock to the plant. Following pruning, you can mulch around the plant to help conserve soil moisture and suppress weeds."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

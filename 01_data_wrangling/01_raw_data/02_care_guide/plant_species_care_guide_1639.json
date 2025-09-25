@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2854,
+      "species_id": 1639,
+      "common_name": "gray sedge",
+      "scientific_name": [
+        "Carex grayi"
+      ],
+      "section": [
+        {
+          "id": 8768,
+          "type": "watering",
+          "description": "Gray sedge should be watered regularly throughout the growing season. Water the plants deeply but infrequently, about once per week. Allow the soil to dry out slightly between waterings. During the hottest parts of the summer, water may need to be applied every 5 to 7 days. As temperatures cool in the fall, reduce watering accordingly. On sunny days, water deeply during the morning hours to give plants an opportunity to dry before cooler temperatures of nighttime."
+        },
+        {
+          "id": 8769,
+          "type": "sunlight",
+          "description": "Gray sedge plants need a minimum of 4 to 6 hours of direct sunlight every day to thrive. During the early morning and late afternoon hours when the sunlight is less intense, gray sedge plants should be in an indirect but bright light. When temperatures climb to upper 80s or higher, gray sedge plants should be shaded to prevent leaf scorching. In order to encourage growth and flowering, gray sedge plants should receive the full 6 hours or more of direct sunlight during the summer months and 8 hours or more during the spring and fall seasons."
+        },
+        {
+          "id": 8770,
+          "type": "pruning",
+          "description": "Gray sedge (Carex grayi) should be pruned once a year in early spring, just as the new growth begins. Pruning should be done lightly to remove dead or damaged foliage and encourage vigorous new growth. If pruning is done too heavily, it may cause new growth to be sparse or stunted. Depending on the size of the plant, a pair of shears can be used for the pruning, but pruning with hand clippers is best for larger specimens. It is important to not remove more than a third of the foliage in any year, as this can damage the overall health of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

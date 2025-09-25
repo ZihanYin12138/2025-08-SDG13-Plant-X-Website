@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2872,
+      "species_id": 1661,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex pensylvanica"
+      ],
+      "section": [
+        {
+          "id": 8822,
+          "type": "watering",
+          "description": "Sedge (Carex pensylvanica) should be watered 2 to 3 times a week, depending on the weather conditions. In hot or dry weather, it’s important to water more frequently. You should provide enough water to moisten the soil to a depth of about 6 inches. When watering, avoid getting the foliage wet to prevent disease. As a guideline, about 1-2 inches of water per week is sufficient for this plant. In addition to regular watering, avoid overfertilizing the plant, and consider applying a mulch for consistent moisture."
+        },
+        {
+          "id": 8823,
+          "type": "sunlight",
+          "description": "Sedge (Carex Pensylvanica) plants need at least 5 hours of direct sunlight each day to grow healthily. This plant species grows best during the summer months when the days are long and the hot temperatures cause the plant to thrive and grow. It enjoys the partial shade of late morning and early afternoon, with peak sunlight occurring between 10am and 3pm. During the winter months, they may require more direct sunlight as the days are shorter and the temperatures cooler. For optimal growth, the plant should receive more than 8 hours of direct sunlight each day."
+        },
+        {
+          "id": 8824,
+          "type": "pruning",
+          "description": "Pruning of Carex pensylvanica (sedge) should occur late in the dormant season, around late January to mid-February. Pruning should consist of shortening the stems and removing dead or damaged leaves. Pruning can also be done after flowering to encourage more full growth. To encourage optimal growth, remove up to 2-thirds of the total foliage. Shaping can also help direct the energy in the plant for more even growth. Too much pruning may reduce the plant’s ability to photosynthesize or the plant can become too squat. When pruning, make sure to use sharp, clean scissors or pruners. Additionally, it’s best to avoid pruning during the winter months as this can damage the plant and cause additional stress."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2817,
+      "species_id": 1588,
+      "common_name": "canna",
+      "scientific_name": [
+        "Canna (aquatic group)"
+      ],
+      "section": [
+        {
+          "id": 8657,
+          "type": "watering",
+          "description": "For optimal growth and health, canna plants should be watered well and on a regular basis. In general, water these plants once every week, or when the top few inches of soil feels dry. Aim to deep-water the plants, allowing the soil to become thoroughly saturated. Avoid waterlogging the soil, however, as this will create anaerobic conditions that can cause root disease and algal growth. During exceptionally hot periods, increase frequency of watering to keep the soil moist. In the cooler months, reduce the amount of water given and ensure that the soil is not soggy or wet."
+        },
+        {
+          "id": 8658,
+          "type": "sunlight",
+          "description": "Canna (aquatic group) plants prefer full sun for 6 to 8 hours per day. They thrive in hot summer temperatures when planted in a spot that receives direct sunlight for the majority of the day and indirect sunlight for the remainder of the day. During the winter, it is best to provide this species with some protection from the cooler temperatures by limiting the sun exposure to 5 to 6 hours a day. When planted in partial shade, the growth of Canna (aquatic group) plants can be restricted."
+        },
+        {
+          "id": 8659,
+          "type": "pruning",
+          "description": "Canna (aquatic group) plants should be pruned lightly in early spring before new growth begins, and then again if needed throughout the summer. Simply cut the old flower stems and foliage down to the appropriate height for the particular species. If the foliage becomes too tall or untidy during the summer, prune lightly as required to tidy the plant. For aquatic cannas, as the foliage grows, lightly trim it back with shears or a scissors to encourage a bushier growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

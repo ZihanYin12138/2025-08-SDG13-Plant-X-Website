@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1060,
+      "species_id": 1600,
+      "common_name": "pepper",
+      "scientific_name": [
+        "Capsicum annuum (Hot Pepper Group)"
+      ],
+      "section": [
+        {
+          "id": 3181,
+          "type": "watering",
+          "description": "Pepper plants should be watered about once a week, depending on the weather conditions. If the weather is particularly hot, they may need to be watered more frequently. Under normal conditions, however, they should be watered so that the soil is kept slightly moist but not saturated. It’s important not to over-water pepper plants as this can lead to root rot. Ensure the soil is dry to the touch before adding more water. Avoid getting water on the leaves or fruit, as this can cause discoloration. Additionally, in the winter months, the soil should be watered less frequently as the plants may not need as much water during this time."
+        },
+        {
+          "id": 3182,
+          "type": "sunlight",
+          "description": "Pepper (Capsicum annuum (Hot Pepper Group)) requires 6-7 full hours of direct sunlight every day in order to grow and produce healthy fruits. In areas with lots of hot summer sun, shade from high noon sun is recommended to prevent sun damage and excessive heat. During the growing season, from spring to early fall, provide full sunlight all day for optimal growth and fruit production. In winter and in cooler climates, 6-8 hours of full sunlight is recommended."
+        },
+        {
+          "id": 3183,
+          "type": "pruning",
+          "description": "Pepper plants (Capsicum annuum, Hot Pepper Group) should be pruned early and often. Pruning helps to promote bushier, healthier plants that produce more fruit. Pruning should be done once a month from late spring until early summer, though this can be done more or less frequently depending on the start of the plant’s growth season in your area.\n\nTo prune pepper plants, snip off any old, dead, or diseased branches. Cut off branches and stems that grow more than 6 inches above the desired height, as well as branches that are spindly and not producing much fruit. This will promote new growth and help the plant to focus its energy on producing peppers. Remove any pesky weeds near the base of the plant as well, as these can rob the plant of energy and resources."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

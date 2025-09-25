@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2858,
+      "species_id": 1646,
+      "common_name": "Japanese grass sedge",
+      "scientific_name": [
+        "Carex morrowii"
+      ],
+      "section": [
+        {
+          "id": 8780,
+          "type": "watering",
+          "description": "Japanese grass sedge is a hardy, evergreen perennial that requires minimal watering once established. As a general rule, water the plant every 7-10 days during the warmer months. Let the top inch of soil dry out in between waterings. Once the temperature starts to drop in the autumn and winter months, you may reduce watering to only 2-3 times a month. Impermeable mulches like rocks can be used between waterings to help retain moisture and reduce the amount of water necessary."
+        },
+        {
+          "id": 8781,
+          "type": "sunlight",
+          "description": "Japanese grass sedge grows best when exposed to full sun for at least 6 hours per day. It can tolerate light shade but thrives when grown in direct sunlight. This plant species also tolerates drought once established, but will grow best when the soil is kept moist.\n\nDuring the summer months, Japanese grass sedge can benefit from part-sun to full-sun exposure each day. During the cooler months, it will do better in partial shade with more direct light for fewer hours than in the summer."
+        },
+        {
+          "id": 8782,
+          "type": "pruning",
+          "description": "Japanese grass sedge should be pruned during the late winter or early spring, when the plant is still dormant. Prune the plants back to a few inches above the ground, to encourage vigorous growth and promote new foliage. Remove any tattered foliage, dead leaves, and any dead stalks that may have been missed in previous years. Japanese grass sedge can also be lightly sheared in late summer, to encourage more upright growth. It is best to avoid pruning heavily in mid-summer, as it can upset the balance of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

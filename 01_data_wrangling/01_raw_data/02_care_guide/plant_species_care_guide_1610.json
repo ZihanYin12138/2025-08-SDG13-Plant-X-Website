@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2830,
+      "species_id": 1610,
+      "common_name": "trifoliate bittercress",
+      "scientific_name": [
+        "Cardamine trifolia"
+      ],
+      "section": [
+        {
+          "id": 8696,
+          "type": "watering",
+          "description": "Water trifoliate bittercress (Cardamine trifolia) every 1 to 2 weeks, depending on the environmental conditions and the soil type. During the hot summer months, this plant should be watered more frequently than in cooler weather. Make sure to water the soil evenly and do not let it sit water-logged. In areas with high humidity, mist the leaves every other day for best results."
+        },
+        {
+          "id": 8697,
+          "type": "sunlight",
+          "description": "Trifoliate Bittercress (Cardamine trifolia) requires at least 6 hours of sunlight per day for optimal growth. This species prefers bright, indirect sunlight and thrives in full sun locations with some afternoon shade. For ideal health and flowering, the plant should be grown in partial or full sun exposures (about 4-6 hours of direct sunlight exposure per day). It will tolerate partial shade, but too much shade will result in fewer flowers and decreased hardiness. It will do best in locations with some protection from hot afternoon sun."
+        },
+        {
+          "id": 8698,
+          "type": "pruning",
+          "description": "Trifoliate bittercress requires very little pruning. If desired, lightly prune the tips of the foliage in early spring to shape the plant and encourage a fuller appearance. Since this plant tends to form clumps, divide the clumps in early spring to create new plants. This will also help keep the size of the plant in check."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

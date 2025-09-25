@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2890,
+      "species_id": 1682,
+      "common_name": "American hornbeam",
+      "scientific_name": [
+        "Carpinus caroliniana"
+      ],
+      "section": [
+        {
+          "id": 8876,
+          "type": "watering",
+          "description": "American hornbeams should be watered on a regular basis and should receive 1 to 2 inches of water per week during the growing season. The best way to water these trees is to slowly pour the water around the base of the plant, allowing it to soak in completely. During particularly dry or hot weather, it may be beneficial to increase watering frequency to 2 to 3 times per week. In the winter months, it's best to water the tree once per month."
+        },
+        {
+          "id": 8877,
+          "type": "sunlight",
+          "description": "A plant species such American hornbeam (Carpinus caroliniana) requires full sun to partial shade for best growth and development. It can tolerate some full shade, but its growth will be dramatically slowed in lower light conditions. As a deciduous tree, the American Hornbeam needs direct sunlight for the majority of the day during spring, summer, and fall. It should receive about 6 hours or more of direct sunlight each day during the growing season. During the winter months, the amount of sunlight the species needs should be greatly reduced, but it will still need a few hours of indirect sunlight in order to maximize dormancy and overall health."
+        },
+        {
+          "id": 8878,
+          "type": "pruning",
+          "description": "American hornbeam, also known as Carpinus caroliniana, should be pruned twice a year, once in late winter/early spring and again in late summer. During the winter/spring pruning, aim to maintain the plant's natural shape while removing any dead, damaged or crossing branches as needed. Be sure to prune off any fruits that may be produced by the plant as this will limit its size and shape. For the late summer pruning, focus on cutting back any new growth to prevent the plant from becoming too large and dense. Depending on the individual plant, pruning can be done to a varying degree, but it should generally be done to remove average- to high-growth stems to ensure balanced growth and to create desired shape and size."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

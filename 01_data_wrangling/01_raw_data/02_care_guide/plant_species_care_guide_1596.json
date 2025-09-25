@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 10,
+      "species_id": 1596,
+      "common_name": "sweet pepper",
+      "scientific_name": [
+        "Capsicum annuum 'Bananarama'"
+      ],
+      "section": [
+        {
+          "id": 37,
+          "type": "watering",
+          "description": "Sweet pepper plants should be watered regularly, about once per week. The amount of water needed can vary depending on soil type, climate, and the size of the plant, but a general guideline is to water until the soil is moist but not soggy. Be careful not to over water, as this can drown the plant's roots. The frequency of watering can be increased during hot and dry weather. Additionally, allowing the soil to dry slightly between waterings can increase air circulation to the roots, which helps promote healthy growth."
+        },
+        {
+          "id": 38,
+          "type": "sunlight",
+          "description": "Sweet pepper (Capsicum annuum 'Bananarama') prefers a full sun location with at least 6–8 hours per day of direct sunlight, preferably from mid-morning until late afternoon. The best time to expose sweet pepper to sunlight is during the peak of the day, when the sun is highest in the sky. For this species, it is important to limit the amount of shade in the area during the peak of the day, as too much shade can inhibit the plant’s growth and production of fruits. Too little sunlight can also cause the plant to become unhealthy and stressed."
+        },
+        {
+          "id": 39,
+          "type": "pruning",
+          "description": "Sweet pepper (Capsicum annuum 'Bananarama') requires light pruning throughout its growing season. Pruning should begin when the plant reaches 6 - 8 inches in height, and should be done every 4 to 8 weeks. Pruning should consist of removal of diseased, damaged, or dead leaves, flowers, and branches. It is also recommended to pinch off the tips of each branch after it reaches 8-10 inches in length in order to promote more lateral growth. Vine-type sweet peppers should be prevented from becoming too bushy by pruning the main tip when it is approximately 24-36 inches long. Pruning is important for sweet pepper plants to allow easier air circulation and improved light penetration and helps maintain the overall health of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

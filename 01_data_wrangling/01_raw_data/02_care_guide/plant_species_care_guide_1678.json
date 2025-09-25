@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2886,
+      "species_id": 1678,
+      "common_name": "papaya",
+      "scientific_name": [
+        "Carica papaya"
+      ],
+      "section": [
+        {
+          "id": 8864,
+          "type": "watering",
+          "description": "Papayas need a moderate amount of water. During the period of active growth, water the plant deeply and evenly 2 to 3 times per week. During the hottest and driest times of the year, water the plant more frequently. Water the plant in the morning and allow the excess water to drain away, preventing root rot and fungal diseases. If rainfall is inadequate, supplement the plants with up to 4 inches of water per week."
+        },
+        {
+          "id": 8865,
+          "type": "sunlight",
+          "description": "Papaya (Carica papaya) plants require full sun to thrive, so they should be planted in direct sunlight for 6-8 hours each day. Sunlight is especially important during the growing season, from mid-spring until early fall. During the summer months, in areas with extended day length, plants should receive at least 8 hours of direct sunlight each day for optimal growth. If your papaya plant is not getting enough sunlight, it may not produce fruit."
+        },
+        {
+          "id": 8866,
+          "type": "pruning",
+          "description": "Papaya (Carica papaya) is an easy-to-care-for, very fast-growing plant with an increased need for pruning. Pruning should be done on a regular basis throughout the growing season to keep the plant looking its best and producing abundant fruits. \n\nFor optimal growth and fruit production, prune early and often. Prune away any dead or diseased stems and fruit at any time throughout the growing season. Early in the season, remove any dead leaves or branches and thin out any overcrowded branches. Prune away any branches or sucker shoots that are growing outside of the canopy of the plant and are competing with the main stems for light.\n\nIn late summer and early fall, prune away any weak, overly thin or diseased branches, and prune off all but the most robust new stems for better aeration. Prune away any old fruiting wood that has already finished producing to make room for younger growth and potential future fruit. Early winter is a great time to prune your papaya as it can help encourage new growth and thicker stems.\n\nWith proper pruning, papayas can be very productive and rewarding plants, and well worth the effort of regularly pruning them."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

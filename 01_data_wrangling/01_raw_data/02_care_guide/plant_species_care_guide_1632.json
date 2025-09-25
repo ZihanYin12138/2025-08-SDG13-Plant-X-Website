@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2848,
+      "species_id": 1632,
+      "common_name": "bristle-leaved sedge",
+      "scientific_name": [
+        "Carex eburnea"
+      ],
+      "section": [
+        {
+          "id": 8750,
+          "type": "watering",
+          "description": "Water the bristle-leaved sedge every 1-2 weeks in the summer months, depending on its location and how much natural rainfall it receives. In general, water the sedge until its soil is evenly moist but not soggy. In the cooler months, reduce the watering frequency to every 2-4 weeks depending on the weather and the location, as the sedge may enter a semi-dormant state and need less frequent waterings. During prolonged dry periods, increase the amount of water given slightly to ensure the sedge still receives enough moisture."
+        },
+        {
+          "id": 8751,
+          "type": "sunlight",
+          "description": "Bristle-leaved sedge (Carex eburnea) is a drought-tolerant plant species that enjoys lots of sun. It grows best in full sun and can tolerate partial shade. In an area with full sun exposure and no shade, the plant should receive at least 6 to 8 hours of full, direct sunlight per day. In areas with partial shade, bristle-leaved sedge can tolerate fewer direct sunlight hours -- 4 to 6 hours is best. During the summer months when the days are longer, bristle-leaved sedge should receive more sun -- up to 10 hours per day."
+        },
+        {
+          "id": 8752,
+          "type": "pruning",
+          "description": "Bristle-leaved sedge (Carex eburnea) can be pruned throughout the year to maintain its desired shape and size. However, it is best to prune the plant in late winter or early spring when the plant is dormant; this will encourage new and healthy growth for the upcoming season. Flowering stems should only be pruned after flowering, as removing them will reduce the flowering potential of the plant. Non-flowering stems can be removed whenever needed. When pruning the plant, it is important to use sharp tools to ensure a clean cut."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

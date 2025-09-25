@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2819,
+      "species_id": 1590,
+      "common_name": "canna",
+      "scientific_name": [
+        "Canna (group)"
+      ],
+      "section": [
+        {
+          "id": 8663,
+          "type": "watering",
+          "description": "Canna (group) plants need regular watering. During the growing season, they should be watered deeply once a week; however, it’s important to check the soil moisture and water more often if needed. During the winter, canna plants should be watered less frequently, allowing the soil to dry out between waterings. It is best to water early in the day, this will give the plant time to absorb the moisture before the sun sets. Also, adding a layer of mulch can help to keep the soil moist."
+        },
+        {
+          "id": 8664,
+          "type": "sunlight",
+          "description": "Canna (group) plants require plenty of sunlight to thrive, typically at least 5-6 hours of direct sunlight per day. If the plant is in a part shade setting, supplement with at least 2-3 hours of indirect sunlight from the late morning to early afternoon. While some afternoon exposure to indirect sun is acceptable, it's best to keep the plant out of harsh afternoon sun. Too much direct afternoon sun can lead to sun-scorch and reduce flowering performance. If grown under sheltered conditions, Canna plants benefit with 10-12 hours of sunlight each day."
+        },
+        {
+          "id": 8665,
+          "type": "pruning",
+          "description": "Cannas should be pruned as soon as flowering has finished, typically in late summer. The frequency of pruning depends on the size and density of the plant but should be done no more than 3 times a year.\n\nWhen pruning cannas, always use sharp, clean pruning shears to get a clean, precise cut and avoid damage to the stem or leaf. To avoid infection, it's best to sterilize the shears with rubbing alcohol before and after use.\n\nIn general, you should aim to prune no more than 1/3 of the total growth of the canna plant. Prune away any dead or damaged leaves and stalks as close to the base as possible. Remove any shoots growing away from the main stem, as well as any thin, weak shoots that may not produce blooms.\n\nIf you leave the canna with a woody stem, prune so that you are removing the dead or damaged parts of the stem as much as possible. This will help promote new growth in the following growing season.\n\nBe sure not to prune too harshly or prune at the wrong time of year, as this can cause damage to the health of the plant and retard flowering."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

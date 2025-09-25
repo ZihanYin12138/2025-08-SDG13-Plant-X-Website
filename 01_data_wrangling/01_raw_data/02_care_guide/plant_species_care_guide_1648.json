@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2860,
+      "species_id": 1648,
+      "common_name": "Japanese grass sedge",
+      "scientific_name": [
+        "Carex morrowii var. temnolepis 'Silk Tassel'"
+      ],
+      "section": [
+        {
+          "id": 8786,
+          "type": "watering",
+          "description": "The Japanese grass sedge (Carex morrowii var. temnolepis 'Silk Tassel') should be watered every 3 to 5 days, depending on the soil type and temperature. The amount of water needed depends on the size and type of the plant, but generally 1 to 2 cups per plant is enough. During hot, dry weather, you may need to give the plants more water. Since grass sedge prefers dry soil, it's best to keep the soil moist, but not soggy. The amount of water should be increased gradually from the base of the stem and foliage, to the tips."
+        },
+        {
+          "id": 8787,
+          "type": "sunlight",
+          "description": "Japanese grass sedge (Carex morrowii var. temnolepis 'Silk Tassel') grows best in locations that receive partial sun all day. This type of grass sedge prefers an environment with at least 4 hours of direct sunlight a day and, ideally, 8. It can tolerate low-light or full-sun locations, as long as it gets some shade in the afternoon. In terms of timing, Japanese grass sedge should start to get light around midmorning and end the day with early evening light."
+        },
+        {
+          "id": 8788,
+          "type": "pruning",
+          "description": "Japanese grass sedge should be pruned yearly, typically in late winter or early spring before new growth begins. Start by removing any dead or damaged foliage down to the base of the stem. Pruning may also be beneficial for shaping the plant, especially if it has become overgrown. To do this, remove any stems that encroach upon other stems and any foliage that is growing away from the main habit of the plant. Cut as close to the base of the stem as possible without causing damage to the stem. Japanese grass sedge can also be divided if desired in early spring. Make sure to plant the divisions in well-draining soil and water them thoroughly."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
