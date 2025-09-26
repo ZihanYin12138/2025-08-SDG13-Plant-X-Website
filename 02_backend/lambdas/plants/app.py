@@ -5,7 +5,7 @@ from typing import Any, Dict, List, Optional, Tuple
 
 from common import fetch_one, fetch_all
 
-# ===== 在 import 后面，新增这段：表名与存在性检查 =====
+# ===== After import, add this section: table name and existence check =====
 THREAT_IMG_TABLE = os.environ.get("THREAT_IMG_TABLE", "Table08_ThreatenedPlantImageTable")
 _TABLE_EXISTS_CACHE: Dict[str, bool] = {}
 
@@ -43,9 +43,9 @@ def _to_int(s: Optional[str], default: int) -> int:
     except Exception:
         return default
 
-# -------- 统一从事件中抽取 method/path/query ----------
+# -------- Unified extraction of method/path/query from event ----------
 def _extract_req(event: Dict[str, Any]) -> tuple[str, str, Dict[str, str]]:
-    """返回 (method, path, queryStringParameters)；兼容 HTTP API v2 / REST v1。"""
+    """Return (method, path, queryStringParameters); compatible with HTTP API v2 / REST v1."""
     rc = event.get("requestContext") or {}
     http_v2 = rc.get("http") or {}
     if http_v2.get("method") and event.get("rawPath"):
@@ -60,7 +60,7 @@ def _extract_req(event: Dict[str, Any]) -> tuple[str, str, Dict[str, str]]:
         event.get("queryStringParameters") or {},
     )
 
-# ---------- 布尔筛选（7 个） ----------
+# ---------- Boolean filters (7 types) ----------
 _FILTER_KEYS = [
     "if_threatened",
     "if_edible",
@@ -83,15 +83,15 @@ def _to_bool(val: Optional[str]) -> Optional[bool]:
 
 def _bool_clause(col: str, desired: bool) -> str:
     """
-    兼容 BOOLEAN/TEXT：把列转成字符串做 lower 判断；
-    True 匹配 {'true','1'}，False 匹配 {'false','0'}。
+    Compatible with BOOLEAN/TEXT: convert column to string for lower case comparison;
+    True matches {'true','1'}, False matches {'false','0'}.
     """
     if desired:
         return f"(LOWER(CAST({col} AS CHAR)) IN ('true','1'))"
     else:
         return f"(LOWER(CAST({col} AS CHAR)) IN ('false','0'))"
 
-# ---------- 新增 4 个枚举/列表筛选 ----------
+# ---------- New 4 enum/list filters ----------
 _WATERING_SET = {"frequent", "average", "minimal"}
 _GROWTH_SET = {"high", "moderate", "low"}
 
@@ -128,7 +128,7 @@ def _norm_sun_list(v: Optional[str]) -> List[str]:
     parts = [p.strip().lower() for p in v.split(",") if p.strip()]
     return [p for p in parts if p in _SUN_ALLOWED]
 
-# ---------- 组 WHERE（关键词 + 7 布尔 + 4 新筛选） ----------
+# ---------- Build WHERE clause (keyword + 7 boolean + 4 new filters) ----------
 def _build_where_and_params(
     q: Optional[str],
     bool_filters: Dict[str, bool],
@@ -145,22 +145,22 @@ def _build_where_and_params(
         clauses.append("(m.common_name LIKE %s OR m.scientific_name LIKE %s)")
         params += [like, like]
 
-    # 7 个布尔筛选
+    # 7 boolean filters
     for k, v in bool_filters.items():
         clauses.append(_bool_clause(f"m.{k}", v))
 
-    # 3 个枚举筛选
+    # 3 enum filters
     if watering:
         clauses.append("LOWER(m.watering) = %s")
-        params.append(watering)  # 已小写
+        params.append(watering)  # already lowercase
     if plant_cycle:
         clauses.append("LOWER(m.plant_cycle) = LOWER(%s)")
-        params.append(plant_cycle)  # 规范化后的原词
+        params.append(plant_cycle)  # normalized original word
     if growth_rate:
         clauses.append("LOWER(m.growth_rate) = %s")
-        params.append(growth_rate)  # 已小写
+        params.append(growth_rate)  # already lowercase
 
-    # sun_expose：命中任一即可
+    # sun_expose: match any one
     if sun_list:
         or_parts = []
         for _ in sun_list:
@@ -173,8 +173,8 @@ def _build_where_and_params(
     where_sql = " AND ".join(clauses) if clauses else "1=1"
     return where_sql, params
 
-# ---------- 搜索列表 ----------
-# ---------- 搜索列表（替换整个函数） ----------
+# ---------- Search list ----------
+# ---------- Search list (replace entire function) ----------
 def search_plants(
     q: Optional[str],
     limit: int,
@@ -189,18 +189,18 @@ def search_plants(
         q, bool_filters, watering, plant_cycle, growth_rate, sun_list
     )
 
-    # 是否按濒危筛选
+    # Whether to filter by threatened status
     use_threat = bool_filters.get("if_threatened") is True
     threat_img_ok = _table_exists(THREAT_IMG_TABLE)
 
-    # 统计总数
+    # Count total
     cnt_row = fetch_one(
         f"SELECT COUNT(*) AS cnt FROM Table01_PlantMainTable m WHERE {where_sql}",
         tuple(params),
     )
     total = int(cnt_row["cnt"]) if cnt_row else 0
 
-    # 选择图片联表
+    # Choose image join table
     if use_threat and threat_img_ok:
         join_sql = f"""
             LEFT JOIN `{THREAT_IMG_TABLE}` img
@@ -212,7 +212,7 @@ def search_plants(
                    ON img.general_plant_id = m.general_plant_id
         """
 
-    # 注意：当 use_threat=true 时，把 threatened_plant_id 也查出来
+    # Note: when use_threat=true, also query threatened_plant_id
     rows = fetch_all(
         f"""
         SELECT
@@ -253,7 +253,7 @@ def search_plants(
     return {"items": items, "total": total, "limit": limit, "offset": offset}
 
 
-# ---------- 详情 ----------
+# ---------- Details ----------
 def get_plant_detail(gid: int) -> Optional[Dict[str, Any]]:
     base = fetch_one(
         """
@@ -345,10 +345,10 @@ def get_plant_detail(gid: int) -> Optional[Dict[str, Any]]:
         detail["threatened"] = threatened
     return detail
 
-# ---------- 新增：濒危详情 ----------
+# ---------- New: Threatened details ----------
 def get_threatened_detail(tid: int) -> Optional[Dict[str, Any]]:
-    """根据 threatened_plant_id 返回详情：主表基础信息 + 表06/07 + 表08图片"""
-    # 先从主表找一条挂这个 threatened_plant_id 的植物，拿名字等公共字段
+    """Return details based on threatened_plant_id: main table basic info + table06/07 + table08 images"""
+    # First find a plant with this threatened_plant_id from the main table to get common fields like names
     base = fetch_one(
         """
         SELECT
@@ -364,10 +364,10 @@ def get_threatened_detail(tid: int) -> Optional[Dict[str, Any]]:
         (tid,),
     )
     if not base:
-        # 没有主表映射，也可以只返回威胁表数据；这里选择直接 404
+        # No main table mapping, could also return only threatened table data; here choose to return 404 directly
         return None
 
-    # 表06：描述
+    # Table06: Description
     t_desc = fetch_one(
         """
         SELECT *
@@ -376,7 +376,7 @@ def get_threatened_detail(tid: int) -> Optional[Dict[str, Any]]:
         """,
         (tid,),
     )
-    # 表07：护理
+    # Table07: Care
     t_care = fetch_one(
         """
         SELECT *
@@ -385,7 +385,7 @@ def get_threatened_detail(tid: int) -> Optional[Dict[str, Any]]:
         """,
         (tid,),
     )
-    # 表08：图片（如果表存在）
+    # Table08: Images (if table exists)
     image_urls: List[str] = []
     if _table_exists(THREAT_IMG_TABLE):
         t_imgs = fetch_all(
@@ -414,7 +414,7 @@ def get_threatened_detail(tid: int) -> Optional[Dict[str, Any]]:
 
 
 # ---------- Lambda handler ----------
-# ---------- handler（只改“参数解析 & 分流”这几行） ----------
+# ---------- handler (only change "parameter parsing & routing" these lines) ----------
 def handler(event, context):
     method, path, qs = _extract_req(event)
 
@@ -427,12 +427,12 @@ def handler(event, context):
 
         qs = qs or {}
         gid_param = qs.get("general_plant_id")
-        tid_param = qs.get("threatened_plant_id")  # 如果你支持 threatened 详情的话
+        tid_param = qs.get("threatened_plant_id")  # if you support threatened details
         q = qs.get("q")
         limit = _to_int(qs.get("limit"), 20)
         offset = _to_int(qs.get("offset"), 0)
 
-        # ✅ 一定要先初始化这些，再进入任何 if 分支
+        # ✅ Must initialize these first before entering any if branches
         bool_filters: Dict[str, bool] = {}
         for k in _FILTER_KEYS:
             b = _to_bool(qs.get(k))
@@ -444,11 +444,11 @@ def handler(event, context):
         growth_rate = _norm_growth(qs.get("growth_rate"))
         sun_list = _norm_sun_list(qs.get("sun_expose"))
 
-        # （后面再写详情和列表逻辑...）
+        # (Details and list logic to be written later...)
 
-        # ……（布尔筛选与新增筛选解析保持不变）……
+        # ……(Boolean filtering and new filter parsing remain unchanged)……
 
-        # 详情 1：按 threatened_plant_id
+        # Details 1: by threatened_plant_id
         if tid_param:
             try:
                 tid = int(tid_param)
@@ -459,7 +459,7 @@ def handler(event, context):
                 return _resp(404, {"message": "threatened plant not found"})
             return _resp(200, data)
 
-        # 详情 2：按 general_plant_id
+        # Details 2: by general_plant_id
         if gid_param:
             try:
                 gid = int(gid_param)
@@ -470,7 +470,7 @@ def handler(event, context):
                 return _resp(404, {"message": "plant not found"})
             return _resp(200, data)
 
-        # 列表：支持关键词/筛选
+        # List: supports keywords/filters
         if q or bool_filters or watering or plant_cycle or growth_rate or sun_list:
             data = search_plants(
                 q=q,

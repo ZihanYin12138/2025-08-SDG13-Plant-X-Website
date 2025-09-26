@@ -29,7 +29,7 @@ function lock() {
   unlocked.value = false
 }
 
-// ====== 你的原始逻辑 ======
+// ====== Your original logic ======
 onMounted(() => {
   checkUnlocked()
   console.log('Vue app started')
@@ -38,7 +38,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <!-- 通过前：显示密码门 -->
+  <!-- Before access: show password gate -->
   <div v-if="!unlocked" class="gate-wrap">
     <form class="gate-box" @submit.prevent="submit">
       <h1>Please input your password</h1>
@@ -48,7 +48,7 @@ onMounted(() => {
     </form>
   </div>
 
-  <!-- 通过后：渲染整个应用 -->
+  <!-- After access: render the entire application -->
   <div v-else>
     <header class="section"
       style="padding:.75rem 0;border-bottom:1px solid color-mix(in oklab, var(--fg) 10%, transparent);position:sticky;top:0;background:var(--bg);z-index:50;">
@@ -88,7 +88,7 @@ onMounted(() => {
 </template>
 
 <style scoped>
-/* 过渡动画（保留你的设置） */
+/* Transition animations (keeping your settings) */
 .page-enter-active,
 .page-leave-active {
   transition: opacity 0.2s ease, transform 0.2s ease;
@@ -108,7 +108,7 @@ a.router-link-active {
   text-decoration: underline;
 }
 
-/* 密码门样式 */
+/* Password gate styles */
 .gate-wrap {
   min-height: 100vh;
   display: flex;

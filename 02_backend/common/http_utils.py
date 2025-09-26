@@ -5,7 +5,7 @@ from typing import Any, Dict, Optional
 
 DEFAULT_HEADERS = {
     "Content-Type": "application/json; charset=utf-8",
-    # CORS（按需修改域名）
+    # CORS (modify domain as needed)
     "Access-Control-Allow-Origin": "*",
     "Access-Control-Allow-Headers": "Content-Type,Authorization,X-Requested-With",
     "Access-Control-Allow-Methods": "GET,POST,PUT,DELETE,OPTIONS",
@@ -60,7 +60,7 @@ def parse_json_body(event: Dict[str, Any]) -> Dict[str, Any]:
     if not body:
         return {}
     if event.get("isBase64Encoded"):
-        # 按需处理二进制，这里假设不是二进制 JSON
+        # Handle binary as needed, assuming it's not binary JSON here
         import base64
         body = base64.b64decode(body).decode("utf-8", errors="ignore")
     try:

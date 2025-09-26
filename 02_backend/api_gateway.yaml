@@ -5,7 +5,7 @@ info:
 
 x-amazon-apigateway-importexport-version: "1.0"
 
-# 顶层 CORS（API Gateway 自动生成 OPTIONS）
+# Top-level CORS (API Gateway automatically generates OPTIONS)
 x-amazon-apigateway-cors:
   allowOrigins:
     - "*"
@@ -21,7 +21,7 @@ x-amazon-apigateway-cors:
     - OPTIONS
   maxAge: 3600
 
-# 可选：启用二进制媒体（若将来直接返图片等）
+# Optional: Enable binary media (if returning images directly in the future)
 x-amazon-apigateway-binary-media-types:
   - "image/*"
   - "application/octet-stream"

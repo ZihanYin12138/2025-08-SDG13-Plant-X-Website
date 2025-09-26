@@ -1,12 +1,12 @@
 <!-- src/views/PlantSearch.vue -->
 <template>
-  <!-- ========== 植物搜索与识别 ========== -->
+  <!-- ========== Plant Search & Recognition ========== -->
   <section class="container" id="plantsearch">
     <div class="section-box" aria-label="Plant Search & Recognition">
       <h2>Plant search and recognization</h2>
       <p>Search for a plants or Upload a image to identify a plant.</p>
 
-      <!-- 搜索栏 -->
+      <!-- Search bar -->
       <div class="searchbar">
         <div class="searchbar__box">
           <input
@@ -47,14 +47,14 @@
         <button class="btn" @click="open = true">Filter</button>
       </div>
 
-      <!-- 图片预览 -->
+      <!-- Image preview -->
       <div v-if="previewUrl" class="preview">
         <img :src="previewUrl" alt="preview" />
         <span class="preview__name">{{ previewName }}</span>
         <button class="link" @click="clearPreview">Remove</button>
       </div>
 
-      <!-- 上传弹窗（点击遮罩关闭 + ESC 关闭） -->
+      <!-- Upload modal (close by clicking overlay + ESC) -->
       <div
         v-if="uploadOpen"
         class="modal-mask"
@@ -96,7 +96,7 @@
         </div>
       </div>
 
-      <!-- Filter 弹窗（点击遮罩关闭 + ESC 关闭） -->
+      <!-- Filter modal (close by clicking overlay + ESC) -->
       <div
         v-if="open"
         class="modal-mask"
@@ -232,7 +232,7 @@
         </div>
       </div>
 
-      <!-- 列表 + 统计 + 分页（植物） -->
+      <!-- List + statistics + pagination (plants) -->
       <section>
         <div class="list-toolbar" v-if="totalKnown">
           <div class="results-meta">
@@ -272,7 +272,7 @@
     </div>
   </section>
 
-  <!-- 全屏 Loading（植物识别） -->
+  <!-- Full screen Loading (plant recognition) -->
   <div v-if="recognizing" class="page-loading" role="alert" aria-live="polite">
     <div class="spinner" aria-hidden="true"></div>
     <div class="loading-text">Analyzing plant image…</div>
@@ -292,7 +292,7 @@ import PlantCard from '@/components/PlantCard.vue'
 import PlantCardSkeleton from '@/components/CardSkeleton.vue'
 import { uploadImage, predictByS3Key } from '@/api/uploads'
 
-/** ================= 植物区 ================= */
+/** ================= Plant section ================= */
 const PAGE_SIZE = 8
 const MAX_MB = 3
 const placeholder = 'Search For A Plant'
@@ -304,7 +304,7 @@ const dragActive = ref(false)
 const uploadError = ref('')
 const fileInput = ref<HTMLInputElement | null>(null)
 
-/** 植物识别 Loading（覆盖全屏） */
+/** Plant recognition Loading (full screen overlay) */
 const recognizing = ref(false)
 
 const loading = ref(false)
@@ -426,7 +426,7 @@ const applyFilters = () => { open.value = false; goToPage(1); load() }
 const resetFilters = () => { Object.keys(filters).forEach(k => (filters as any)[k] = '') }
 const resetAndReload = () => { resetFilters(); goToPage(1); load() }
 
-/** 植物图片上传识别 */
+/** Plant image upload recognition */
 const previewUrl = ref(''); const previewName = ref('')
 function pickFile() { uploadError.value = ''; fileInput.value?.click() }
 function onFileInputChange(ev: Event) {
@@ -454,13 +454,13 @@ async function processFile(file: File) {
     return
   }
 
-  // 预览
+  // Preview
   previewName.value = file.name
   if (previewUrl.value) URL.revokeObjectURL(previewUrl.value)
   previewUrl.value = URL.createObjectURL(file)
   uploadOpen.value = false
 
-  // —— 开始识别：显示全屏 Loading
+  // —— Start recognition: show full screen Loading
   recognizing.value = true
   loading.value = true
   error.value = ''
@@ -474,7 +474,7 @@ async function processFile(file: File) {
     if (!ids.length) {
       plants.value = []
       total.value = 0
-      error.value = '未识别到可用候选'
+      error.value = 'No recognizable candidates found'
       return
     }
 
@@ -509,7 +509,7 @@ function clearPreview() {
   previewName.value = ''
 }
 
-/** 植物语音 */
+/** Plant voice recognition */
 const listening = ref(false)
 const speechSupported = typeof window !== 'undefined' && 'webkitSpeechRecognition' in window
 let recognizer: any = null
@@ -530,25 +530,25 @@ onMounted(() => {
 })
 const startVoice = () => recognizer && recognizer.start()
 
-/** 初次进入：第 1 页 */
+/** Initial entry: page 1 */
 onMounted(() => { goToPage(1); load() })
 
-/** 清理本地 URL 以防内存泄漏 */
+/** Clean up local URLs to prevent memory leaks */
 onBeforeUnmount(() => {
   if (previewUrl.value) URL.revokeObjectURL(previewUrl.value)
 })
 </script>
 
 <style scoped>
-/* —— 区块外框（透明背景，仅描边） —— */
+/* —— Block outline (transparent background, border only) —— */
 .section-box{
   border: 1.5px solid var(--border);
   border-radius: 14px;
   padding: 16px;
-  background: transparent; /* 透明，不着色 */
+  background: transparent; /* Transparent, no coloring */
 }
 
-/* ====== 搜索条 ====== */
+/* ====== Search bar ====== */
 .searchbar {
   position: relative; display: flex; gap: 12px; align-items: center; margin-bottom: 16px;
 }
@@ -562,7 +562,7 @@ onBeforeUnmount(() => {
 .searchbar__icon-left { position: absolute; inset: 0 auto 0 14px; display: grid; place-items: center; color: var(--muted); pointer-events: none; }
 .searchbar__icon-rights { position: absolute; right: 6px; top: 50%; transform: translateY(-50%); display: flex; gap: 4px; align-items: center; }
 
-/* ====== 按钮 ====== */
+/* ====== Buttons ====== */
 .icon-btn {
   width: 36px; height: 36px; display: grid; place-items: center; border-radius: 50%;
   border: 1px solid var(--border); background: var(--card); color: var(--fg); cursor: pointer;
@@ -577,13 +577,13 @@ onBeforeUnmount(() => {
 .btn:disabled { opacity: .6; cursor: not-allowed; }
 .btn:hover { background: var(--hover); }
 
-/* ====== 预览 ====== */
+/* ====== Preview ====== */
 .preview { display: flex; align-items: center; gap: 10px; margin: 8px 0 16px; color: var(--muted); }
 .preview img { width: 44px; height: 44px; object-fit: cover; border-radius: 8px; }
 .preview__name { max-width: 40vw; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .link { color: var(--muted); background: none; border: none; cursor: pointer; }
 
-/* ====== 弹窗（与你原风格一致） ====== */
+/* ====== Modal (consistent with your original style) ====== */
 .modal-mask { position: fixed; inset: 0; background: var(--backdrop); display: grid; place-items: start center; padding-top: 48px; z-index: 50; }
 .modal {
   width: 840px; max-width: 95vw; max-height: 80vh; display: flex; flex-direction: column; background: var(--card);
@@ -600,7 +600,7 @@ onBeforeUnmount(() => {
   width: 32px; height: 32px; border-radius: 50%; border: 1px solid var(--border); background: var(--card); color: var(--fg); cursor: pointer;
 }
 
-/* ====== 上传区域 ====== */
+/* ====== Upload area ====== */
 .dropzone{
   border: 2px dashed color-mix(in oklab, var(--fg) 30%, transparent); border-radius: 14px; background: var(--surface);
   padding: 26px; transition: .15s ease;
@@ -617,7 +617,7 @@ onBeforeUnmount(() => {
 .dz-actions{ display:flex; justify-content:center; gap:.5rem; margin-bottom:.25rem; }
 .dz-tip{ color: var(--muted); font-size: .9rem; margin: 0; }
 
-/* ====== 表单 ====== */
+/* ====== Form ====== */
 .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 22px 40px; }
 .field label { font-weight: 600; display: block; margin-bottom: 6px; }
 .radios { display: grid; gap: 6px; color: var(--fg); }
@@ -625,7 +625,7 @@ onBeforeUnmount(() => {
   width: 100%; height: 40px; border: 1px solid var(--border); border-radius: 10px; padding: 0 12px; background: var(--surface); color: var(--fg);
 }
 
-/* ====== 列表工具栏 / 统计 / 分页 ====== */
+/* ====== List toolbar / statistics / pagination ====== */
 .list-toolbar{ display:flex; align-items:center; justify-content:space-between; gap:.75rem; margin: .5rem 0 1rem; }
 .list-toolbar.bottom{ margin-top: 1rem; justify-content: center; }
 .results-meta{ color: var(--muted); }
@@ -637,15 +637,15 @@ onBeforeUnmount(() => {
 .pager-input{ width: 3.5rem; height: 32px; padding: 0 .5rem; border-radius: 8px; border: 1px solid var(--border); background: var(--card); color: var(--fg); }
 .pager-num{ color: var(--muted); }
 
-/* ====== 卡片网格（植物） ====== */
+/* ====== Card grid (plants) ====== */
 .plants-grid { display: grid; gap: 1rem; grid-template-columns: repeat(4, 1fr); }
 @media (max-width: 768px) { .plants-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 480px) { .plants-grid { grid-template-columns: 1fr; } }
 
-/* 错误信息 */
+/* Error messages */
 .error{ color:#c00; margin-top:8px }
 
-/* ====== 全屏 Loading（识别中） ====== */
+/* ====== Full screen Loading (recognizing) ====== */
 .page-loading{
   position: fixed; inset: 0; background: color-mix(in oklab, var(--bg) 70%, transparent);
   backdrop-filter: blur(1.5px); display: grid; place-items: center; z-index: 80;
