@@ -24,7 +24,7 @@ async function load() {
 
 onMounted(load)
 
-// ====== Modal 数据与逻辑（新增） ======
+// ====== Modal data and logic (newly added) ======
 type Article = { title: string; href: string; desc: string; bg?: string }
 type GroupKey = 'g1' | 'g2' | 'g3'
 
@@ -201,7 +201,7 @@ function onKey(e: KeyboardEvent) {
 }
 
 watch(modalOpen, v => {
-  // 锁定滚动
+  // Lock scrolling
   document.body.style.overflow = v ? 'hidden' : ''
 })
 
@@ -307,7 +307,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
 
   <hr class="divider-red" aria-hidden="true" />
 
-  <!-- 首页推荐植物 -->
+  <!-- Homepage recommended plants -->
   <section id="plants" class="section container">
     <h2 class="title">We Have Tons Of Plants Data</h2>
     <div class="seeall">
@@ -349,7 +349,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
       </div>
     </div>
 
-    <!-- 三张入口卡片（点击打开对应组） -->
+    <!-- Three entry cards (click to open corresponding group) -->
     <div class="grid cards vertical">
       <div class="card clickable" @click="openModal('g1')">
         <h2 class="card__title">How Your Garden Support Nature In a Changing Climate</h2>
@@ -368,7 +368,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
     </div>
   </section>
 
-  <!-- 弹窗 -->
+  <!-- Modal -->
   <teleport to="body">
     <div
       class="modal"
@@ -382,7 +382,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
       <div class="modal__panel" @wheel.passive.prevent="onWheel">
         <button class="modal__close" aria-label="Close" @click="closeModal">×</button>
 
-        <!-- 背景层 -->
+        <!-- Background layer -->
         <div
           class="slide"
           :style="{
@@ -407,7 +407,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
           </div>
         </div>
 
-        <!-- 底部分页器 -->
+        <!-- Bottom pagination -->
         <div class="pager pager--left">
           <button class="pager__btn" :disabled="!hasPrev" @click="go(-1)">↑ Prev</button>
           <div class="pager__dots">
@@ -426,7 +426,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
 </template>
 
 <style scoped>
-/* =================== 基础布局 =================== */
+/* =================== Basic Layout =================== */
 .hero-home .hero-grid {
   display: grid;
   gap: 1.25rem;
@@ -485,7 +485,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
 }
 .seeall { white-space: nowrap; }
 
-/* =================== 列表 / 网格 =================== */
+/* =================== Lists / Grids =================== */
 .plants-grid {
   display: grid;
   gap: 1rem;
@@ -541,7 +541,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
 .hero-home .lead{ margin-top: .25rem; color: var(--muted); }
 .hero-home .hero-cta{ margin-top: .75rem; }
 
-/* =================== 卡片悬浮 =================== */
+/* =================== Card Hover Effects =================== */
 .card {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
@@ -551,10 +551,10 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
   box-shadow: 0 12px 24px rgba(0,0,0,0.2);
 }
 
-/* =================== here 区域：竖排入口卡片 =================== */
+/* =================== Here section: vertical entry cards =================== */
 .cards.vertical {
   display: grid;
-  grid-template-columns: 1fr;   /* 单列 */
+  grid-template-columns: 1fr;   /* Single column */
   gap: 1rem;
 }
 .cards.vertical .card {
@@ -566,7 +566,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
 .muted { color: var(--muted); }
 .clickable { cursor: pointer; }
 
-/* =================== 弹窗（主题友好） =================== */
+/* =================== Modal (theme-friendly) =================== */
 .modal {
   position: fixed;
   inset: 0;
@@ -588,9 +588,9 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
   box-shadow: var(--shadow);
   background: var(--card);
   display: grid;
-  grid-template-rows: 1fr auto;   /* 默认底部一行给翻页 */
+  grid-template-rows: 1fr auto;   /* Default bottom row for pagination */
 }
-/* 使用左侧竖排翻页时，去掉底部行 */
+/* When using left vertical pagination, remove bottom row */
 .modal__panel.with-left-rail { grid-template-rows: 1fr; }
 
 .modal__close {
@@ -608,7 +608,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
 }
 .modal__close:hover { background: color-mix(in oklab, var(--card) 75%, #fff 25%); }
 
-/* 背景图层（带渐变） */
+/* Background layer (with gradient) */
 .slide {
   position: relative;
   background-size: cover;
@@ -620,18 +620,18 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
   z-index: 1;
   height: 100%;
   display: grid;
-  place-items: center;           /* 居中显示内容 */
+  place-items: center;           /* Center content */
   padding: 2rem;
 }
 
-/* 文章卡片 */
+/* Article card */
 .modal-article {
   background: color-mix(in oklab, var(--card) 90%, #fff 10%);
   color: var(--fg);
   border-radius: 14px;
   padding: 1.1rem 1.25rem;
   max-width: 820px;
-  margin: 0 auto;                /* 居中 */
+  margin: 0 auto;                /* Center */
   box-shadow: var(--shadow);
 }
 .modal-article h1 {
@@ -641,7 +641,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
 .modal-article p { margin: 0; line-height: 1.55; }
 .modal-article a { color: color-mix(in oklab, var(--fg) 80%, #0b65c2 20%); }
 
-/* =================== 翻页（底部横排，作小屏回退用） =================== */
+/* =================== Pagination (bottom horizontal, fallback for small screens) =================== */
 .pager {
   width: 100%;
   max-height: fit-content;
@@ -669,30 +669,30 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
 }
 .pager__dots button[aria-current="true"]{ background: var(--fg); }
 
-/* =================== 左侧竖排翻页区 =================== */
+/* =================== Left vertical pagination area =================== */
 .pager.pager--left{
   position: absolute;
   left: 5px;
   top: 50%;
   transform: translateY(-50%);
   display: flex;
-  flex-direction: column;      /* 竖排 */
+  flex-direction: column;      /* Vertical */
   align-items: center;
   gap: 50px;
   z-index: 3;
   padding: .25rem;
-  width: auto;                 /* 覆盖底部横排的 100% */
+  width: auto;                 /* Override bottom horizontal 100% */
   background: transparent;
 }
 .pager--left .pager__dots{
   display: flex;
-  flex-direction: column;      /* 竖排圆点 */
+  flex-direction: column;      /* Vertical dots */
   gap: 50px;
 }
-/* 内容区域给左侧轨让出空间 */
+/* Content area makes space for left rail */
 .with-left-rail .article-wrap{ padding-left: 5.5rem; }
 
-/* 小屏回退为底部横排 */
+/* Small screen fallback to bottom horizontal */
 @media (max-width: 640px){
   .modal__panel.with-left-rail { grid-template-rows: 1fr auto; }
   .with-left-rail .article-wrap{ padding-left: 2rem; }

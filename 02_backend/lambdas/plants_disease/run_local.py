@@ -4,7 +4,7 @@ import json
 import sys
 from pathlib import Path
 
-# 直接调用同目录的 handler
+# Directly call handler from same directory
 from app import handler
 
 def main():
@@ -16,7 +16,7 @@ def main():
     event = json.loads(event_path.read_text(encoding="utf-8"))
     resp = handler(event, None)
 
-    # 漂亮地打印输出
+    # Pretty print output
     print(json.dumps(resp, ensure_ascii=False, indent=2))
 
 if __name__ == "__main__":

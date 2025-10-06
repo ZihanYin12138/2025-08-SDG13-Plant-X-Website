@@ -124,7 +124,7 @@ def search_by_common_name(common_name_keyword: str, limit: int, offset: int) -> 
 
 
 def search_by_id(plant_disease_id: int) -> Dict[str, Any]:
-    """通过 plant_disease_id 精确查询植物疾病信息"""
+    """Query plant disease information precisely by plant_disease_id"""
     rows = fetch_all(SQL_BY_ID, (plant_disease_id,))
 
     items: List[Dict[str, Any]] = []
@@ -159,7 +159,7 @@ def handler(event, context):
     if method != "GET":
         return _resp(405, {"message": "Only GET is supported for this function"})
 
-    # 检查是否通过 ID 查询
+    # Check if querying by ID
     plant_disease_id = qs.get("plant_disease_id") or qs.get("id")
     if plant_disease_id:
         try:
@@ -171,7 +171,7 @@ def handler(event, context):
         except Exception as e:
             return _resp(500, {"message": f"internal error: {e}"})
     
-    # 通过名称模糊查询
+    # Fuzzy search by name
     q = (qs.get("q") or qs.get("common_name") or "").strip()
     if not q:
         return _resp(400, {"message": "Missing query. Use ?q=keyword (fuzzy match on common_name) or ?plant_disease_id=123 (exact match by ID)"})

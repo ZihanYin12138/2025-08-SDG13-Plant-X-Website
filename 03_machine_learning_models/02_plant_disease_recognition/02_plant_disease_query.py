@@ -5,13 +5,13 @@
 # -*- coding: utf-8 -*-
 # Description: Plant disease classification inference script.
 
-# 1. 标准库 (Standard Library)
+# 1. Standard Library
 import argparse
 import json
 import warnings
 from pathlib import Path
 
-# 2. 第三方库 (Third-party Libraries)
+# 2. Third-party Libraries
 import timm
 import torch
 import torch.nn as nn
@@ -20,13 +20,13 @@ from PIL import Image
 from torchvision import transforms
 
 # ====================================================================
-# 1. 全局设置与辅助函数
+# 1. Global Settings and Helper Functions
 # ====================================================================
 
-# 忽略一些不影响结果的警告信息
+# Ignore warnings that don't affect results
 warnings.filterwarnings('ignore')
 
-# 推理时使用的图像转换，必须与训练时的验证/测试集转换完全一致
+# Image transforms used for inference, must be exactly the same as validation/test transforms during training
 inference_transforms = transforms.Compose([
     transforms.Resize((224, 224)),
     transforms.ToTensor(),
@@ -34,39 +34,39 @@ inference_transforms = transforms.Compose([
 ])
 
 def load_class_map(json_path: Path):
-    """从JSON文件加载 索引 -> ID 的映射字典"""
+    """Load index -> ID mapping dictionary from JSON file"""
     try:
         with open(json_path, 'r', encoding='utf-8') as f:
             idx_to_label = json.load(f)
-        # JSON加载的key默认是字符串，我们需要将其转为整数以匹配PyTorch的输出
+        # JSON loaded keys are strings by default, we need to convert them to integers to match PyTorch output
         idx_to_label = {int(k): v for k, v in idx_to_label.items()}
-        print("✅ 翻译词典加载成功。")
+        print("✅ Translation dictionary loaded successfully.")
         return idx_to_label
     except Exception as e:
-        print(f"🛑 加载映射文件 '{json_path}' 时出错: {e}")
+        print(f"🛑 Error loading mapping file '{json_path}': {e}")
         return None
 
 def load_model(model_name: str, num_classes: int, model_path: Path, device: torch.device):
-    """加载模型架构并载入训练好的权重"""
+    """Load model architecture and trained weights"""
     try:
         model = timm.create_model(model_name, pretrained=False, num_classes=num_classes)
         model.load_state_dict(torch.load(model_path, map_location=device))
         model.to(device)
-        model.eval() # 切换到评估模式，这非常重要！
-        print("✅ 模型加载成功。")
+        model.eval() # Switch to evaluation mode, this is very important!
+        print("✅ Model loaded successfully.")
         return model
     except Exception as e:
-        print(f"🛑 加载模型 '{model_path}' 时出错: {e}")
+        print(f"🛑 Error loading model '{model_path}': {e}")
         return None
 
 def predict_topk(model: nn.Module, image_path: Path, transforms: transforms.Compose, 
                  idx_to_label_map: dict, device: torch.device, k: int = 3):
-    """对单张图片进行Top-K预测，只输出ID和概率"""
+    """Perform Top-K prediction on a single image, output only ID and probability"""
     try:
         image = Image.open(image_path).convert("RGB")
         image_tensor = transforms(image).unsqueeze(0).to(device)
     except Exception as e:
-        print(f"🛑 处理图片 '{image_path}' 时出错: {e}")
+        print(f"🛑 Error processing image '{image_path}': {e}")
         return None
 
     with torch.no_grad():
@@ -86,34 +86,34 @@ def predict_topk(model: nn.Module, image_path: Path, transforms: transforms.Comp
         
         results.append({
             "predicted_id": int(class_id),
-            "probability": float(prob) # 返回浮点数而不是字符串，方便后续处理
+            "probability": float(prob) # Return float instead of string for easier subsequent processing
         })
         
     return results
 
 # ====================================================================
-# 2. 主程序
+# 2. Main Program
 # ====================================================================
 
 def main():
-    # --- 设置命令行参数 ---
-    ap = argparse.ArgumentParser(description="植物病害识别推理脚本")
-    ap.add_argument("--image", type=str, required=True, help="需要预测的单张图片路径")
-    ap.add_argument("--model-path", type=str, default="model.pth", help="训练好的模型文件路径 (.pth)")
-    ap.add_argument("--class-map", type=str, default="class_map.json", help="类别索引到ID的映射文件 (.json)")
-    ap.add_argument("--topk", type=int, default=3, help="返回概率最高的K个结果")
-    ap.add_argument("--json", action="store_true", help="如果设置，则以JSON格式输出结果")
+    # --- Set command line arguments ---
+    ap = argparse.ArgumentParser(description="Plant disease recognition inference script")
+    ap.add_argument("--image", type=str, required=True, help="Single image path to predict")
+    ap.add_argument("--model-path", type=str, default="model.pth", help="Trained model file path (.pth)")
+    ap.add_argument("--class-map", type=str, default="class_map.json", help="Class index to ID mapping file (.json)")
+    ap.add_argument("--topk", type=int, default=3, help="Return top K results with highest probability")
+    ap.add_argument("--json", action="store_true", help="If set, output results in JSON format")
     args = ap.parse_args()
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    print(f"使用设备: {device}")
+    print(f"Using device: {device}")
 
-    # --- 将路径字符串转换为Path对象 ---
+    # --- Convert path strings to Path objects ---
     model_path = Path(args.model_path)
     class_map_path = Path(args.class_map)
     image_path = Path(args.image)
 
-    # --- 执行流程 ---
+    # --- Execute workflow ---
     idx_to_label = load_class_map(class_map_path)
     if not idx_to_label:
         return
@@ -123,38 +123,38 @@ def main():
         return
         
     if not image_path.exists():
-        print(f"🛑 错误: 输入图片 '{image_path}' 不存在。")
+        print(f"🛑 Error: Input image '{image_path}' does not exist.")
         return
 
     results = predict_topk(model, image_path, inference_transforms, idx_to_label, device, k=args.topk)
 
-    # --- 输出结果 ---
+    # --- Output results ---
     if not results:
-        print("🛑 预测失败。")
+        print("🛑 Prediction failed.")
         return
 
     if args.json:
-        # 以JSON格式输出
-        # ensure_ascii=False 确保中文等非ASCII字符能正确显示
+        # Output in JSON format
+        # ensure_ascii=False ensures non-ASCII characters like Chinese can be displayed correctly
         print(json.dumps(results, indent=4, ensure_ascii=False))
     else:
-        # 以人类可读的格式输出
+        # Output in human-readable format
         print("\n" + "="*30)
-        print("--- 预测结果 ---")
-        print(f"图片: {image_path.name}")
+        print("--- Prediction Results ---")
+        print(f"Image: {image_path.name}")
         print("="*30)
         for pred in results:
-            print(f"病害ID: {pred['predicted_id']:<5} | 概率: {pred['probability']:.2%}")
+            print(f"Disease ID: {pred['predicted_id']:<5} | Probability: {pred['probability']:.2%}")
 
 # ====================================================================
-# 3. 程序主入口
+# 3. Program Entry Point
 # ====================================================================
 
 if __name__ == "__main__":
     main()
 
 # ====================================================================
-# 4. 使用示例 (在终端中运行)
+# 4. Usage Examples (Run in terminal)
 # ====================================================================
 #
 # python 02_plant_disease_query.py --image test_images/011d0.jfif

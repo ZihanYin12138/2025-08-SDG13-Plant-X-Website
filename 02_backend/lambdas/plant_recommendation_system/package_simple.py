@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """
-简化的Lambda打包脚本
-确保包含所有必需文件
+Simplified Lambda packaging script
+Ensure all required files are included
 """
 
 import os
@@ -11,18 +11,18 @@ import zipfile
 from pathlib import Path
 
 def create_lambda_package():
-    """创建Lambda部署包"""
+    """Create Lambda deployment package"""
     
-    # 当前目录
+    # Current directory
     current_dir = Path(".")
     
-    # 创建ZIP文件
+    # Create ZIP file
     zip_filename = "plant_recommendation_lambda.zip"
     
-    print(f"创建Lambda部署包: {zip_filename}")
+    print(f"Creating Lambda deployment package: {zip_filename}")
     
     with zipfile.ZipFile(zip_filename, 'w', zipfile.ZIP_DEFLATED) as zipf:
-        # 添加主要文件
+        # Add main files
         main_files = [
             "lambda_function.py",
             "plant_recommendation_lambda.py"
@@ -30,10 +30,10 @@ def create_lambda_package():
         
         for file in main_files:
             if os.path.exists(file):
-                print(f"添加文件: {file}")
+                print(f"Adding file: {file}")
                 zipf.write(file, file)
         
-        # 添加目录
+        # Add directories
         directories = [
             "common",
             "pymysql", 
@@ -46,27 +46,27 @@ def create_lambda_package():
         
         for dir_name in directories:
             if os.path.exists(dir_name):
-                print(f"添加目录: {dir_name}")
+                print(f"Adding directory: {dir_name}")
                 for root, dirs, files in os.walk(dir_name):
-                    # 排除__pycache__目录
+                    # Exclude __pycache__ directories
                     dirs[:] = [d for d in dirs if d != '__pycache__']
                     
                     for file in files:
-                        # 排除.pyc文件
+                        # Exclude .pyc files
                         if not file.endswith('.pyc'):
                             file_path = os.path.join(root, file)
                             arcname = file_path
-                            print(f"  添加: {arcname}")
+                            print(f"  Adding: {arcname}")
                             zipf.write(file_path, arcname)
     
-    print(f"\n✅ Lambda部署包创建完成: {zip_filename}")
+    print(f"\n✅ Lambda deployment package created: {zip_filename}")
     
-    # 显示ZIP文件信息
+    # Display ZIP file information
     zip_size = os.path.getsize(zip_filename)
-    print(f"文件大小: {zip_size / 1024 / 1024:.2f} MB")
+    print(f"File size: {zip_size / 1024 / 1024:.2f} MB")
     
-    # 验证idna文件
-    print("\n验证idna文件:")
+    # Verify idna files
+    print("\nVerifying idna files:")
     with zipfile.ZipFile(zip_filename, 'r') as z:
         idna_files = [f for f in z.namelist() if f.startswith('idna/')]
         for f in sorted(idna_files):
@@ -75,6 +75,6 @@ def create_lambda_package():
     return zip_filename
 
 if __name__ == "__main__":
-    print("开始创建Lambda部署包...")
+    print("Starting Lambda deployment package creation...")
     zip_file = create_lambda_package()
-    print(f"\n🎉 部署包已创建: {zip_file}")
+    print(f"\n🎉 Deployment package created: {zip_file}")
