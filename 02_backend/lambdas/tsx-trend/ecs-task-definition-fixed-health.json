@@ -1,0 +1,47 @@
+{
+  "family": "plantx-tsx-trend-api",
+  "networkMode": "awsvpc",
+  "requiresCompatibilities": ["FARGATE"],
+  "cpu": "1024",
+  "memory": "2048",
+  "executionRoleArn": "arn:aws:iam::056000095164:role/ecsTaskExecutionRole",
+  "taskRoleArn": "arn:aws:iam::056000095164:role/ecsTaskRole",
+  "containerDefinitions": [
+    {
+      "name": "tsx-trend-api",
+      "image": "056000095164.dkr.ecr.us-east-1.amazonaws.com/plantx-tsx-trend-api:standard",
+      "portMappings": [
+        {
+          "containerPort": 5000,
+          "protocol": "tcp"
+        }
+      ],
+      "essential": true,
+      "environment": [
+        {
+          "name": "FLASK_ENV",
+          "value": "production"
+        }
+      ],
+      "logConfiguration": {
+        "logDriver": "awslogs",
+        "options": {
+          "awslogs-group": "/ecs/plantx-tsx-trend-api",
+          "awslogs-region": "us-east-1",
+          "awslogs-stream-prefix": "ecs"
+        }
+      },
+      "healthCheck": {
+        "command": [
+          "CMD-SHELL",
+          "curl -f http://localhost:5000/api/map/data/2022 || exit 1"
+        ],
+        "interval": 30,
+        "timeout": 10,
+        "retries": 5,
+        "startPeriod": 120
+      }
+    }
+  ]
+}
+
