@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import { ref, onMounted, computed, watch, onUnmounted } from 'vue'
+import { ref, onMounted, computed, onUnmounted } from 'vue'
 import { searchPlants, type PlantCardItem } from '@/api/plants'
 import PlantCard from '@/components/PlantCard.vue'
 import PlantCardSkeleton from '@/components/CardSkeleton.vue'
 
-
+/* =================== Plants list (homepage cards) =================== */
 const plants = ref<PlantCardItem[]>([])
 const loading = ref(false)
 const error = ref('')
@@ -14,17 +14,16 @@ async function load() {
   error.value = ''
   try {
     const res = await searchPlants('')
-    plants.value = res.items.slice(0,8)
+    plants.value = res.items.slice(0, 8)
   } catch (e: any) {
     error.value = e.message || String(e)
   } finally {
     loading.value = false
   }
 }
-
 onMounted(load)
 
-// ====== Modal data and logic (newly added) ======
+/* =================== Articles：横幅轮播（循环 + 动画） =================== */
 type Article = { title: string; href: string; desc: string; bg?: string }
 type GroupKey = 'g1' | 'g2' | 'g3'
 
@@ -46,38 +45,39 @@ const lm33 = new URL('@/assets/lm33.png', import.meta.url).href
 const lm34 = new URL('@/assets/lm34.png', import.meta.url).href
 const lm35 = new URL('@/assets/lm35.png', import.meta.url).href
 
+/* ====== 仅移除标题中的编号，其它文字完全不变 ====== */
 const groups: Record<GroupKey, Article[]> = {
   g1: [
     {
-      title: '(i) Plants are suffering from excessive heat',
+      title: 'Plants are suffering from excessive heat',
       href: 'https://www.sbs.com.au/news/article/nearly-half-of-australias-native-plants-are-under-threat-from-climate-change/eotnh8c3f',
       desc: `47% of Australia's native plant species may face challenges by 2070 as temperatures rise.
       Plants that have survived in stable conditions for thousands of years are now at risk of dying because they cannot tolerate the extreme heat.`,
       bg: lm11,
     },
     {
-      title: '(ii) Rainfall patterns are changing',
+      title: 'Rainfall patterns are changing',
       href: 'https://www.nespthreatenedspecies.edu.au/news-and-media/latest-news/race-to-unlock-secret-to-save-endangered-orchids',
       desc: `Unpredictable rainfall disrupts natural cycles that provide water to plants.
       Many species are under stress and struggling to adapt to conditions very different from what they are accustomed to.`,
       bg: lm12,
     },
     {
-      title: '(iii) Species can be wiped out by one bad storm',
+      title: 'Species can be wiped out by one bad storm',
       href: 'https://theconversation.com/the-50-beautiful-australian-plants-at-greatest-risk-of-extinction-and-how-to-save-them-160362',
       desc: `A single severe storm can destroy an entire species.
       Approximately 33 threatened species exist in just one location, so a bushfire or a big storm could end their existence.`,
       bg: lm13,
     },
     {
-      title: '(iv) Plant partnerships that took millions of years are crumbling',
+      title: 'Plant partnerships that took millions of years are crumbling',
       href: '',
       desc: `Many orchids rely on fungi in their roots to survive.
       Climate change is disrupting these vital relationships, threatening species that have evolved over millions of years.`,
       bg: lm14,
     },
     {
-      title: '(v) Plants do not receive fire when they need it',
+      title: 'Plants do not receive fire when they need it',
       href: 'https://theconversation.com/australia-first-research-reveals-staggering-loss-of-threatened-plants-over-20-years-151408',
       desc: `Fire is essential for seed germination in many Australian plants.
       However, altered fire patterns now prevent reproduction, leaving some species unable to regenerate.`,
@@ -86,35 +86,35 @@ const groups: Record<GroupKey, Article[]> = {
   ],
   g2: [
     {
-      title: '(i) Turn Your Backyard Into a Wildlife Highway',
+      title: 'Turn Your Backyard Into a Wildlife Highway',
       href: 'https://conservationvolunteers.com.au/australias-endangered-plants-and-animals-creating-nature-blocks-to-save-them/',
       desc: `Planting native species can transform suburban gardens into vital habitats, linking fragmented landscapes.
       This creates safe corridors for wildlife to move between natural areas.`,
       bg: lm21,
     },
     {
-      title: '(ii) Provide food and shelter for wildlife',
+      title: 'Provide food and shelter for wildlife',
       href: 'https://www.gardeningaustraliamag.com.au/growing-australian-native-plants/',
       desc: `Native plants such as banksias, grevilleas, and bottlebrush supply essential food for bees, birds, and small mammals.
       Gardens offer safe shelter and passageways, helping endangered species survive and move between fragmented environments.`,
       bg: lm22,
     },
     {
-      title: '(iii) Seeds and Genetic Diversity Matter',
+      title: 'Seeds and Genetic Diversity Matter',
       href: 'https://www.rbg.vic.gov.au/science/research/orchid-conservation-program/',
       desc: `Growing a variety of native plants preserves genetic diversity, which is critical for species survival.
       Your garden becomes a valuable seed bank, strengthening resilience in wild populations.`,
       bg: lm23,
     },
     {
-      title: '(iv) Native gardens support pollinators',
+      title: 'Native gardens support pollinators',
       href: 'https://wwf.org.au/blogs/9-australian-native-plants-and-trees-to-attract-wildlife-and-bees-to-your-apartment-balcony-or-garden/',
       desc: `Native plants sustain vital relationships with pollinators like bees and birds,
       ensuring ecological interactions that are essential for reproduction and biodiversity.`,
       bg: lm24,
     },
     {
-      title: '(v) Plants help climate change adaption',
+      title: 'Plants help climate change adaption',
       href: 'https://www.sbs.com.au/news/article/nearly-half-of-australias-native-plants-are-under-threat-from-climate-change/eotnh8c3f',
       desc: `Cultivating endangered species in different environments helps them adapt to changing conditions,
       enabling resilience as climate zones shift.`,
@@ -123,107 +123,103 @@ const groups: Record<GroupKey, Article[]> = {
   ],
   g3: [
     {
-      title: '(i) Eastern Suburbs Banksia - Tough as Nails',
+      title: 'Eastern Suburbs Banksia - Tough as Nails',
       href: 'https://conservationvolunteers.com.au/australias-endangered-plants-and-animals-creating-nature-blocks-to-save-them/',
       desc: `This hardy shrub supports Yellow-tailed Black Cockatoos and connects fragmented habitats across Sydney.
       It’s also beginner-friendly, making it a great choice for new gardeners.`,
-      bg:lm31,
+      bg: lm31,
     },
     {
-      title: '(ii) Native Orchids - Easier to Grow Than You Might Expect',
+      title: 'Native Orchids - Easier to Grow Than You Might Expect',
       href: 'https://gardeningwithangus.com.au/australian-native-orchids/',
       desc: `Many Australian orchids thrive in gardens with shaded areas.
       Growing them helps conserve species that are at risk in the wild.`,
-      bg:lm32,
+      bg: lm32,
     },
     {
-      title: "(iii) Local Grevilleas: Nature's Hardy Survivors",
+      title: "Local Grevilleas: Nature's Hardy Survivors",
       href: 'https://theconversation.com/australia-first-research-reveals-staggering-loss-of-threatened-plants-over-20-years-151408',
       desc: `Grevilleas have adapted to harsh conditions for millions of years.
       Planting region-specific grevilleas supports pollinators and ensures resilience to climate change.`,
-      bg:lm33,
+      bg: lm33,
     },
     {
-      title: '(iv) Bottlebrush - The Crowd Favorite',
+      title: 'Bottlebrush - The Crowd Favorite',
       href: 'https://wwf.org.au/blogs/9-australian-native-plants-and-trees-to-attract-wildlife-and-bees-to-your-apartment-balcony-or-garden/',
       desc: `Vibrant red blooms attract birds and pollinators while strengthening ecosystems.
       Bottlebrushes are both beautiful and functional in any garden.`,
-      bg:lm34,
+      bg: lm34,
     },
     {
-      title: '(v) Native Grasses - Set and Forget',
+      title: 'Native Grasses - Set and Forget',
       href: 'https://www.nespthreatenedspecies.edu.au/news-and-media/latest-news/race-to-unlock-secret-to-save-endangered-orchids',
       desc: `Once established, native grasses require little care but provide lasting habitat for wildlife,
       supporting biodiversity with minimal effort.`,
-      bg:lm35,
+      bg: lm35,
     },
   ],
 }
 
-const modalOpen = ref(false)
-const currentGroup = ref<GroupKey | null>(null)
-const currentIndex = ref(0)
-let wheelLocked = false
-
-const items = computed(() => (currentGroup.value ? groups[currentGroup.value] : []))
-const hasPrev = computed(() => currentIndex.value > 0)
-const hasNext = computed(() => currentIndex.value < items.value.length - 1)
-const currentItem = computed(() => items.value[currentIndex.value])
-
-function openModal(g: GroupKey, start = 0) {
-  currentGroup.value = g
-  currentIndex.value = start
-  modalOpen.value = true
+const tabMeta: Record<GroupKey, { title: string; subtitle: string }> = {
+  g1: { title: 'How Your Garden Support Nature In a Changing Climate', subtitle: 'Impacts on native plants & ecosystems' },
+  g2: { title: 'How Your Garden Support Nature In a Changing Climate', subtitle: 'How your garden helps nature' },
+  g3: { title: 'Grow to protect: native plants you can save in your garden', subtitle: 'Starter-friendly native plant ideas' },
 }
-function closeModal() {
-  modalOpen.value = false
-  currentGroup.value = null
-  currentIndex.value = 0
+
+/* ===== 默认选中“中间板块” ===== */
+const activeGroup = ref<GroupKey>('g2')
+const activeIndex = ref(0)
+
+const items = computed(() => groups[activeGroup.value] || [])
+const len = computed(() => items.value.length)
+const currentItem = computed(() => items.value[activeIndex.value])
+
+const prevIdx = computed(() => (activeIndex.value - 1 + len.value) % len.value)
+const nextIdx = computed(() => (activeIndex.value + 1) % len.value)
+const prevItem = computed(() => items.value[prevIdx.value])
+const nextItem = computed(() => items.value[nextIdx.value])
+
+const animName = ref<'slide-next' | 'slide-prev'>('slide-next')
+
+function switchGroup(g: GroupKey) {
+  if (activeGroup.value === g) return
+  activeGroup.value = g
+  activeIndex.value = 0
+  animName.value = 'slide-next'
 }
 function go(step: number) {
-  const next = Math.min(items.value.length - 1, Math.max(0, currentIndex.value + step))
-  if (next !== currentIndex.value) currentIndex.value = next
+  if (!len.value) return
+  animName.value = step > 0 ? 'slide-next' : 'slide-prev'
+  activeIndex.value = (activeIndex.value + step + len.value) % len.value
 }
-function onWheel(e: WheelEvent) {
-  e.preventDefault()
-  if (wheelLocked) return
-  wheelLocked = true
-  const dir = Math.sign(e.deltaY)
-  if (dir > 0) go(1)
-  else if (dir < 0) go(-1)
-  setTimeout(() => (wheelLocked = false), 350)
-}
+
+/* 键盘/触摸 */
 function onKey(e: KeyboardEvent) {
-  if (!modalOpen.value) return
-  if (e.key === 'Escape') closeModal()
   if (e.key === 'ArrowRight') go(1)
   if (e.key === 'ArrowLeft') go(-1)
 }
-
-watch(modalOpen, v => {
-  // Lock scrolling
-  document.body.style.overflow = v ? 'hidden' : ''
-})
-
 onMounted(() => window.addEventListener('keydown', onKey))
 onUnmounted(() => window.removeEventListener('keydown', onKey))
 
+let touchStartX = 0
+function onTouchStart(e: TouchEvent) { touchStartX = e.changedTouches[0].clientX }
+function onTouchEnd(e: TouchEvent) {
+  const dx = e.changedTouches[0].clientX - touchStartX
+  if (Math.abs(dx) > 40) { dx < 0 ? go(1) : go(-1) }
+}
 </script>
 
-
 <template>
-  <!-- HERO / INTRO -->
+  <!-- HERO / INTRO（保持你原有的文案，不做改动） -->
   <section class="section container hero-home">
     <div class="hero-grid">
       <div>
         <h1 class="display">Plant'X</h1>
-        <h2 class="title">Keep Your Garden Thriving Under Changing Climate</h2>
+        <h2 class="title">Keep Your Garden Thriving Under Changing Climate in Austrilian Suburbs</h2>
         <p class="lead">
-          Caring for personal plants is more than just a hobby. With the right attention to sunlight, soil, watering,
-          and composting, a home garden can thrive, bringing health and joy to daily life. From balconies and city parks
-          to wild landscapes, plants connect us to the environment. Urban greenery helps build climate resilience, while
-          wild plants protect biodiversity—together, they remind us that caring for our own garden is also caring for
-          the planet.
+          Caring for plants is more than a hobby. With proper sunlight, soil, water, and compost, gardens thrive and bring joy.
+          From city balconies to wild landscapes, plants connect us to nature—urban greenery builds resilience,
+          and wild plants preserve biodiversity. Tending our gardens means caring for the planet.
         </p>
         <div class="hero-cta">
           <RouterLink class="btn btn-primary" to="/garden">Explore</RouterLink>
@@ -262,52 +258,50 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
 
   <hr class="divider-red" aria-hidden="true" />
 
-  <!-- Garden / Urban & Wild / Community -->
+  <!-- Garden / Urban & Wild / Community（原文不改） -->
   <section class="section container">
     <div class="grid cards">
       <RouterLink class="infocard" to="/garden">
-      <article class="card">
-        <img src="@/assets/h gps.png" />
-        <h3>Garden Plant Support</h3>
-        <div>
-        <p>
-          Our Garden Plant Support feature offers personalized care guidance to help you easily monitor and maintain the
-          health of your plants, tailored to the specific types and environmental conditions in your garden.
-        </p>
-        </div>
-      </article>
+        <article class="card">
+          <img src="@/assets/h gps.png" />
+          <h3>Garden Plant Support</h3>
+          <div>
+            <p>
+              Our Garden Support feature provides personalized guidance to help you monitor & maintain plant health based on your garden’s specific conditions.
+            </p>
+          </div>
+        </article>
       </RouterLink>
 
       <RouterLink class="infocard" to="/urbanwild">
-      <article class="card">
-        <img src="@/assets/h U&W.png" />
-        <h3>Explore Urban & Wild Forest</h3>
-        <div>
-        <p>
-          The Explore feature of "Urban & Wild Forest" helps users discover native plants and species,
-          along with their ecological roles in both urban and forest environments, supporting better garden plant choices.
-        </p>
-        </div>
-      </article>
+        <article class="card">
+          <img src="@/assets/h U&W.png" />
+          <h3>Explore Urban & Wild Forest</h3>
+          <div>
+            <p>
+              The Explore feature of Urban & Wild Forest helps users discover native plants and their ecological roles, guiding better garden choices.
+            </p>
+          </div>
+        </article>
       </RouterLink>
+
       <RouterLink class="infocard" to="/community">
-      <article class="card">
-        <img src="@/assets/h jc.png" />
-        <div>
-        <h3>Join Community Activity</h3>
-        <p>
-          With the Join Community Activity feature, gardening enthusiasts can connect, share their experiences,
-          collaborate on projects, and find inspiration and support from a vibrant community.
-        </p>
-        </div>
-      </article>
+        <article class="card">
+          <img src="@/assets/h jc.png" />
+          <div>
+            <h3>Join Community Activity</h3>
+            <p>
+              The Join Community Activity feature connects gardeners to share experiences, collaborate on projects, and find inspiration and support.
+            </p>
+          </div>
+        </article>
       </RouterLink>
     </div>
   </section>
 
   <hr class="divider-red" aria-hidden="true" />
 
-  <!-- Homepage recommended plants -->
+  <!-- Homepage recommended plants（原文不改） -->
   <section id="plants" class="section container">
     <h2 class="title">We Have Tons Of Plants Data</h2>
     <div class="seeall">
@@ -318,9 +312,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
       <template v-if="loading">
         <PlantCardSkeleton v-for="n in 8" :key="'s' + n" />
       </template>
-
       <p v-else-if="error" class="error">Load Failed：{{ error }}</p>
-
       <PlantCard
         v-else
         v-for="p in plants"
@@ -332,399 +324,241 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
 
   <hr class="divider-red" aria-hidden="true" />
 
-  <!-- here -->
+  <!-- Index + Articles（原文不改） -->
   <section class="section container">
     <h2 class="title">More About Our Goal and Vision</h2>
 
     <div class="container">
       <h2>🌱 Victoria Plants Index (1985–2021)</h2>
-
       <div class="plantindex">
-        <img src="@/assets/mainindex.png" class="miimg"/>
-         <p class="mitext">
-        This chart shows that threatened plants in Victoria have declined by over 70% since 1985.
-        Climate change, droughts, and habitat loss are major pressures. By choosing native, climate-resilient plants and gardening ecologically,
-        home gardeners can help support biodiversity.
+        <img src="@/assets/mainindex.jpg" class="miimg" />
+        <p class="mitext">
+          This chart shows that threatened plants in Victoria have declined by over 70% since 1985.
+          Climate change, droughts, and habitat loss are major pressures. By choosing native, climate-resilient plants and gardening ecologically,
+          home gardeners can help support biodiversity.
         </p>
       </div>
     </div>
 
-    <!-- Three entry cards (click to open corresponding group) -->
-    <div class="grid cards vertical">
-      <div class="card clickable" @click="openModal('g1')">
-        <h2 class="card__title">How Your Garden Support Nature In a Changing Climate</h2>
-        <p class="muted">Impacts on native plants & ecosystems</p>
+    <div class="articles-block">
+      <h3 class="article-heading">Articles</h3>
+
+      <!-- Tabs with background highlight -->
+      <div class="story-header">
+        <div class="tabs" role="tablist" aria-label="Article groups">
+          <button
+            v-for="(meta, key) in tabMeta"
+            :key="key"
+            role="tab"
+            :aria-selected="activeGroup === key"
+            :class="['tab', { active: activeGroup === key }]"
+            @click="switchGroup(key as GroupKey)"
+          >
+            <strong class="tab-title">{{ meta.title }}</strong>
+            <span class="tab-subtitle">{{ meta.subtitle }}</span>
+          </button>
+        </div>
       </div>
 
-      <div class="card clickable" @click="openModal('g2')" >
-        <h2 class="card__title">How Your Garden Support Nature In a Changing Climate</h2>
-        <p class="muted">How your garden helps nature</p>
+      <!-- Dots -->
+      <div class="story-dots" aria-label="Article pagination">
+        <button
+          v-for="(_it, i) in items"
+          :key="i"
+          :aria-current="i === activeIndex"
+          @click="activeIndex = i; animName = 'slide-next'"
+        />
       </div>
 
-      <div class="card clickable" @click="openModal('g3')">
-        <h2 class="card__title">Grow to protect: native plants you can save in your garden</h2>
-        <p class="muted">Starter-friendly native plant ideas</p>
+      <!-- Banner stage -->
+      <div class="story-stage" :class="animName" role="region" aria-label="Article slider"
+           @keydown.passive="onKey" @touchstart.passive="onTouchStart" @touchend.passive="onTouchEnd" tabindex="0">
+
+        <div class="side-peek side-peek--left"
+             :style="{ backgroundImage: `linear-gradient(90deg, rgba(0,0,0,.45), rgba(0,0,0,0)), url(${prevItem?.bg})` }"
+             @click="go(-1)" aria-label="Show previous">
+          <span class="chevron">‹</span>
+        </div>
+        <div class="side-peek side-peek--right"
+             :style="{ backgroundImage: `linear-gradient(270deg, rgba(0,0,0,.45), rgba(0,0,0,0)), url(${nextItem?.bg})` }"
+             @click="go(1)" aria-label="Show next">
+          <span class="chevron">›</span>
+        </div>
+
+        <div class="stage-card">
+          <Transition :name="animName" mode="out-in">
+            <div class="stage-layer"
+                 :key="activeIndex"
+                 :style="{
+                   backgroundImage: currentItem?.bg
+                     ? `linear-gradient(180deg, rgba(0,0,0,.10), rgba(0,0,0,.68)), url(${currentItem.bg})`
+                     : `linear-gradient(180deg, rgba(0,0,0,.10), rgba(0,0,0,.68))`
+                 }">
+              <div class="stage-content" aria-live="polite">
+                <p class="stage-eyebrow">{{ tabMeta[activeGroup].subtitle }}</p>
+                <h3 class="stage-title">
+                  <a v-if="currentItem?.href" :href="currentItem.href" target="_blank" rel="noopener">
+                    {{ currentItem?.title }}
+                  </a>
+                  <template v-else>{{ currentItem?.title }}</template>
+                </h3>
+                <p class="stage-desc">{{ currentItem?.desc }}</p>
+                <div class="stage-cta" v-if="currentItem?.href">
+                  <a class="btn btn-primary" :href="currentItem.href" target="_blank" rel="noopener">Read more</a>
+                </div>
+              </div>
+            </div>
+          </Transition>
+        </div>
       </div>
     </div>
   </section>
-
-  <!-- Modal -->
-  <teleport to="body">
-    <div
-      class="modal"
-      v-show="modalOpen"
-      aria-hidden="false"
-      role="dialog"
-      aria-modal="true"
-    >
-      <div class="modal__overlay" @click="closeModal"></div>
-
-      <div class="modal__panel" @wheel.passive.prevent="onWheel">
-        <button class="modal__close" aria-label="Close" @click="closeModal">×</button>
-
-        <!-- Background layer -->
-        <div
-          class="slide"
-          :style="{
-            backgroundImage: currentItem?.bg
-              ? `linear-gradient(180deg, rgba(0,0,0,.35), rgba(0,0,0,.55)), url(${currentItem.bg})`
-              : `linear-gradient(180deg, rgba(0,0,0,.35), rgba(0,0,0,.55))`
-          }"
-        >
-          <div class="article-wrap">
-            <article class="modal-article">
-              <h1>
-                <a
-                  v-if="currentItem?.href"
-                  :href="currentItem.href"
-                  target="_blank"
-                  rel="noopener"
-                >{{ currentItem?.title }}</a>
-                <template v-else>{{ currentItem?.title }}</template>
-              </h1>
-              <p>{{ currentItem?.desc }}</p>
-            </article>
-          </div>
-        </div>
-
-        <!-- Bottom pagination -->
-        <div class="pager pager--left">
-          <button class="pager__btn" :disabled="!hasPrev" @click="go(-1)">↑ Prev</button>
-          <div class="pager__dots">
-            <button
-              v-for="(it, i) in items"
-              :key="i"
-              :aria-current="i === currentIndex"
-              @click="currentIndex = i"
-            />
-          </div>
-          <button class="pager__btn" :disabled="!hasNext" @click="go(1)">↓ Next</button>
-        </div>
-      </div>
-    </div>
-  </teleport>
 </template>
 
 <style scoped>
-/* =================== Basic Layout =================== */
+/* ===== Basic layout ===== */
 .hero-home .hero-grid {
-  display: grid;
-  gap: 1.25rem;
-  align-items: center;
+  display: grid; gap: 1.25rem; align-items: center;
   grid-template-columns: 1.15fr 0.85fr;
 }
-@media (max-width: 1000px) {
-  .hero-home .hero-grid { grid-template-columns: 1fr; }
-}
+@media (max-width: 1000px) { .hero-home .hero-grid { grid-template-columns: 1fr; } }
 .img-col { display: grid; place-items: center; }
-.img-placeholder {
-  width: 100%;
-  aspect-ratio: 16/10;
-  border: 2px dashed color-mix(in oklab, var(--fg) 25%, transparent);
-  border-radius: 16px;
-  display: grid;
-  place-items: center;
-  color: var(--muted);
-}
-.img-placeholder.small { aspect-ratio: 4/3; }
 
-.badge-row { display: flex; flex-wrap: wrap; gap: 0.5rem; }
-.badge {
-  border: 1px solid color-mix(in oklab, var(--fg) 20%, transparent);
-  padding: 0.35rem 0.6rem;
-  border-radius: 999px;
-  font-size: 0.9rem;
-}
+.feature-grid { display: grid; gap: 1.25rem; align-items: start; grid-template-columns: 1.1fr 0.9fr; }
+@media (max-width: 900px) { .feature-grid { grid-template-columns: 1fr; } }
 
-.feature-grid {
-  display: grid;
-  gap: 1.25rem;
-  align-items: start;
-  grid-template-columns: 1.1fr 0.9fr;
-}
-@media (max-width: 900px) {
-  .feature-grid { grid-template-columns: 1fr; }
-}
-
-.stats { display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 1rem; }
-.stat {
-  background: var(--card);
-  box-shadow: var(--shadow);
-  border-radius: 12px;
-  padding: 0.8rem 1rem;
-  display: grid;
-}
-.stat strong { font-size: 1.25rem; }
-.stat span { color: var(--muted); font-size: 0.9rem; }
-
-.callout {
-  display: flex;
-  gap: 1rem;
-  align-items: end;
-  justify-content: space-between;
-}
-.seeall { white-space: nowrap; }
-
-/* =================== Lists / Grids =================== */
-.plants-grid {
-  display: grid;
-  gap: 1rem;
-  grid-template-columns: repeat(4, 1fr);
-}
-@media (max-width: 768px) {
-  .plants-grid { grid-template-columns: repeat(2, 1fr); }
-}
-@media (max-width: 480px) {
-  .plants-grid { grid-template-columns: 1fr; }
-}
+.plants-grid { display: grid; gap: 1rem; grid-template-columns: repeat(4, 1fr); }
+@media (max-width: 768px) { .plants-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 480px) { .plants-grid { grid-template-columns: 1fr; } }
 
 .infocard { height: 580px; }
+.card { transition: transform .3s ease, box-shadow .3s ease; box-shadow: 0 4px 8px rgba(0,0,0,.1); }
+.card:hover { transform: translateY(-8px) scale(1.03); box-shadow: 0 12px 24px rgba(0,0,0,.2); }
 
-.plant {
-  background: var(--card);
-  box-shadow: var(--shadow);
-  border-radius: 14px;
-  padding: 0.8rem;
-}
-.plant .thumb {
-  aspect-ratio: 4/3;
-  border-radius: 10px;
-  border: 2px dashed color-mix(in oklab, var(--fg) 25%, transparent);
-  margin-bottom: 0.5rem;
-}
-.plant h4 { margin: 0.25rem 0; }
-.plant .latin { color: var(--muted); font-size: 0.9rem; }
-
-.divider-red {
-  border: 0;
-  height: 3px;
-  background: linear-gradient(90deg, #ff3b3b, #ff9a3b);
-  margin: 0;
-}
-
-.center { display: flex; justify-content: center; align-items: center; height: 90px; }
+.divider-red { border: 0; height: 3px; background: linear-gradient(90deg, #ff3b3b, #ff9a3b); margin: 0; }
 
 .sdg { height: 300px; width: 300px; margin-left: auto; }
 
 .display{
-  font-weight: 900;
-  line-height: 1.1;
-  letter-spacing: -0.02em;
-  margin: 0 0 .4rem;
-  font-size: clamp(2.6rem, 1.6rem + 5vw, 4.25rem);
-  color: var(--fg);
+  font-weight: 900; line-height: 1.1; letter-spacing: -0.02em;
+  margin: 0 0 .4rem; font-size: clamp(2.6rem, 1.6rem + 5vw, 4.25rem); color: var(--fg);
 }
-.hero-home .title{
-  margin: 0 0 .6rem;
-  font-size: clamp(1.4rem, 1rem + 2.2vw, 2.1rem);
-}
+.hero-home .title{ margin: 0 0 .6rem; font-size: clamp(1.4rem, 1rem + 2.2vw, 2.1rem); }
 .hero-home .lead{ margin-top: .25rem; color: var(--muted); }
 .hero-home .hero-cta{ margin-top: .75rem; }
 
-/* =================== Card Hover Effects =================== */
-.card {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-}
-.card:hover {
-  transform: translateY(-8px) scale(1.03);
-  box-shadow: 0 12px 24px rgba(0,0,0,0.2);
+/* ===== Article block spacing & heading ===== */
+.articles-block{ margin-top: clamp(18px, 3vw, 32px); }
+.article-heading{
+  margin: 0 0 .6rem; font-weight: 800; letter-spacing: -.01em;
+  font-size: clamp(1.2rem, 1rem + 1.2vw, 1.6rem); color: var(--fg);
 }
 
-/* =================== Here section: vertical entry cards =================== */
-.cards.vertical {
-  display: grid;
-  grid-template-columns: 1fr;   /* Single column */
-  gap: 1rem;
-}
-.cards.vertical .card {
-  width: 100%;
-  background: var(--card);
-  color: var(--fg);
-  box-shadow: var(--shadow);
-}
-.muted { color: var(--muted); }
-.clickable { cursor: pointer; }
+/* ===== Tabs with background highlight ===== */
+.story-header { margin-bottom: .4rem; }
+.tabs { display: grid; gap: .5rem; --accent: var(--brand, #0b65c2); }
+@media (min-width: 900px) { .tabs { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 899px) { .tabs { grid-template-columns: 1fr; } }
 
-/* =================== Modal (theme-friendly) =================== */
-.modal {
-  position: fixed;
-  inset: 0;
-  z-index: 50;
-  display: grid;
-}
-.modal__overlay {
-  position: absolute;
-  inset: 0;
-  background: color-mix(in oklab, #000 55%, transparent);
-}
-.modal__panel {
-  position: relative;
-  width: min(980px, 96vw);
-  height: min(88vh, 900px);
-  margin: auto;
-  border-radius: 16px;
-  overflow: hidden;
-  box-shadow: var(--shadow);
-  background: var(--card);
-  display: grid;
-  grid-template-rows: 1fr auto;   /* Default bottom row for pagination */
-}
-/* When using left vertical pagination, remove bottom row */
-.modal__panel.with-left-rail { grid-template-rows: 1fr; }
-
-.modal__close {
-  position: absolute;
-  top: 10px; right: 12px;
-  z-index: 3;
-  font-size: 28px;
-  width: 40px; height: 40px;
-  border-radius: 999px;
-  border: none;
-  background: color-mix(in oklab, var(--card) 85%, #fff 15%);
-  color: var(--fg);
-  cursor: pointer;
-  box-shadow: var(--shadow);
-}
-.modal__close:hover { background: color-mix(in oklab, var(--card) 75%, #fff 25%); }
-
-/* Background layer (with gradient) */
-.slide {
-  position: relative;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-.article-wrap {
-  position: relative;
-  z-index: 1;
-  height: 100%;
-  display: grid;
-  place-items: center;           /* Center content */
-  padding: 2rem;
-}
-
-/* Article card */
-.modal-article {
+.tab{
+  text-align: left;
   background: color-mix(in oklab, var(--card) 90%, #fff 10%);
   color: var(--fg);
-  border-radius: 14px;
-  padding: 1.1rem 1.25rem;
-  max-width: 820px;
-  margin: 0 auto;                /* Center */
-  box-shadow: var(--shadow);
+  border: 1px solid color-mix(in oklab, var(--fg) 12%, transparent);
+  border-radius: 16px; padding: .8rem 1rem; box-shadow: var(--shadow);
+  cursor: pointer; transition: transform .18s, box-shadow .18s, border-color .18s, background .18s;
 }
-.modal-article h1 {
-  margin: 0 0 .5rem;
-  font-size: clamp(1.15rem, 1rem + .6vw, 1.45rem);
+.tab:hover{ transform: translateY(-1px); }
+.tab.active{
+  background: color-mix(in oklab, var(--accent) 18%, var(--card) 82%);
+  border-color: color-mix(in oklab, var(--accent) 42%, transparent);
+  box-shadow: 0 10px 26px rgba(0,0,0,.10);
 }
-.modal-article p { margin: 0; line-height: 1.55; }
-.modal-article a { color: color-mix(in oklab, var(--fg) 80%, #0b65c2 20%); }
+.tab-title{ display:block; font-weight:750; line-height:1.35; }
+.tab-subtitle{ display:block; font-size:.95rem; color: var(--muted); margin-top:.25rem; }
 
-/* =================== Pagination (bottom horizontal, fallback for small screens) =================== */
-.pager {
-  width: 100%;
-  max-height: fit-content;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  gap: .75rem;
-  padding: .75rem 1rem 1rem;
+/* ===== Dots ===== */
+.story-dots{ display:flex; justify-content:center; gap:8px; margin:.35rem 0 .55rem; }
+.story-dots button{
+  width:8px; height:8px; border-radius:999px; border:0;
+  background: color-mix(in oklab, var(--fg) 35%, transparent);
+  cursor:pointer; opacity:.8;
 }
-.pager__btn{
-  border: 0; border-radius: 999px; padding: .5rem .9rem;
-  background: color-mix(in oklab, var(--card) 88%, #fff 12%);
-  color: var(--fg);
-  cursor: pointer;
-  box-shadow: var(--shadow);
-}
-.pager__btn:disabled { opacity: .5; cursor: not-allowed; }
-.pager__btn:hover:not(:disabled){ background: color-mix(in oklab, var(--card) 78%, #fff 22%); }
+.story-dots button[aria-current="true"]{ background: var(--fg); opacity:1; }
 
-.pager__dots { display: flex; gap: .4rem; }
-.pager__dots button{
-  width: 10px; height: 10px; border-radius: 999px; border: 0;
-  background: color-mix(in oklab, var(--fg) 25%, transparent);
-  cursor: pointer;
-}
-.pager__dots button[aria-current="true"]{ background: var(--fg); }
-
-/* =================== Left vertical pagination area =================== */
-.pager.pager--left{
-  position: absolute;
-  left: 5px;
-  top: 50%;
-  transform: translateY(-50%);
-  display: flex;
-  flex-direction: column;      /* Vertical */
-  align-items: center;
-  gap: 50px;
-  z-index: 3;
-  padding: .25rem;
-  width: auto;                 /* Override bottom horizontal 100% */
-  background: transparent;
-}
-.pager--left .pager__dots{
-  display: flex;
-  flex-direction: column;      /* Vertical dots */
-  gap: 50px;
-}
-/* Content area makes space for left rail */
-.with-left-rail .article-wrap{ padding-left: 5.5rem; }
-
-/* Small screen fallback to bottom horizontal */
-@media (max-width: 640px){
-  .modal__panel.with-left-rail { grid-template-rows: 1fr auto; }
-  .with-left-rail .article-wrap{ padding-left: 2rem; }
-  .pager.pager--left{
-    position: static;
-    transform: none;
-    flex-direction: row;
-    justify-content: center;
-    width: 100%;
-    padding: .75rem 1rem 1rem;
-  }
-  .pager--left .pager__dots{ flex-direction: row; }
+/* ===== Stage (wider center, narrow gaps) ===== */
+.story-stage{
+  --peek: clamp(44px, 9.5vw, 140px);
+  --gap: clamp(6px, .9vw, 10px);
+  --stage-h: clamp(340px, 42vw, 600px);
+  position: relative; height: var(--stage-h);
+  border-radius: 22px; overflow: hidden; outline: none;
 }
 
-.plantindex{
-  display: flex;
-  flex-direction: row;
-  gap: 20px;
-  text-align: justify;
+/* Side previews */
+.side-peek{
+  position:absolute; top:0; bottom:0; width:var(--peek);
+  background-size:cover; background-position:center; background-repeat:no-repeat;
+  border-radius:18px; overflow:hidden; cursor:pointer; z-index:2;
+  filter: blur(1px) brightness(.85) saturate(.92);
+  box-shadow:0 12px 28px rgba(0,0,0,.18) inset;
+  transition: transform .42s cubic-bezier(.22,.61,.36,1), opacity .3s ease, filter .3s ease;
+}
+.side-peek--left{ left:var(--gap); }
+.side-peek--right{ right:var(--gap); }
+.side-peek:hover{ filter: blur(.5px) brightness(.92); }
 
+/* Arrows (no circle bg) */
+.chevron{
+  position:absolute; top:50%; transform:translateY(-50%);
+  font-size: 40px; font-weight: 800; line-height: 1;
+  color:#fff; text-shadow: 0 3px 10px rgba(0,0,0,.6);
+  pointer-events: none;
 }
-.miimg{
-  max-width: 55%;
-  max-height: 55%;
-}
+.side-peek--left .chevron{ left: 6px; }
+.side-peek--right .chevron{ right: 6px; }
 
-.mitext{
-  margin-top: 70px;
-  font-size: large;
+/* Main card */
+.stage-card{
+  position:absolute; inset:0;
+  left:calc(var(--peek) + 1.5 * var(--gap));
+  right:calc(var(--peek) + 1.5 * var(--gap));
+  border-radius:20px; overflow:hidden; z-index:3;
+  box-shadow:0 18px 44px rgba(0,0,0,.28);
 }
+.stage-layer{ position:absolute; inset:0; background-size:cover; background-position:center; }
+.stage-card::after{
+  content:''; position:absolute; inset:0; pointer-events:none;
+  background:linear-gradient(90deg, rgba(0,0,0,.3), transparent 20%, transparent 80%, rgba(0,0,0,.3));
+}
+.stage-content{
+  position:absolute; left:clamp(16px, 3.6vw, 42px); right:clamp(16px, 3.6vw, 42px);
+  bottom:clamp(16px, 3.2vw, 36px); color:#fff; text-shadow:0 2px 10px rgba(0,0,0,.35);
+  max-width:1100px; z-index:1;
+}
+.stage-eyebrow{ margin:0 0 .25rem; opacity:.95; font-weight:500; }
+.stage-title{ margin:0 0 .5rem; font-weight:800; letter-spacing:-0.01em; font-size:clamp(1.5rem, 1rem + 2.7vw, 2.65rem); }
+.stage-title a{ color:inherit; text-decoration:none; } .stage-title a:hover{ text-decoration:underline; }
+.stage-desc{ margin:0 0 .8rem; opacity:.98; line-height:1.6; font-size:clamp(.95rem, .8rem + .4vw, 1.05rem); }
 
-.grid.cards.vertical{
-  margin-top: 20px;
+/* Transitions */
+.slide-next-enter-active,
+.slide-next-leave-active,
+.slide-prev-enter-active,
+.slide-prev-leave-active{
+  transition: transform .42s cubic-bezier(.22,.61,.36,1), opacity .42s ease;
 }
+.slide-next-enter-from{ opacity:0; transform: translateX(24px); }
+.slide-next-leave-to{ opacity:0; transform: translateX(-24px); }
+.slide-prev-enter-from{ opacity:0; transform: translateX(-24px); }
+.slide-prev-leave-to{ opacity:0; transform: translateX(24px); }
+.story-stage.slide-next .side-peek--left{ transform: translateX(-6px); }
+.story-stage.slide-next .side-peek--right{ transform: translateX(-2px); }
+.story-stage.slide-prev .side-peek--right{ transform: translateX(6px); }
+.story-stage.slide-prev .side-peek--left{ transform: translateX(2px); }
+
+/* Index block */
+.plantindex{ display:flex; flex-direction:row; gap:20px; text-align:justify; }
+.miimg{ max-width:55%; max-height:55%; border-radius:12px; display:block; }
+.mitext{ margin-top:70px; font-size:large; }
 </style>

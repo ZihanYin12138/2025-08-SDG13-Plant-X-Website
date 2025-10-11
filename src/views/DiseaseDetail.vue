@@ -55,22 +55,20 @@ const toText = (v) => Array.isArray(v) ? v.filter(Boolean).join(', ') : (v || ''
 const overviewText = computed(() => {
   const d = disease.value || {}
   if (Array.isArray(d.description) && d.description.length) {
-    // 优先标题里含有 "What is" 的条目，否则取第一条
     const hit = d.description.find(s => /what\s+is/i.test(s?.subtitle || '')) || d.description[0]
     return hit?.description || ''
   }
   return ''
 })
 
-/** Symptoms：若无字段，则右侧用 Overview 占位，避免空白 */
+/** Symptoms：若无字段，则右侧用 Overview 占位 */
 const symptomsText = computed(() => {
   const d = disease.value || {}
   if (d.symptoms) return d.symptoms
-  // 一些数据源会把 “症状” 混在 description 里，这里不强行猜测；用 overview 作为替代展示
   return overviewText.value
 })
 
-/** Diagnosis：优先 diagnosis 字段；否则从 description[] 里找 “How … occur/does …” 的条目 */
+/** Diagnosis：优先 diagnosis；否则从 description[] 找 “How … occur/does …” 条目 */
 const diagnosisText = computed(() => {
   const d = disease.value || {}
   if (d.diagnosis) return d.diagnosis
@@ -88,21 +86,15 @@ const solutionArray = computed(() => {
   const d = disease.value || {}
   return Array.isArray(d.solution) ? d.solution : []
 })
-const mgmtKeywords = [
-  'cultural', 'practice', 'management', 'improve', 'drainage', 'avoid watering at night',
-  'resistant', 'nitrogen', 'biofumigant', 'prune', 'air circulation', 'monitor', 'remove'
-]
 const chemKeywords = [
   'chemical', 'fungicide', 'antibiotic', 'bactericide', 'copper', 'chlorothalonil',
   'mancozeb', 'myclobutanil', 'azoxystrobin', 'mefenoxam', 'propiconazole', 'thiophanate'
 ]
-
 function isChemEntry(s) {
   const t = (s?.subtitle || '').toLowerCase()
   const b = (s?.description || '').toLowerCase()
   return chemKeywords.some(k => t.includes(k) || b.includes(k))
 }
-
 const treatmentMgmtText = computed(() => {
   const d = disease.value || {}
   let blocks = []
@@ -112,12 +104,9 @@ const treatmentMgmtText = computed(() => {
   } else if (d.treatment) {
     blocks = [d.treatment]
   }
-  if (d.prevention) {
-    blocks.push(d.prevention) // 预防也归到管理类里一起显示
-  }
+  if (d.prevention) blocks.push(d.prevention)
   return blocks.filter(Boolean).join('\n\n')
 })
-
 const chemicalTreatText = computed(() => {
   const d = disease.value || {}
   if (solutionArray.value.length) {
@@ -126,16 +115,19 @@ const chemicalTreatText = computed(() => {
       return chem.map(s => `• ${s.subtitle || ''}\n${s.description || ''}`.trim()).join('\n\n')
     }
   }
-  // 兼容一些“化学/药剂”风格的小标题
   if (/antibiotic|bactericide|copper|fungicide/i.test(d.treatment || '')) {
     return d.treatment
   }
   return ''
 })
 
-/** 返回列表（回到 Garden 的 diseases 区域） */
-function backToList() {
-  router.push({ name: 'Garden', query: { tab: 'disease' } })
+/** 智能返回：优先后退；否则回 Garden 的 disease 分栏 */
+function smartBack() {
+  if (window.history.length > 1) {
+    router.back()
+  } else {
+    router.push({ name: 'Garden', query: { tab: 'disease' } })
+  }
 }
 
 /** 加载详情 */
@@ -146,7 +138,6 @@ onMounted(async () => {
     const fresh = await getDiseaseById(id)
     disease.value = fresh
     error.value = ''
-    // 刷新首图
     setCover(allImages.value[0])
   } catch (e) {
     if (!preload) error.value = e?.message || String(e)
@@ -158,9 +149,9 @@ onMounted(async () => {
 
 <template>
   <section class="section container">
-    <!-- 面包屑 -->
+    <!-- 面包屑：用智能返回，避免新入栈 -->
     <nav class="breadcrumb" aria-label="Breadcrumb">
-      <RouterLink class="breadcrumb__link" :to="{ name: 'Garden', query: { tab: 'disease' } }">Diseases</RouterLink>
+      <button class="breadcrumb__link as-link" @click="smartBack">Diseases</button>
       <span class="breadcrumb__sep">›</span>
       <span class="breadcrumb__current">{{ displayName || '...' }}</span>
     </nav>
@@ -171,7 +162,7 @@ onMounted(async () => {
     <article v-else-if="disease" class="detail">
       <!-- 上半区：左图 / 右侧 Symptoms -->
       <div class="top-grid">
-        <!-- 左侧：原始比例的图片 + 全部缩略图 -->
+        <!-- 左侧：主图 + 缩略图 -->
         <aside class="media">
           <div class="hero-img-wrap">
             <img :src="coverUrl || PLACEHOLDER_IMG" :alt="displayName || 'Disease photo'" />
@@ -190,7 +181,7 @@ onMounted(async () => {
           </div>
         </aside>
 
-        <!-- 右侧：名称 + 学名（无卡片） + Symptoms 文本 -->
+        <!-- 右侧：标题 + 症状/概览 -->
         <section class="side">
           <h1 class="title">{{ displayName }}</h1>
           <p v-if="sciName" class="latin">{{ sciName }}</p>
@@ -203,7 +194,7 @@ onMounted(async () => {
         </section>
       </div>
 
-      <!-- 下半区：独立卡片（诊断 / 管理治疗 / 化学治疗） -->
+      <!-- 下半区：诊断 / 管理治疗 / 化学治疗 -->
       <section v-if="diagnosisText" class="card">
         <h3 class="card__title">Diagnosis / Identification</h3>
         <p class="preline">{{ diagnosisText }}</p>
@@ -214,11 +205,15 @@ onMounted(async () => {
         <p class="preline">{{ treatmentMgmtText }}</p>
       </section>
 
+      <section v-if="chemicalTreatText" class="card">
+        <h3 class="card__title">Chemical Treatment</h3>
+        <p class="preline">{{ chemicalTreatText }}</p>
+      </section>
     </article>
   </section>
 
   <div class="center">
-    <button class="btn" @click="backToList">← Back to Diseases</button>
+    <button class="btn" @click="smartBack">← Back to Diseases</button>
   </div>
 </template>
 
@@ -230,6 +225,10 @@ onMounted(async () => {
 }
 .breadcrumb__link { color: var(--fg); font-weight: 700; text-decoration: none; }
 .breadcrumb__link:hover { text-decoration: underline; }
+/* 让按钮看起来像链接 */
+.as-link {
+  background: none; border: 0; padding: 0; cursor: pointer; font: inherit; color: var(--fg);
+}
 .breadcrumb__sep { color: var(--muted); }
 .breadcrumb__current { color: var(--fg); }
 
@@ -242,18 +241,18 @@ onMounted(async () => {
 }
 @media (max-width: 980px){ .top-grid{ grid-template-columns:1fr } }
 
-/* 左侧媒体：图片按原本大小（保持比例），不裁切不限制高度 */
+/* 左侧媒体：保持原始比例 */
 .hero-img-wrap img{
   display:block;
   max-width: 100%;
-  height: auto;        /* ✅ 原始比例，不裁切 */
+  height: auto;
   border-radius: 12px;
   border: 1px solid var(--border);
   background: var(--surface);
   box-shadow: var(--shadow-sm);
 }
 
-/* 缩略图横向滚动，显示全部 */
+/* 缩略图横向滚动 */
 .thumbs {
   margin-top: .6rem;
   border-radius: 10px;
@@ -284,11 +283,9 @@ onMounted(async () => {
 }
 .thumbs__rail img:hover { transform: translateY(-2px); }
 
-/* 右侧信息：不加外框，仅块级标题+正文 */
+/* 右侧信息 */
 .side .title{ margin:.25rem 0 }
 .latin{ color:var(--muted); font-style:italic; margin: 4px 0 8px; }
-.blk{ margin-top: .6rem; }
-.blk h3{ margin: 0 0 .35rem; }
 
 /* 下方独立卡片 */
 .card {
@@ -301,7 +298,7 @@ onMounted(async () => {
 }
 .card__title { margin: 0 0 6px; }
 
-/* 文本保留换行与项目符号 */
+/* 文本保留换行 */
 .preline { white-space: pre-line; }
 .muted { color: var(--muted); }
 
@@ -312,5 +309,12 @@ onMounted(async () => {
   justify-content: center;
   align-items: center;
   height: 50px;
+}
+.btn {
+  border: 1px solid var(--border);
+  background: transparent;
+  padding: .5rem .8rem;
+  border-radius: 10px;
+  cursor: pointer;
 }
 </style>

@@ -8,46 +8,49 @@
     </p>
   </section>
 
-  <!-- 顶部：三等分滑块 -->
+  <!-- 内容区（滑块与内容在同一框内） -->
   <section class="container">
-    <div class="seg-control" role="tablist" aria-label="Garden sections">
-      <div class="seg-rail">
-        <!-- 滑块 -->
-        <div class="seg-thumb" :style="thumbStyle" aria-hidden="true"></div>
+    <div class="pane" role="region" aria-label="Garden sections">
+      <!-- 顶部：分段滑块（与内容同框） -->
+      <div class="seg-control" role="tablist" aria-label="Garden sections tabs">
+        <div class="seg-rail">
+          <!-- 滑块拇指 -->
+          <div class="seg-thumb" :style="thumbStyle" aria-hidden="true"></div>
 
-        <button
-          role="tab"
-          :aria-selected="active==='disease'"
-          class="seg-item"
-          @click="setActive('disease')"
-        >Plant Disease Search</button>
+          <button
+            role="tab"
+            :aria-selected="active==='disease'"
+            class="seg-item"
+            @click="setActive('disease')"
+          >Plant Disease Search</button>
 
-        <button
-          role="tab"
-          :aria-selected="active==='plants'"
-          class="seg-item"
-          @click="setActive('plants')"
-        >Plant Search</button>
+          <button
+            role="tab"
+            :aria-selected="active==='plants'"
+            class="seg-item"
+            @click="setActive('plants')"
+          >Plant Search</button>
 
-        <button
-          role="tab"
-          :aria-selected="active==='rcmd'"
-          class="seg-item"
-          @click="setActive('rcmd')"
-        >Plant Recommendations</button>
+          <button
+            role="tab"
+            :aria-selected="active==='rcmd'"
+            class="seg-item"
+            @click="setActive('rcmd')"
+          >Plant Recommendations</button>
+        </div>
+      </div>
+
+      <!-- 面板主体：渲染具体内容（已与上方同框） -->
+      <div class="pane-body">
+        <Transition :name="transitionName" mode="out-in">
+          <div :key="active">
+            <DiseaseSearch v-if="active==='disease'" />
+            <PlantRcmd     v-else-if="active==='rcmd'" />
+            <PlantSearch   v-else />
+          </div>
+        </Transition>
       </div>
     </div>
-  </section>
-
-  <!-- 内容区：左右滑动动画 + 明确渲染组件 -->
-  <section class="container">
-    <Transition :name="transitionName" mode="out-in">
-      <div :key="active">
-        <DiseaseSearch v-if="active==='disease'" />
-        <PlantRcmd     v-else-if="active==='rcmd'" />
-        <PlantSearch   v-else />
-      </div>
-    </Transition>
   </section>
 </template>
 
@@ -69,7 +72,7 @@ const active = ref('plants')
 const lastIndex = ref(order.indexOf(active.value))
 const transitionName = ref('slide-left')
 
-/** 切换核心（可选择是否把 tab 写回到 URL 的 query） */
+/** 切换核心（写回 URL 的 ?tab=，便于分享/后退前进） */
 function activate(key, { writeQuery = true } = {}) {
   const newIdx = order.indexOf(key)
   transitionName.value = newIdx > lastIndex.value ? 'slide-left' : 'slide-right'
@@ -78,7 +81,6 @@ function activate(key, { writeQuery = true } = {}) {
 
   if (writeQuery) {
     const nextQuery = { ...route.query, tab: key }
-    // 避免重复 replace 造成不必要的导航
     if (String(route.query.tab || '') !== key) {
       router.replace({ query: nextQuery })
     }
@@ -89,7 +91,7 @@ function setActive(key) {
   activate(key, { writeQuery: true })
 }
 
-/** 从 URL 的 ?tab= 读取并应用 */
+/** 从 URL 的 ?tab= 读取并应用（支持浏览器前进/后退） */
 function applyTabFromQuery() {
   const tab = String(route.query.tab || '').toLowerCase()
   if (order.includes(tab)) {
@@ -97,7 +99,6 @@ function applyTabFromQuery() {
   }
 }
 
-/** 首次进入根据 ?tab 定位；其后监听 ?tab 变化（前进/后退等） */
 onMounted(() => { applyTabFromQuery() })
 watch(() => route.query.tab, () => { applyTabFromQuery() })
 
@@ -112,22 +113,42 @@ const thumbStyle = computed(() => {
 .title { margin: 0 0 .5rem; }
 .lead { color: var(--muted); }
 
-/* ========== 滑块式分段控件 ========== */
+/* ================== 外层统一面板（滑块与内容同框） ================== */
+.pane{
+  border: 1.5px solid var(--border);
+  border-radius: 14px;
+  background: var(--card);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden; /* 让内部滑块圆角裁剪一致 */
+}
+.pane-body{
+  padding: 14px 16px; /* 统一内部边距 */
+}
+
+/* 隐藏子页本身的外框，让视觉上只有一层 */
+:deep(.section-box){
+  border: 0 !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+/* ========== 顶部滑块 ========== */
+.seg-control{ }
 .seg-rail{
   position: relative;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  border-radius: 12px;
-  border: 1.5px solid var(--border);
+  /* 本身不再用外边框，改为底部细分隔线以与主体区分 */
+  border-bottom: 1.5px solid var(--border);
   background: var(--card);
-  box-shadow: var(--shadow-sm);
-  overflow: hidden;
 }
 .seg-item{
   position: relative;
   z-index: 1;
-  height: 44px;
-  border: 1px solid var(--border);
+  height: 46px;
+  border: none;               /* 与同框风格统一 */
   background: transparent;
   color: var(--fg);
   cursor: pointer;
