@@ -12,7 +12,8 @@ const routes = [
     path: '/garden',
     name: 'Garden',
     component: () => import('../views/GardenPage.vue'),
-    meta: { title: "Garden · Plant'X" }
+    // 关键：给 Garden 打上 keepAlive，返回时保留内部搜索页状态
+    meta: { title: "Garden · Plant'X", keepAlive: true }
   },
   {
     path: '/urbanwild',
@@ -47,10 +48,11 @@ const routes = [
     meta: { title: "Disease Detail · Plant'X" }
   },
   {
-  path: '/plantrcmd',
-  name: 'PlantRcmd',
-  component: () => import('../views/PlantRcmd.vue'),
-}
+    path: '/plantrcmd',
+    name: 'PlantRcmd',
+    component: () => import('../views/PlantRcmd.vue'),
+    meta: { title: "Plant Recommendations · Plant'X" }
+  }
 ]
 
 const router = createRouter({

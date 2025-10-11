@@ -54,7 +54,7 @@
         <button class="link" @click="clearPreview">Remove</button>
       </div>
 
-      <!-- Upload modal (close by clicking overlay + ESC) -->
+      <!-- Upload modal -->
       <div
         v-if="uploadOpen"
         class="modal-mask"
@@ -96,7 +96,7 @@
         </div>
       </div>
 
-      <!-- Filter modal (close by clicking overlay + ESC) -->
+      <!-- Filter modal -->
       <div
         v-if="open"
         class="modal-mask"
@@ -281,6 +281,7 @@
 
 <script setup lang="ts">
 import { ref, reactive, onMounted, onBeforeUnmount, computed, watch } from 'vue'
+import { useRoute, useRouter } from 'vue-router'
 import {
   searchPlants,
   getPlantById,
@@ -291,6 +292,10 @@ import {
 import PlantCard from '@/components/PlantCard.vue'
 import PlantCardSkeleton from '@/components/CardSkeleton.vue'
 import { uploadImage, predictByS3Key } from '@/api/uploads'
+
+/** Router for namespaced query sync (p_*) */
+const route = useRoute()
+const router = useRouter()
 
 /** ================= Plant section ================= */
 const PAGE_SIZE = 8
@@ -378,7 +383,7 @@ function toFor(p: any) {
     return {
       name: 'PlantDetail',
       params: { id: p.threatened_plant_id },
-      query: { type: 'threatened' },
+      query: { type: 'threatened', from: 'search' },   // from=search 帮助详情“智能返回”
       state: { preload: normalizePreload(p) }
     }
   }
@@ -386,13 +391,57 @@ function toFor(p: any) {
     return {
       name: 'PlantDetail',
       params: { id: p.general_plant_id },
-      query: { type: 'general' },
+      query: { type: 'general', from: 'search' },
       state: { preload: normalizePreload(p) }
     }
   }
   return { path: '/' }
 }
 
+/** ---------- URL 同步（仅使用 p_* 键，互不干扰） ---------- */
+function writePlantQuery() {
+  const next = {
+    ...route.query,
+    // 命名空间：p_*
+    p_q: query.value || undefined,
+    p_page: page.value > 1 ? String(page.value) : undefined,
+    // filters
+    p_thr: filters.threatened || undefined,
+    p_ed: filters.edible || undefined,
+    p_med: filters.medicinal || undefined,
+    p_fru: filters.fruits || undefined,
+    p_in: filters.indoors || undefined,
+    p_poi: filters.poisonous || undefined,
+    p_flw: filters.flowers || undefined,
+    p_sun: filters.sun || undefined,
+    p_wat: filters.watering || undefined,
+    p_cyc: filters.cycle || undefined,
+    p_grw: filters.growth || undefined,
+    // 保留当前 Garden 分段展示
+    tab: 'plants'
+  }
+  router.replace({ query: next })
+}
+function readPlantQuery() {
+  const q = route.query
+  query.value = String(q.p_q ?? '')        // 关键词
+  page.value = Math.max(1, Number(q.p_page ?? 1))
+
+  // filters
+  filters.threatened = String(q.p_thr ?? '')
+  filters.edible = String(q.p_ed ?? '')
+  filters.medicinal = String(q.p_med ?? '')
+  filters.fruits = String(q.p_fru ?? '')
+  filters.indoors = String(q.p_in ?? '')
+  filters.poisonous = String(q.p_poi ?? '')
+  filters.flowers = String(q.p_flw ?? '')
+  filters.sun = String(q.p_sun ?? '')
+  filters.watering = String(q.p_wat ?? '')
+  filters.cycle = String(q.p_cyc ?? '')
+  filters.growth = String(q.p_grw ?? '')
+}
+
+/** 数据加载 */
 async function load() {
   loading.value = true
   error.value = ''
@@ -415,16 +464,21 @@ async function load() {
 function goToPage(p: number) {
   const tp = totalPages.value
   const target = Math.min(Math.max(1, Number(p) || 1), tp)
-  if (target !== page.value) { page.value = target; load() }
-  else { pageInput.value = page.value }
+  if (target !== page.value) {
+    page.value = target
+    writePlantQuery()
+    load()
+  } else {
+    pageInput.value = page.value
+  }
 }
 function nextPage() { goToPage(page.value + 1) }
 function prevPage() { goToPage(page.value - 1) }
 
-const onSearch = () => { goToPage(1); load() }
-const applyFilters = () => { open.value = false; goToPage(1); load() }
+const onSearch = () => { page.value = 1; writePlantQuery(); load() }
+const applyFilters = () => { open.value = false; page.value = 1; writePlantQuery(); load() }
 const resetFilters = () => { Object.keys(filters).forEach(k => (filters as any)[k] = '') }
-const resetAndReload = () => { resetFilters(); goToPage(1); load() }
+const resetAndReload = () => { resetFilters(); page.value = 1; writePlantQuery(); load() }
 
 /** Plant image upload recognition */
 const previewUrl = ref(''); const previewName = ref('')
@@ -496,6 +550,7 @@ async function processFile(file: File) {
     page.value = 1
     pageInput.value = 1
     query.value = `#${ids.join(',')}`
+    writePlantQuery()
   } catch (e: any) {
     error.value = e.message || String(e)
   } finally {
@@ -530,8 +585,16 @@ onMounted(() => {
 })
 const startVoice = () => recognizer && recognizer.start()
 
-/** Initial entry: page 1 */
-onMounted(() => { goToPage(1); load() })
+/** Initial entry: 从 URL 读取 p_*，然后加载 */
+onMounted(() => {
+  // 确保 Garden Tab 是 plants
+  if (route.query.tab !== 'plants') {
+    router.replace({ query: { ...route.query, tab: 'plants' } })
+  }
+  readPlantQuery()
+  pageInput.value = page.value
+  load()
+})
 
 /** Clean up local URLs to prevent memory leaks */
 onBeforeUnmount(() => {
@@ -583,7 +646,7 @@ onBeforeUnmount(() => {
 .preview__name { max-width: 40vw; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .link { color: var(--muted); background: none; border: none; cursor: pointer; }
 
-/* ====== Modal (consistent with your original style) ====== */
+/* ====== Modal ====== */
 .modal-mask { position: fixed; inset: 0; background: var(--backdrop); display: grid; place-items: start center; padding-top: 48px; z-index: 50; }
 .modal {
   width: 840px; max-width: 95vw; max-height: 80vh; display: flex; flex-direction: column; background: var(--card);

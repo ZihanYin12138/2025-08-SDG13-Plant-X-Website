@@ -47,19 +47,19 @@
         <button class="btn" @click="onDiseaseSearch">Search</button>
       </div>
 
-      <!-- Quantity information (supports known/unknown total) -->
+      <!-- Quantity information -->
       <div class="list-toolbar" v-if="diseaseItems.length || diseasePage>1">
         <div class="results-meta">
           Showing {{ dStart }}–{{ dEnd }} of {{ dTotalKnown ? dTotal : '…' }} results
         </div>
       </div>
 
-      <!-- No match prompt (when image recognition returns empty) -->
+      <!-- No match prompt -->
       <p v-if="dNoImageMatches" class="info" role="status">
         No matching diseases were found for this image. Try another photo (clear, single subject), or search by name/keyword.
       </p>
 
-      <!-- Preview (shows prediction confidence on the right) -->
+      <!-- Preview -->
       <div v-if="dPreviewUrl" class="preview">
 
         <img :src="dPreviewUrl" alt="preview" />
@@ -71,7 +71,7 @@
           </div>
           </div>
 
-          <!-- Prediction results (confidence) -->
+          <!-- Prediction results -->
           <div class="predbox">
             <p class="pred-name">Prediction results</p>
           <ul v-if="dPreds.length" class="pred-list">
@@ -84,7 +84,7 @@
 
       </div>
 
-      <!-- Disease upload modal (close by clicking overlay + ESC) -->
+      <!-- Disease upload modal -->
       <div
         v-if="dUploadOpen"
         class="modal-mask"
@@ -138,7 +138,7 @@
           <RouterLink
             v-for="d in diseaseItems"
             :key="d.id"
-            :to="{ name: 'DiseaseDetail', params: { id: d.id }, state: { preload: d } }"
+            :to="{ name: 'DiseaseDetail', params: { id: d.id }, state: { preload: d }, query: { from: 'search' } }"
             style="text-decoration: none;"
           >
             <PdiseaseCard :disease="d" />
@@ -146,7 +146,7 @@
         </template>
       </div>
 
-      <!-- Disease pagination (also shows when unknown total, buttons controlled by hasPrev/hasNext) -->
+      <!-- Disease pagination -->
       <div
         class="list-toolbar bottom"
         v-if="!diseaseLoading && (diseaseHasPrev || diseaseHasNext || dTotalPages>1)"
@@ -182,10 +182,14 @@
 
 <script setup lang="ts">
 import { ref, computed, onMounted, onBeforeUnmount } from 'vue'
+import { useRoute, useRouter } from 'vue-router'
 import { searchDiseases, getDiseaseById } from '@/api/pdisease'
 import { uploadDiseaseImage, predictDiseaseByS3Key } from '@/api/DiseaseUpload'
 import PdiseaseCard from '@/components/PdiseaseCard.vue'
 import PlantCardSkeleton from '@/components/CardSkeleton.vue'
+
+const route = useRoute()
+const router = useRouter()
 
 /** Constants */
 const D_PAGE_SIZE = 8
@@ -206,7 +210,7 @@ const diseasePageInput = ref(1)
 const dRecognizing = ref(false)
 const dNoImageMatches = ref(false)
 
-/** Prediction sidebar: id/name/confidence (0~1 or 0~100 both work) */
+/** Prediction sidebar */
 const dPreds = ref<Array<{ id: number; name?: string; score: number | null }>>([])
 function formatProb(s: number | null) {
   if (s == null || Number.isNaN(s)) return '—'
@@ -214,11 +218,11 @@ function formatProb(s: number | null) {
   return `${pct.toFixed(1)}%`
 }
 
-/** Real total (if backend returns), otherwise use soft total as fallback */
+/** Real total (if backend returns), otherwise soft total */
 const dTotal = ref<number | null>(null)
 const dTotalKnown = computed(() => typeof dTotal.value === 'number' && dTotal.value >= 0)
 
-/** Statistics range (derived only from current page count) */
+/** Statistics range */
 const dStart = computed(() =>
   diseaseItems.value.length ? (diseasePage.value - 1) * D_PAGE_SIZE + 1 : 0
 )
@@ -237,6 +241,22 @@ const diseaseHasNext = computed(() =>
                     : diseaseItems.value.length === D_PAGE_SIZE
 )
 
+/** ---------- URL 同步（仅使用 d_* 键，互不干扰） ---------- */
+function writeDiseaseQuery() {
+  const next = {
+    ...route.query,
+    d_q: diseaseQ.value || undefined,
+    d_page: diseasePage.value > 1 ? String(diseasePage.value) : undefined,
+    tab: 'disease'
+  }
+  router.replace({ query: next })
+}
+function readDiseaseQuery() {
+  const q = route.query
+  diseaseQ.value = String(q.d_q ?? '')
+  diseasePage.value = Math.max(1, Number(q.d_page ?? 1))
+}
+
 /** Search entry */
 async function runDiseaseSearch(page = 1) {
   diseaseLoading.value = true
@@ -246,7 +266,6 @@ async function runDiseaseSearch(page = 1) {
     const res: any = await searchDiseases(diseaseQ.value, { page, pageSize: D_PAGE_SIZE })
     diseaseItems.value = res.items || []
 
-    // total: compatible with multiple fields; otherwise use soft total as fallback
     const t = Number(res?.total ?? res?.count ?? res?.total_count)
     if (Number.isFinite(t) && t >= 0) {
       dTotal.value = t
@@ -262,12 +281,18 @@ async function runDiseaseSearch(page = 1) {
     diseaseLoading.value = false
   }
 }
-function onDiseaseSearch() { diseasePage.value = 1; runDiseaseSearch(1) }
-function dGoTo(p: number) { const target = Math.max(1, Number(p) || 1); diseasePageInput.value = target; runDiseaseSearch(target) }
+function onDiseaseSearch() { diseasePage.value = 1; writeDiseaseQuery(); runDiseaseSearch(1) }
+function dGoTo(p: number) {
+  const target = Math.max(1, Number(p) || 1)
+  diseasePageInput.value = target
+  diseasePage.value = target
+  writeDiseaseQuery()
+  runDiseaseSearch(target)
+}
 function dPrev() { if (diseaseHasPrev.value) dGoTo(diseasePage.value - 1) }
 function dNext() { if (diseaseHasNext.value) dGoTo(diseasePage.value + 1) }
 
-/** Voice recognition (English better for recognizing common disease names) */
+/** Voice recognition */
 const diseaseListening = ref(false)
 const speechSupported = typeof window !== 'undefined' && 'webkitSpeechRecognition' in window
 let dRecognizer: any = null
@@ -325,15 +350,13 @@ async function processDiseaseFile(file:File){
   // Clear old predictions
   dPreds.value = []
 
-  // —— Disease recognition: show full screen Loading
+  // —— Disease recognition
   dRecognizing.value = true
   diseaseLoading.value = true
   diseaseError.value = ''
   dNoImageMatches.value = false
   try{
-    // 1) 上传
     const up = await uploadDiseaseImage(file)
-    // 2) 识别得到 id + 分数
     const pred = await predictDiseaseByS3Key(up.key, D_PAGE_SIZE)
 
     const rawPreds = (pred.results || [])
@@ -347,11 +370,9 @@ async function processDiseaseFile(file:File){
       })
       .filter(Boolean) as Array<{id:number; score:number|null}>
 
-    // Predicted ID list (for fetching details); 0=Healthy, no need to fetch details
     const ids: number[] = rawPreds.map(p => p.id).filter(id => id !== 0)
 
     if (!ids.length){
-      // Only special tags (e.g., Healthy) or no results at all
       const nameMap = new Map<number, string>()
       Object.entries(SPECIAL_DISEASE_LABELS).forEach(([k, v]) => nameMap.set(Number(k), v))
 
@@ -367,13 +388,11 @@ async function processDiseaseFile(file:File){
       dTotal.value = 0
       diseasePage.value = 1
       diseasePageInput.value = 1
-
-      // NoImageMatches if rawPreds is empty; if id=0 (Healthy) it's not no match
       dNoImageMatches.value = rawPreds.length === 0
+      writeDiseaseQuery()
       return
     }
 
-    // 3) Fetch details
     const details = await Promise.all(
       ids.slice(0, D_PAGE_SIZE).map((id:number)=> getDiseaseById(id).catch(()=>null))
     )
@@ -381,10 +400,10 @@ async function processDiseaseFile(file:File){
     diseasePage.value = 1
     diseasePageInput.value = 1
     dTotal.value = diseaseItems.value.length
+    writeDiseaseQuery()
 
-    // Align predictions with detail names to generate right sidebar list
+    // Align predictions with detail names
     const nameMap = new Map<number, string>()
-    // First add special mappings (0 -> Healthy)
     Object.entries(SPECIAL_DISEASE_LABELS).forEach(([k, v]) => nameMap.set(Number(k), v))
     for (const d of diseaseItems.value) {
       nameMap.set(Number(d.id), d.name || d.scientific_name || String(d.id))
@@ -397,7 +416,6 @@ async function processDiseaseFile(file:File){
         return sb - sa
       })
 
-    // Scroll back to disease block top
     const el = document.getElementById('diseases')
     if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' })
   }catch(e:any){
@@ -412,20 +430,27 @@ function clearDiseasePreview(){
   if (dPreviewUrl.value) URL.revokeObjectURL(dPreviewUrl.value)
   dPreviewUrl.value=''
   dPreviewName.value=''
-  dPreds.value = []         // Clear prediction display
+  dPreds.value = []
 }
 
-/** Initial entry: show first page (pdisease handles empty query internally) */
-onMounted(() => { runDiseaseSearch(1) })
+/** Initial entry: 读取 d_*，然后加载 */
+onMounted(() => {
+  if (route.query.tab !== 'disease') {
+    router.replace({ query: { ...route.query, tab: 'disease' } })
+  }
+  readDiseaseQuery()
+  diseasePageInput.value = diseasePage.value
+  runDiseaseSearch(diseasePage.value)
+})
 
-/** Clean up local URLs to prevent memory leaks */
+/** Clean up local URLs */
 onBeforeUnmount(() => {
   if (dPreviewUrl.value) URL.revokeObjectURL(dPreviewUrl.value)
 })
 </script>
 
 <style scoped>
-/* —— Block outline (transparent background, border only) —— */
+/* —— Block outline —— */
 .section-box{
   border: 1.5px solid var(--border);
   border-radius: 14px;
@@ -453,7 +478,7 @@ onBeforeUnmount(() => {
 .btn:disabled { opacity: .6; cursor: not-allowed; }
 .btn:hover { background: var(--hover); }
 
-/* ====== Preview (right prediction list) ====== */
+/* ====== Preview ====== */
 .preview {
   display: flex;
   align-items: flex-start;

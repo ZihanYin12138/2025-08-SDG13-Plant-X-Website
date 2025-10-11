@@ -4,7 +4,7 @@
   <section class="container" id="plantrcmd">
     <div class="section-box">
       <h2>Plant Recommendation</h2>
-      <p>Choose a location to see plant recommendations and aggregated weather for the area.</p>
+      <p>Choose a location on map to see plant recommendations and aggregated weather for the area.</p>
 
       <!-- 地图和天气 -->
       <section class="container">
@@ -37,7 +37,7 @@
                 v-model="lngInput"
                 @keyup.enter="applyInputs"
               />
-              <button class="btn" @click="applyInputs" :disabled="!latInput || !lngInput">Use Coordinates</button>
+              <button class="btn" @click="applyInputs" :disabled="!latInput || !lngInput">Search / Recommend</button>
               <button class="btn ghost" @click="clearAll" :disabled="!latInput && !lngInput && !point && !pendingPoint">Clear</button>
             </div>
             <p v-if="inputError" class="error">{{ inputError }}</p>
@@ -161,6 +161,9 @@ const pendingPoint = ref(null)
 const latInput = ref('')
 const lngInput = ref('')
 const inputError = ref('')
+
+/* ✅ 预设默认坐标：墨尔本 CBD（-37.8136, 144.9631） */
+const DEFAULT_POINT = { lat: -37.8136, lng: 144.9631 }
 
 /* ========== KPI：直接使用后端 aggregated_weather ========== */
 const metrics = reactive({
@@ -344,6 +347,12 @@ onMounted(async () => {
     latInput.value = lat.toFixed(4)
     lngInput.value = lng.toFixed(4)
   })
+
+  // ✅ 预设到墨尔本 CBD，并自动提交一次（如只想预填不请求，注释掉 applyInputs()）
+  setPending(DEFAULT_POINT.lat, DEFAULT_POINT.lng, true) // 放置标记并移动镜头
+  latInput.value = DEFAULT_POINT.lat.toFixed(4)
+  lngInput.value = DEFAULT_POINT.lng.toFixed(4)
+  applyInputs()  // 触发请求与列表加载
 })
 
 onBeforeUnmount(() => { if (map) { map.remove(); map = null } })
