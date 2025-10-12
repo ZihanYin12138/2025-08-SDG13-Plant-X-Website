@@ -1,10 +1,10 @@
-# 使用Python 3.11作为基础镜像
+# Use Python 3.11 as base image
 FROM python:3.11-slim
 
-# 设置工作目录
+# Set working directory
 WORKDIR /app
 
-# 安装系统依赖
+# Install system dependencies
 RUN apt-get update && apt-get install -y \
     gcc \
     g++ \
@@ -13,21 +13,21 @@ RUN apt-get update && apt-get install -y \
     libproj-dev \
     && rm -rf /var/lib/apt/lists/*
 
-# 复制requirements文件并安装Python依赖
+# Copy requirements file and install Python dependencies
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# 复制应用代码
+# Copy application code
 COPY 04_epic7_backend_sql.py .
 
-# 暴露端口
+# Expose port
 EXPOSE 5000
 
-# 设置环境变量
+# Set environment variables
 ENV FLASK_APP=04_epic7_backend_sql.py
 ENV FLASK_ENV=production
 
-# 启动命令
+# Startup command
 CMD ["gunicorn", "--bind", "0.0.0.0:5000", "--workers", "4", "--timeout", "120", "04_epic7_backend_sql:app"]
 
 
