@@ -1,4 +1,4 @@
-# Terraform配置用于AWS ECS部署
+# Terraform configuration for AWS ECS deployment
 terraform {
   required_providers {
     aws = {
@@ -12,7 +12,7 @@ provider "aws" {
   region = var.aws_region
 }
 
-# 变量定义
+# Variable definitions
 variable "aws_region" {
   description = "AWS region"
   type        = string
@@ -25,7 +25,7 @@ variable "app_name" {
   default     = "plantx-tsx-trend-api"
 }
 
-# VPC配置
+# VPC configuration
 resource "aws_vpc" "main" {
   cidr_block           = "10.0.0.0/16"
   enable_dns_hostnames = true
@@ -36,7 +36,7 @@ resource "aws_vpc" "main" {
   }
 }
 
-# 子网配置
+# Subnet configuration
 resource "aws_subnet" "public" {
   count             = 2
   vpc_id            = aws_vpc.main.id
@@ -54,7 +54,7 @@ data "aws_availability_zones" "available" {
   state = "available"
 }
 
-# 互联网网关
+# Internet Gateway
 resource "aws_internet_gateway" "main" {
   vpc_id = aws_vpc.main.id
 
@@ -63,7 +63,7 @@ resource "aws_internet_gateway" "main" {
   }
 }
 
-# 路由表
+# Route table
 resource "aws_route_table" "public" {
   vpc_id = aws_vpc.main.id
 
@@ -83,7 +83,7 @@ resource "aws_route_table_association" "public" {
   route_table_id = aws_route_table.public.id
 }
 
-# 安全组
+# Security group
 resource "aws_security_group" "app" {
   name_prefix = "${var.app_name}-app-"
   vpc_id      = aws_vpc.main.id
@@ -107,7 +107,7 @@ resource "aws_security_group" "app" {
   }
 }
 
-# ECS集群
+# ECS cluster
 resource "aws_ecs_cluster" "main" {
   name = "${var.app_name}-cluster"
 
@@ -121,7 +121,7 @@ resource "aws_ecs_cluster" "main" {
   }
 }
 
-# ECS任务定义
+# ECS task definition
 resource "aws_ecs_task_definition" "app" {
   family                   = var.app_name
   network_mode             = "awsvpc"
@@ -179,7 +179,7 @@ resource "aws_ecs_task_definition" "app" {
   }
 }
 
-# ECS服务
+# ECS service
 resource "aws_ecs_service" "app" {
   name            = "${var.app_name}-service"
   cluster         = aws_ecs_cluster.main.id
@@ -196,7 +196,7 @@ resource "aws_ecs_service" "app" {
   depends_on = [aws_iam_role_policy_attachment.ecs_task_execution_role]
 }
 
-# CloudWatch日志组
+# CloudWatch log group
 resource "aws_cloudwatch_log_group" "app" {
   name              = "/ecs/${var.app_name}"
   retention_in_days = 7
@@ -206,7 +206,7 @@ resource "aws_cloudwatch_log_group" "app" {
   }
 }
 
-# IAM角色和策略
+# IAM roles and policies
 resource "aws_iam_role" "ecs_execution_role" {
   name = "${var.app_name}-ecs-execution-role"
 
@@ -246,10 +246,10 @@ resource "aws_iam_role" "ecs_task_role" {
   })
 }
 
-# 数据源
+# Data sources
 data "aws_caller_identity" "current" {}
 
-# 输出
+# Outputs
 output "cluster_name" {
   value = aws_ecs_cluster.main.name
 }
