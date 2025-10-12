@@ -1,10 +1,12 @@
 <!-- src/views/DiseaseSearch.vue -->
 <template>
-  <!-- ========== Plant Disease (transparent border) ========== -->
+  <!-- ========== Plant Disease ========== -->
   <section id="diseases" class="container">
     <div class="section-box" aria-label="Plant Disease Search & Recognition">
       <h2>Plant Disease search and recognization</h2>
-      <p>Search for a plant disease or Upload a image to identify a disease.</p>
+      <p>Click "🎤" to enter the disease name by voice. &nbsp Click "➕" to upload a picture to identify plant disease.
+        <br>Please note: If the website encounters an error, please try again !
+      </p>
 
       <!-- Disease search -->
       <div class="searchbar">
@@ -74,6 +76,7 @@
           <!-- Prediction results -->
           <div class="predbox">
             <p class="pred-name">Prediction results</p>
+            <p>The following are the three most likely diseases and <br> their corresponding probabilities ("Healthy" is also included)</p>
           <ul v-if="dPreds.length" class="pred-list">
             <li v-for="p in dPreds" :key="p.id" class="pred-item">
               <span class="pred-name">{{ p.name || ('#' + p.id) }}</span>

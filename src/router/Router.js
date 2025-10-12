@@ -28,12 +28,6 @@ const routes = [
     meta: { title: "Community · Plant'X" }
   },
   {
-    path: '/allplants',
-    name: 'AllPlants',
-    component: () => import('../views/AllPlants.vue'),
-    meta: { title: "All Plants · Plant'X" }
-  },
-  {
     path: '/plants/:id',
     name: 'PlantDetail',
     component: () => import('../views/PlantDetail.vue'),
@@ -52,7 +46,18 @@ const routes = [
     name: 'PlantRcmd',
     component: () => import('../views/PlantRcmd.vue'),
     meta: { title: "Plant Recommendations · Plant'X" }
-  }
+  },
+  {
+  path: '/climate',
+  name: 'ClimateImpact',
+  component: () => import('../views/ClimateImpact.vue'),
+  meta: { title: "Climate Impact · Plant'X" }
+  },
+  {
+  path: '/tp/mapping',
+  name: 'TPmapping',
+  component: () => import('@/views/TPmapping.vue')
+}
 ]
 
 const router = createRouter({

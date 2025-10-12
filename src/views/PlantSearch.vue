@@ -4,7 +4,10 @@
   <section class="container" id="plantsearch">
     <div class="section-box" aria-label="Plant Search & Recognition">
       <h2>Plant search and recognization</h2>
-      <p>Search for a plants or Upload a image to identify a plant.</p>
+      <p>
+        Click "🎤" to enter the plant name by voice. &nbsp Click "➕" to upload a picture to identify the plant.
+        <br>Please note: If the website encounters an error, please try again !
+      </p>
 
       <!-- Search bar -->
       <div class="searchbar">

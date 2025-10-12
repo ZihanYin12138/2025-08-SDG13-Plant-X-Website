@@ -161,7 +161,7 @@ const groups: Record<GroupKey, Article[]> = {
 }
 
 const tabMeta: Record<GroupKey, { title: string; subtitle: string }> = {
-  g1: { title: 'How Your Garden Support Nature In a Changing Climate', subtitle: 'Impacts on native plants & ecosystems' },
+  g1: { title: 'How Climate change threatens on Australian Plants', subtitle: 'Impacts on native plants & ecosystems' },
   g2: { title: 'How Your Garden Support Nature In a Changing Climate', subtitle: 'How your garden helps nature' },
   g3: { title: 'Grow to protect: native plants you can save in your garden', subtitle: 'Starter-friendly native plant ideas' },
 }
@@ -215,7 +215,7 @@ function onTouchEnd(e: TouchEvent) {
     <div class="hero-grid">
       <div>
         <h1 class="display">Plant'X</h1>
-        <h2 class="title">Keep Your Garden Thriving Under Changing Climate in Austrilian Suburbs</h2>
+        <h2 class="title">Keep Your Garden Thriving Under Changing Climate in Australia</h2>
         <p class="lead">
           Caring for plants is more than a hobby. With proper sunlight, soil, water, and compost, gardens thrive and bring joy.
           From city balconies to wild landscapes, plants connect us to nature—urban greenery builds resilience,
