@@ -1,4 +1,10 @@
 <template>
+  <div class="container">
+    <h2>Discover Urban Trees and Plants Near You</h2>
+    <p>Explore Australia’s urban greenery on an interactive map.
+    <br>Use your location—or pick a place—to see local species. Search any plant to highlight where it grows nearby.</p>
+    </div>
+
   <div class="urban-map-container">
     <!-- top tool bar -->
     <div class="top-toolbar" role="search" aria-label="Tree search toolbar">

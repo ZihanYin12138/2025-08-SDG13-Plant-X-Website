@@ -21,14 +21,14 @@ async function getJSON(url) {
   return res.json();
 }
 
-/** 单页列表（GET） */
+/** Single page list (GET) */
 export function getPlantsList({ page = 1, limit = 100 } = {}) {
-  // 接口要求 1-100
+ // Interface requirements 1-100
   const safeLimit = Math.min(100, Math.max(1, Math.floor(limit)));
   return getJSON(`${BASE}/plants${toQS({ page, limit: safeLimit })}`);
 }
 
-/** 全部分页抓取（每页最多 100，直到 hasNext 为 false） */
+/** Fetch all pages (up to 100 per page, until hasNext is false) */
 export async function getAllPlantsList(limitPerPage = 100) {
   const limit = Math.min(100, Math.max(1, Math.floor(limitPerPage)));
   let page = 1;
@@ -39,7 +39,7 @@ export async function getAllPlantsList(limitPerPage = 100) {
     const { plants = [], pagination = {} } = await getPlantsList({ page, limit });
     all.push(...plants);
 
-    // 优先使用服务端分页标志
+    // Give priority to using the server-side paging flag
     if (typeof pagination?.hasNext === 'boolean') {
       hasNext = pagination.hasNext;
       page = (pagination.page || page) + 1;
@@ -47,23 +47,21 @@ export async function getAllPlantsList(limitPerPage = 100) {
       hasNext = pagination.page < pagination.totalPages;
       page += 1;
     } else {
-      // 兜底：拿到的数量小于 limit 说明已经最后一页
+      // Back-up: If the number of items you get is less than the limit, it means you have reached the last page.
       hasNext = plants.length === limit;
       page += 1;
     }
-
-    // 安全阈值，防止意外死循环
     if (page > 200) break;
   }
   return all;
 }
 
-/** 地图点位（GET） */
+/** Map point */
 export function getPlantsMapData() {
   return getJSON(`${BASE}/getPlantsMapData`);
 }
 
-/** 植物详情（GET，使用 plantId 参数） */
+/** Plant details */
 export function getPlantDetail(plantId) {
   return getJSON(`${BASE}/getPlantDetail${toQS({ plantId })}`);
 }

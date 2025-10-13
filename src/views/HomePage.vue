@@ -45,7 +45,6 @@ const lm33 = new URL('@/assets/lm33.png', import.meta.url).href
 const lm34 = new URL('@/assets/lm34.png', import.meta.url).href
 const lm35 = new URL('@/assets/lm35.png', import.meta.url).href
 
-/* ====== 仅移除标题中的编号，其它文字完全不变 ====== */
 const groups: Record<GroupKey, Article[]> = {
   g1: [
     {
@@ -166,7 +165,7 @@ const tabMeta: Record<GroupKey, { title: string; subtitle: string }> = {
   g3: { title: 'Grow to protect: native plants you can save in your garden', subtitle: 'Starter-friendly native plant ideas' },
 }
 
-/* ===== 默认选中“中间板块” ===== */
+/* ===== "Middle Plate" is selected by default ===== */
 const activeGroup = ref<GroupKey>('g2')
 const activeIndex = ref(0)
 
@@ -193,7 +192,6 @@ function go(step: number) {
   activeIndex.value = (activeIndex.value + step + len.value) % len.value
 }
 
-/* 键盘/触摸 */
 function onKey(e: KeyboardEvent) {
   if (e.key === 'ArrowRight') go(1)
   if (e.key === 'ArrowLeft') go(-1)
@@ -210,7 +208,6 @@ function onTouchEnd(e: TouchEvent) {
 </script>
 
 <template>
-  <!-- HERO / INTRO（保持你原有的文案，不做改动） -->
   <section class="section container hero-home">
     <div class="hero-grid">
       <div>
@@ -258,7 +255,7 @@ function onTouchEnd(e: TouchEvent) {
 
   <hr class="divider-red" aria-hidden="true" />
 
-  <!-- Garden / Urban & Wild / Community（原文不改） -->
+  <!-- Garden / Urban & Wild / Community -->
   <section class="section container">
     <div class="grid cards">
       <RouterLink class="infocard" to="/garden">
@@ -301,7 +298,7 @@ function onTouchEnd(e: TouchEvent) {
 
   <hr class="divider-red" aria-hidden="true" />
 
-  <!-- Homepage recommended plants（原文不改） -->
+  <!-- Homepage recommended plants -->
   <section id="plants" class="section container">
     <h2 class="title">We Have Tons Of Plants Data</h2>
     <div class="seeall">
@@ -324,7 +321,7 @@ function onTouchEnd(e: TouchEvent) {
 
   <hr class="divider-red" aria-hidden="true" />
 
-  <!-- Index + Articles（原文不改） -->
+  <!-- Index + Articles -->
   <section class="section container">
     <h2 class="title">More About Our Goal and Vision</h2>
 

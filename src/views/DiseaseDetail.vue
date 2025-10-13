@@ -1,4 +1,3 @@
-<!-- src/views/DiseaseDetail.vue -->
 <script setup>
 import { ref, computed, onMounted, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
@@ -12,7 +11,7 @@ const loading = ref(true)
 const error = ref('')
 const disease = ref(null)
 
-/** 预载（来自列表 RouterLink 的 state: { preload }） */
+/** preload */
 const preload = (() => {
   const s = (route).state?.preload ?? (window?.history?.state)?.preload
   return s
@@ -20,6 +19,19 @@ const preload = (() => {
 if (preload) {
   disease.value = preload
   loading.value = false
+}
+
+/** back tab=disease */
+const backQuery = computed(() => {
+  const fromState =
+    (route).state?.backQuery ??
+    (window?.history?.state)?.backQuery ??
+    {}
+  return { tab: 'disease', ...fromState }
+})
+const backToGarden = computed(() => ({ name: 'Garden', query: backQuery.value }))
+function goBackToDiseaseList() {
+  router.push(backToGarden.value)
 }
 
 const PLACEHOLDER_IMG =
@@ -32,7 +44,7 @@ const PLACEHOLDER_IMG =
     </svg>`
   )
 
-/** 名称与图片（字段兼容） */
+/** Name and image */
 const displayName = computed(() => disease.value?.name || disease.value?.common_name || '')
 const sciName = computed(() => disease.value?.scientific_name || '')
 
@@ -48,10 +60,10 @@ const coverUrl = ref('')
 const setCover = (src) => { coverUrl.value = src || fallbackImg || PLACEHOLDER_IMG }
 watch(allImages, (imgs) => setCover(imgs[0]), { immediate: true })
 
-/** 兼容/抽取文段 */
+/** Compatible/Extract text */
 const toText = (v) => Array.isArray(v) ? v.filter(Boolean).join(', ') : (v || '')
 
-/** 从数组 description[] 中，找到 “概览/机理” 文段（没有 symptoms 时用于右侧显示） */
+/** From the description[] array, find the "Overview/Mechanism" section (displayed on the right when there are no symptoms) */
 const overviewText = computed(() => {
   const d = disease.value || {}
   if (Array.isArray(d.description) && d.description.length) {
@@ -61,14 +73,13 @@ const overviewText = computed(() => {
   return ''
 })
 
-/** Symptoms：若无字段，则右侧用 Overview 占位 */
+/** Symptoms: If there is no field, the Overview placeholder is used on the right */
 const symptomsText = computed(() => {
   const d = disease.value || {}
   if (d.symptoms) return d.symptoms
   return overviewText.value
 })
 
-/** Diagnosis：优先 diagnosis；否则从 description[] 找 “How … occur/does …” 条目 */
 const diagnosisText = computed(() => {
   const d = disease.value || {}
   if (d.diagnosis) return d.diagnosis
@@ -81,7 +92,6 @@ const diagnosisText = computed(() => {
   return ''
 })
 
-/** Solutions：拆分为管理类 & 化学类两个盒子；并兼容 legacy 字段 */
 const solutionArray = computed(() => {
   const d = disease.value || {}
   return Array.isArray(d.solution) ? d.solution : []
@@ -121,16 +131,7 @@ const chemicalTreatText = computed(() => {
   return ''
 })
 
-/** 智能返回：优先后退；否则回 Garden 的 disease 分栏 */
-function smartBack() {
-  if (window.history.length > 1) {
-    router.back()
-  } else {
-    router.push({ name: 'Garden', query: { tab: 'disease' } })
-  }
-}
-
-/** 加载详情 */
+/** load detail */
 onMounted(async () => {
   try {
     const idParam = route.params.id
@@ -149,9 +150,9 @@ onMounted(async () => {
 
 <template>
   <section class="section container">
-    <!-- 面包屑：用智能返回，避免新入栈 -->
+    <!-- Breadcrumbs -->
     <nav class="breadcrumb" aria-label="Breadcrumb">
-      <button class="breadcrumb__link as-link" @click="smartBack">Diseases</button>
+      <RouterLink class="breadcrumb__link" :to="backToGarden">Disease Search</RouterLink>
       <span class="breadcrumb__sep">›</span>
       <span class="breadcrumb__current">{{ displayName || '...' }}</span>
     </nav>
@@ -160,9 +161,7 @@ onMounted(async () => {
     <p v-else-if="!preload && error" class="error">Load fail：{{ error }}</p>
 
     <article v-else-if="disease" class="detail">
-      <!-- 上半区：左图 / 右侧 Symptoms -->
       <div class="top-grid">
-        <!-- 左侧：主图 + 缩略图 -->
         <aside class="media">
           <div class="hero-img-wrap">
             <img :src="coverUrl || PLACEHOLDER_IMG" :alt="displayName || 'Disease photo'" />
@@ -181,7 +180,6 @@ onMounted(async () => {
           </div>
         </aside>
 
-        <!-- 右侧：标题 + 症状/概览 -->
         <section class="side">
           <h1 class="title">{{ displayName }}</h1>
           <p v-if="sciName" class="latin">{{ sciName }}</p>
@@ -194,7 +192,6 @@ onMounted(async () => {
         </section>
       </div>
 
-      <!-- 下半区：诊断 / 管理治疗 / 化学治疗 -->
       <section v-if="diagnosisText" class="card">
         <h3 class="card__title">Diagnosis / Identification</h3>
         <p class="preline">{{ diagnosisText }}</p>
@@ -213,26 +210,20 @@ onMounted(async () => {
   </section>
 
   <div class="center">
-    <button class="btn" @click="smartBack">← Back to Diseases</button>
+    <button class="btn" @click="goBackToDiseaseList">← Back to Diseases</button>
   </div>
 </template>
 
 <style scoped>
-/* 面包屑 */
 .breadcrumb {
   display: flex; align-items: center; gap: .5rem;
   margin: 4px 0 12px; font-size: 14px;
 }
 .breadcrumb__link { color: var(--fg); font-weight: 700; text-decoration: none; }
 .breadcrumb__link:hover { text-decoration: underline; }
-/* 让按钮看起来像链接 */
-.as-link {
-  background: none; border: 0; padding: 0; cursor: pointer; font: inherit; color: var(--fg);
-}
 .breadcrumb__sep { color: var(--muted); }
 .breadcrumb__current { color: var(--fg); }
 
-/* 上半区两栏 */
 .top-grid{
   display:grid;
   gap:1rem;
@@ -241,7 +232,6 @@ onMounted(async () => {
 }
 @media (max-width: 980px){ .top-grid{ grid-template-columns:1fr } }
 
-/* 左侧媒体：保持原始比例 */
 .hero-img-wrap img{
   display:block;
   max-width: 100%;
@@ -252,7 +242,6 @@ onMounted(async () => {
   box-shadow: var(--shadow-sm);
 }
 
-/* 缩略图横向滚动 */
 .thumbs {
   margin-top: .6rem;
   border-radius: 10px;
@@ -283,11 +272,9 @@ onMounted(async () => {
 }
 .thumbs__rail img:hover { transform: translateY(-2px); }
 
-/* 右侧信息 */
 .side .title{ margin:.25rem 0 }
 .latin{ color:var(--muted); font-style:italic; margin: 4px 0 8px; }
 
-/* 下方独立卡片 */
 .card {
   background: var(--card);
   border: 1px solid var(--border);
@@ -298,7 +285,6 @@ onMounted(async () => {
 }
 .card__title { margin: 0 0 6px; }
 
-/* 文本保留换行 */
 .preline { white-space: pre-line; }
 .muted { color: var(--muted); }
 
@@ -316,5 +302,6 @@ onMounted(async () => {
   padding: .5rem .8rem;
   border-radius: 10px;
   cursor: pointer;
+  background-color: rgb(76, 76, 76);
 }
 </style>

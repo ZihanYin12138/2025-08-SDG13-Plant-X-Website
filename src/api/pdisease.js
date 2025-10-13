@@ -65,17 +65,11 @@ function pickTotal(data) {
   return null
 }
 
-/**
- * 搜索疾病（分页）：
- * - 若 q 为空：用 seeds 循环抓取所有匹配 ID 去重统计 total
- * - 若后端返回 total：直接用
- * - 若没有 total：overfetch（limit+1）判断 hasNext，并给“渐进式总数”
- */
 export async function searchDiseases(q, { page = 1, pageSize = 8 } = {}) {
   const query = (q && q.trim()) ? q.trim() : ''
   const offset = Math.max(0, (Number(page) || 1) - 1) * pageSize
 
-  // 如果没有搜索词，用 seeds 去重统计 total
+  // If there is no search term, use seeds to remove duplicates and count the total
   if (!query) {
     const idSet = new Set()
 
@@ -96,7 +90,7 @@ export async function searchDiseases(q, { page = 1, pageSize = 8 } = {}) {
 
     const total = idSet.size
 
-    // 默认用第一个 seed 取第一页数据
+    // By default, use the first seed to get the first page of data
     const data1 = await fetchJson(`${BASE}?q=${encodeURIComponent(DEFAULT_SEEDS[0])}&limit=${pageSize}&offset=${offset}`)
     const items1 = Array.isArray(data1.items) ? data1.items.map(mapItem) : []
     const hasNext = offset + items1.length < total
@@ -110,7 +104,7 @@ export async function searchDiseases(q, { page = 1, pageSize = 8 } = {}) {
     }
   }
 
-  // 有搜索词：按原逻辑
+  // With search terms: follow the original logic
   const baseUrl = `${BASE}?q=${encodeURIComponent(query)}&limit=${pageSize}&offset=${offset}`
   const data1 = await fetchJson(baseUrl)
   const items1 = Array.isArray(data1.items) ? data1.items.map(mapItem) : []
@@ -127,7 +121,7 @@ export async function searchDiseases(q, { page = 1, pageSize = 8 } = {}) {
     }
   }
 
-  // —— 没有 total：做 overfetch（多取 1 条）来判断是否还有下一页 —— //
+  // —— No total: do overfetch (get 1 more record) to determine if there is a next page —— //
   const overfetch = pageSize + 1
   const overUrl = `${BASE}?q=${encodeURIComponent(query)}&limit=${overfetch}&offset=${offset}`
   const data2 = await fetchJson(overUrl)

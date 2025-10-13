@@ -15,14 +15,14 @@ const props = defineProps({
   disease: { type: Object, required: true }
 })
 
-/** 取第一张可用图，没有就用占位图 */
+/** Take the first available image, if not, use a placeholder image */
 const cover = computed(() => {
   const arr = Array.isArray(props.disease.images) ? props.disease.images : []
   const first = arr.find(u => typeof u === 'string' && u.trim().length)
   return first || placeholder
 })
 
-/** 用 background-image，避免 <img> 404 的破图图标 */
+/** Use background-image to avoid broken <img> 404 icons */
 const thumbStyle = computed(() => ({
   backgroundImage: `url("${cover.value}")`,
   backgroundSize: 'cover',
@@ -39,11 +39,11 @@ const thumbStyle = computed(() => ({
   padding:.8rem;
   color:inherit;
   text-decoration:none;
-  height: 300px;                    /* 和 Plant 卡片一致的高度 */
+  height: 300px;
   transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, background-color .18s ease;
 }
 
-/* 避免被任何全局 .btn / .searchbar__input 等样式污染 */
+/* Avoid being polluted by any global .btn / .searchbar__input styles */
 .disease-card :is(input, button, a){ all: revert-layer; }
 
 .disease-card:hover{
@@ -60,8 +60,8 @@ const thumbStyle = computed(() => ({
   margin-bottom:.5rem;
   border-radius:10px;
   overflow:hidden;
-  aspect-ratio: 4 / 3;             /* 保证缩略图比例稳定 */
-  background-color: var(--surface); /* 即使无图也占位 */
+  aspect-ratio: 4 / 3;
+  background-color: var(--surface);
 }
 
 .title{ margin:.25rem 0; font-size: 1rem; line-height: 1.2; }
