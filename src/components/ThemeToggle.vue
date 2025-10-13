@@ -23,7 +23,7 @@ onMounted(() => {
   apply(theme.value)
 
   onChange = (e) => {
-    if (!localStorage.getItem('theme')) { // 仅当未手动指定时跟随系统
+    if (!localStorage.getItem('theme')) {
       theme.value = e.matches ? 'dark' : 'light'
       apply(theme.value)
     }
@@ -55,4 +55,3 @@ onBeforeUnmount(() => {
 </button>
 </template>
 
-    

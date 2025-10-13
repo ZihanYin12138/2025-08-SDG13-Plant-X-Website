@@ -345,6 +345,10 @@ onMounted(() => {
       </div>
     </div>
   </section>
+
+  <section>
+    <TPmapping></TPmapping>
+  </section>
 </template>
 
 <style scoped>

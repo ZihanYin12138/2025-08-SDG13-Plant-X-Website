@@ -4,7 +4,10 @@
   <section class="container" id="plantsearch">
     <div class="section-box" aria-label="Plant Search & Recognition">
       <h2>Plant search and recognization</h2>
-      <p>Search for a plants or Upload a image to identify a plant.</p>
+      <p>
+        Click "🎤" to enter the plant name by voice. &nbsp Click "➕" to upload a picture to identify the plant.
+        <br>Please note: If the website encounters an error, please try again !
+      </p>
 
       <!-- Search bar -->
       <div class="searchbar">
@@ -268,6 +271,10 @@
             <button class="btn-ghost sm" :disabled="page>=totalPages" @click="nextPage">Next ›</button>
           </div>
         </div>
+
+        <div v-if="!loading && !error && safePlants.length === 0" class="muted" style="margin-top:.5rem;">
+          Try keywords like <em>rose, fern, maple</em>…
+        </div>
       </section>
     </div>
   </section>
@@ -285,7 +292,6 @@ import { useRoute, useRouter } from 'vue-router'
 import {
   searchPlants,
   getPlantById,
-  getPlantsForCardsByIds,
   type PlantDetail,
   type PlantCardItem
 } from '@/api/plants'
@@ -293,7 +299,6 @@ import PlantCard from '@/components/PlantCard.vue'
 import PlantCardSkeleton from '@/components/CardSkeleton.vue'
 import { uploadImage, predictByS3Key } from '@/api/uploads'
 
-/** Router for namespaced query sync (p_*) */
 const route = useRoute()
 const router = useRouter()
 
@@ -378,12 +383,14 @@ function normalizePreload(p: any) {
     other_name: p.other_name || []
   }
 }
+
+/** Jump target: uniformly point to PlantDetail, and explicitly carry tab=plants, from=plants */
 function toFor(p: any) {
   if (p?.id_type === 'threatened' && Number.isFinite(p.threatened_plant_id)) {
     return {
       name: 'PlantDetail',
       params: { id: p.threatened_plant_id },
-      query: { type: 'threatened', from: 'search' },   // from=search 帮助详情“智能返回”
+      query: { type: 'threatened', from: 'plants', tab: 'plants' },
       state: { preload: normalizePreload(p) }
     }
   }
@@ -391,21 +398,20 @@ function toFor(p: any) {
     return {
       name: 'PlantDetail',
       params: { id: p.general_plant_id },
-      query: { type: 'general', from: 'search' },
+      query: { type: 'general', from: 'plants', tab: 'plants' },
       state: { preload: normalizePreload(p) }
     }
   }
   return { path: '/' }
 }
 
-/** ---------- URL 同步（仅使用 p_* 键，互不干扰） ---------- */
+/** ---------- URL synchronization (only use p_* keys, do not interfere with each other) ---------- */
 function writePlantQuery() {
   const next = {
     ...route.query,
-    // 命名空间：p_*
+    // Namespace: p_*
     p_q: query.value || undefined,
     p_page: page.value > 1 ? String(page.value) : undefined,
-    // filters
     p_thr: filters.threatened || undefined,
     p_ed: filters.edible || undefined,
     p_med: filters.medicinal || undefined,
@@ -417,14 +423,13 @@ function writePlantQuery() {
     p_wat: filters.watering || undefined,
     p_cyc: filters.cycle || undefined,
     p_grw: filters.growth || undefined,
-    // 保留当前 Garden 分段展示
     tab: 'plants'
   }
   router.replace({ query: next })
 }
 function readPlantQuery() {
   const q = route.query
-  query.value = String(q.p_q ?? '')        // 关键词
+  query.value = String(q.p_q ?? '')
   page.value = Math.max(1, Number(q.p_page ?? 1))
 
   // filters
@@ -441,7 +446,7 @@ function readPlantQuery() {
   filters.growth = String(q.p_grw ?? '')
 }
 
-/** 数据加载 */
+/** data load */
 async function load() {
   loading.value = true
   error.value = ''
@@ -549,7 +554,6 @@ async function processFile(file: File) {
     total.value = plants.value.length
     page.value = 1
     pageInput.value = 1
-    query.value = `#${ids.join(',')}`
     writePlantQuery()
   } catch (e: any) {
     error.value = e.message || String(e)
@@ -585,9 +589,9 @@ onMounted(() => {
 })
 const startVoice = () => recognizer && recognizer.start()
 
-/** Initial entry: 从 URL 读取 p_*，然后加载 */
+/** Initial entry: Read p_* from URL, then load */
 onMounted(() => {
-  // 确保 Garden Tab 是 plants
+  // Make sure Garden Tab is plants
   if (route.query.tab !== 'plants') {
     router.replace({ query: { ...route.query, tab: 'plants' } })
   }
@@ -705,7 +709,8 @@ onBeforeUnmount(() => {
 @media (max-width: 768px) { .plants-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 480px) { .plants-grid { grid-template-columns: 1fr; } }
 
-/* Error messages */
+/* Tips and errors */
+.muted{ color: var(--muted); }
 .error{ color:#c00; margin-top:8px }
 
 /* ====== Full screen Loading (recognizing) ====== */

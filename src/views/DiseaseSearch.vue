@@ -1,10 +1,11 @@
-<!-- src/views/DiseaseSearch.vue -->
 <template>
-  <!-- ========== Plant Disease (transparent border) ========== -->
+  <!-- ========== Plant Disease ========== -->
   <section id="diseases" class="container">
     <div class="section-box" aria-label="Plant Disease Search & Recognition">
       <h2>Plant Disease search and recognization</h2>
-      <p>Search for a plant disease or Upload a image to identify a disease.</p>
+      <p>Click "🎤" to enter the disease name by voice. &nbsp Click "➕" to upload a picture to identify plant disease.
+        <br>Please note: If the website encounters an error, please try again !
+      </p>
 
       <!-- Disease search -->
       <div class="searchbar">
@@ -61,9 +62,7 @@
 
       <!-- Preview -->
       <div v-if="dPreviewUrl" class="preview">
-
         <img :src="dPreviewUrl" alt="preview" />
-
         <div class="preview__right">
           <div class="preview__top">
             <span class="preview__name">{{ dPreviewName }}</span>
@@ -74,6 +73,7 @@
           <!-- Prediction results -->
           <div class="predbox">
             <p class="pred-name">Prediction results</p>
+            <p>The following are the three most likely diseases and <br> their corresponding probabilities ("Healthy" is also included)</p>
           <ul v-if="dPreds.length" class="pred-list">
             <li v-for="p in dPreds" :key="p.id" class="pred-item">
               <span class="pred-name">{{ p.name || ('#' + p.id) }}</span>
@@ -138,8 +138,14 @@
           <RouterLink
             v-for="d in diseaseItems"
             :key="d.id"
-            :to="{ name: 'DiseaseDetail', params: { id: d.id }, state: { preload: d }, query: { from: 'search' } }"
+            :to="{
+              name: 'DiseaseDetail',
+              params: { id: d.id },
+              state: { preload: d, backQuery: route.query },
+              query: { from: 'disease', tab: 'disease' }
+            }"
             style="text-decoration: none;"
+            @click="saveSnapshot"
           >
             <PdiseaseCard :disease="d" />
           </RouterLink>
@@ -195,6 +201,7 @@ const router = useRouter()
 const D_PAGE_SIZE = 8
 const diseasePlaceholder = 'Search For A Disease'
 const MAX_MB = 3
+const SNAP_KEY = 'disease_search_snapshot_v1'
 /** Special ID to name mapping (backend 0 represents healthy) */
 const SPECIAL_DISEASE_LABELS: Record<number, string> = { 0: 'Healthy' }
 
@@ -241,7 +248,6 @@ const diseaseHasNext = computed(() =>
                     : diseaseItems.value.length === D_PAGE_SIZE
 )
 
-/** ---------- URL 同步（仅使用 d_* 键，互不干扰） ---------- */
 function writeDiseaseQuery() {
   const next = {
     ...route.query,
@@ -255,6 +261,40 @@ function readDiseaseQuery() {
   const q = route.query
   diseaseQ.value = String(q.d_q ?? '')
   diseasePage.value = Math.max(1, Number(q.d_page ?? 1))
+}
+
+function saveSnapshot() {
+  try {
+    const snapshot = {
+      q: diseaseQ.value,
+      page: diseasePage.value,
+      items: diseaseItems.value,
+      total: dTotal.value,
+      pageInput: diseasePageInput.value,
+      ts: Date.now()
+    }
+    sessionStorage.setItem(SNAP_KEY, JSON.stringify(snapshot))
+  } catch {}
+}
+
+function restoreSnapshot(): boolean {
+  try {
+    const raw = sessionStorage.getItem(SNAP_KEY)
+    if (!raw) return false
+    const snap = JSON.parse(raw)
+    if (route.query.tab && route.query.tab !== 'disease') return false
+
+    diseaseQ.value = String(snap.q ?? '')
+    diseasePage.value = Math.max(1, Number(snap.page ?? 1))
+    diseaseItems.value = Array.isArray(snap.items) ? snap.items : []
+    dTotal.value = (typeof snap.total === 'number' || snap.total === null) ? snap.total : null
+    diseasePageInput.value = Math.max(1, Number(snap.pageInput ?? diseasePage.value))
+
+    writeDiseaseQuery()
+    return diseaseItems.value.length > 0
+  } catch {
+    return false
+  }
 }
 
 /** Search entry */
@@ -281,7 +321,12 @@ async function runDiseaseSearch(page = 1) {
     diseaseLoading.value = false
   }
 }
-function onDiseaseSearch() { diseasePage.value = 1; writeDiseaseQuery(); runDiseaseSearch(1) }
+function onDiseaseSearch() {
+  sessionStorage.removeItem(SNAP_KEY)
+  diseasePage.value = 1
+  writeDiseaseQuery()
+  runDiseaseSearch(1)
+}
 function dGoTo(p: number) {
   const target = Math.max(1, Number(p) || 1)
   diseasePageInput.value = target
@@ -433,14 +478,16 @@ function clearDiseasePreview(){
   dPreds.value = []
 }
 
-/** Initial entry: 读取 d_*，然后加载 */
 onMounted(() => {
   if (route.query.tab !== 'disease') {
     router.replace({ query: { ...route.query, tab: 'disease' } })
   }
-  readDiseaseQuery()
-  diseasePageInput.value = diseasePage.value
-  runDiseaseSearch(diseasePage.value)
+  const restored = restoreSnapshot()
+  if (!restored) {
+    readDiseaseQuery()
+    diseasePageInput.value = diseasePage.value
+    runDiseaseSearch(diseasePage.value)
+  }
 })
 
 /** Clean up local URLs */

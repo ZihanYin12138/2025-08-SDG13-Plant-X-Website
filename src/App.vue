@@ -25,7 +25,7 @@ onMounted(() => {
         <nav style="margin-left:auto;display:flex;gap:.99rem;font-size:larger;">
           <RouterLink to="/" @click="() => console.log('Clicked Home')">Home</RouterLink>
           <RouterLink to="/garden" @click="() => console.log('Clicked Garden')">Garden</RouterLink>
-          <RouterLink to="/urbanwild" @click="() => console.log('Clicked UrbanWild')">Urban & Wild</RouterLink>
+          <RouterLink to="/urbanwild" @click="() => console.log('Clicked UrbanWild')">Urban & Threaten</RouterLink>
           <RouterLink to="/community" @click="() => console.log('Clicked Community')">Community</RouterLink>
         </nav>
 
