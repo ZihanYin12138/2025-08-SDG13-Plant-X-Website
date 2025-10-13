@@ -1,4 +1,4 @@
-# This .py file is a sql version of 03_epic7_backend_local.py
+# This .py file is a SQL version of 03_epic7_backend_local.py
 # Name: Zihan
 
 from flask import Flask, jsonify, abort
@@ -10,13 +10,13 @@ import json
 import mysql.connector
 from mysql.connector import Error
 
-# --- 初始化 Flask 应用 ---
+# --- Initialize Flask Application ---
 app = Flask(__name__)
-CORS(app) # 允许跨域请求
+CORS(app) # Allow cross-origin requests
 
-# --- 1. 更新：在应用启动时从 MySQL 加载数据 ---
+# --- 1. Updated: Load Data from MySQL at App Startup ---
 
-# 数据库连接配置
+# Database connection configuration
 db_config = {
     'host': 'database-plantx.cqz06uycysiz.us-east-1.rds.amazonaws.com',
     'user': 'zihan',
@@ -27,7 +27,7 @@ db_config = {
     'charset': 'utf8mb4'
 }
 
-# 先初始化空的 DataFrame，以防数据库连接失败
+# Initialize empty DataFrames in case of database connection failure
 df_tsx = pd.DataFrame()
 gdf_states = gpd.GeoDataFrame()
 
@@ -38,17 +38,17 @@ try:
     if connection.is_connected():
         print("✅ MySQL Connection Successful.")
         
-        # 查询 Table14 (时间序列数据)
+        # Query Table14 (time series data)
         query_tsx = "SELECT * FROM Table14_TSX_Table_VIC"
         df_tsx = pd.read_sql(query_tsx, connection)
         print(f"✅ Loaded {len(df_tsx)} rows from Table14_TSX_Table_VIC.")
         
-        # 查询 Table15 (地理形状数据)
-        # 使用 ST_AsText() 将 MySQL 的 geometry 类型转换为 WKT 文本，以便 GeoPandas 读取
+        # Query Table15 (geographic shape data)
+        # Use ST_AsText() to convert MySQL geometry type to WKT text for GeoPandas
         query_shapes = "SELECT state, ST_AsText(geometry) as geometry FROM Table15_StateShapeTable"
         df_shapes_from_db = pd.read_sql(query_shapes, connection)
         
-        # 将 WKT 文本转换回 geometry 对象，并创建 GeoDataFrame
+        # Convert WKT text back to geometry objects and create GeoDataFrame
         df_shapes_from_db['geometry'] = df_shapes_from_db['geometry'].apply(wkt.loads)
         gdf_states = gpd.GeoDataFrame(df_shapes_from_db, geometry='geometry')
         print(f"✅ Loaded {len(gdf_states)} state shapes from Table15_StateShapeTable.")
@@ -57,13 +57,13 @@ except Error as e:
     print(f"❌ Error while connecting to MySQL or fetching data: {e}")
 
 finally:
-    # 加载完数据后，及时关闭连接
+    # Close connection after loading data
     if 'connection' in locals() and connection.is_connected():
         connection.close()
         print("🚪 MySQL connection closed.")
 
 
-# --- 2. API Endpoints (这部分代码无需任何修改) ---
+# --- 2. API Endpoints (this code requires no modifications) ---
 
 @app.route('/api/map/geojson', methods=['GET'])
 def get_map_base_geojson_endpoint():
@@ -91,7 +91,7 @@ def get_state_timeseries_data_endpoint(state):
     result = json.loads(state_data.to_json(orient='records'))
     return jsonify(result)
 
-# --- 3. 运行服务器 (无需修改) ---
+# --- 3. Run Server (no modifications needed) ---
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
     
@@ -99,14 +99,18 @@ if __name__ == '__main__':
     
 # python .\04_epic7_backend_sql.py
 
-# 1. 测试 GeoJSON 接口 (获取地图边界)
-# 访问: http://127.0.0.1:5000/api/map/geojson
-# 你应该会看到满屏的文本，以 {"features": [{"geometry": ... 开头。这就是地图的 GeoJSON 数据。
 
-# 2. 测试年份数据接口 (获取2022年的地图颜色数据)
-# 访问: http://127.0.0.1:5000/api/map/data/2022
-# 你应该会看到一个简洁的 JSON 对象，类似 {"Australian Capital Territory": 1.13, "National": 0.36, ...}。
 
-# 3. 测试州时间序列接口 (获取新南威尔士州的折线图数据)
-# 访问: http://127.0.0.1:5000/api/chart/data/New South Wales
-# 你应该会看到一个包含多条记录的 JSON 数组，[{"year": 2000, "index_value": 1.0, ...}, {"year": 2001, ...}]。
+# Instructions for Testing the Backend API
+
+# 1.  **Test GeoJSON Endpoint (Get Map Boundaries)**  
+#     Access: http://127.0.0.1:5000/api/map/geojson  
+#     You should see a screen full of text starting with `{"features": [{"geometry": ...`. This is the GeoJSON data for the map.
+
+# 2.  **Test Year Data Endpoint (Get Color Data for 2022 Map)**  
+#     Access: http://127.0.0.1:5000/api/map/data/2022  
+#     You should see a concise JSON object like `{"Australian Capital Territory": 1.13, "National": 0.36, ...}`.
+
+# 3.  **Test State Timeseries Endpoint (Get Line Chart Data for New South Wales)**  
+#     Access: http://127.0.0.1:5000/api/chart/data/New South Wales  
+#     You should see a JSON array with multiple records: `[{"year": 2000, "index_value": 1.0, ...}, {"year": 2001, ...}]`.

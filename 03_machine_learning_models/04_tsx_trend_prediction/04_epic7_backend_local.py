@@ -8,18 +8,18 @@ import geopandas as gpd
 from shapely import wkt
 import json
 
-# --- 初始化 Flask 应用 ---
+# --- Initialize Flask Application ---
 app = Flask(__name__)
-# CORS(app) 允许来自任何源的请求，这在开发中很方便
+# CORS(app) allows requests from any origin, convenient during development
 CORS(app)
 
-# --- 1. 在应用启动时加载和预处理数据 (只执行一次) ---
-# 这样做可以避免每次用户请求都重新读取文件，提高性能
+# --- 1. Load and Preprocess Data at App Startup (Executed Once) ---
+# This avoids reloading files on every user request, improving performance
 try:
     df_tsx = pd.read_csv('Table14_TSX_Table_VIC_version4.csv')
     df_shapes = pd.read_csv('Table15_StateShapeTable.csv')
     
-    # 将 WKT 字符串转换为 geometry 对象
+    # Convert WKT strings to geometry objects
     df_shapes['geometry'] = df_shapes['geometry'].apply(wkt.loads)
     gdf_states = gpd.GeoDataFrame(df_shapes, geometry='geometry')
     
@@ -29,27 +29,27 @@ except FileNotFoundError as e:
     df_tsx = pd.DataFrame()
     gdf_states = gpd.GeoDataFrame()
 
-# --- 2. 创建 API Endpoints (接口) ---
+# --- 2. Create API Endpoints ---
 
 @app.route('/api/map/geojson', methods=['GET'])
 def get_map_base_geojson_endpoint():
     """
-    API Endpoint: 提供地图的 GeoJSON 基础层。
-    前端访问: http://1227.0.0.1:5000/api/map/geojson
+    API Endpoint: Provides GeoJSON base layer for the map.
+    Frontend access: http://127.0.0.1:5000/api/map/geojson
     """
     if gdf_states.empty:
-        # 如果数据加载失败，返回服务器错误
+        # Return server error if data loading failed
         abort(500, description="GeoJSON data not loaded on the server.")
     
-    # geopandas 的 .to_json() 返回的是字符串，我们先用 json.loads 转成 Python 字典/列表
-    # 再用 jsonify 转换成 Flask 的 Response 对象，这样能确保 HTTP Header 正确
+    # geopandas .to_json() returns string, convert to Python dict/list with json.loads
+    # Then use jsonify to ensure proper Flask Response object with correct HTTP Headers
     return jsonify(json.loads(gdf_states.to_json()))
 
 @app.route('/api/map/data/<int:year>', methods=['GET'])
 def get_choropleth_data_for_year_endpoint(year):
     """
-    API Endpoint: 根据年份获取 Choropleth Map 的数据。
-    前端访问示例: http://127.0.0.1:5000/api/map/data/2010
+    API Endpoint: Gets Choropleth Map data for a specific year.
+    Frontend example: http://127.0.0.1:5000/api/map/data/2010
     """
     if df_tsx.empty:
         abort(500, description="TSX data not loaded on the server.")
@@ -64,8 +64,8 @@ def get_choropleth_data_for_year_endpoint(year):
 @app.route('/api/chart/data/<string:state>', methods=['GET'])
 def get_state_timeseries_data_endpoint(state):
     """
-    API Endpoint: 根据州名获取折线图的时间序列数据。
-    前端访问示例: http://127.0.0.1:5000/api/chart/data/Victoria
+    API Endpoint: Gets timeseries data for line charts by state name.
+    Frontend example: http://127.0.0.1:5000/api/chart/data/Victoria
     """
     if df_tsx.empty:
         abort(500, description="TSX data not loaded on the server.")
@@ -77,23 +77,27 @@ def get_state_timeseries_data_endpoint(state):
     result = json.loads(state_data.to_json(orient='records'))
     return jsonify(result)
 
-# --- 3. 运行服务器 ---
+# --- 3. Run the Server ---
 if __name__ == '__main__':
-    # debug=True 会让服务器在代码改变后自动重启，方便开发
+    # debug=True enables auto-restart on code changes during development
     app.run(debug=True, port=5000)
 
 
 
 # python .\04_epic7_backend_local.py
 
-# 1. 测试 GeoJSON 接口 (获取地图边界)
-# 访问: http://127.0.0.1:5000/api/map/geojson
-# 你应该会看到满屏的文本，以 {"features": [{"geometry": ... 开头。这就是地图的 GeoJSON 数据。
 
-# 2. 测试年份数据接口 (获取2022年的地图颜色数据)
-# 访问: http://127.0.0.1:5000/api/map/data/2022
-# 你应该会看到一个简洁的 JSON 对象，类似 {"Australian Capital Territory": 1.13, "National": 0.36, ...}。
 
-# 3. 测试州时间序列接口 (获取新南威尔士州的折线图数据)
-# 访问: http://127.0.0.1:5000/api/chart/data/New South Wales
-# 你应该会看到一个包含多条记录的 JSON 数组，[{"year": 2000, "index_value": 1.0, ...}, {"year": 2001, ...}]。
+# Instructions for Testing the Backend API
+
+# 1.  **Test GeoJSON Endpoint (Get Map Boundaries)**  
+#     Access: http://127.0.0.1:5000/api/map/geojson  
+#     You should see a screen full of text starting with `{"features": [{"geometry": ...`. This is the GeoJSON data for the map.
+
+# 2.  **Test Year Data Endpoint (Get Color Data for 2022 Map)**  
+#     Access: http://127.0.0.1:5000/api/map/data/2022  
+#     You should see a concise JSON object like `{"Australian Capital Territory": 1.13, "National": 0.36, ...}`.
+
+# 3.  **Test State Timeseries Endpoint (Get Line Chart Data for New South Wales)**  
+#     Access: http://127.0.0.1:5000/api/chart/data/New South Wales  
+#     You should see a JSON array with multiple records: `[{"year": 2000, "index_value": 1.0, ...}, {"year": 2001, ...}]`.
