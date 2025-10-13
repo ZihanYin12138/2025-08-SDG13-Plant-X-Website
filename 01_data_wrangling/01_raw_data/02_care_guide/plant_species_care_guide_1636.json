@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2851,
+      "species_id": 1636,
+      "common_name": "blue sedge",
+      "scientific_name": [
+        "Carex flacca 'Blue Zinger'"
+      ],
+      "section": [
+        {
+          "id": 8759,
+          "type": "watering",
+          "description": "Blue sedge should be watered once a week, using enough water to moisten the soil to a depth of 6-8 inches. Avoid flooding the soil, and do not allow it to dry out between watering. During periods of hotter and drier weather, increase watering frequency slightly. Make sure the soil never becomes soggy or waterlogged."
+        },
+        {
+          "id": 8760,
+          "type": "sunlight",
+          "description": "Blue sedge (Carex flacca 'Blue Zinger') needs a minimum of 6 hours of sunlight per day, but prefers 8 hours or more. It is not suitable for full shade, as it will not reach its full potential with less than 6 hours of sun. Additionally, it is best to provide your Blue sedge with as much direct sunlight as possible. Early morning or late afternoon sun is ideal, but midday sun is ok too. During the summer months, Blue sedge will benefit from sun exposure for longer periods, helping to bring out the vibrant blues in its foliage."
+        },
+        {
+          "id": 8761,
+          "type": "pruning",
+          "description": "Blue sedge, also known as Carex flacca 'Blue Zinger', should be pruned back in late winter or early spring, before new growth begins. Pruning should be done lightly to remove any dead, dying or diseased stems while avoiding cutting away any green growth at this time. In midsummer, after blooming, it may be necessary to do more extensive pruning, such as thinning the stems to promote new foliage growth and prevent overcrowding. If needed, lightly trim the plant to maintain its attractive form, but avoid cutting back too severely."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

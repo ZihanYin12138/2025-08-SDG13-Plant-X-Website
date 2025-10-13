@@ -1,7 +1,4 @@
 // src/api/plantrcmd.js
-// GET /plant_recommendation?lat=..&lon=..
-// 返回中可能字段名不同，这里统一归一到 recommended_plant_ids
-
 const BASE_URL =
   'https://ky21h193r2.execute-api.us-east-1.amazonaws.com/plantx/plant_recommendation'
 
@@ -17,7 +14,7 @@ function normalizeIds(json = {}) {
 }
 
 /**
- * GET 推荐植物ID
+ * GET plantID
  * @param {number} lat
  * @param {number} lng
  * @returns {Promise<{ recommended_plant_ids: number[] } & any>}

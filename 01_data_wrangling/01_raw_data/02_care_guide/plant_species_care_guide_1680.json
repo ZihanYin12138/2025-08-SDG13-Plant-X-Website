@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2888,
+      "species_id": 1680,
+      "common_name": "bush anemone",
+      "scientific_name": [
+        "Carpenteria californica 'Elizabeth'"
+      ],
+      "section": [
+        {
+          "id": 8870,
+          "type": "watering",
+          "description": "The bush anemone (Carpenteria californica 'Elizabeth') is a drought-tolerant evergreen shrub. This plant prefers well-drained soil and does best in a sunny spot with a little afternoon shade. It will not tolerate frequent or standing water.\n\nFor optimal growth, water the bush anemone deeply and regularly but not excessively. Water the plant every 3 to 4 days during the summer months, and about once a week during the winter months. Make sure you check the soil and follow the watering schedule of the area in which you live as soil and climate can greatly affect water needs. If the soil is dry to a depth of 1-2 inches, it is time to water.\n\nTo ensure healthy growth, mulch the area around the plant to help prevent water from evaporating. As well, avoid getting the foliage of the plant wet as this can lead to fungal diseases."
+        },
+        {
+          "id": 8871,
+          "type": "sunlight",
+          "description": "Bush anemone (Carpenteria californica 'Elizabeth') thrives in full sun or partial shade. When planted in full sun, 6 to 8 hours of direct sunlight each day is ideal. When planted in partial shade, 3 to 4 hours of direct sunlight each day is best. In general, morning sunlight is preferred over afternoon sunlight, as prolonged direct afternoon sunlight can lead to leaf scorch or sunburn on the plant."
+        },
+        {
+          "id": 8872,
+          "type": "pruning",
+          "description": "The bush anemone (Carpenteria californica 'Elizabeth') should be pruned once each year in late winter just ahead of the new spring growth. Pruning should be done to lightly shape the plant and reduce its size, as it can become quite large. Long and straggly branches should be shortened to maintain the desired shape, and dead and diseased branches should be removed. Pruning should be done carefully to avoid damage to the plant; each cut should be made just above a bud to ensure healthy new growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

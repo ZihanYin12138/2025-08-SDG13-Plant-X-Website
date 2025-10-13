@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2844,
+      "species_id": 1625,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex comans 'Frosted Curls'"
+      ],
+      "section": [
+        {
+          "id": 8738,
+          "type": "watering",
+          "description": "Sedge (Carex comans 'Frosted Curls') should be watered deeply every 5 to 7 days, depending on the weather conditions and the soil's moisture level. Be sure to provide enough water to thoroughly wet the soil but avoid saturating the soil for extended periods of time. If the soil is already moist, you may not need to water this species for up to 2 weeks."
+        },
+        {
+          "id": 8739,
+          "type": "sunlight",
+          "description": "Carex comans 'Frosted Curls' is a shade loving, drought tolerant sedge suitable for climates with cool summers, and needs bright filtered light to maintain its vibrant foliage. It doesn't require direct sunlight, but an hour a day of morning sun can boost its growth and color. Plants should receive a few hours of sunlight every day, preferably with morning sun and afternoon shade. However, during hot summer months, they will need full shade in order to avoid sunburn. Carex comans 'Frosted Curls' should also receive some indirect light for the balance of the day, for a total of 6 to 8 hours of light a day."
+        },
+        {
+          "id": 8740,
+          "type": "pruning",
+          "description": "Sedge (Carex comans 'Frosted Curls') is a slow-growing species that requires minimal pruning. Pruning of this type of sedge should only be done occasionally and selectively to remove old, dead growth in the spring. Begin pruning by removing the brown, dead leaves at the crown, then move outward, selectively cutting off any sections that have died or faded. Remove dead or worn-out foliage completely from the plant. Avoid over-pruning this sedge, as this may cause it to thin out or reduce the amount of foliage and foliage density."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

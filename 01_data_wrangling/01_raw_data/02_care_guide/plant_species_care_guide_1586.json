@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2815,
+      "species_id": 1586,
+      "common_name": "trumpet creeper",
+      "scientific_name": [
+        "Campsis tagliabuana 'Madame Galen'"
+      ],
+      "section": [
+        {
+          "id": 8651,
+          "type": "watering",
+          "description": "Trumpet creeper (Campsis tagliabuana 'Madame Galen') should be watered regularly during the growing season, typically spring through fall. Water deeply enough that the soil is moist throughout the entire root system. During hot and dry days you may need to water more frequently, and on rainy days you may need to water less. In the winter, water sparingly so that the soil is not constantly saturated. Over-watering can cause root rot, so it's important to pay close attention to the moisture levels of the soil."
+        },
+        {
+          "id": 8652,
+          "type": "sunlight",
+          "description": "Trumpet creeper (Campsis tagliabuana 'Madame Galen') grows best in full sun, which means at least 6-8 hours of direct sunlight per day. The optimal placement for this plant is facing south, which will provide the brightest and most direct sunlight throughout the day. It can also tolerate partial shade, which means 3-6 hours of sunlight per day, but it will not grow and flower as well. For best results, provide trumpet creeper with 6-8 hours of direct sunlight per day."
+        },
+        {
+          "id": 8653,
+          "type": "pruning",
+          "description": "Trumpet Creeper (Campsis tagliabuana 'Madame Galen') should be pruned in the early spring, once there is no sign of frost. Pruning should be done to remove any dead or damaged wood as well as to shape the plant as needed. Pruning should also be done to increase the air circulation, which can help prevent possible disease. When removing dead or damaged branches, make sure not to remove more than 1-third of the total branches. Avoid pruning too deeply, as this can cause the plant to become stunted and reduce the amount of blooms it produces."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

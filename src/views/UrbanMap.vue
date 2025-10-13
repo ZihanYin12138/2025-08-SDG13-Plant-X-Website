@@ -1,100 +1,108 @@
 <template>
+  <div class="container">
+    <h2>Discover Urban Trees and Plants Near You</h2>
+    <p>Explore Australia’s urban greenery on an interactive map.
+    <br>Use your location—or pick a place—to see local species. Search any plant to highlight where it grows nearby.</p>
+    </div>
+
   <div class="urban-map-container">
-    <!-- 搜索 -->
+    <!-- top tool bar -->
     <div class="top-toolbar" role="search" aria-label="Tree search toolbar">
       <div class="toolbar-row">
         <div class="search-input-group">
-          <input v-model="searchQuery" type="text"
-            placeholder="Search tree names or enter coordinates (e.g.: -37.81793,144.96478)" class="search-input"
-            :class="{ 'error': searchError }" @keyup.enter="performSearch" @input="clearError" @keydown.esc="clearAll"
-            aria-label="Search trees by text or coordinates" />
+          <input
+            v-model="searchQuery"
+            type="text"
+            placeholder="Search for a tree name or Input coordinates（e.g：-37.81793,144.96478）"
+            class="search-input"
+            :class="{ 'error': searchError }"
+            @keyup.enter="performSearch"
+            @input="clearError"
+            @keydown.esc="clearAll"
+            aria-label="Search trees by text or coordinates"
+          />
           <button @click="performSearch" class="search-btn" aria-label="Search">Search</button>
           <button v-if="searchQuery" @click="clearAll" class="clear-btn" aria-label="Clear search">×</button>
         </div>
 
         <div class="toolbar-actions">
           <div class="radius-control compact" aria-label="Search radius (meters)">
-            <label>Radius: <strong>{{ radius }}m</strong></label>
-            <input v-model.number="radius" type="range" min="50" max="1000" step="50" class="radius-slider"
-              @input="onRadiusChange" />
+            <label>
+              Radius:
+              <strong>{{ radius }}m</strong>
+              <span v-if="loading || radiusLocked" style="margin-left:6px; font-weight:400; opacity:.8">（Loading…）</span>
+            </label>
+            <input
+              v-model.number="radius"
+              type="range"
+              min="50" max="1000" step="50"
+              class="radius-slider"
+              @input="onRadiusChange"
+              :disabled="loading || radiusLocked"
+              :aria-disabled="loading || radiusLocked"
+            />
           </div>
-          <!-- <button class="geo-btn" @click="useMyLocation" aria-label="Use my location">Use my location</button> -->
         </div>
       </div>
 
-      <!-- Hint & Error Chips -->
       <div class="feedback">
-        <!-- <span v-if="searchType === 'coordinates'" class="chip chip-green">📍 Coordinates</span>
-        <span v-else-if="searchType === 'text'" class="chip chip-blue">🔍 Text</span> -->
         <span v-if="searchError" class="chip chip-error">⚠️ {{ searchError }}</span>
       </div>
     </div>
 
-    <!-- Map Container -->
+    <!-- map -->
     <div ref="mapContainer" class="map-container">
-      <!-- Legend (保留为地图上的浮层) -->
+      <!-- Legend -->
       <div class="legend">
         <h4>Maturity Legend</h4>
-        <div class="legend-item">
-          <span class="legend-color juvenile"></span>
-          <span>Juvenile</span>
-        </div>
-        <div class="legend-item">
-          <span class="legend-color semi-mature"></span>
-          <span>Semi-Mature</span>
-        </div>
-        <div class="legend-item">
-          <span class="legend-color mature"></span>
-          <span>Mature</span>
-        </div>
-        <div class="legend-item">
-          <span class="legend-color unknown"></span>
-          <span>Unknown</span>
-        </div>
+        <div class="legend-item"><span class="legend-color juvenile"></span><span>Juvenile</span></div>
+        <div class="legend-item"><span class="legend-color semi-mature"></span><span>Semi-Mature</span></div>
+        <div class="legend-item"><span class="legend-color mature"></span><span>Mature</span></div>
+        <div class="legend-item"><span class="legend-color unknown"></span><span>Unknown</span></div>
       </div>
 
-      <!-- Trees List (保持为地图上的侧栏浮层) -->
-      <div class="trees-sidebar" v-if="trees.length > 0" ref="sidebarEl" @click.stop @mousedown.stop @dblclick.stop
-        @contextmenu.stop @touchstart.stop>
+      <!-- Results Sidebar -->
+      <div
+        class="trees-sidebar"
+        v-if="trees.length > 0"
+        ref="sidebarEl"
+        @click.stop @mousedown.stop @dblclick.stop
+        @contextmenu.stop @touchstart.stop
+      >
         <div class="sidebar-header">
           <h3>Found {{ trees.length }} trees</h3>
           <button @click="closeSidebar" class="close-btn" aria-label="Close sidebar">×</button>
         </div>
 
-        <!-- 阻断滚轮向地图冒泡，确保侧栏可用滚轮下滑 -->
         <div class="trees-list" @wheel.stop @touchmove.stop ref="treesListEl">
-          <div v-for="tree in trees" :key="tree.com_id" class="tree-card"
-            :class="{ active: selectedTreeId === tree.com_id }" @click="selectTree(tree, 'card')"
-            @mouseenter="hoverTree(tree)" @mouseleave="unhoverTree(tree)" :ref="el => setCardRef(el, tree.com_id)">
+          <div
+            v-for="tree in trees"
+            :key="tree.com_id"
+            class="tree-card"
+            :class="{ active: selectedTreeId === tree.com_id }"
+            @click="selectTree(tree, 'card')"
+            @mouseenter="hoverTree(tree)"
+            @mouseleave="unhoverTree(tree)"
+            :ref="el => setCardRef(el, tree.com_id)"
+          >
             <div class="tree-info">
               <h4>{{ tree.common_name || 'Unknown Tree' }}</h4>
               <p class="scientific-name">{{ tree.scientific_name }}</p>
               <div class="tree-details">
-                <span class="maturity" :class="tree.maturity_std?.toLowerCase()">
-                  {{ tree.maturity_std || 'Unknown' }}
-                </span>
+                <span class="maturity" :class="tree.maturity_std?.toLowerCase()">{{ tree.maturity_std || 'Unknown' }}</span>
                 <span class="distance">{{ tree.distance }}m</span>
               </div>
               <div class="tree-extra-info">
-                <div class="info-row">
-                  <span class="label">Family:</span>
-                  <span class="value">{{ tree.family }}</span>
-                </div>
-                <div class="info-row" v-if="tree.age">
-                  <span class="label">Age:</span>
-                  <span class="value">{{ tree.age }} years</span>
-                </div>
-                <div class="info-row" v-if="tree.located_in">
-                  <span class="label">Location:</span>
-                  <span class="value">{{ tree.located_in }}</span>
-                </div>
+                <div class="info-row"><span class="label">Family:</span><span class="value">{{ tree.family }}</span></div>
+                <div class="info-row" v-if="tree.age"><span class="label">Age:</span><span class="value">{{ tree.age }} years</span></div>
+                <div class="info-row" v-if="tree.located_in"><span class="label">Location:</span><span class="value">{{ tree.located_in }}</span></div>
               </div>
             </div>
           </div>
         </div>
       </div>
 
-      <!-- Loading State -->
+      <!-- Loading -->
       <div v-if="loading" class="loading-overlay" aria-live="polite">
         <div class="spinner"></div>
         <p>Searching for trees...</p>
@@ -109,7 +117,6 @@ import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import { searchTrees } from '@/api/trees'
 
-// 修复Leaflet默认图标问题
 delete L.Icon.Default.prototype._getIconUrl
 L.Icon.Default.mergeOptions({
   iconRetinaUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-icon-2x.png',
@@ -126,45 +133,43 @@ export default {
     const markers = ref(null)
     const circleLayer = ref(null)
     const centerMarkerRef = ref(null)
+    const boundsRect = ref(null)
+    const maskLayer = ref(null)
     const sidebarEl = ref(null)
     const treesListEl = ref(null)
 
-    // 读取 :root CSS 变量（支持暗/亮主题切换）
+    // Reading the :root CSS variable
     function cssVar(name, fallback = '') {
       const v = getComputedStyle(document.documentElement).getPropertyValue(name).trim()
       return v || fallback
     }
 
-    // Reactive data
+    // CBD Boundary
+    const CBD_SW = L.latLng(-37.8511, 144.8999)
+    const CBD_NE = L.latLng(-37.7759, 144.9911)
+    const melbMetroBounds = L.latLngBounds(CBD_SW, CBD_NE)
+
+    // Inverse NW/SE (for masking)
+    const CBD_NW = L.latLng(CBD_NE.lat, CBD_SW.lng)
+    const CBD_SE = L.latLng(CBD_SW.lat, CBD_NE.lng)
+
+    // Responsive Data
     const trees = ref([])
     const loading = ref(false)
     const searchQuery = ref('')
     const radius = ref(150)
+    const radiusLocked = ref(false)
     const selectedTreeId = ref('')
-    const currentCenter = ref([-37.81793, 144.96478])  // 初始中心：CBD
+    const currentCenter = ref([melbMetroBounds.getCenter().lat, melbMetroBounds.getCenter().lng])
     const searchError = ref('')
-    const searchType = ref('') // 'coordinates' or 'text'
+    const searchType = ref('')
 
-    // Melbourne Metropolitan bounds（近似包络）
-    const melbMetroBounds = L.latLngBounds(
-      L.latLng(-38.35, 144.25),  // SW
-      L.latLng(-37.35, 145.65)   // NE
-    )
+    const maturityColors = { 'Juvenile': '#5C8E2F', 'Semi-Mature': '#A6A43A', 'Mature': '#F3A24A', 'Unknown': '#777777' }
 
-    // Maturity color mapping
-    const maturityColors = {
-      'Juvenile': '#5C8E2F',
-      'Semi-Mature': '#A6A43A',
-      'Mature': '#F3A24A',
-      'Unknown': '#777777'
-    }
+    const markerIndex = ref(new Map())
+    const cardRefs = ref(Object.create(null))
+    const pulseLayer = ref(null)
 
-    // 索引
-    const markerIndex = ref(new Map())        // com_id -> marker
-    const cardRefs = ref(Object.create(null)) // com_id -> card element
-    const pulseLayer = ref(null)              // 临时脉冲圈
-
-    // 供 v-for 回调 ref 使用
     function setCardRef(el, id) {
       const key = String(id)
       if (el) cardRefs.value[key] = el
@@ -176,7 +181,7 @@ export default {
 
     function parseCoordinates(input) {
       if (!input || typeof input !== 'string') return null
-      const cleaned = input.trim()
+      const cleaned = input.trim().replace(/[()\[\]]/g, '')
       const separators = [',', ' ', ';', '\t']
       let parts = null
       for (const sep of separators) {
@@ -188,11 +193,21 @@ export default {
       if (!parts || parts.length !== 2) return null
       const lat = parseFloat(parts[0])
       const lng = parseFloat(parts[1])
-      if (isNaN(lat) || isNaN(lng)) return null
+      if (Number.isNaN(lat) || Number.isNaN(lng)) return null
       if (lat < -90 || lat > 90) return null
       if (lng < -180 || lng > 180) return null
       return { lat, lng }
     }
+
+    // Simple debounce
+    let _t = null
+    function debounce(fn, ms = 300) {
+      return (...args) => {
+        clearTimeout(_t)
+        _t = setTimeout(() => fn(...args), ms)
+      }
+    }
+    const debouncedSearch = debounce(() => performSearch(), 300)
 
     onMounted(async () => {
       initMap()
@@ -205,7 +220,6 @@ export default {
     function initMap() {
       if (!mapContainer.value) return
 
-      // Create map with Melbourne bounds & viscosity
       map.value = L.map(mapContainer.value, {
         zoomControl: true,
         minZoom: 9,
@@ -216,21 +230,43 @@ export default {
         worldCopyJump: false
       })
 
-      // 初次视野：适配全市，再聚焦到CBD
-      map.value.fitBounds(melbMetroBounds, { padding: [20, 20] })
-      map.value.setView(currentCenter.value, 12)
+      // Initial vision: Adapting to CBD
+      map.value.fitBounds(melbMetroBounds, { padding: [10, 10] })
+      map.value.setView(currentCenter.value, 15)
 
-      // Tile layer
+      // basemap
       L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        attribution: '&copy; OpenStreetMap &copy; CARTO',
         subdomains: 'abcd',
         maxZoom: 20
       }).addTo(map.value)
 
-      // Marker group
+      // Range rectangle (visual cue)
+      boundsRect.value = L.rectangle(melbMetroBounds, {
+        color: cssVar('--brand', '#2cb67d'),
+        weight: 2,
+        dashArray: '8,6',
+        fill: false
+      }).addTo(map.value)
+
+      // Lightly mask outside the frame to highlight "only available inside the frame"
+      const outer = [[-90,-180],[-90,180],[90,180],[90,-180]]
+      const inner = [
+        [CBD_SW.lat, CBD_SW.lng],
+        [CBD_NW.lat, CBD_NW.lng],
+        [CBD_NE.lat, CBD_NE.lng],
+        [CBD_SE.lat, CBD_SE.lng]
+      ]
+      maskLayer.value = L.polygon([outer, inner], {
+        stroke: false,
+        fillOpacity: 0.06,
+        interactive: false
+      }).addTo(map.value)
+
+      // Layer Group
       markers.value = L.layerGroup().addTo(map.value)
 
-      // Center marker
+      // Center Mark
       centerMarkerRef.value = L.marker(currentCenter.value, {
         icon: L.divIcon({
           className: 'center-marker',
@@ -241,22 +277,25 @@ export default {
       }).addTo(map.value)
       centerMarkerRef.value.bindPopup('Search Center')
 
-      // Search circle
       updateSearchCircle()
 
-      // Map click → 更新中心并搜索（对浮层点击做兜底过滤）
       map.value.on('click', (e) => {
         const t = e.originalEvent?.target
         const hitOverlay = t?.closest?.('.trees-sidebar, .legend, .leaflet-control, .top-toolbar, .map-controls')
         if (hitOverlay) return
 
+        const ll = L.latLng(e.latlng.lat, e.latlng.lng)
+        if (!melbMetroBounds.contains(ll)) {
+          searchError.value = 'Area Unavaliable（Try Melbourne CBD area）'
+          return
+        }
+
         currentCenter.value = [e.latlng.lat, e.latlng.lng]
         emit('map-click', { lat: e.latlng.lat, lon: e.latlng.lng, time: new Date().toLocaleTimeString() })
         updateSearchCircle()
-        performSearch()
+        debouncedSearch()
       })
 
-      // 初始搜索
       setTimeout(() => performSearch(), 300)
     }
 
@@ -297,27 +336,33 @@ export default {
       searchError.value = ''
       searchType.value = ''
       loading.value = true
-      trees.value = []
-      selectedTreeId.value = ''
-      markerIndex.value.clear()
-      markers.value?.clearLayers()
 
       try {
+        trees.value = []
+        selectedTreeId.value = ''
+        markerIndex.value.clear()
+        markers.value?.clearLayers()
+
         const coordinates = parseCoordinates(searchQuery.value)
 
         if (!searchQuery.value.trim()) {
           searchType.value = 'location'
         } else if (coordinates) {
           searchType.value = 'coordinates'
+          const ll = L.latLng(coordinates.lat, coordinates.lng)
+          if (!melbMetroBounds.contains(ll)) {
+            searchError.value = 'Area Unavaliable（Try Melbourne CBD area）'
+            return
+          }
           currentCenter.value = [coordinates.lat, coordinates.lng]
           if (map.value) map.value.setView(currentCenter.value, Math.max(map.value.getZoom(), 14))
           updateSearchCircle()
-          searchQuery.value = '' // 坐标模式后清空文本框
+          searchQuery.value = ''
         } else {
           const hasNumbers = /\d/.test(searchQuery.value)
           const hasComma = searchQuery.value.includes(',')
           if (hasNumbers && hasComma) {
-            searchError.value = 'Invalid coordinate format, please use: latitude,longitude (e.g.: -37.81793,144.96478)'
+            searchError.value = 'The coordinate format is invalid, please use: latitude, longitude (e.g.: -37.81793,144.96478)'
             return
           }
           searchType.value = 'text'
@@ -342,13 +387,14 @@ export default {
           await nextTick()
           armOverlayEventGuards()
         } else {
-          searchError.value = 'Search failed, please check input or try again later'
+          searchError.value = 'Search failed, please check your input or try again later'
         }
       } catch (err) {
         console.error('Error searching for trees:', err)
-        searchError.value = 'An error occurred during search, please try again later'
+        searchError.value = 'Search error, please try again later'
       } finally {
         loading.value = false
+        radiusLocked.value = false
       }
     }
 
@@ -367,9 +413,7 @@ export default {
           fillOpacity: 0.9
         })
 
-        // 点击 marker：偏移避开侧栏 + 滚动侧栏卡片居中
         marker.on('click', () => selectTree(tree, 'marker'))
-
         marker.on('mouseover', () => marker.setStyle({ weight: 4 }))
         marker.on('mouseout', () => {
           if (selectedTreeId.value !== tree.com_id) marker.setStyle({ weight: 2 })
@@ -392,7 +436,7 @@ export default {
       })
     }
 
-    // 视图偏移：让选中点避开右侧侧栏（用于 marker 点击）
+    // View offset: Make the selected point avoid the right sidebar (for marker click)
     function panToWithSidebarOffset(latlng) {
       const m = map.value
       if (!m) return
@@ -404,15 +448,14 @@ export default {
       m.setView(m.unproject(pOffset, zoom), zoom, { animate: true })
     }
 
-    // 视图居中（用于卡片点击）
+    // Center the view (for card clicks)
     function panToCenter(latlng) {
       const m = map.value
       if (!m) return
-      const zoom = Math.max(m.getZoom(), 18)
+      const zoom = Math.max(m.getZoom(), 17)
       m.setView(latlng, zoom, { animate: true })
     }
 
-    // 将对应卡片滚动到侧栏中间（仅 marker 点击时使用）
     function scrollCardIntoView(comId) {
       const el = cardRefs.value[String(comId)]
       if (!el) return
@@ -428,7 +471,6 @@ export default {
       list.scrollBy({ top: delta, behavior: 'smooth' })
     }
 
-    // 高亮 marker + 打开 popup + 轻量脉冲
     function highlightMarker(marker, latlng) {
       const brand = cssVar('--brand', '#2cb67d')
 
@@ -470,13 +512,11 @@ export default {
         if (source === 'marker') {
           panToWithSidebarOffset(latlng)
           await nextTick()
-          scrollCardIntoView(tree.com_id)  // 仅 marker 点击时滚动侧栏
+          scrollCardIntoView(tree.com_id)
         } else {
-          panToCenter(latlng)              // 卡片点击：让 Popup 到地图正中
-          // 不滚动侧栏
+          panToCenter(latlng)
         }
       } else {
-        // 兜底：无索引时按经纬度匹配
         markers.value?.eachLayer((layer) => {
           if (layer instanceof L.CircleMarker) {
             const ll = layer.getLatLng()
@@ -506,9 +546,12 @@ export default {
       if (marker && selectedTreeId.value !== tree.com_id) marker.setStyle({ weight: 2 })
     }
 
+    // Unlock until data loading is complete
     function onRadiusChange() {
+      if (loading.value || radiusLocked.value) return
+      radiusLocked.value = true
       updateSearchCircle()
-      performSearch()
+      debouncedSearch()
     }
 
     function closeSidebar() {
@@ -531,7 +574,7 @@ export default {
             updateSearchCircle()
             performSearch()
           } else {
-            searchError.value = 'Your location is outside the Melbourne metropolitan area'
+            searchError.value = 'Your location is outside the Melbourne CBD allowed box'
           }
         },
         () => { searchError.value = 'Unable to access location' },
@@ -556,26 +599,13 @@ export default {
 
     return {
       mapContainer,
-      trees,
-      loading,
-      searchQuery,
-      radius,
-      selectedTreeId,
-      searchError,
-      searchType,
-      performSearch,
-      onRadiusChange,
-      closeSidebar,
-      setCenter,
-      clearError,
-      clearAll,
-      useMyLocation,
-      sidebarEl,
-      treesListEl,
-      selectTree,
-      hoverTree,
-      unhoverTree,
-      setCardRef
+      trees, loading,
+      searchQuery, radius, radiusLocked, selectedTreeId,
+      searchError, searchType,
+      performSearch, onRadiusChange, closeSidebar, setCenter,
+      clearError, clearAll, useMyLocation,
+      sidebarEl, treesListEl,
+      selectTree, hoverTree, unhoverTree, setCardRef
     }
   }
 }
@@ -635,10 +665,7 @@ export default {
   max-width: 500px;
 }
 
-.search-input:focus-visible {
-  outline: var(--ring);
-  outline-offset: 2px;
-}
+.search-input:focus-visible { outline: var(--ring); outline-offset: 2px; }
 
 .search-input.error {
   border-color: color-mix(in oklab, #dc3545 70%, var(--border));
@@ -656,14 +683,8 @@ export default {
   transition: transform .05s ease-in-out, box-shadow .2s, background .15s;
   box-shadow: var(--shadow-sm);
 }
-
-.search-btn:hover {
-  background: var(--brand-strong);
-}
-
-.search-btn:active {
-  transform: translateY(1px);
-}
+.search-btn:hover { background: var(--brand-strong); }
+.search-btn:active { transform: translateY(1px); }
 
 .clear-btn {
   padding: 8px 12px;
@@ -675,389 +696,98 @@ export default {
   font-size: 16px;
   line-height: 1;
 }
+.clear-btn:hover { background: var(--hover); }
 
-.clear-btn:hover {
-  background: var(--hover);
-}
+.toolbar-actions { display: flex; gap: 12px; align-items: center; }
 
-.toolbar-actions {
-  display: flex;
-  gap: 12px;
-  align-items: center;
-}
+.radius-control { display: flex; flex-direction: column; gap: 6px; }
+.radius-control label { font-size: 12px; color: var(--muted); }
+.radius-control.compact { min-width: 270px; }
+.radius-slider { width: 100%; accent-color: var(--brand); }
+.radius-slider:disabled { opacity: .6; cursor: not-allowed; }
 
-.radius-control {
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-}
-
-.radius-control label {
-  font-size: 12px;
-  color: var(--muted);
-}
-
-.radius-control.compact {
-  min-width: 270px;
-}
-
-.radius-slider {
-  width: 100%;
-  accent-color: var(--brand);
-}
-
-.geo-btn {
-  padding: 10px 12px;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  cursor: pointer;
-  font-size: 14px;
-  color: var(--fg);
-}
-
-.geo-btn:hover {
-  background: var(--hover);
-}
-
-.feedback {
-  margin-top: 8px;
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-}
-
+.feedback { margin-top: 8px; display: flex; gap: 8px; flex-wrap: wrap; }
 .chip {
-  padding: 4px 8px;
-  font-size: 12px;
-  border-radius: 999px;
-  border: 1px solid var(--border-weak);
-  background: var(--surface);
-  color: var(--fg);
+  padding: 4px 8px; font-size: 12px; border-radius: 999px;
+  border: 1px solid var(--border-weak); background: var(--surface); color: var(--fg);
 }
+.chip-error { background: color-mix(in oklab, #b00020 18%, var(--surface)); color: var(--fg); }
 
-.chip-blue {
-  background: color-mix(in oklab, var(--brand) 12%, var(--surface));
-  color: var(--fg);
-}
-
-.chip-green {
-  background: color-mix(in oklab, var(--brand) 18%, var(--surface));
-  color: var(--fg);
-}
-
-.chip-error {
-  background: color-mix(in oklab, #b00020 18%, var(--surface));
-  color: var(--fg);
-}
-
-.map-container {
-  position: relative;
-  width: 100%;
-  flex: 1;
-}
+.map-container { position: relative; width: 100%; flex: 1; }
 
 .legend {
-  position: absolute;
-  left: 12px;
-  bottom: 12px;
-  z-index: 1000;
-  background: var(--card);
-  color: var(--fg);
-  padding: 10px;
-  border-radius: 8px;
-  box-shadow: var(--shadow-sm);
-  width: 200px;
-  border: 1px solid var(--border);
+  position: absolute; left: 12px; bottom: 12px; z-index: 1000;
+  background: var(--card); color: var(--fg); padding: 10px; border-radius: 8px;
+  box-shadow: var(--shadow-sm); width: 200px; border: 1px solid var(--border);
 }
-
-.legend h4 {
-  margin: 0 0 8px 0;
-  font-size: 14px;
-  color: var(--fg);
-}
-
-.legend-item {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  margin-bottom: 4px;
-  font-size: 12px;
-}
-
-.legend-color {
-  width: 12px;
-  height: 12px;
-  border-radius: 50%;
-  display: inline-block;
-}
-
-.legend-color.juvenile {
-  background: #5C8E2F;
-}
-
-.legend-color.semi-mature {
-  background: #A6A43A;
-}
-
-.legend-color.mature {
-  background: #F3A24A;
-}
-
-.legend-color.unknown {
-  background: #777777;
-}
+.legend h4 { margin: 0 0 8px 0; font-size: 14px; color: var(--fg); }
+.legend-item { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; font-size: 12px; }
+.legend-color { width: 12px; height: 12px; border-radius: 50%; display: inline-block; }
+.legend-color.juvenile { background: #5C8E2F; }
+.legend-color.semi-mature { background: #A6A43A; }
+.legend-color.mature { background: #F3A24A; }
+.legend-color.unknown { background: #777777; }
 
 .trees-sidebar {
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 260px;
-  height: 100%;
-  background: var(--card);
-  border-left: 1px solid var(--border);
-  z-index: 1000;
-  display: flex;
-  flex-direction: column;
-  color: var(--fg);
+  position: absolute; top: 0; right: 0; width: 260px; height: 100%;
+  background: var(--card); border-left: 1px solid var(--border);
+  z-index: 1000; display: flex; flex-direction: column; color: var(--fg);
 }
-
 .sidebar-header {
-  padding: 14px 12px;
-  border-bottom: 1px solid var(--border-weak);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  padding: 14px 12px; border-bottom: 1px solid var(--border-weak);
+  display: flex; justify-content: space-between; align-items: center;
 }
-
-.sidebar-header h3 {
-  margin: 0;
-  font-size: 16px;
-  color: var(--fg);
-}
-
-.close-btn {
-  background: none;
-  border: none;
-  font-size: 20px;
-  cursor: pointer;
-  color: var(--muted);
-}
-
-.close-btn:hover {
-  color: var(--fg);
-}
+.sidebar-header h3 { margin: 0; font-size: 16px; color: var(--fg); }
+.close-btn { background: none; border: none; font-size: 20px; cursor: pointer; color: var(--muted); }
+.close-btn:hover { color: var(--fg); }
 
 .trees-list {
-  flex: 1;
-  overflow-y: auto;
-  padding: 10px;
-  overscroll-behavior: contain;
-  -webkit-overflow-scrolling: touch;
-  scrollbar-gutter: stable;
+  flex: 1; overflow-y: auto; padding: 10px; overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch; scrollbar-gutter: stable;
 }
 
 .tree-card {
-  padding: 12px;
-  margin-bottom: 8px;
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  cursor: pointer;
-  transition: transform .08s ease, box-shadow .2s, border-color .2s, background .2s;
-  background: var(--card);
-  color: var(--fg);
+  padding: 12px; margin-bottom: 8px; border: 1px solid var(--border); border-radius: 10px;
+  cursor: pointer; transition: transform .08s ease, box-shadow .2s, border-color .2s, background .2s;
+  background: var(--card); color: var(--fg);
 }
+.tree-card:hover { background: var(--surface); border-color: var(--brand); transform: translateY(-1px); }
+.tree-card.active { background: color-mix(in oklab, var(--brand) 14%, var(--surface)); border-color: var(--brand); box-shadow: var(--shadow-sm); }
 
-.tree-card:hover {
-  background: var(--surface);
-  border-color: var(--brand);
-  transform: translateY(-1px);
-}
+.tree-info h4 { margin: 0 0 4px 0; font-size: 14px; color: var(--fg); }
+.scientific-name { margin: 0 0 8px 0; font-size: 12px; color: var(--muted); font-style: italic; }
 
-.tree-card.active {
-  background: color-mix(in oklab, var(--brand) 14%, var(--surface));
-  border-color: var(--brand);
-  box-shadow: var(--shadow-sm);
-}
+.tree-details { display: flex; justify-content: space-between; align-items: center; font-size: 11px; }
+.maturity { padding: 2px 6px; border-radius: 4px; color: #fff; font-weight: 500; }
+.maturity.juvenile { background: #5C8E2F; }
+.maturity.semi-mature { background: #A6A43A; }
+.maturity.mature { background: #F3A24A; }
+.maturity.unknown { background: #777777; }
+.distance { color: var(--muted); }
 
-.tree-info h4 {
-  margin: 0 0 4px 0;
-  font-size: 14px;
-  color: var(--fg);
-}
-
-.scientific-name {
-  margin: 0 0 8px 0;
-  font-size: 12px;
-  color: var(--muted);
-  font-style: italic;
-}
-
-.tree-details {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  font-size: 11px;
-}
-
-.maturity {
-  padding: 2px 6px;
-  border-radius: 4px;
-  color: #fff;
-  font-weight: 500;
-}
-
-.maturity.juvenile {
-  background: #5C8E2F;
-}
-
-.maturity.semi-mature {
-  background: #A6A43A;
-}
-
-.maturity.mature {
-  background: #F3A24A;
-}
-
-.maturity.unknown {
-  background: #777777;
-}
-
-.distance {
-  color: var(--muted);
-}
-
-.tree-extra-info {
-  margin-top: 8px;
-  padding-top: 8px;
-  border-top: 1px solid var(--border-weak);
-}
-
-.info-row {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 4px;
-  font-size: 11px;
-}
-
-.info-row .label {
-  color: var(--muted);
-  font-weight: 500;
-}
-
-.info-row .value {
-  color: var(--fg);
-  text-align: right;
-  max-width: 60%;
-  word-break: break-word;
-}
+.tree-extra-info { margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--border-weak); }
+.info-row { display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 11px; }
+.info-row .label { color: var(--muted); font-weight: 500; }
+.info-row .value { color: var(--fg); text-align: right; max-width: 60%; word-break: break-word; }
 
 .loading-overlay {
-  position: absolute;
-  inset: 0;
-  background: color-mix(in oklab, var(--fg) 6%, transparent);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  z-index: 2000;
-  color: var(--fg);
+  position: absolute; inset: 0; background: color-mix(in oklab, var(--fg) 6%, transparent);
+  display: flex; flex-direction: column; justify-content: center; align-items: center; z-index: 2000; color: var(--fg);
 }
-
 .spinner {
-  width: 40px;
-  height: 40px;
-  border: 4px solid var(--border-weak);
-  border-top: 4px solid var(--brand);
-  border-radius: 50%;
-  animation: spin 1s linear infinite;
+  width: 40px; height: 40px; border: 4px solid var(--border-weak); border-top: 4px solid var(--brand);
+  border-radius: 50%; animation: spin 1s linear infinite;
 }
+@keyframes spin { 0%{ transform: rotate(0deg);} 100%{ transform: rotate(360deg);} }
 
-@keyframes spin {
-  0% {
-    transform: rotate(0deg);
-  }
+:deep(.center-marker-inner) { font-size: 20px; text-align: center; line-height: 1; }
+:deep(.tree-popup) { min-width: 200px; background: var(--card); color: var(--fg); }
+:deep(.tree-popup h4) { margin: 0 0 8px 0; color: var(--fg); }
+:deep(.tree-popup p) { margin: 4px 0; font-size: 12px; color: var(--muted); }
 
-  100% {
-    transform: rotate(360deg);
-  }
-}
-
-:deep(.center-marker-inner) {
-  font-size: 20px;
-  text-align: center;
-  line-height: 1;
-}
-
-:deep(.tree-popup) {
-  min-width: 200px;
-  background: var(--card);
-  color: var(--fg);
-}
-
-:deep(.tree-popup h4) {
-  margin: 0 0 8px 0;
-  color: var(--fg);
-}
-
-:deep(.tree-popup p) {
-  margin: 4px 0;
-  font-size: 12px;
-  color: var(--muted);
-}
-
-
-
-:deep(.leaflet-popup-content-wrapper) {
-  background: var(--card);
-  color: var(--fg);
-  border: 1px solid var(--border);
-  box-shadow: var(--shadow-md);
-  border-radius: 10px;
-}
-
-:deep(.leaflet-popup-content) {
-  margin: 10px 12px;
-  color: var(--fg);
-}
-
-:deep(.leaflet-popup-tip) {
-  background: var(--card);
-  box-shadow: var(--shadow-sm);
-  border: 1px solid var(--border);
-}
-
-:deep(.leaflet-container a.leaflet-popup-close-button) {
-  color: var(--muted);
-  font-weight: 600;
-}
-
-:deep(.leaflet-container a.leaflet-popup-close-button:hover) {
-  color: var(--fg);
-  background: var(--hover);
-  border-radius: 6px;
-}
-
-:deep(.leaflet-popup-content h1),
-:deep(.leaflet-popup-content h2),
-:deep(.leaflet-popup-content h3),
-:deep(.leaflet-popup-content h4) {
-  color: var(--fg);
-  margin-top: 0;
-}
-
-:deep(.leaflet-popup-content p),
-:deep(.leaflet-popup-content li),
-:deep(.leaflet-popup-content span) {
-  color: var(--fg);
-}
-
-:deep(.leaflet-popup-content a) {
-  color: var(--brand-strong);
-  text-decoration: none;
-}
-
-:deep(.leaflet-popup-content a:hover) {
-  text-decoration: underline;
-}
+:deep(.leaflet-popup-content-wrapper) { background: var(--card); color: var(--fg); border: 1px solid var(--border); box-shadow: var(--shadow-md); border-radius: 10px; }
+:deep(.leaflet-popup-content) { margin: 10px 12px; color: var(--fg); }
+:deep(.leaflet-popup-tip) { background: var(--card); box-shadow: var(--shadow-sm); border: 1px solid var(--border); }
+:deep(.leaflet-container a.leaflet-popup-close-button) { color: var(--muted); font-weight: 600; }
+:deep(.leaflet-container a.leaflet-popup-close-button:hover) { color: var(--fg); background: var(--hover); border-radius: 6px; }
 </style>

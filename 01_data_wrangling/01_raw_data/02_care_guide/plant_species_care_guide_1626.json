@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2845,
+      "species_id": 1626,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex conica 'Snowline'"
+      ],
+      "section": [
+        {
+          "id": 8741,
+          "type": "watering",
+          "description": "Sedge (Carex conica 'Snowline') should be watered well and consistently for optimal growth and health. Water about 2 to 3 times per week in the summer when the soil starts to feel dry to the touch, and water more lightly in the winter. As a general rule, it's better to water frequently but lightly throughout the year to prevent the soil from drying out too much. Be sure to avoid saturating the soil or leaving it overly wet, as this can lead to root rot and other issues. If you live in a dry climate, misting the plant occasionally can also be beneficial."
+        },
+        {
+          "id": 8742,
+          "type": "sunlight",
+          "description": "Sedge (Carex conica 'Snowline') is an evergreen plant species that does best in full sunlight throughout the day. It needs at least 6 to 8 hours of direct sun exposure per day in order to thrive and look its best. During the summer months when days are longer, it can receive up to 10 to 12 hours of sunlight. On the other hand, during winter months when days are shorter, at least 6 hours of sunlight should be sufficient. Additionally, a south-facing location will ensure the plant receives enough sunlight throughout the entire year."
+        },
+        {
+          "id": 8743,
+          "type": "pruning",
+          "description": "Sedge (Carex conica 'Snowline') should be pruned in early spring, before new growth appears. The amount of pruning depends on the desired shape and form of the plant. For best results, only remove dead or dormant foliage and old or unsightly foliage. This will encourage new growth without overly stressing the plant. Be sure to prune the foliage off at the base of the plant and avoid cutting too far into the stems. Pruning an old plant too heavily can cause damage and encourage disease."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2878,
+      "species_id": 1670,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex siderosticha 'Lemon Zest'"
+      ],
+      "section": [
+        {
+          "id": 8840,
+          "type": "watering",
+          "description": "Water the Lemon Zest Sedge (Carex siderosticha) when its soil feels dry to the touch, usually every 7-10 days during the growing season. It likes soil that is consistently moist but never soggy, so make sure to check the soil several inches below the surface; if the soil is still wet, hold off on watering. Reduce the frequency to about once every 10-14 days during the winter months."
+        },
+        {
+          "id": 8841,
+          "type": "sunlight",
+          "description": "Sedge (Carex siderosticha 'Lemon Zest') is best suited for full sun to partial shade. It thrives with 6-8 hours of direct sunlight throughout the day and should be placed in an area that receives direct morning and evening sunlight. In warmer climates, such as the southern US, the plant should be shaded in the hottest parts of the day to protect it from scorching and dehydration. During the colder months, the plant may benefit from some extra hours of sunlight to be able to thrive in a more comfortable environment."
+        },
+        {
+          "id": 8842,
+          "type": "pruning",
+          "description": "Sedges (Carex siderosticha 'Lemon Zest') are relatively easy to grow in most garden conditions. Pruning is necessary to keep this plant species looking its best. To help maintain a neat and tidy appearance, remove any damaged or dying leaves and stems in the late Fall and early Spring when they are most visible. Also, trim away any dead foliage to help prevent disease and insect damage. Prune the foliage back a few inches in the Spring to encourage fresh growth and remove the seed heads in the Fall after they have matured to help prevent spread. Avoid pruning back too far as it can damage and weaken the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

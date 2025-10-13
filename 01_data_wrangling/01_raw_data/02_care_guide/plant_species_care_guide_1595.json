@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1061,
+      "species_id": 1595,
+      "common_name": "cayenne pepper",
+      "scientific_name": [
+        "Capsicum annuum"
+      ],
+      "section": [
+        {
+          "id": 3184,
+          "type": "watering",
+          "description": "Water cayenne pepper plants deeply and regularly in order to keep the soil consistently moist but not soggy. On average, these plants will need about 1 inch of water per week. Water the plants in the morning to minimize water loss due to evaporation and try to avoid getting the leaves wet. In the hot summer months, you may need to water more often. You can tell if the plants need more water if the leaves start to droop and the soil begins to pull away from the sides of the pot."
+        },
+        {
+          "id": 3185,
+          "type": "sunlight",
+          "description": "Cayenne pepper (Capsicum annuum) requires at least 6 to 8 hours of direct sunlight each day. When possible, it is best to position the plant to get the full sun all day from at least 10 AM to 6 PM. If you do not have direct sunlight available, it can also handle partial shade for the majority of the day, especially if temperatures are higher than normal. Keeping it in an area that gets morning sunlight is also recommended. In many locations, this can be provided with an East-facing south-facing window."
+        },
+        {
+          "id": 3186,
+          "type": "pruning",
+          "description": "Pruning cayenne pepper (Capsicum annuum) plants is important in order to encourage a healthy, vigorous, and productive plant. Pruning should begin at the beginning of the growing season as soon as new growth appears. Once the plant has 2 or 3 sets of true leaves, tip pruning can be done as needed to remove tips of new growth to encourage bushier growth. As the cayenne pepper plant starts to flower, pinch off the tops of the stems to promote branching, and repeat through the season. When harvesting, cut off the peppers at the stem rather than on the pepper itself to avoid damage to the plant. Pruning is beneficial to cayenne pepper plants and should be done regularly throughout the growing season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

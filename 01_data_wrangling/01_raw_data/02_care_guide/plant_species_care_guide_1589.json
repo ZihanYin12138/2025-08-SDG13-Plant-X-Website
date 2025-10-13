@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2818,
+      "species_id": 1589,
+      "common_name": "canna",
+      "scientific_name": [
+        "Canna 'Australia'"
+      ],
+      "section": [
+        {
+          "id": 8660,
+          "type": "watering",
+          "description": "Canna 'Australia' should be watered on a regular basis. In summer, water at least once a week, or when the top inch of soil is dry. In cooler months, water every 2 weeks. You should water deeply so the water reaches the roots, and make sure not to overwater. It is best to water in the morning; this allows the foliage to dry out in the sun and prevents mildew from developing in damp conditions. Too much water can cause root rot, so make sure the soil is well-draining."
+        },
+        {
+          "id": 8661,
+          "type": "sunlight",
+          "description": "The canna (Canna 'Australia') needs at least 4 hours of direct sunlight per day to grow well. This should be spread throughout the day, with the best times for the plant to receive the sunlight being between mid-morning and mid-afternoon. As this species of plant prefers warm climates, it is important to ensure that during the summer months the plant is shielded from intense afternoon sun unless it is an especially hot day. This plant can also tolerate some shade but only if it is intermittent and should still be exposed to several hours of sunlight each day."
+        },
+        {
+          "id": 8662,
+          "type": "pruning",
+          "description": "Canna 'Australia' should be pruned once a year in late winter or early spring. Remove any dead or diseased leaves and flowers, as well as any foliage that has turned yellow or is overgrown. Cut back any stems that are becoming leggy, as well as old flower stalks, but do not prune too severely, as this may result in fewer blooms. During active growth, you can lightly trim the leaves and flower stalks to keep the plant neat and tidy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

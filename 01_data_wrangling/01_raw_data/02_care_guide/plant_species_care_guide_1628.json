@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2847,
+      "species_id": 1628,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex cristatella"
+      ],
+      "section": [
+        {
+          "id": 8747,
+          "type": "watering",
+          "description": "Sedge (Carex cristatella) should be watered every 7-10 days, depending on the season and the environment. In spring and summer, when the weather is hot, the soil should be kept consistently moist. During this period, it is best to water thoroughly until the soil is saturated. In the cooler months of fall and winter, water when the soil surface is dry to the touch. Keep in mind that the amount of water needed can vary based on the environment and weather."
+        },
+        {
+          "id": 8748,
+          "type": "sunlight",
+          "description": "Sunlight is essential for the health of a sedge plant. Carex cristatella is a clumping perennial that is native to the eastern United States and prefers full sun. It will tolerate partial shade but may become leggy if not given enough sun. The sedge should receive at least 4 hours of direct sunlight per day to achieve optimum health. In areas with hot summers, the plant should be provided with morning sun and afternoon shade to reduce the risk of wilting. For best results, make sure the plant receives direct sunlight for at least 4 to 6 hours per day."
+        },
+        {
+          "id": 8749,
+          "type": "pruning",
+          "description": "For pruning sedge (Carex cristatella), it is best to do so in the springtime, after the plant has begun to grow but before its leaves are fully unfolded. In general, prune out any brown or dead foliage, removing any diseased foliage or stems to reduce the spread of disease. Pruning should involve removing only about 1-third of the oldest stems in a clump, as to not stress out the plant. Additionally, thinning the foliage will help keep the clump looking neat and attractive. When thinning the foliage, it is best to make sure the stems are cut at the same height. Lastly, lightly trim the sides of the plant to make it look neat and tidy."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

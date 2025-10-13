@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2871,
+      "species_id": 1659,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex oshimensis 'Everoro'"
+      ],
+      "section": [
+        {
+          "id": 8819,
+          "type": "watering",
+          "description": "Sedge (Carex oshimensis 'Everoro') should be watered when the top inch of soil in the pot feels dry to the touch. Keep the soil slightly moist, avoiding soggy, water-logged roots. Depending on the environmental conditions and climate, water the plant every 2-3 days or more frequently if needed. Water the plant generously so that a good amount of water comes out of the drainage holes until few drops come out and then discard the rest of the water collected in the saucer."
+        },
+        {
+          "id": 8820,
+          "type": "sunlight",
+          "description": "Sedge (Carex oshimensis 'Everoro') is a low-growing, evergreen plant that thrives in partial shade to full sun. In general, this species requires between 4-6 hours of direct sunlight each day. In areas with a lot of light, this species may require additional protection, such as light shade cloth. In areas with less light, the plant prefers a minimum of 4 hours of direct sunlight each day to ensure proper growth. Additionally, where possible, it should be exposed to morning sun with shade during the warmer hours of the afternoon."
+        },
+        {
+          "id": 8821,
+          "type": "pruning",
+          "description": "Sedge (Carex oshimensis 'Everoro') should be pruned with light pruning in early spring before new growth begins. Pruning should be done with sharp scissors or pruners and focus on removing excess, dead, or damaged foliage to help maintain a neat, attractive shape. Pruning should only remove about 1 third of the foliage and should not be done more than once per year. Pruning more frequently can weaken the plant and result in unhealthy growth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

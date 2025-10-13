@@ -27,7 +27,7 @@ def _resp(status: int, body: Any):
 # ---------- Request parsing (supports API Gateway REST v1 & HTTP v2) ----------
 
 def _extract_req(event: Dict[str, Any]) -> tuple[str, str, Dict[str, str], Dict[str, Any]]:
-    """提取请求方法、路径、查询参数和请求体"""
+    """Extract request method, path, query parameters and request body"""
     rc = event.get("requestContext") or {}
     http_v2 = rc.get("http") or {}
     
@@ -44,29 +44,29 @@ def _extract_req(event: Dict[str, Any]) -> tuple[str, str, Dict[str, str], Dict[
         query_params = event.get("queryStringParameters") or {}
         body = event.get("body", "{}")
     
-    # 调试：打印原始请求体
-    print(f"🔍 原始请求体 (类型: {type(body)}): {body}")
+    # Debug: print raw request body
+    print(f"🔍 Raw request body (type: {type(body)}): {body}")
     
-    # 检查是否需要Base64解码
+    # Check if Base64 decoding is needed
     is_base64_encoded = event.get("isBase64Encoded", False)
     print(f"🔍 isBase64Encoded: {is_base64_encoded}")
     
-    # 处理请求体
+    # Process request body
     if is_base64_encoded and body:
         try:
-            # Base64解码
+            # Base64 decode
             decoded_body = base64.b64decode(body).decode('utf-8')
-            print(f"🔍 Base64解码后: {decoded_body}")
+            print(f"🔍 After Base64 decode: {decoded_body}")
             body = decoded_body
         except Exception as e:
-            print(f"❌ Base64解码失败: {e}")
+            print(f"❌ Base64 decode failed: {e}")
     
-    # 解析JSON请求体
+    # Parse JSON request body
     try:
         parsed_body = json.loads(body) if body else {}
-        print(f"✅ JSON解析成功: {parsed_body}")
+        print(f"✅ JSON parsing successful: {parsed_body}")
     except Exception as e:
-        print(f"❌ JSON解析失败: {e}")
+        print(f"❌ JSON parsing failed: {e}")
         parsed_body = {}
     
     return method, path, query_params, parsed_body
@@ -85,16 +85,16 @@ def _to_float(s: Optional[str], default: float) -> float:
         return default
 
 def _serialize_date(obj):
-    """序列化日期对象为字符串"""
+    """Serialize date objects to strings"""
     if isinstance(obj, (date, datetime)):
         return obj.isoformat()
     return obj
 
-# ---------- 地理空间计算函数 ----------
+# ---------- Geospatial calculation functions ----------
 
 def haversine_distance(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
-    """计算两点间的距离（米）"""
-    R = 6371000  # 地球半径（米）
+    """Calculate distance between two points (meters)"""
+    R = 6371000  # Earth radius (meters)
     
     lat1_rad = math.radians(lat1)
     lat2_rad = math.radians(lat2)
@@ -108,7 +108,7 @@ def haversine_distance(lat1: float, lon1: float, lat2: float, lon2: float) -> fl
     return R * c
 
 def normalize_maturity(age_description: Optional[str]) -> str:
-    """标准化成熟度描述"""
+    """Normalize maturity description"""
     if not age_description:
         return "Unknown"
     
@@ -122,13 +122,13 @@ def normalize_maturity(age_description: Optional[str]) -> str:
     return "Unknown"
 
 def calculate_age(year_planted: Optional[int], reference_year: int = 2025) -> Optional[int]:
-    """计算树木年龄"""
+    """Calculate tree age"""
     if not year_planted or year_planted < 1500 or year_planted > reference_year:
         return None
     return reference_year - year_planted
 
 def jitter_duplicates(trees: List[Dict[str, Any]], step: float = 0.00002) -> List[Dict[str, Any]]:
-    """为相同坐标的树木添加小偏移量，避免标记重叠"""
+    """Add small offset to trees with same coordinates to avoid marker overlap"""
     key_counts = {}
     result = []
     
@@ -143,19 +143,19 @@ def jitter_duplicates(trees: List[Dict[str, Any]], step: float = 0.00002) -> Lis
         if k == 0:
             result.append(tree)
         else:
-            # 添加偏移量
+            # Add offset
             direction = k % 4
             ring = (k // 4) + 1
             offset = ring * step
             
             new_tree = tree.copy()
-            if direction == 0:  # 东
+            if direction == 0:  # East
                 new_tree['longitude'] = lon + offset
-            elif direction == 1:  # 西
+            elif direction == 1:  # West
                 new_tree['longitude'] = lon - offset
-            elif direction == 2:  # 北
+            elif direction == 2:  # North
                 new_tree['latitude'] = lat + offset
-            else:  # 南
+            else:  # South
                 new_tree['latitude'] = lat - offset
             
             result.append(new_tree)
@@ -163,7 +163,7 @@ def jitter_duplicates(trees: List[Dict[str, Any]], step: float = 0.00002) -> Lis
     return result
 
 
-# ---------- 树木搜索SQL ----------
+# ---------- Tree search SQL ----------
 TREE_SEARCH_SQL = """
     SELECT 
         com_id,
@@ -188,7 +188,7 @@ TREE_SEARCH_SQL = """
       AND longitude BETWEEN %s AND %s
 """
 
-# ---------- 树木详情SQL ----------
+# ---------- Tree details SQL ----------
 TREE_DETAIL_SQL = """
     SELECT 
         com_id,
@@ -214,27 +214,27 @@ TREE_DETAIL_SQL = """
 
 
 def test_database_connection() -> Dict[str, Any]:
-    """测试数据库连接和表是否存在"""
+    """Test database connection and whether table exists"""
     try:
-        # 测试基本连接
+        # Test basic connection
         conn = get_connection()
-        print("✅ 数据库连接成功")
+        print("✅ Database connection successful")
         
-        # 检查表是否存在
+        # Check if table exists
         table_check_sql = "SHOW TABLES LIKE 'Table12_UrbanForestTable'"
         tables = fetch_all(table_check_sql)
-        print(f"🔍 表检查结果: {tables}")
+        print(f"🔍 Table check result: {tables}")
         
         if not tables:
             return {"success": False, "error": "Table12_UrbanForestTable not found"}
         
-        # 检查表中的数据量
+        # Check data count in table
         count_sql = "SELECT COUNT(*) as total FROM Table12_UrbanForestTable"
         count_result = fetch_one(count_sql)
         total_count = count_result.get('total', 0) if count_result else 0
-        print(f"📊 表中总记录数: {total_count}")
+        print(f"📊 Total records in table: {total_count}")
         
-        # 检查有坐标的记录数
+        # Check records with coordinates
         coord_count_sql = """
         SELECT COUNT(*) as coord_count 
         FROM Table12_UrbanForestTable 
@@ -242,9 +242,9 @@ def test_database_connection() -> Dict[str, Any]:
         """
         coord_result = fetch_one(coord_count_sql)
         coord_count = coord_result.get('coord_count', 0) if coord_result else 0
-        print(f"📍 有坐标的记录数: {coord_count}")
+        print(f"📍 Records with coordinates: {coord_count}")
         
-        # 获取一些示例数据
+        # Get some sample data
         sample_sql = """
         SELECT com_id, common_name, latitude, longitude 
         FROM Table12_UrbanForestTable 
@@ -252,7 +252,7 @@ def test_database_connection() -> Dict[str, Any]:
         LIMIT 5
         """
         sample_data = fetch_all(sample_sql)
-        print(f"🔍 示例数据: {sample_data}")
+        print(f"🔍 Sample data: {sample_data}")
         
         return {
             "success": True,
@@ -262,44 +262,44 @@ def test_database_connection() -> Dict[str, Any]:
         }
         
     except Exception as e:
-        print(f"❌ 数据库测试失败: {e}")
+        print(f"❌ Database test failed: {e}")
         return {"success": False, "error": str(e)}
 
 
 def search_trees(lat: float, lon: float, radius: float, search_keyword: Optional[str] = None) -> Dict[str, Any]:
-    """搜索指定半径内的树木"""
-    print(f"🔍 搜索参数: lat={lat}, lon={lon}, radius={radius}, search='{search_keyword}'")
+    """Search trees within specified radius"""
+    print(f"🔍 Search parameters: lat={lat}, lon={lon}, radius={radius}, search='{search_keyword}'")
     
-    # 计算边界框（粗略筛选）
-    lat_delta = radius / 111320.0  # 纬度1度约111.32km
-    lon_delta = radius / (111320.0 * math.cos(math.radians(lat)))  # 经度1度随纬度变化
+    # Calculate bounding box (rough filtering)
+    lat_delta = radius / 111320.0  # 1 degree latitude ≈ 111.32km
+    lon_delta = radius / (111320.0 * math.cos(math.radians(lat)))  # 1 degree longitude varies with latitude
     
     min_lat = lat - lat_delta
     max_lat = lat + lat_delta
     min_lon = lon - lon_delta
     max_lon = lon + lon_delta
     
-    print(f"📦 边界框: lat=[{min_lat:.6f}, {max_lat:.6f}], lon=[{min_lon:.6f}, {max_lon:.6f}]")
+    print(f"📦 Bounding box: lat=[{min_lat:.6f}, {max_lat:.6f}], lon=[{min_lon:.6f}, {max_lon:.6f}]")
     
-    # 调试：打印SQL查询和参数
-    print(f"🔍 SQL查询: {TREE_SEARCH_SQL}")
-    print(f"🔍 查询参数: min_lat={min_lat}, max_lat={max_lat}, min_lon={min_lon}, max_lon={max_lon}")
+    # Debug: print SQL query and parameters
+    print(f"🔍 SQL query: {TREE_SEARCH_SQL}")
+    print(f"🔍 Query parameters: min_lat={min_lat}, max_lat={max_lat}, min_lon={min_lon}, max_lon={max_lon}")
     
-    # 执行SQL查询
+    # Execute SQL query
     try:
         rows = fetch_all(TREE_SEARCH_SQL, (min_lat, max_lat, min_lon, max_lon))
-        print(f"🗃️ 数据库返回 {len(rows)} 条记录")
+        print(f"🗃️ Database returned {len(rows)} records")
         
-        # 调试：打印前几条记录
+        # Debug: print first few records
         if rows:
-            print(f"🔍 前3条记录示例:")
+            print(f"🔍 First 3 record examples:")
             for i, row in enumerate(rows[:3]):
-                print(f"  记录{i+1}: {row}")
+                print(f"  Record {i+1}: {row}")
         else:
-            print("❌ 数据库查询返回空结果")
+            print("❌ Database query returned empty results")
             
     except Exception as e:
-        print(f"❌ 数据库查询失败: {e}")
+        print(f"❌ Database query failed: {e}")
         return {
             "success": False,
             "error": f"Database query failed: {str(e)}",
@@ -312,17 +312,17 @@ def search_trees(lat: float, lon: float, radius: float, search_keyword: Optional
         tree_lat = float(row.get('latitude', 0))
         tree_lon = float(row.get('longitude', 0))
         
-        # 精确计算距离
+        # Calculate exact distance
         distance = haversine_distance(lat, lon, tree_lat, tree_lon)
         
         if distance <= radius:
-            # 处理搜索关键词筛选
+            # Handle search keyword filtering
             if search_keyword and search_keyword.strip():
                 search_text = f"{row.get('com_id', '')} {row.get('common_name', '')} {row.get('scientific_name', '')} {row.get('genus', '')} {row.get('family', '')} {row.get('located_in', '')}".lower()
                 if search_keyword.lower().strip() not in search_text:
                     continue
             
-            # 构建树木对象
+            # Build tree object
             tree = {
                 "com_id": str(row.get('com_id', '')),
                 "common_name": row.get('common_name', ''),
@@ -344,15 +344,15 @@ def search_trees(lat: float, lon: float, radius: float, search_keyword: Optional
             }
             trees.append(tree)
     
-    # 按距离排序
+    # Sort by distance
     trees.sort(key=lambda x: x['distance'])
     
-    # 处理重复位置
+    # Handle duplicate positions
     trees = jitter_duplicates(trees)
     
-    print(f"✅ 最终返回 {len(trees)} 棵树木")
+    print(f"✅ Finally returning {len(trees)} trees")
     if trees:
-        print(f"📍 最近树木: {trees[0]['common_name']} (距离: {trees[0]['distance']}m)")
+        print(f"📍 Nearest tree: {trees[0]['common_name']} (distance: {trees[0]['distance']}m)")
     
     return {
         "success": True,
@@ -367,8 +367,8 @@ def search_trees(lat: float, lon: float, radius: float, search_keyword: Optional
 
 
 def get_tree_detail(com_id: str) -> Dict[str, Any]:
-    """获取单棵树木的详细信息"""
-    # 执行SQL查询
+    """Get detailed information of a single tree"""
+    # Execute SQL query
     row = fetch_one(TREE_DETAIL_SQL, (com_id,))
     
     if not row:
@@ -377,7 +377,7 @@ def get_tree_detail(com_id: str) -> Dict[str, Any]:
             "error": "Tree not found"
         }
     
-    # 构建树木详情对象
+    # Build tree detail object
     tree_detail = {
         "com_id": str(row.get('com_id', '')),
         "common_name": row.get('common_name', ''),
@@ -414,20 +414,20 @@ def handler(event, context):
         return _resp(200, {"ok": True})
 
     try:
-        # 调试信息
+        # Debug information
         print(f"Method: {method}, Path: {path}")
         
-        # 树木搜索API - POST方法
+        # Tree search API - POST method
         if method == "POST" and (path == "/trees/search" or path == "/test/TreeLocator" or path == "/TreeLocator"):
-            # 调试：打印接收到的请求体
-            print(f"🔍 接收到的请求体: {body}")
-            print(f"🔍 请求体类型: {type(body)}")
-            print(f"🔍 请求体键: {list(body.keys()) if isinstance(body, dict) else 'Not a dict'}")
+            # Debug: print received request body
+            print(f"🔍 Received request body: {body}")
+            print(f"🔍 Request body type: {type(body)}")
+            print(f"🔍 Request body keys: {list(body.keys()) if isinstance(body, dict) else 'Not a dict'}")
             
-            # 检查必需的参数
+            # Check required parameters
             if "lat" not in body or "lon" not in body:
-                print("❌ 缺少必需的参数: lat 和 lon")
-                print(f"❌ 当前body内容: {body}")
+                print("❌ Missing required parameters: lat and lon")
+                print(f"❌ Current body content: {body}")
                 return _resp(400, {"success": False, "error": "Missing required parameters: lat and lon"})
             
             lat = _to_float(body.get("lat"), None)
@@ -435,10 +435,10 @@ def handler(event, context):
             radius = _to_float(body.get("radius"), 100)
             search = body.get("search", "").strip() or None
             
-            # 调试：打印解析后的参数
-            print(f"📍 解析后的参数: lat={lat}, lon={lon}, radius={radius}, search='{search}'")
+            # Debug: print parsed parameters
+            print(f"📍 Parsed parameters: lat={lat}, lon={lon}, radius={radius}, search='{search}'")
             
-            # 验证坐标是否有效
+            # Validate coordinates
             if lat is None or lon is None:
                 return _resp(400, {"success": False, "error": "Invalid coordinate values: lat and lon must be valid numbers"})
             
@@ -451,9 +451,9 @@ def handler(event, context):
             data = search_trees(lat, lon, radius, search)
             return _resp(200, data)
         
-        # 树木详情API - GET方法，统一使用 /test/TreeLocator
+        # Tree details API - GET method, unified use of /test/TreeLocator
         elif method == "GET" and (path == "/test/TreeLocator" or path == "/TreeLocator"):
-            # 从查询参数获取 com_id
+            # Get com_id from query parameters
             com_id = qs.get("com_id") or qs.get("id") or qs.get("tree_id")
             
             if not com_id:
@@ -465,14 +465,14 @@ def handler(event, context):
             else:
                 return _resp(404, data)
         
-        # 数据库测试API
+        # Database test API
         elif method == "GET" and path == "/test/database":
             data = test_database_connection()
             return _resp(200, data)
         
-        # 兼容其他路径格式的树木详情API
+        # Compatible with other path formats for tree details API
         elif method == "GET" and (path.startswith("/trees/") or path.startswith("/test/trees/") or path.startswith("/TreeDetail/")):
-            # 提取 com_id
+            # Extract com_id
             com_id = None
             if path.startswith("/trees/"):
                 com_id = path.split("/trees/")[1]
@@ -481,7 +481,7 @@ def handler(event, context):
             elif path.startswith("/TreeDetail/"):
                 com_id = path.split("/TreeDetail/")[1]
             
-            # 也支持查询参数方式
+            # Also support query parameter method
             if not com_id:
                 com_id = qs.get("com_id") or qs.get("id")
             

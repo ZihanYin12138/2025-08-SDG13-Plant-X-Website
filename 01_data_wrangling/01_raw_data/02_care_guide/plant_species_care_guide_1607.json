@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2827,
+      "species_id": 1607,
+      "common_name": "rose peashrub",
+      "scientific_name": [
+        "Caragana rosea"
+      ],
+      "section": [
+        {
+          "id": 8687,
+          "type": "watering",
+          "description": "When watering Caragana rosea, it's important to allow the soil to dry out slightly between watering. Water the shrub deeply and thoroughly once per week, saturating the soil to a depth of 10-12 inches. Ensure the soil is moist all the way through, but not soggy or water-logged. In the summer, you may need to water it more often. During hot, dry conditions, feel free to water twice per week, but limit the amount of water used each time."
+        },
+        {
+          "id": 8688,
+          "type": "sunlight",
+          "description": "Rose Peashrub is an upright, deciduous shrub that can grow up to 6 feet tall. It thrives best in full sun and should be placed in an area that receives at least 6 hours of direct sunlight a day. In cooler climates, this plant may need some protection from the wind and shade in the hottest parts of the day. If the plant is located in an area with high temperatures and strong sunlight, it may be best to give it some afternoon shade. The plant will also do best if it receives a steady amount of water throughout the growing season and is fertilized with an all-purpose fertilizer at least once or twice a year."
+        },
+        {
+          "id": 8689,
+          "type": "pruning",
+          "description": "Rose peashrub (Caragana rosea) should be pruned in early spring before new growth begins. Pruning should focus on removing dead, diseased, and broken branches, thinning out the interior foliage to improve air circulation and light penetration, and removing any suckers or vigorous upright stems that are competing for dominance. Always leave a few vigorous shoots near the base of the plant to continue the shrub’s growth. Prune lightly, taking off no more than 1-third of the overall mass of the shrub."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

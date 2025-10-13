@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2833,
+      "species_id": 1613,
+      "common_name": "giant lily",
+      "scientific_name": [
+        "Cardiocrinum giganteum var. yunnanense"
+      ],
+      "section": [
+        {
+          "id": 8705,
+          "type": "watering",
+          "description": "Giant lilies (Cardiocrinum giganteum var. yunnanense) should be kept moist, but not soggy. Water your lilies well when soil begins to dry out a bit, but before it becomes bone dry. Usually this is once every 1-2 weeks. During the summer months, it may be necessary to water more often as temperatures rise. Be sure to avoid wetting the leaves of the lilies and water early in the morning, if possible. In the autumn, gradually reduce watering until the plant is dormant."
+        },
+        {
+          "id": 8706,
+          "type": "sunlight",
+          "description": "Giant lily (Cardiocrinum giganteum var. yunnanense) grows best when given 6 to 8 hours of full sun per day. Sunlight is particularly important for this species, as it helps promote and sustain healthy growth of the plant and its stunning blooms. If planted where sunlight is limited, the plant will struggle to grown adequately. During the summer months, place the giant lily in an area where it receives full sun in the morning until noon, and then partial shade for the remainder of the day. During the winter season, partial shade in the morning and full sun in the afternoon through to evening is best. This will ensure that the plant still receives adequate lighting while still protecting it from intense temperatures."
+        },
+        {
+          "id": 8707,
+          "type": "pruning",
+          "description": "Giant lily (Cardiocrinum giganteum var. yunnanense) should be pruned minimally. When pruning, the goal should be to maintain the plant's natural shape and structure. Prune dead or damaged stems in late winter or early spring allowing the plant to re-establish itself early in the growing season. Pruning can also be done to maintain the overall size and shape of the plant. Remove any stems that appear dead or weak, as well as any stems that are starting to sprawl out of the desired shape. Pruning can be done more extensively every 2 to 3 years but this should only be done when absolutely necessary."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

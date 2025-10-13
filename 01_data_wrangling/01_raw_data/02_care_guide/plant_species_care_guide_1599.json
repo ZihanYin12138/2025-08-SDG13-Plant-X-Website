@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2824,
+      "species_id": 1599,
+      "common_name": "hot pepper",
+      "scientific_name": [
+        "Capsicum annuum 'Holy Mole'"
+      ],
+      "section": [
+        {
+          "id": 8678,
+          "type": "watering",
+          "description": "Hot pepper plants (Capsicum annuum 'Holy Mole') like well-draining soil with a slightly acidic pH, as well as plenty of sunlight and warmth. As far as water needs, the plant should be watered deeply until the soil is moistened, but avoid overwatering. Generally, you should water a Hot Pepper plant when the top inch or 2 of the soil feels dry to the touch. During the summer, you may need to water your Hot Pepper plants more frequently to prevent them from drying out. In winter, however, water your Hot Pepper plants less often as the soil takes longer to dry due to colder temperatures."
+        },
+        {
+          "id": 8679,
+          "type": "sunlight",
+          "description": "Hot pepper (Capsicum annuum 'Holy Mole') is a tropical plant, so it needs a lot of sunlight to thrive. The best way to ensure your hot pepper plants receive enough sunlight is by providing them with full sun exposure for at least 6 to 8 hours each day. It is also beneficial to provide the plants with some partial shade in the hottest part of the day, usually between 11 am and 3 pm. If grown outdoors, it’s important to ensure these plants get plenty of airflow to prevent overheating. In hot environments, it’s best to plant hot peppers in the morning to minimize the sun’s direct exposure. Indoors, place hot pepper plants near south-facing windows to ensure they catch enough sunlight."
+        },
+        {
+          "id": 8680,
+          "type": "pruning",
+          "description": "Holy Mole hot pepper should be pruned to keep it from becoming too tall and unruly. Prune the plant when it reaches about 8 inches tall, removing the top 2 or 3 leaves and stems. This will encourage more side branching and more fruit production. \n\nContinue to prune throughout the season as needed, removing any dead or diseased branches, and any branches that cross and are rubbing against each other. Also, selectively prune to remove any branches that are blocking sunlight to other branches as the plant grows. Finally, remove any stems with fruit that is misshapen or that looks diseased. Prune lightly to shape the plant as needed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

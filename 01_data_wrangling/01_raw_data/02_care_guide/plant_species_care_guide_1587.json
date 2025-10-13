@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2816,
+      "species_id": 1587,
+      "common_name": "camptosema",
+      "scientific_name": [
+        "Camptosema praeandinum"
+      ],
+      "section": [
+        {
+          "id": 8654,
+          "type": "watering",
+          "description": "Camptosema praeandinum should be watered deeply but only when the soil is dry 1-2 inches below the surface. Keep the soil evenly moist, but not waterlogged. Water the plant when the soil begins to feel dry to the touch. This species prefers more frequent shallow waterings than deep waterings. Watering once a week should suffice during periods of active growth. In periods of dormancy, water less frequently."
+        },
+        {
+          "id": 8655,
+          "type": "sunlight",
+          "description": "Camptosema praeandinum is a sun-loving plant native to dry tropical climates. It typically prefers full sun for 5 to 6 hours per day, and will generally do well in areas with bright light most of the day. Sunlight requirements may be adjusted based on the plant's location and the climate in which it is planted. Camptosema praeandinum will generally do better when planted in bright, filtered sunlight as compared to deep shade or full, direct sun. If planted in a more temperate climate, it may need additional shade or more diffused light to thrive."
+        },
+        {
+          "id": 8656,
+          "type": "pruning",
+          "description": "Camptosema praeandinum, commonly known as palm lily, should be pruned once a year in early to mid-spring, just after it has finished blooming. Pruning will help to shape and maintain the plant’s natural growing habit, as well as removing dead, damaged or diseased stems. This species should be lightly pruned, removing no more than a third of the stems and leaving some foliage for the plant to grow back. Additionally, spent flower stalks should also be cut back to the base of the plant. This will promote new fresh shoots and maximize blooms."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2852,
+      "species_id": 1637,
+      "common_name": "blue wood sedge",
+      "scientific_name": [
+        "Carex flaccosperma"
+      ],
+      "section": [
+        {
+          "id": 8762,
+          "type": "watering",
+          "description": "Blue wood sedge should be watered moderately, about once per week. Give enough water to moisten the soil, but be careful not to overwater. Water in the early morning to avoid any excess evaporation from the heat. The soil should be allowed to dry out slightly between watering. Always check the soil before watering and avoid overwatering. Monitor watering closely in the warmer months, or during dry spells, to ensure the plant isn't suffering from drought."
+        },
+        {
+          "id": 8763,
+          "type": "sunlight",
+          "description": "Blue wood sedge prefers full sun to part shade, and will grow very well with full sun exposure. During the summer, it needs 8-12 hours of direct sun each day. During the cooler months it should have 4-5 hours of direct sun. Supplemental lighting is also recommended for optimal growth, especially during the shorter days of winter."
+        },
+        {
+          "id": 8764,
+          "type": "pruning",
+          "description": "Blue Wood Sedge should be pruned in late spring or early summer. The best time to do so is when the spring growth starts to turn yellow or brown. Pruning away any dead or diseased blades can help rejuvenate the plant and promote healthy new growth. It is not necessary to prune away any of the actively growing blades unless they are overcrowding the overall shape of the plant. Prune off no more than 2 inches of foliage, since any more could harm the plant. Pruning away dead foliage will also help to reduce the spread of any diseases or pests that may have infiltrated the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

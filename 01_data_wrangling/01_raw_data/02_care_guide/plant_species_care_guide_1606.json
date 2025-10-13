@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2826,
+      "species_id": 1606,
+      "common_name": "Siberian peashrub",
+      "scientific_name": [
+        "Caragana arborescens"
+      ],
+      "section": [
+        {
+          "id": 8684,
+          "type": "watering",
+          "description": "Siberian peashrub (Caragana arborescens) requires moderate amounts of water to survive. Generally, it should be watered about 1 to 2 times a week, depending on the weather conditions, soil type, and time of the season. During hot, dry periods, the plant should be watered more frequently, providing a good soak at least once a week. In cooler and wetter weather the watering can be done less often. Water should be applied until the soil is saturated and then allowed to drain. Be sure to avoid over-watering and waterlogging as this can cause root rot. If the soil is allowed to completely dry out between waterings it can affect the growth of the plant. Siberian peashrub prefers a regular and consistent watering pattern."
+        },
+        {
+          "id": 8685,
+          "type": "sunlight",
+          "description": "Siberian peashrub (Caragana arborescens) is a hardy, low-growing deciduous shrub that thrives in full sun and well-drained soil. The species prefers a minimum of 8 hours of sunlight per day and will flower and produce its sweet yellow pea pods if exposed to direct sunlight for at least 6 hours a day. For optimal growth, the plant should receive direct light throughout the morning and afternoon, with some light shade during the hottest part of the day. If planting in a heavily shaded area, supplemental lighting from grow lights may be necessary."
+        },
+        {
+          "id": 8686,
+          "type": "pruning",
+          "description": "Siberian peashrub should be pruned twice a year - once in the late winter and once in the early summer. During the late winter, the goal is to remove any unwanted suckers and any dead or damaged stems. Pruning should be done with an anvil pruner to ensure clean, even cuts. In the early summer, a shaping prune should be done to remove lower branches and thin out the shrub to open up the interior of the plant for better air circulation and increased light penetration. When pruning, it is important to not cut back more than 1-third of the total volume of the plant."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

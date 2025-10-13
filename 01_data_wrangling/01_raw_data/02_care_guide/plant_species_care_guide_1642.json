@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2856,
+      "species_id": 1642,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex laxiculmis"
+      ],
+      "section": [
+        {
+          "id": 8774,
+          "type": "watering",
+          "description": "Sedge (Carex laxiculmis) should be watered regularly and deeply. Generally, water the plant once per week, allowing the top layer of soil to dry out between waterings. Care should be taken to water the entire root system and the area around it, so that the full plant receives enough moisture. The frequency and amount of water needed may need to be adjusted depending on temperature, sunlight, humidity, and soil type. During periods of high temperatures or strong sunlight, plants may need to be watered more often in order to prevent wilting or scorching."
+        },
+        {
+          "id": 8775,
+          "type": "sunlight",
+          "description": "Sedge (Carex laxiculmis) plants prefer sunlight for at least 6 to 8 hours per day. Morning sunlight is ideal as it gives the plants a chance to start their photosynthesis process early. Sedge plants do well in partial shade, however, intense afternoon sunlight should be avoided to minimize scorching of the leaves. To promote healthy foliage growth, these plants should receive at least 4 to 6 hours of direct sunlight per day throughout the growing season."
+        },
+        {
+          "id": 8776,
+          "type": "pruning",
+          "description": "For sedge (Carex laxiculmis) plants, pruning should be done in early spring when the plants are just beginning to grow. Pruning should remove any dead, diseased, or damaged foliage, encourages bushier growth, and removes any non-essential growth that could detract from the look of the plant in the garden setting. Pruning should be done to the point where only a few leaves are left on each stem; pruning too severely could be detrimental to the health of the plant. Additionally, it’s best to avoid pruning too much in the first year for sedge plants, since they tend to be slow growers."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

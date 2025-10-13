@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2822,
+      "species_id": 1593,
+      "common_name": "caper",
+      "scientific_name": [
+        "Capparis spinosa"
+      ],
+      "section": [
+        {
+          "id": 8672,
+          "type": "watering",
+          "description": "Caper (Capparis spinosa) should be watered once a day throughout the growing season, providing about 1 inch of water every time. During the spring and summer, water the plant deeply and then allow the top inch of soil to dry out before watering again. In the fall and winter, water less frequently, allowing the top 2 to 3 inches of soil to dry before each watering. Over-watering caper can cause the roots to rot, so make sure to avoid this."
+        },
+        {
+          "id": 8673,
+          "type": "sunlight",
+          "description": "Caper plants grow best in bright sunlight and typically enjoy at least 6 hours of direct sunlight each day. During the summer season, caper plants should get more sunlight and ideally at least 8 hours of direct sunlight a day. During the winter, the plant needs fewer sunlight hours and can survive with just 4 to 5 hours of direct sunlight, with the remaining light coming from indirect sources such as reflected sunlight or sunlight diffused through hazy skies. To ensure the best health of your caper plant, make sure that it’s receiving as much sunlight as possible during the summer, and reduce its exposure to direct sunlight during the winter."
+        },
+        {
+          "id": 8674,
+          "type": "pruning",
+          "description": "Caper (Capparis spinosa) should be pruned regularly throughout the growing season. Pruning encourages bushier growth and restricts the number of shoots, improving the quality of the fruit. Start pruning in late winter or early spring, just before new growth begins. Cut 1-third of the older stems back to several inches from the main trunk. Repeat this pruning the following year after the fruit has developed, cutting each stem down to just a few buds. In the third year, prune back even further, removing any dead wood in the process. Remove any old stems that are more than 3 years old - again, to encourage new growth. After this point, annual pruning of stems back to only a few buds will generally suffice for bushier growth and improved fruit quality."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2870,
+      "species_id": 1658,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex oshimensis 'Everillo'"
+      ],
+      "section": [
+        {
+          "id": 8816,
+          "type": "watering",
+          "description": "Sedge plants typically need to be watered about once a week, but the frequency and amount of water they receive depends upon the season and climate in which they are grown. In the warmer months of spring, summer, and fall, these plants should be watered deeply but infrequently, allowing the top 2-3 inches of soil to dry out in between waterings. In cooler winter months, waterings should occur less frequently, but the soil should not be allowed to dry out completely, as sedge plants can be prone to winter dehydration. It is typically best to water in the mornings to allow the excess moisture to evaporate throughout the day. Regularly checking the moisture level of the soil is important for preventing over-watering and under-watering of these plants."
+        },
+        {
+          "id": 8817,
+          "type": "sunlight",
+          "description": "Carex oshimensis 'Everillo' requires 6-8 hours of direct sunlight per day. Partial sun is also acceptable, but the plant will require regular watering when grown in less than full sun. A location with a minimum of 4 hours of direct sunlight is recommended during the warm summer months. When grown in full sun, the sedge will produce vibrant yellow/green foliage and will add texture and interest to any garden. To flourish, sedge needs exposure to direct sunlight throughout the growing season. During extreme heat in summer months, partial or filtered sunlight is preferable."
+        },
+        {
+          "id": 8818,
+          "type": "pruning",
+          "description": "Sedge (Carex oshimensis 'Everillo') should be pruned in late winter or early spring. Cut the leaves back to about 8-12 inches tall, making sure to leave the basal rosette of leaves intact. This will promote a tidier, more compact growth habit. If needed, a more aggressive pruning can take place in early spring. Remove all dead material to facilitate new growth and a more even shape. Pruning should be done only when necessary, as a regular pruning schedule can stress the plant and reduce flowering potential."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

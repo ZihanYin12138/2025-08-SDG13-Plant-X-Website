@@ -1,13 +1,11 @@
+<!-- src/views/PlantDetail.vue -->
 <template>
   <section class="section container">
-    <!-- 面包屑 -->
+    <!-- Breadcrumb -->
     <nav class="breadcrumb" aria-label="Breadcrumb">
-      <RouterLink
-        class="breadcrumb__link"
-        :to="backTo"
-      >
+      <button class="breadcrumb__link as-link" @click="smartBack">
         {{ backCrumbLabel }}
-      </RouterLink>
+      </button>
       <span class="breadcrumb__sep">›</span>
       <span class="breadcrumb__current">
         {{ plant?.common_name || preload?.common_name || '...' }}
@@ -15,15 +13,15 @@
     </nav>
 
     <div v-if="loading">Loading…</div>
-    <p v-else-if="error" class="error">加载失败：{{ error }}</p>
+    <p v-else-if="error" class="error">Load failed: {{ error }}</p>
 
     <article v-else-if="plant" class="detail">
-      <!-- 左：主图 -->
+      <!-- Left: main image -->
       <div class="media">
         <img :src="coverUrl" :alt="plant.common_name || 'Plant photo'" />
       </div>
 
-      <!-- 右：标题 + facts + 简介 -->
+      <!-- Right: title + facts + description -->
       <div class="meta">
         <h1 class="title">{{ plant.common_name }}</h1>
         <p class="latin">{{ plant.scientific_name }}</p>
@@ -31,7 +29,7 @@
           aka: {{ renderOther(plant.other_name) }}
         </p>
 
-        <!-- ===== 只显示指定的 8 项（有则显示、无则不渲染） ===== -->
+        <!-- ===== Only show specified 8 items ===== -->
         <div class="facts">
           <p v-if="cycleText"><strong>Cycle:</strong> {{ cycleText }}</p>
           <p v-if="wateringSmart"><strong>Watering:</strong> {{ wateringSmart }}</p>
@@ -45,12 +43,11 @@
           </p>
         </div>
 
-        <!-- 简介：优先 threatened.description，然后通用 description -->
         <p v-if="descriptionText" class="desc">{{ descriptionText }}</p>
       </div>
     </article>
 
-    <!-- ===== 功能卡片（原样保留） ===== -->
+    <!-- Feature cards -->
     <section v-if="plant" class="cards">
       <article class="card" v-if="wateringTitle || waterBenchmark || wateringGuide">
         <h3 class="card__title">
@@ -85,7 +82,7 @@
       </article>
     </section>
 
-    <!-- 分布图 -->
+    <!-- Distribution map -->
     <h2>Hardiness Map</h2>
     <div v-if="plant?.distribution_map?.distribution_map_html" class="dist">
       <iframe
@@ -98,19 +95,19 @@
   </section>
 
   <div class="center">
-    <RouterLink class="btn btn-ghost" :to="backTo">
+    <button class="btn btn-ghost" @click="smartBack">
       {{ backButtonLabel }}
-    </RouterLink>
+    </button>
   </div>
 </template>
 
 <script setup lang="ts">
 import { ref, computed, onMounted } from 'vue'
-import { useRoute } from 'vue-router'
+import { useRoute, useRouter } from 'vue-router'
 import { getPlantById, getThreatenedById, type PlantDetail } from '@/api/plants'
 import threatenedImg from '@/assets/placeholder.jpg'
 
-/* 解决 “Extraneous non-props attributes (id)” —— 接住 router-view 透传的 id */
+/* Solve "Extraneous non-props attributes (id)" —— catch id passed through router-view */
 const props = defineProps<{ id?: string | number }>()
 
 type PreloadCard = {
@@ -133,28 +130,37 @@ const PLACEHOLDER_IMG =
   )
 
 const route = useRoute()
+const router = useRouter()
 const loading = ref(true)
 const error = ref('')
 const plant = ref<PlantDetail | null>(null)
 
-/** ====== 从哪里来：rcmd（推荐）或默认（搜索） ====== */
+/** ====== From where ====== */
 const fromSource = computed(() =>
   String(route.query.from || '') ||
   (window as any)?.history?.state?.from ||
   ''
 )
-/* 用路径而非路由名，避免 “No match for { name:'PlantRcmd' }” */
+/* Use path instead of route name to avoid "No match for { name:'PlantRcmd' }" */
 const backTo = computed(() =>
   fromSource.value === 'rcmd'
     ? '/plantrcmd'
     : '/garden#plantsearch'
 )
 const backCrumbLabel = computed(() =>
-  fromSource.value === 'rcmd' ? 'Recommendations' : 'Species'
+  fromSource.value === 'rcmd' ? 'Recommendations' : 'Plant Search'
 )
 const backButtonLabel = computed(() =>
-  fromSource.value === 'rcmd' ? '← Back to Recommendations' : 'Going Back to Garden'
+  fromSource.value === 'rcmd' ? '← Back to Recommendations' : '← Back to Garden'
 )
+
+function smartBack() {
+  if (window.history.length > 1) {
+    router.back()
+    return
+  }
+  router.push(backTo.value)
+}
 
 const isThreatened = computed(() => {
   const t = String(route.query.type || '').toLowerCase()
@@ -180,7 +186,7 @@ function renderOther(v?: string[] | string) {
   return Array.isArray(v) ? v.join(', ') : (v || '')
 }
 
-/* —— 文案美化 —— */
+/* —— Text beautification —— */
 function prettyCycle(v?: string) {
   if (!v) return ''
   const s = v.toLowerCase()
@@ -199,7 +205,7 @@ function prettyGrowth(v?: string) {
 }
 
 /* -------------------------
- * Threatened 专属映射
+ * Threatened exclusive mapping
  * ------------------------- */
 const tdesc = computed(() => (plant.value as any)?.threatened?.description || {})
 const tcare = computed(() => (plant.value as any)?.threatened?.care_guide || {})
@@ -218,7 +224,7 @@ const soilText             = computed(() => {
   return Array.isArray(soil) ? soil.join(', ') : (soil || '')
 })
 
-/** 描述：优先 threatened.description，然后通用 description */
+/** Description: prioritize threatened.description, then general description */
 const descriptionText = computed(() => {
   if (isThreatened.value) {
     const parts = [
@@ -234,7 +240,7 @@ const descriptionText = computed(() => {
   return ''
 })
 
-/* —— 三大板块（保留） —— */
+/* —— Three main sections —— */
 const cg = computed(() => (plant.value as any)?.care_guide || {})
 const wateringTitle   = computed(() =>
   plant.value?.watering || cg.value?.watering || (cultivationNote.value ? 'See note' : '')
@@ -255,10 +261,8 @@ const pruningMonthsText = computed(() => {
 const pruningGuide    = computed(() => cg.value?.pruning_guide || '')
 
 /* ===========================
- *  只为 Facts 的 8 项计算
+ *  Facts
  * =========================== */
-
-/** Hardiness Zone：从 distribution_map_html 中解析 USDA min/max */
 const hardinessZoneText = computed(() => {
   const html = plant.value?.distribution_map?.distribution_map_html || ''
   const m = html.match(/"zone"[\s\S]*?"min"\s*:\s*(\d+)[\s\S]*?"max"\s*:\s*(\d+)/)
@@ -268,16 +272,12 @@ const hardinessZoneText = computed(() => {
   }
   return ''
 })
-
-/** Cycle / Growth Rate */
 const cycleText  = computed(() =>
   prettyCycle(plant.value?.plant_cycle || (plant.value as any)?.description?.plant_cycle)
 )
 const growthText = computed(() =>
   prettyGrowth(plant.value?.growth_rate || (plant.value as any)?.care_guide?.growth_rate)
 )
-
-/** Sun：threatened.care_guide.sun > care_guide.sunlight > sun_expose（去重） */
 const sunMergedText = computed(() => {
   const vals: string[] = []
   const push = (x: any) => {
@@ -290,8 +290,6 @@ const sunMergedText = computed(() => {
   push((plant.value as any)?.sun_expose)
   return Array.from(new Set(vals.map(s => s.trim()).filter(Boolean))).join(', ')
 })
-
-/** Watering：顶层 > care_guide > （有说明则提示 See note） */
 const wateringSmart = computed(() => {
   const top = plant.value?.watering
   const cgWater = (plant.value as any)?.care_guide?.watering
@@ -299,8 +297,6 @@ const wateringSmart = computed(() => {
             || (plant.value as any)?.care_guide?.watering_guide
   return top || cgWater || (note ? 'See note' : '')
 })
-
-/** Leaf / Cones（threatened.description 优先，否则 description） */
 const joinList = (v: any): string =>
   Array.isArray(v) ? v.filter(Boolean).join(', ') : (v ?? '').toString()
 const leafText  = computed(() =>
@@ -309,8 +305,6 @@ const leafText  = computed(() =>
 const conesText = computed(() =>
   joinList((plant.value as any)?.threatened?.description?.cones ?? (plant.value as any)?.description?.cones)
 )
-
-/** Care Level（threatened 优先用 propagation_level，label 也切换） */
 const careLevelValue = computed(() =>
   (plant.value as any)?.threatened?.care_guide?.propagation_level
   || (plant.value as any)?.care_guide?.care_level
@@ -319,8 +313,6 @@ const careLevelValue = computed(() =>
 const careLevelLabel = computed(() =>
   (plant.value as any)?.threatened?.care_guide?.propagation_level ? 'Propagation Level' : 'Care Level'
 )
-
-/** 是否显示 Conservation 卡片（补上，避免未定义） */
 const conservationAny = computed(() =>
   !!(conservationStatus.value
     || provenance.value
@@ -333,13 +325,13 @@ const conservationAny = computed(() =>
 )
 
 /* -------------------------
- * 加载流程
+ * Loading
  * ------------------------- */
 onMounted(async () => {
   loading.value = true
   error.value = ''
 
-  // 如有 preload，先渲染一版，避免白屏
+  // If there's preload, render first to avoid white screen
   if (preload) {
     const gpId = preload.general_plant_id ?? 0
     plant.value = {
@@ -353,7 +345,6 @@ onMounted(async () => {
   }
 
   try {
-    // 优先用 props.id，兼容 router-view 透传；否则回退到路由参数
     const rawId = props.id ?? route.params.id
     const id = typeof rawId === 'string' ? parseInt(rawId, 10) : Number(rawId)
 
@@ -371,17 +362,20 @@ onMounted(async () => {
 </script>
 
 <style scoped>
-/* 面包屑 */
+/* Breadcrumb */
 .breadcrumb {
   display: flex; align-items: center; gap: .5rem;
   margin: 4px 0 12px; font-size: 14px;
 }
 .breadcrumb__link { color: var(--fg); font-weight: 700; text-decoration: none; }
 .breadcrumb__link:hover { text-decoration: underline; }
+.as-link {
+  background: none; border: 0; padding: 0; cursor: pointer; font: inherit; color: var(--fg);
+}
 .breadcrumb__sep { color: var(--muted); }
 .breadcrumb__current { color: var(--fg); }
 
-/* 主体 */
+/* Main content */
 .detail{
   display:grid; gap:1.25rem;
   grid-template-columns:1.1fr .9fr; align-items:start;
@@ -395,7 +389,7 @@ onMounted(async () => {
 .latin{ color:var(--muted); font-style:italic }
 .aka{ color:var(--muted); margin:.25rem 0 }
 
-/* Facts 卡片 */
+/* Facts card */
 .facts{
   display:grid; grid-template-columns: 1fr 1fr;
   gap:.5rem 1.25rem;
@@ -410,7 +404,7 @@ onMounted(async () => {
 .desc{ margin-top:.75rem; line-height:1.6 }
 .error{ color:#c00 }
 
-/* 三大板块 */
+/* Three main sections */
 .cards {
   display: grid;
   grid-template-columns: 1fr;
@@ -427,7 +421,7 @@ onMounted(async () => {
 .card__title { margin: 0 0 6px; }
 .muted { color: var(--muted); margin: 0 0 6px; }
 
-/* 分布图 */
+/* Distribution map */
 .dist{ margin-top:16px }
 .dist__iframe{
   width:100%;
@@ -438,11 +432,19 @@ onMounted(async () => {
   box-shadow: var(--shadow-sm);
 }
 
-/* 底部返回按钮容器 */
+/* Bottom return button container */
 .center {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 50px;
+}
+.btn.btn-ghost {
+  border: 1px solid var(--border);
+  background: transparent;
+  padding: .5rem .8rem;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: rgb(76, 76, 76);
 }
 </style>

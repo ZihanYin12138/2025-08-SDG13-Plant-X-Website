@@ -9,7 +9,7 @@
   "seed": 42,
   "preprocess": {
     "center_crop": true,
-    "note": "与 CLIPProcessor 默认预处理保持一致；在线查询需完全一致"
+    "note": "Aligned with CLIPProcessor default preprocessing; online queries must match exactly"
   },
   "similarity": "cosine (via dot on L2-normalized vectors)"
 }

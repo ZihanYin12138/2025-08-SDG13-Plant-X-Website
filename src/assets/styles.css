@@ -74,7 +74,7 @@ input::placeholder, textarea::placeholder { color: color-mix(in oklab, var(--fg)
 
 .modal-mask { background: var(--backdrop); }
 
-/* 可选：滚动条也跟随主题 */
+/* Scrollbar also follows the theme */
 * {
   scrollbar-color: color-mix(in oklab, var(--fg) 35%, transparent) transparent;
 }
@@ -137,7 +137,7 @@ img { max-width: 100%; height: auto; }
 }
 
 .theme-toggle{
-  color: var(--brand);                                 /* 文字颜色用品牌色 */
+  color: var(--brand);
   border-color: color-mix(in oklab, var(--brand) 45%, transparent);
 }
 .theme-toggle:hover{

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2864,
+      "species_id": 1652,
+      "common_name": "palm sedge",
+      "scientific_name": [
+        "Carex muskingumensis 'Wachtposten'"
+      ],
+      "section": [
+        {
+          "id": 8798,
+          "type": "watering",
+          "description": "Palm sedge (Carex muskingumensis 'Wachtposten') should be watered thoroughly once a week. This can be done by slowly and evenly watering until the soil is evenly damp. Be careful not to overwater it as excess water can lead to root rot. During periods of prolonged hot weather, you should water the palm sedge a bit more often, such as every other day. It is important to monitor the soil moisture for each plant and adjust your watering schedule accordingly."
+        },
+        {
+          "id": 8799,
+          "type": "sunlight",
+          "description": "Palm sedge (Carex muskingumensis 'Wachtposten') does best with full sun to part shade conditions. In areas with hot summers, some afternoon shade is beneficial. In cooler climates, however, it will also tolerate full sun. When planted in full sun, this plant will need at least 6 hours of direct sunlight per day for optimal health and growth. If planted in part shade, a minimum of 4 hours is recommended."
+        },
+        {
+          "id": 8800,
+          "type": "pruning",
+          "description": "Palm sedge (Carex muskingumensis 'Wachtposten') is an attractive, clump forming sedge with fan shaped foliage that can grown up to 2 feet wide. It is hardy in USDA zones 5-10. \n\nPruning palm sedge is important for promoting healthy growth and eliminating dead or diseased foliage. Generally, palm sedge should be pruned once or twice each year. In mid-spring, pruning can be done to remove dead or damaged foliage and encourage new, healthy growth. Additionally, a second pruning can be done in midsummer to shape plants and encourage bushier growth. Palm sedge should be pruned in a way that retains the natural shape of the plant and evenly distributes foliage throughout the clump. Pruned branches should have clean cuts, no more than a quarter of an inch away from the parent stem, to promote regrowth."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

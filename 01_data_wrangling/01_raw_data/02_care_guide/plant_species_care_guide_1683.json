@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2891,
+      "species_id": 1683,
+      "common_name": "hornbeam",
+      "scientific_name": [
+        "Carpinus cordata"
+      ],
+      "section": [
+        {
+          "id": 8879,
+          "type": "watering",
+          "description": "Water is important for the health of any Hornbeam plant (Carpinus cordata). It is best to water these plants deeply once per week in spring and summer and about every 2 weeks in fall and winter. Hornbeams prefer moist but not wet soil, so be sure not to over-water. If the soil remains too wet, the roots can suffer from oxygen deprivation. If you experience a prolonged period of dry weather, it is important to give the plants an extra drink to avoid any stress from lack of hydration. Make sure to monitor the soil and add water when necessary."
+        },
+        {
+          "id": 8880,
+          "type": "sunlight",
+          "description": "Hornbeam (Carpinus cordata) prefers full sun, but will tolerate partial shade, as long as it gets at least 4-6 hours of direct sun each day. If your hornbeam is planted in a shaded area, make sure there is adequate, filtered sunlight available all day long, so that it can photosynthesize and thrive. This type of plant will not survive in dense shade."
+        },
+        {
+          "id": 8881,
+          "type": "pruning",
+          "description": "Hornbeam plants should be pruned in the late winter or early spring, just before growth begins. Prune weak and crossing branches and thin out dense or overgrown areas to improve air flow. Remove up to 30 percent of the branches; however, do not remove all the growth at any 1 time. If pruned properly, the foliage should remain dense and shapely. In some cases, hedge trimming in late summer or early fall may be necessary in order to maintain the desired size and shape."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

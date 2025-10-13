@@ -1,12 +1,15 @@
 <!-- src/views/PlantSearch.vue -->
 <template>
-  <!-- ========== 植物搜索与识别 ========== -->
+  <!-- ========== Plant Search & Recognition ========== -->
   <section class="container" id="plantsearch">
     <div class="section-box" aria-label="Plant Search & Recognition">
       <h2>Plant search and recognization</h2>
-      <p>Search for a plants or Upload a image to identify a plant.</p>
+      <p>
+        Click "🎤" to enter the plant name by voice. &nbsp Click "➕" to upload a picture to identify the plant.
+        <br>Please note: If the website encounters an error, please try again !
+      </p>
 
-      <!-- 搜索栏 -->
+      <!-- Search bar -->
       <div class="searchbar">
         <div class="searchbar__box">
           <input
@@ -47,14 +50,14 @@
         <button class="btn" @click="open = true">Filter</button>
       </div>
 
-      <!-- 图片预览 -->
+      <!-- Image preview -->
       <div v-if="previewUrl" class="preview">
         <img :src="previewUrl" alt="preview" />
         <span class="preview__name">{{ previewName }}</span>
         <button class="link" @click="clearPreview">Remove</button>
       </div>
 
-      <!-- 上传弹窗（点击遮罩关闭 + ESC 关闭） -->
+      <!-- Upload modal -->
       <div
         v-if="uploadOpen"
         class="modal-mask"
@@ -96,7 +99,7 @@
         </div>
       </div>
 
-      <!-- Filter 弹窗（点击遮罩关闭 + ESC 关闭） -->
+      <!-- Filter modal -->
       <div
         v-if="open"
         class="modal-mask"
@@ -232,7 +235,7 @@
         </div>
       </div>
 
-      <!-- 列表 + 统计 + 分页（植物） -->
+      <!-- List + statistics + pagination (plants) -->
       <section>
         <div class="list-toolbar" v-if="totalKnown">
           <div class="results-meta">
@@ -268,11 +271,15 @@
             <button class="btn-ghost sm" :disabled="page>=totalPages" @click="nextPage">Next ›</button>
           </div>
         </div>
+
+        <div v-if="!loading && !error && safePlants.length === 0" class="muted" style="margin-top:.5rem;">
+          Try keywords like <em>rose, fern, maple</em>…
+        </div>
       </section>
     </div>
   </section>
 
-  <!-- 全屏 Loading（植物识别） -->
+  <!-- Full screen Loading (plant recognition) -->
   <div v-if="recognizing" class="page-loading" role="alert" aria-live="polite">
     <div class="spinner" aria-hidden="true"></div>
     <div class="loading-text">Analyzing plant image…</div>
@@ -281,10 +288,10 @@
 
 <script setup lang="ts">
 import { ref, reactive, onMounted, onBeforeUnmount, computed, watch } from 'vue'
+import { useRoute, useRouter } from 'vue-router'
 import {
   searchPlants,
   getPlantById,
-  getPlantsForCardsByIds,
   type PlantDetail,
   type PlantCardItem
 } from '@/api/plants'
@@ -292,7 +299,10 @@ import PlantCard from '@/components/PlantCard.vue'
 import PlantCardSkeleton from '@/components/CardSkeleton.vue'
 import { uploadImage, predictByS3Key } from '@/api/uploads'
 
-/** ================= 植物区 ================= */
+const route = useRoute()
+const router = useRouter()
+
+/** ================= Plant section ================= */
 const PAGE_SIZE = 8
 const MAX_MB = 3
 const placeholder = 'Search For A Plant'
@@ -304,7 +314,7 @@ const dragActive = ref(false)
 const uploadError = ref('')
 const fileInput = ref<HTMLInputElement | null>(null)
 
-/** 植物识别 Loading（覆盖全屏） */
+/** Plant recognition Loading (full screen overlay) */
 const recognizing = ref(false)
 
 const loading = ref(false)
@@ -373,12 +383,14 @@ function normalizePreload(p: any) {
     other_name: p.other_name || []
   }
 }
+
+/** Jump target: uniformly point to PlantDetail, and explicitly carry tab=plants, from=plants */
 function toFor(p: any) {
   if (p?.id_type === 'threatened' && Number.isFinite(p.threatened_plant_id)) {
     return {
       name: 'PlantDetail',
       params: { id: p.threatened_plant_id },
-      query: { type: 'threatened' },
+      query: { type: 'threatened', from: 'plants', tab: 'plants' },
       state: { preload: normalizePreload(p) }
     }
   }
@@ -386,13 +398,55 @@ function toFor(p: any) {
     return {
       name: 'PlantDetail',
       params: { id: p.general_plant_id },
-      query: { type: 'general' },
+      query: { type: 'general', from: 'plants', tab: 'plants' },
       state: { preload: normalizePreload(p) }
     }
   }
   return { path: '/' }
 }
 
+/** ---------- URL synchronization (only use p_* keys, do not interfere with each other) ---------- */
+function writePlantQuery() {
+  const next = {
+    ...route.query,
+    // Namespace: p_*
+    p_q: query.value || undefined,
+    p_page: page.value > 1 ? String(page.value) : undefined,
+    p_thr: filters.threatened || undefined,
+    p_ed: filters.edible || undefined,
+    p_med: filters.medicinal || undefined,
+    p_fru: filters.fruits || undefined,
+    p_in: filters.indoors || undefined,
+    p_poi: filters.poisonous || undefined,
+    p_flw: filters.flowers || undefined,
+    p_sun: filters.sun || undefined,
+    p_wat: filters.watering || undefined,
+    p_cyc: filters.cycle || undefined,
+    p_grw: filters.growth || undefined,
+    tab: 'plants'
+  }
+  router.replace({ query: next })
+}
+function readPlantQuery() {
+  const q = route.query
+  query.value = String(q.p_q ?? '')
+  page.value = Math.max(1, Number(q.p_page ?? 1))
+
+  // filters
+  filters.threatened = String(q.p_thr ?? '')
+  filters.edible = String(q.p_ed ?? '')
+  filters.medicinal = String(q.p_med ?? '')
+  filters.fruits = String(q.p_fru ?? '')
+  filters.indoors = String(q.p_in ?? '')
+  filters.poisonous = String(q.p_poi ?? '')
+  filters.flowers = String(q.p_flw ?? '')
+  filters.sun = String(q.p_sun ?? '')
+  filters.watering = String(q.p_wat ?? '')
+  filters.cycle = String(q.p_cyc ?? '')
+  filters.growth = String(q.p_grw ?? '')
+}
+
+/** data load */
 async function load() {
   loading.value = true
   error.value = ''
@@ -415,18 +469,23 @@ async function load() {
 function goToPage(p: number) {
   const tp = totalPages.value
   const target = Math.min(Math.max(1, Number(p) || 1), tp)
-  if (target !== page.value) { page.value = target; load() }
-  else { pageInput.value = page.value }
+  if (target !== page.value) {
+    page.value = target
+    writePlantQuery()
+    load()
+  } else {
+    pageInput.value = page.value
+  }
 }
 function nextPage() { goToPage(page.value + 1) }
 function prevPage() { goToPage(page.value - 1) }
 
-const onSearch = () => { goToPage(1); load() }
-const applyFilters = () => { open.value = false; goToPage(1); load() }
+const onSearch = () => { page.value = 1; writePlantQuery(); load() }
+const applyFilters = () => { open.value = false; page.value = 1; writePlantQuery(); load() }
 const resetFilters = () => { Object.keys(filters).forEach(k => (filters as any)[k] = '') }
-const resetAndReload = () => { resetFilters(); goToPage(1); load() }
+const resetAndReload = () => { resetFilters(); page.value = 1; writePlantQuery(); load() }
 
-/** 植物图片上传识别 */
+/** Plant image upload recognition */
 const previewUrl = ref(''); const previewName = ref('')
 function pickFile() { uploadError.value = ''; fileInput.value?.click() }
 function onFileInputChange(ev: Event) {
@@ -454,13 +513,13 @@ async function processFile(file: File) {
     return
   }
 
-  // 预览
+  // Preview
   previewName.value = file.name
   if (previewUrl.value) URL.revokeObjectURL(previewUrl.value)
   previewUrl.value = URL.createObjectURL(file)
   uploadOpen.value = false
 
-  // —— 开始识别：显示全屏 Loading
+  // —— Start recognition: show full screen Loading
   recognizing.value = true
   loading.value = true
   error.value = ''
@@ -474,7 +533,7 @@ async function processFile(file: File) {
     if (!ids.length) {
       plants.value = []
       total.value = 0
-      error.value = '未识别到可用候选'
+      error.value = 'No recognizable candidates found'
       return
     }
 
@@ -495,7 +554,7 @@ async function processFile(file: File) {
     total.value = plants.value.length
     page.value = 1
     pageInput.value = 1
-    query.value = `#${ids.join(',')}`
+    writePlantQuery()
   } catch (e: any) {
     error.value = e.message || String(e)
   } finally {
@@ -509,7 +568,7 @@ function clearPreview() {
   previewName.value = ''
 }
 
-/** 植物语音 */
+/** Plant voice recognition */
 const listening = ref(false)
 const speechSupported = typeof window !== 'undefined' && 'webkitSpeechRecognition' in window
 let recognizer: any = null
@@ -530,25 +589,33 @@ onMounted(() => {
 })
 const startVoice = () => recognizer && recognizer.start()
 
-/** 初次进入：第 1 页 */
-onMounted(() => { goToPage(1); load() })
+/** Initial entry: Read p_* from URL, then load */
+onMounted(() => {
+  // Make sure Garden Tab is plants
+  if (route.query.tab !== 'plants') {
+    router.replace({ query: { ...route.query, tab: 'plants' } })
+  }
+  readPlantQuery()
+  pageInput.value = page.value
+  load()
+})
 
-/** 清理本地 URL 以防内存泄漏 */
+/** Clean up local URLs to prevent memory leaks */
 onBeforeUnmount(() => {
   if (previewUrl.value) URL.revokeObjectURL(previewUrl.value)
 })
 </script>
 
 <style scoped>
-/* —— 区块外框（透明背景，仅描边） —— */
+/* —— Block outline (transparent background, border only) —— */
 .section-box{
   border: 1.5px solid var(--border);
   border-radius: 14px;
   padding: 16px;
-  background: transparent; /* 透明，不着色 */
+  background: transparent; /* Transparent, no coloring */
 }
 
-/* ====== 搜索条 ====== */
+/* ====== Search bar ====== */
 .searchbar {
   position: relative; display: flex; gap: 12px; align-items: center; margin-bottom: 16px;
 }
@@ -562,7 +629,7 @@ onBeforeUnmount(() => {
 .searchbar__icon-left { position: absolute; inset: 0 auto 0 14px; display: grid; place-items: center; color: var(--muted); pointer-events: none; }
 .searchbar__icon-rights { position: absolute; right: 6px; top: 50%; transform: translateY(-50%); display: flex; gap: 4px; align-items: center; }
 
-/* ====== 按钮 ====== */
+/* ====== Buttons ====== */
 .icon-btn {
   width: 36px; height: 36px; display: grid; place-items: center; border-radius: 50%;
   border: 1px solid var(--border); background: var(--card); color: var(--fg); cursor: pointer;
@@ -577,13 +644,13 @@ onBeforeUnmount(() => {
 .btn:disabled { opacity: .6; cursor: not-allowed; }
 .btn:hover { background: var(--hover); }
 
-/* ====== 预览 ====== */
+/* ====== Preview ====== */
 .preview { display: flex; align-items: center; gap: 10px; margin: 8px 0 16px; color: var(--muted); }
 .preview img { width: 44px; height: 44px; object-fit: cover; border-radius: 8px; }
 .preview__name { max-width: 40vw; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .link { color: var(--muted); background: none; border: none; cursor: pointer; }
 
-/* ====== 弹窗（与你原风格一致） ====== */
+/* ====== Modal ====== */
 .modal-mask { position: fixed; inset: 0; background: var(--backdrop); display: grid; place-items: start center; padding-top: 48px; z-index: 50; }
 .modal {
   width: 840px; max-width: 95vw; max-height: 80vh; display: flex; flex-direction: column; background: var(--card);
@@ -600,7 +667,7 @@ onBeforeUnmount(() => {
   width: 32px; height: 32px; border-radius: 50%; border: 1px solid var(--border); background: var(--card); color: var(--fg); cursor: pointer;
 }
 
-/* ====== 上传区域 ====== */
+/* ====== Upload area ====== */
 .dropzone{
   border: 2px dashed color-mix(in oklab, var(--fg) 30%, transparent); border-radius: 14px; background: var(--surface);
   padding: 26px; transition: .15s ease;
@@ -617,7 +684,7 @@ onBeforeUnmount(() => {
 .dz-actions{ display:flex; justify-content:center; gap:.5rem; margin-bottom:.25rem; }
 .dz-tip{ color: var(--muted); font-size: .9rem; margin: 0; }
 
-/* ====== 表单 ====== */
+/* ====== Form ====== */
 .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 22px 40px; }
 .field label { font-weight: 600; display: block; margin-bottom: 6px; }
 .radios { display: grid; gap: 6px; color: var(--fg); }
@@ -625,7 +692,7 @@ onBeforeUnmount(() => {
   width: 100%; height: 40px; border: 1px solid var(--border); border-radius: 10px; padding: 0 12px; background: var(--surface); color: var(--fg);
 }
 
-/* ====== 列表工具栏 / 统计 / 分页 ====== */
+/* ====== List toolbar / statistics / pagination ====== */
 .list-toolbar{ display:flex; align-items:center; justify-content:space-between; gap:.75rem; margin: .5rem 0 1rem; }
 .list-toolbar.bottom{ margin-top: 1rem; justify-content: center; }
 .results-meta{ color: var(--muted); }
@@ -637,15 +704,16 @@ onBeforeUnmount(() => {
 .pager-input{ width: 3.5rem; height: 32px; padding: 0 .5rem; border-radius: 8px; border: 1px solid var(--border); background: var(--card); color: var(--fg); }
 .pager-num{ color: var(--muted); }
 
-/* ====== 卡片网格（植物） ====== */
+/* ====== Card grid (plants) ====== */
 .plants-grid { display: grid; gap: 1rem; grid-template-columns: repeat(4, 1fr); }
 @media (max-width: 768px) { .plants-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 480px) { .plants-grid { grid-template-columns: 1fr; } }
 
-/* 错误信息 */
+/* Tips and errors */
+.muted{ color: var(--muted); }
 .error{ color:#c00; margin-top:8px }
 
-/* ====== 全屏 Loading（识别中） ====== */
+/* ====== Full screen Loading (recognizing) ====== */
 .page-loading{
   position: fixed; inset: 0; background: color-mix(in oklab, var(--bg) 70%, transparent);
   backdrop-filter: blur(1.5px); display: grid; place-items: center; z-index: 80;

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2832,
+      "species_id": 1612,
+      "common_name": "giant lily",
+      "scientific_name": [
+        "Cardiocrinum giganteum"
+      ],
+      "section": [
+        {
+          "id": 8702,
+          "type": "watering",
+          "description": "The giant lily (Cardiocrinum giganteum) is a showy perennial plant that has large, trumpet-like flowers. Watering for this species should be done regularly, since it likes a consistent supply of moist soil in order to thrive. \n\nFor the best results, water the plant deeply and thoroughly twice a week during its growing season. Early morning is a great time to water since the sun has not yet reached its full strength and is not intense enough to burn any droplets of water. It is important not to over-water the plant, so make sure to check the soil between waterings, as it should always remain wet but never soggy or waterlogged. \n\nAdditionally, the giant lily should have a rest period of at least 2 months each year, which means the watering schedule should be reduced to every couple of weeks or so in order to give the plant a well-deserved break. \n\nIt is essential to monitor the soil in order to determine how much water is necessary for the plant, since too much or too little water can stop the growth of the flower and even cause it to die."
+        },
+        {
+          "id": 8703,
+          "type": "sunlight",
+          "description": "The giant lily needs plenty of sunlight for optimal growth, around 6-8 hours of direct light per day. It prefers to be in full sun for a majority of the day, but can tolerate up to 8 hours of direct sun. It is best planted in an area that gets morning sun and afternoon shade. It can also be grown in some partial shade, however, it will not do as well or flower as much. Although, if the plant receives too much afternoon sun, it may scorch and wilt. During the hottest part of the day, it is important to provide some shade for the giant lily and ensure it is getting enough water."
+        },
+        {
+          "id": 8704,
+          "type": "pruning",
+          "description": "Pruning your Giant lily (Cardiocrinum giganteum) should be done annually in late autumn or winter when the plant is dormant and not in flower. Begin by removing any dead, diseased, damaged, or crossing stems. Prune away any stems that have flowered during that season down to the base of the stem where it meets the crown of the plant. Pruning should also be done to encourage bushier and overall neater growth of the foliage. To do this, cut long stems back to a pair of lateral buds, leaving 2-4 sets of leaves intact. It is also a good idea to cut the main flower stem to the ground after flowering in order to prevent the plant from becoming top heavy. This will help to ensure that the plant remains upright and that it will still be able to send out new shoots the following season."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

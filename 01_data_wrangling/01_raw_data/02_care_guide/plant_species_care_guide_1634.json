@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2849,
+      "species_id": 1634,
+      "common_name": "Bowles' golden sedge",
+      "scientific_name": [
+        "Carex elata 'Aurea'"
+      ],
+      "section": [
+        {
+          "id": 8753,
+          "type": "watering",
+          "description": "Bowles’ golden sedge should be watered once or twice a week, depending on the weather conditions in your area. During the spring and summer months, when the plant is actively growing, it should be watered more often. When watering, make sure to moisten the soil but do not saturate it. Avoid getting the foliage wet, as this can lead to fungal infections. During the autumn and winter months, you should reduce watering frequency as the plant goes into a dormant stage. Check the soil every couple weeks to make sure it is not completely dry."
+        },
+        {
+          "id": 8754,
+          "type": "sunlight",
+          "description": "Bowles' golden sedge is an evergreen perennial that requires full sun to thrive. For optimal growth it should receive between 4 and 8 hours of direct sunlight per day, and the ideal amount of light for this species is 6 hours. In areas where there are heavy clouds or a lot of other garden plants obscuring the sunlight, Bowles' golden sedge should receive at least half a day of direct sunlight in order to survive.\n\nFor best results, Bowles' golden sedge should receive its sunlight during the morning hours. In the afternoon, the sunlight becomes stronger and can cause damage to its foliage, so it is recommended that the plant is kept out of direct sunlight in the afternoon. Additionally, since this species is an evergreen, it needs an uninterrupted period of darkness each night in order to rest and restore itself."
+        },
+        {
+          "id": 8755,
+          "type": "pruning",
+          "description": "Bowles' Golden Sedge should be pruned in the early spring as new growth appears. This species should be pruned to about 5-7 inches from the ground. However, pruning too much can reduce flowering and affect the overall health of the plant. Pruning should be done every other year, or if the plant becomes unruly. To reduce the frequency of pruning, dead and weak stems can be removed as they appear throughout the year."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

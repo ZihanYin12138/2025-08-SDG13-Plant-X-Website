@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1425,
+      "species_id": 1660,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex oshimensis 'Gold Strike'"
+      ],
+      "section": [
+        {
+          "id": 4309,
+          "type": "watering",
+          "description": "Sedge (Carex oshimensis 'Gold Strike') should be watered once per week, allowing the soil to almost dry out between waterings. The amount of water given should vary depending on the temperature and light levels, with more frequent and generous waterings during hot summer days and less frequent but still regular during cooler or shady weather. Be sure not to allow the soil to become soggy, as this can lead to fungal issues."
+        },
+        {
+          "id": 4310,
+          "type": "sunlight",
+          "description": "Sedge (Carex oshimensis 'Gold Strike') is a variety of ornamental grass that thrives in full sun. This plant species prefers at least 6 hours of sunlight per day and will tolerate up to 8 hours of direct sun per day. When growing in areas of mild temperatures, such as zone 6 to zone 9, full sun should be ensured as much as possible to keep the plant happy. In areas with intense or extreme summer heat, shade during the midday when sunlight is most intense should be provided. During the cooler months in the fall and winter, full sun is preferable."
+        },
+        {
+          "id": 4311,
+          "type": "pruning",
+          "description": "Sedge (Carex oshimensis 'Gold Strike') should be pruned in the late fall or early winter, when the plant is entering its dormant stage. Dead, damaged, or overly long foliage should be the first to go in order to shape the plant and remove any unsightly growth. Pinching back the tips of the stems encourages more aggressive side branching, creating a fuller, denser look. Avoid pruning back too far and cutting into the old wood, as this will reduce or stunt growth. Additionally, if the plants are growing over, shear or lightly tip prune the foliage to maintain height and shape. Pruning should be done periodically throughout the growing season as needed."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}

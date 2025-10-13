@@ -1,21 +1,21 @@
 // src/api/uploads.ts
 
-/** ========= 配置 ========= */
+/** ========= API ========= */
 export const API_ROOT =
   import.meta.env.VITE_API_ROOT ??
   'https://ky21h193r2.execute-api.us-east-1.amazonaws.com/plantx';
 
-/** 允许的图片类型 & 最大大小（与后端保持一致） */
+/** Allowed image types & maximum sizes */
 const ALLOWED_TYPES = new Set(['image/png', 'image/jpeg', 'image/webp', 'image/gif']);
-const MAX_BYTES = 10 * 1024 * 1024; // 10MB
+const MAX_BYTES = 10 * 1024 * 1024;
 
-/** ========= 类型 ========= */
+/** ========= type ========= */
 export interface UploadResp {
   bucket: string;
-  key: string;          // S3 对象键：如 uploads/2025/09/04/xxxx.png
+  key: string;
   contentType: string;
   size: number;
-  s3Uri: string;        // s3://bucket/key
+  s3Uri: string;
 }
 
 export interface PredictItem {
@@ -29,7 +29,7 @@ export interface PredictResp {
   results: PredictItem[];
 }
 
-/** ========= 工具 ========= */
+/** ========= tool ========= */
 function assertImageValid(file: File) {
   if (!ALLOWED_TYPES.has(file.type)) {
     const list = Array.from(ALLOWED_TYPES).map(t => t.split('/')[1]).join(', ');
@@ -40,7 +40,7 @@ function assertImageValid(file: File) {
   }
 }
 
-/** 将后端错误响应（JSON 或纯文本）转成 Error，便于 UI 展示 */
+/** Convert backend error responses (JSON or plain text) to Error for UI display */
 async function toNiceError(res: Response): Promise<never> {
   let msg = `HTTP ${res.status}`;
   try {
@@ -54,12 +54,7 @@ async function toNiceError(res: Response): Promise<never> {
   throw new Error(msg);
 }
 
-/** ========= API ========= */
-
-/**
- * 上传图片（multipart/form-data，不要手动设置 Content-Type）
- * 成功返回后端给出的 S3 信息（包含 key）
- */
+/** Upload image */
 export async function uploadImage(
   file: File,
   opts?: { signal?: AbortSignal }
@@ -68,7 +63,6 @@ export async function uploadImage(
 
   const url = `${API_ROOT}/upload?filename=${encodeURIComponent(file.name)}`;
   const fd = new FormData();
-  // 字段名随意，后端会取第一个带 filename 的 part
   fd.append('file', file, file.name);
 
   const res = await fetch(url, { method: 'POST', body: fd, signal: opts?.signal });
@@ -77,10 +71,10 @@ export async function uploadImage(
 }
 
 /**
- * 预测：根据 S3 key 识别植物
- * @param s3Key 形如 uploads/2025/09/04/xxx.png
- * @param count 返回候选数量（默认 8）
- */
+* Prediction: Identify plants based on an S3 key
+* @param s3Key (e.g., uploads/2025/09/04/xxx.png)
+* @param count (number of candidates to return) (default 8)
+*/
 export async function predictByS3Key(
   s3Key: string,
   count = 8,
@@ -93,9 +87,9 @@ export async function predictByS3Key(
 }
 
 /**
- * 组合：上传并预测（一步到位）
- * 返回 { upload, predict }，分别是上传响应与预测响应
- */
+* Combination: upload and predict (one-step)
+* Returns { upload, predict }, the upload response and the predicted response, respectively
+*/
 export async function uploadAndPredict(
   file: File,
   opts?: { count?: number; signal?: AbortSignal }

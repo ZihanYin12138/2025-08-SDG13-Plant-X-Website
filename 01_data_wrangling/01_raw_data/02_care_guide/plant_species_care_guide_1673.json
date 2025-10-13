@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 2881,
+      "species_id": 1673,
+      "common_name": "squarrose sedge",
+      "scientific_name": [
+        "Carex squarrosa"
+      ],
+      "section": [
+        {
+          "id": 8849,
+          "type": "watering",
+          "description": "Squarrose Sedge should be watered approximately once a week, but the exact frequency will depend on a few factors including light, temperature, and soil conditions. During the spring and summer, when the plant is actively growing, a bit more water may be necessary. Place 1-2 inches of water over the root zone weekly, or more if the plant is under additional stress from heat or direct sunlight. For the rest of the year, water the plant when it becomes dry to the touch. A sharp touch to the foliage can help you determine how dry the plant is."
+        },
+        {
+          "id": 8850,
+          "type": "sunlight",
+          "description": "Squarrose sedge prefers full sun to partial shade, typically in dry conditions such as sandy soils. Depending on the season and region, it may need 6-8 hours of sunlight each day, with more in the summer and less in cooler climates. However, in hot climates, such as the southeastern United States, it should be sheltered from the harsh afternoon sun during the peak of summer. In very hot climates, a light shade cloth may be necessary. During the winter months, when temperatures and sunlight levels are lower, the plant will need less sunlight than in warmer months."
+        },
+        {
+          "id": 8851,
+          "type": "pruning",
+          "description": "Squarrose sedge (Carex squarrosa) should be pruned twice a year and only lightly. Pruning should take place in the late spring and early fall for best results. In the late spring, after the plant has finished blooming, prune off any blossoms that were not successfully pollinated and prune any stems that are overly long or have begun to become unruly. In the early fall, remove any dead or damaged leaves or stems. Prune lightly so as to not decrease the number of living stems or reduce the size of the plant too drastically."
+        }
+      ]
+    }
+  ],
+  "to": 1,
+  "per_page": 30,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 1
+}
