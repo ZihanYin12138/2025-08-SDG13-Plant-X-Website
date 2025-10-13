@@ -1,6 +1,21 @@
 # .py version of 01_plant_recommendation.ipynb
 # Name: Zihan
 
+# Plant recommendation system that matches weather conditions with plant requirements
+# Uses 16-day weather forecast to determine suitable plants for specific locations
+# Supports both human-readable and JSON output formats for different use cases
+
+# Key features:
+# - MySQL database integration for plant data
+# - Open-Meteo API for weather forecasting
+# - Multi-criteria matching logic (temperature, sunlight, watering, drought tolerance)
+# - Command-line interface with latitude/longitude parameters
+# - Random shuffling of results for variety
+
+# Usage examples:
+# python plant_recommendation.py --lat -37.8136 --lon 144.9631
+# python plant_recommendation.py --lat -37.8749 --lon 145.0417 --json
+
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
@@ -26,7 +41,7 @@ import argparse  # <-- New: for handling command line arguments
 # ==============================================================================
 
 # Database connection configuration
-# Note: In production environment, it is recommended to use more secure methods for password management, such as environment variables.
+# Note: In production environment, use more secure password management methods like environment variables.
 DB_CONFIG = {
     'host': 'database-plantx.cqz06uycysiz.us-east-1.rds.amazonaws.com',
     'user': 'zihan',
@@ -49,16 +64,16 @@ HARDINESS_ZONE_TO_CELSIUS = {
 
 def load_plants_from_db(config):
     """Load plant data from MySQL database and perform preprocessing."""
-    df_plants = pd.DataFrame() # Default to create an empty DataFrame
+    df_plants = pd.DataFrame() # Default: create empty DataFrame
     try:
         connection = mysql.connector.connect(**config)
         if connection.is_connected():
             print("--> Successfully connected to MySQL database...")
             query = "SELECT * FROM Table13_GeneralPlantListforRecommendation;"
             df_plants = pd.read_sql(query, connection)
-            print(f"--> Successfully loaded {len(df_plants)} plants from database.")
+            print(f"--> Successfully loaded {len(df_plants)} plant species from database.")
     except Error as e:
-        print(f"!! Error occurred while loading data from MySQL: {e}")
+        print(f"!! Error loading data from MySQL: {e}")
         return pd.DataFrame()
     finally:
         if 'connection' in locals() and connection.is_connected():
@@ -72,7 +87,7 @@ def load_plants_from_db(config):
     return df_plants
 
 def get_and_aggregate_weather_data(latitude, longitude):
-    """Get and aggregate weather data based on latitude and longitude."""
+    """Fetch and aggregate weather data based on latitude and longitude."""
     api_url = (
         f"https://api.open-meteo.com/v1/forecast?latitude={latitude}&longitude={longitude}"
         "&daily=precipitation_sum,sunshine_duration,uv_index_max,temperature_2m_max,"
@@ -111,8 +126,8 @@ def get_and_aggregate_weather_data(latitude, longitude):
     }
 
 def is_plant_suitable(agg_weather, plant_row):
-    """Core matching logic: determine if a single plant meets weather conditions."""
-    if agg_weather.get('extreme_min_temp') is None: return False # If weather data is invalid, cannot determine
+    """Core matching logic: determine if individual plant meets weather conditions."""
+    if agg_weather.get('extreme_min_temp') is None: return False # Cannot evaluate if weather data invalid
     
     # Rule 1: Survival baseline
     if agg_weather['extreme_min_temp'] < plant_row['absolute_min_temp_c']:
@@ -144,17 +159,17 @@ def is_plant_suitable(agg_weather, plant_row):
     return True
 
 def get_plant_recommendations(latitude, longitude):
-    """Main coordination function, execute complete recommendation workflow."""
+    """Main coordination function: execute complete recommendation workflow."""
     print(f"\nGenerating plant recommendation report for coordinates ({latitude}, {longitude})...")
     
     df_plants = load_plants_from_db(DB_CONFIG)
     if df_plants.empty:
-        print("!! Unable to load plant data, recommendation process terminated.")
+        print("!! Cannot load plant data, recommendation process terminated.")
         return None, None
     
     agg_weather = get_and_aggregate_weather_data(latitude, longitude)
     if not agg_weather:
-        print("!! Unable to get weather data, recommendation process terminated.")
+        print("!! Cannot fetch weather data, recommendation process terminated.")
         return None, None
         
     is_suitable_series = df_plants.apply(lambda row: is_plant_suitable(agg_weather, row), axis=1)
@@ -168,20 +183,20 @@ def get_plant_recommendations(latitude, longitude):
 # ==============================================================================
 
 if __name__ == "__main__":
-    # --- Set command line argument parsing ---
+    # --- Setup command line argument parsing ---
     parser = argparse.ArgumentParser(description="Recommend suitable plants based on 16-day weather forecast.")
-    parser.add_argument('--lat', type=float, default=-37.8136, help='Target location latitude (e.g.: -37.8136)')
-    parser.add_argument('--lon', type=float, default=144.9631, help='Target location longitude (e.g.: 144.9631)')
-    # --- [Modification 1] Add --json parameter ---
-    parser.add_argument('--json', action='store_true', help='Output results in single JSON format for easy program parsing.')
+    parser.add_argument('--lat', type=float, default=-37.8136, help='Latitude of target location (e.g.: -37.8136)')
+    parser.add_argument('--lon', type=float, default=144.9631, help='Longitude of target location (e.g.: 144.9631)')
+    # --- Add --json parameter ---
+    parser.add_argument('--json', action='store_true', help='Output results in single JSON format for easier program parsing.')
     args = parser.parse_args()
 
     # --- Call main function and get results ---
     weather_info, plant_ids = get_plant_recommendations(latitude=args.lat, longitude=args.lon)
 
-    # --- [Modification 2] Determine output format based on --json parameter ---
+    # --- Determine output format based on --json parameter ---
     if args.json:
-        # If --json flag exists, output a JSON object
+        # If --json flag present, output single JSON object
         if weather_info and plant_ids is not None:
             final_output = {
                 "aggregated_weather": weather_info,
@@ -189,7 +204,7 @@ if __name__ == "__main__":
             }
             print(json.dumps(final_output, indent=4))
         else:
-            # Even if failed, output a standard JSON error message
+            # Even if failed, output standard JSON error message
             print(json.dumps({"error": "Failed to generate recommendations."}, indent=4))
     else:
         # Otherwise, output human-readable formatted report
@@ -201,12 +216,12 @@ if __name__ == "__main__":
                 print(f"{key}: {value}")
             
             print("\n" + "="*50)
-            print("      Plant ID List Meeting Planting Conditions (Randomly Sorted)      ")
+            print("      Suitable Plant ID List (Randomly Shuffled)      ")
             print("="*50)
             if plant_ids:
                 print(plant_ids)
             else:
-                print("Based on future weather, no particularly suitable plants were found.")
+                print("No particularly suitable plants found based on future weather.")
             print("="*50)
        
 # python 01_plant_recommendation.py --lat -36.7570 --lon 144.2794

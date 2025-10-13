@@ -4,7 +4,6 @@ Name: Zihan
 
 ---
 
-
 #### 1. Function Overview
 
 * **Goal:** This function aims to build an end-to-end data pipeline to forecast future trends of the Australian Threatened Species Index (TSX). It enhances the model's predictive power by incorporating historical weather data as exogenous variables and integrates the final historical and predicted data, serving it via a backend API to support front-end data visualizations like maps and charts.

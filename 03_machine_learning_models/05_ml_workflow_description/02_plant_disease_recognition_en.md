@@ -1,5 +1,10 @@
 ### Plant Disease Recognition Model Based on Swin Transformer
 
+Name: Zihan
+
+---
+
+
 #### 1. Function Overview
 
 * **Goal:** This function aims to build an end-to-end deep learning pipeline for accurately identifying plant diseases from leaf images. The entire process covers label mapping from heterogeneous data sources, model training using cutting-edge techniques, and the final generation of a standalone inference script for real-world predictions.

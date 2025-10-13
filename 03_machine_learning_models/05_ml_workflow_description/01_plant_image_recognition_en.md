@@ -1,5 +1,10 @@
 ### "One-Shot" Plant Image Recognition (Image Retrieval) Based on CLIP
 
+Name: Zihan
+
+---
+
+
 #### 1. Function Overview
 
 * **Goal:** This function aims to solve a highly challenging problem: achieving effective plant image recognition under the extreme data scarcity of having **only one reference image per plant class**. To this end, we are not building a traditional classification model, but rather an intelligent **Image Retrieval** system. When a user uploads a plant photo, the system can quickly and accurately find and rank the most visually similar plant species from a pre-built image database.

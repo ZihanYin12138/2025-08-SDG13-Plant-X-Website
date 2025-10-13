@@ -1,5 +1,10 @@
 ### Weather-Based Plant Recommendation Engine
 
+Name: Zihan
+
+---
+
+
 #### 1. Function Overview
 
 * **Goal:** This function aims to build an intelligent plant recommendation system. It comprises two core components: first, a backend data processing workflow that transforms, cleans, and consolidates scattered raw plant JSON data into a structured, queryable "plant attribute database"; second, a real-time recommendation logic that can filter and suggest the most suitable plants from the database based on the 16-day weather forecast for a user-specified geographic location.
