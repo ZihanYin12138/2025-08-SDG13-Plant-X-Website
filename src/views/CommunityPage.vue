@@ -14,6 +14,10 @@ const allStates = ref(['All'])
 const currentPage = ref(1)
 const itemsPerPage = 8
 
+// Today's meetings pagination
+const todaysPage = ref(1)
+const todaysPerPage = 2
+
 // Fetch clubs data
 async function fetchClubsData(state = null) {
   loading.value = true
@@ -22,18 +26,20 @@ async function fetchClubsData(state = null) {
     if (state && state !== 'All') {
       url += `?state=${state.toLowerCase()}`
     }
-    
+
     const response = await fetch(url, {
       headers: { Accept: 'application/json' }
     })
     if (response.ok) {
       clubsData.value = await response.json()
       console.log('Clubs data loaded successfully:', clubsData.value)
-      
+
       // If fetching all data, update states list
       if (!state || state === 'All') {
         updateStatesList()
       }
+      // reset today's meetings page on data change
+      todaysPage.value = 1
     } else {
       console.error('Failed to fetch clubs data:', response.status)
     }
@@ -55,19 +61,19 @@ function updateStatesList() {
 // Filtered clubs list
 const filteredClubs = computed(() => {
   if (!clubsData.value?.all_clubs) return []
-  
+
   let filtered = clubsData.value.all_clubs
-  
+
   // Filter by search query
   if (searchQuery.value.trim()) {
     const query = searchQuery.value.toLowerCase()
-    filtered = filtered.filter(club => 
+    filtered = filtered.filter(club =>
       club.Name?.toLowerCase().includes(query) ||
       club.Contact?.toLowerCase().includes(query) ||
       club.Meetings?.toLowerCase().includes(query)
     )
   }
-  
+
   return filtered
 })
 
@@ -139,6 +145,36 @@ const todaysMeetings = computed(() => {
   return clubsData.value?.today_clubs || []
 })
 
+// Paginated today's meetings
+const paginatedTodaysMeetings = computed(() => {
+  const start = (todaysPage.value - 1) * todaysPerPage
+  const end = start + todaysPerPage
+  return todaysMeetings.value.slice(start, end)
+})
+
+// Total pages for today's meetings
+const todaysTotalPages = computed(() => {
+  return Math.ceil(todaysMeetings.value.length / todaysPerPage) || 1
+})
+
+// Controls for today's meetings pagination
+function goToPrevToday() {
+  if (todaysPage.value > 1) todaysPage.value--
+}
+
+function goToNextToday() {
+  if (todaysPage.value < todaysTotalPages.value) todaysPage.value++
+}
+
+function handleTodayInput(e) {
+  const val = Number(todaysPage.value)
+  if (!Number.isFinite(val) || val < 1) {
+    todaysPage.value = 1
+  } else if (val > todaysTotalPages.value) {
+    todaysPage.value = todaysTotalPages.value
+  }
+}
+
 onMounted(() => {
   fetchClubsData()
 })
@@ -158,7 +194,7 @@ onMounted(() => {
     <div class="container">
       <h3 class="section-title">Today's Meetings</h3>
       <div class="meetings-grid">
-        <div v-for="meeting in todaysMeetings" :key="meeting.Name" class="meeting-card">
+        <div v-for="meeting in paginatedTodaysMeetings" :key="meeting.Name" class="meeting-card">
           <div class="meeting-info">
             <h4 class="meeting-name">{{ meeting.Name }}</h4>
             <p class="meeting-time">{{ meeting.Time }}</p>
@@ -169,6 +205,41 @@ onMounted(() => {
           </div>
         </div>
       </div>
+
+      <!-- Pagination for today's meetings -->
+      <div v-if="todaysMeetings.length > todaysPerPage" class="pagination" style="margin-top:1.25rem">
+        <div class="pagination-controls">
+          <button
+            @click="goToPrevToday"
+            :disabled="todaysPage === 1"
+            class="pagination-btn prev-btn"
+          >
+            < Prev
+          </button>
+
+          <span class="page-label">Page</span>
+
+          <input
+            v-model.number="todaysPage"
+            @change="handleTodayInput"
+            @keyup.enter="handleTodayInput"
+            type="number"
+            :min="1"
+            :max="todaysTotalPages"
+            class="page-input"
+          />
+
+          <span class="total-pages">/ {{ todaysTotalPages }}</span>
+
+          <button
+            @click="goToNextToday"
+            :disabled="todaysPage === todaysTotalPages"
+            class="pagination-btn next-btn"
+          >
+            Next >
+          </button>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -177,11 +248,11 @@ onMounted(() => {
     <div class="container">
       <div class="search-filters">
         <div class="search-box">
-          <input 
-            v-model="searchQuery" 
+          <input
+            v-model="searchQuery"
             @input="handleSearch"
-            type="text" 
-            placeholder="Search clubs..." 
+            type="text"
+            placeholder="Search clubs..."
             class="search-input"
           />
           <i class="search-icon">🔍</i>
@@ -203,45 +274,45 @@ onMounted(() => {
       <div v-if="loading" class="loading">
         <p>Loading clubs data...</p>
       </div>
-      
+
       <div v-else-if="filteredClubs.length === 0" class="no-results">
         <p>No matching clubs found</p>
       </div>
-      
+
       <div v-else class="clubs-grid">
         <div v-for="club in paginatedClubs" :key="club.Name" class="club-card">
           <div class="club-header">
             <h3 class="club-name">{{ club.Name }}</h3>
             <span class="club-state" v-if="club.State">{{ club.State }}</span>
           </div>
-          
+
           <div class="club-details">
             <div class="detail-item" v-if="club.Meetings">
               <strong>Meeting Schedule:</strong>
               <span>{{ club.Meetings }}</span>
             </div>
-            
+
             <div class="detail-item" v-if="club.Next_meeting">
               <strong>Next Meeting:</strong>
               <span>{{ club.Next_meeting }}</span>
             </div>
-            
+
             <div class="detail-item" v-if="club.Contact">
               <strong>Contact:</strong>
               <span>{{ club.Contact }}</span>
             </div>
-            
+
             <div class="detail-item" v-if="club.Location">
               <strong>Location:</strong>
               <span>{{ club.Location }}</span>
             </div>
-            
+
             <div class="detail-item" v-if="club.Link">
               <strong>Website:</strong>
               <a :href="club.Link" target="_blank" class="club-link">{{ club.Link }}</a>
             </div>
           </div>
-          
+
           <div class="club-status">
             <span class="status-badge" :class="{
               'scheduled': club.Meetings && club.Meetings !== 'Not Applicable',
@@ -252,38 +323,38 @@ onMounted(() => {
           </div>
         </div>
       </div>
-      
+
       <!-- 分页控件 -->
       <div v-if="filteredClubs.length > itemsPerPage" class="pagination">
         <div class="pagination-info">
           {{ paginationInfo }}
         </div>
-        
+
         <div class="pagination-controls">
-          <button 
-            @click="goToPreviousPage" 
+          <button
+            @click="goToPreviousPage"
             :disabled="currentPage === 1"
             class="pagination-btn prev-btn"
           >
             < Prev
           </button>
-          
+
           <span class="page-label">Page</span>
-          
-          <input 
-            v-model.number="currentPage" 
+
+          <input
+            v-model.number="currentPage"
             @change="handlePageInput"
             @keyup.enter="handlePageInput"
-            type="number" 
-            :min="1" 
+            type="number"
+            :min="1"
             :max="totalPages"
             class="page-input"
           />
-          
+
           <span class="total-pages">/ {{ totalPages }}</span>
-          
-          <button 
-            @click="goToNextPage" 
+
+          <button
+            @click="goToNextPage"
             :disabled="currentPage === totalPages"
             class="pagination-btn next-btn"
           >
@@ -299,7 +370,7 @@ onMounted(() => {
     <div class="container">
       <h3 class="section-title">Community Organizations</h3>
       <p class="section-subtitle">Connect with leading environmental organizations making a difference</p>
-      
+
       <div class="org-cards">
         <!-- Planet Ark -->
         <div class="org-card" @click="openLink('https://nationaltreeday.org.au/')">
@@ -607,27 +678,27 @@ onMounted(() => {
   .search-filters {
     flex-direction: column;
   }
-  
+
   .search-box, .filter-box {
     min-width: 100%;
   }
-  
+
   .clubs-grid {
     grid-template-columns: 1fr;
   }
-  
+
   .meeting-card {
     flex-direction: column;
     align-items: flex-start;
     gap: 1rem;
   }
-  
+
   .club-header {
     flex-direction: column;
     align-items: flex-start;
     gap: 0.5rem;
   }
-  
+
   .club-state {
     align-self: flex-start;
   }
@@ -718,12 +789,12 @@ onMounted(() => {
     gap: 0.5rem;
     justify-content: center;
   }
-  
+
   .pagination-btn {
     min-width: 50px;
     padding: 0.4rem 0.8rem;
   }
-  
+
   .page-input {
     width: 50px;
     padding: 0.4rem;
@@ -837,15 +908,15 @@ onMounted(() => {
     grid-template-columns: 1fr;
     gap: 1.5rem;
   }
-  
+
   .org-card {
     margin: 0 1rem;
   }
-  
+
   .org-name {
     font-size: 1.2rem;
   }
-  
+
   .org-description {
     font-size: 0.9rem;
   }
