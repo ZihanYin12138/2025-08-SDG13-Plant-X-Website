@@ -162,7 +162,7 @@ function initMap() {
 async function loadGeoAndData() {
   mapError.value = '';
   try {
-    const [geo, yd] = await Promise.all([fetchAusGeoJSON(), fetchYearMapData(selectedYear.value)]);
+    const [geo, yd] = await Promise.all([fetchAusGeoJSON({ sampleStep: 10, precision: 3 }), fetchYearMapData(selectedYear.value)]);
     currentYearData = yd;
 
     if (geoLayer) geoLayer.removeFrom(map);
@@ -185,7 +185,7 @@ async function loadGeoAndData() {
     } catch {}
   } catch (e) {
     console.error(e);
-    mapError.value = '地图数据加载失败，请稍后再试。';
+    mapError.value = 'Map load fail，please try again.';
   }
 }
 
@@ -265,7 +265,7 @@ async function updateChart() {
       selectedState.value = 'Victoria';
       return updateChart();
     }
-    seriesError.value = `时间序列加载失败：${state}`;
+    seriesError.value = `Time series loading failed：${state}`;
     return;
   }
 
@@ -277,9 +277,9 @@ async function updateChart() {
   const metMap = new Map(arr.map(d => [Number(d.year), Number(d[metKey])]));
 
   const histIdx = years.map(y => (y <= 2021 ? (idxMap.get(y) ?? null) : null));
-  const predIdx = years.map(y => (y > 2021 ? (idxMap.get(y) ?? null) : null));
-  const histMet = years.map(y => (y <= 2021 ? (metMap.get(y) ?? null) : null));
-  const predMet = years.map(y => (y > 2021 ? (metMap.get(y) ?? null) : null));
+  const predIdx = years.map(y => (y >= 2021 ? (idxMap.get(y) ?? null) : null));
+  const histMet = years.map(y => (y <= 2024 ? (metMap.get(y) ?? null) : null));
+  const predMet = years.map(y => (y >= 2024 ? (metMap.get(y) ?? null) : null));
 
   const metVals = arr.map(d => Number(d[metKey])).filter(v => !Number.isNaN(v));
   const tMin = metVals.length ? Math.floor(Math.min(...metVals) - 1) : 0;

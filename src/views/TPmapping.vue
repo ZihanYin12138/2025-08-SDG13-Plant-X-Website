@@ -337,7 +337,7 @@ function renderMarkers() {
     const popup =
       (p.popupContent ||
         `<strong>${humanize(p.binomial)}</strong><br/>Status: ${p.maxStatus || ''}<br/>Region: ${p.region || ''}`) +
-      `<br/><button class="popup-btn" data-id="${p.id}" style="margin-top:6px;padding:6px 10px;border:none;border-radius:8px;background:#111;color:#fff;cursor:pointer;">详情</button>`;
+      `<br/><button class="popup-btn" data-id="${p.id}" style="margin-top:6px;padding:6px 10px;border:none;border-radius:8px;background:#111;color:#fff;cursor:pointer;">Detail</button>`;
 
     marker.bindPopup(popup);
     marker.on('popupopen', e => {
