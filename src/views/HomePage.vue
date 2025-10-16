@@ -23,7 +23,7 @@ async function load() {
 }
 onMounted(load)
 
-/* =================== Articles：横幅轮播（循环 + 动画） =================== */
+/* =================== Articles =================== */
 type Article = { title: string; href: string; desc: string; bg?: string }
 type GroupKey = 'g1' | 'g2' | 'g3'
 
@@ -555,7 +555,44 @@ function onTouchEnd(e: TouchEvent) {
 .story-stage.slide-prev .side-peek--left{ transform: translateX(2px); }
 
 /* Index block */
-.plantindex{ display:flex; flex-direction:row; gap:20px; text-align:justify; }
-.miimg{ max-width:55%; max-height:55%; border-radius:12px; display:block; }
-.mitext{ margin-top:70px; font-size:large; }
+.plantindex{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  align-items: start;
+  text-align: initial !important;
+}
+
+.miimg{
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+}
+
+.mitext{
+  margin: 0;
+  font-size: clamp(0.95rem, 0.9rem + 0.4vw, 1.1rem);
+  line-height: 1.7;
+  color: var(--c-text);
+  text-align: left;
+  text-wrap: pretty;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  overflow-wrap: anywhere;
+  max-width: 70ch;
+}
+
+@media (min-width: 768px){
+  .plantindex{
+    grid-template-columns: 55% 1fr;
+    gap: 20px;
+  }
+  .mitext{
+    text-align: justify;
+    text-justify: inter-word;
+    max-width: 65ch;
+  }
+}
+
 </style>

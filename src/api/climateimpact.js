@@ -1,5 +1,5 @@
 // src/api/climateimpact.js
-const BASE = 'http://plantx-alb-1374376113.us-east-1.elb.amazonaws.com';
+const BASE = 'https://api.plantx.me';
 
 // Recursively flip coordinates
 function swapXY(coords) {
