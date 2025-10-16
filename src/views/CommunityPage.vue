@@ -423,53 +423,55 @@ onMounted(() => {
 </template>
 
 <style scoped>
-/* Basic styles */
-.section {
-  padding: 2rem 0;
-}
+.section { padding: 2rem 0; }
+.container { max-width: 1200px; margin: 0 auto; padding: 0 1rem; }
 
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 1rem;
+.section-hero { padding-top: 2.5rem; }
+.hero-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
 }
 
 .title {
   font-size: 2.5rem;
-  font-weight: bold;
-  color: #2d5a27;
+  font-weight: 800;
+  color: var(--c-text);
   margin-bottom: 1rem;
   text-align: center;
 }
 
 .lead {
   font-size: 1.2rem;
-  color: #666;
+  color: var(--c-muted);
   text-align: center !important;
   margin: 0 auto 2rem auto;
   display: block;
-  max-width: 100%;
   width: 100%;
 }
 
 .section-title {
   font-size: 1.8rem;
-  color: #2d5a27;
+  color: var(--c-text);
   margin-bottom: 1.5rem;
   text-align: center;
 }
 
-/* Today's meetings styles */
 .today-meetings {
-  background: linear-gradient(135deg, #2d5a27, #4a7c59);
-  color: white;
+  background: linear-gradient(
+    135deg,
+    color-mix(in oklab, var(--brand) 88%, transparent),
+    color-mix(in oklab, var(--brand-strong) 88%, transparent)
+  );
+  color: var(--bg);
   border-radius: 12px;
   margin: 2rem 1rem;
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--border-weak);
 }
 
-.today-meetings .section-title {
-  color: white;
-}
+.today-meetings .section-title { color: var(--bg); }
 
 .meetings-grid {
   display: grid;
@@ -478,35 +480,32 @@ onMounted(() => {
 }
 
 .meeting-card {
-  background: white;
+  background: var(--c-card);
   border-radius: 12px;
   padding: 1.5rem;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--c-border);
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
 .meeting-name {
-  color: #2d5a27;
+  color: var(--c-text);
   font-size: 1.2rem;
-  font-weight: bold;
+  font-weight: 700;
   margin-bottom: 0.5rem;
 }
 
 .meeting-time {
-  color: #2d5a27;
-  font-size: 1.1rem;
+  color: var(--c-text);
+  font-size: 1.05rem;
   font-weight: 600;
-  margin-bottom: 0.25rem;
+  margin-bottom: .25rem;
 }
 
-.meeting-contact {
-  color: #374151;
-  font-size: 0.9rem;
-}
+.meeting-contact { color: var(--c-muted); font-size: 0.92rem; }
 
-/* Search and filter styles */
 .search-filters {
   display: flex;
   gap: 1rem;
@@ -514,60 +513,47 @@ onMounted(() => {
   flex-wrap: wrap;
 }
 
-.search-box {
-  position: relative;
-  flex: 1;
-  min-width: 250px;
-}
-
+.search-box { position: relative; flex: 1; min-width: 250px; }
 .search-input {
   width: 100%;
   padding: 0.75rem 1rem 0.75rem 2.5rem;
-  border: 2px solid #e5e7eb;
-  border-radius: 8px;
+  background: var(--c-card);
+  color: var(--c-text);
+  border: 1px solid var(--c-border);
+  border-radius: 10px;
   font-size: 1rem;
-  transition: border-color 0.3s;
+  transition: border-color .2s, box-shadow .2s;
+  box-shadow: var(--shadow-sm);
 }
-
-.search-input:focus {
-  outline: none;
-  border-color: #4a7c59;
-}
+.search-input::placeholder { color: color-mix(in oklab, var(--c-text) 45%, transparent); }
+.search-input:focus { outline: none; border-color: var(--border); box-shadow: 0 0 0 2px color-mix(in oklab, var(--brand) 25%, transparent); }
 
 .search-icon {
   position: absolute;
-  left: 0.75rem;
-  top: 50%;
-  transform: translateY(-50%);
-  color: #9ca3af;
+  left: 0.75rem; top: 50%; transform: translateY(-50%);
+  opacity: .7;
 }
 
-.filter-box {
-  min-width: 200px;
-}
-
+.filter-box { min-width: 200px; }
 .filter-select {
   width: 100%;
   padding: 0.75rem 1rem;
-  border: 2px solid #e5e7eb;
-  border-radius: 8px;
+  background: var(--c-card);
+  color: var(--c-text);
+  border: 1px solid var(--c-border);
+  border-radius: 10px;
   font-size: 1rem;
-  background: white;
   cursor: pointer;
-  transition: border-color 0.3s;
+  transition: border-color .2s, box-shadow .2s;
+  box-shadow: var(--shadow-sm);
 }
+.filter-select:focus { outline: none; border-color: var(--border); box-shadow: 0 0 0 2px color-mix(in oklab, var(--brand) 25%, transparent); }
 
-.filter-select:focus {
-  outline: none;
-  border-color: #4a7c59;
-}
-
-/* Clubs list styles */
 .loading, .no-results {
   text-align: center;
   padding: 3rem;
-  color: #666;
-  font-size: 1.1rem;
+  color: var(--c-muted);
+  font-size: 1.05rem;
 }
 
 .clubs-grid {
@@ -577,17 +563,17 @@ onMounted(() => {
 }
 
 .club-card {
-  background: white;
-  border-radius: 12px;
+  background: var(--c-card);
+  border-radius: 14px;
   padding: 1.5rem;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  border: 1px solid #e5e7eb;
-  transition: transform 0.3s, box-shadow 0.3s;
+  box-shadow: var(--shadow);
+  border: 1px solid var(--c-border);
+  transition: transform .2s, box-shadow .2s, border-color .2s;
 }
-
 .club-card:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  box-shadow: var(--shadow-md);
+  border-color: color-mix(in oklab, var(--brand) 35%, var(--c-border));
 }
 
 .club-header {
@@ -598,27 +584,26 @@ onMounted(() => {
 }
 
 .club-name {
-  color: #2d5a27;
-  font-size: 1.3rem;
-  font-weight: bold;
+  color: var(--c-text);
+  font-size: 1.25rem;
+  font-weight: 800;
   margin: 0;
   flex: 1;
   margin-right: 1rem;
 }
 
 .club-state {
-  background: #e8f5e8;
-  color: #2d5a27;
+  background: color-mix(in oklab, var(--brand) 20%, transparent);
+  color: color-mix(in oklab, var(--brand-strong) 85%, var(--c-text));
   padding: 0.25rem 0.75rem;
-  border-radius: 20px;
+  border-radius: 999px;
   font-size: 0.8rem;
-  font-weight: 600;
+  font-weight: 700;
   white-space: nowrap;
+  border: 1px solid color-mix(in oklab, var(--brand) 40%, transparent);
 }
 
-.club-details {
-  margin-bottom: 1rem;
-}
+.club-details { margin-bottom: 1rem; }
 
 .detail-item {
   margin-bottom: 0.75rem;
@@ -626,191 +611,95 @@ onMounted(() => {
   flex-wrap: wrap;
   gap: 0.5rem;
 }
-
 .detail-item strong {
-  color: #2d5a27;
-  font-weight: 600;
-  min-width: 80px;
+  color: var(--c-text);
+  font-weight: 700;
+  min-width: 120px;
 }
-
-.detail-item span {
-  color: #374151;
-  flex: 1;
-}
+.detail-item span { color: var(--c-muted); flex: 1; }
 
 .club-link {
-  color: #4a7c59;
+  color: var(--brand-strong);
   text-decoration: none;
   word-break: break-all;
 }
+.club-link:hover { text-decoration: underline; }
 
-.club-link:hover {
-  text-decoration: underline;
-}
-
-.club-status {
-  display: flex;
-  justify-content: flex-end;
-  margin-top: 1rem;
-}
+.club-status { display: flex; justify-content: flex-end; margin-top: 1rem; }
 
 .status-badge {
   padding: 0.4rem 0.8rem;
-  border-radius: 20px;
+  border-radius: 999px;
   font-size: 0.8rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
+  font-weight: 800;
+  letter-spacing: 0.4px;
+  border: 1px solid var(--c-border);
+  background: var(--surface);
+  color: var(--c-muted);
 }
-
 .status-badge.scheduled {
-  background: #d1fae5;
-  color: #065f46;
+  background: color-mix(in oklab, var(--brand) 18%, transparent);
+  color: color-mix(in oklab, var(--brand-strong) 85%, var(--c-text));
+  border-color: color-mix(in oklab, var(--brand) 40%, transparent);
 }
-
 .status-badge.not-applicable {
-  background: #f3f4f6;
-  color: #6b7280;
+  background: var(--surface);
+  color: var(--c-muted);
 }
 
-/* Responsive design */
-@media (max-width: 768px) {
-  .search-filters {
-    flex-direction: column;
-  }
-
-  .search-box, .filter-box {
-    min-width: 100%;
-  }
-
-  .clubs-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .meeting-card {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 1rem;
-  }
-
-  .club-header {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0.5rem;
-  }
-
-  .club-state {
-    align-self: flex-start;
-  }
-}
-
-/* Pagination styles */
 .pagination {
   margin-top: 2rem;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 1rem;
+  display: flex; flex-direction: column; align-items: center; gap: 1rem;
 }
-
-.pagination-info {
-  color: #666;
-  font-size: 0.9rem;
-}
+.pagination-info { color: var(--c-muted); font-size: .92rem; }
 
 .pagination-controls {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  flex-wrap: wrap;
-  justify-content: center;
+  display: flex; align-items: center; gap: .5rem; flex-wrap: wrap; justify-content: center;
 }
 
 .pagination-btn {
   padding: 0.5rem 1rem;
-  border: 1px solid #d1d5db;
-  background: #f9fafb;
-  color: #374151;
-  border-radius: 6px;
+  border: 1px solid var(--c-border);
+  background: var(--surface);
+  color: var(--c-text);
+  border-radius: 10px;
   cursor: pointer;
   font-size: 0.9rem;
-  font-weight: 500;
-  transition: all 0.3s;
-  min-width: 60px;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  font-weight: 700;
+  transition: background .2s, border-color .2s, transform .02s;
+  box-shadow: var(--shadow-sm);
 }
-
 .pagination-btn:hover:not(:disabled) {
-  background: #f3f4f6;
-  border-color: #9ca3af;
+  background: var(--hover);
+  border-color: color-mix(in oklab, var(--brand) 35%, var(--c-border));
 }
+.pagination-btn:active:not(:disabled) { transform: translateY(1px); }
+.pagination-btn:disabled { opacity: .55; cursor: not-allowed; }
 
-.pagination-btn:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
-  background: #f9fafb;
-}
-
-.page-label {
-  color: #374151;
-  font-size: 0.9rem;
-  font-weight: 500;
-}
-
+.page-label { color: var(--c-text); font-size: .9rem; font-weight: 700; }
 .page-input {
-  width: 60px;
-  padding: 0.5rem;
-  border: 1px solid #d1d5db;
-  border-radius: 6px;
-  text-align: center;
-  font-size: 0.9rem;
-  background: white;
-  color: #374151;
-  transition: border-color 0.3s;
+  width: 64px; padding: .5rem;
+  background: var(--c-card); color: var(--c-text);
+  border: 1px solid var(--c-border);
+  border-radius: 10px; text-align: center; font-size: .9rem;
+  transition: border-color .2s, box-shadow .2s;
 }
-
 .page-input:focus {
   outline: none;
-  border-color: #4a7c59;
-  box-shadow: 0 0 0 2px rgba(74, 124, 89, 0.1);
+  border-color: var(--border);
+  box-shadow: 0 0 0 2px color-mix(in oklab, var(--brand) 25%, transparent);
 }
+.total-pages { color: var(--c-muted); font-size: .9rem; font-weight: 700; }
 
-.total-pages {
-  color: #374151;
-  font-size: 0.9rem;
-  font-weight: 500;
-}
-
-/* Responsive pagination */
-@media (max-width: 768px) {
-  .pagination-controls {
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    justify-content: center;
-  }
-
-  .pagination-btn {
-    min-width: 50px;
-    padding: 0.4rem 0.8rem;
-  }
-
-  .page-input {
-    width: 50px;
-    padding: 0.4rem;
-  }
-}
-
-/* Community organization cards styles */
 .community-orgs {
-  background: #f8faf9;
-  border-top: 1px solid #e5e7eb;
+  background: var(--surface);
+  border-top: 1px solid var(--border-weak);
 }
 
 .section-subtitle {
   text-align: center;
-  color: #666;
-  font-size: 1.1rem;
+  color: var(--c-muted);
+  font-size: 1.05rem;
   margin-bottom: 2rem;
 }
 
@@ -822,103 +711,69 @@ onMounted(() => {
 }
 
 .org-card {
-  background: white;
+  background: var(--c-card);
   border-radius: 12px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--shadow);
   overflow: hidden;
   cursor: pointer;
-  transition: all 0.3s ease;
-  border: 1px solid #e5e7eb;
-  display: flex;
-  flex-direction: column;
-  height: 100%;
+  transition: transform .2s, box-shadow .2s, border-color .2s;
+  border: 1px solid var(--c-border);
+  display: flex; flex-direction: column; height: 100%;
 }
-
 .org-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
-  border-color: #4a7c59;
+  box-shadow: var(--shadow-md);
+  border-color: color-mix(in oklab, var(--brand) 35%, var(--c-border));
 }
 
 .org-image {
   height: 120px;
-  background: linear-gradient(135deg, #4a7c59, #2d5a27);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  overflow: hidden;
+  background: linear-gradient(
+    135deg,
+    color-mix(in oklab, var(--brand) 88%, transparent),
+    color-mix(in oklab, var(--brand-strong) 88%, transparent)
+  );
+  display: flex; align-items: center; justify-content: center;
+  position: relative; overflow: hidden;
 }
-
-.org-image img {
-  max-width: 120px;
-  max-height: 120px;
-  object-fit: contain;
-}
-
+.org-image img { max-width: 120px; max-height: 120px; object-fit: contain; }
 
 .org-content {
   padding: 1.5rem;
-  display: flex;
-  flex-direction: column;
-  flex: 1;
-  justify-content: flex-start;
+  display: flex; flex-direction: column; flex: 1; justify-content: flex-start;
 }
 
 .org-name {
-  color: #2d5a27;
-  font-size: 1.3rem;
-  font-weight: bold;
-  margin: 0 0 1rem 0;
-  line-height: 1.3;
-  min-height: 2.6rem;
+  color: var(--c-text);
+  font-size: 1.2rem;
+  font-weight: 800;
+  margin: 0 0 1rem 0; line-height: 1.3; min-height: 2.6rem;
 }
 
 .org-description {
-  color: #374151;
-  font-size: 0.95rem;
-  line-height: 1.5;
-  margin-bottom: 1rem;
-  flex: 1;
-  min-height: 4.5rem;
-  display: flex;
-  align-items: flex-start;
+  color: var(--c-muted);
+  font-size: 0.95rem; line-height: 1.5;
+  margin-bottom: 1rem; flex: 1; min-height: 4.5rem; display: flex; align-items: flex-start;
 }
-
 
 .org-link {
-  color: #4a7c59;
-  font-weight: 600;
-  font-size: 0.9rem;
-  display: flex;
-  align-items: center;
-  gap: 0.25rem;
-  transition: color 0.3s;
-  min-height: 1.5rem;
-  margin-top: auto;
+  color: var(--brand-strong);
+  font-weight: 800; font-size: 0.9rem;
+  display: flex; align-items: center; gap: .25rem;
+  transition: color .2s; min-height: 1.5rem; margin-top: auto;
 }
+.org-card:hover .org-link { color: var(--brand); }
 
-.org-card:hover .org-link {
-  color: #2d5a27;
-}
-
-/* Responsive design */
 @media (max-width: 768px) {
-  .org-cards {
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
-  }
-
-  .org-card {
-    margin: 0 1rem;
-  }
-
-  .org-name {
-    font-size: 1.2rem;
-  }
-
-  .org-description {
-    font-size: 0.9rem;
-  }
+  .search-filters { flex-direction: column; }
+  .search-box, .filter-box { min-width: 100%; }
+  .clubs-grid { grid-template-columns: 1fr; }
+  .meeting-card { flex-direction: column; align-items: flex-start; gap: 1rem; }
+  .club-header { flex-direction: column; align-items: flex-start; gap: .5rem; }
+  .club-state { align-self: flex-start; }
+  .org-cards { grid-template-columns: 1fr; gap: 1.5rem; }
+  .org-card { margin: 0 1rem; }
+  .org-name { font-size: 1.1rem; }
+  .org-description { font-size: .92rem; }
 }
 </style>
