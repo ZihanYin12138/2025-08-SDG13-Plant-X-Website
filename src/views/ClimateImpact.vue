@@ -192,7 +192,7 @@ async function loadGeoAndData() {
     } catch {}
   } catch (e) {
     console.error(e);
-    mapError.value = 'Map load fail，please try again.';
+    mapError.value = 'Map load failed, please try again.';
   }
 }
 
@@ -303,7 +303,7 @@ async function updateChart() {
       selectedState.value = 'Victoria';
       return updateChart();
     }
-    seriesError.value = `Time series loading failed：${state}`;
+    seriesError.value = `Time series loading failed: ${state}`;
     return;
   }
 

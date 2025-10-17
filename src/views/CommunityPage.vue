@@ -324,7 +324,7 @@ onMounted(() => {
         </div>
       </div>
 
-      <!-- 分页控件 -->
+      <!-- Pagination Controls -->
       <div v-if="filteredClubs.length > itemsPerPage" class="pagination">
         <div class="pagination-info">
           {{ paginationInfo }}

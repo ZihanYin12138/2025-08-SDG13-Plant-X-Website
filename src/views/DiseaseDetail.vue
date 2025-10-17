@@ -158,7 +158,7 @@ onMounted(async () => {
     </nav>
 
     <div v-if="!preload && loading">Loading…</div>
-    <p v-else-if="!preload && error" class="error">Load fail：{{ error }}</p>
+    <p v-else-if="!preload && error" class="error">Load failed: {{ error }}</p>
 
     <article v-else-if="disease" class="detail">
       <div class="top-grid">
