@@ -47,7 +47,7 @@
         </section>
       </aside>
       <transition name="fade">
-        <div v-if="detail.show" class="modal-mask" @click.self="closeDetail">
+        <div v-if="detail.show" class="modal-mask" @click.self="closeDetail" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 9999;">
           <div class="modal" role="dialog" aria-modal="true">
             <button class="modal-close" aria-label="Close" @click="closeDetail">×</button>
             <div v-if="detail.loading" class="modal-loading">
@@ -131,7 +131,7 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted, watch } from 'vue'
+import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
 import * as L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import { getAllPlantsList, getPlantsMapData, getPlantDetail } from '@/api/tpmap'
@@ -184,9 +184,8 @@ const filteredCards = computed(() => {
   return allPlants.value.filter(p => p.state === selectedState.value)
 })
 const filteredMapPoints = computed(() => {
-  const pts = unionPoints.value
-  if (selectedState.value === '__ALL__') return pts
-  return pts.filter(p => p.state === selectedState.value)
+  // 地图上的点始终显示全部，不受筛选器影响
+  return unionPoints.value
 })
 const detailStatus = computed(() =>
   detail.value?.data?.conservation?.maxStatus ||
@@ -242,17 +241,60 @@ onMounted(async () => {
     loading.value = false
   }
 })
-watch(selectedState, () => renderMarkers())
+onUnmounted(() => {
+  // 清理地图实例
+  if (map) {
+    map.remove()
+    map = null
+  }
+  if (markersLayer) {
+    markersLayer.clearLayers()
+    markersLayer = null
+  }
+  if (focusRing) {
+    focusRing.remove()
+    focusRing = null
+  }
+  idToMarker.clear()
+})
+// 监听筛选器变化，聚焦到选中的州
+watch(selectedState, () => focusOnSelectedState())
 function initMap() {
-  map = L.map('tp-map', { zoomControl: true, attributionControl: true })
-  map.setView([-25.2744, 133.7751], 4)
-  if (map.attributionControl?.setPrefix) map.attributionControl.setPrefix('')
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '© OpenStreetMap contributors'
-  }).addTo(map)
-  markersLayer = L.layerGroup().addTo(map)
-  setTimeout(() => map.invalidateSize(), 150)
+  // 检查地图是否已经初始化
+  if (map) {
+    console.warn('Map already initialized, skipping...')
+    return
+  }
+  
+  // 检查DOM元素是否存在
+  const mapContainer = document.getElementById('tp-map')
+  if (!mapContainer) {
+    console.error('Map container not found')
+    return
+  }
+  
+  // 检查容器是否已经被Leaflet使用
+  if (mapContainer._leaflet_id) {
+    console.warn('Map container already has Leaflet instance, cleaning up...')
+    // 清理现有的Leaflet实例
+    mapContainer._leaflet_id = null
+    // 清空容器内容
+    mapContainer.innerHTML = ''
+  }
+  
+  try {
+    map = L.map('tp-map', { zoomControl: true, attributionControl: true })
+    map.setView([-25.2744, 133.7751], 4)
+    if (map.attributionControl?.setPrefix) map.attributionControl.setPrefix('')
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map)
+    markersLayer = L.layerGroup().addTo(map)
+    setTimeout(() => map.invalidateSize(), 150)
+  } catch (error) {
+    console.error('Error initializing map:', error)
+  }
 }
 function renderMarkers() {
   if (!markersLayer) return
@@ -293,6 +335,7 @@ function renderMarkers() {
           return
         }
         btn.addEventListener('click', (ev) => {
+          console.log('Detail button clicked for plant ID:', p.id)
           ev.preventDefault()
           ev.stopPropagation()
           openDetail(p.id)
@@ -313,19 +356,62 @@ function renderMarkers() {
     } catch {}
   }
 }
+function focusOnSelectedState() {
+  if (!map || selectedState.value === '__ALL__') {
+    // 如果选择"全部"，显示整个澳大利亚
+    map.setView([-25.2744, 133.7751], 4)
+    return
+  }
+  
+  // 获取选中州的植物点
+  const statePoints = unionPoints.value.filter(p => p.state === selectedState.value)
+  
+  if (statePoints.length === 0) {
+    // 如果没有该州的点，显示整个澳大利亚
+    map.setView([-25.2744, 133.7751], 4)
+    return
+  }
+  
+  // 计算该州所有点的边界
+  const bounds = L.latLngBounds()
+  statePoints.forEach(point => {
+    if (point.latitude && point.longitude) {
+      bounds.extend([point.latitude, point.longitude])
+    }
+  })
+  
+  if (bounds.isValid()) {
+    // 聚焦到该州的边界，添加一些边距
+    map.fitBounds(bounds, { 
+      padding: [20, 20],
+      maxZoom: 8  // 限制最大缩放级别，避免过度放大
+    })
+  }
+}
 function openPopupForPlant(id) {
   const m = idToMarker.get(String(id))
   if (!m) return false
   try { m.openPopup(); return true } catch { return false }
 }
 async function openDetail(id) {
+  console.log('Opening detail for plant ID:', id)
   detail.value.show = true
   detail.value.loading = true
   detail.value.error = null
   detail.value.id = id
   detail.value.data = null
+  
+  // 强制触发响应式更新
+  await new Promise(resolve => setTimeout(resolve, 0))
+  
+  // 添加调试信息
+  console.log('Detail show state:', detail.value.show)
+  console.log('Detail loading state:', detail.value.loading)
+  
   try {
+    console.log('Fetching plant detail for ID:', id)
     const res = await getPlantDetail(id)
+    console.log('API response:', res)
     const plant = res?.plant ?? res?.data ?? res
     const fromList =
       allPlants.value.find(x => String(x.id) === String(id)) ||
@@ -334,12 +420,14 @@ async function openDetail(id) {
     if (!merged.latitude && plant?.location?.latitude) merged.latitude = plant.location.latitude
     if (!merged.longitude && plant?.location?.longitude) merged.longitude = plant.location.longitude
     detail.value.data = merged
+    console.log('Final detail data:', detail.value.data)
     highlightOnMap(detail.value.data)
   } catch (e) {
-    console.error(e)
+    console.error('Error loading plant detail:', e)
     detail.value.error = 'Failed to load plant detail.'
   } finally {
     detail.value.loading = false
+    console.log('Detail loading completed, show:', detail.value.show)
   }
 }
 function closeDetail() {

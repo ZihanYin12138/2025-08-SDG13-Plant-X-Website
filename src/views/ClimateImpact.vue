@@ -137,8 +137,15 @@ onMounted(async () => {
   initMap();
   await loadGeoAndData();
   await nextTick();
-  initChart();
-  await updateChart();
+  // 延迟初始化图表，确保DOM完全准备好
+  setTimeout(async () => {
+    try {
+      await initChart();
+      await updateChart();
+    } catch (error) {
+      console.error('Chart initialization failed:', error);
+    }
+  }, 100);
   window.addEventListener('resize', resizeAll, { passive: true });
 });
 onBeforeUnmount(() => {
@@ -246,15 +253,46 @@ async function refreshYear() {
 // ---- chart ----
 async function initChart() {
   await nextTick();
-  if (!lineRef.value || !(lineRef.value instanceof HTMLElement)) {
-    throw new Error('Initialize failed: invalid dom (lineRef missing).');
+  
+  // 检查DOM元素是否存在
+  if (!lineRef.value) {
+    console.warn('lineRef not available, retrying...');
+    await new Promise(resolve => setTimeout(resolve, 50));
+    if (!lineRef.value) {
+      throw new Error('Initialize failed: invalid dom (lineRef missing).');
+    }
   }
-  if (!lineChart) lineChart = echarts.init(lineRef.value);
+  
+  if (!(lineRef.value instanceof HTMLElement)) {
+    throw new Error('Initialize failed: lineRef is not a valid HTMLElement.');
+  }
+  
+  // 检查元素是否有尺寸
+  if (lineRef.value.clientWidth === 0 || lineRef.value.clientHeight === 0) {
+    console.warn('Chart container has no dimensions, waiting...');
+    await new Promise(resolve => setTimeout(resolve, 100));
+  }
+  
+  if (!lineChart) {
+    try {
+      lineChart = echarts.init(lineRef.value);
+    } catch (error) {
+      console.error('ECharts initialization failed:', error);
+      throw error;
+    }
+  }
 }
 
 async function updateChart() {
   seriesError.value = '';
   const state = selectedState.value || 'National';
+  
+  // 检查图表实例是否存在
+  if (!lineChart) {
+    console.warn('Chart not initialized, skipping update');
+    return;
+  }
+  
   try {
     if (!tsCache.has(state)) {
       const arr = await fetchStateTimeseries(state);

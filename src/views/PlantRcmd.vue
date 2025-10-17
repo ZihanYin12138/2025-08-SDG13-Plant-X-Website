@@ -380,8 +380,8 @@ onMounted(async () => {
     attributionControl: true
   })
 
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; OpenStreetMap contributors'
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap © CARTO'
   }).addTo(map)
 
   // Click on the map: directly submit coordinates and trigger a request; clicks are invalid before loading is complete
