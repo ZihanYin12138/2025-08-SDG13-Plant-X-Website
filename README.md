@@ -6,7 +6,7 @@
 
 ## 📎 Links
 
-📄 **Website URL**: https://www.plantx.me/
+📄 **Website URL**: https://www.plantx.me/  
 📄 **中文版README**: [`README.zh.md`](README.zh.md)  
 📑 **Product Document**: [Product_Document.pdf](04_handover_package/Product_Document.pdf)  
 📑 **Support Document**: [Support_Document.pdf](04_handover_package/Support_Document.pdf)  
@@ -292,5 +292,5 @@ Distributed under the [MIT License](LICENSE).
 
 ---
 
-*This project is part of Monash University’s **FIT5120 Industry Experience Studio Project**, **Semester 2, 2025**;   
+*This project is part of Monash University’s **FIT5120 Industry Experience Studio Project**, **Semester 2, 2025**;     
 Delivered via an agile, open process across **three iterations**.*

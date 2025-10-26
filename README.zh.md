@@ -6,7 +6,7 @@
 
 ## 📎 相关链接
 
-📄 **网站链接**: https://www.plantx.me/
+📄 **网站链接**: https://www.plantx.me/  
 📄 **英文版README**: [`README.md`](README.md)  
 📑 **项目产品文档**：[Product_Document.pdf](04_handover_package/Product_Document.pdf)  
 📑 **项目支持文档**：[Support_Document.pdf](04_handover_package/Support_Document.pdf)  
@@ -303,5 +303,5 @@
 
 ---
 
-*本项目为莫纳什大学 **FIT5120 Industry Experience Studio Project** 课程 **2025 年 S2** 实习项目； 
+*本项目为莫纳什大学 **FIT5120 Industry Experience Studio Project** 课程 **2025 年 S2** 实习项目；   
 遵循敏捷性开放流程，共进行了 **3 次迭代**。*
