@@ -1,6 +1,15 @@
-# 可持续园艺平台（Sustainable Urban Gardening Platform）
+# 2025-08 SDG13 Plant'X Website (可持续园艺平台)
 
 > 面向澳大利亚园艺爱好者的可持续种植与生态认知平台。项目通过三次迭代逐步实现：入门引导与植物检索、病害识别与气候适配推荐、濒危物种与气候趋势可视化，以及社区联结功能。
+
+---
+
+## 📎 相关链接
+
+📄 **英文版README**: [`README.md`](README.md)  
+📑 **项目产品文档**：[Product_Document.pdf](04_handover_package\Product_Document.pdf)  
+📑 **项目支持文档**：[Support_Document.pdf](04_handover_package\Support_Document.pdf)  
+📑 **项目维护文档**：[Maintenance_Document.pdf](04_handover_package\Maintenance_Document.pdf) 
 
 ---
 
@@ -69,17 +78,12 @@
 
 ---
 
-## 🧱 系统架构与安全（随迭代演进）
+## 🔧 技术与实现要点（摘要）
 
-* **架构演进**：
-
-  * 迭代 1：前后端通过 API Gateway 连接，算法与数据库私有连通，**后端承担较多计算**。
-  * 迭代 2：转向**API 中心**与 **Serverless** 设计：API Gateway + **AWS Lambda** 承载算法，前端静态资源与对象（如病害图片）存储于 **S3**，并用 **CloudFront** 加速；数据库配合 **Secrets Manager/KMS** 加固，API 与 Lambda/S3 直连以优化数据流。
-* **安全策略**：
-
-  * 迭代 1：以网络边界为主（VPC、子网、端口白名单等）。
-  * 迭代 2：转向 **API 级**安全：API Gateway **限流/配额**、Usage Plan、API Key；引入 **AWS Shield**（标准/高级）以防 DDoS；
-  * 设计动因：外部直接暴露 API 后，主要风险从边界威胁转为 **接口滥用与拒绝服务**，需 API 侧针对性缓解。
+* **云与服务**：AWS（API Gateway、Lambda、S3、CloudFront、RDS/KMS/Secrets Manager）
+* **AI/ML**：基于病害图片的**图像识别**与 Top-K 预测概率可视化；
+* **可视化**：交互地图（分布、分级着色与时间滑块）、联动卡片/趋势图；
+* **可用性**：移动端友好、图标/提示与可展开区块，降低新手理解门槛。
 
 ---
 
@@ -95,14 +99,14 @@
 **迭代 2**（病害/天气/城市林业）：
 
 * Perenual API（病害**描述/解决方案** & **病害图片**）→ 训练/检索
-* Open‑Meteo（未来 16 天天气汇总，API）→ 气候适配推荐
+* Open-Meteo（未来 16 天天气汇总，API）→ 气候适配推荐
 * City of Melbourne Urban Forest（CSV）→ 城市物种地图
 * The Australian Threatened Species Index（CSV）→ 可持续实践内容增强
 
 **迭代 3**（濒危/历史气候/边界/社团）：
 
 * Perenual + City of Melbourne（通用+濒危植物，API/HTML → CSV）
-* Open‑Meteo 历史天气（API）
+* Open-Meteo 历史天气（API）
 * ABS 州界（SHP）
 * Garden Clubs of Australia（CSV）
 
@@ -110,12 +114,17 @@
 
 ---
 
-## 🔧 技术与实现要点（摘要）
+## 🧱 系统架构与安全（随迭代演进）
 
-* **云与服务**：AWS（API Gateway、Lambda、S3、CloudFront、RDS/KMS/Secrets Manager）
-* **AI/ML**：基于病害图片的**图像识别**与 Top‑K 预测概率可视化；
-* **可视化**：交互地图（分布、分级着色与时间滑块）、联动卡片/趋势图；
-* **可用性**：移动端友好、图标/提示与可展开区块，降低新手理解门槛。
+* **架构演进**：
+
+  * 迭代 1：前后端通过 API Gateway 连接，算法与数据库私有连通，**后端承担较多计算**。
+  * 迭代 2：转向**API 中心**与 **Serverless** 设计：API Gateway + **AWS Lambda** 承载算法，前端静态资源与对象（如病害图片）存储于 **S3**，并用 **CloudFront** 加速；数据库配合 **Secrets Manager/KMS** 加固，API 与 Lambda/S3 直连以优化数据流。
+* **安全策略**：
+
+  * 迭代 1：以网络边界为主（VPC、子网、端口白名单等）。
+  * 迭代 2：转向 **API 级**安全：API Gateway **限流/配额**、Usage Plan、API Key；引入 **AWS Shield**（标准/高级）以防 DDoS；
+  * 设计动因：外部直接暴露 API 后，主要风险从边界威胁转为 **接口滥用与拒绝服务**，需 API 侧针对性缓解。
 
 ---
 
@@ -132,41 +141,165 @@
 
 ---
 
-## 📎 相关链接
+## 📝 版本记录（里程碑）
 
-* 项目看板（Leankit）：`https://monashie.leankit.com/board/2334429820`
-* 治理文档：见项目文档集合/附件
+* **v1**：平台愿景与基础检索（迭代 1）
+* **v2**：病害识别 / 天气-适配推荐 / 城市生态（迭代 2）
+* **v3**：濒危分布 / 气候-物种趋势 / 社区（迭代 3）
 
 ---
 
-## 🧭 仓库结构（建议）
-
-> 遵循你偏好的前缀规则（`01_`, `02_` …）以便评审与展示。
+## 🧭 仓库结构
 
 ```plaintext
-├─ 01_docs/                 # 迭代报告与治理材料（精简版与原稿）
-│  ├─ iteration1/
-│  ├─ iteration2/
-│  └─ iteration3/
-├─ 02_data/                 # 数据目录（原始/加工/特征/发布）
-│  ├─ raw/
-│  ├─ interim/
-│  ├─ curated/
-│  └─ external_refs/
-├─ 03_api/                  # 后端 / API（Gateway + Lambda 接口定义与代码）
-├─ 04_web/                  # 前端（地图/检索/可视化/社区）
-├─ 05_models/               # 病害识别与推荐模型（训练/推理/评测）
-├─ 06_ops_security/         # IaC/部署脚本/安全与速率限制配置
-├─ README.md                # 英文版
-└─ README.zh.md             # 本文件
+📦2025-08-SDG13-PLANT-X-WEBSITE
+├─ 📂.vscode
+│  ├─ extensions.json
+│  └─ settings.json
+│
+├─ 📂01_data_wrangling                           ⟶ 数据原始集、清洗结果与处理脚本
+│  ├─ 📂01_raw_data
+│  │  ├─ 📂01_species_details                    ⟶ 物种详情 JSON（大量、按编号命名）
+│  │  ├─ 📂02_care_guide                         ⟶ 物种养护指南 JSON（大量）
+│  │  ├─ 📂03_hardiness_map                      ⟶ 物种耐寒/分布 HTML（大量）
+│  │  ├─ 📂04_plant_diseases                     ⟶ 病害 JSON（1–100+）
+│  │  ├─ 📂05_thumbnail_image                    ⟶ 物种缩略图 JPG（大量）
+│  │  └─ 📂06_tsx_table_vic                      ⟶ 各州/国家 TSX CSV 原始表
+│  │  ├─ 01_threatened-plant-living-collection-plan.csv
+│  │  ├─ 02_tsx-aggregated-data-dataset_for_vic_plants.csv
+│  │  ├─ 03_TSX 2024 Data Dictionary.pdf
+│  │  ├─ 04_urban-forest.csv
+│  │  ├─ 05_STE_2021_AUST_SHP_GDA2020.zip           ⟶ 地理边界数据
+│  │  └─ 06_tsx-aggregated-data-dataset_for_aus_plants.csv
+│  ├─ 📂02_wrangled_data                         ⟶ 清洗后的主表（用于前后端/模型）
+│  │  ├─ Table01_PlantMainTable.csv
+│  │  ├─ Table02_GeneralPlantDescriptionTable.csv
+│  │  ├─ Table03_GeneralPlantCareGuideTable.csv
+│  │  ├─ Table04_GeneralPlantDistributionMapTable.csv
+│  │  ├─ Table05_GeneralPlantImageTable.csv
+│  │  ├─ Table06_ThreatenedPlantDescriptionTable.csv
+│  │  ├─ Table07_ThreatenedPlantCareGuideTable.csv
+│  │  ├─ Table09_PlantDiseaseTable.csv
+│  │  ├─ Table10_PlantDiseaseImageTable.csv
+│  │  ├─ Table11_PlantDiseaseLinkTable.csv
+│  │  ├─ Table12_UrbanForestTable.csv
+│  │  ├─ Table13_GeneralPlantListforRecommendation.csv
+│  │  ├─ Table14_TSX_Table_VIC_version{1..4}.csv ⟶ TSX 省级聚合版本
+│  │  ├─ Table15_StateShapeTable.csv
+│  │  ├─ Table16_TSX_SpeciesMonitoringTable.csv
+│  │  └─ Table17_AustralianGardenClubTable.csv
+│  ├─ .cache.sqlite                              ⟶ 数据下载/清洗缓存
+│  ├─ 01_download_plant_species_details_data.ipynb    ⟶ 下载物种详情数据
+│  ├─ 02_download_plant_species_care_guide_data.ipynb ⟶ 下载物种养护指南
+│  ├─ 03_download_plant_species_hardiness_map.ipynb   ⟶ 下载耐寒/分布地图
+│  ├─ 04_download_plant_disease_data.ipynb            ⟶ 下载植物病害数据
+│  ├─ 05_wrangle_for_Table06_Table07.ipynb            ⟶ 清洗表06 & 表07（受威胁物种描述/养护）
+│  ├─ 06_wrangle_for_Table01_PlantMainTable.ipynb     ⟶ 清洗表01（植物主表）
+│  ├─ 07_wrangle_for_Table02_GeneralPlantDescriptionTable.ipynb     ⟶ 清洗表02（通用描述）
+│  ├─ 08_wrangle_for_Table03_GeneralPlantCareGuideTable.ipynb       ⟶ 清洗表03（通用养护）
+│  ├─ 09_wrangle_for_Table04_GeneralPlantDistributionMapTable.ipynb ⟶ 清洗表04（分布地图）
+│  ├─ 10_wrangle_for_Table05_GeneralPlantImageTable.ipynb           ⟶ 清洗表05（图像）
+│  ├─ 11_wrangle_for_Table09_Table10.ipynb                          ⟶ 清洗表09 & 表10（病害及图片）
+│  ├─ 12_wrangle_for_Table11_PlantDiseaseLinkTable.ipynb            ⟶ 清洗表11（病害外链）
+│  ├─ 13_wrangle_for_Table12_UrbanForestTable.ipynb                 ⟶ 清洗表12（城市森林）
+│  ├─ 14_wrangle_for_Table13_GeneralPlantListforRecommendation.ipynb⟶ 清洗表13（推荐用植物清单）
+│  ├─ 15_wrangle_for_Table14_ThreatenedSpeciesIndexTable.ipynb      ⟶ 清洗表14（受威胁物种指数）
+│  ├─ 16_wrangle_for_Table14_TSX_Table_VIC.ipynb               ⟶ 清洗表14（VIC TSX 版本）
+│  ├─ 17_wrangle_for_Table15_StateShapeTable.ipynb             ⟶ 清洗表15（州界形状）
+│  ├─ 18_wrangle_for_Table16_TSX_SpeciesMonitoringTable.ipynb  ⟶ 清洗表16（物种监测）
+│  └─ 19_wrangle_for_Table17_AustralianGardenClubTable.ipynb   ⟶ 清洗表17（澳洲园艺俱乐部）
+│
+├─ 📂02_backend                                  ⟶ 复用工具与（Lambda）服务端代码
+│  ├─ 📂common
+│  │  ├─ config.py / db_utils.py / http_utils.py / s3_utils.py ⟶ 基础工具
+│  │  └─ index.py / __init__.py
+│  └─ 📂lambdas
+│     ├─ 📂assets
+│     │  ├─ app.py                                ⟶ 静态资源/文件处理 Lambda 入口
+│     │  └─ requirements.txt
+│     └─ 📂gardening_clubs
+│        └─ 📂common (同上结构)                   ⟶ 园艺俱乐部相关后端共享代码
+│
+├─ 📂03_machine_learning_models
+│  ├─ 📂01_plant_image_recognition               ⟶ 植物图像检索/识别（CLIP）
+│  │  ├─ 📂clip-vit-b32                          ⟶ 分词器/预处理配置
+│  │  ├─ 📂index (embeddings_fp16.npz, meta.json)⟶ 预建索引
+│  │  ├─ 📂test_images                           ⟶ 测试图像样例（无需列名）
+│  │  ├─ 01_plant_image_embedding.ipynb          ⟶ 向量化
+│  │  ├─ 02_plant_image_query.{ipynb,py}         ⟶ 相似检索/查询
+│  │  └─ requirements.txt
+│  ├─ 📂02_plant_disease_recognition             ⟶ 病害分类（PyTorch）
+│  │  ├─ 📂test_images                           ⟶ 测试图像样例
+│  │  ├─ model.pth                               ⟶ 训练好的权重
+│  │  ├─ 01_plant_disease_training.ipynb         ⟶ 训练脚本
+│  │  ├─ 02_plant_disease_query.{ipynb,py}       ⟶ 推理脚本
+│  │  ├─ Dockerfile / lambda_function.py         ⟶ 部署（容器 & 无服）
+│  │  ├─ class_map.json / Table11_*.csv          ⟶ 类别映射与链接表
+│  │  └─ requirements.txt / kaggle.json          ⟶ 依赖与数据凭据
+│  ├─ 📂03_plant_recommendation_system
+│  │  ├─ 01_plant_recommendation.{ipynb,py}      ⟶ 基于表13的推荐
+│  │  └─ Table13.csv
+│  ├─ 📂04_tsx_trend_prediction                  ⟶ TSX 趋势/可视化/后端联调
+│  │  ├─ 01_tsx_trend_prediction.ipynb
+│  │  ├─ 02_upload_table14_to_mysql.ipynb        ⟶ 数据入库
+│  │  ├─ 03_epic7_backend_local.ipynb
+│  │  ├─ 04_epic7_backend_{local,sql}.py         ⟶ 本地/SQL 版后端
+│  │  ├─ Table14_TSX_Table_VIC_version{3,4}.csv
+│  │  └─ Table15_StateShapeTable.csv
+│  └─ 📂05_ml_workflow_description                ⟶ 模型工作流文档（中/英 + 图片）
+│     ├─ 📂images (2_01.png, 4_01~4_08.png)
+│     ├─ 01_plant_image_recognition_{en,zh}.{md,pdf}
+│     ├─ 02_plant_disease_recognition_{en,zh}.{md,pdf}
+│     └─ 03,04_*_{en,zh}.{md,pdf}
+│
+├─ 📂public
+│  └─ weblogo.svg
+│
+├─ 📂src                                         ⟶ 前端（Vue + Vite）
+│  ├─ 📂api
+│  │  ├─ http.ts                                 ⟶ Axios/请求封装
+│  │  ├─ plants.ts / plantrcmd.js                ⟶ 植物列表 & 推荐接口
+│  │  ├─ pdisease.js / DiseaseUpload.js          ⟶ 病害查询/上传
+│  │  ├─ climateimpact.js                        ⟶ 气候影响/TSX 接口
+│  │  ├─ tpmap.js / trees.js                     ⟶ 分布/树木数据接口
+│  │  └─ uploads.ts                              ⟶ 通用上传
+│  ├─ 📂assets                                   ⟶ 静态图片/样式（大量）
+│  │  └─ styles.css / logo.svg / …               ⟶ 关键资源
+│  ├─ 📂components
+│  │  ├─ 📂icons (Icon*.vue)                     ⟶ 通用图标组件
+│  │  ├─ NavBar.vue / FooterBar.vue              ⟶ 全局导航/页脚
+│  │  ├─ ThemeToggle.vue                         ⟶ 主题切换
+│  │  ├─ PlantCard.vue / PdiseaseCard.vue        ⟶ 列表卡片
+│  │  └─ CardSkeleton.vue                        ⟶ 骨架屏
+│  ├─ 📂router/Router.js                         ⟶ 路由定义
+│  ├─ 📂views                                    ⟶ 页面视图
+│  │  ├─ HomePage.vue                            ⟶ 首页
+│  │  ├─ PlantSearch.vue / PlantDetail.vue
+│  │  ├─ PlantRcmd.vue                           ⟶ 植物推荐
+│  │  ├─ DiseaseSearch.vue / DiseaseDetail.vue
+│  │  ├─ UrbanMap.vue / UrbanThreaten.vue        ⟶ 城市森林/受威胁展示
+│  │  ├─ TPmapping.vue                           ⟶ 物种分布（耐寒/地图）
+│  │  ├─ ClimateImpact.vue                       ⟶ TSX/趋势影响
+│  │  └─ CommunityPage.vue / GardenPage.vue
+│  ├─ App.vue / main.js                          ⟶ 应用入口
+│  ├─ env.d.ts                                   ⟶ TS 环境声明
+│  └─ vite.config.js                             ⟶ 构建配置（前端）
+│
+├─ .editorconfig / .env / .gitattributes / .gitignore / .prettierrc.json
+├─ dist.zip                                      ⟶ 打包产物（快照）
+├─ eslint.config.js / jsconfig.json / tsconfig.json
+├─ index.html                                    ⟶ 应用模板页
+├─ package.json / package-lock.json              ⟶ 依赖与脚本
+├─ README.md
+└─ vite.config.js                                ⟶ 构建配置（根级，同名于 src 内）
 ```
 
 ---
 
-## 📝 版本记录（里程碑）
+## 📄 协议
 
-* **v1**：平台愿景与基础检索（迭代 1）
-* **v2**：病害识别 / 天气‑适配推荐 / 城市生态（迭代 2）
-* **v3**：濒危分布 / 气候‑物种趋势 / 社区（迭代 3）
+本项目以 [MIT License](LICENSE) 协议分发。
 
-> 若需要，我可以根据代码现状继续细化「运行步骤、环境依赖、部署说明」与「API 规范」。
+---
+
+*本项目为莫纳什大学 **FIT5120 Industry Experience Studio Project** 课程 **2025 年 S2** 实习项目；遵循敏捷性开放流程，共进行了 **3 次迭代**。*
