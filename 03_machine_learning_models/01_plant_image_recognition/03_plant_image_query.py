@@ -128,3 +128,4 @@ if __name__ == "__main__":
 
 # Test command example:
 # python 03_plant_image_query.py --image test_images/wechat_image_20250903174840_68_7.jpg --k 10 --tta 8 --json
+# python 03_plant_image_query.py --image test_images/fdghjmhgferghthjkhgf.jpg --k 10 --tta 8 --json
