@@ -2,14 +2,14 @@
   "model_id": "openai/clip-vit-base-patch32",
   "model_local_dir": "clip-vit-b32",
   "embedding_dim": 512,
-  "num_classes": 541,
+  "num_classes": 1319,
   "num_augs_per_class": 20,
-  "built_at": "2025-09-03 16:20:00",
+  "built_at": "2025-10-26 16:03:30",
   "device_used": "cuda",
   "seed": 42,
   "preprocess": {
     "center_crop": true,
-    "note": "Aligned with CLIPProcessor default preprocessing; online queries must match exactly"
+    "note": "Aligned with CLIPProcessor defaults; online queries must match"
   },
   "similarity": "cosine (via dot on L2-normalized vectors)"
 }
